@@ -1,5 +1,5 @@
 # Seen Unseen transcripts
-Transcriptions of the seenunseen.in podcast episodes. `Note:` All transcription and speaker tagging were done automatically and may contain errors.
+Transcriptions of the [seenunseen.in](https://seenunseen.in/) podcast by Amit Varma. `Note:` All transcription and speaker tagging were done automatically and may contain errors.
 
 ## Method
 
