@@ -1,0 +1,772 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "Quote, video transmissions, cellular phones, fax machines, computer networks. Stop quote. In the 27 years since then, it would seem that the threats to reading have multiplied exponentially. There is so much competing for our attention, much of it within the endless black mirror of our smartphones. Physical printed books, in fact, were under threat from e-books, which were supposed to have made paperbacks and hardcovers entirely redundant. And yes, there are some signs that the world of books and reading has changed massively, such as the disappearance of bookstores in most of our cities, a matter I cannot stop lamenting. And yet, it seems that the publishing business worldwide is in pretty good health. Latest figures showed that printed book sales in the USA have increased year on year for the last four years. And publishing in India also seems to be doing pretty well. And I have gotten a small sense of this in the course of the 150 episodes that I have recorded of The Seen and The Unseen. Now, you would have thought that podcasts also would threaten the act of reading, but over the three years of recording the show, I found that there's a hunger for knowledge and intelligent discourse out there that is leading people not just to the two hour plus conversations on this podcast, but also to read more and more books. I constantly get messages from listeners about how they are reading more because of the books I discuss on the show. And that is a matter worth exploring."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:54.880",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Bharma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:02.240",
+        "message": "Welcome to The Seen and The Unseen. My guest today is VK Karthikeya, and I hope she won't mind it if I call her one of the giants of Indian publishing. She began at Penguin in 1996, left to take charge at HarperCollins a decade later, which she ran for yet another decade. And she is now a publisher at Westland. In this time, she's been a player in the evolution of India's publishing industry, and has watched not just our reading habits change, but also our society. I've been trying to put this conversation together for a long time. But before we get to it, let's take a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India, and adapts them into objects of everyday use. These include wearable art, like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vazvo X Vazvo, Brinda Miller, Dilip Sharma, Shruti Nelson, and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to IndianColors.com. That's colors with an O-U. And if you want a 20% discount, apply the code IVM20. That's I-V-M for IVM Podcast. That's IVM20 for a 20% discount at IndianColors.com. Karthika, welcome to the scene and the unseen. Thank you. Before we get down to the business of books, tell me a little bit about how you happen to come into publishing to begin with, because it's not like a conventional career choice that one really has. So how did that happen?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:06.520",
+        "message": "I think like with most people, it happened entirely by accident. I was looking for something to do, you know, how in the what I'm talking about, the late 80s, early 90s, when I was in university, I was in the University of Hyderabad doing an MA and MPhil. Then I came to JNU to do a PhD."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:24.600",
+        "message": "This was all in quest of what to do next. So you're an early anti-national."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:27.920",
+        "message": "I am a total anti-national, past, present, future. And being in JNU was like a brilliant experience, but it showed me nothing of what I could do for myself to make a living or to find a vocation or any such thing, because there really wasn't very much out there for a literature postgraduate who did not want to teach. I did try teaching for a semester. They make you do that when you get a fellowship. They say go earn your keep. So you have to do that. And I loved it. But I also did not like the idea of going back to that same space semester after semester. I thought it wasn't for me. I have great respect for people who can do that and keep their energy alive and reinvent themselves every term. But I didn't think it was for me. So it was like, you know, am I a journalist? Am I going to be? What am I going to be? There was very little television. My fellow JNUites were just beginning to get into that early television stage. So Ashutosh, for instance, was in the hostel next door and he was seeing this friend of mine whom he eventually married. And everyone was talking about this new Ajtak that was coming up. It was really new. Everything was fresh and unknown. But I couldn't see myself in that either. So a friend of mine went and did a copyedit test at Penguin. And he said, I didn't get it. But you know, you know the language well enough to maybe get in. And I thought, hey, that's a luck. I have to show him I'm better than him maybe. And I'll go do this thing. And I went off to this office in Nehru Place. I wasn't a Delhi. I'm not a Delhi person. I'm like never lived there before I came to JNU. So anyway, I went looking for it. I went and did a test. And then they called me back for an interview. And David Davidar was the publisher then. So he did an interview as well. And they said, come and join. And I had this little wager with myself. I said, if the money they give me is more than what I'm getting as my UGC fellowship, then I'll take it. Otherwise, obviously not. What's the point? I don't even know what this job is about. They offered me 500 rupees more. And I said, oh, that's not bad. Let me go and do this. So I went to check it out. And that first week was amazing because it was like falling into the right place without any idea that there was even such a place out there. And by Friday evening, I remember vividly thinking to myself, this is it. I just want to do this for the rest of my life. And I was darn lucky that that happened. So that's how I fell into publishing and never left."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:05.280",
+        "message": "And I guess one reason why publishing would have seemed such a fit for you was because I presume you were already someone who loved books. You know, tell me a little bit about that. Like, how did you start reading? What were the circumstances which allowed you to sort of become an avid reader? What kind of books did you read? Who were the authors you enjoyed reading at that time?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:25.440",
+        "message": "I guess it was my mother. You know, in Kerala, when you're growing up, there's a lot of reading that happens outside of comfort zones. I mean, people read in Malayalam, but they also read in English. And I remember my mother had these books, she used to go to the H wheeler stand at the railway station, because that was where their books were. Either you had them in the library, like in the village library or the town library or whatever. If you lived in a city, then you had a bigger one. But you had a lot of libraries in Kerala. And then you had the H wheeler guys. And mom would go to the station and buy those H wheeler stamp two rupee paperbacks to her two rupees 50 paisa paperbacks. I still remember seeing those and they're still at home. But they would be random books like there would be Maxim Gorky, a lot of Maxim Gorky for some reason, there was the usual Agatha Christie and things like that that came up later. There was a lot of Russian stuff because you remember there were Russian books that were very popular in India at that time and very cheap. So there was a lot of reading of literature that came, strangely enough, a lot of it in translation into English, but read by us as though it was always just English. And I think I grew up with that cupboard of books, which was my mother's and just read everything that was in it. I also remember reading my first Harold Robbins, which my mother quickly grabbed from me and said never again, do not read these books. I was like, if you can read them, why can't I read them? But those were like really innocent days where you just read what you got and you were satisfied with that or you went into the library seeking what you could. So from there, I also remember that my school in Hyderabad had a large library, which for some reason, apart from the Russian, the mother, the Quiet Flows the Dawn, like we devoured those. I cannot imagine a child in school now reading 500 pages of Quiet Flows the Dawn. There's no reason to, right? But we had no choice, what was there we read. And I remember discovering Louis L'Amour. It was fantastic. I mean, there was this rock star cowboy on a horse going out and conquering the frontiers. And the strange thing is, when you look back, how little one understood the politics of it, right? You read Louis L'Amour and you thought this guy was a hero, this white man on a horse was just like doing all the right things. And those so-called red Indians were the guys who, well, it's okay for them to go because they were primitive. And it's so much later that wisdom dawns and you understand what you were absorbing without any sense of the world outside of your own little, you know, home and school and library. But I think what it did was, it just gave all of us in my generation who are lucky enough to have those libraries, reading across the world, roaming the world in these ways without any baggage. Nobody told us what was right. Nobody told us what was wrong. We had no theory backing us or supporting us. So we just took what we could and we made what we could of it. I'm really grateful I have that. Now when I tell my kids, why aren't you reading this or that or the other, and they have very solid reasons for why they should do because they have all that armory around them. We had nothing. So I guess we were one of the first generations of people who read in English in that way world literature available to us. So that's where it began, I guess, my reading."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:55.560",
+        "message": "No, and I'm just thinking about like, I'm also an 80s kid as partly you are, I guess. And I had JP Narayan, the politician on the show before this, and he was speaking about growing up in a village in the 60s and then sort of studying in Hyderabad again, like you did in the 70s. And one of the things that sort of struck me was how a lot of us as individuals and therefore how society in large is also shaped by the influences we have available to us. For example, today, any kid today, your kids, for example, have all the knowledge of the world available to them. In our times, we didn't really have that. And you know, you have your typical cultural influences, you have that one TV station, which is Doordarshan and you have your All India Radio and for those who are lucky enough to listen to BBC, and then you have books. And even within that world of books, it strikes me that from what I remember is that there would be a very cliched sort of set of books, which would be standard to the growing up. Like I'm sure both you and I grew up reading say, Ennett Blyton, of course, you know, Hardy"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:12:00.280",
+        "message": "Boys and you know, Tintin and Asterix would have been a treat for us."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:05.080",
+        "message": "And how therefore, you know, that becomes almost by happenstance, because there's no particular reason only those books are available and not so much else. But almost by happenstance, that almost becomes a sort of the bedrock of our thinking. And it's all kind of..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:19.360",
+        "message": "Yeah, in my case, it was I realized also that my father was an educationist, he was the principal of a school. And so when I started the first time he actually came and gave me a book to read, which was kind of chosen was Ennett Blyton, because I had chicken pox, I was lying in bed and I couldn't do anything and he gave me the famous five. And I just never wanted to get out of bed after that, because every day I wanted another and another and another. And that kind of discovery of the word that because you're talking about television and radio, we had like no television at all in those days. What we did have was radio and mostly for Vinaka Geetamala, and then the cricket commentary. So we'd be like glued to the transistor listening to the whatever match was going on anywhere in the world. And that was really our only exposure to anything. Books were all that were there to show us the world. So we were lucky, because if we'd had anything else, I doubt we would have had that same kind of passion for books as we were able to have because of this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:20.600",
+        "message": "And given the centrality of books in one's imaginative life for people who were fortunate enough to sort of be able to access books. That brings me to my next question. I mean, you know, the rise of Penguin in the 90s and David David of course, is an iconic figure for many people. But tell me a little bit about what Indian publishing was pre that period pre Penguin coming in? You know, how did it function? Where did who were the publishers who operated?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:43.600",
+        "message": "Where did they get books from? I think the most of the publishers were very much Indian in that sense. I mean, certainly Penguin was a big multinational to come in. There was OUP. There was education publishing, but in trade publishing, there were players like J. Coe and Vickers. And they did publish books and there were a lot of first time publishing that they did, which then introduced writers who got picked up by other big publishers later. But it was still quite small. I mean, you had your Malgudi days, and you had bestsellers like that, which were very much part of the reading circuit. By the time Neeraj Choudhury had been published, Raja Rao was being published, there was enough substantial publishing, but English was still the language that was beginning to be lingua franca in there were more books being published in the languages than there were in English. And this is also the time around the time that Penguin comes in, for instance, something very beautiful and in the parallel space is happening, which is Kali for Women is coming up. And that is a completely different sort of the independent press is being set up with an agenda. And that press obviously is still around in different way now. So while Penguin flourished and decided to follow the Western model, Penguin was modelled very much on the way, say, Penguin UK would have run or Penguin US would have run. And all that we see now of the way publishing works in terms of how books are acquired, how they are marketed and sold, a lot of it owes itself to that time when things were set in place. Now, that could have been done very differently. We might have evolved a different way of working if we had looked at the way the independent presses were functioning. But these two things came alongside and they both followed completely different trajectories. But I think that late 80s is what set the pace. And it was very, very small. I remember in the early days in Penguin, we were doing something like 40 books a year. Then it went up to 50, then went up to 60. And that was still a lot of books to try and acquire because of a few people writing. There was a lot more work required to get them to be publishable. And there were no computers in the early days. There was no PDFs to edit with. There was all hard copy. So you would take printouts and then you would mark edits on them. And then the typesetter would put in the corrections. And I still remember the really interesting way in which covers happened. So Penguin in those days was an Anand Bazar Patrika joint venture with Penguin UK. So the art department was the Anand Bazar art department sitting in Calcutta. And so a cover would be ideated here, like, you know, this is the book, this is the title, this is the... and it would be sent to Calcutta. And there would be someone sitting at a desk there who would draw out a cover, and then courier it back to Delhi. And then David would look at it and then do more scrawls and scratches on that. And then it would be couriered back to Calcutta. And this is how... I mean, it sounds completely weird now that things could actually function in that way and be successfully done, but they were done. And gradually as computers and emails and all of that happened in the mid 90s, then things began to professionalize in a very different way. But all along, I mean, as I said, the family owned businesses that were already in India and were publishing in English, they were going full tilt at it. And they were acquiring books, they were editing and publishing. Marketing was not so much on the horizon then the way it is. But a lot of people were invested in distribution, and in bringing books from international markets in the UK and the US and selling them here. So it was all very early days, but you can see the foundation of everything we do here and trace it back to that time, late 80s, mid 80s, maybe is a better time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:40.600",
+        "message": "No, and in fact, what you just said about the technology that we take for granted brings to mind is something I was just reading yesterday about an author from a few decades ago complaining about how you worked for many years on a book and then lost his only manuscript."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:51.960",
+        "message": "Oh, God."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:52.960",
+        "message": "And a young person today may wonder how can there be an only manuscript?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:17:56.160",
+        "message": "Isn't it on the cloud?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:58.200",
+        "message": "What are you talking about? And it's reflective of the things like another observation a friend of mine had made was that the generation that is growing up today will never know what it is like to be lost because of GPS and all that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:13.040",
+        "message": "They never actually that sense of physically not knowing where you are, won't exist, which is almost making up for it by being thoroughly lost in the head half the time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:22.800",
+        "message": "I'm sure that's intended for your kids. If they are listening. So back then in the late 80s, early 90s, what's the scope of Indian publishing at that point? Like, for example, how many books sell? What is considered a bestseller per se? Is it possible to make a living from writing or is it a thing of passion?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:42.260",
+        "message": "So when I joined, it was 96 year end, I think. And the books that we were publishing then were printed like 1000 copies, 2000 copies, 1500. I don't think we ever went over 2000 copies. And if we sold 1000 copies, we were quite happy. And a lot of books were printed at 1000 copies. I think offset printing required that you did them in certain lots. So academic publishing then and even now often does 500 copies of a book. But Penguin was like trying to reach a larger audience. It had more commercial ambitions. So 1000 and 2000 was considered to be the goal. I think that was roughly how it played out until Arundhati Roy happened. And then it was like the sky was just the limit. And suddenly you realized that what you thought of as possibly always going to be a small limited world could conquer the world. And then the numbers and the print runs, they suddenly became in tens of thousands. Of course, even then for a very few titles, but the possibility was there finally. And so the irony is that your average book even now is 3000 copies. So it looks like for 20 years down, we are still looking at almost the same number of serious readers in the market who will discover a new book and follow it up and read with intent. Whereas you have the commercial novels, as they call them, the books that are trending,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:17.000",
+        "message": "being picked up in lakhs. Would it be fair to say that the long tail is basically the same size?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:22.200",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:23.200",
+        "message": "But you know, at the bestseller end that has expanded massively."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:26.120",
+        "message": "Truly. That bestseller end has moved in directions we hadn't anticipated at all in those days. I think in those times, it was still the literary novel that seemed to be the only future and the only kind of star that everybody wanted to reach for. It was a complete surprise to people in publishing that actually what people want to read is not necessarily the literary novel, which is a formal constructed novel of the West, but they want something completely different and individualized for home. And till that happened, I think we were just like walking in one direction. And then suddenly it splintered and different possibilities emerged. Differentiation on the bookshelf emerged, different categories of publishing emerged. So while everybody was focused on like one kind of thing, either the big narrative nonfiction, which is the biography of a big figure or like big politics or something apart from the literary novel, then it suddenly became about commercial novels, about thrillers, about romance, about spirituality, well being, you know, Mars and Venus kind of books that suddenly became the big bestsellers. So that differentiation, I think, was a sign of maturing of the market and the maturing of the reader in some way that they had the confidence to choose to read something rather than just go with what was given to them and almost like a benediction. This is good for you. These are the books you should read. Suddenly became a panic in publishing houses where they said, what happened to the author? When did the reader become center stage? And suddenly when the reader's center stage, then you've got to realign your thinking about what you want, what the market wants. And you started thinking about the market as a living, breathing thing only then. All this seems really archaic when you look back, because everything now is geared to the market. Everything is geared to the consumer. We didn't use words like consumer then, right? We just knew that the person who produces the content is the important person. That the consumer could be equally important was not on the horizon. And now the place where I work at, well, consumer is the word. It's always about the consumer. It's about saying, do you know your reader? How are you giving your reader what they want? Stop being the person who decides what the reader wants. So it's a dramatic shift in perception, in the way you work, in the way writing itself is happening. Everything is on its head as far as if you looked at it from that point of view. But it's very straight up for someone who's been born in this time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:05.760",
+        "message": "No, you know, and for a lot of people focusing on the consumer would almost be infradig. It's like, you know, what do they know, and you know, we will be the gatekeepers and the avatars of good taste. My other question is sort of related to this that when you get into publishing, obviously, when it comes to the heuristics of how do you choose a book or what kind of books you look for, I guess your first basic heuristic is obviously your own taste, what you like"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:23:30.200",
+        "message": "and what you don't like."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:31.560",
+        "message": "But then you have to go beyond this very fast when you start thinking of the market. And that's especially so in a marketplace that expands as rapidly like shortly after"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:39.840",
+        "message": "you come on the scene, then Arundhati's book happens and Chetan Bhagat happens in the early 2000s."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:46.600",
+        "message": "And people are just reading different kinds of things. What is this process like? Like one thing that I often speak about to fellow editors, which is in journalism, of course, not publishing, but to fellow editors and to people who commission podcasts and whatever people who are in that editorial filtering decision making process, is that the most important quality you must have is humility. And assume that your own tastes are necessarily determine what is good or what is bad or what people want or what people don't want. You know, people are very diverse, they want all kinds of things. So you've got to sort of have the humility to step back from your own preferences and biases and be sort of open to that. How was that process for you of developing your vision as an editor?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:29.760",
+        "message": "I think publishing is the most paradoxical space in many ways. It's like different forces pulling against each other in almost everything you do. And part of that, I think, is this thing of choosing what you want to publish. On the one hand, yes, what you want to read is what you want to publish. And I would never underestimate that, because in many ways, the reader and the editor are, especially if you speak about it in situations of say class and location of geography, etc. In a certain way, you'll find that there are very similar people. And maybe what you think is a strong book would resonate with those many people for sure. So the trick, I think, is to decide the identity of that reader and to say, OK, this is one book that I think is wonderful. And I'm sure there are like a few thousand people out there who read it. But there might be another book which I may not read or pick up for myself. But maybe there are 100,000 readers out there who will read that. What we would try and do is to find a reader in-house whose taste might resonate with those 100,000 people as well. So in that sense, I think diversity within a publishing house is the one big thing, because you cannot have it as one taste across all editors, all bringing in the same kind of thing. So as long as there are different minds at work and different tastes at work, we will always be able to reach different kinds of readers. And the humility you speak of, I think part of that humility is to say, you may be the publisher, you may be one of the senior people, none of that matters. If there's someone who's on her in her first month in publishing, who falls in love with the book, one has to also listen to that and say, OK, we don't know this. But clearly, if this person loves it, then there must be something to it. And we need to follow that instinct as well. So not being set in one way or deciding for everyone. I think that's the first step that all of us learn in that journey of how to and what"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:41.600",
+        "message": "to publish. In fact, one of the most like I came across this awesome study a few years ago when I read Philip Tetlock's book, Super Forecasting, where he talks about how the most important factor for good decision making in any company is not intelligence or education or any of those things you might normally assume, but diversity. That's the most important sort of determinant. And therefore, it is in every company's self interest to sort of enhance the diversity"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:08.080",
+        "message": "of the workplace, not for its own sake, but just in terms of business, it makes business sense."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:13.040",
+        "message": "You have and what you said, obviously speaks to that. But you know, one criticism a lot of people do have of publishing even today is that it's not diverse enough that you find. I agree, it's kind of homogenous."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:23.200",
+        "message": "I agree entirely. It's partly the language we work with the sophisticated narrative, which is what we expect to publish when we hire editors, as though you're hiring them at the level of literary fiction editors, when actually you might want people who are editing Sri Sri Ravi Shankar, or, you know, something like that. So now I think all of us are learning that that differentiation is very, very important. And you have to have people who think differently, and who read differently, and who use language differently. There's no point in I often think there's that there's no point in my going out to try and commission a book that a 17 year old might, you know, completely take to if I'm really skilled at my job. And if I've really read enough, and I'm able to put myself into the heads of all kinds of people, I just might be able to. But I think that's really difficult. I think you need to have specialists in every category. You need to have people who develop not only their instinct for that category, but also experience in that category, who can deepen their understanding of the subject while casting around to see what is the broadest base of readership and commission to that there's a lot more science. I mean, I always used to think publishing was all about art. You know, it was like the final thing to do, getting the politics, the nuance, the writing, that's all there still, I don't think it's devoid of that. But I think that art without the science, the art without the algorithm in today's world is not going to be effective."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:56.040",
+        "message": "No, and while I entirely sort of agree with the shift towards keeping the consumer at the centre, which I would say is essentially an overdue respect for readers and what they want, are there values that go beyond that? For example, if I may use an analogy, it just strikes me thinking aloud that the editor of a publishing house is somewhat like a zookeeper and you're running a zoo and you've got all kinds of animals. But after a period of time, you realise that everyone wants to see the lion and the elephant and the hyena and whatever. And there are certain exotic or even mundane species, perhaps which nobody wants to see. So they don't, you know, they're just taking a valuable real estate, they're not worth the money. And then the zookeeper has a choice that you know, does he keep them there? Or does he remove them? And similarly, are they sort of a higher set of values where you say that, okay, for example, poetry may not sell, but I will nevertheless subsidise my poetry imprint with, you know, the revenues I get from selling bestsellers elsewhere, because it is important for us to do as publishers. And this, in a sense, is a larger question that also correlates with a similar question you could ask about journalism that are you going to be entirely market driven, or are there some kind of higher values? And to follow up on that, if there are higher values that go beyond the logic of the market, are they inherent in the logic of the profession that is either journalism or publishing in your case, or will they necessarily come from the individuals who happen to be there?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:20.600",
+        "message": "So many things to think about here. I don't know if anything is beyond the logic of the market, because what you're seeing, the fewer numbers, the failure, perhaps of some things is also the logic of the market that's driving it to non existence. And I think there is a call to be taken, for instance, literary fiction, more than poetry in some ways. Literary fiction is always going to be a difficult thing to publish, I think, because it is premised on the assumption that there are readers out there who are willing to invest a certain kind of time and intelligence, and also effort in reading, right? And who feel that there is a value attached to that work, which they are willing to explore and imbibe. And as long as that continues to be a difficult space, there will always be the temptation to say, why do it, you know, you can do five books in that space, it requires less effort, and you will still make much more money. But I think that is non negotiable, as far as I'm concerned. Part of why publishing continues to be important is because it produces ideas, it produces a way forward for thinking about language, about construction of thought of society of the way we live and the way we dream. These are not things that you can put away at any cost. They need to be there, they need to be supported, they need to be put out in the world for people to receive or not receive. And the interesting thing about publishing in India is that your stakes are not that high in individual books in terms of your investment, either, you're not going to go under, because you backed one literary novel, it would go under if your entire list was literary fiction, and they weren't all of the kind of I mean, like one of the acquisitions, of course, that too much is getting published, right? So that I would agree with that there's no point in putting on books that perhaps somebody else could do, or maybe they could just go out into that whole self published space. Maybe you don't need a mainstream publisher for that. But otherwise, being selective, putting out the best of writing that is available to you. That is, I hesitate to use the word duty, because it isn't like the right word in a place where we talk about markets and consumerism. But I think publishing is still old world enough to nurture that sense of duty and responsibility and to say, what are you as a publisher, if your job is merely to make money, then I don't think publishing supports that worldview yet. There are publishers and there are spaces within publishing that do but from where I'm sitting, I'm seeing it as a job that has a responsibility of putting books into the world that aid a conversation that aid discourse that aid intelligent thinking about the way we live. And it could be nonfiction, it could be fiction, it could be poetry, any of these things, the challenge and the other side of that duty and responsibility is to make sure that my company doesn't suffer for that, that the way I publish these books, the way I bring in the right books, the way we package them, the way we sell and market and tell the world why they need to be read, that needs to be done in such a way that you will find the readers for them, and that they will go on to maybe get an award or go on shortlists or whatever it is that takes to get some more visibility for them, and gives the author the satisfaction that her words are being read and appreciated in the way they were meant to be. So it's a double edged thing, you need to do it, but you also need to do it smartly. And to make sure that you don't you don't publish a book that then goes nowhere or just sinks. That's no good for anyone. So it's a daily challenge to put the good book out there and get it to sell. But even if you don't sell it all, even if you just break even, I still think it's something that we have a responsibility to do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:22.440",
+        "message": "So give me a sense of the economics of it. Like when you talk about how the stakes are not too high, and by backing one literary author, we won't necessarily go broke. And you know, even if we break even, it's something we're doing, what is sort of break even like how many copies does a book need to sell for it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:37.720",
+        "message": "Right. So if I've taken on a novel that I think I would have to sell something like 5000 copies to earn out, say the advance for the author, and if I end up selling 2500 copies, I will be writing off a certain amount of money that should be earned out by the advance and is not being earned out. But I would have broken even in the sense that overall, I may not have made the usual 7 to 10% margin, which is all publishing margins are, I may end up with zero, nothing gained, nothing lost. But as long as the advance has been reasonable, and premised on that first print run, we're okay if you sell roughly 60% of that print run."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:19.600",
+        "message": "And do you find other publishers also, you know, share this sort of sense of you didn't want to use the word duty. So this sense of duty in a sense, it's not a bad word, towards keeping literature, poetry, all of these genres sort of alive in some way or the other while one goes about the business of selling books."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:37.080",
+        "message": "I think a lot of them do the conversations I have with my colleagues and other publishing houses is often how to do this balancing act, how do we sell books? But how do we also do books that we really deeply care about and feel should be published? It's a battle that everyone is fighting, and I know very few people who don't care about it. There are some who've taken the conscious decision that okay, somebody else in house is doing that part of the job. My job is to bring in the revenue in a certain way, and I will do that. But I think even in doing that, they contribute to that larger idea that publishing still has a job to do that is beyond revenue. And for as long as we can keep that as center stage, I think we'll all be the beneficiaries of it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:23.400",
+        "message": "And how have your sort of own reading taste evolved, you know, over this entire journey? Because you obviously start off with a set of preferences, but then you have to widen your reading as a matter of professional duty, you just have to pretty much read everything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:37.720",
+        "message": "And how does that evolve? I think I started out by reading everything. So that was probably the best thing I did for myself as an editor unknowingly. I never felt a sense of hierarchy in my reading. Nobody ever told me and I didn't feel that reading Enid Blyton was less than reading Gorky or whatever. I didn't know the difference. But I think a lot of my understanding of publishing and the kinds of books I want to do come from my years in university, especially Central University in Hyderabad. We had a fantastic set of teachers who, through literary theory at us, you can imagine someone coming out of an undergraduate course in a conventional college comes to a university where the faculty is like, just come back from doing PhDs in literary theory in the US. And they come and tell you the author's dead. And I mean, even that notion that the author's dead actually is like from 10 years ago, you guys just discovering it now. We'd never come up with words like feminism in such a way as in that space. And you suddenly discover that it's not just pleasure that you're reading for, but that there are processes that go into reading and analyzing that pleasure that allow you to then understand how to construct a book differently and to make that pleasure possible for someone else. This seems like something that wasn't intended at all by my teachers. They thought they were teaching us for, you know, to make educators of us. But as I got into publishing, and as I started working on books, I think all of these theoretical understandings and political understandings of the text of trying to struggle with a Derrida or a Spivak or reading Canadian writers and American and Australian writers and trying to understand how they use language so differently. It knocks everything out of you, any learning that you thought was to be taken seriously. All you know is that it's a blank slate every time you open a book and what you get could surprise you or could disappoint you. But every single work is an experience in itself. And I think if you can open a book, every manuscript that comes to you in that same way and say, I don't know what to expect from this, but whatever it is, let me read it in its own terms. Let me read it as what it sets out to be, not what I would like to read or what I would like to see. Then I think you're already better off in your editorial approach. I mean, you will go to it with a more open mind than if you had standards of excellence that had to be met in a certain way and only in that way. So what I'm trying to say is that the reading that I did expanded into reading about writing and reading about reading. And there was a lot of poetry in that. And I had extraordinary teachers. My supervisor was a Maharashtrian who read Kipling with great enthusiasm and showed me how to read historical fiction in a certain way. I did my MPhil on Mary Renaud, this wonderful historical fiction writer who's got this fabulous series on Alexander. And so I worked on that. And now when I edit historical fiction, I'm grateful I had that. I had Hoshang Merchant as my professor. He read American poetry to us and talked about gender in a way that was very distant from Tejaswini Niranjana, who was my introduction to feminist reading, who does a completely different reading of gender than him. You know, so when you get thrown into a space like that, where people are coming at you with ideas that are so different, each of them has a position and each of them fairly fierce in their positions. You just can't approach a text either neutrally or objectively, as they say. You have to fight with it a little bit like you struggle with it. You dig deeper if you can. And so as it happens, I think the very first book I commissioned as an editor at Penguin was a collection of queer writing edited by Hoshang. And that was an eye opener in itself, the kind of text that came in the way we worked on it. And I think one of my dearest memories from that time of surprise in publishing and writers was God, David had said, yes, go ahead and commission this book. And Hoshang had given me a list of his like wish list. And I was adding to that. And then we were writing off letters to people. And I remember we were sitting in this little conference room we had where all the commissioning editors were sitting, there were five of us with David. And suddenly there was this call, we had landlines only. And somebody was calling from the reception to say there's someone for me. And I was like, who is it? And they said, Vikram Seth. And I was like, Vikram Seth was talking to me? And I remember being really nervous and shaky about even taking this call. And he was calling to say, I got your letter about inclusion in this anthology you're doing. And I'm very happy to be in it. I just thought I'd write I'd call and tell you myself. I was floored, you know, that he thought it was important enough to do this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:32.560",
+        "message": "I'm floored listening to this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:33.880",
+        "message": "I mean, I was like this young editor on my first commissioned, you know, book. So it just, it is an amazing world. Every day you come up on people who surprise you, who make you think about all the good, best things in life. And each time something lets you down, you find two other people or two other situations that quickly bolster you and say, no, no, no, all is good. It's better. And I think that is the best thing about being in publishing these people around you, whose books you read and work with, sometimes you don't work with ever, but they enrich your environment."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:11.960",
+        "message": "So you were speaking about, you know, learning how to read, for example, and a few days back, I reread Harold Bloom's book on learning how to read and why I think it's called and whenever people for example, tell me that they can't understand poetry, for example, though they are otherwise readers, I give them a copy of Mary Oliver's poetry handbook, because"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:28.880",
+        "message": "that's such a lovely book. And it really helps you appreciate poetry. Today somebody posted a tweet, a poem from that the bride and the bridegroom. What was that? The bridegroom embracing the world and the bride embracing embrace amazement."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:43.280",
+        "message": "Something like that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:44.280",
+        "message": "It was beautiful lines."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:45.280",
+        "message": "Wow. Yeah, that's again, a heck of a book. So just asking you about like one, obviously, the nature of how you read a book changes as you elaborated upon when you are an editor, when you're a publisher changes completely, you just you know, you find different depths. But if you had to, for example, advise my listeners, who might be earnest readers, you know, on the subject of what should they read to enhance the way they read?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:09.200",
+        "message": "What are the recommendations you'd have? You know, I don't think there are any particular texts that can help you read. Reading is its own learning. The more you read the many kinds of texts you read analysis of it would help if you are in the frame of mind to be receptive to that. But otherwise, just exploring texts and as many kinds of texts as you can reading poetry today reading a novel tomorrow reading a graphic novel the day after reading narrative nonfiction. The good thing about our digital experience now is that you can Google and say what are the 10 best books in each category. And it's interesting that there are many cliches in there, but there's usually very, very good recommendations in there. So you can find practically any kind of book you're in the mood for. And I don't think there's any substitute for that reading. There are few books that can tell you how to read as well as the books themselves can tell you. And I also think that poetry is an invaluable guide to how to read because it and to write because it's almost like a laboratory where you're shaking up the words and reconfiguring them, throwing in something different, something new, a comma in one place and not the other can change the way you breathe that line. And that changes the way you write or read that line. And things like that only come to you when you as you keep reading, like nobody will be able to point that out to you in the way that you can point it out to yourself if you get it. But if you had to read a book on say grammar, you know, like you read leaves shoots,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:53.800",
+        "message": "Eat shoots leaves, right? Which itself contains many errors."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:55.800",
+        "message": "But you read that kind of book and you say, hey, this is fun."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:45:01.400",
+        "message": "This isn't like all hard work, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:03.640",
+        "message": "But then you read one essay like the death of the author by Roland Barthes, and you have to rethink the way you thought about reading altogether. And I think that essay for me was like a changing point, a turning point where all the old ideas go out to the window, and then you realize that you need to find a different way to read altogether. To me, one of the biggest educations in how to read is crime writing. Because when you read a crime novel, which is really well written, I'm talking about the near literary crime fiction, which so much of it actually exists, you can almost unpack the way the structure works, right? You can see where the red herrings were, because you will remember them, you will see how language shifts in terms of description, atmosphere, to the crispness of dialogue, to light and sound and shape, all the things that go into making something of complete experience, it's all there in crime fiction, in the best of crime fiction. And when you read that, in a way, it's like reading poetry, because a lot of it is also about exploring other worlds, other countries, other cultures. So much of your understanding of culture can come from crime fiction, which is very close to the ground in those places and looks at the underbelly of things and the governance and all of that, that I think you arrive at an understanding of how text works. And even if you're not a crime fiction fan, I think if you're a reader, and if you're an editor, I think it's great learning more than reading a book about how to read or write."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:43.000",
+        "message": "No, and I absolutely agree with you, especially about poetry, just looking, I think poetry, if you're reading carefully forces you to look at language with a granularity that then enhances your understanding of it and your use of it if you're a writer. And with crime fiction, I guess, again, using an economist term, one could say that the incentives of a crime writer are very functional. He has to keep the reader hooked, he has to, you know, the imperative for him is to keep moving the action forward, but also he wants to paint as rich a world as he can within that constraint."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:14.720",
+        "message": "So you do see a lot of... And also remember that some of the best crime fiction then ends up being a series with the same character having to be true to that same character, but plot changing every time, enough of a deepening of character that you will continue to find new things in each book. So I'm reading a Jack Reacher at the moment, which I think that man is like the kind of man I'd like to be someday. Just walking off into the wild with one set of clothes and one toothbrush and that's all he has. And he just lives every day in that moment. I mean, it's like a philosophy of life, which you don't expect to find in crime fiction, which you do here. And all of these kinds of... from the P.D. James on where it was, it's beautiful, it's literary, and, you know, the individual in that English countryside is very different from the ex-marine in America. But somewhere it's the same hunt for meaning. It's the same search for the things that will make life worth living. And I think as they are in literary fiction, crime fiction articulates that hopelessness and the need to stay, survive and hope. Because every time somebody dies, somebody is trying to find an answer to why. And in that finding, you also find a reason to live. And I think people underestimate what crime fiction can do to you, not just in terms of how to read, but also in terms of what they take away each time from a really sharp novel in that genre. So yeah, why did I just go on and on about crime fiction?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:53.680",
+        "message": "No, and that's actually a very profound observation. And I was reminded, for example, of Sir Wal and Walu, who, of course, you know, the remarkable series starting with, I think, Roseanne was the first book and they came at the crime series, not just with the sense that let's write an interesting crime series, but also with a vision of the world and a vision of what society is and should be. And you know, so occasionally, every 50 pages, there'll be this irritating paragraph, which"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:49:17.640",
+        "message": "rants against capitalism."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:19.480",
+        "message": "But quite apart from that, it's and I think they set the trend for a lot of the sort of crime fiction which follows, which kind of brings me to a related question that, you know, where is the Indian crime fiction? I mean, I mean, I know there's quite a lot of it, but surely, you know, in different"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:49:36.560",
+        "message": "disparate sort of ways, Surendra Mohan Pathak kind of way and, you know, stray literary"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:42.640",
+        "message": "attempts here and there, but, you know, we don't have... It isn't yet a sort of full fledged segment. There have been books, Anita Nair's Gowda series comes to mind, Arjun Gend and his historical series. So, of course, there's writers located in the West who are writing within Indian situations. I think it's starting up in a more sort of concrete way. But I worry that the visual world actually is not allowing that to grow so much because there's so much great crime, so much great action on your screens all the time, your Netflix and Prime and whatever else you're doing, watching that. I feel like a lot of good, possibly good crime writers are probably writing for those spaces now and are not so interested in the book, which gives them much less in terms of readership or numbers, as opposed to the viewership. And also, of course, in terms of less money, they earn much more writing that same thing for somebody else who's going to make a big production out of it. So I don't know how much perseverance there will be in that community of crime writers. I hope to continue."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:55.000",
+        "message": "Yeah, in fact, that's a question I was saving for the end. So before we go in for a break, I'll ask it anyway, if a little early since you brought the subject up, that, you know, a lot of creative people, a lot of imaginative people who would otherwise have taken to writing books now have other options for their creative juices. You know, they can work on a web series, they can even go into filmmaking, or, you know, there are so many options available out there. I mean, I remember thinking when I first saw The Wire all those years ago, absolutely loving it because of its novelistic sweep, the way it slowly unfolds. And it's not like a, you know, typically, I think of a film as something like a short story that you've got, you know, that one linear strand and maybe one or two others, but that's about it. But The Wire build this novelistic universe and carries it through for seven seasons. But then that also means that people who have the urges to build worlds like that, and to go that deep and to talk about those things don't necessarily have to turn to pen and paper to do it. There are other ways. Is that something you see affecting books in the future? You are like, no, there's a space for everything we'll manage."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:59.440",
+        "message": "I think there's a space for everything. I think there's a space for people who want to write for that space and also write books. I also know, Amish, for instance, is a writer I work with as well. And in this context, I remember Amish saying that he still wants to keep writing books because he feels that is his individual space where his mind, his thinking, his philosophy of life is what he's working on. It isn't what will fit somebody else's idea of what works on screen. It isn't that there are multiple screenwriters and dialogue writers and all of these people who are going to come into the picture and take your idea and make it something else. It's like if you want the purity of your own words and your own thoughts, then perhaps the book is the only place where you can get that kind of concentrated individuality rather than something on screen, which is obviously the effort of multiple minds and multiple people. So apart from the book, I doubt there's any other place."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:57.640",
+        "message": "No, in fact, I think of like two kinds of tragic opportunity costs that come in. One, obviously, is that the screen pays so much better. And once you get drawn into that, and then you start living that lifestyle, also, it seems a waste to give it up and write a book. And also the other thing that I have found from living in Bombay, though I never myself have tried to put a foot in the film world, but what I see around me is that maybe one"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:53:22.040",
+        "message": "out of 100 projects will get through."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:24.000",
+        "message": "So a lot of the work that a writer does could basically be wasted, either it doesn't get made or if it gets made, it gets made badly. And it's not something you can own up to and years can pass by like that. While if you write a book, however bad, it is still your own product, like Amish told you, that's where his own individuality comes. And also, I think what happens very often, and you know, many more writers than me, so you'll be able to tell me if I'm, if this observation is valid, is that a lot of writers, when they start out aren't necessarily good writers, but they'll muddle through one book and they'll muddle through another and then at some point in time, just by doing repeatedly, they get better at it. And that initial self delusion about how good they are, when they weren't good, actually makes them good. In a sense, you can say they fake it till they make it. And you know, and we were talking crime fiction. I mean, there are so many crime series I can think of, which start off in a very iffy way."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:54:18.960",
+        "message": "The first two or three books aren't quite there. And then the writer solidifies in the voice and then it just becomes something else entirely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:26.280",
+        "message": "I mean, Siowal and Walu actually being an exception to that, because I think the beginning"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:29.680",
+        "message": "was good."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:30.680",
+        "message": "The beginning was stunning. Is there something to that? And then is there the danger that the two or three books that a writer might need to sort of find their feet and become better? They don't happen because maybe after the first one, the guy just says, okay, you know, let me do that instead. And then, you know, and that's like the show is called the scene in the unseen. So maybe, you know, that is the unseen that what doesn't happen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:53.800",
+        "message": "I think that's one of those things in publishing, which has now become a story to remember and to hold on to, to prove that things can change, which is you will have a writer who's done maybe two books, which haven't sold very much, which are 2000 copies, maybe, and if the editor and the publisher will persevere with them, then sometimes a third or fourth book might hit it so big that there's no looking back. I think Bridges of Madison County is one of those stories where the writer did not really do all that much. And then suddenly there was this multi million copy seller, and things changed, right? Now, if that person had given up at that point and said, I'll go write for another forum, or the publisher had said, I'm sorry, I can't afford to keep you any longer. Things could have been very, very different. But I think there are enough stories in the past, and in our own kind of mythologizing of the past that allows for people to hold on to hope and say, if not now, the next time the next time, and you go on like that. And as I said, as long as they're not doing just that, as long as they have other sources of work and income and all of that, they might still persevere because they care deeply enough to do this. And because those hours that they spend with their characters, and in their own minds and on the paper, I think they attach a certain value to it, which they would not give up for the world. And in that sense, also publishing, I think is a slightly odd and paradoxical space, because look at where it comes from. You're a writer, you sit alone at your table at your laptop, whatever, and you write quietly, for yourself almost. When it comes to me as a finished book, I'm sitting there quietly by myself absorbing this text with nobody else interfering. There's no sound, there's nothing. I'm making up the sounds for these people. I'm making up the voices. I'm breathing in the gaps. And I'm providing all the visual atmosphere, everything. But what is the publisher gearing up for? These two isolated acts at the end, these quiet moments. And what lies in between is a completely public system of selection, distribution, marketing, selling, putting a lot of noise into everything, which has to begin and end in quietness. And I think that paradox is exactly the nature of all that we do around books, that there are always forces pulling completely in opposite directions. What one wants to do, what one ends up doing, what comes in between, they're all contradictory. And yet we have to make peace with this chaos and arrive at something that will last for a long time. Because what is the difference between that piece of journalism or that bit of movie making? You often find that movies can be dated, right? Because you have a visual, a look to that space. And 10 years down, there are people wearing different clothes, there's different things happening. So either you treat them as classics and working in that time. Whereas in a book, like, you know, if I go and watch You've Got Mail Now, which I happen to do accidentally the other day, and I thought, oh, this is such a different old world movie, you know, everything is old about it. But I can read a book, which is Jane Austen in England, in that time. And because I'm the one who's providing the acoustics for this in my present time, it will always be a contemporary work. Because what I attach to that word, the meaning of that word may have changed over hundreds of years. But what it is now is my word, my meaning. So I read it for myself. I don't have to stick to the sound or the effects of what is available to me given by somebody else. So in that sense, you reinvent text and reinvent in solitude, what is not possible to reinvent when it's a public act offered in public spaces. So I think that's what makes publishing special. I think it allows you to create work that has the capacity to last in ways that probably nothing else does except a great work of art. And it's, it's wrong to underestimate the finished that final book, which may seem like a dead object to a lot of people, but I think it's ever going to go away. I mean, the nature of paper might change, it might come from another kind of recyclable recycled paper than it is today. And I cannot for the life of me imagine a world where people would not value quietness, solitude, your own ideas, your own mind, and to put yourself at the center of your world, which is what everyone aspires to do. A book allows you the room and the system almost to say this is all right, this is a good space for you to be in. And there's nothing wrong with wanting to be quietly with yourself. And the book is part of that experience."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:39.880",
+        "message": "No, I completely agree with you. I mean, you've described the magic of reading formal eloquently than I could manage. But then there is also that other thing that it is not quite true that unlike a film, a book doesn't date or change in what it brings to the reader, because what I find increasingly happening and often to my distress is that there is an overlay of contemporary politics being applied to books of the past and the way you read them. For example, in it, but in who we both grew up with, and, you know, a golly borg, and you know, all this talk of racism and white privilege and so on. And to some extent, I understand that as we evolve as people and our prisms and our values evolve that will naturally affect the way that we read. On the other extreme, I sometimes think that we go too far in doing this by overlaying this veneer of contemporary political values on an age and a time when they didn't really exist and you sometimes just have to give the author the benefit of her contemporaneity."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:36.760",
+        "message": "Yes, no, I agree with you entirely. I think one has to learn to read things within their context. And that is the most important thing. Without context, you have nothing just as you have your own context that writer had theirs and you have to build bridges between them. So I think the way to tackle that is really not to say don't read, but to say, come up with reinterpretations. For instance, for me, in terms of reading, one of the vital moments of discovery I remember was Jean Gris' White Sargasso Sea. I had read nothing like it before. I had not realized you could even do this. And the reimagining of that character just, I mean, it was a hugely political act. It was a deeply feminist act. It was every ism you can think of was in that slim book. And that, I think, is what I would value that somebody says, I don't agree with that worldview of that writer who wrote it in that time. Yes, of course, it was a product of that time. But let me think about it from my time and see how I might tell it differently and encourage and inspire other people to read it differently and leave that old text alone for what it was. Let the Mahabharata be the Mahabharata of whoever wrote it then. You tell your tellings now. You prioritize and centralize whoever you want to and write it for your time. But I agree with you that censoring and re-editing old texts for sanitizing or for concealing a truth that is valuable in itself. And sometimes just knowing that that's what was done is enough to make you want to think never do that in your own time. I think that is a mistake to erase the past in that way."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:17.600",
+        "message": "We'll take a quick commercial break. And when we come back, instead of erasing the past, we'll go back to your past because we really haven't spoken much about your journey through publishing. So I want to talk a little bit about that after this quick break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:30.320",
+        "message": "Hey, everybody, welcome to another awesome week on the IVM Podcast Network. If you aren't following us on social media, please make sure you do. We're IVM Podcast on Twitter, Facebook and Instagram. Also quick reminder, please do fill out our survey. It's at ivmpodcast.com slash survey. It's a listener survey. We're trying to understand more about who's listening to our stuff, what kind of things you would like to see from us in the future, what you have been seeing so far, what you think of it, what shows you like, all kinds of different stuff, also who you are. Right. So I mean, like all kinds of different stuff. Just please do come in and fill it out. It'll be really helpful. That's ivmpodcast.com slash survey. I want to thank our sponsors this week, Cambly, Intel and Storytel. Remember, sponsors are what make this stuff possible. So if you enjoy the content, please do thank our sponsors. We have two new shows releasing this week. Lakshmi Krishnan, better known as Literary Chills on Twitter, talks to agents of literary culture on her show Lit Nama. She plunges deep into new genres of literature born in the digital era as she talks to the performers, storytellers, bloggers, poets and writers. New episodes are out every Tuesday from 10th December. The Traveling Professor's Diary is hosted by Siddharth Teshmukh. It's a show about a curious human being with an eagerness for travel and observation. He visits colleges such as MICA, SPJ, Symbiosis, FLAME, UpGrad, Talentage and spreads the digital gospel of design, marketing and business transformation. Episodes are out every Tuesday and Thursday starting 10th of December. On Cyrus Says, Cyrus is joined by the man who writes the famous Amul hoardings, Manish Chouhairy. He talks about his life in advertising and bonds with Cyrus over their love of Bappi Lahiri. On Mr. & Mrs. Binge Watch, Janice and Anirudh deep dive into season 2 of Jack Ryan. They discuss how it measures up with other globe-trotting spy shows. On The Origin of Things, Chuck narrates a story about the achievements, awards and the rules that were changed by a particular bank. On Tupperty Tales, meet the character Samira who talks about Azadi Ka Room woven by our storyteller Madhuri. What is Azadi Ka Room and can we find it today? On the Filter Coffee Podcast, Karthik is joined by co-founders of the News Minute, Dhanya Rajendra and Vignesh Velover. Together they talk about the initial days of the News Minute and give their viewpoints of how news is provided in India. On Advertising is Dead, Varun is joined by Chief Digital Officer at Hansa Hex Equity, Nishad Ramachandran. They talk about how marketing is converging around a digital customer hub. On Golgappa, Tripti is joined by Anish Vyavhare, a spoken word poet who talks about his love for poetry and recites some poems about food. The Habit Coach completes one year of great habits. Ashton is joined by Urmi Kothari, the host of the Kinetic Living Podcast. They talk about her fitness journey and her philosophy behind exercising. And with that, let's get on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:57.480",
+        "message": "Welcome back to the scene in the unseen. I'm chatting with PK Karthika about Indian publishing. Karthika, you were just telling me about how in 97 when Arundhati Roy hit the Indian publishing scene, everything kind of changed for Indian publishing. Tell me a bit about that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:16.440",
+        "message": "I remember that it was unusual in that there was a story attached to how she had nearly published with a publisher in India and then not published with them for personal reasons. And how there was so much excitement about her finding an agent who was so thrilled by it that he flew to India to meet her. These were all quite extraordinary. They were extraordinary in that time that there were things like that happening around us, you know. So it was hard to understand, to grasp at that time. It was only later, after everything played out, that you realized how significant all this was. But at that time, it was like a new wave of confidence for writers and for editors and for readers and for just about everyone, because it was like a ratification of and a validation of what was considered to be literary by us, what was considered to be good writing, what was publishable. I mean, if all of these things culminated in a book that won in those days the biggest prize of all in literature in the English speaking world, then we had to be doing something right. I mean, the writers had to be doing something right. Readers were getting something right. Publishing houses were doing this right. Though, of course, the story of that is that a little publishing house was actually set up to publish that book because she wanted that to happen, which in itself was unusual, right? That you have so much confidence in one book that you would set up a system to make that happen. So a lot of things changed with that. It also meant that in a strange way, we started getting clones of Arundhati Roy, submitting manuscript left, right and center. Basically everyone was writing novels about Kerala, about family, about relationships set within an India that was not really a westernized India. So many new directions seem to open up. At the same time, I think the problem also that it gave us was this firm notion that that literary novel of that kind was the thing that had to be. So for instance, in the UK, a lot of writers were suddenly given large advances because they were all going to be like the next Booker Prize winning novelist. And large advances suddenly came into the picture in which they hadn't earlier. I mean, Penguin was still one of the few publishing houses then that was giving advances to every writer, but a lot of publishing didn't. And if you think about it, I almost wish it hadn't changed, because think about publishing as a business model, and it is deeply flawed. You are writing a book, which you haven't like perhaps written only a proposal for you haven't really written very much off. I am an editor in a publishing house. And I'm saying to you, I want to publish this book when it's done. This could be two years from now, three years from now, whatever. And I'm going to give you this money as a kind of ceiling of an agreement that you will eventually finish this. So I'm investing money in something of which there is nothing to show at the moment. And then two years down the line, maybe three years down the line, you will give me a manuscript, which I will publish in another six months, eight months a year, for which I will then get paid by the market in this endless cycle of no payments or near payments, which could be within three months or six months or eight months or a year. At the end of a year or two years, I might be sent all these physical copies back from the market saying they were never sold. And my investment was made three years ago. And at the end of that period, I've got nothing to show except some returns, which then are in the warehouse and which one might be forced to, you know, destroy because they're shop soiled or can't be resold or whatever. So everything is strange and beats logic. I don't know of any other industry that works in this manner, which defies logic and defies the odds and still continues to survive. And the strange thing is that from then on to now, we have found no other way to do this. We continue to be in the cycle of investment without possibly any sign of return for the foreseeable future. So in some ways, I guess it began in that period when big advances seemed all right, because you thought you had this large print run that was possible at the end of it and large lakhs of readers who would want to read that copy. So from what might have been like a 15,000 rupee advance, which was very standard in those days, I remember even like the best international writers who had publishers in the US and the UK, you would write out a contract where it's a 20,000 rupees advance. And that was fine, because that was all really you hoped to earn. Suddenly you were adding zeros to that and you were saying, oh, we should do two lakhs. And we all just were banking on the fact that something would take off. So where we were much more careful and cautious and realistic, it became a little bit more of a gamble. And because there was enough competition by then and other publishing houses were setting up and there was more everyone trying to, you know, zero in on that little pool of writers that was there in the English language at that time. Everyone was trying to up the other and give a little bit more money to get that writer in the book. So we ended up where we are now, which is very unrealistic figures, unrealistic estimations of sale and very little to show at the end of it as proof that this system works. So there was a time when I said everything changed positively when the book happened to us. But after that many years, I'm beginning to think there were problems that came off that, which we are now discovering the depth of."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:14.000",
+        "message": "So let me just try to sort of think aloud a little bit and unpack this whole effect. In a sense, it kind of goes back to that earlier issue of heuristics that we talk about that how do you decide what is a good book and how do you decide what to commission and what kind of books to change. And I guess what happens with the God of Small Things is that there's suddenly the survivorship bias where there is this book written in expressionistic language set in an exotic locale that seems to work and therefore because that one book has done so well and won the booker, then it is natural for publishers to want more of the same and you give advances chasing that and because in publishing, unlike in other businesses, like for example, web series is a commission today pretty much the same way, but you know, the lifeline is much shorter."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:11:57.320",
+        "message": "They play out in a much shorter span of time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:59.900",
+        "message": "And I guess with publishing is taking two or three years and therefore for two or three years, you don't know that your investments been a waste and you have a lot of books in that language about you know, those kind of things coming out and they are wasted and what also that seems to do is it seems to have what economists would call the crowding out effect that because there is so much money chasing this particular kind of book, which there is, you know, the notion that this is a kind of book which will win awards and which will sell and which will bring glory and so on and so forth, that perhaps there is less money left to chase or left to fund other writers who are writing different kinds of"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:34.880",
+        "message": "books."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:35.880",
+        "message": "Is that sort of an accurate summation of what kind of went down?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:38.800",
+        "message": "I think so. I think that's what happened. And in the process, we also discovered that there were some great writers amongst us and some great books were published and a lot of first time writers found support in a way they may not have otherwise, which I think is the most valuable thing that happened. Because then the next generation of writers had a different felicity with the language, a different brashness with the language, wrote for the world more confidently without doubting themselves in the same way. Not, I mean, I think all writers doubt themselves, but not doubting that they could be as good as anybody else. And that was really, really the best outcome of that period. But what that crowding out did, I think, was also very important to notice that there were certain kinds of writing that never did come out enough, that people didn't pay enough attention to or put value to. And that is why I think the next shift is Chetan Bhagat, because that was, to my mind, looking back, that was a direct revolt against the ivory tower existence of that English literary space, where the reader was a certain kind of person, a privileged person, a person whose notions of what was acceptable and civilized was very different. And where there was no recognition of the fact that there are multiple cultures and languages and so many other things happening outside of the metropolitan Indian city. And then I think we got to a place where it wasn't about what comes before, that is the writing, the publishing, the editing, it was about what happens after, which is the marketing. And that shift really redefined everything in publishing as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:36.360",
+        "message": "And I guess what Chetan did was, of course, one, he took themes which resonated with common people like life in an IIT or, you know, and interstate love affairs or whatever the kind of topics that he's chosen, sort of resonate with many more people. And second, there was a marketing and did that sort of the massive success that Chetan had and then that people that are similar writers after him also build their markets, Ravinders and Durjoy's and all that. Did that then change those within publishing to sort of re examine your own values of what makes a good book and what kind of book are you looking for? Do you start reading a little differently and asking yourself more questions?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:15.200",
+        "message": "Absolutely, all of that. When Chetan first did the rounds of the publishing houses, I mean, everyone knows that he was turned down by most people who didn't see this. I think the fact that a writer had a PowerPoint presentation about how to sell the book, it just went against the notions of every literary editor in any publishing house because they thought that it had to come as a consequence of a great book you sold. It was all supposed to be organic. There was like you couldn't put a system in place to to manufacture sales. You know, these were all not good words. They didn't exist in our vocabulary. We were supposed to find the best and the best would automatically sell, which we know is not the truth at all. There was a certain naivety in publishing. There were a lot of young people in it with little experience of publishing who just, I think, lived in slightly idealistic spaces in their own heads and everything around them supported that idealism that said a good thing would find its way to the world in the right way. Chetan changed that for sure. There was a lot of resistance even later. Everyone wanted to, I think, think it was a flash in the pan. And yes, of course, this happened. But there was cynicism in that people questioned the ways of selling. And was this the right way to sell and market a book? And can a book be a product? So marketing and editorials would get into fisticuffs about marketing saying, well, you know, it is also like a button or a piece of chocolate. You've got to sell it and you've got to find the right ways to sell it. An editorial would probably think this was really not the right way to talk about it. I still know editors and senior editors in publishing houses who will say, we don't like the word content."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:16:55.360",
+        "message": "We don't like the word consumer."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:57.600",
+        "message": "Can we please talk about readers? Can we talk about how we used to be at one time and, you know, not change it so drastically?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:03.960",
+        "message": "In fact, this kind of snobbery is rife in that ultimate performative space Twitter, where people will say, oh, you cannot refer to books as content or whatever."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:12.080",
+        "message": "Yeah, unfortunately, that doesn't really hold good anymore. We've got to rethink it. And I think that kind of rethinking was forced by the success of the writers that we mentioned. Because then you also discovered a second market, second, third, whatever you want to call it, which is outside the metros. Somebody had imagined that these books were going to reach readers in places outside Delhi, Bombay, Madras, whatever. And suddenly you're saying, who are these people? Who are these people that we never think about? Who we never planned for? What do they want to read? And what is their comfort level with the language? With what is the tradition of reading or the background in reading they're bringing to this? And for so long, we'd assumed that the reader who reads our literary fiction or any fiction at all was already trained in the classics. In some way, they had read a lot before they came to it. So you always had to better, you always had to like ride on those shoulders and create an Indian text that came from the Western liberal tradition. Which if you think about it, is pretty nonsensical. Because your experience is rooted here, your writing has to come from here, which is the other marvelous thing that Arundhati did, right? She wrote from here, off here, with language homegrown in many ways, experience homegrown. So it changed everything then. And when you discover that people wanted to read writers like Chetan, because they also wanted to be seen to be reading, seen to be reading in English, seen to be carrying a book that was written in English and saying, I have the ability to read this. This was bringing a different sense of how society worked, how individuals wanted to be seen and how the entire tradition of writing that we had thought we were building on was completely wrong. These were people who may have read a lot of writing in other languages and then come to Chetan. So their idea of a text and their idea of what makes a text work could be very different from what an English speaking, English reading editor in a publishing house thinks of as the foundation for a book. These were completely drastic rethinks that had to be done. And I don't know if we've succeeded even now, because that lack of diversity within publishing houses, the kind of people who come to publishing in English language, there is still that sense of, I don't want to call it snobbery, because that's belittling what is much more than that. There's a sensibility there, which is different. But I think editors are coming to terms with that, publishing houses are coming to terms with that. And what is helping is bilinguality or trilinguality. I think a lot of editors in publishing houses now have access to more than the English language and are consciously aware that they have to be part of other worlds and other cultures to be better at their job in an English language publishing space, which is a completely different thing from what it was 15 years ago, where you kept looking for that Western educated Oxfordian, you know, like the experience had to be of being able to access sophisticated narrative in the West in order to be able to do well here. But now I think most of us who speak to colleagues in editorial departments, all of us value the person who can tell us more about Malayalam or Telugu or Tamil or Bengali than someone who can tell us what the best of American writing is doing now, because that we know how to access as well. But this is much more that you have to be of that place. And not too many learn to occupy that space. So that diversity is bringing in the next level of thinking we need."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:57.240",
+        "message": "I guess, you know, when the future of Indian literature is written in the future by a future historian, she will inevitably have to grapple with the question all historians grapple with, which is a great man theory of history, Carlisle theory that you know, do great men, Carlisle, of course, use the term great men, but do great people shape history or are there currents of history which are independent and, you know, whatever great people emerged from that as purely happenstance and in that regard, I'm sort of wondering that, you know, the massive explosion of readers outside the metros in small town India at around the time Chetan Bhagat came up, would you say that that hunger for reading English and being seen to be reading English was an inevitable consequence of post liberalization India the way it was developing in any case in Chetan just happened to be at the right time at the right place? Or do you think Chetan really did play a huge part in sort of making it fructify sooner than it perhaps would have? Do you have a sense?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:58.480",
+        "message": "I think it's that old thing. If we if Chetan hadn't come along, we would have had to invent a Chetan because the time was such that something had to shift for us to find our own bearings and not allow it to drift into a space where nobody actually belonged. And nobody could anchor it in anything but a space outside. So what Chetan did was, I think, recognize what was going on and feel strongly enough about it to put himself on the line because I don't think it was an easy job to go out there and say I'm a writer is always a tough job to go out there and say I'm a writer who thinks I can sell a hundred thousand copies at a time when nobody did that. That is audacity of the sort that you would not even dream of for the most part, but he did and that allowed everything to change quite dramatically. So I would think it's a combination of things and if it hadn't been Chetan, someone else would at some point have done it. Like later Amish came along and transformed that other space of mythology and retellings. If he hadn't, I guess somebody else would have. But the important thing I think is that now things have settled into a space where that wave is over. And interestingly, very few have followed in that space. Like you still have Chetan Bhagat at the top of the bestseller charts week after week after week. It is quite extraordinary. A decade in, he's still on top. And that so many other writers who tried to write like him haven't stayed there. So it seems now that that time too is perhaps over. We are waiting for the next thing to happen, but nobody knows what that next thing is. And it's very difficult to predict what it could be. And also, as we can see in front of us that reading itself is becoming challenging, writing is becoming challenging in this space. What is it that is going to take that space and suddenly sweep all the rules away?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:23:57.840",
+        "message": "One doesn't know, but it's going to come at some point. Where is the Chetan Bhagat who will disrupt? You know, one possible reason for why Chetan continues to be where he is, of course, is that he's almost become like a self-reinforcing meme in the sense that he is a person for a certain class of people, a certain category of people."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:24:13.960",
+        "message": "And it is cool to read."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:24:15.360",
+        "message": "And therefore, that self reinforces itself that, you know, there are households which have only six books. And earlier back in the day, they would be like they'll have Paulo Coelho and they'll have whatever. And now Chetan Bhagat is always a mandatory part of that. And this reinforces itself. And I'm not saying this with any trace of derision. It is better for a household to have six books and to have no books at all. And this is fairly remarkable. This friend of mine who lives in Hyderabad, in fact, and he is often on the admissions committee of different IIMs and so on. And he told me that whenever he's on an interview panel, he'll always ask the person a question,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:24:49.920",
+        "message": "what are your hobbies?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:24:51.400",
+        "message": "And whenever they say reading, which apparently 60, more than 60% of them do, his follow up question will be, what is the last book you read? And for 80% of them, it will be Chetan Bhagat. And this has and I think my friend said this not with an entirely positive implication, but this can cut both ways. I mean, one way, of course, is that these are just people pretending to be readers and they're taking the one name that everybody takes. But the other way is that, you know, let's not look down on them because they haven't been privileged to have the kind of childhoods we have, where we've had access to so many books and be able to read so much. They want to read and their gateway into the world of reading is Chetan Bhagat, which is remarkable, which is also a conventional view of his in the past that he's introduced so many new people to reading. And that's surely a good thing, because they'll go on to read books by other authors. Is that something that has happened or is happening?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:41.440",
+        "message": "There was a hope at one time that this would happen, that they would read something which was easier to access, and then they would go on and climb the next rung to something that was more difficult. But I don't think there's anything that no data that tells us this is happening. What it's telling us is possibly that they read and they said, okay, now we've been there, we've done that. Now off we go to watch something or do other things that have nothing to do with reading. And no, we're not seeing that ladder. So it's not been the most, what is the word I want? I mean, it's not like somebody built a foundation on which other people are able to stand up and climb and go on, which was a great like that foundation remains a foundation and what"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:25.200",
+        "message": "is to come is still and it's probably important, but we don't really know how yet."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:29.400",
+        "message": "Yeah, no, I also think that this gateway to reading in English is a really important thing, because what do kids in most situations do? They go to school, they read that school textbook in English, and there's not very much to recommend reading further, if you're only reading that. So to find something that's entertaining, that appeals to them that relates to their worlds and at the same time allows them to feel that they've gone a little further in that experience. It's remarkable that there just isn't enough material in that space. And why isn't there enough material in that space? My own feeling is that translations are the space we must look to and build to get that experience. Because if I am a person reading in Malayalam, and I read my English textbooks, and then I go on to read, maybe I may not read the big Malayalam novel even then, because now I am a person who has neither language properly, right? I don't have a Malayalam well enough, because now I'm going off to live somewhere else. And I don't have that. I don't have my English well enough. And if I have to choose to read, maybe I will choose to read in English, because that is the way of aspiration and growth and all of that. In which case I might choose to read a novel that applies to me closer, which would be the novel which is written in Malayalam in translation English. And maybe that gateway would be a powerful gateway to if we allowed ourselves to build it up. And that would be a very, very meaningful gateway, because that's not a gateway into a culture that is alien, or that opens up worlds that we would aspire to. It's a world that is very real, where we came from, where our families continue to live, and where we hope there is also a future and not just the past. So I think it's about a market economy and an editorial and marketing machinery, all of which that has to come together and say, can we now focus on shifting the gateway to our own languages, and maybe use English as a point there of entry into reading in English, and not just leave Chetan Bhagat to be the one person who occupies that space."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:33.800",
+        "message": "And it's really interesting, because you know, you point out that there is a gap there where there aren't enough people at that entry level sort of gateway to English reading thing and Chetan Bhagat came and that's great, but there should be more than that. And at the same time, were there publishers like I imagine in the late 90s, there would have been many publishers asking themselves, how do I find the next Arundhati Roy? And similarly, were there many publishers saying, how do I find the next Chetan Bhagat? Of course, and how much of that question is then saying that just as Chetan Bhagat was a manufacturer entity in the sense that he manufactured himself, he came with a PowerPoint of how I should promote this. How much was there that sense that the next Chetan Bhagat also has to be manufactured perhaps by us? Like, is this a quest that publishers sort of went down?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:16.480",
+        "message": "I think one of a brilliant example of that building on Chetan Bhagat is the Srishti publishing program. I think what they did was to say, let's create a mass market entity and every book we publish will go into that. And much like say a Mills and Boone brand did one time, you knew what you were getting when you saw that brand, right? Which is the thing that the large publishing houses have lost out on. Now if you pick up a book from a major publishing house, you will recognize the logo and you ascribe to it certain qualities. You will say, oh, this will be a well edited book. This will be error free. Perhaps this will be well packaged. One assumes that there is a certain requirement for this book to exist. All of that is true. But there is no guarantee of what the content will be like and whether there is any similarity to something else that that publishing house did because each one is publishing so many kinds of books. But Srishti created a brand that said, whatever you pick from this list, you know exactly what you're going to get. And it's going to be a novel that will entertain you or which will be easy to read, which you will enjoy. And so pick just the brand. Don't pick necessarily the writer or the book. And I don't think anybody else has actually done that in the English language space. Were they sort of successful? I think they were very successful. The difficulty with that is that when a small publishing house cannot back the writer in terms of the aggressive marketing that they're often looking for, then they migrate to other publishing houses that offer them more money. And so they go on. But I think even now, any book that Srishti does will find space in certain stores and certain and people will pick them up and walk away. I remember when I was in HarperCollins a few years in my colleague who was the sales person in the north, he came to me and he said, ma'am, you have to publish books like this, like this is what sells. I went to Lucknow and they told me that this bookshelf that every now and then they have to replenish like 25 copies of each book because people just walk in and look at it and they just buy it and walk out. They don't want to know who the writer is. So the thing about publishing is obviously that we are not able to brand ourselves as publishers. We often have to brand the writer. The writer is the brand. So if you're publishing a writer today who's not published before, you have to start building that brand from scratch for that writer. And identity has to be built around them. Then the next time they write a book, if they choose to write in the same genre, you have ease of marketing, but they might choose to write a completely different novel, especially literary writers. They write a completely different thing the next time. And then you have to start all over again, building that brand. So each day, each writer, each book is a different proposition altogether. Whereas if you have a brand which says this is what I am very clearly, then you don't have to worry about who the writer is, how well known they are, what social media profiles they have. You are giving the brand the identity, and that is so much easier to market as a whole. But at the moment, all of us are struggling with this fact of expansion of multiple categories within each publishing house. And how on earth are we to say what are we? How do we identify ourselves?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:23.480",
+        "message": "I mean, I guess you could have an imprint which does only that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:26.840",
+        "message": "Right. So we do imprints. So for instance, I started up this imprint with a colleague, which is called Context. So Ajita and I do that at Westland. And we think of context as this literary imprint, as an imprint that does very politically engaged content in fiction and nonfiction, that hopefully will do some experimental work as well, etc. So we identify ourselves like that. And we try and build a list like that. Then we have something called Westland Sport, which is clearly a sport publishing imprint. We'll have a business imprint next year. So things like that you can do, right? So then people go into a store and they will see it and they will say, OK, this is a business imprint. I don't know what to get from here. But when you have sort of intangibles, where you have a novel that is just a great read, a brand is difficult to sustain on books like that. And yet those are the books that you really wish more people would read, because they are the books that you want to curl up with on a summer afternoon and read. But how on earth do you brand that then? There you have to brand the writer so that people know if a Bridget Jones is written by Helen Fielding, then anything she writes, hopefully, will be as entertaining and as smart as that. So I'll walk off with it. So each time a publicist works on a book, I think they have to work on the content of the book, and they have to build the writer. So it's extremely complicated. Bringing that book to the reader is each time a challenging task."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:52.160",
+        "message": "No, in fact, just as an aside for the past few months, you guys have been sending me books from context. And, you know, it's actually got that very clear identity in my mind, because from what I have seen of the context books, some of which have featured on the show, and I've really enjoyed is that they all engage with contemporary India. Yeah, which is why that, you know, even the branding of context seems to me to be sort of very spot on. Now, you were talking about sort of the different categories that you have to deal with within a publishing house. And a lot of this is something that's again evolved during your time in publishing. You know, you've sort of, you know, through the 2000s, and you had all these new categories"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:34:30.400",
+        "message": "like nonfiction, like the sort of historical writing that William Dalrymple and Ram Guha"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:34.360",
+        "message": "do sort of also explored in these new appetites kind of come up. Tell me a little bit about your process of discovery of these new appetites as a publisher."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:46.440",
+        "message": "I think one of the instances that actually was a learning for me and a category learning for ourselves as publishers was when we published Sarnath Banerjee's first graphic novel. Because I remember that when that was first published, there was no graphic novel publishing. Or Ajit Sen's book was the first that came out. But that was not something that went out into sort of trade so much. So there it was like saying, what on earth is this work? What is this form? What is this meant to be? And how on earth are we going to sell it or get people to receive it? Similarly, I think there have been points at which we've said, okay, so if you're doing say an Anuja Chauhan, when Zoya Factor first came out, I had a colleague Yogesh in Harper, who was very aggressive about, let's sell it, he said, let's, let's put 20,000 copies out. And I still remember, I think it was Anant who was then at Penguin and now in Harper, who called me and said, you're doing a novel, which is like 20,000 print run. I'm not sure he was talking about Anuja or he was talking about another writer called Sam Born, who also we'd put out very aggressively. And we were like, yeah, we did that. And it must have been foolhardy when you look back at it. But it worked. I mean, Anuja is a phenomenon. And sometimes I think you get lucky. You bring out a book that is in a category that doesn't quite exist, and you get the right person at the right time. And then you can like really build on it. But it doesn't always work, because you might also then find yourself saying, okay, the next big thing is a historical fiction, based on the fact that the big historical novel, the big historical romance is really big in the West. But you will find that there are a few writers who do really well. I remember publishing Indu Sundaresan, whose Feast of Roses and that whole Noor Jahan, Mughal world of big glamorous court and romance and so on, did really well, continues to be in print, like what, 15 years after they were first published. But it's taken 15 years after that for this sudden resurgence of writing around the Mughals and popular history and so on. There was very little at that time. So one didn't think this time would come either. But at that point, it made sense to publish one writer who was doing that. So I think the categories have evolved with more people discovering that their own tastes match with, say, one writer somehow. It's like Vikram Seth, when A Suitable Boy came out, a lot of people suddenly said, oh, this is exactly what I want to read. And I didn't know I wanted to read this. I think that's the same sort of discovery for an editor. When I read Serious Men, the manuscript by Manu Joseph first, it was like, oh, I always wanted to read a really well written novel set so deeply, you know, in our own world. And I haven't read something like this for a long time. And when you feel that sense of discovery and excitement, you know, it will be shared. And it's a matter of just finding a way to reach those people who will share that excitement. So yeah, over the years, I suppose, from poetry to graphic to literary fiction to young adult writing, which again, is a very small category. But occasionally you have that one spurt or one thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:59.840",
+        "message": "I didn't know it existed in India."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:02.000",
+        "message": "You know, the thing is, it exists for books that are coming in from elsewhere. So everyone will read a Harry Potter and a Rick Riordan and all of that. But we still to find that breakthrough here. So till a suitable boy came along, nobody thought that big literary novel would have a great audience in India, but it suddenly found that it had. Similarly, I'm like waiting for that young adult novel that will just grab everybody and say, oh, and opens up the market. That is one category that has not found anything yet that is truly revolutionized the numbers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:38:34.440",
+        "message": "And how much of writerly success like as a publisher, you know, whenever you publish, you always have a sense that these are the guys I think will do well. And these are the guys who may not do so well. And how much does reality conform to that? And to what extent does the success of writers to what is the role that luck plays just happening to take off and hit the zeitgeist at the right time?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:56.320",
+        "message": "I think luck has a lot to do with that. I remember when I joined Harper, this was the time when I talked about Anuja, there was another writer called Advaita Akala, whose first book came out. There was Karan Bajaj, whose novel that came out. And we were hitting 20 to 30 to 40,000 copies of those books because the time was just right. Amitabh Bagchi's first novel Above Average. I remember that first year it did some 25,000 copies. And all of this was completely out of the blue, but the time was right. The numbers were right. And everyone wanted to read that next step up on the commercial novel, you know, and I think a lot of it has to do with luck. It has to do with finding that. And then you'll find that you've done brilliant books, which everyone thought was like the best in the genre, which a few hundred people read or a couple of thousand people read, were greatly reviewed, beautifully reviewed, but they just did not sell beyond that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:50.440",
+        "message": "Can you name some books which are favorites of yours, which you wish had done much better?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:54.360",
+        "message": "I can tell you one book that we published last year, which was Revati Lal's Anatomy of Hate, which I think is a striking instance of a book that has everything to recommend it. Real politic, heart, new ideas, all written in a way that just goes beyond what you have in that genre at the moment. And of course, it was wonderfully reviewed. Recently, Biblio put it on their outstanding books for the year and all of that. But why are the readers not backing it in the way that it should? You know, it's a mystery. Why something? I know that after a certain point, it's also about the profile of the writer. Like after a certain point, anything that a certain writer writes, we get that first pickup. The first 10,000, 20,000 copies will move. We know that. But why is there a reluctance to back unknowns? Why is there not even with marketing machinery behind it, even with reviewers backing it? There's something about luck there that that seems to suggest that it's beyond you. And yet I'm convinced that books like that will last. We'll go on to get into citations phases, we'll go into reading in universities, and we'll find a different way to remain alive and relevant. This may be influence future writers. That's right. That means all of that could happen. But here and now you wish it had that other hit of luck that would take it further."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:15.720",
+        "message": "No, and Revati's book, which I enjoyed a lot is of course an intensely political book, which also brings me to a question which I think, especially in the last few years, publishers must have had to grapple with, which is the pressures of politics and the temptation to self censor something so you do not get in trouble. I'll quote from a piece you wrote for Caravan a few years ago. Quote, when the system seems to connive with the mob to prevent free expression and dissemination of content, what is a publisher to do? The easy thing would be to follow the letter of the law and not test the ideals, if one could call them that, or patience of any part of society. An insider's account of life inside an ashram in southern India, dangerous. A novel that dramatizes caste conflict in Uttar Pradesh based on a real incident, potentially provocative. A study of the violence implicit in religious conversion in different parts of India, best avoided. An erotic fantasy that stars a young Muslim girl, a definite cause of anxiety. And so it could go on a seemingly endless list of dangerous subjects and by extension, unmarketable writers. The other way to respond would be to take the route further north, instead of throwing water on the wood, even before the flame is lit, to sit down and plan the fire. Stop good, which beautiful, very moving words. Explain what you mean by sitting down and planning the fire. Like, what is your approach? I mean, you have not shied away from publishing books that could be controversial. What is your approach then?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:42:44.320",
+        "message": "How do you deal with this? I think I have one clear rule, which is that you do not break the law. That as long as what you've got in that work is not defamatory, not libelous, not doing something that the law says is not acceptable."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:43:01.500",
+        "message": "That is the one clear line to draw."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:03.000",
+        "message": "But the law is also so open to interpretation, right? Correct. So, your legal team will help you interpret it in the way that it should be, hopefully. And I think we have some very bright PR lawyers and we have an intensely sensible team in house which shows us what's all right and what's not. But I also think I honestly don't give a fig about people being offended in this way that this nebulous can be interpreted in any way, offense. You know, we've had this recent instance of that pug, I mean, the turban tying book."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:43:35.120",
+        "message": "Have you read about that? Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:37.120",
+        "message": "I mean, people backed the book from the market and so on. And I think that's a real shame. I mean, forget self-censorship. If you can't make fun of yourself, if you can't have fun with things around you, question them all the time, then we're just sliding into a space where you only walk the straight line. And what does that bring to anyone anyway? As long as you have enough people supporting you in taking that step which says, I've broken no law, but I am going to ask the questions through my author or whoever is writing that book that need to be asked. Do it because that's the only reason to be. I mean, the older you get in the profession, the more you have to ask yourself, why are you doing what you're doing? Right. If you're doing this to be genuinely engaged with what matters around you. And I do think that since 2014, I have particularly felt much more troubled and much more intent on trying to do whatever little bit one can to keep the conversation alive about the things that matter to me. Then the only route open to me is to publish books that I care about in that space and to find writers who write about things that matter. It doesn't mean that if I see a good book, well argued and written well, from another political point of view, that does not have a place either. It does. But I must admit, I bring a different heart and a different commitment to the books that talk about democracy and the republic and India in ways that I hold dear to myself. And thankfully, if you can find the right writers and get the right books, then there are enough readers to sustain that as a saleable proposition. So it's not bad business either. Of course, there are this point of view of diversity, for instance, there are people in a publishing house will have very different political points of view. And you can't as a publisher say, no, no, no, we will only publish what I believe in. So obviously, there is always space to publish right, left, center, whatever. But that is the sheer beauty of it, right? As many readers and as many points of view as there are, the more you can put out, because the most important thing is also, I think, to understand what the other side is saying and to engage with it intelligently, rather than to dismiss it as something not to be talked about at all. That is a grave mistake. And which is why I want to see more publishing, for instance, on the right by people who believe in that worldview, because I want to understand what it is before I can knock it down."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:20.680",
+        "message": "No, and that also enriches the discourse, if you can work with a writer whose views you may not agree with, but you help him get the best version of his views. So you know, what kind of strikes me here is and I'm just looking at sort of journalism as an analog. And what one sees in journalism is that more and more you see the really big sort of entities like the major mainstream newspapers and so on, play it safe, self censor when they feel like and one understands why that is because they have business imperatives that go beyond the newspaper business. You know, they are in all other kinds of businesses, a government can put pressure, threaten raids, ask for their tax returns again, and so on and so forth. There are a million ways of putting pressure. And what you see is a bunch of young publications, which are bravely fighting the good fight people like scroll wire, alt news, whatever, we know who they are. And in publishing, on the other hand, the standard you have taken is that no, it is a big people who should fight because we have the legal resources to actually fight this fight. And we are doing the right thing. Yeah. And it strikes me as a worry that, you know, it's great that you should say that, but you're an individual and a lot of this is coming from personal conviction. But is this kind of approach something that can survive in the system beyond individuals"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:35.600",
+        "message": "like yourself? I think it can. And I think it will, because, for one thing, the pressures are not the same, especially within English language publishing, right? I don't think this could be said of publishing in Hindi, for instance, or in other languages, where the voter is very close to that language and to that culture. Whereas I think the establishment does not care as much about the English language publishing space, because they also know that in some ways, it is still an echo chamber. And it is not going to drastically change the way people think much as we'd like to think that we can achieve that. I think we are often talking to converts who are already thinking along the way we lines we are. So it's a kind of revalidation. Sometimes it's like talking to yourself over and over again, which is also important to do. But the day it becomes a matter of urgency that this conversation of a book with a reader in the English language will actually change a vote or turn a vote or make constituencies of those people, I think that is the day we will face genuine pressure. At the moment, that pressure is not so big that we can't resist. It just takes a strong legal team, it takes some public support, and you can get past it. But when it comes to religion, then obviously there are problems because sometimes it's simply a matter of you're saying, even if I'm within a publishing house that can protect me, there are other people in that publishing house. And stones can be thrown at anyone and somebody can be taken off to jail as representative of that publishing house who had nothing to do with the choice I make as an individual. And that is an unfair passing on of responsibility. So there will be times when you have to take the call and say, well, this is done, but maybe we just can't live up to it beyond a point. And so we have to succumb to the reality of it. Thankfully, in my own experience, that hasn't come to be, there has been no such thing, but I see it around me. I see publishers and editors who've had to go through that experience, and it's very difficult. So far from sitting in judgment on anyone who has to either self-censor or pull back books or whatever, I'd say the problem here is that we don't have enough support when these things happen. People don't care enough to step out and fight that battle. I mean, when Perumal Murugan said, I'm dead as a writer, it took a court to say, do what you do best, which is right, and go back and do it. And he did it, right, and he's now one of our best known writers and the best writers we have. But there was support for him. There were people who went out and said, this is an important battle to fight. His publisher, Kannan Sundaram Kalachuvuda, stood by him, and they went to court with him. If it takes a few individuals to back publishing in a certain way, it also takes only a few individuals to fight the battles that matter, as long as they are supported enough by the larger community. And I think if we don't see the necessity for that in this time, we're never going to see it again, because we're not going to have the freedom to see it again. So we'd better stand together."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:47.800",
+        "message": "No, I'm just thinking aloud. But it strikes me that there might be a good sort of self selection at play here, in the sense that the people who would have been likeliest to come into a thankless profession like publishing in the, you know, in the 80s and 90s, and who are therefore senior in the industry now, are people who would have been prolific readers and deeply engaged with critical thinking and so on, and therefore are likelier to fight back against any kind of oppressive climate coming from somewhere."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:18.000",
+        "message": "Is there perhaps something to that? I imagine there is because we did grow up in a time where these things were the things you fought for, and you continue to fight for them. But I also think that, in a strange way, the people who are now coming into it are coming into it at a time when there is an urgent need to think like this and to rethink where we are. And therefore, I'm also hopeful that the urgency we did not face, then we came to it gradually, they will be aware of it from the very beginning, and they will set up their goalposts and set up their games and boundaries already knowing that these are important turfs to guard and that these are important turfs to fight for. And as long as they also have an old guard standing by them, I think they will grow into people who will protect the ground for us."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:52:08.960",
+        "message": "That's really heartening. Let's kind of move on now from politics to a subject that is less worrying, which is the nature of reading, you know, people read for different reasons, people might read for performative reasons, they might buy a book, you know, if something wins a Booker Prize, a lot of people who buy it, buy it because I have to have it, I feel intellectual just by having it. People may read for escapist reasons, which are great reasons, which is why I started reading, for example, people might read to learn more about the world, people, I mean, it's the best way to learn more about the world, really, and people might read to sort of enlighten themselves and so on. Or people might, you know, in the case, you know, as a suspicion was about many Chetan Bhagatri, does they might read to learn the language better, which is also great. Looking through the sort of the different kinds of reasons why people read, have those sort of changed, you know, over the last sort of 25 years that you've been in the business?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:53:04.520",
+        "message": "There's one clear difference I see in numbers, which probably tell us what people are reading. And that is this whole new market for the spiritual book, for the book by the gurus, for the book by the religious or not necessarily religious, but reformist, ashram living teachers of how to live and how to think and how to make yourself whatever you want to be, etc. Hundreds of thousands of copies are being sold of those books, and the bestseller charts are now ruled by them. Which means people are turning to the DIY in a different way from which in which they were turning to them earlier, which was like the Dale Geert Karnagie, how to improve how to you know, be better at your job sort of thing, to some kind of great need to have systems of peace seeking and meditation and, you know, rejigging your insides and all of these things that are happening. And the numbers show that they come from a very Hindu space. They come from a very mainstream space, if you want to call it that. And they are obviously backed by systems, by organizations. So there is a certain way in which they are organic and going to readers, but they're also institutionalized. So that is a new world for us. It's been the last few years that we've seen this market really develop into big numbers. For the rest of it, the categories haven't surprised us. I mean, they're still the same old categories."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:54:46.960",
+        "message": "Like I did an episode with Akshay Mukul a while back on his great book on the Gita Press. And, you know, the big revelation in that book was how much of an organized movement that was about getting that kind of literature out there and getting people to read it and all that. Is this in a sense an extension of that? Or is a lot of it just an organic quest of a lot of people now sort of having the means and the spare time to be able to actually read books and having those same urges and English being aspirational and growing? Where, you know, they're sort of, I mean, I'm assuming many of these would be readers"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:20.240",
+        "message": "who don't otherwise read, right? Correct. That's why I said that in that way, they are the new category of readers who are like people discover Chetan Bhagat and how to read in a certain way. They discovered these and said, oh, I enjoy reading these books. I enjoy reading them in English as well, because it's not about the language. It's about what's being said to me. And I get what they're saying to me. So I think there are many among those people who have come to them organically in their own time in life, their own age or whatever it is that drives them to it. I also think there is an institutionalized way in which that reading is being propagated and nurtured, which is to do with our own society at the moment, which is to do with what is seen to be good to read and which prove your allegiance to a certain way of existence. And you know that this is only going to get you kudos and brownie points and not there's no downside to being seen to be reading this stuff. So I think you do fall in with the system while sometimes also finding that one book or two that actually makes a difference to your own life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:56:30.120",
+        "message": "So are there sort of political and social implications to this in the sense that you're not just picking up that spiritual book for, you know, your personal peace of mind or whatever, though that might be a reason in many cases, but also out of a tribal sense of belonging"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:56:45.460",
+        "message": "to a community and a way of thinking and a way of living and that book reaffirms that. I think it does do that. And I think there are a lot of people out there who feel a little lost in their own lives, perhaps lost in not having communities around them, which is why they seek out others to belong to. And when they do, then these texts and these readings and remember, I would not underestimate the WhatsApp universes we occupy now, because there's a lot of little wisdoms and little videos that do the rounds that somebody said something which made a lot of sense to you. And then you say, oh, and you go into the bookshop, or you browsing online, and you suddenly see a whole book by that person. And you say, I'm sure there's something there for me and you buy it and you may not read it cover to cover. But there will be little nuggets, there will be little things in it, which you will apply to yourself. So you will then next time buy another one by somebody else, maybe in that same category, because it gives you something which is a learning which is something that you want for yourself in this really vital way, which you may not have felt at another time in your"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:57:43.320",
+        "message": "life, but you certainly do now. And if there's something there that you know, is part of your value system, buying it is like an affirmation of who you are, in a sense, this is who I am, this is where I kind of belong. Let's talk a little bit about ebooks, you know, when the Kindle first came about, I mean, I was just an evangelist, because for me, books were the words that an author writes, yeah, you know, the rest is packaging. And I also, you know, being of the age I am do feel nostalgic for the particular packaging in which we read our books. But at the end of the day, it's wood pulp, it's paper, it's just packaging and the words are everything. And I imagine rather naively that after my generation dies out, all the kids will just be reading ebooks, right? And that's not that's clearly not happened. I mean, physical books are selling more than ever."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:58:26.480",
+        "message": "Is this something you foresaw?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:27.480",
+        "message": "Or you know, why do you think this is?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:58:29.880",
+        "message": "I think that in the beginning, everyone in India also thought we'd follow the path of the West. And in the US, for instance, they were looking at something like 50% of the market being ebooks and 50% physical books. I think this was around 2011 when ebooks outsold, but then it flipped back. Then it started to yeah, then it started to climb back. And while we were pitching ahead, so I remember when you made your five year plans, you'd say five years from now, you would have like 50% ebooks and 50% physical, etc. And you thought you were planning technology towards that, etc. And suddenly, it changed. And you started to see that 50% going back to 40 to 30 to whatever it is now maybe 25 or 35. And you realize that that is something that you're not going to reach the 50% before going back to 25. You're probably going to climb gradually up to like 25 20% at the most, and stay there is the feeling we have now. And there is in India for sure, every publisher is still banking on selling physical books. There's a little bit of an exception once in a while. I mean, there are certain kinds of categories. For instance, I remember when Abdul Kalam's books first came out, and ebooks were starting to be popular. There were a lot of people who wanted to read his books outside of India as well. And for them, the ebook was easier. So you had some books and I remember this Marathi publisher telling me that the Marathi reading diaspora were buying a lot of ebooks of the big novels in Marathi. So there were pockets where you saw that this could be the future. But each time then the numbers came down to okay, 5%, 7%, 10%, whatever. And it never really became a challenge to the physical book. And I think that's where we are at now. We're not even anticipating a future at the moment where the ebook will take over."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:00:12.800",
+        "message": "And give me a sense, I mean, perhaps I should have asked this question right at the start. But give me a sense of how readership has evolved in India through the years that you've been part of the publishing industry just in terms of numbers. Like do more people read now? Do more books get sold? Have there been booms? Have there been sort of crisis?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:00:30.840",
+        "message": "I think books every year, we do sell more books than the previous year. There's no doubt about that. The children's market has been growing steadily. There are years, I mean, several years where retailers have said they have grown by like 25% over the previous year. So that is obviously you can see why. I mean, there are more children coming in through the language systems into English."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:00:50.480",
+        "message": "That's our only demographic dividend."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:00:52.240",
+        "message": "Yes, there's no doubt about that. So that is definitely a growth. Educational publishing, school books grow by sometimes 100%, 50%, 100% depending on the company you're in. That is also explicable. You know how many more students are joining schools? How many more schools are starting up, etc. But in the choice space where you are actually choosing to read a book because you want to spend time with it and not for any compulsion, I think even that space has been growing. As I said, sometimes in this category, sometimes in that. But if you look at the overall picture, the bestseller has gone from being 5,000 or 10,000 to 100,000 or 50,000 copies, which in itself is a marker of how much more we expect our better books to do. So while your average book, as I said, may still be 2,000 to 3,000 copies, when you say something is doing well, you do not mean 3,000 or 4,000 anymore. When you say a book is doing well, you're actually saying where at least 10,000 copies have sold and not at a really cheap price. Maybe I'm not when you're talking about a book that is a mass market novel, for instance, which is like a 200 rupee book or a 250 book, then you're not even going to look at 10,000 copies as a bestseller. Then you're only going to talk about it as a bestseller when it's reached like a 50,000 or something. Right. So in that sense, yes, everything is growing. Everything is looking better year after year. Most publishing houses are able to grow to some percentage or the other every year. It's not static like it is in several Western publishing houses. The question is only, are we growing in the right segments according to ourselves? Are we at the right books or the books that we think deserve to be selling more? Are they selling more? Are we getting the best writers the space that they should get as opposed to books that are just being churned out and read and republished or whatever without enough care to them? So those are questions that I think will always exist. I mean, there'll always be filters that some want to apply and there'll always be gateways that other people want to break open. But that I think all of it coexists. There will be some in this segment and some in that and together they will grow. But you can't knock out one for another."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:03:06.920",
+        "message": "And speaking of filters, how has discovery changed over these last 25 years? Like back in the day, you know, your discovery, I imagine, would be one of three ways you read about a book in the newspaper, maybe through a news review and a book review, and there weren't many of those. You'd hear about it by word of mouth, or you'd see it in the display of your local bookstore. Well, now I think that ways of discovery must surely be so much more disparate. And especially in Bombay, I hardly get to go to a bookstore anymore. And when I do, I'm usually not buying very much."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:03:37.360",
+        "message": "I'm ashamed to say I'm just looking in my Amazon and, you know, making lists of books"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:03:41.920",
+        "message": "that I want to acquire in whatever form. How has the discovery changed? And following on from that, how does a publisher then cater their marketing to how people discover books? Is social media really a big part of that? Do you then find yourself chasing influencers and getting them to write books, simply because they are influencers, which I imagine would be a wrong reason, but from one point of view"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:04:06.200",
+        "message": "might make sense. I think it has changed. I mean, of course, there's the usual old ways, friends recommended, universities recommended, or you find it in a bookstore, etc. But a lot of people now are finding that they're browsing online and coming up with a book that they then chase down to see the reviews. And Amazon five star reviews by 300 people will drive you to buy a book in a way that I think you would have not thought possible earlier. Because there was still that sense that the reviewer who's a professional reviewer, who writes for it in a sanctified space like a newspaper, has a view that is more to be respected and to be followed up on by purchase of the book. But now people are saying, I actually I don't care who said it. I trust these hundred people on because those are like they have no stake in anything. I believe that they're speaking what they want to say and what they actually believe. And I'm willing to go by that. So a lot of people will buy a book after reading online reviews, which is a whole new thing, which means that your marketing, as you said, has to be geared towards online discovery. It can't just be POS in stores, can't be visibility in bookshops alone. It really needs people to look at a post by someone and follow the link to buy the book right then and there because it's a possible. And when an influencer like say Ashashi Tharoor says, I don't remember the last time he said this, but when he does say, I loved this book and puts up something by the author, I am absolutely sure that a lot of people would follow that and go buy the book immediately. We see spikes when an influencer who's like a major influencer says something positive about a book on Insta or Twitter. We see that people go online and buy the book. We don't see that spike so much in the stores, but we see it as an almost instinctive response that oh, then I want it and I am able to buy it immediately online. So I will do that. So we do invest a lot more time and money and effort in getting our social media right, in following the right people on Insta and Twitter and Facebook to get that. A lot more Facebook live chats happen when you're launching a book. Twitter Blueroom is used to have conversations with writers. So there is that sense that the real committed reader who goes to a bookshop, who actually makes the effort to go to a bookshop, will discover the books that they need to discover. We don't need to worry about them so much, but it's the others that you want to get, the ones who are not committed, who could choose to read or not read and would be completely almost licentious in their, you know, they can read something from the US or the UK or India or Europe or whatever. How do you get them to focus on the book that you want them to read?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:06:59.360",
+        "message": "Who will read something and love it and say, wow, I didn't know I needed this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:07:02.760",
+        "message": "Exactly. And once they say that to five more people, and once five more people read it and put up great reviews, and then five other people protest that and there's a little bit of an environment of, you know, we are reading and actually engaging with this book, then it will take off differently."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:07:16.720",
+        "message": "You know, I think back on how I used to sort of read books once upon a time that let's say I'm taking a local train from Andheri to Churchgate 20 years ago, and I'll carry a book with me. And today, if I'm on a commute that long, I'll be looking at my smartphone and I'll be on Twitter, or I'll be listening to a podcast, perhaps, which is not necessarily a bad thing. And doing things like that, or when I go to bed at night, you know, I'll have a little bit of bedside reading going on. And now most people are essentially turning off their blue screens and hopefully, you know, in some cases reading the Kindle on their phone, but that's less and less likely. So I'll sort of I've taken up a lot of your time, I'll end this episode by asking you a question I ask all my guests about whatever subject we're talking about, that looking at publishing specifically and reading in general over the next 10 to 20 years, what gives you hope and what gives you despair?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:08:05.200",
+        "message": "What gives me despair is the people I see around me, including my children, who do not think books are the mainstay of their lives and would think books are perfectly dispensable. And that what they get from YouTube, or from whatever else they're engaged on in on the smart screen is absolutely good enough for them. I don't know how long those things last, whether they are phases, and maybe they will change."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:08:37.760",
+        "message": "Maybe they secretly read every day. This is just a posturing for you. They're rebelling against their mother."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:08:42.280",
+        "message": "Possible. But I mean, they're just reflective of a whole community of people out there who I think read less than I would like them to. But you know, the thing is, when I was growing up, or you were growing up possibly, or other people our age were, I don't think our mothers or fathers read stories to us. I think they told us stories when we went to bed. But somewhere along the way, we decided that reading a book to a child was like the best way to educate them and bring them up to date with, you know, life and times of the world and their characters. And then when we saw that they were reading less, we decided that, oh, my God, we have completely transformed and the society is no longer reading. But when were they reading? We tend to think everything in our life is the standard by which everything else has to be measured. And that's partly why we think reading is so important. But if you look at it another way, as long as the stories continue, as long as people will use narrative in their own ways, whatever those ways are, and they will continue to get people to think through those stories, bedtime or in school, or just the way we talk to each other, I think that's good enough. I think its form is only so important. Whether it's a printed book, whether it's on screen, whether it's written or told or watched. I think the story is the heart of the matter. And that's what gives me hope that as long as the story is required for us and as long as we love the story, we will continue to find new ways and more interesting ways to tell that story. And a book is one part of that. And I think we should stop prioritizing form over content. And as we change, as lives change around us, people will find different ways of packaging the story. But I don't think the story is going away. And that's what gives me hope."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:10:49.480",
+        "message": "These are very wise words. I agree with you entirely. And I would add to that by saying that it's okay if you don't read as much as your parents think you should as long as you spend that time listening to podcasts. Kartika, thank you so much for coming on the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:11:01.560",
+        "message": "I really enjoyed chatting with you. Thank you, Amit. I loved that too."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:11:06.960",
+        "message": "If you enjoyed listening to this episode, you can follow Kartika on Twitter at KartikaVK. You can follow me on Twitter at Amit Verma. You can browse past episodes of the scene in the unseen and seen unseen at IN thinkpragati.com and ivmpodcast.com. The scene in the unseen is supported by the Takshashila Institution. Postgraduate courses in public policy begin in January. The last couple of years I've actually taught a module on how to write op-eds. So let that be reason enough to sign up. You can get more information at takshashila.org.in. Thank you for listening. Hi, I'm Satyajit. Hi, I'm Racheta."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:11:45.840",
+        "message": "We are from the Open Library Project and we host a podcast called Paperback. Paperback is a podcast where we engage with stalwarts and experts from various industries, presenting non-fiction titles that contributed to their journey in a big way. We've had guests like Anjali Raina, Dr. Marcus Rani, Dr. Swati Lodha, Ambi Parmeswaran, Apoorva Damani and many more on our show Paperback. Find new episodes every Wednesday on IVM Podcast app, website or wherever you listen to podcasts. Hi I'm Sariya Natarajan. And I'm Alok Prasanna Kumar. And we are the hosts of the Gana Tantra Podcast. On this podcast, we speak to academics, social scientists, journalists and activists to find out what's actually going on in Indian politics. On this podcast, we stay away from personality politics, intrigue and gossip, and instead focus on the data, research and analysis that drives all this. So tune in to the Gana Tantra Podcast, where new episodes are out every Wednesday on the IVM Podcast app, website or wherever you listen to your podcasts."
+    }
+]

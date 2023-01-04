@@ -1,0 +1,192 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Welcome to the IVM Podcast Network. Imagine you're a farmer with an empty bank balance and little cash. You're about to sow your crops at the start of the season and are filled with uncertainty. What if the monsoon is bad? What if the harvest isn't good for some other reason this year? If you're unable to sell your produce at the end of the season, you will be deeply in debt and will not be able to put food on the table. Just as you're getting stressed out over this thought, a man in a floral t-shirt and Bermuda shorts appears in front of you. He gives you a sunny smile, a plate of fried eggs sunny side up, and then grabs you by the hand and takes you to a Las Vegas-style casino. There, he takes you to a roulette table and he says, spin. And even as your first instinct is to get away from him, a voice in your head says, don't worry. This is exactly what you need."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:01.680",
+        "message": "Welcome to The Seen and the Unseen, our weekly podcast on economics, politics and behavioural science. Please welcome your host, Amit Varma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:14.400",
+        "message": "Welcome to The Seen and the Unseen, my weekly podcast in which I talk about the seen and unseen effects of public policy. Today's subject is futures markets in agriculture. The government in India has always been wary of futures markets in agriculture, either regulating them heavily or simply banning them outright. What is the seen effect of this? The seen effect of restricting futures markets in agriculture is that farmers don't become gamblers. After all, their place is on a farm, not in a casino. Ah well, you could argue that the whole world is a casino and that the farmers are already gambling. To speak more about the subject and to take us through the unseen effects of such regulation, I have with me Karthik Shashidhar, a renowned quant with a cult following, a management consultant, a columnist at Mint who also corrupts young minds by teaching at IIM Bangalore. Karthik, what are futures in agriculture?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:16.080",
+        "message": "Okay, first let me talk about what are futures, right? And then we'll come to the agriculture. So usually, so let's say for example, that like, I'm okay, actually I'll take the agriculture example. I want to sell something, let's say six months down the line, and I don't know what the price will be then, right? So futures is basically a contract I strike with you saying, let's say on the 26th of May 2017, I'm going to sell you a hundred kilos of rice for which you're going to pay me 10,000 rupees. So it's a contract you strike on one day for execution on a future date. So the future, at the simplest level, that's a futures contract, which is basic. And then, and futures are typically traded on an exchange. So in commodities, you have like the multi commodities exchange and NCDEX and so on. For stock market, you have BSE and NSE and things like that, where futures are traded."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:12.540",
+        "message": "So why do governments tend to be distrustful of future markets and why, for example, has there over the years been so much regulation in futures trading and agriculture?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:20.080",
+        "message": "Yeah, just to give a little history into this, futures trading and agriculture had been blanket banned in 1952 or something like that. There was some Forward Contracts Regulation Act, which banned it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:30.080",
+        "message": "What was the logic for it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:31.360",
+        "message": "Logic for it is that like, it's an anti-farmer, futures are anti-farmer. It like supports evil speculators who can buy cheap from the farmer and sell at an expensive rate to the consumer. And if you were to take out the evil speculator, and instead like kind of force the farmer to sell through regulated markets, then both the farmers and the consumers can gain. So that was the logic back then. 2003, they figured out the fault in the logic and they undid that regulation. And futures markets in all..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:01.200",
+        "message": "So what did they understand?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:02.200",
+        "message": "What is the flaw in that logic? The flaw in the logic that like futures are anti-farmer, it's very hard to simply describe what the flaw in the logic is. But the basic logic is that futures are pro-farmer because they allow, they're a key risk management tool for a farmer, because for a farmer, one of the biggest sources of risk, apart from monsoon failing and electricity and things like that, a big source of risk is price risk. If I am going to grow coffee today, if I need to make a decision that I want to grow coffee, I need to know how much that coffee will fetch me when I'm going to harvest it now. And futures markets is one excellent way for me to know what it's going to fetch me. And if the government decides to ban that, I have absolutely no information on price and I have to speculate. So the lack of futures markets actually results in farmers speculating."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:54.440",
+        "message": "Right. And instead of the certainty it provides. So the scene effect of regulating or banning futures market would appear to be that there's no speculation and it's, you know, you don't introduce the logic of the casino into something as initial as agriculture, but the unseen effect is the opposite happens, you're saying."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:10.200",
+        "message": "Exactly. So let me just take a recent example. I think in August this year, the government recommended SEBI to ban futures trading in sugar. The trigger for that was that prices of sugar had been increasing and the government in its wisdom said, the festival season is approaching. You don't want consumers to suffer because sugar prices are going to go up. So and it's because of evil speculators that like prices are going up. So let's ban speculation, let's ban all futures contracts. But then like, think about it, right? I mean, what a futures price essentially recommends or represents is actual demand supply imbalance in the future. Why would you speculate? Let's say you're a hoarder, right? You think of all those hoarders who are villains of all the 1970s Hindi movies. If you're a hoarder, I would hoard something if and only if I know it's going to fetch me a higher price in the future. And how do I know it's going to fetch me a higher price in the future? For whatever reason I have in info on the market, I'm probably, I have my eyes and ears close to the market. And I know that there's a shortage of this coming up sometime soon. And because of that, I'm going to hoard. And yes, so it is a logical thing to say that futures markets possibly encourages hoarding. But then hoarding also encourages efficient distribution of resources. And information. And information. And this is the other thing, right? I mean, this is something I want to talk about. So basically, if you're a farmer, think about a socialist utopia. In a socialist utopia, the government or whoever it is decides that, okay, this year we need to plant 100 kilos of rice, 200 kilos of wheat, whatever. And these are the farmers who need to plant that and so on, right? And in the presence of perfect information, possibly it might work, but then that leads to a coercive state. So how do you come up to the same conclusion in terms of how do you, how do you get millions of farmers across the country to coordinate on who grows what every year? For that, you need a way to capture information. So if I am a farmer, if I need to be steered towards growing what others are not growing, the futures market is a great place for me to know what others are growing. So let's say for example, lots of people are growing rice and have sold rice in the futures market because they know they're going to grow rice. Then I'll see that the price of rice in the futures market is down. So it makes less sense for me to buy rice and maybe I'll grow wheat instead and so on, right? So when a large number of farmers take a look at this futures market and participate in it because as soon as they make the decision on what to grow, they need to lock in the price on the futures market, they are exchanging information with each other and they together will collectively come up to a decision on what is good for the country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:49.680",
+        "message": "So is it correct to say that just as prices convey information, futures market are one great mechanism for actually propagating that information efficiently?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:58.960",
+        "message": "So I would put it a little differently. You say prices convey information. Futures markets are again like futures prices, they convey information of what the market looks like in the future. So it helps people make more efficient decisions because they have more information on what things are going to be like in the future, right? So instead of going to the village astrologer to know what the price of rice is going to be, you go to the futures market to know what the price is and make your decision accordingly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:25.880",
+        "message": "Where the wisdom of crowds come into play basically."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:28.400",
+        "message": "Where the wisdom of crowds come into play and the important thing is this, it's the participation. So it's important for futures markets to work. It's important that a lot of people are participating in the market. If I only use the futures market to as a price reference and don't actually trade on it, what will happen is like whatever my information on what I'm going to grow is not going to get disseminated to the larger group of farmers. So basically to use a phrase from another context, you don't want lurkers in the futures"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:08:56.840",
+        "message": "market."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:57.840",
+        "message": "So if I'm participating in the futures market, it's good for me because it locks in my price and it's good for everybody else because they know what I'm growing. They get that information. And it happens in a completely anonymous fashion. You don't need to know which is the farmer who's growing rice so that you can go beat him up so that he doesn't grow rice because it happens at a large decentralized level."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:16.640",
+        "message": "Moving aside agriculture for the moment, can you give me examples of futures markets in"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:19.720",
+        "message": "India which work? Yeah. So for example, India has one of the most vibrant futures markets when it comes to stocks. So if you take, let's say for example, you want to bet that, so Nifty is trading at around 8,000 now. You want to bet that it's going to go to 8,500 in six months down the line. So if there's a six month futures, sell on the futures market and then like you can lock in the price."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:41.280",
+        "message": "So that locks in your preference and it sends information of your perception to everyone"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:45.280",
+        "message": "else and that affects, exactly. So it's a way to collect the wisdom of crowds, as you mentioned a while back. So it's profitable both for you and for everybody else. So it's a kind of a Pareto optimal thing to have futures markets."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:55.320",
+        "message": "So now you mentioned before I rudely interrupted you that the ban on futures markets in India was lifted in 2003, I think that it was, but regulation has continued on an ad hoc basis"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:06.080",
+        "message": "since. Yes. So the biggest problem with the futures markets now is one problem is that you have large lot sizes. This is there in the financial futures also. The logic is that like the small retail investor needs to be protected or small farmer needs to be protected. So you don't want small farmers to be gambling their money away in the futures markets. So you need to have like, like to buy futures in stocks, you need to have at least two lakh rupees for commodity. It's, it's a larger number. So, so because of that, all farmers cannot participate in the futures market. So they are one denied the information to their denied the opportunity to convey their information. Right. And the second thing, and which is more kind of problematic in terms of the use of futures markets is this whole ad hoc banning. So earlier this year, for example, the prices of sugar were going up and the government decided that, okay, so the way they did it was this one prices of sugar are going up to futures markets exists in sugar. And then they come up with a causation that because futures markets exist in sugar, the prices are going up, ban the futures markets. Brilliant. So the, the good thing now, and this is an important piece of reform from this year's union budget, which people have missed is that earlier you used to have this entity called a forward markets commission who used to recommend, who used to regulate all futures and options markets in both agriculture and single stocks and so on. After a scam, I mean, a lot of reform in India, I think happens on the back of scams. After a scam last year on the national spot exchange, what the government decided was to merge the FMC with SEBI, who's the securities market regulator and who has a great reputation of fair securities market regulation over the last 25 years. So now earlier, FMC was a very pliable kind of a regulator. Government would say, ban futures in this, they would go and ban it. This year, two times government asked SEBI, why don't you ban futures trading in sugar? And SEBI said, no way, it's a, we know markets better and banning futures trading is not going to kind of really result in kind of curbing the price."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:09.560",
+        "message": "So we are not going to ban it. So given the role of futures market in a bringing some certainty to say a farmer in this case and also in disseminating information, is there any circumstance in which it is correct to ban futures markets?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:24.160",
+        "message": "I can't think of any. You can't think of any? I can't think of any."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:27.160",
+        "message": "And is it therefore any reason to regulate them at all?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:30.260",
+        "message": "You need to regulate them in terms of like, let's say, for example, like you were to regulate stock markets, because you need to make sure that like, for example, there's counterparty risk. Let's say I pledge to sell you 10,000 kilos of rice, and then like you go bankrupt. My kind of contact needs to be upheld, right, which is why you need to have futures trading on an exchange where counterparty risk is protected and so on. Second thing is you don't want fraud in the futures market. I mean, see, the thing is, protecting the small farmer is actually a good kind of intention. And you need to protect him against fraud and so on. So how do you kind of prevent that? A little bit of a gray area here is in terms of like, marketing and sales of futures, because sometimes like, I mean, there's no, I can't think of a good way to regulate them, because you don't want, there can be massive mis-selling if you were to actually allow it. I mean, that's possibly the reason why governments don't allow small farmers to actually trade in futures markets and so on. Because they can be like massive, like if I'm an investment banker looking to make a good buck, I can go catch some poor guy and like sell him some like, there's a recent case of Goldman Sachs selling a large number of some call options on Citigroup to Libya in 2008. Libya thought they were buying Citigroup stock, Goldman had sold them options. And the Libyan Investment Authority lost more than a billion dollars or something. And recently they sued Goldman and the case got thrown out by a court in England."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:57.320",
+        "message": "So in regulatory terms, now that SEBI, which as you say, has a very good record of regulation over the past 20-25 years, is in charge of regulating future markets, is this an ideal situation or in policy terms, is there something else that you would suggest?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:11.560",
+        "message": "I think it's a good situation that SEBI is regulating now, because like, there's no reason why commodities futures are different from stock futures and why stock futures are different from stocks and so on. So it's good that everything is under one umbrella. And it's under a good umbrella because I think SEBI has had a fantastic record in the way it has regulated stock markets in the past. In the, one of the things is, I mean, you do have restrictions in the market. Like for example, you can only use futures for hedging and not for speculation. There's actually, so you, like any other law, this law has been written in a way that it's very hard to kind of be enforced. It's very hard to kind of follow without breaching. So the ambiguity needs to be removed. There's an ambiguity in terms of like, am I a farmer? Am I using it for hedging and so on, right? So that bit kind of needs to be kind of removed so that the regulation is far simpler. While on the other hand, you need to have some ways of consumer protection because you don't want too much of like mis-selling and stuff to go on, which can potentially happen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:12.280",
+        "message": "Exactly. So to sum it up, why don't you tell me again, what are the unseen effects of either banning"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:19.000",
+        "message": "or over-regulation of futures markets? Okay, the main unseen effect is that it results in speculation. The seen effect of futures banning is that it cuts speculation. The unseen effect is that it results in speculation because people are denied information. And when you have information, there's no need to speculate. It's only when you don't have information that you try and speculate. And that's what people do in the futures market."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:40.320",
+        "message": "So by not allowing farmers in the futures market, we're turning them into gamblers."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:43.320",
+        "message": "We are turning them into gamblers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:44.960",
+        "message": "Karthik, pleasure having you on the show. Thanks so much. If William Shakespeare had been used to thinking probabilistically, he would have no doubt said that all the world's a casino, all the men and women merely gamblers. Every action we take is in some way a gamble of some sort, based on our estimate of probabilities and our weighing up costs and benefits. Maybe we don't think about it in these terms, but intuitively that's what we're doing. Consider the irony then that futures markets, which seem to us to be an arena for gambling, actually reduce the risk in a farmer's life."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:16:25.080",
+        "message": "Who would have thunk? Next week on The Seen and The Unseen, Amit Verma will be talking to Varun Mitra about the anti-defection law."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:40.800",
+        "message": "For more, go to seenunseen.in If you enjoyed listening to The Seen and The Unseen, check out another show by IVM Podcasts, Symbolified, which is hosted by my good friends Naren, Chuck, and Srikith. You can download it at Audioboom or iTunes."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:16:56.240",
+        "message": "Hey man, just help me out, man, I need some, I need some podcasts, man, I haven't had a fix in a week, just need some. Don't you worry about it, I got podcasts galore for you, man. Just go to ivmpodcasts.com, you can also find us on Facebook, Twitter, and Instagram. Thanks, man, I'm gonna check it out."
+    }
+]

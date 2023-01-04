@@ -1,0 +1,342 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M. Welcome to the scene and the unseen, today's episode is about behavioral economics."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:49.520",
+        "message": "Richard Taylor, one of the pioneers of this field, won the Nobel Prize for Economics recently and honestly he might as well have won the Nobel Prize for understanding human nature. I keep telling friends that while the term sounds geeky, behavioral economics is, simply put, the study of human nature. To celebrate Taylor's Nobel Prize, and in fact the whole field of behavioral economics, I asked Nidhi Gupta to join me on this show. Nidhi is the head of postgraduate programs at the Takshashila Institution in Bangalore and is a graduate of the London School of Economics and Political Science. One of her main research interests is behavioral economics. I caught up with her a couple of weeks ago. Nidhi, welcome to the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:01:31.400",
+        "message": "It's a pleasure to be here, Amit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:32.400",
+        "message": "Nidhi, we are both pretty much fellow behavioral economics geeks in the sense that, you know, we've studied the subject and are both fans of Richard Taylor who won the Nobel Prize"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:01:42.160",
+        "message": "recently. Absolutely. Yes. And I'm very excited that, you know, finally behavioral economics is getting its due and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:47.640",
+        "message": "it's being recognized. Yeah. And of course, Daniel Kahneman won it so many years back as well. And, you know, I often think that the term behavioral economics makes it sound more niche and specialized than it should be, that what it really is, is the study of human nature. And therefore, if you want to sort of understand the unseen effects of many things, understanding human nature is the key to that. And therefore, behavioral economics is the key to that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:10.560",
+        "message": "Right. In fact, you know, economics is finally about the incentives that people respond to or how they use the scarce resources. And if you're talking about people, you can't take the psychology of people away from it. Exactly. That's what behavioral economics does, right? It brings that psychology back into the hard science that economics is kind of touted to"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:30.280",
+        "message": "be. And you actually teach behavioral economics in the Takshashila courses. And therefore, what I'd like to sort of do today is let's talk about some specific fundas of behavioral economics and which have come from behavioral economics. Our first example, in fact, being a term coined by Thaler himself. And then illustrate that with what is happening in the world around us, both in politics and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:53.720",
+        "message": "otherwise. Perfect. So I like to think of behavioral economics, I kind of separate heuristics and biases. So heuristics are basically shortcuts that people use to make decisions. And heuristics kind of lead to biases. So what I'd like to talk today is biases, you know, we won't touch upon heuristics. So the first one that I'd like to start with is something known as endowment effect, which basically says that you value the things that you own much more than somebody else does. In fact, so much so that the moment you start owning something, the value that you ascribe to it becomes higher than what you did just before. And this kind of plays out really well if you think of how when a government is in opposition, how they are always critical of the policies that the government in power is coming out with or the policies that they have. But when they themselves come to power, they take a lot of these policies and continue with them. In fact, you see now a lot of, I think more around 19 policies of the UPA have been taken by BJP and renamed. And now they are suddenly, you know, they've become these very nice policies that are going to change India and that are going to bring about prosperity. So whether you look at the Jan Dhan scheme, you know, the Pradhan Mantri Jan Dhan Yojana, there was a UPA scheme, which was called Basic Savings Bank Deposit Account, or you look at Swachh Bharat Abhiyan, you know, the flagship scheme. There was the Nirmal Bharat Abhiyan or a total sanitation campaign that the UPA had. There isn't a lot of change in what these policies, the details of the policies, but it's just that now, because the government, it's the BJP's policies or the NDA's policies, they suddenly, you know, are the right, they have all the right elements to it. Or you look at Indira Awas Yojana, which was UPA scheme. And now it's called, I think, Pradhan Mantri Awas Yojana. And it's funny that when you even go to Pradhan Mantri Awas Yojana's website, actually some of the documents, if you open them, they actually still refer back to Indira Awas Yojana. So it's funny that, you know, they say, oh, Indira Awas Yojana was all crap and you know, how it would not meet the goals, while you yourselves are incorporating most of the things"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:23.240",
+        "message": "of that policy. It's just a different name. And you'd argue that this is not just a question of political convenience, but that humans are actually wired to value something more when they own it than they would if they did"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:33.720",
+        "message": "not own it. Exactly. I mean, you could find a lot of individual examples that, you know, for example, if you're in a secondhand market, right, you want to sell your car, you would almost always think that your car, you know, should fetch you higher than what anybody else is willing to pay for it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:50.280",
+        "message": "Right. That's a classic example. Right. And I was a professional poker player for a few years. And I always use poker to give, to illustrate examples of behavioral economics. And the classic example of this in poker is that if someone tells me about a hand that he's playing and asks for my advice, at some point, I'll be able to say, hey, no, man, you should fold it. It's not classy. We do keep playing. But if I'm myself in the same situation, you'd continue playing instinctively, I want to continue playing. I have to fight that impulse because now that it is my hand, I value it more somehow magically and can't think objectively about it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:21.600",
+        "message": "Right. So this is one example that we can think of. This is one of the biases. The other one that I like to talk about is the sunk cost fallacy. So traditionally, economics would tell you that if you put in your time, effort or money in a particular, you know, endeavor, you should stop continuing further if you don't see benefits coming off it. But as humans, if we've invested time, effort and money in a particular thing, we actually keep adding on to it. And you know, there is this fallacy that now that I have put in some effort and money, let me just, you know, continue and see what comes of it. For example, if I've bought a movie ticket and then I hear a lot of people saying, oh, the movie was crap. But now that I've bought the ticket, let me just go and, you know, watch the movie anyways."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:15.120",
+        "message": "And it's a fallacy because the time you're spending is also worth something and you're wasting that time. And you should just think of the price of the ticket as a sunk cost."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:21.800",
+        "message": "Absolutely. And in fact, it's not just individuals. Right. It actually plays out at a public policy or the government level. Now we all know that Air India, you know, it was known for a long time that it's not making profits. It does not even provide the quality of service that's expected of an international airline. But look at how long it survived. Look at how much money went into keeping Air India and Indian Airlines alike, even though we got so many budget airlines and really good quality international airlines, you know, in the market. Why has the government not done away with Air India? It's only now, you know, in the last two years that we are talking about privatization of Air India or, you know, doing a mix of like a PPP or actually just doing away with it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:11.200",
+        "message": "It's only now that we are actually doing this. I'm skeptical to me. It's just talk."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:15.320",
+        "message": "It's just, yeah. We are yet to see what happens. Or for example, think of bailouts for public sector banks, right? Now that any public sector unit, now that you've put in money, you know, you, you kind of think, oh, let me just put in a little more and see, maybe it will get better. While the rational, you should think that, well, that money is gone, that effort is gone. Why put in more resources and why unnecessarily, you know, enhance the costs, the overall costs? Would we continue the recapitalization of banks is not something that, you know, is very old, maybe three, four days ago is when we heard of recapitalization again of public"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:55.000",
+        "message": "sector."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:56.000",
+        "message": "And it's going to happen again and again. And it's going to happen again and again."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:58.000",
+        "message": "I can think of various examples of this from everyday life. I mean, the standard poker example is that you continue in a pot when you should fold because you're, you're thinking, oh, I've already put in money, it will get wasted. Even though the rational decision at that moment in time, the plus EV decision is to fold. And there are trivial examples in real life. Like I may pack a tiffin from home, but then my colleagues say, hey, let's go to that nice Japanese restaurant and I really want to, but I'm saying, no, I made a sandwich in the morning and it's in my tiffin and it'll get, you know, and that's, again, you should treat"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:27.400",
+        "message": "that sandwich as a sunk cost. I love how you've understood all of behavioral economics with poker in mind."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:31.560",
+        "message": "I just love it. With poker in mind and it actually, and fallacies like this is serious real life implications. Like I think a lot of bad marriages, for example, continue long past the point where they should because of the sunk cost fallacy, because of some battered woman saying, I've already spent 20 years with this guy, how can I walk out now?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:49.640",
+        "message": "Maybe it will get better."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:50.640",
+        "message": "Maybe if I put in more, sure."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:52.160",
+        "message": "And you can rationalize all that. You know what Taylor mentions is that a lot of people in the US thought that we should get out of Vietnam war, but it continued and that he at least says that, you know, that's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:03.560",
+        "message": "an example of sunk cost fallacy. And therefore, you know, these little fallacies would seem like, you know, fancy phrases in textbooks actually have real world humanitarian consequences and affect millions of people. Right. What's your next example?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:17.360",
+        "message": "So the next example I would like to talk about is called present bias in easy terms and hyperbolic discounting in very technical terms. But that is something that all of us can relate to on individual level, which is I value the now much higher than I value the future. So I want a smaller, sooner reward than a larger later reward. I would rather have the pizza now than think about, Oh, in the next five years I will have put on weight and I will have to exercise, or I would rather break my new year resolution now than worry about how I will feel bad about it sometime later. Right. And we all do it all the time, procrastination, laziness, overeating, indulging."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:04.640",
+        "message": "We do it all the time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:05.640",
+        "message": "I feel like you're describing me or myself and even not saving enough. For example, I'm not saving enough and at individual level, you know, you can tackle these things by committing to certain things. So you say that, okay, I will enroll myself in this marathon. And only if I have run so much, am I going to indulge in a big dessert? Right. A lot of people do that. But where I see this playing out in public policy, look at how the governments in the US, for example, have the 401k savings or in India where we have the employee provident fund schemes. Right. It is a welfare scheme, of course, but somehow the governments have understood that if we don't kind of force people or make people commit to their own future savings, they would not do it. So what they essentially do it, they say that, no, you must save this much. And they also have your employer put in, you know, an equivalent amount. And when you retire, you have this big fund, you know, there for you. And this is especially relevant for people who don't earn really well. So, you know, the EPF is mandatory for people, for companies with more than 20 people, I think. And for people who earn, whose wages are below 21,000. So maybe not for, you know, people who work in big private companies. It's not mandatory, although even these companies register for it. But think of somebody who earns 15,000, 16,000, for them building up this sum is really important. And they might not do it because there are always priorities, competing priorities in the here and now that you want to take care of. So like, like they say, right, eat, drink and be merry for, you may die tomorrow, but you actually do not die tomorrow and you continue to live for a long time. And it's better for you to save, save up for that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:55.200",
+        "message": "And if you can take a slight tangent, this brings me to one of the criticisms many people have of Thaler per se, not the field, which is of the term that I think he coined called libertarian paternalism, and which the book nudges about, which he co-wrote with Cass Sunstein is almost that the government has a duty to nudge people in these directions to mitigate the effects of their biases. And you know, my typical instinctive criticism to that is that while it is one thing to understand human nature, it is another to then coerce people in different ways, which, you know, the EPF being compulsory for firms of over a certain size is an example of that. It is another to coerce people and take that agency away from them. It's almost like saying, Hey, you're too stupid to make your own decisions."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:41.240",
+        "message": "That's the big criticism of the whole field of behavioral economics. In fact, if you think of a libertarian paternalism is an oxymoron, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:48.560",
+        "message": "You can't have libertarian and paternalism in the same, you can't speak of them in the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:53.240",
+        "message": "same breath. But that's what Taylor and Sunstein, at least how they feel it is that we do not take choices away from people. When we are thinking of behavioral interventions, they always are free to choose what they want. It's just nudging them in a particular direction. And, and of course there are critiques and critiques of critics and it never ends."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:14.640",
+        "message": "Yeah. I mean, yeah. I just feel that if a guy is earning 15,000 a month and he's saying, no, I don't want to give any of this away to a fund for when I'm 60, I need the money now, that choice should really be up to him. Even if he recognized that this biosexist."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:27.280",
+        "message": "Well, you also can then think of if these people haven't saved enough, then it's up to the government to then provide for them. Right. We also say that, Hey, well, the government should provide healthcare, but if the government says, well, you should pay for your health insurance so that when you are sick, you know, we will be able to fund. But that's the example that at least NHS in the UK, you know, they, they say that the burden of healthcare is increasingly becoming larger. And if the people don't save up for their health or save up for their life insurance, it is for the government to then spend money. We also criticize the government then that, Oh, you know, where is the money for it? So I agree with you that, you know, it shouldn't be coerced upon people. It should rather be voluntary profit and fund, but, and I'm not one for EPF, but that there is a mechanism that is provided as a public policy that, you know, there are these commitment devices that are provided by the government itself, and you can then draw this pension. That I think is an example that we can look at."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:26.360",
+        "message": "But I mean, I would certainly say that wherever one stands on this issue and one can agree to disagree, it's an unfair criticism of behavioral economics because behavioral economics, the way I see it is descriptive. It's not prescriptive. A lot of these specific prescriptions from which, you know, coercion comes or agency is taken away from individuals is comes from individual economists, but the field itself"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:48.240",
+        "message": "is just describing what human nature is, right? And that's what it tries to do with that. This is how humans behave. Look, you know, we tried to do this, but this is what happened in reality. And it just tries to describe the behavior and then maybe draw insights from it and then say, next time they are behaving this way, maybe we could, you know, and then that argument"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:06.880",
+        "message": "can happen, but at least it's an informed argument."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:09.760",
+        "message": "For example, this whole thing of default options, right, where, and I like to give the example of this give it up scheme where the LPG scheme, you know, our prime minister went about saying everybody now is enrolled in the subsidy and now give it up. I wanted to say that, you know, I mean, my prescription for it would have been that let nobody be subscribed to it, say that you are entitled to it as a citizen, you are entitled to it, but your default position is that you're opted out and let only those people who really need it, you know, opt in and make the opt in really easy, make it really easy for people to get this subsidy. And again, how you give subsidy remains the same, but now a lot of people are not giving it up just because that's the default position."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:57.480",
+        "message": "I'm just lazy to go to some place and you know, do something. Inertia, inertia is the most powerful force in human life. That's what present bias is all about. Yeah. But though I would also, my, my instinctive reaction there is that if you make it an opt in thing, then you inevitably create rent seeking. It's easy to say in theory that it should be easy to opt in, but you'll create rent seeking and you'll, you know, everything else that follows with it. That's true as well. Let's move on to the next example."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:22.320",
+        "message": "All right. So the next example I like to talk about is about social norms. And there are a lot of things in behavioral economics that revolve around this. So, you know, there are things called herd behavior, confirmation bias, or social desirability bias, which all essentially talk about how human behavior is set in a social context, right? You are influenced by the society, by the people around you and the decisions you take or the preferences you have are not just your preference. Maybe they are your preferences, but yet they're almost always influenced by the people around you. So what, how you behave is set in a social context and that people want to behave how their friends behave. So you see, you know, echo chambers forming on social media. That is, I want to talk like my friend, so I will, you know, adopt that line of opinion. And it is a similar set of people who get, you know, who get caught in these echo chambers or look at confirmation bias where I have a certain viewpoint and I'm always looking at or reading something with this thing of, Oh, this, this is an alignment with what I was thinking."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:39.640",
+        "message": "Didn't I say so? You know, you're always trying to, you value the information, which confirms your bias,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:44.560",
+        "message": "but you ignore everything else. And that's just human behavior, right? I mean, you would do that, but what this results in is something known as private truths and public lies and you would know of it, you know. So what we do is in private, we might hold certain preferences, but because of the social norms, because of this social pressure that we have in public, we might state our preferences very differently, right? So for example, Timur, Quran and economists talked about preference falsification that in public, we tend to falsify our preferences. Now look at how after the new dispensation, the BJP has come to power, we suddenly have this surge in, you know, anti-Muslim riots or the Hindutva bigotry that we see suddenly, you know, there is just so much of it, whether it's Pelukan or it's Akhlaq. Why was this not happening for the last 60 years? Because maybe the social context was such that this was taboo and maybe people wanted to talk about these things, but they were not doing because of the social context. And maybe the context right now has changed that, you know, some people have, they are the norm entrepreneurs and they've set this norm. They took that extra chance and said, well, we can talk about this. And suddenly this whole bunch of people find that they can now express their hidden preferences."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:10.400",
+        "message": "I'd written a column about this a couple of years ago when the whole Trump wave was happening. And I think to a large extent, social media empowering as it is, and I think it's a net positive good, enormously so. But social media has enabled this in the sense that a lot of the phrase I use is closet bigots. There'd be a lot of people who are closet bigots, but they don't express their bigotry because it seems impolite or unacceptable around them to do so. But suddenly through social media, they realized that there are actually a lot of people who"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:41.480",
+        "message": "think like that. They can come out. There are a lot of them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:44.480",
+        "message": "And, and they feel empowered to come out and express their bigotry. And as more, and as they start doing that, it becomes a cascade. In fact, Timur Karan called this a preference cascade. You know, first, I think the example he gave was of the Soviet Union where everybody assumed that all the individuals were for the Soviet state, but once people began to express otherwise,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:04.920",
+        "message": "it kind of cascaded."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:05.920",
+        "message": "And the downfall of the Soviet Union actually seems very sudden, but had been building up over decades. But social revolutions seem very sudden, but they're always building up because there are these individual preferences that are hidden. And then suddenly some people and which Cass Sunstein, you know, calls them norm entrepreneurs, that these norm entrepreneurs take the chance and you know, they say, okay, we'll speak the opposite."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:28.880",
+        "message": "And then suddenly they find a bandwagon."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:31.520",
+        "message": "And social media enables and magnifies this. You've seen that happening. Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:35.960",
+        "message": "The polarization that social media. Yeah. You've seen this with the Trump and the alt-right in the US, you've seen this with Modi."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:41.480",
+        "message": "The white supremacist rallies, the increasing number of rallies that we see. So that's what I, and the interesting thing is, we don't even know if these are the real preferences now or other people again, falsifying their preferences, you know, in their heart of hearts, it's actually something else, but because of this new context, the social context or the new language that people are speaking, they start to speak this. They start to confirm to, you know, what is the current context."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:12.240",
+        "message": "And the interesting thing is that when we talk of preference falsification, it's not just falsification for the sake of others. You're also lying to yourself very often. And for example, you know, a classic example of how even these preferences, which seem to now be truly expressed, might actually be falsified as you're saying, is that if you sort of conflate criticism of the government with being anti-national and, you know, bring nationalism and Modi together in the same sentence, then people are afraid to, for example, during demonetization, it was framed in such a way as we are attacking black money. And if you speak up against it, you're speaking against the nation. And you would have had people expressing support for demonetization, even though if they really"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:50.240",
+        "message": "thought about it, they might not feel that way. And even though right now, I mean, I'd like to think that, you know, if suddenly the dispensation actually came out and said, Oh yes, this was a mistake. It's never going to happen. But let's assume, let's, you know, think that it happens. I'm sure a lot of those people who were, you know, singing songs about how demonetization is going to, you know, clean all the black money will actually then start again saying the same thing that the government says that, Oh yes, it was a mistake. So it's, it's just about keeping in tune with the current, you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:24.560",
+        "message": "And not just that, another bias, a hindsight bias would kick in and they'd imagine that,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:28.880",
+        "message": "Hey, we thought it was crap all along. Yeah, I didn't, I said, I was right when I said that. And it happens all the time. I mean, let's not blame others."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:37.240",
+        "message": "You and I would do it as well. Right. I mean, everybody would do it. I mean, we are not standing on a pedestal and saying, Oh, you humans are like that. We are also like this. We suffer from it. But what's important about behavioral economics is that it then helps you understand these biases within yourself and within the context you operate and the policies that you have, you know, what your government does and the quality of that self-reflection can help you either live a happier life or be more aware of your unending unhappiness. Let's move on to the next example."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:10.240",
+        "message": "So the next example I'd like to talk about is, it's called peak end rule. What that necessarily says is that the sum total of how a person remembers an experience is defined by how they felt at the peak of it. And at the end of it, people tend to ignore the rest. So if I were to ask you, Hey, Amit, how was the Bangalore lit fest? You would possibly remember the highlight of it. And the, you know, if you attended the last few sessions, you would forget the rest. And the example, a rather controversial one that, you know, I'd give you is that think of Indira Gandhi's rule. If you'd ask most people, you know, how was her rule? They would talk of emergency, which defined the peak of her rule. And they would talk of, you know, how she was assassinated. So her becoming a martyr. And that's how we think of as her rule."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:09.600",
+        "message": "Whereas there was a lot more to it, by the way, she ruled for a long time, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:13.560",
+        "message": "And I'm not taking sides of whether she was good or not."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:16.800",
+        "message": "So they'd remember the peak of it and think of her as an authoritarian despot. And they'd remember the end of it. And they'd think of her as a martyr who died for the nation. And both of those may have an element of truth, though I think the former has far more truth."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:30.080",
+        "message": "I would agree actually. But that's also how, I mean, so we tend to forget that there would have been other elements of it. And most of it actually in her case was not that great, but that's how we remember most"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:42.600",
+        "message": "of the things. And that's how we look back on our own lives. And which is why, you know, memory is selective. What we remember is not really what happened."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:50.200",
+        "message": "So we are fabricating a lot of things in between. What we actually remember is the peak and the end most of the times. The rest of it is, we are just filling it up, right? We are fabricating it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:01.000",
+        "message": "Right. So, and we've reached the end of the podcast. And at this point, I will ask my listeners to reflect on what you remember of this podcast. Chances are it will be the peak and the end. Nidhi, thank you so much for coming on the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:12.360",
+        "message": "Thank you so much, Amit. It was a pleasure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:16.360",
+        "message": "If you enjoyed the show, you can follow Nidhi on Twitter at Nidhi1902. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. And if you want to hear earlier episodes of The Seen and the Unseen, please hop on over to seenunseen.in. Thank you for listening. If you enjoyed listening to The Seen and the Unseen, check out another show by IVM Podcasts, Simplified, which is hosted by my good friends, Naren, Chuck, and Shriketh. You can download it on any podcasting network. Excuse me, brother."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:56.160",
+        "message": "Excuse me. Tell me, ma'am. What's on the menu? The menu has Seen Unseen, Podcasts, On Course, Cyrus Says, Marry in India, Rediscovery Project, Empowering Series, Sex Wax, IVM Likes, Simplified, Keeping it Queer, Things and Destinations, My Neighbor Zuckerberg, and The Fine Garage. What do you want? Can you repeat it once? I don't repeat. You go to ivmpodcasts.com and listen to all this. Or download their app. It's all on your fingers."
+    }
+]

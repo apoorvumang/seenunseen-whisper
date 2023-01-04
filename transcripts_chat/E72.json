@@ -1,0 +1,517 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "I am Amit Varma, and in my weekly podcast, The Seen and the Unseen, I take a shot at answering all these questions and many more. I aim to go beyond the scene and show you the unseen effects of public policy and private action. I speak to experts on economics, politics, It's quite common these days for me to be at a restaurant or a retail outlet and the cashier asks me for my phone number. I always say no. I value my privacy and I'm not giving my phone number to anyone. This is all very well in the offline world or meet space as we used to call it once upon a time. But what do you do online? Apps on your phone these days have permissions to your photo library and your SMSs and your microphone and whichever folder in your brain contains your innermost thoughts and feelings. Everything we do is constantly being tracked online. You're usually too exhausted to do anything about this so we just give in thinking, hey, what difference does it make? At the most, they'll give me targeted ads. But actually, your data is worth a lot more than that. And it can be misused in more ways than just a serving of targeted ads. Your data is who you are and someone else may be in control."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:20.080",
+        "message": "Welcome to the seen and the unseen. Our weekly podcast on economics, politics and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:26.600",
+        "message": "Please welcome your host, Amit Bharma. Welcome to the seen and the unseen. My topic for today's show is the GDPR or the General Data Protection Regulation, a regulation that has just come in place in Europe to protect the data and the privacy of its citizens. It has come about with the very best of intentions and has both intended seen effects and unintended unseen effects. My guest on the show today is Manasa Venkatraman, a legal expert and a policy analyst who is a special interest in privacy and data protection. She works at the Takshashila Institution in Bangalore. But before I begin my conversation with her, a quick commercial break. If this happens to be the only podcast you listen to, well, you need to listen to some more. Check out the ones from IBM podcast who co-produced the show with me. Go to IBM podcast.com or download the IBM app and you'll find a host of great Indian podcasts that cover every subject you could think of. From the magazine I edit, Pragati, I think, Pragati.com, there is the Pragati podcast hosted by Hamsini Hariharan and Pawan Srinath. There is a brilliant Hindi podcast, Hulia Bazi, hosted by Pranay Koteswamy and Sourabh Chandra. And apart from these policy podcasts, IBM has shows that cover music, films, finance, sports, sci-fi, tech, and the LGBT community all under one roof or rather all in one app. So download the IBM podcast app today."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:55.000",
+        "message": "Hi Manasa, welcome to the scene in the unseen. Thank you for having me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:58.060",
+        "message": "So we're going to try a new experiment from this episode onwards, which is I always sort of presume that the listener has the same familiarity with the guest as I may, which may not always be the case. So before we start talking about GDPR, let's talk a little bit more about yourself. Where do you come from?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:18.360",
+        "message": "What do you do? I am a lawyer. And right after law school, I started working in corporate law in Bombay. Then I decided to sort of redeem my soul, do some good deeds for a change. And I, I think I always knew I wanted to be part of the law making process than the law interpretation and navigating an existing space, which is why I moved to Takshashila. And over my time there, I've developed an interest in technology law and technology policy. And here we are."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:53.760",
+        "message": "And here we are. And were you always interested in law? It just happens to be something that you did and you fell in love with it later."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:00.440",
+        "message": "You know, I always wanted to be a journalist. And it's funny because I went to Xavier's submitted my BA application. I was like, government law college is right here. It's just after one signal. Let me just go put in my application there. And when I got through to GLC, I was like, let's see where it takes us. And then eventually I ended up sort of liking dissecting law and stuff like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:31.440",
+        "message": "And what are the areas of the law which you found most fascinating? Like who are the writers and law who you would, you know, enjoy reading the most? And how did you sort of discover yourself as someone who thinks about, you know, the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:44.520",
+        "message": "law and in general legal philosophy? So the great thing about the college I studied at is that it has a rich history of alumni. So Ambedkar was once the principal of the college. Various freedom fighters were alumni of the college. But you know, all of that aside, I think the that space allowed me to participate in a lot of competitions. Law students have this fun competition, which is called a mock trial. And I did a lot of that. And I just liked going up there and sort of being like, no, clause B of section eight does not allow you to do this, my lord. And a lot of milliards later, I sort of figured that I liked it. There is one particular, two particular judges that I really loved reading through law school. One was Lord Denning, who was a sort of judge in England a really long time ago, sometime in the 1700s, 1800s. And one was MC Chagla."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:50.680",
+        "message": "Right. And apart from law, what else interests you? What do you do?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:54.720",
+        "message": "I like to sing. But you know, when I sound like a, I don't want to say I sound like a creepy nightwatch man on a podcast. You already said it. We're not editing this out. I like to sing, I do a little bit of yoga on the side. But that's about it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:13.960",
+        "message": "Mostly, I just watch Netflix. And if there's one book or movie that has really influenced you and made you a different person, is there something you'd be able to name?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:26.880",
+        "message": "A movie that's made me a different person."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:30.760",
+        "message": "Or a book or, you know, doesn't have to be just one."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:33.360",
+        "message": "Well, there are a couple of books that sort of cemented my, the fact that I wanted to do public policy. There's this particular book called Banishing Bureaucracy. And I read that when I was studying public policy at Takshashila. And that was just fascinating how much you can do within the government and outside the government to sort of ramp up how the system works. And there's this other book called Public Policymaking in India. It was a textbook. But I think just the way in which, just the kind of things that you can do to be part of the process of making your state a better state was kind of, it shaped the way I looked at the..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:21.080",
+        "message": "So in a sense, you actually want to make the world a better place."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:23.640",
+        "message": "That's where you're in. That's the grand idea."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:25.640",
+        "message": "Yes. Yeah. And what is Takshashila like for the benefit of my listeners? Of course, the institution which publishes Pragati, the magazine I edit at thinkpragati.com. But what else is it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:35.920",
+        "message": "Tell us. Takshashila is a think tank and it's a school of public policy. So these two things are, you know, one can think of them as very parallel tangents, but we kind of managed to marry them both. On the one side, we do research on international relations, geopolitics, public finance and technology. And on the other side, we teach the basics of public policy to students. We also have started teaching geo strategy to students. So we tell them how the learnings that you have from it and other such things. Takshashila to me is, it's my place of comfort where I can learn, where I can make mistakes and where I have the space that I need to grow. And I think that's really what you look for in your workplace when you're starting out in a career. So it's a fantastic bunch of people. It's also increment time there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:40.560",
+        "message": "I can attest to a fantastic bunch of people. So let's move on to the subject of the day. But before we talk about GDPR specifically, let's talk a little bit more about privacy. Like why is privacy a more important issue today? And would you say it's a more important issue today than it was, say, 30 years ago?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:02.640",
+        "message": "Definitely. You know, privacy is an important issue today can be attested by the fact that the statement, we're in a global village today is now a cliche, right? And it is a cliche because you hear it every other day. Because it's happening every minute, we're becoming more and more interconnected. And that's the thing about technology is that while technological developments multiply from year to year, the law can only catch up. Or what the law can do is just create a safe playground for technology to develop. And in India, we didn't have that safe playground for privacy, which is why last year, the Supreme Court had to come in and say that no, guys, there is a fundamental right to privacy. Privacy is important because of how simple it is for us to be connected to one another from one end of the globe to another end. And we all know that in the process, our data is trading several hands. We don't know who has access to our photos. We don't know how many apps know our phone number. And we don't know how many apps know our home address and what we look like from the window of our bedroom. Privacy is more important now because there are more technologically advanced ways of knowing about a person than say 50 years ago. There was probably the telegram 50 years ago, the telephone, the radio, but today you have, you can look at a person's face when they're sitting in America and you're sitting in India. While technological developments have opened up a lot of doors in the sense, we don't know if our private lives have also walked out of these doors. And that is why it's important to discuss the subject of privacy and how we can still maintain that while allowing technology into our lives."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:05.360",
+        "message": "Now an argument I've heard from some people is that, listen, okay, our data is out there. But the only thing that really happens is we get spookily targeted ads. So if I'm, you know, if I do a search for say shoes, I'll get ads for Reebok and Nike surf to me the next time I go to Facebook and that's okay. That's the use of their private data that some people see. And that's the only interface, so to say, with their data coming back at them that people are aware of. What are the dangers of your data being out there unfettered, unprotected?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:34.040",
+        "message": "There are two examples that I want to talk about. One is from the USA and one is from China, the other end of the world. We all know what happened between Facebook and Cambridge Analytica and the whole democracy being taken for granted, being targeted the way they were targeted for ads."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:54.200",
+        "message": "Assuming someone has heard about this for the first time, can you sum it up?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:59.880",
+        "message": "So what happened in the US is two years ago when they held federal elections, elections for the president. It came to light later on that this analytics firm called Cambridge Analytica was mining data of US voters from their Facebook profiles and it managed to target voters in a way that no other campaign could before. And while this seems fairly innocent when you hear it, it's problematic because none of the voters knew that they were being approached for their votes. This wasn't made clear. So in a way it was manipulative."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:46.320",
+        "message": "It was deceptive that the voter who signed on to Facebook did not know his data was going"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:51.080",
+        "message": "to be used like that. Exactly. So that's one example of how your data can actually be used to influence democratic processes. The second example is all the way across the globe in China. They're doing something called the social credit system. So apparently China doesn't have a rich history of banks lending money to people. And banks generally give out loans when they know that someone has the ability to pay back. But now China wants to move towards a more institutional credit giving system, which is allow banks to do it. But banks don't know if they give money to the next person, if that guy is going to pay back or not. So what China is doing is something, it's collecting data about every person within China through their behavior on apps like WeChat, Alibaba, this and that. And it's putting all of this data together, creating a very personalized profile of this person. And on the basis of what he looks like, on the basis of what his data tells the government about him, loans will be given out. Now, the problem with this is that it can be easily used by the state to discriminate. And I think they saw a couple of examples of this in the US, when black people were not given loans. Basically, black people were discriminated against because of the areas that they lived in. And because they generally did not have the kind of information that the computer was able to think was believable or reliable."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:36.800",
+        "message": "Right. And what you protest here, is it the intended use of what appears to be a really efficient credit rating agency where it gets much more information than credit rating agencies otherwise would? Or is what you're protesting the fact that it's a state which has this data at its fingertips and states are of course, always subverted, there is always regulatory capture. And it's not good for democracy, which is moot in the example of China. But in general, it's not good for democracy if the state has all this information."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:06.320",
+        "message": "Absolutely. I'm protesting both. On the first point, yes, we don't know the intended usage today, maybe to give out loans to people who can pay back. But you don't know if five years down the line, that will still be the purpose. And by then, they would have been empowered with all the data they need to do what they can with it. And the second point is, you're absolutely right, all the data, let's take Aadhaar data, for example, that rests with the ruling government today. And that's one of the dangers of giving all your information to the ruling government, that they can use that and manipulate that to stay in power. Democratic processes are at a very dangerous place if this is going to happen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:52.480",
+        "message": "And the thing to remember is, and I'm actually old enough to remember this, but in the 1984 riots, the rioters, if we call them that were actually given electoral roles, so they could identify which houses Sikh families lived in. So it was, you know, targeted to that extent. And that's just a very small subset of the data that is actually out there. If you can target better than that, and if you can do more insidious things and necessarily go to their houses and burn them, then the scope for the state harassing a citizen just goes up exponentially."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:23.640",
+        "message": "There's no limit to it. Absolutely. Just like tech developing exponentially, the power of the state to do whatever it wants"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:29.960",
+        "message": "also increases that much. Right. So the question here is that, in general, does the citizen need protection from the state as well? And if so, how does that come about, given that any laws and any regulations that would happen would have to come from the state itself?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:48.400",
+        "message": "I think that's where the GDPR comes in. Any law that seeks to protect a citizen has to obviously have their rights at its centre. So for example, if I have 60 apps on my phone, that's 60 terms and conditions that I haven't read. 60 privacy policies that can do whatever they want, because I haven't read them. If the state wants to protect my rights and to protect my privacy, the law should say that irrespective of what is contained in these terms and conditions, the person collecting"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:24.320",
+        "message": "them is still accountable for it. And there's XYZ things you cannot do."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:28.600",
+        "message": "Exactly. Yes. And that's where the state comes in. Of course, like you're saying, the state finally holds the pen to the paper. And in that sense, the power is a little lopsided, because we want them to do one thing, but they have the ultimate word on the matter, which is why what we're doing in India is really great. There are public consultations that are being held. There is an independent committee that is proposing what the law should look like. And then there's a Supreme Court that has this matter in its mind, and that is thinking correctly about this topic. So I think we're at a comfortable place in India, a place that we've never been before. But this moment is also temporary. And we need to cash in on it as fast as we can."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:17.520",
+        "message": "Right. So and we've done a brainstorm on Pragati, which you led, where a bunch of the people who are stakeholders, speaking on behalf of civil society actually wrote long pieces about their vision of what data protection should look like from Rahul Mathand to Nikhil Pawar and Malvika. Before we come back to India, which I want to do at the end of the show, in any case, let's talk a little bit about GDPR now, like, what was the evolution of the GDPR at around what time did it begin to take shape? And what were the different kinds of demands and pressures on it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:54.880",
+        "message": "Europe was thinking about privacy and data protection long before we were long before even the rest of the world was."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:02.800",
+        "message": "And by Europe, you mean EU or do you in general mean different countries within Europe, the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:07.680",
+        "message": "EU? I mean, the EU as one collective body. So in 1996, EU had a directive on data protection. And before that, in the 80s, they had another law talking about privacy. So EU has actually been thinking about this subject for a long time now, 20-25 years."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:29.500",
+        "message": "So very proactively and long before the internet reached anywhere near its current extent."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:33.760",
+        "message": "And if anything, they've kind of walked alongside the internet, walked alongside technology and tried to make robust laws in that sense, which is how the GDPR was born two years ago. And while it came into effect last Friday, 25th May, it was actually passed two years ago and they gave like a two year window for all companies everywhere in the world to comply with their law. The GDPR is a great format from the perspective of the kind of rights that an individual has. Right from, you know, asking a company what kind of information they have about her to the right to be forgotten. Everything is there in that law. So in that sense, it's a very ambitious project and it's great that they've seen it to fruition. But the GDPR also has its drawbacks because it puts a lot of pressure on businesses. So it's like a seesaw where the user was once at the lower end, the user has gone up now considerably, but the businesses have taken all the burden. Be that as it may, to my mind, the GDPR is a great precedent for us to work off of because of how comprehensive it is. So like I was saying, it talks not only about the rights of every individual, it also says that, you know, you will, if you don't comply with the GDPR, your punishment will be up to 4% of your annual turnover. For a big company that might, you know, that might just be like a pinch in their pockets,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:21.400",
+        "message": "but for startups working in Europe, it's death. Even for a big company, 4% of turnover is a hell of a lot because it's not 4% of profits"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:29.520",
+        "message": "is 4% of turnover. Yes, yes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:31.520",
+        "message": "So before we proceed, did the GDPR come about more because of pressure from civil society activists as we see in India, for example, or was it a proactive bureaucracy, which in any case was seized with the need to do something about this space? Or was it even a lucky consequence of every bureaucracy's tendency to try and overregulate everything?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:53.240",
+        "message": "That's a very interesting way to put it. While I'm not sure how proactive the civil society was in pushing this law forward, there definitely seems to be a sort of bureaucratic action that was taken over time, which led us to the GDPR. The third point, yes, I think a lot of it was also serendipity, in a sense, because when Brexit happened, turns out that Cambridge Analytica did some, you know, a little bit of games over there as well. And over the years, there have been enough data leaks, enough data breaches, enough phishing incidents for governments to sit up and take notice. Not so much for us in India, maybe, but, you know, several incidents do come to mind in the Western world, which might have prompted this to happen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:48.400",
+        "message": "Right, and governments do take threats to their power seriously, which, you know, all of this is."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:53.440",
+        "message": "Yes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:54.440",
+        "message": "So what do you feel about the GDPR personally? I mean, I can see that you are glad that it takes the rights of the individual seriously and puts them, you know, firmly at the centre of what the law is all about. But on the whole, what are your feelings about the law?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:10.740",
+        "message": "My only sort of worry with the GDPR is that it might not be an enduring law. And that's the danger that every law that deals with technology faces. Like I said earlier, because tech sort of leaps into the future, whereas the law sort of crawls behind it, it's very easy for a lot to become redundant. The Information Technology Act in India is now, you know, it's there in the background somewhere. That's my worry with the GDPR. So for example, it says that the user has all of these rights, and that's great. But it still says that every company has to communicate the terms and conditions to the user and they have to communicate it in simple terms. They can even use pictures. That's a great idea that I will come to later. But the fact is that I as a user, I'm going to get tired of reading the same terms and conditions reading the same language. As an example, over the last week, we've all received a lot of spam. Whenever we logged into the internet saying we've changed our privacy policy, how many of us actually read them? So this is the first failing of the GDPR."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:22.660",
+        "message": "We're recording this on June 1, by the way, it'll it'll release a while later, week and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:26.060",
+        "message": "a half later. Okay, great."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:28.060",
+        "message": "I hope we'll get more of this spam. The weird thing is, I know that there's been all the spam, but I haven't noticed a single mail which has come to me asking me to re-read anything. Really? Really nice."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:38.860",
+        "message": "They don't care about me. So that's one thing. And that's the problem because the crux of the issue is not lack of consent. Yes, there is when I am accepting terms and conditions. I don't do it knowingly, because I don't read them. So the problem is consent is just a symptom of the larger problem of fatigue. Even if you use pictures, even if you use a video as your terms and conditions, at some point I will just stop caring. Because I will be downloading so many apps, I'll be going on so many websites, that I'll be sort of bombarded with these things all around."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:21.100",
+        "message": "And the fatigue will catch up."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:22.820",
+        "message": "The term you used for this was consent fatigue. Yes, consent fatigue. GDPR does not solve for consent fatigue."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:31.860",
+        "message": "That's the first problem with the law."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:33.540",
+        "message": "How could it solve for consent fatigue? By saying that, by shifting the onus from the user to the person collecting the data."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:42.680",
+        "message": "So every data collector would then have a list of A, B, C, D, these are the things you need to do. And so it's like a standard, like if you exist, you are automatically, you have to fulfill"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:52.340",
+        "message": "those requirements. Yeah. It's like, you know, something like an auditor going to a company once a year to check their books of accounts. If you do the same kind of thing with data, if you have a bunch of people who are now qualified to be data auditors, then you shift the burden from every user to actually the company, because the company has to show year on year that it's complying with the law, it's complying with the A, B, C, D things that it can and cannot do. So that's one way to solve for consent fatigue. There are many. But that's the first that comes to mind. To come back to your earlier question, actually, the GDPR is a mixed bag, because it's the first, you know, in history, when you trace back to how a thing started, you find that the first act that started an entire momentum had many flaws, but it kind of gave the push that the rest of the world needed. I have a feeling that GDPR will be something like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:50.340",
+        "message": "Eventually, we'll get to a very good mean that solves all these problems, but we'll jugaad our way to that situation. So I want to delve more deeply into the unseen effects of the GDPR as it now stands. But before we do that, let's take a quick commercial break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:05.860",
+        "message": "So it's been another great week on IBM, and we're hoping that you enjoy all of the podcasts that we're being able to get out to you. As always, if you're not following us, please do follow us on IBM podcasts on all the social media platforms. This week on Keeping It Queer, Naveen spoke to Ankit Das Gupta, the social media content manager at Mirror Now. On Who's Your Mommy, Vedha discusses mom bods and the toll a pregnancy can take on women. On Vartalav, Akash and Naveen exchange stories with boys from the Bombay Hem Company. On Pragati, Pawan and Hamsini are joined by Dr. Shambhavi Nayak to discuss the Nipah virus and discuss the nitty gritties of this new disease. On Simplified, Narayan and Chuck break down the difference between schizophrenia and split personality on a shorty. It's been a really, really great week, and I hope that you're going to listen to all of these shows, or at least some of them. In the meantime, let me get you onto this one."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:48.140",
+        "message": "Welcome back from the commercial break. While you were away, we have collected all your data and hey, good looking. So Manasa, coming back to the GDPR, let's talk about I mean, the show is called the seen and the unseen. So let's talk about some of the unseen effects or rather the unintended consequences of the GDPR as it stands now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:07.180",
+        "message": "Well, the first unintended consequences what we spoke about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:11.260",
+        "message": "Constant fatigue. People won't read it anyway. Yes, yes."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:14.260",
+        "message": "And, you know, I'm actually interested to know if there are any behavioral economics papers or sort of trivia that prove consent fatigue to be real. And if you do have any examples, do comment below."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:30.940",
+        "message": "Do comment below."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:31.940",
+        "message": "We don't have comments enabled."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:34.260",
+        "message": "I'm sure your colleague Nidhi, who's an expert in behavioral economics would be able to conduct"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:39.660",
+        "message": "experiments with those kinds of data. Yes, yes. Even if you're listening. Well, the second unintended consequence of the GDPR is that I don't know if many startups are going to start up in the EU region anymore because of the high costs of doing it. And while you know, this this feels like a very careless argument to make, why should a business thrive if it does so at the cost of my privacy? And I'm not saying that's the way for it to do, for it to thrive. But the GDPR tilts everything against a startup. It puts unbearable pressure on the startup to comply. And eventually just kills that kind of ecosystem over them. The kind of next unintended consequence of the GDPR is how long it will actually last. I want so we're already seeing examples of US media stopping to serve people in the EU region because of the high costs of complying with the GDPR. I want to know how much further this will deteriorate. And my sense is that in a couple of years, we'll see all of these unintended consequences come to life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:05.480",
+        "message": "And also, there's also the broader philosophical question that ultimately every transaction in the marketplace is between two consenting parties. And here, of course, because it's impossible for most users to really consent or even understand what is being proposed to have the GDPR to protect their rights and so on. But if the GDPR goes too far and over regulates, then it actually, it creates a negative sum game because it's harder for the business to exist. And it's harder for the consumer to get the benefit that he would otherwise have gotten out of that business existing. And just in the last week since the GDPR has been implemented, and we're recording this on June 1, a lot of international websites because they cannot comply or don't want to comply have been blocking EU users entirely. For example, you know, there are newspapers like the Chicago Tribune and the Los Angeles"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:57.660",
+        "message": "Times, there is unrolled.me, Instapaper, which have all blocked EU users, suddenly that entire"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:03.620",
+        "message": "group of users doesn't have access to them, or they get stripped down versions of the service, which is especially hurtful in the case of NPR, National Public Radio, which EU is now getting a stripped down version of not the full version because they simply can't comply. And a bunch of companies such as cloud, KLOU2, and various online video games have stopped operating in the EU, have stopped, they were operating now they've stopped operating there. Because of this. All this is an unseen cost, all the value that these companies and services were bringing to users are an unseen cost. But how would you mitigate for that? Like when you know, you're regulating what is essentially virgin territory, no one's really done that no one knows the consequences."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:46.460",
+        "message": "Where have they gone wrong? So this is something that I read in Justice Shri Krishna's white paper, which is our own Indian way of arriving at a data protection law. There are three kinds of regulation. One is self regulation, which is when you let the market sort of develop its own practices. The second kind is a core regulatory model, which is you handhold companies, you handhold private players as much as you can. And the law steps in and says, you know, broadly, you can't do these three, four things. But everything else you guys figure out how you want to develop best practices. The third kind of regulation is full on state. It's called command and control regulation. And the GDPR resembles command and control because there is almost no room for companies and for industry bodies to come together and to develop their own best practices to protect privacy. And that I think is the ultimate. If I had to give like a TLDR of the GDPR and why it won't last, that would probably be it because it doesn't engage with all of its stakeholders. It doesn't give enough room for them to wiggle and sort of figure out what is most comfortable. It just says you guys have to do this. These are the rights that every user has. These are your punishments if you go wrong. And I don't care what happens, comply. However big or small you are, comply right now. And you're right in that that might not be feasible for companies of all sizes. That might not even be feasible for companies like, I don't know if Pokemon Go would still be able to survive in the EU. So I feel like a core regulatory approach, engaging with the stakeholders before..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:41.700",
+        "message": "Which is the second approach that Justice Shri Krishna proposed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:44.380",
+        "message": "Yes, yes. And I hope that it's the approach that we take in India, because there is a lot of opinions floating around about what we can do for privacy. And that's the best approach when you're talking technology law, right? Because the government might not know everything there is to know about technology. Businesses might know 30%. Me as a consumer might know 30% and everyone else might know 5%."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:10.940",
+        "message": "So you find a way of bringing everyone to the table. The people who favor the command and control approach could say, hey, look, you know, people like your Facebooks and your Googles or whatever, and the Ubers, you know, are the people you should be worried about. Why bring them to the table? I mean, their interest is obviously in having as lax regulation as possible, because after all, data is where they make their money from. They want to harvest as much data as they can."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:35.220",
+        "message": "But these companies are also reliant on people believing in their products. And take Google, for example. There is no sort of motivation for Google to up its privacy policy game in India. But it does a fantastic job of it. Every, whenever they update their privacy policy, if it's a big enough update, then you as a user of Gmail or whatever, are taken through it in great detail. And it's sort of broken down to you beautifully. That's because Google has a vested interest in simplifying it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:12.700",
+        "message": "So that actually then seems to favor the first approach that Justice Shri Krishna mentioned, because if the market itself is the best regulator, then that's going to do the best job. Like even with what happened with when, you know, when the Cambridge Analytica scandal broke, a lot of people reacted with that whole hashtag uninstall Facebook and you know, so on, which was itself the market sort of striking back. And do you feel that that's not effective on its own and the government does need to step in and there needs to be the second approach?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:43.220",
+        "message": "It does just largely for the reason that there is way too much happening right now. And if each player, if each company is given its own leeway to do to develop it over time, that's great. That's a very democratic way of doing it. But the fact is that we kind of need some level of uniformity at some point, which is why what the law needs to do is it needs to just have a few principles on which it will survive. So for example, let's say accountability is a principle. Then on the basis of that principle, Google can do whatever it wants to make its product better. Uber can do whatever it wants, Facebook and the government can do whatever it wants."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:26.820",
+        "message": "There are these minimum benchmarks it has to meet, which are agreed upon by all stakeholders and come through that consultative."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:33.060",
+        "message": "Yeah. So what the law should look to do is just sort of have everyone agree on these frameworks and on these principles and tell them that you can do three, four things. You can collect data for the limited purpose of your app. And you can't say collect data of, you know, their grandmother and their great grandmother who have passed away before we got freedom. Before we achieved independence."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:03.460",
+        "message": "We have never got freedom."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:05.460",
+        "message": "We don't. We're all slaves. What the law should do is just set out these basic principles and the sort of scope of what a company can and cannot do, within which the economy can thrive as it does."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:23.140",
+        "message": "Right. Within which they can get like consent for micro things here and there, you know, additional forms of. So let's quickly go through the unseen effects of the GDPR once again, and tell me if I missed anything. The first one, of course, is consent fatigue, where consent is required. But if somebody has 60 apps on their phone, they're having to give consent 60 times and eventually they just get tired and that consent becomes meaningless per se. The second is that the cost imposed on businesses goes up drastically. And that might stop businesses from existing in the first place where they might have been there. And the unseen effect of that is all the value which would have been brought to the lives of users and citizens through those businesses, which now no longer exists. So what would have been a positive some game effectively is completely reversed. Both parties lose and no one really gains. And the third is because technology is always advancing by leaps and bounds ahead of the law. The law simply can't keep up. And therefore it will prove to be inadequate. Is that an accurate summary?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:29.940",
+        "message": "Have we left out any unseen effects? That's broadly the accurate summary of the GDPR on its own. But when we look at it from the context of what it means for India, everyone in India today knows about the GDPR. Everyone with a smartphone and enough apps on it knows about GDPR. And so you know, it's in our conscious mind. What is important for us is to distinguish ourselves from this law. It's a great law because it has all these fantastic qualities to it. But it's also a very controlling law in that sense. And we are at a..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:06.580",
+        "message": "Give me an example of that if you can. I mean, what do you mean by a controlling law?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:11.660",
+        "message": "Like I said, it doesn't allow companies and industries to come up with their own regulatory guidelines or best practices to sort of accommodate to the larger principles of the GDPR. It's also a controlling law in the amount of penalty that looms over every business's head. So in that sense, the GDPR is kind of stringent. And in India, we're at a great point because we don't have to clean up any mess. This is the first time we're going to be writing a data protection law. We don't have a history of it that went wrong and we have to clean that up. So we should be careful to not be too influenced by the GDPR. We should adopt a co-regulatory approach so that we avoid the unintended consequence of over controlling and becoming the new license raj. We should also try and solve for consent fatigue and sort of stay away from the approach that the GDPR used. Yes, user consent is absolutely important. And I need to know what they're taking from me when I'm getting the benefit of an app. There is no arguing that. But the idea is to reduce the information gap between the data collector and the data user. And there are more than one ways of doing this. The terms and conditions are just one instance that the GDPR looks at. So we need to sort of develop our own flavors of what a data protection law should have to kind of circumvent the unseen effects."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:53.540",
+        "message": "And how receptive have governments been to this argument about a needing a data protection law and the right to privacy being important and B to the importance and optimality, if that's a word, of this consultative process where all the stakeholders together can arrive at a framework for the law?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:11.860",
+        "message": "Yes. So some government wings like the TRAI have shown a lot of interest in this process. And there have been a couple of bills in the parliament over the last two years on a data protection law. While I don't know enough to comment about, you know, whether as a collective body where the government stands, it's very evident that, you know, individually, people representing the government are thinking about these things, because they are engaging with their voter bases on social media. And they are also benefiting from these services just as much as we are. So I feel like we're all on about the same page. We're probably in the same chapter. And that's a really good place to be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:04.860",
+        "message": "I mean, it sounds like a miracle for a country that tends to overregulate that you actually have, you know, civil society voices, which are so strong and actually playing a part in drafting these laws."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:14.260",
+        "message": "Yeah, and in a very constructive way. I feel like all the ideas that I've heard over the last year of working in this subject have almost all sort of contributed to some larger relevant point. And that just goes to show that we all have a lot to learn from each other. And this is the beauty of the lawmaking process, that you just take everything that benefits you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:42.340",
+        "message": "So Manaset was really enlightening, talking to you. And no doubt the government will hear this episode before the listeners of the seen and the unseen actually get to do so, which I hope they actually get to do so. But I'd like to end with, you know, a couple of last questions I always ask all my guests in the context of whatever subject they're talking about. What makes you despair and what makes you hopeful about the future of data protection"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:06.540",
+        "message": "and privacy in India? What makes me hopeful is that everyone is thinking about it. It's relevant for everybody I've met."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:19.220",
+        "message": "And there is so much to do, probably a little bit of selection bias. My panwala is not thinking about the GDPR. No, but I'm kidding. I get your point."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:26.180",
+        "message": "No, I actually disagree."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:28.820",
+        "message": "A data protection law is relevant for everyone, but not everyone is really thinking about it in that sense. But the good part is that even the PLU who are thinking about it are much more vocal than the numbers indicate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:41.700",
+        "message": "So we are making a lot of noise about it. Yes. And, you know, when we're teaching public policy to students, we talk about this beautiful thing called the window of opportunity. When politics and solutions and problems align, they open the window of opportunity. And that's the time that you have to make a law or a policy that will bring about change. I think we're at the point where the window is creaking and we're just opening it up. And it's good that we're all at it. What despairs me is our history is not great with making laws for an unknown beast. So I hope we don't fall into the same trap of over-regulating. And I hope we sort of give enough room for all stakeholders to wiggle and find their most comfortable way of complying with the law. So that's something that I'm kind of wary about. But I'm largely hopeful, I think."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:44.460",
+        "message": "Excellent. On that note of hope that we shall all be allowed to continue to wiggle within the window of opportunity, I can hardly picture it in my head."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:53.060",
+        "message": "Thanks a lot for coming on the show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:54.940",
+        "message": "Thank you so much. If you enjoyed listening to this episode, hop on over to seen unseen.in for the archives of the seen and the unseen. I've recorded an episode in the past with Manasa on prostitution. Do check that out. And you can follow Manasa on Twitter at NASAC. You can follow me at Amit Verma."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:46:17.940",
+        "message": "Thank you for listening. There she stands, a podcast addict. Outside the bank, having travelled several miles to get in with other poor souls like her. The journey, though daunting for this youngling, will have some comfort because she has downloaded her favourite podcast. You can see more of her species on IVMPodcasts.com, your one-stop destination where you can check out the coolest Indian podcasts. Happy listening!"
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Whenever you learn something new, my advice would be before you learn to do it, learn how to think about it. I used to be a chess player in my teens, but I left playing serious chess at 19 because I figured out wisely that I wasn't good enough to make it beyond a certain point. Now I'm almost addicted to online chess today. And looking back at the younger me from 25 years ago, I can see clearly what he did not. The younger me was good at tactics and bad at strategy. I could pull off awesome combinations and sacrifices. I could see a mate in six, but I didn't have good positional understanding of things like how to create a little space advantage now. So I'll have a killer edge 40 moves later. And indeed, one thing that all great chess prodigies have in common is this sort of positional understanding related to this. Some people think that the depth of opening theory means that anyone can mix it up with grandmasters. If they learn enough moves, master the opening theory. But this is simply not true. You can learn all the moves you want, but there will always be unfamiliar situations where you have to apply principles instead of remembering moves. How well you do that is what impacts how good you are. This is a reason top players today like Magnus Carlsen will often play slightly offbeat lines against lesser players. Not because those lines are better, but because they lead to more playable positions. Playable means you need to apply your own brain to the problem and the better player wins. I played poker professionally for a few years and the same applies there. The pedagogy for many young players who go pro is often a version of Indian rote learning. They'll become part of stables and they'll be staked and coached by pros who will teach them what to do in many common situations. For example, at so many big blinds, this is your shoving range, this is your reshove range and so on. They can learn this to an adequate level of granularity to have an edge against recreational players. But when faced with unusual situations, can they think on their feet? Can they apply principles, do the math themselves in their minds and figure out the right answers? I have often found that they can't. They have been taught how to play the game, but they haven't been taught how to think about it. How you play chess and how you play poker has a limited impact on the world. Other fields matter far more public policy. For example, if you are a framer of public policy, you are dealing with a world far more complex than what chess players or poker players encounter. That's all the more reason to have intellectual humility to realize the limits of your knowledge and especially not to fall back reflexively on a bag of tricks you have been taught that may work elsewhere, but may not necessarily work here. This takes hard work and deep thought. It demands hard work and deep thought because every time you get policy wrong in a country like India, millions of people are affected. Welcome to the scene and the unseen. I have often done episodes begged around books by authors, but this episode is based on a fantastic paper written by Shruti Rajgopalan and Alex Tabarrok, premature imitation and India's flailing state. Shruti and Alex are not just my friends, but two of my favorite thinkers. Shruti has been on the scene and the unseen many, many times helping me sharpen and refine my thinking about the world. And Alex co-writes Marginal Revolution, which in my opinion is the best blog of all time period. I've been honored to have Alex on my show before, but that was in the early days when episodes were only 20 minutes long. If you can imagine such a pitiful condition. So I'm looking forward to getting a chance to unwind with him today. Just sitting back and talking about matters other than the subject of this episode, which I have forgotten already. So much have I rambled. Let me take a quick commercial break to compose my scattered thoughts. And I do many, many hours of deep research for each episode, besides all the logistics of producing the show myself. Scheduling guests, booking studios, paying technicians, the travel and so on. So I'm trying a new way of keeping this thing going. And that involves you. My proposition for you is this. For every episode of the scene and the unseen that you enjoy, buy me a cup of coffee or even a lavish lunch, whatever you feel it's worth. You can do this by heading over to seen unseen.in slash support and contributing an amount of your choice. This is not a subscription. The scene and the unseen will continue to be free on all podcast apps and at seen unseen.in. This is just a gesture of appreciation. Help keep this thing going. Seen unseen.in slash support. Shruti and Alex, welcome to the scene and the unseen."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:29.660",
+        "message": "Great to be here."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:30.700",
+        "message": "It's great to be here, Amit. So Alex, you know, I've done a lot of episodes with Shruti where we've spoken about how she's gotten into economics, what influenced her, what books she liked and so on and so forth. We know everything about her. But, you know, when you and I did episodes back in the past, you know, we didn't discuss all that. I'm very curious to know what your journey has been like. How did you become an economist? Who were your big influences and so on?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:05:55.180",
+        "message": "Oh, well, I think you'll like this because, as you probably know, the drummer from Rush, Neil Peart, died recently. And it was Rush which got me into libertarianism and economics, you know, the incited Ayn Rand on one of their albums. And my mother had said, this had come up and my mother had said, oh, you'd probably like her. And I think my mother regrets saying that. Those are the worst things you possibly could say. Since then, I started to read some Ayn Rand. So it was from Rush and from Neil Peart. So I've been"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:32.060",
+        "message": "thinking a lot about that lately. And how did you kind of get into economics? Was it always"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:06:35.980",
+        "message": "sort of an interest of yours or you stumbled into it? So I got into free market economics to begin with. And Ayn Rand recommended Ludwig von Mises as the greatest economist. So I read some Mises. And then that brought me to Rothbard. I read a lot of Murray Rothbard's economics works, which were great. This was before university. I went to university with the idea of doing PPE, politics, philosophy and economics. And in my first year, I did very, very well in economics and not so good in politics and philosophy. So that kind of set my path."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:17.660",
+        "message": "And tell me a little bit about, you know, Marginal Revolution, because, you know, I was an early blogger myself. And for anyone who's been into blogging, it is actually, you know, it is sort of the lodestar out there of what a great blog should be. And it's interesting how the age of blogs says, you know, essentially, it's over, blogs died, you know, social media took over all the utilities and the functions that a blog had. But Marginal Revolution is still, you know, culturally very significant as well."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:07:41.020",
+        "message": "Yeah. So this was an interesting experiment. I actually said to Tyler, you know, we should write a textbook. So this is more than 15 years ago now. And he said, yes, you're right. But first, we should write a blog. And I think Tyler, as usual, had the ordering correct, because we began the blog. And as an interesting experiment, and within the first day or two of having posted something, no, this is before Twitter is no, not even emailing people, people started to respond to it. And I said, oh, maybe there's something to this. So we began writing the blog. And the constraint of having to write concisely, having to get to the point, I think this really makes you a much better writer, writing for a blog. You know, on the blog, when you write, your audience is one click away from leaving you. So you have to give them something valuable. And I think all of these techniques, which we learned in writing the blog, then poured it over into writing our textbook, Modern Principles of Economics."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:38.140",
+        "message": "And Shruti, one of the things I realized when I read your paper, and even the papers you've done earlier with Alex and others, is that this was a fun paper to read. You know, it was written in such a way that someone like me, who is not used to reading academic papers, and Shruti is pointing at Alex here, it was written in such a way that someone like me, who was not used to reading academic papers could, you know, just breeze through the whole thing. Is that something that you've consciously put thought towards? I mean, I assume you would say that doing Marginal Revolution and having to write Crispy and Concisely helped with that. What was your process of consciously thinking about how should we write papers? And B, is it a feature or a bug given that, isn't it true that academics are almost expected to write in a certain kind of language as if for other academics?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:09:18.940",
+        "message": "Yeah, there's a dangerous line that one doesn't want to cross. But especially when you're writing pieces which have some relevance to the real world, pieces which you want to influence people, have some policy, it really pays to write well. So Shruti and I did work on that aspect of the paper quite a bit to make it readable for a general audience, as well as for, you know, policymakers and academics."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:41.980",
+        "message": "And sort of a final question for you before we start talking about the paper itself, which is that, you know, having lived in India all my life, there are a lot of things which for me are normalized. Like I say that all of us tend to normalize the extreme coercion of the state, and we don't think it unusual in any way. Now, with an outsider's perspective, when you look at India with the economic lens, with the policy lens, and so on, what are the things that strike you as being very different from what you've otherwise seen? But you're amazed that, you know, people here don't see it as something unusual."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:10:13.660",
+        "message": "I'm amazed that Indians do seem to put up with a lot from the state. You know, when I first came, it was just after demonetization. And despite the huge costs which demonetization imposes, as you well know, on shopkeepers and sellers in the street, and so forth, a lot of people just accepted it. You know, they lined up for hours and hours, but did not protest in the streets. That was amazing to me, that there were not more people up in arms, that this stupid policy, which was so costly to people, especially poorer people, that this did not create a uproar and revolution even, you know, the way that you treat poor people, diminish the value of their time, you know, making them wait in line at the ATMs. And even today, it's amazing to me that you still can't get change, right? So you have even a 500 rupee note, and still that's a problem, not to speak of a 2000 rupee note. So even today, the state cannot find its way to supply the right denominations in the right quantities to what people want. So that to me is amazing. Very similar to this, I am amazed that people put up with so much pollution. You know, everyone knows about it, but it just seems to be, well, there's nothing we can do. It's just like climate, you know, which is not climate. You know, this is manmade. This is not we're talking. I'm not talking about, you know, increasing the temperature of the earth, you know, 1.5 degrees over the next 100 years. I'm talking about today in Delhi, you know, the AQI, the pollution level is over 500, and it burns your eyes, and it gets into your throat, and it makes it harder to do a podcast, and all of these things. And yet people, they're not up in arms about it, as far as I can tell, maybe they are behind the scenes. But Indians do seem to take a lot from the state and not expect"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:08.940",
+        "message": "very much. Yeah, in fact, we're recording this in Delhi on Feb 10. And you've been here for a couple of weeks and have been complaining, among other things of the pollution, and I hear paper straws. Shruti, why does Alex not like paper straws? You don't like paper straws either?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:12:23.500",
+        "message": "Okay, so one is a question of preference, right? That paper straws get soggy, and so on, so forth. Now, if you don't want to use single use plastic, and in the sense that we don't want to use a plastic straw, then you could do with no straw at all. There are many substitutes for that. But the thing with paper straws is we see them at all the posh restaurants and cafes in Delhi. And to me, it seems like one of the best examples of elite imitation and virtue signaling, because the posh people in Delhi are up in arms about plastic straws, but not about air pollution, right, which is literally killing their children, like infant morbidity and mortality is up in the winter in Delhi, simply because we have no handle on the pollution. But for the elites, the priority is not the pollution, or the priority is not one of these big ticket items. But it's something like, let's get rid of single use plastic straws, because you know, that's going to do something to seals in Alaska, or whatever the logic behind that is. It's even more puzzling that we do this in India relative to the United States, because India has a huge plastic recycling industry. We recycle garbage for the rest of the world, right? There are shipments that come from America and China, and it's processed here. So I would think we also have some kind of a comparative advantage in recycling plastic single use or otherwise. So the whole thing is baffling to me, not because I don't like the idea of saving the planet one plastic straw at a time, that's a lovely thing to do. But because that is simply it cannot be even the top 500 priorities, let alone the top priority. And yet, that's the one thing that the elites have managed to lobby change for. And every single cafe in India seems to have a paper straw instead of plastic straw, like it's just the symptom of what is wrong with this kind of elite imitation and virtue signaling, where we're just not paying attention to the big problems."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:22.540",
+        "message": "And I guess one way of looking at this is that look, here's a problem that has an easy solution, right? It's easy to find a solution which allows you to posture and, you know, appear concerned about the world and all of that. Now, if we might digress for a while and go to the pollution problem, because that's clearly something you guys have also thought about, I've done episodes on it where Delhi's air pollution, it seems to me is a ludicrously difficult problem to solve, and none of the intuitive solutions such as you know, Arvind Kejriwal's odd even work at any level. And the problem is like, you know, one of the things that exacerbates it in the winter months is of course, farmers in Punjab burning rice stubble. And there's such a cascade of bad incentives at play there. Because first of all, rice should not be grown in Punjab because it's water intensive, Punjab is arid, but you have free electricity for farmers. So therefore, they use tube wells, you have, you know, the government giving fixed prices for rice, and therefore incentivizing farmers in Punjab also to grow rice, all of those come together. And the way the politics plays out is no one's yet given me a satisfactory answer to how do we sort this out? The people in Delhi may want cleaner air. But how do you put pressure on the politicians of Punjab who have to cater to the vote bank that they have?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:15:36.060",
+        "message": "Yeah, so I think part of the problem is to think that this is an issue of Punjab versus Delhi. And the people in Punjab, of course, are rightly going to say, you know, why should we sacrifice, you know, to make their air better. But in fact, the fumes and the smoke which is caused by the stubble burning in the Punjab is also killing the children of the Punjab. It's making the infants sick, it's making them stunted, it's making the elderly people have more cancer and heart disease and emphysema, it's making them harder to breathe as well. So the people in Punjab really need to understand, I think that the pollution is affecting them. It's not about saving other people, it's about saving their own children and elderly. And I think moreover, as you point out, the policy, there's a lot of low hanging fruit, in fact, because stubble burning is not a hugely profitable activity. It's not a big value creator for India, or even for the Punjab. So there's a lot of ways in which there are win-win solutions here, in which because the pollution is so bad, because the costs are so high, and the benefits of something like stubble burning is so low, there are to be many, many ways in which everybody can come out better."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:49.180",
+        "message": "There's an additional aspect to this. I've lived in Delhi most of my childhood years, they were always burning crop stubble in Punjab, right? But it was never so bad for Delhi because the base level air pollution in Delhi was never so bad that the additional pollution from the stubble burning just pushed it beyond the limit. And here Delhi government and its policies are to blame too. Basically, the Supreme Court through a series of verdicts on the Delhi vehicular pollution, they try to get rid of the worst kind of pollution, which was diesel, right? So they banned bus fleet of about 10,000 buses. And they did it in such a weird way, because this was done through the Supreme Court, it was done by issuing writs. They basically told the Sheela Dixit government of the time that these buses can't run from tomorrow, right? So for a few years, just like demonetization, we had this tremendous shock to the transportation system and a shortage, which meant that to go anywhere from point A to point B in Delhi, and this is all before metro, and you know how large distances are in Delhi, people felt that the only way to actually travel is in a car. So even public transport in Delhi, if you notice is Inovas, right, they will pick up six or eight people and drive them to school, right? It used to be Maruti Omnis, which is kind of like a minivan. So they completely decimated the public transport system. And we have 20 Inovas where you could have one bus. And we have 200 cars where you could have one bus, right? So Delhi needs to really think about its public transportation system. And the metro is not going to do it because the metro only takes you to certain like really important major hubs. Everywhere else, Delhi is either too hot or too cold. It's not paved streets, it's hard to walk, they put road dividers everywhere, it makes it very pedestrian unfriendly. So the only way people can get from point A to point B effectively is in a car, right? So either they share the car services, or they have individual cars. But that's not a sensible way. And the other bizarre thing is in Delhi, you don't see any buses, or you don't see the number of buses per capita one would expect to see in a city like Delhi. You go to Bombay, everywhere you can see best buses. You just ask a random person who's been in Delhi for a few weeks, what is the public transportation flagship bus look or bus color? Alex, do you have any idea how a Delhi bus looks? No, I know. But you know how the Delhi Metro looks. And you know how the cars look. And you know, you've taken a tuk tuk, you've taken an e rickshaw. So it's one of those bizarre things that in Delhi, we just don't have enough buses. And this is all thanks to the Supreme Court and the Delhi High Court, right? So we've managed to completely destroy any kind of public transportation policy. And we keep blaming Punjab. So what Alex said for Punjabi saving themselves by not burning crop stubble, because very low value activity, I would say the same thing to people living in Delhi about using cars, right? We need to lobby and we need to agitate for better public transportation system. So today, as Alex pointed out on Feb 10, the air quality is 500 or higher. And as far as I know, no crop stubble is being burnt in Punjab and Haryana today or last week, and it won't be burnt next week. So we can't just blame Punjab and Haryana. Now, they're the worst 10 days of the year. But we have pretty bad air pollution in Delhi, where Delhi needs its own set of policies, right to cope with vehicular pollution. Delhi is completely de-industrialized again, thanks to the Supreme Court. So we hardly have any industrial pollution. So this is just about road construction, metro construction, vehicular pollution that is"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:27.420",
+        "message": "causing these levels of pollution in Delhi. And these are all you know, transportation, Delhi, these are all great separate episodes. And we shall now get back to the subject at hand, which I was also reminded of when you mentioned metros, because you know, I was at this lit fest yesterday in Nagpur, and they also have a metro there. And one of my friends made the interesting point that, you know, it's almost become fashionable for Indian cities to install metro. But the thing is that while it's great in Delhi and Bombay and cities that really need it, in some cities, it is just not being used. Like in Nagpur, I think for a while, it was like eight hours a day or something and people would just come in, you know, look around. So which gets us to the subject of your paper and the basic premise of your paper, if I can quickly state it briefly before we move on is that what we tend to do in India is that elite policymakers who are trained abroad and you know, who are trained in the policies of other countries, or at least even if they are, you know, trained in India, they follow those intellectual fashions, tend to transplant policies that have worked in the West to India without considering local conditions or local state capacity. That's broadly it. And I'd sort of like to begin by asking you a bit about the flailing state. What is a flailing state? And is India a flailing state?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:21:44.860",
+        "message": "Yeah, a flailing state is one which cannot execute its own orders. It's one where the head is not connected to the body. So in talking with people in India with the policymakers, I'm always extremely impressed. The policymakers here are superb. They understand, they read all the journals, they're very familiar with everything, the latest techniques and so forth. But in India, the policymakers cannot control what happens in the driver's license bureau. So India, Delhi wants, I'm sure, to have people pass the driver's license. And yet we know that 30 percent of the people with a driver's license, it's fake. It's a fake license. Either they bribe somebody or something like that, or they're not even driving without a license. So India has, it knows where it wants to go. The head knows where it wants to do, but it can't get the body to do that. And the problem is, is that most of the experts in India and in the West, they don't understand that and they don't make policy. In particular, they don't make policy with a recognition that what you want may not be what you get. If you want to make policy in India, you have to begin with the fact that you can only do a limited number of things. And what happens instead is that policymakers in India, they want to have everything that the West has. They want to have everything the United States has, including the regulation. So when I look at regulation in India, there's no regulation in the United States that is not also here in India, right? And the plastic straw thing is an example of that. Whatever it is in the United States, whatever we're regulating in the U.S., you also regulate here in India. But India does not have the wealth nor the number of government employees. India has far fewer government employees than does the United States. In fact, India today is spending on government about what the United States spent in, like, 1920. But they're trying to do much more than the United States did in 1920. So this is, I think, the main problem is that they're using 1920 resources to try and do 2020 regulation. And I think what we need, what India probably needs to do is to think, what can we do in 1920 resources? We should probably do 1920 regulation. And it would be a lot better if India stuck to what it can do, you know, the basics, you know, clean water, clean air, law and order. These are things which the state can accomplish. When it tries to do everything else, actually, these three things it can't do."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:24:27.260",
+        "message": "My favorite quote on this is from Ed Glazer. I think we say this in the paper too. So a country that cannot provide clean water for its citizens should not be in the business of regulating film dialogue, right? And that's my favorite quote. I mean, I think the government should not be in the business of regulating film dialogue anyway, lest the libertarians of the world agitate against the three of us after hearing this. So I'm not in the business of that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:50.780",
+        "message": "anyway. But even if you were to believe it should be regulated, it should be regulated,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:24:54.940",
+        "message": "the Indian state should not be doing it because it simply can't, right? So you get a whole bunch of strange things going on because the state tries to do everything. In the process, it ends up doing nothing, right? Or very little. So the government cannot enforce its own traffic regulations. You will see all sorts of weird things. I've noticed this in Delhi. They start blocking off traffic signals because people don't obey the signals and they cannot afford a cop to come and monitor the situation and hand out chalans to actually make people obey traffic rules. So in Delhi, people are in such a hurry that they just stop obeying traffic rules. So now what's the solution? The signal is blocked off. Important signals all over Delhi have been barricaded because we can't get people to use them the right way. So a city that can't get people to follow traffic rules, right, that can't enforce contracts, that cannot register the number of FIRs that come in every day, it simply should not try to do anything related to anything else. So while, forget the plastic straw thing with the paper straw, that just, it's a pet peeve. But even if, let's say, banning single-use plastic is a great idea, right? And I think the idea has some merit and we need to think about that a little bit more deeply. Even if it's a great idea, the Indian state cannot enforce it, right? And so our logic is, we shouldn't do it not because it's a bad idea, it's because it can't be done. And you will slowly slip into a scenario where you don't enforce the plastic ban, then you don't enforce the next regulation, you don't enforce traffic regulation. And before you know it, it's a city full of criminals behaving lawlessly"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:26:36.380",
+        "message": "because you don't expect the state to enforce its own rules. Let me just underline one point there and maybe differ a little bit from Shruti. And that is this, I think the paper straw thing actually does tell us something because this is an example of virtue signaling. Now, this virtue signaling, the problem is in the US, well, it's just stupid, right? It's just virtue signaling, but you can live with it, whatever. But here in India, virtue signaling detracts and takes away resources from things which are really important. So the more resources you spend on banning plastic straws and plastic bags and things of that nature, the less resources you have to actually providing, you know, clean water and traffic signals. So here virtue signaling is a true vice, because it takes away from things which are really important."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:27:27.500",
+        "message": "Yeah, it has a huge opportunity cost. Huge opportunity cost of virtue signaling."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:30.460",
+        "message": "Which is also in fact, just thinking a lot through of the public discourse, like so much of the virtue signaling that happens on social media is fine in and of itself, but it takes away so much attentional capacity of people that people just then switch off social media and we could be discussing more important things."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:27:47.500",
+        "message": "Yeah, and our virtue signaling is a little bit bizarre. So as you know, the occupational hazard of being a professional academic is that you get invited a lot of conferences and panels and things like that. I feel like the Indian elite are much more concerned with the kind of diversity standards we have in America, as opposed to the kind of diversity standards we actually need in India, right? There is a lot of agitation against what they're calling manels. I am sure I've been invited to a whole bunch of panels just to make sure they're not manels, but I don't need help. I come from a lot of privilege. We have no similar agitation to get Dalit voices on panels, for instance, right? Or diversity of thought, right? The rural urban divide. We won't pay money to get someone who lives in a village to actually come to Bombay or Delhi and be on a panel and hear their voice. But we will make sure that we get LGBTQ representation and female representation. But in very large part, that's also it's not that that's not important. It's just it's elite imitation of what's happening in the West, because in the West, those are the really pressing problems in terms of within the academy. We don't have enough female voices and LGBTQ voices, right? In India, the problem's very different, right? Depending on which social strata you come from, you could be a very privileged female or LGBTQ voice and are sort of oppressed groups are quite different. There's no such thing going on in America. America doesn't have Dalit affirmative action yet, right? So we're not copying that for India yet. So there is also a slightly more like myopic. And if you know, this can take some sinister forms, but it's quite where we are looking and who we are listening to is corrupted by this kind of elite imitation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:31.980",
+        "message": "And it also strikes me that this kind of mimicry, elite imitation, whatever you call it, is something that happens. I mean, we'll of course discuss the policy aspects of this, but it happens in all our thinking. For example, even ideologically, what we tend to have done, and what you'll find common among political commentators who write in English and not so much in the other languages is using that whole ideological frame of left and right to talk about Indian politics. And it makes absolutely no sense here. I mean, if you are to use that frame, then all parties are essentially statist and therefore left of center when it comes to economics and kind of right to center because most of them pander to majoritarian sentiments anyway. So the left right framework makes absolutely no sense. And there have been attempts by some thinkers such as Rahul Verma, who I had on the show, Pradeep Chhabber and Rahul Verma, they wrote an excellent book, excellent book about trying to sort of, you know, find a new frame to look at what's actually happening here. But otherwise, so much of our ideological constructs and ways of thinking about the world and especially when you talk about the posturing on Twitter, so much of the posturing on Twitter is actually just replicating attitudes of the West, which may not really be sort of relevant in an Indian context. I would completely agree. Great. So let's get back to sort of the subject of the paper and what seems to sort of hit the nail on the head. And again, I'll quote from your paper here, quote, the Indian state flails because it is simultaneously too large and too small, too large, because the Indian government attempts to legislate and regulate every aspect of citizens lives, and too small, because it lacks the resources and personnel to rule according to its ambitions. Stop quote. And you know, as you were saying, Alex, just I'll quote some figures from your paper to demonstrate what those differences in state capacity are, where you say, quote, India has surprisingly few government workers, about one fifth as many per capita as the United States, the number of police per capita, for example, is only 135 per 100,000, one of the lowest rates in the world and far below the median, which is 318, or mean 333 of police officers per 100,000 capita in the rest of the world. Moreover, a significant number of the police are assigned to VIPs rather than to protecting the public at large. The number of judges per capita 12 per million is far below the US rate 108 per million, which helps to explain India's enormous backlog of 32 million cases, millions of which have been in process for more than a decade. Stop quote. I think I did an episode with Alok Prasanna Kumar, where he mentioned some case that has been going on for"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:32:03.180",
+        "message": "300 400 years. There are cases like that. So picking up on the judges thing, that's a good example. So judges have to enforce the rules, right, whatever the state has managed to legislate. And if you think about it, the state is the biggest litigant before the courts, right anywhere, because both for disputes between different levels of government, and also all the criminal justice system, one of the parties is the state. So the state is one of the largest litigants, right. So in a sense, if we don't have enough judges, right, we're going to have long pendency of cases. But that gets exacerbated by the fact that you also have a lot of regulation. So let's say we have the capacity to deal with 100 cases a day, and there's some pendency related to that, you can make 80 of them on private contract enforcement, right, and 20 of them about some kind of regulation that wasn't followed. In India, the proportion is totally off, because the more things you regulate, the more it is going to clog up that capacity of 100 cases that you can do in a day. So our pendency problems are only going to get worse, not better, even if we appointed more judges, unless we significantly roll back the regulatory state in India. And that just is not a priority for anyone, right. So when you look at civil servants, state capacity is now very fashionable. I've been talking to a lot of people, look at the major books on state capacity in India, all of them are talking about personnel problems, right? So that is one half of the equation, we need more judges, we need more police, right? The other half of the equation is, in some sense, no matter how many judges and police we get, unless we roll back the regulation, it's not going to do the job, right? If you continue regulating the way you have the last 70 years, all of India could be a cop and a judge, and it still won't do the trick. So we need to really think about the problem, like, as one of what is clogging the system, and what is addressing the clogs in the system. And the personnel and the money is just a small part of the problem."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:34:03.820",
+        "message": "And these issues are really matter. So I have a paper with Vaidehi Tandel and Sahil Gandhi and Shamika Ravi, where we're looking at building construction in Mumbai. And what we find is that construction, on average, is delayed by 30%. The time to construct increases by about 30%, which is huge, because of litigation. And so litigation has become so easy with PILs and things like that, that you don't even have to win your case, right? If you want to hold up a construction project, you just sue, and then it goes to the court, and then it's just delayed. And so this gives, actually, a way of creating leverage. So the pendency itself is actually what is doing the work, because if the courts were quick, the suit wouldn't work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:54.700",
+        "message": "The delay is a win. They wouldn't file a suit if they didn't know there would be a delay."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:34:58.860",
+        "message": "Exactly. The delay is actually has become the threat point. So it's this combination, then, when you have all of this regulation, all of these reasons, which you might possibly sue, then you have delay, then that actually becomes powerful. And it becomes a way of extracting resources from people who are trying to build apartment buildings and things like that, which, obviously, Mumbai desperately needs. And both sides are exploiting the delay. Very often,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:24.300",
+        "message": "even the developers exploit the delay because they know that if there is a genuine case that the other party has, they won't have the power to litigate for 15 years, right? They won't be able to afford the legal fees. So let's say it's a dispute with a single homeowner who's the next door neighbor or something like that. That poor guy cannot afford legal fees for 15 years. They can't have their life put on hold for 15 years. But the developer probably has an entire legal"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:51.020",
+        "message": "team. So it doesn't matter if you're right or wrong. The process is a punishment. Exactly."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:54.860",
+        "message": "So depending on which side you're on, either side can exploit. I don't want to make it seem like, oh, only the poor developers get delayed. They also use the same system to exploit little guys when they try to take over land or illegally construct or all of those things. So this is a problem no matter which, no matter whose side you're on, in some sense, right? In the case of Bombay, the side we must all be on is how to quickly increase housing supply. So in this case, it really matters that the developers get delayed by 30% time because, I mean, that is going to determine the delivery dates for the additional housing in Mumbai. It's also going to take up the cost of additional housing in Mumbai, right? So this is going to have all these cascading effects further downstream. We have to really think about capacity from that point of view."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:39.660",
+        "message": "And we'll talk about housing regulations a little bit later in the episode as one of the case studies that you've sort of taken on. The phrase that struck me from your paper, which really sums all of this up is regulatory overload, where, you know, the government keeps adding regulations and state capacity and personnel and all of them sort of remain the same or grow really slowly, if at all. And so my question there is that, is it therefore rational for a government servant finding that he is overworked, there are too many regulations that he has to impose on too many people? Is it rational for him to therefore become a rent seeker? Because rent seeking, it strike me then is both more lucrative and easier than actual regulation."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:37:17.980",
+        "message": "I have two ways to address this question. First is who is the government actor we're talking about, right? So if you think about the highest level bureaucracy, which is framing these rules, which is, you know, the Indian Civil Service, secretaries, joint secretaries, joint secretaries in the Ministry of Environment, and so on, so forth, they are not the guys who are on the ground taking the small bribes, right? So to some extent, it's not like their pockets directly get through. If there's any corruption happening at that level, it's a completely different game of, you know, thousands of crores going to Swiss bank accounts, coal licenses, exactly coal licenses. But our Indian Civil Service, you know, the one that's in Delhi, the people we've been talking to, they're actually remarkably corruption free, you know, relative to other state actors. And they are the people who are forming most of these rules, right? So to some extent, the guy who benefits from it, okay, downstream, the traffic cop who benefits from the stupid regulation, he's not the guy in charge of making the regulation. So I want to disconnect those two levels. My hunch is, if he asked a traffic cop, do you think we should have more regulation? He would say no, even though it benefits him in terms of higher, you know, some kind of rents or bribes or something like that. Because on a day to day basis, they realize the kind of chaos it creates. They realize how little control they have over their own jobs. And they really don't make the rules that they are supposed to enforce. And no one has ever asked them on the input of their lived experience at their job on how we frame these rules. Similarly, a lot of the Delhi regulation that we just talked about in terms of transportation or de-industrialization, it's all made by Supreme Court judges, right? They live in Lachchan's Delhi, they drive around India Gate Circle, which is now functioning really well, thanks to so many judges, you know, navigating that space, they go to Bhagwan Das Road, anything that's a problem between these two ends, they're aware of it. But they simply do not engage with regular folks, the guy at the licensing office, the guy who's a traffic cop, the guy who is going to enforce the Essential Commodities Act, who's the price controls inspector, labor inspector, no one seems to ask these people what to do, right? So I'd agree with you that rent seeking has led to this whole thing. If the price controls inspector was the guy writing the Essential Commodities Act,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:36.460",
+        "message": "but that's simply not the case. No, I'm arguing the other way. I'm not saying rent seeking has led to this. I'm saying this has led to rent seeking as a natural and inevitable consequence of very low state capacity having to deal with too many regulations. Like an example of this came in Delhi, where there was news a few days ago that it takes something like 40 to 45 licenses, documents, not licenses, 40 to 45 documents to open a business and 19 to get a gun, which means if you want to start an assassination agency and have 20 documents, you will get a legal gun, but you'll be in the informal sector, kindly forgive bad joke. And another sort of instance of over regulation is I had done an episode on restaurant regulations a while back with Madhu Menon a couple of years back, where he pointed out that when he was running a restaurant, the excise department had a regulation that he could only have one entrance to the restaurant, so they could monitor the inflow and outflow of liquor. But the fire safety department quite correctly mandated that there should be multiple entrances. So no matter what the guy does, he is breaking the law, and there will be bribes and there will be rent seeking all across. But like you pointed out, we have to disconnect the people who are benefiting from taking the bribes inspectors on the ground from the policymakers. Why do the policymakers then like is it just the easiest thing to do put one more regulation to solve the problem?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:40:52.940",
+        "message": "I think that's what they're familiar with. Right. So again, they go to all of the international conferences, and they talk about best practices and the way to do things. And they come up with a list of things to do. And you know, we need public education, we need this, we need that we need this, and then they pass these laws. And then they can say to their friends, you know, in the liberal sort of community, look at what we've done, you know, we pass this law, equal rights for women, the same wages for women, you know, all of this kinds of things. Even though this has no bearing whatsoever, on the actual situation in India, they can point to a law and say, see, we're just as advanced as you, we have the same law as you do. So I think that's part of it. I'm going back to what you said earlier, I'd also like to point out that perhaps the worst combination is to have honest bureaucrats and over regulation, right? These are the two things that go worse together, it may actually be the case. And sometimes it is the case that when you have all of this excess regulation, which cannot possibly be implemented, for some of the reasons that you said some of it is contradictory, and some of it, it just takes too many resources, it may actually the bribes, the petty bribes, which is the oil which makes the system flow. You know, unfortunately, what that means is that it is very difficult to get out of the system, because people do benefit from the bribes. But the bribes, at least in some cases, have some positive aspects in that they let business actually get done. If every business had to go through those 42 regulations, India would have far fewer jobs and businesses than"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:26.700",
+        "message": "they do today. So thank God for end seeking in a sense, because well, thank God for good"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:33.260",
+        "message": "corruption that greases the wheels and helps us overcome the problem of bad regulation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:37.980",
+        "message": "So it's a problem, in a sense, you would say created by the state and solved by society through the mechanism of bribing."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:44.460",
+        "message": "Yes. But that also makes criminals out of everybody."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:47.340",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:47.820",
+        "message": "And it also gives state actors high moral ground when they want to put in more draconian regulation and stupid things like demonetization. Going back to the head of our conversation, demonetization, I have a feeling people tolerated it, because they were so tired of the corruption, right? And people hoarding black money, and rich people exploiting the system in a particular way."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:09.020",
+        "message": "So they bought the rhetoric that this will end."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:43:10.540",
+        "message": "Exactly. So they bought the rhetoric that, you know, it's true that we are suffering, but the rich must be suffering so much more than us, right? And they really need to be punished for this kind of tax evasion and starving the state of funds and things like that. But that's also because the regular person doesn't understand political economy the same way we do once we read economics textbooks and we read case studies of how these things work out. And they're not expected to know these things, right? They're regular people, they're businessmen and farmers and, you know, housewives, they're just going about their daily life. So they can't even be expected to know this in some sense. But it's because we have made criminals of everyone that it gives people the high moral ground to make worse regulation, which just keeps adding to this problem in a bizarre way."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:43:55.580",
+        "message": "And when everyone has been made a criminal, then when it comes to laws, which you actually do want, you know, like traffic laws, like driver's licenses, like preventing pollution and low cost double burning and things like that, then the state can't do what is actually its job. So it's, again, this virtue signaling, this premature imitation, this overregulation, which makes it difficult to do the things which actually need to be done. So low state capacity means that the state can't even do the night watchman jobs, which even most libertarians"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:32.300",
+        "message": "would think that the state should do. Exactly. I mean, what, you know, all of us keep arguing is that India needs a strong state that does a few things well, rather than a weak state, which gets in the way."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:44:41.900",
+        "message": "Yeah. And, you know, the only way that can happen is if each cop and, you know, sort of licensing inspector thought to themselves and said, Oh, I have 10 tasks, I should prioritize the most important, which is the night watchman state. I think that is a very tall ask of any state actor."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:59.100",
+        "message": "You have to reduce his job to what is essential."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:45:01.740",
+        "message": "Exactly. And actually, you got to get rid of most of those jobs. I don't know why we have an essential commodities act. I don't know why we have a labor inspection system. Right? These things simply shouldn't exist. And the second bizarre thing about the elite about the elite imitation part is not that Americans or people in Europe, those academics don't care about transportation, vehicular pollution. It's that they've solved the problem. Right? So when you go to one of those conferences, they're only talking about single use plastic ban, because that's the problem they haven't solved yet. They've already solved the problem of congestion pricing. They already have an excellent bus fleet, they already have the highest level of regulation that you need on diesel vehicles or any kind of vehicle and the particulate matter that comes out of it. So they're not talking about those problems, not because they're not important. It's just they fix it. We are not talking about those problems, because they have fixed it. Right? That's the nature of the elite imitation, which is which makes the whole thing very strange. So we need to have a conversation just about transportation policy. Right? And then maybe 50 years later, we can talk about"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:08.780",
+        "message": "single use plastic ban. Once we fix that problem. We'll talk more about our current big problem of elite imitation. After we take a quick commercial break. Home decor items and much more. This makes art accessible to many more people and artists get royalties on every item you buy. Indian Colors now has a new range of products out there. Elegant summer dresses and men's evening shirts with unique motifs by artists like Tanmay Samanta, Manisha Ghera, Baswani, Shruti Nelson, Pradeep Mishra, Harin Vakil and Jaideep Mehrotra. Why should you not look classy even if you're stuck at home during the lockdown? There's also a new range of those iconic Indian Colors stoles, as well as home decor accessories like tissue paper holders, cushion covers, coasters, and more. And if you're missing your friends in these lockdown days, worry not. You can show them you're thinking of them by buying gifts for them from Indian Colors. Corporate gifting is also available. So head on over to IndianColors.com. That's colors with an OU and make art a part of your life. Welcome back to the scene in the unseen. I'm chatting with my elite policymaker, friend Shruti Rajgopalan and Alex Tabarrok about what is wrong with the elites. Now it's commonly said by a lot of people with some justification that it is finally the elites who drive policy and this is not necessarily a bad thing because the elites do have the training and the understanding and the commitment to actually drive policy because you know, normal people because of rational ignorance because they need to get on with their daily lives are not incentivized to actually learn economics and understand how policy works. So eventually, all nations at the level of policy and at the level of the founding principles are going to be driven by elites in a sense, even our constitution was made by elites. And I shall come back to that question later of whether that was an example of elite imitation. But in your paper, you've you point out that there is a grave danger to this as well. Can you elaborate on that a little bit?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:48:30.460",
+        "message": "Yeah, let me give an example. I was in Bangalore and I needed some medicine. And so there was a sort of a hospital nearby with a pharmacy and I went to the pharmacy. And I was quite amazed because I mean, it looked just like Kaiser just it looked just like at home. Okay, I was very comfortable because I walked in. And yet, and I was comfortable because all of the signs were in English. And I got the medicine and the explanation for how to use the medicine is all in English. And this is not because of me personally, you know, the white guy. This is just the way the hospital works. And I can guarantee you, I mean, I'm sure this was an elite hospital in some sense, but I can guarantee you just by listening to the people there that not all of the patients spoke English. So this was something which was amazing to me in that the elites, you know, and I don't want to criticize the doctors. I'm sure the doctors spend time communicating in their native tongue to some of the patients as best as they can. But the system itself was totally geared to English speaking, not to speaking in native tongue. And that to me was an example of premature and elite imitation, which I think has very negative consequences."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:49:49.020",
+        "message": "Yeah, and English is the 44th most fluent language spoken in India. So there are 43 languages, which have higher fluency levels."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:59.660",
+        "message": "Measured how?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:50:00.940",
+        "message": "I think this is the IHDS survey. I think we cite this in the paper, I can look it up and tell you. But this is basically how many people speak a language in India, like the, in terms of population, and then how fluent they say they are in the survey questions, right? So I'm a native level English speaker, right? I'm a native level Hindi speaker. But my reading skills in Hindi are a little bit rusty, because it's been a while since I've been exposed to reading books in Hindi, right, simply by virtue of living in the United States for so long. Now, if you can speak English, but your fluency levels are really in Hindi, and now I'm talking only about the literate population of India, which is also not the entire population. You can't understand medical terminology. It's actually an effort to read a sign in English. You have to decipher it. And you know, signs are easy, because you get used to them, you go to the same places over and over again. Medicines, as Alex points out, is a really big problem. You're usually taking medicines when you're not feeling too well, someone else might be administering them to you, right? At that point in time, if you don't understand what the directions are to take the medicine, unless they're explained to you, or they're texted to you in another language, it's a really big problem. So in a sense, the Indian elites have colonized their own people, using a language that the elites are comfortable with, that most of India is simply not comfortable"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:51:21.580",
+        "message": "with."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:51:22.060",
+        "message": "You were saying about your grandmother? Yeah, my grandmother, I mean, she knew a few words in English, right? But she was not anywhere close to a, even a fluent English speaker, forget native English speaker, she couldn't go to the doctor alone. And this is not unique to my grandmother, right? Someone has to take most grandmothers to the doctor, not because they're loving and polite, but because there's a very high chance that they won't understand the instructions, unless the doctor makes an effort to explain it to them in their native tongue, right? Which is not always the case, right? Now, imagine this at higher and higher levels. Now, this may be just a question of, you know, some written material on an antibiotics box or something like that. And you can get a neighbor to help you with it. What about information like surgery, right? You go to a hospital, doctors give you a whole lot of information, right? The doctors are not using their native tongue, because they're part of the elite. And the people who are receiving that information may simply not be able to process it, not because they're stupid, not because they're not smart, or they can't run their own lives. But because we have imposed this bizarre language on them. It's the same thing with forms, right? You go anywhere in India, and you fill any form, it's English, and now increasingly Hindi, there's a big push for Hindi. But we don't see too many forms in native languages. And if it's in a native language, it's usually only the one language, right, the dominant language of the state. But in India, as we know, even the minority language in any state is like 12 million people speak that language, right? So we effectively exclude 12 million people from being able to successfully fill a form out easily. So this just happens over and over again, wherever you go. The legal system is entirely in English, right? The higher level courts are in English. So this has some really big problems in terms of access, right? Access to pretty much anything. That's why learning English has such a big premium in India. We always thought it's about jobs, right? And I'm sure that's a very large part of it. But it's also about just navigating sophisticated systems, which you need in terms of medical care, you need in terms of being able to fill out a form effectively for all the paperwork. We are not able to do it in India without additional human"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:53:38.140",
+        "message": "interface. I want to make the point, I mean, it's great that lots of Indians speak English. I mean, it is a strength of the country that so many people are willing to learn multiple languages. I mean, this is a positive thing. And it's a powerful thing that enables Indians to reach out and get the best scientific literature and so forth. But, you know, it's often been said that India is more like, you should think about India like Europe, right, as a collection of countries. And yet in Europe, you know, there would be no situation in which in Germany, you know, you would find all of the instructions in French, right? Or, you know, in Italy, you would find everything, you know, written in German. This just does not happen, right? And so this is another example of a situation where the elites operate in a different world and make assumptions which are imposed over all of India. So if India truly is like Europe, and it is, then the state ought to be paying much more attention to speaking to the populace"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:43.900",
+        "message": "in the language which they understand. This is, it seems to me to be kind of a muddy problem in the sense that yeah, obviously, I completely agree with you. And by your point that, you know, much as in Indian homes, you will find the kitchen is often the grottiest room because the men are making the decisions and they don't spend too much time in the kitchen. So similarly, elites are comfortable in English. So they are imposing English on the country. I get that. But at the same time, there is also that imperative after independence that we are a country with so many linguistic divides. And you know, you would have started a civil war if you tried to impose Hindi on Tamil Nadu. And English was a functional language everywhere. So why not go with it? And it strikes me that is different from the analogy of Europe, because in Europe, they're all independent nation states. While here you've got to and obviously, our elites also did have a vision where you know, they pay tribute to federalism only in name, it was they were basically governing from the center. And therefore, as a functional language, it would seem to me that English was, you know, just the obvious rational choice, which then leads to what is both a vicious circle and a virtuous circle. It's a virtuous circle in the sense that if you learn English, you get ahead in life, and so on and so forth. It's a vicious circle for those left out of it, that you're deepening social and economic inequalities to those who do not have access to English and to English education. And I don't know what's the way out of this, because it seems to me that if you regulate it, you know, if you regulate local governance in multiple languages, you run into the same problems of state capacity, which we've been speaking about."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:56:14.300",
+        "message": "So I would say two things. One, I love the linguistic diversity of India, I wouldn't change it. I also like that the official language is English if for no other reason than self serving, because it helps me navigate everything. So I understand the problems that you know, India had this high degree of linguistic fractionalization. So you needed some common language that no one would dispute and English ended up being that language. So that's fine. My issue is more in terms of lack of user sensitivity, right? We're not thinking about who is actually using these documents. If we mandate ISI standards, and a written set of instructions for how to use an iron, we are not thinking about can the person buying the iron actually read the instructions, right? Anytime we buy any of these Chinese electronic gadgets that I use in America, it's like a really long piece of paper that's folded in, it's got a tiny set of instructions, but it's in at least 16 different languages, because the Chinese are making and exporting to the world. They're cognizant of that, because they think like an entrepreneur. And they care that the user can actually read the instructions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:19.260",
+        "message": "And they're responding to incentives."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:57:20.380",
+        "message": "And they're responding to incentives, which you know, so what I mean by we've colonized our own people in a foreign language is not that I think English is bad medium. It's simply that we haven't made any effort to understand, if it helps the people it's supposed to help, right? We have all this staggering amount of information that we want to give on medical boxes and medical forms. And we don't think for a second about who's actually going to read those medical forms, right? We don't think about do we have translation services. Now, every pharmacist, every hospital compounder doctor we know acts as a mini translation service. So you and I who've navigated the system, we know that the kind doctors immediately switch to another language and things like that. But what I mean is the state has not put in any effort on how we design a system. Keeping in mind citizens, we design systems keeping in mind bureaucrats, right? So that's kind of my problem with English as the official language. It is not that costly, especially given current technology levels to have all court cases and judgments translations made available in multiple languages. We simply don't do it. I don't know why, right? So only if you know English, you can get access to all the Supreme Court important judgments, some of the most important things that govern state and citizen relations. The same thing for the budget, right? Only in the last two or three years have we had the budget speech in Hindi. We don't translate to other languages. What we do is the local regional language news channel will do a translation of some sort of what the finance minister said in Parliament. And that's how they inform that, you know, speakers of that language. But we don't have language translation easily available. I'm just saying government should make documents at the very least available in languages that people speak. And I'm not talking about languages that you know, small minority speaks, I'm talking about languages that 30, 40, 50 million people speak, so it will eventually pay for itself. But it also is a symptom of how the state thinks about its people as subjects, and not as citizens or like users of public services. And that, to me is the most disturbing thing about this entire language issue."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:32.700",
+        "message": "Very well said. You say in your paper, quote, we identify three characteristics of the Indian elite, especially of those formulating policy, language, caste and education at institutions outside of India, stop quote. And the reason you point this out is obviously because all of these are factors in the kind of elite imitation that eventually gets us into a spot. So can you"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:59:52.220",
+        "message": "elaborate a bit on this? Let me take the least controversial one, and I'll let Trudy do the more controversial ones, but the education of the elites outside of India. Now, in part, this is a, to me as an outsider is a remarkably positive element in that it's amazing that someone like Raghuram Rajan could come into India, become the head of the RBI, and then leave and go back, you know, to teach at Chicago or Harvard or wherever he is now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:25.020",
+        "message": "And get to so many people, Arvind Panagari, Arvind Subramanian, blah, blah, blah, blah."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:00:29.020",
+        "message": "Arvind Subramanian Exactly. There's many, many examples of this. So in one sense, it's remarkably positive that it shows something about the confidence of India that they could accept as someone, as Indian could come in for a few years and advise the government. That is something which you would never see, I think, in the United States, right? Somebody who lives somewhere else to come into the United States, it just wouldn't happen. And I do applaud Indians for that, because I think it's positive. On the other hand, it's clearly also the case that this biases policy in ways where the head policymakers are thinking about an audience back home. They know they're not going to be here that long. They know this is not a permanent position. They do not live in the country. They don't even live in, you know, a colony in Delhi like some of the Supreme Court judges Shruti was mentioning. They at least live and see the country where some of the policymakers who helicopter in for a few years, they're not even that close. So I do think that it biases policy. And that's that's important. And it's reflected throughout a lot of the"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:01:49.660",
+        "message": "Indian elite. I would add a few things to this. So one is, again, every system is going to produce a particular type of elite, right? And every system has structural reasons why very similar looking people end up in the elite. So in America, we have this huge debate going on about how white men have a particular kind of privilege. If you have multi generations of, you know, college education in your family, you have a particular kind of privilege, a huge row all over the US with Ivy League schools is how if your parents have been to that school, you get some preferential treatment to go to those Ivy League schools, and so on, so forth. So every country, every society is going to have some structure of privilege. The kind of privilege that has taken place in India, right, is that typically, upper caste people manage to capture really important areas, virtually in any sector of society, right? So whether you talk about business, whether you talk about academics, whether you talk about teaching at the school, whatever it is, it is, I mean, blindingly obvious, no one has to make big arguments"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:00.540",
+        "message": "to make the case that it is, you know, and let someone misunderstand what you obviously mean is that it is a structure which has these inequities built in. It is not necessary that there is some person at the top who is discriminating and out of you know, all the candidates choosing only the upper caste guys. The problem is that out of all the candidates he will get there will mainly be"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:03:21.340",
+        "message": "upper caste. Yes, and all the people doing the choosing will be upper caste, all the people applying will be upper caste, what you get is a panel full of upper caste. And this perpetuates itself. So it has perpetuated itself. It's appalling in India that we have, we pay very little attention to diversity in every area of life other than reservation of government jobs. That's the only area where you know, there is a constitutional mandate, we've paid some attention to it. Every other area, the moment you talk about any kind of structural inequality, the moment you talk about taking representation seriously, you encourage private companies to have, you know, affirmative action to have greater representation, they'll say no, those people can go get government jobs, right. So it's become a very strange system where we don't have representation across the board. Now. So in India, we know what the elite looks like. The elite typically is upper caste more often than not Brahmin, but certainly upper caste. The elite also speak English, right? Probably multi generationally, they speak English, not just their own generation. And third, they have access to highest quality education, right? Sometimes it's the highest quality education in India, like IITs, and or IIMs, you know, all the elite schools. And very often, if they come from a particular kind of privilege, they're able to go abroad and get, you know, a PhD or a business degree or whatever it is abroad. Now, this has been going on for more than 100 years, right? The last set of local elites we produced who were just purely local were people like Dadabhai Naoroji, who were completely educated in India. So everyone, starting with Nehru, a lot of the people who wrote the constitution, they were all elite. Now, speaking of the elite problem, why is this an issue? So Ambedkar famously said that only people who haven't lived in villages, romanticize villages, because the people who romanticize villages and don't want urbanization and want rural development, are all these upper caste people who like the idea of farming and sarson ke khet and you know, all these lovely things and a village community life, which is slower and not polluted. They don't know village politics at all. They don't know how bad the caste"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:31.740",
+        "message": "oppression is in villages. In fact, I'd say that, you know, this part of Gandhi's ideology was also isomorphic mimicry. He got it from Ruskin and Tolstoy, all of those foreign thinkers who idealized"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:05:41.500",
+        "message": "villages. And Ambedkar pointed out that Gandhi had never lived in a village. You know, he was born and raised in Porbandar, which was a really important port city. And born to privilege. Born"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:51.500",
+        "message": "in an important family, went abroad, did all of that. Exactly. But romanticize villages, right?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:05:56.380",
+        "message": "And not this is not because Gandhi's a bad person or ill intention. This is just simply not having the experience of been in a village and going through caste oppression. Ambedkar, on the other hand, is not allowed to sit inside the classroom, because he's Dalit, right? He's not given water that that the other students can get access to because so Ambedkar is very well versed with what actually happens in a village, especially if you're lower caste and how structural inequity in a village can cannot go away easily, right? So in that sense, if you think about who is making policy, it suddenly becomes very important what their experiences, right? The farther away they are from the median Indian, right, is a really big problem. And the kind of elites we're talking about are really far away from the median Indian. A second level problem is now if we say that the most important mandate of government, if you take things like Gandhi's talisman seriously, is the oppressed Indian, they are not in the same universe as the oppressed Indian, they've probably never met people from villages, they've never seriously interacted with them, not because they're not good people, it just simply hasn't happened. Right. So to some extent, the Indian elite are caste blind, not because caste doesn't exist in India, but because they haven't encountered it. Or they haven't encountered it viscerally in a lived way. They might, you know, be intellectually able to sort of talk about it. Yeah. So Akhil Katyal, who's one of our favorite poets, both Amit and mine, has a lovely poem, again, I won't dare to quote it exactly. But he talks about how a little boy about eight years old goes and asks his mother, Mama, what's our caste? And she says, if you don't know at age eight, it must be upper caste. It must be upper. It must be upper. It's a beautiful poem. Yeah, so we're caste blind, because it never came up, because we're at the top of the pyramid, so it doesn't come up. Right. So it really, I don't want to make caste a big issue in terms of how it informs your economic policy. I'm sure any one of any caste could make excellent economic policy. But, or bad economic, or bad economic policy, right? So the identity matters, because the experience matters, and it matters who you're having the conversation with. Now, we have the most number of elites in finance and economics, because it requires a particular kind of technical training. Right. And we have some of the best schools, it used to be everyone came back from the LSE and Oxford and Cambridge, you know, this sort of like Manmohan Singh's generation, IG Patel, you know, that group of chief economic advisors and finance ministers. We know there's been a shift to American universities for Indians, you know, the latest crop of advisors, whether it is Arvind Subramaniam, Arvind Panagaria, Raghuram Rajan, they're all trained in America. So I mean,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:43.660",
+        "message": "the current local crop is trained in India and defenders of demonetization and frankly, bad economists, which is why they are in the positions they are, but let's not go there."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:08:52.780",
+        "message": "So there is this element of people who have had a particular kind of privilege their whole life, and they tend to make policies of a particular kind, right? Now, I'm not saying that the governor of RBI is not thinking about interest rates the right way, because they're elite, right? That's not the argument. It is that we may not think about demonetization, ATMs, how people use cash in an economy, what kind of denominations we need to make change when we go to take an auto rickshaw, those things don't seem to be a priority for the highest level of the RBI, right? And that part, we need a lot of people at the RBI who are cognizant of how people are actually using cash in an economy. One of the biggest reasons for the cash crunch post demonetization was that the new currency that the government introduced was a different size than the old currency. So the ATMs wouldn't recognize it, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:46.620",
+        "message": "Classic example of"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:09:47.580",
+        "message": "This is a classic example. I mean, this is complete state failure. It's moronic. I mean, I can't believe that people who are so highly educated actually did execute this policy. But this is also because at some level, the people at the RBI are not the people who are standing in line and trying to get cash and trying to make change. They use credit cards, they're the 1% in India, who are doing credit cards, and they're more worried about cybersecurity and can we get OTPs, rather than can we get change. So that is where this kind of elitism and privilege really starts mattering, even with an economic policy. Now you go beyond that, right? Now you talk about regulation. Now you talk about provision of public goods and services, right? Raghuram Rajan's latest book has a huge section on how we need to think of the community, right? So this is the third pillar, right? So we need to bring back the focus on the community. There's a lot of focus on markets and a lot of focus on the state. We need to think about community seriously and preserving the great things about community. But there are also some terrible things about Indian community, right? You live in a village, they never forget who you are, who your grandfather was, who married whom, what caste you are, did anyone marry out of caste in that particular village? It's awful. So I think we need more urbanization in India. If you ask any person who lives in a village, they would want more urbanization in India. But if you asked elites who are thinking about an American problem, where we need to bring the focus back to the community, because there are entire communities which are in crisis because of opioid addiction or something like that. It's not clear to me that that applies one on one to India. And this is not to criticize Raghuram Rajan. He's a fantastic thinker. I mean, he's a genius. He's the one who predicted the financial crisis before pretty much anyone else did. But on some of these margins, if someone read Raghuram Rajan's book and just imported it to India, it would not work at all. It would not work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:40.700",
+        "message": "Moving on, you've kind of, you know, described how Indian elites are likely to be English speakers, even if they haven't been trained abroad, though many of them have the formative influences are likely to be from abroad, not as much lived experiences within the Indian this thing and you've given four examples. And I'll, you know, ask you to briefly take us through them four examples of recent policies or recent packages of policies, which sort of indicate this sort of transplantation of ideas that have worked in the West, but bound to fail in India for, you know, reasons of local conditions. Shall we start with maternity leave?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:12:19.260",
+        "message": "Well, India has one of the best maternity leave policies anywhere in the world. Right? I think we're almost as good as Sweden and Denmark in terms of how generous the leave is. Right? Now, there are a few things. This obviously only applies to the formal sector. Right? The second is Indian female labor force participation is at an all time low, right? It's always been low. It is particularly low right now for a whole number of reasons. You have a couple of great"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:45.420",
+        "message": "episodes on why so few women with Namita Bhandari and multiple guests, right? And this has something"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:12:51.180",
+        "message": "to do with both the current jobs crisis, where preference is given for the male member of the family to take the job as opposed to the female member. Second in India, for a lot of a very large part of India, working women is an inferior good, in the sense that as income levels go up, you drop out of the labor force, right? This is for most of the country. So I'm again, one of a very small minority of privileged people that would consider that women should work because women are equal and so on so forth. For most of India, right? Men and the families think that the women should work only if it's a dire economic situation. So as soon as the family or household income starts going up, you know, the women are asked to stay back."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:36.380",
+        "message": "Which is one of the explanations for the bizarre fact that as India has grown, our participation of women in the workforce has gone down."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:13:42.540",
+        "message": "Exactly, right? So that's so female labor force participation is fairly low. Now, the second part of female labor force participation is a lot of it is in the informal sector, right? Most of India operates in the informal sector. We don't have precise numbers, but estimates put it anywhere like 50 to 70% of the labor force is engaged in the informal sector, even if they are not themselves vulnerable as informal labor, right? So that's the second level problem. So we've passed the law, which is first world and first trade, absolutely, right? And as a young woman myself, and everyone I know who has had children, and I understand the struggles of, you know, very little maternity leave, and what a luxury that is, it seems like a great idea, right? But it's going to benefit, maybe a few 1000 women at best, right? But it's also going to take up state resources in terms of thinking about the law, drafting the law, enforcing the law, right? Who are the kinds of firms who are likely to give this kind of maternity leave, they're going to be the top end firms, right? This is like the law firms or the top end businesses who are likely to just through social change and peer pressure, very likely to adopt good maternity leave policies, because otherwise they would lose these women who are so gifted, operating at the highest level of the Indian economy, right? Any firm lower than that, either the law doesn't apply to or it won't be enforced, which means it doesn't matter, right?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:15:11.740",
+        "message": "And to the extent that it is enforced, it just raises costs raises the cost of hiring women can even backfire and make it more costly to hire women. So you hire fewer women."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:21.420",
+        "message": "In fact, when I was editing Pragati, I'd, you know, published a paper, I think by Devika Kher, I don't remember who, an article about how this has actually affected the employment of women, because firms are now incentivized to hire men instead of women when there are equivalent candidates. So the incentives are terrible, which is what the coercive power of the state can sometimes do with these unintended consequences. And you quoted Anthony Allard's great phrase,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:15:43.740",
+        "message": "phantom legislation. Yes, yeah, exactly. I mean, it's a phantom legislation. And again,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:48.460",
+        "message": "it's another example of virtue signaling. And phantom legislation, just to define it being the passing of laws, which do not have, and most probably cannot have the desired effect."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:15:56.700",
+        "message": "Yeah, it's laws which are on the books and which you can point to your friends. And so when this law was passed, the Labor Minister, you know, very proudly said, you know, we have a maternity leave law, you know, as good as that in Sweden. And yet, when you think about that, that's a bizarre, that's a bizarre thing to be proud of. You know, India does not need and probably should not have the same laws as Sweden does. I mean, that is, if India adopted all the laws of Sweden, it would be a complete disaster. So this is kind of a bizarre thing to be proud of. And as Shruti points out, it doesn't apply to most women. And most women have problems, which are far, far greater than maternity leave. I mean, you know, let's talk about, you know, violence against women, or let's talk about, you know, getting basic health care. How about how far you have to walk to get water? That's an issue which affects women. How far do you have to walk to get water? Not maternity leave. I mean, the idea that this is something which one should broadcast to the world, when a millions of people are walking huge distances in unbearable heat to get water for their families. There's such a huge disconnect between the law that you pass and are proud of and tell your friends in the liberal community, in the international community, and the reality on the ground is just bizarre. So this probably came"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:17:28.780",
+        "message": "about, I mean, if I were to hazard a guess, because elite policymakers saw their friends who are probably women like me, right, at my age, they're working at law firms, they're working at the top blue chip firms in India. And they got, you know, very little maternity leave, and they didn't have much negotiating power. And they said, we must fix this with a law. That's probably what happened. But the reality is, in India, one of two things happen. If the families have a certain income level, the moment a woman is pregnant, there is no question that she would work at all, right? It's just out of question. And if a woman is of a certain income level where she can't afford this luxury of taking time off, when she's pregnant, she's pretty much working till the day the baby is born. And you can just see this if you look at all the domestic help, right? Most domestic help in India works until maybe the last week or so before the baby is delivered. Right? And domestic work is not easy work. I hope that the people employing them go easy on them in the last few months. And I'm sure there's some social system that looks after, you know, pregnant women in its own bizarre way. But it simply doesn't apply to those women, right? So we're not helping anyone, except a few 1000 women who already have a lot of privilege, and a fair amount of leverage in terms of being able to negotiate greater amounts of leave and things like that. And that's not a bad aim in itself. I'm not saying we should help no women, it's just that it does clog up state capacity, right? Those are the women who will file suit in a court, and it were this rule not to be followed or not to be enforced. Right? This took up time in terms of drafting the policy, framing the policy, passing it in Parliament, having debate and discussion on how to enforce it, creating like an enforcement mechanism. All of this took up state capacity. And the argument is not that it's it's not a good thing to have, it's that we have far greater problems, right to solve for most of our women. And I think those are the things like every government needs to prioritize. And this screws up the priority"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:42.220",
+        "message": "scheme. And again, I'd like to sort of emphasize, you know, people often give this common response that, you know, we should do everything. It's not either or we should do them all. And the point is wake up, that's not possible. Our state capacity is incredibly limited. Everything you do is at the cost of something else. And therefore, like you said, Shruti, we have to prioritize on whether we want to do things which the elites feel good about, or whether we want to actually go down and examine the real problems of the country and do something about that. Yeah, you have to prioritize."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:20:11.900",
+        "message": "And not only that, but I think you have to learn state capacity is not something which you simply have or don't have. It's something which builds, which develops over time. So when people see that the state is successful, then the state could be more successful in the future. So when you have that the state is failing or flailing on all grounds, then people don't pay attention to it. And it becomes very difficult for the state to be successful, even at the few things it should be doing. So state capacity is something which needs to build over time. And the way you do that is you start with the most important things and you actually do those things and enforce those things and do those things seriously, as India can. I mean, India has done this with its voting system, its democratic system. Where India decides this is important, this is a priority, it can and it does. We're talking about the Delhi Metro, which by the way, is great. I mean, the Delhi Metro actually, it does work. I like it. It's a good thing that it can be done. But there are limited resources, there are always trade-offs, you can't do everything. So you need to prioritize and then people begin to respect the state and then the state can grow and do these other things."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:21:24.300",
+        "message": "SHIKRITI TRIPATHI Yeah. And this is where one reason we talk so much about the characteristics of elites is that their priorities are determined by where they are looking to, which tends to be the West, right? And this is where representation matters, not because you and I as Savarnas can speak about caste, it's the only thing we are saying about caste is we need more representation of all castes while we are making this kind of policy. We need more representation of people who speak languages that are different from English, while we are making these policies. Same for women. I don't think anyone asked any survey of the median women in India, if maternity leave is a big problem. And they would have said maternity leave what? Right? So that's what we mean by the elites look outwards, not because they're bad people, because that's the world they inhibit. And that world that they inhibit is fantasy, as far as most of India is concerned. Most of India just lives in a completely different space. And we have had made no effort to get greater representation of what it means to live in that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:27.980",
+        "message": "space. Right? So we have only about 40 minutes left. So I suspect I am the only podcaster who will say only about 40 minutes left. But we have only about 40 minutes left. So what I will sort of try to do here is, let's go over your three other case studies in about five to seven minutes each. So we can then discuss the larger sort of questions at hand and kind of wrap it up. Now, housing regulation is something you speak about in your paper. We've all had multiple episodes on this. It was from you, Alex, that when we did an episode on FSI together that I learned that great phrase that where you said that Bombay should stop reclaiming the sea, we should reclaim the sky and build upwards, which was very eloquent. And, and from Shruti, I got sort of that amazing TIL moment in the episode on 12 dream reforms, where you pointed out that one of the most powerful forms of mass transport is the elevator."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:23:18.940",
+        "message": "I got that from Tim Harford. I can't take credit for that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:23:21.900",
+        "message": "Yeah. So Tim Harford, Bastia Prize winners for the win. And we shall. So tell me a little bit about how so many of our housing regulations, you know, designed in an earlier colonial era,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:23:32.860",
+        "message": "where people are elites are sprawling bungalows around that. Yeah. So the regulations date to the colonial era, where the British wanted to recreate New England, that is the old England, you know, and have these bungalows. And in the bungalow, you have a nice garden and you have, you know, a big distance between the driveway and the street and the front door and so forth, and space for your car, right? This became later, it's car, important to have space for car. But when you think about what India really needs, most Indians don't have cars, they have motorcycles or they have bikes or something like that. So every use of space, which you put to cars, which you put to lawns, which you put to having a big distance between the front door of the house and the street, all that means is you're raising the cost of housing. That land is expensive. If you use land for a lawn, that is land which is not being used to actually house people. So all of these regulations, which were designed to create a English bungalow style living, don't apply to the way that Indians actually live. And this means raises the cost of providing housing for real Indians and means that, ironically, the only truly free market in housing in India is the slums. And the slums in that sense actually work quite well. The slums are not ideal, but they are an amazing response to terrible regulation. So the government, you know, could go and provide housing, so-called affordable housing, but where do they put it? They put it where land is cheap outside the city and where it's very difficult to get to work. And so people respond and say, no, I'd actually prefer to live in the slums, which are closer to where work is. So the slums are actually responsive to people's real needs. The problem is that they're not provided with government services like water and electricity and sewage. So this is another case where we have premature imitation. We have regulations in order to create British style bungalow living. And at the same time, the state fails on its primary duties. You know, as I said, sewage, electricity and water. So this is the big disconnect."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:52.060",
+        "message": "No, and it also strikes me that, you know, slums are an excellent example of society's solution to a problem created by the state, you know, and they are demonized. And for example, you know, the informal sector is demonized. The informal sector is also society's solution to a problem created by the state and they're unfairly demonized. I had an episode on slums a long time back with Pawan Srinath where he pointed out that slums are so essential to cities because they allow a cheap entry point for migration into cities, which people often forget."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:26:22.060",
+        "message": "Yeah. And you know, the second aspect of the kind of housing regulation we have and Alain Berto's Order Without Design, it's a great, great book. Doesn't just talk about this happening in India, but all over the world, everywhere regulators from New York City, you know, further down. The regulators tend to be elite and they think about how people should live and not how people actually live. So they think in terms of, you know, any civilized person should have so many square meters of living space, which means the smallest size one bedroom you can make is X number of square meters, right? The smallest two bedroom you make for a family is X number of square meters. Most Indian families don't give a separate, you know, set of bedrooms to their kids, right? Most Indian families at particular income groups, there's one room and everything happens in that one room and in the evening when all sort of your living room activities are done, you pull out the gada, you spread it and now it's the bedroom for the night, right? This is how a lot of us grew up. This is how most of Bombay functions, right? Even at higher levels of income. So a regulator coming in and telling people how they should live and how they should use their space is really bizarre as opposed to asking, how do people actually use their space, right? How do you use that extra space outside, which is the gap between the building and the road? And in Bombay, they've lent it out to panvalas, they've lent it out to people who do the ironing right inside the society gate. This is because that space is valuable. It needs to be used. We put it there as empty space only because of bad regulation, right? So these are things to consider in terms of regulators, thinking about how people actually live as opposed to how we want them to live. Now, nobody wants to live in a slum, but if you go to a slum, it will tell us a lot about what people prioritize. They prioritize distance from work, even over having sewage, right? They prioritize that their kids can go to a good school nearby and that the mother can drop the kids off at school, go do her work, pick up the kids from school and come back home. Same problems mothers have in Arlington and Fairfax, where Alex and I live, right? Same kind of issues that mothers have in slums. That's why distance really matters. So they're willing to give up piped water delivery in exchange for that. And the only reason those poor people are forced to make that trade-off is because we haven't provided for regulation, which will allow for really tiny, small living spaces, which are, you know, regulated, right, formal sector spaces, because we think that's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:56.060",
+        "message": "too small for a human to inhabit. You know, my listeners often ask me for book recommendations. And, you know, what you just said reminds me of two masterpieces I'll recommend. One is a book called The Power Broker by Robert Caro about Robert Moses, a man who built New York, which is a magnificent biography, not just of a man, but of the corrosive influence of power on individuals and also of a city. And Moses did everything exactly wrong, you know, top down planning, coercive state power, and so on. And the other book is a lady who opposed him, Jane Jacobs, who wrote this incredible book called The Death and Life of Great American Cities, which argues for and makes a case for allowing cities to organically evolve. And, you know, within their own local constraints and expressing its own local character, which are both"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:29:40.620",
+        "message": "masterpieces. Speaking of Jane Jacobs, I think Alain Bertaud's book is perfect to complete that trilogy. He's an actual masterpiece as well. All linked from the show notes. One of the things he talks about in the book specifically about Mumbai is about how we haven't created circumstances where you can easily change land use from one kind of use to another kind of use, which is critical to a city, right? So we have had mill land in the center of the city, right? Thousands of acres of mill land completely tied up. And now what do you have in those mill lands? You have, you know, posh cafes with paper straws is what you have on mill land these days, because we simply did not convert the land use from industrial to commercial and then commercial to residential or some form of that, which means now the center of Mumbai is no longer valuable, right? All the business hubs are either in the south end of Mumbai, or a little bit further north near, you know, BKC. Because, and this is a direct consequence of not allowing, right, Verley and those neighboring areas, which had lots of mills, to properly change land use when the mill shut down. So this is a really big problem when the government says we must have industrial use in the middle of Bombay, which is the most valuable real estate, perhaps anywhere in the world. So we have bad regulation, right? And we have bad regulation, because they once again read books by people like Robert Moses, on, you know, stratifying cities, the way Moses think they're supposed to look, as opposed to how cities actually operate. And of course,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:09.020",
+        "message": "there's an engineering mindset at play as well, where you want to design everything, not realizing some things are too complex to be designed. The next example is..."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:31:16.460",
+        "message": "One last thing, speaking of elite imitation, the person one we must really read on Indian housing regulation is Bimal Patel. Yeah, right. Yeah. So in typical elite imitation format, we've talked about Jane Jacobs, and we've talked about Elian Bhatto. But the person who actually dissects Indian housing policy, what are the rules, the way they actually are written in India, and the way they actually work, and the unintended consequences of that, that is Bimal Patel. And, you know, all his fantastic work. We cite a bunch of it in the paper."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:31:42.780",
+        "message": "This is making win-win solutions actually work in Amitabh. So he is an extremely important person in the Indian context, who is finding ways, bringing the farmers in, bringing the industrialists, the developers in, and making sure that everybody gets a piece of the pie. And that is actually the way for India to develop. Because another, you know, very closely related problem is the ridiculous difficulty it is for farmers to sell their land to non-farm use. You know, we perhaps do this in order to, quote, protect the farmers, right? Another example of the elites thinking that they must protect the farmers. But in fact, the land is some of the farmers' most valuable assets. And if you can't turn it into a developable land, you are destroying the value of that asset."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:33.420",
+        "message": "This is what Hanan wrote this auto called debt capital, though again, I'm showing elite imitation by even citing this auto. But yeah, conceptually, that's extremely useful. Let's kind of move on to open defecation, which is a third case study, which of course we have, you know, Shruti and I have done a long episode on Swachh Bharat, and I'd encourage you to listen to that. Do you want to quickly sum up in just a couple of lines"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:32:53.500",
+        "message": "what? Yeah, we need to focus on waste management solutions and not on toilets, right? Toilet is just one step. It's the last mile step in how we think about waste management in India. Now, because of the way we are culturally and in particular, because of caste relations and ritual purity, most Indian caste groups, the Savarnas, and even a large number of the Dalit groups refuse to have anything to do with human excreta and feces, right? So if you create a system where people have to use toilets and then manually empty them or empty them using a vacuum or in any way have to deal with it, it is going to have a very big consequence on caste. Most upper caste people simply won't adopt it. And the more number of people that adopted there's a huge aspect of oppression because it re-enables or revitalizes this awful practice of manual scavenging and things like that that we outlawed a long time ago. So we have created a Swachh Bharat Abhiyan which translates to cleaner India, right? We want a cleaner India, but we're only talking about cleaner India in terms of toilet, right? So what we did was the entire focus was on building toilets and delivering toilets to every household without understanding how they actually go about their business, right? So do they want to use..."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:34:16.700",
+        "message": "The elites sort of naturally think that the problem of open defecation is that there aren't enough toilets because who would possibly want to defecate in the open if they had a toilet? But in fact, that's not the case."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:34:29.100",
+        "message": "Because elites, for elites, toilets come in a great package deal included with excellent sewage solution and piped water, right? So when I think of a toilet, I'm thinking of a package deal. The kind of toilet that Swachh Bharat Abhiyan is giving out is just the toilet."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:46.780",
+        "message": "It doesn't come with piped water. It doesn't come with sewage. That's why I think of it as an excellent illustration of, you know, how some governments focus more on optics than actual governance. So the toilet is great optics. It's what you see, but you need a drainage system below that. And what you pointed out in your paper and in the episode that we did, is that if you don't have the drainage system, then people either have to clean it themselves, which they consider a quote unquote, Dalit activity, and they don't want to do it. Or they have to actually get a Dalit into the house to do it. And therefore, even beyond this issue of caste and ritual cleansing, there are all kinds of cultural issues for why people prefer open defecation. And and therefore it, you know, this is a classic example of what sounds like a great policy to the elites, but hey, think a little deeper, literally."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:35:34.620",
+        "message": "Yeah, no, I will say that, even though the policy might not have been, you know, exactly perfect for the problem was a very good thing that Modi pointed attention to this problem. Yeah, because it's a serious problem. It's one which in another country might have been hidden away, right? Nobody wants to talk about it. Nobody wants to talk about it, but he talked about it. So I got to give him credit for talking about defecation. I mean, this is something which is not comfortable to bring up, but he made it a priority. And I think overall, it's probably done some good because we have to also remember that open defecation kills people because it creates a huge amount of bacteria in the environment. It kills children. It stunts children. It creates, you know, the possibilities for cholera and things of that nature. So I do think that even though the solution was not exactly pointing to the right issues, just talking about it was a very big deal. Just to sort of drive that home. I had the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:30.780",
+        "message": "Congress politician, the very fine economist Salman Sohz on my show. And at the end, I threw him what I thought was a googly that why don't you say something good about Mr. Modi. And he said precisely this. He said that a man in a position of that much influence can really change the minds of a lot of people on issues. So just by talking about Swachh Bharat, even if you don't actually make that kind of difference on the ground because of implementation issues, or your policy is badly"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:36:55.500",
+        "message": "designed, can make a difference to the culture. And of course, I want to point out one thing, which is related to the elite imitation. They tied up the outcome of Swachh Bharat to delivering toilets, right. So on October 2, on the 150th birth anniversary of Gandhi, Modi had set a target that, you know, by 2019, India will be open defecation free, and they declared India open defecation free, when in fact, India is nowhere close to open defecation free. It's definitely improved, as Alex pointed out. But the reason that the government has declared it so, it's because they met the target of how many toilets needed to be given to how many households. And they said, Oh, we've solved the problem, right? Mission accomplished. Mission accomplished. Exactly. So now, it's a bizarre thing, where we have conflated input with outcomes, right. And this is another virtue of, you know, in other places, had we given people toilets, they would have used them, right, either because the sewage and the water exists, or because none of this caste and ritual purity nonsense, you know, none of that exists, right. But here we have those problems. So if you conflate the input with the outcome, then you are going to get a lot of shit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:38:14.300",
+        "message": "In fact, conflating input with outcome is exactly what you know, ails our education system. And your fourth case was, you know, about the Right to Education Act, which was a massive disaster. I've had episodes on that. And you've written about it very well in your paper, which I will encourage all my listeners to go and read because we are moving on from that. And I'd rather like to sort of come to your conclusion, which is that limited state capacity calls for presumptive laissez faire. And I'll quote from your paper. Imagine, for example, that US government spending had to be cut by a factor of 10. Would it make sense to cut all programs by 90%? Unlikely. Some programs and policies are of great value, but others should be undertaken only when state capacity and GDP per capita are higher. And then he gives Edward laser quote, which you gave earlier. And then you guys say, a US government funded at one 10th, the current level would optimally do many fewer things. So why doesn't the Indian government do many fewer things? Stop good. You know, a lot of people will instinctively react to this saying that, hey, we need the government because the market doesn't do all of these things properly. But the issue there is that usually a the government is creating problems, which then society comes and find this own solutions to the market like slums, like informal markets, and be people are very keen to spot market failure, not realizing that government failure is actually ubiquitous and in India inevitable because of the problems you pointed out, right?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:39:35.500",
+        "message": "So our argument towards a presumptive laissez faire is very much in the Indian context, right? Because we regulate everything to death. So this is not saying that the government should not provide clean water, clean air should not have traffic signals or not solve air pollution,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:51.020",
+        "message": "those are the things that matter. Exactly. So you know, air pollution is a classic market"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:39:55.660",
+        "message": "externality, it is difficult to bring about collective action. So we need some good regulation to address that problem, right? So we're not saying that the government should not do any of that. In fact, we're saying the exact reverse. We're saying that for the government to be able to do that successfully, it should stop doing a lot of other things that it does, because of one of two reasons, either because that regulation is stupid and useless, which is most of our paternalist, you know, sort of redistributive regulation, which is anyway not followed. Or two, even if it's a good idea to have that regulation, it is too soon. And we cannot execute it well, we simply can't do it. So why not wait until India gets richer and has better state capacity, and then do those activities. So our focus on the night watchman state right with the presumptive laissez faire is not for an ideological reason, though that might also be true. But it's for a different reason, which is that we can't do more than the night watchman state with the current levels of Indian capacity. So we should really stop doing everything else and prioritize and at least get that done. So in a sense, we are libertarian by circumstance, not by belief. We should be by necessity. Yes, this is Kaushik Basu, right? India is full of libertarians by necessity, not libertarians by choice. I think there's a different problem with"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:41:09.660",
+        "message": "that. But we'll talk about that at another time. Exactly. And it's presumptive laissez faire, it's not necessarily laissez faire. You have to think about what we have now, which is presumptive statism. You know, the presumption among Indian policy elites is that they should have everything which the United States have. And there's two problems with that. One is the United States should have more laissez faire. That's problem number one. We're far too regulated in the U.S., including many of the same problems and housing regulation and so forth. So that's problem number one. Problem number two is even if the U.S. had perfect regulation for a country of its GDP per capita, that does not translate into India, which has much lower GDP per capita. And it's not about, you know, the U.S. is great and India is not or something like that, because if the U.S. had lower GDP per capita, it should regulate less, too. And in fact, when the U.S. had lower GDP per capita, it did regulate a lot less. You could even argue that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:08.220",
+        "message": "some of that, you know, regulating less led to their higher GDP per capita. Absolutely. Absolutely."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:42:13.820",
+        "message": "There may be a development path. And I think part of the problem is, is that people look around and they think, oh, we can skip the laissez faire period. We don't have to do what every other country did to become rich. So the countries which became rich all had kind of this laissez faire period, you know, Great Britain and the United States and Canada and so forth. And if you look around and you say, oh, well, we could just skip that and go straight to having, you know, middle of the road, mixed economy regulation, that I think is a mistake. There's a learning period. And laissez faire is part of the learning. You know, you need to get your police officers to be able to enforce a 50 rupee fine before they're able to enforce a 500 rupee fine. So first start small. That may be much better. And if you try and do the 500 rupee fine right away, then it's going to be subject to bribery. It's not going to work. Then the police officer is going to say, do you want the 500 rupee fine or do you want to pay me 100 now? And I'll forget about it. So that's the type of thing which when you entice the police officer with a possibility of having the income much higher than their wages, then you're naturally going to create a system of corruption. If instead you keep the fines low and just for, you know, the worst offenses, then the police officer is not tempted into corruption. So you need the whole laissez faire process is a learning process in which you develop state capacity."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:43:48.220",
+        "message": "And the 500 rupee fine is also symptomatic of weak state capacity. What we've done is, as we know, right, there is a for any kind of punishment or any activity that one that the state wants one to avoid. There's the question of the probability of getting caught and the penalty of that particular action. Right now in India, we keep increasing the penalties because the probability of getting caught and prosecuted is very low. Right. And why is the probability of getting caught and prosecuted very low? Because we have very low state capacity. So we keep increasing the number of years of punishment, pretty much every activity from pulling the chain in a train, the emergency chain. Right. Everything has six months or more of imprisonment as a penalty. Everything has really high fines. So we are actually incentivizing all our state actors at the lower levels of governance to turn criminal because we haven't appropriately thought about how we optimize limited state capacity. And then when we substitute limited or weak state capacity with these other big fines, we have this huge problem, which is skipping the development step when it comes to state enforcement of basic things."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:44:59.580",
+        "message": "And when you have a 50 rupee fine or a 10 rupee fine, that can be enforced pretty equally. When you have a 500 rupee fine, that is never going to be enforced equally at this stage."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:09.740",
+        "message": "Forget a 500 rupee fine where I live in Mumbai in the seven bungalows area, there is now a new local fine that has come up, which is 20,000 rupees for cars which are parked wrongly. The result, of course, is that no one I guarantee you will ever pay that fine. Yeah, but you know, but the rent seeking is great. 20,000 rupees is a down payment for some of these cars. What are they talking about? Ludicrous. It's some mad figure like that. I forget the exact number. It happened to a friend and I was like, and she was like, oh, I paid a thousand buck bribe. Earlier, it would have been a 200 buck bribe for her, you know."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:45:41.260",
+        "message": "Yeah, so the only thing we're doing is we are making the system more corrupt"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:45.420",
+        "message": "and more geared towards rent seeking. And you're also incentivizing cops, look at these lucrative rent seeking opportunity instead of doing the kind of policing you would actually like them to do. So I have a couple of questions here. One is that I'm trying to imagine myself in a policymaker's position where I have limited resources and even my own intellectual bandwidth is limited. Now, given the complexity of the actual world, isn't this kind of elite imitation rational, as designing something new from scratch will always, A, it will require me to absorb a lot of local knowledge, two, it will bring its own set of unintended consequences. And I can simply cover my ass by using a policy that allows me to posture successfully that I'm doing something about the problem."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:46:29.260",
+        "message": "Yes, I mean, it is rational in the sense that we respond to incentives. And as an academic or as an elite policymaker with the IAS, my best incentives might be to think about single use plastic ban because that'll get me invited to a nice conference, you know, speaking to other environmentalists who share my ideas and you know, things like that. So in that sense, it's rational that, you know, the means and ends are pretty, pretty tight, and it makes sense for them to do it. It is irrational, in that they are expecting completely different results, which have nothing to do with the logic of their actions, right? So expecting India to be open defecation free, because we distributed a bunch of toilets, that is completely irrational, because, you know, you can do it for your own personal reasons, but then don't expect the policy outcome. So that's what I would say about the..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:20.140",
+        "message": "But often there's a mismatch between the rewards that policymakers get in the actual policy outcomes, right? Because a policy outcome may happen years down the line, they've moved on to some other department, you know, yesterday's education secretary will be tomorrow's transport secretary. So, you know, why not just do the safe thing, not do anything drastic, take the least effort possible, and you can posture and get invited to conferences."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:47:42.220",
+        "message": "Yes, and no. You know, when I meet IAS officers, they also tend to deeply care. Now, we have to remember, these are career civil servants, right? They've gone from department to department looking at different kinds of problems. They've served at the district magistrate level, they've seen some of the ground reality, even though a very, very long time ago, it might not be the relevant reality of today. But they really seem to care that policies that they work on do have the intended result. And I also see a lot of frustration among elites Indian policymakers, when the policies that they do care about don't have the intended outcome, right? So, I would ascribe the best of public spirited intentions to them, and say that we still have this problem of elite imitation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:48:25.820",
+        "message": "No, and actually, our government services filled with talented, really smart, well meaning people, I have to tell you this, I was we are recording this on Feb 10, I was at the Witherba Lit Fest yesterday in Nagpur, and there's an income tax training academy there. And a couple of students from that academy came and they asked me some great questions, quoting from my episodes. And then finally, they said they were big fans, and they made me sign on a piece of paper, the words taxation is theft."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:48:51.340",
+        "message": "Please don't name them and get them fired."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:48:53.340",
+        "message": "Absolutely not. Indoctrinate the deep state. Now, my final question actually moves away."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:48:58.380",
+        "message": "Let me just answer a brief point on that issue. And that is this, you know, in many places in the world, in the US and places in particular, we have a not invented here mindset, which means that if it wasn't invented here, it must be no good. But actually, India often has my experiences, if it was not invented here, if it was invented here, it's no good. And often, I think India tries to import too much, a little bit of a invented here is good would be I think, a pro mindset."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:49:31.980",
+        "message": "No, and there's a little bit of like, for example, the free rider effect there in the sense that why do all the hard work and research, why not free ride on the sort of findings of others?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:49:41.340",
+        "message": "Oh, yeah, free riding reminds me of something fantastic I read in Ajay Shah's book, and Vijay Kelkar's book, and we had a chat about it. And one of the points that they discuss is to relieve certain areas of Indian state capacity to do other things better, India should just free ride on the regulatory capacity of other countries. So if something is FDA approved, India should just"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:03.500",
+        "message": "adopt it. No other questions asked. Because they overregulate madly. So if they've approved it,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:50:07.980",
+        "message": "it's fine. Exactly. So they overregulate, you know, maybe it's not optimal, or, you know, efficient in the market sense. But it's efficient for India to adopt it because it frees up an enormous amount of food safety regulation in you know, in terms of how much of the budget goes towards it, in terms of how many officers are employed towards it. So according to me, and even I wrote about this, I think state capacity freed is state capacity built. Right. So in that sense, any area where we can free ride on state capacity of first world, Alex has made a similar argument on visas, where he says that, you know, if 182 countries can go to Germany without a visa, it should be good enough for India, right? What's the problem? So you just let them come to India, same as before. Now you can have additional visa requirements if someone needs a work permit or longer stays and things like that, or, you know, to move towards permanent residency, and so on, so forth. But just to visit India, the kind of requirements you have, you must fulfill to get the visa is quite annoying. And the typical first world rich elite traveler couldn't be bothered with filling forms in triplicate and providing the birthplace of mother and father, you know, bank statements and all of those things. If they have an American or Canadian or German or you know, any one of those 180 passports should be good for us. And that will really boost tourism. So in the in this sense, we could actually free up a lot of Indian state capacity by free riding."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:37.500",
+        "message": "Right, and you have five minutes left, because you have to take a metro to Noida before you catch a flight later in the evening. So not so elite after all, but however, catching a flight later in the evening to back to the US. So very, very, very elite. I mean, two hours is like way too short for a podcast, I almost feel like what it's only good for soundbites. But there was one thing I would have asked you to elaborate on a little longer. And I will quickly ask your comments on that, which is since you're an expert on it, on that subject called the Constitution, that, you know, what's the Constitution and example of elite imitation?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:52:09.500",
+        "message": "Ah, yes and no. To some extent it is, because until then, all the constitutions were not written for a context like India, right? So India is not a country subcontinent had enormous amount of ethnic, caste and linguistic fractionalization. But we try to bring it under one umbrella. And we try to, as far as possible, create systems, right, like a parliamentary system, separation of powers, you know, judicial review, these are just systems that were in some sense alien to India, right? So we created, you know, the idea of checks and balances of three different branches of government, Westminster procedure, when it comes to parliamentary procedure, all of this in some sense is colonial heritage or elite imitation, right? But the constitutional framers were not just elites, right? They represented pretty much every aspect of Indian life, though not in the proportions that I think were ideal, right? They weren't a perfect representation in terms of the census. But they had all kinds of representation in terms of different ideologies, like you had people from Hindu Mahasabha, you also had people who were, you know, atheist communists, right? So Indian, if you look at the oath to take office in India, an atheist can also take the oath of office to any government position, because you don't have to take the oath to whatever God you believe in, right? That's a really odd thing about Indian"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:36.300",
+        "message": "constitutional framing. This is music to my ears as an atheist. But also, I don't believe in the false religion of government. So I don't think I would be taking that oath. But fair enough."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:53:45.340",
+        "message": "But some elite imitation can be good. And I admire most about, you know, the Indian founders and Nehru and Bekar and Gandhi is they did imitate, you know, free speech issues, the secularism, openness to all religions, and so forth. It's very, very, very impressive. And that is something"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:54:06.780",
+        "message": "which I think they got right. I mean, you could even argue that in some cases, elite imitation is required, because the argument would be that we were and are in many ways a very illiberal society, then and the Constitution by imposing that kind of liberalism, paradoxically, might also play a part in, ironically, in allowing that illiberalism to gain political dominance,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:54:27.740",
+        "message": "but that's a different matter. I have something to add here, there was elite imitation, but the elites of the time did not sound and look like the elites of today. Right? All the people were talking about Gandhi, Nehru, Ambedkar, they spoke multiple languages. They read and wrote in their regional language. In fact, the Constituent Assembly debates are mind blowing. In the sort of diversity. So Ambedkar might have made fantastic speeches in English, but he also spoke Gujarati and he could also convey everything he wanted to convey in Gujarati pretty much at the same if not a higher standard of eloquence, right? Same with Gandhi, right? Nehru was excellent in Hindi. So this is not today's Indian elite, right? So today's Indian elite is not speaking and communicating in three different languages. They did not grow up, they don't go back to their ancestral village, you know, so on and so forth. So I do want to say that even though there was elite imitation, the Indian constitutional framers were deeply rooted in Indian culture, right? They had been through the beats of the Indian system. Now, yes, Gandhi didn't live in a village. And you know, he grew up in cities, Ambedkar had more village experience. So you might have diversity like that. You also had princes and kings, right, who had spent their summers, you know, hanging out in London, and who had been to Eton and, you know, well versed with the British liberal tradition and the Magna Carta. So you have all sorts of people. But you also have people from backward castes, right? You also have tribal representation, though as not in as many, like not the numbers that one would like. So the Indian constitutional framers might have been the elites of their time. But the elites of our time are not a patch on them, right? So just in terms of lived experience, language, and how rooted they were in Indian culture, so they only borrowed the very best, and they knew how to distinguish that. But at the same time, I mean, everyone does what they can do. The only thing I would say to the Indian elites of today, and I would include myself in this category, is we need to pay more attention to who the median Indian is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:56:35.420",
+        "message": "And we need in general, more intellectual humility, I think. Alex, let me end by asking you the last question, which is that you're someone who has spent a fair amount of time in India. Now, you know, you spent a few months in Mumbai, when we last recorded the episodes we did. Now, you've been here for a while teaching a course on public choice theory. What is it about the Indian policy environment or the Indian economic environment that sort of excites you? Which is, you know, what is exciting about it? What is scary about it? Looking from the outside and also from the inside, in a sense that what has been happening over the last few years? What gives you hope and"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:57:09.660",
+        "message": "what gives you despair? So I think what's interesting and exciting about India is that many decisions are being made today, which are going to influence future generations. India has, you know, multiple paths, and which path is taken today? Think about urbanization. When you lay down the bones of a city, those byways, they will remain there for the next hundreds of years. You know, like London today, you can still see London from hundreds of years ago. So these decisions, you only urbanize once, okay? A country only urbanizes once. And we're seeing that in India today. We're seeing lots and lots of policy decisions, which can have a tremendous influence on millions and millions of people's lives. So I think India is an amazing place to think about policy, because there's so many possibilities which are open to it. The United States, in contrast, is fixed. It's like the Titanic, or like an oil tanker. Maybe it's the Titanic, we don't know yet. But whether it's an oil tanker or the Titanic, it's hard to move, it's hard to change. Well, so many more possibilities seem open to India. India can be so much different, so much more. And that this is happening now, I think makes India very exciting"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:25.020",
+        "message": "to a person interested in policy. You just lifted my mood up with that note of hope. Guys, thanks so much for coming on the show. Great to be here. Thank you. Thank you for listening."
+    }
+]

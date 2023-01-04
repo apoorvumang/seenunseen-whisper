@@ -1,0 +1,3893 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.400
+[Amit Varma]: We live in a time of great human tragedy. You might well ask why discuss economics then?
+
+00:00:12.400 --> 00:00:19.240
+[Amit Varma]: I will give you three reasons. One, every human tragedy reflects itself in data somewhere.
+
+00:00:19.240 --> 00:00:23.600
+[Amit Varma]: Numbers might seem inert and lifeless, but if one knows how to parse numbers and add
+
+00:00:23.600 --> 00:00:29.920
+[Amit Varma]: context to them, those numbers can throb with life. We can discern stories that might otherwise
+
+00:00:29.920 --> 00:00:37.420
+[Amit Varma]: be unseen by us. Two, economics has consequences. It affects the lives of common people. Bad
+
+00:00:37.420 --> 00:00:44.320
+[Amit Varma]: economic policy like much of what Indira Gandhi did in the 1970s or Narendra Modi's demonetization
+
+00:00:44.320 --> 00:00:51.320
+[Amit Varma]: causes real human suffering. Understanding economics helps us understand the causes of
+
+00:00:51.320 --> 00:00:58.360
+[Amit Varma]: suffering and might help us prevent or lessen it in whatever capacity we can. And three,
+
+00:00:58.360 --> 00:01:03.600
+[Amit Varma]: economics is the study of human behavior. To understand the incentives that drive us,
+
+00:01:03.600 --> 00:01:09.040
+[Amit Varma]: the trade-offs we face and the choices we make, we must understand economics. For this
+
+00:01:09.040 --> 00:01:19.800
+[Amit Varma]: reason, perhaps in this time of great suffering, understanding economics is important.
+
+00:01:19.800 --> 00:01:25.000
+[Unknown]: Welcome to The Seen and The Unseen, our weekly podcast on economics, politics, and behavioral
+
+00:01:25.000 --> 00:01:31.480
+[Unknown]: science. Please welcome your host, Amit Bhadwa.
+
+00:01:31.480 --> 00:01:36.400
+[Amit Varma]: Welcome to The Seen and The Unseen. Today's episode is about the Indian economy in the
+
+00:01:36.400 --> 00:01:42.560
+[Amit Varma]: time of COVID-19. My guest is Vivek Kaul with whom I had done an episode in December, summing
+
+00:01:42.560 --> 00:01:47.400
+[Amit Varma]: up the year gone by. We thought things were looking bad, but boy, what I would give to
+
+00:01:47.400 --> 00:01:53.200
+[Amit Varma]: be in December again. COVID-19 has ravaged economies throughout the world and has caused
+
+00:01:53.200 --> 00:01:58.800
+[Amit Varma]: pain and misery on an unimaginable scale. This pain is not just across space all over
+
+00:01:58.800 --> 00:02:05.800
+[Amit Varma]: the world, but also across time, for the repercussions of this crisis will be felt by us way into
+
+00:02:05.800 --> 00:02:11.480
+[Amit Varma]: the future, perhaps even by future generations. In all this gloom, I also want to mention
+
+00:02:11.480 --> 00:02:17.320
+[Amit Varma]: a couple of things that you can look forward to. One, Vivek's new book, Bad Money, is out
+
+00:02:17.320 --> 00:02:25.600
+[Amit Varma]: now. It deals with the NPMS and takes a closer look at India's banking system. And two, Vivek
+
+00:02:25.600 --> 00:02:31.160
+[Amit Varma]: and I are starting a new weekly podcast called Econ Central, in which we will chat about
+
+00:02:31.160 --> 00:02:37.040
+[Amit Varma]: the events of the week, demystifying economics, and looking at other news through the lens
+
+00:02:37.040 --> 00:02:42.600
+[Amit Varma]: of economic thinking. That launches later this week, and Vivek and I will tell you about
+
+00:02:42.600 --> 00:02:52.160
+[Amit Varma]: it as this conversation begins. But first, a quick commercial break.
+
+00:02:52.160 --> 00:02:57.360
+[Amit Varma]: In the last few months, I have spent hundreds, if not thousands of hours watching TikTok.
+
+00:02:57.360 --> 00:03:03.080
+[Amit Varma]: You might consider it an addiction. And indeed, TikTok always gets my dopamine going. I don't
+
+00:03:03.080 --> 00:03:09.080
+[Amit Varma]: call this addiction though. I call it sociological research, or even taking one for the team.
+
+00:03:09.080 --> 00:03:14.960
+[Amit Varma]: I have designed a new course called TikTok and Indian Society, and I invite you to be
+
+00:03:14.960 --> 00:03:21.080
+[Amit Varma]: part of it. I believe that TikTok reflects real India better than any other outlet for
+
+00:03:21.080 --> 00:03:26.360
+[Amit Varma]: news and entertainment. Our mainstream sources of news and entertainment are controlled by
+
+00:03:26.360 --> 00:03:33.160
+[Amit Varma]: elites who just don't get small town India, or village India, or poor India, or even young
+
+00:03:33.160 --> 00:03:38.460
+[Amit Varma]: aspirational India. Because TikTok has blown away these barriers, and given the means of
+
+00:03:38.460 --> 00:03:44.820
+[Amit Varma]: production to everyone, it has empowered people who otherwise did not have a voice or a platform.
+
+00:03:44.820 --> 00:03:49.880
+[Amit Varma]: And I'm blown away by the talent I see every day on this app. And my eyes are also opened
+
+00:03:49.880 --> 00:03:55.960
+[Amit Varma]: to so many shades and nuances of India that I had not noticed before. We see the worst
+
+00:03:55.960 --> 00:04:01.760
+[Amit Varma]: of India in our prejudices and attitudes, but also the best in our creativity and our
+
+00:04:01.760 --> 00:04:07.360
+[Amit Varma]: descent. My course is unique, as it will be conducted, surprise, surprise, on WhatsApp,
+
+00:04:07.360 --> 00:04:13.420
+[Amit Varma]: and will involve both my thoughts on the many teams I discuss, as well as hundreds of amazing
+
+00:04:13.420 --> 00:04:20.400
+[Amit Varma]: videos that illustrate my points. I am charging rupees 5000 for this course, to head on over
+
+00:04:20.400 --> 00:04:28.440
+[Amit Varma]: to cnunseen.in slash TikTok to enroll for TikTok and Indian Society. My new course over
+
+00:04:28.440 --> 00:04:38.840
+[Amit Varma]: at cnunseen.in slash TikTok. Vivek, welcome to the scene and the unseen.
+
+00:04:38.840 --> 00:04:43.360
+[Guest]: Thanks, Amit for having me over. And, you know, what is this new course you are planning
+
+00:04:43.360 --> 00:04:48.120
+[Amit Varma]: on TikTok of all the things? Yeah, as you know, I've spent hundreds and thousands of
+
+00:04:48.120 --> 00:04:54.240
+[Amit Varma]: hours watching TikTok over the last few months, and I call it research, not timepass. And
+
+00:04:54.240 --> 00:04:58.040
+[Amit Varma]: one of the, you know, things I've realized while watching TikTok is that, you know, it's
+
+00:04:58.040 --> 00:05:04.480
+[Amit Varma]: really democratized the creation of entertainment in India, most of the other entertainment
+
+00:05:04.480 --> 00:05:09.280
+[Amit Varma]: that we see around us is controlled by elites, like, you know, Bollywood is controlled by
+
+00:05:09.280 --> 00:05:13.920
+[Amit Varma]: elites who are disconnected from a lot of reality, and so on. But TikTok really has
+
+00:05:13.920 --> 00:05:19.240
+[Amit Varma]: gone into small towns and villages all over the country. And, you know, made it easy for
+
+00:05:19.240 --> 00:05:23.960
+[Amit Varma]: people to make videos and made the means of production available to all. And what that
+
+00:05:23.960 --> 00:05:29.160
+[Amit Varma]: has done is that has shown us a side of India, which many of us English speaking elites never
+
+00:05:29.160 --> 00:05:33.800
+[Amit Varma]: see. And I found that fascinating. And I started taking notes on it. And I realized that both
+
+00:05:33.800 --> 00:05:39.840
+[Amit Varma]: the worst and the best of India can be reflected in the glimpses of culture that we see through
+
+00:05:39.840 --> 00:05:45.680
+[Amit Varma]: TikTok. And of course, all the worst of it is there like the misogyny and the normalization
+
+00:05:45.680 --> 00:05:51.120
+[Amit Varma]: of casual violence, and all of that. But you also see a lot of other things, the, you know,
+
+00:05:51.120 --> 00:05:56.560
+[Amit Varma]: more women expressing themselves and expressing their sexuality, much more political dissent
+
+00:05:56.560 --> 00:06:01.760
+[Amit Varma]: in very subtle ways. There's great satire, great irony. So I thought I should sort of
+
+00:06:01.760 --> 00:06:07.560
+[Amit Varma]: make a structured course where I talk about all the themes that I have noticed about it.
+
+00:06:07.560 --> 00:06:14.400
+[Guest]: So you know, what you're basically saying is, TikTok has done to content what social
+
+00:06:14.400 --> 00:06:19.840
+[Guest]: media in a way did to news, you know, the tyranny of the editor, as in as we used to
+
+00:06:19.840 --> 00:06:26.400
+[Guest]: say, only what the editor decided ultimately appeared in a newspaper or even on a website.
+
+00:06:26.400 --> 00:06:30.520
+[Guest]: But you know, with social media and with people, you know, having a mobile phone and a camera
+
+00:06:30.520 --> 00:06:35.680
+[Guest]: in their hands, the tyranny of the editor is dead. So you know, so basically, you know,
+
+00:06:35.680 --> 00:06:37.680
+[Amit Varma]: TikTok is another version of that.
+
+00:06:37.680 --> 00:06:42.880
+[Amit Varma]: TikTok is another version of that. But it's beautiful that because even when so you know,
+
+00:06:42.880 --> 00:06:46.800
+[Amit Varma]: the internet killed the tyranny of the editor, social media killed that it was still only
+
+00:06:46.800 --> 00:06:51.480
+[Amit Varma]: available to people with an internet connection and by and large people who could speak and
+
+00:06:51.480 --> 00:06:55.440
+[Amit Varma]: communicate in English. And I think TikTok is completely broken that I mean, I see so
+
+00:06:55.440 --> 00:07:01.600
+[Amit Varma]: many great videos from small villages and so on, and incredible sophistication, even
+
+00:07:01.600 --> 00:07:06.560
+[Amit Varma]: in the filmmaking. So within the bounds of what you can do the 15 second videos, a cheap
+
+00:07:06.560 --> 00:07:11.600
+[Amit Varma]: mobile phone cameras, they're producing incredible stuff, which reveals so much.
+
+00:07:11.600 --> 00:07:18.600
+[Guest]: Indeed, I mean, I'm also on TikTok, though not as much as you are. And sometimes it's
+
+00:07:18.600 --> 00:07:23.560
+[Guest]: actually a real pleasure. Because you know, you do end up laughing at the content that
+
+00:07:23.560 --> 00:07:28.640
+[Guest]: they create. So I think we're planning to use WhatsApp to sort of deliver this course.
+
+00:07:28.640 --> 00:07:29.640
+[Amit Varma]: What's the idea there?
+
+00:07:29.640 --> 00:07:35.200
+[Amit Varma]: Yeah, so you know, Vivek, you and I joke so often on this show about WhatsApp University.
+
+00:07:35.200 --> 00:07:39.040
+[Amit Varma]: And this is probably the first time somebody is using WhatsApp for a course like this in
+
+00:07:39.040 --> 00:07:43.840
+[Amit Varma]: all seriousness. And the reason for that is I'll actually be sharing hundreds of videos
+
+00:07:43.840 --> 00:07:48.200
+[Amit Varma]: through the course as illustration of the themes that I mean, so that people sort of
+
+00:07:48.200 --> 00:07:53.040
+[Amit Varma]: kind of understand that and these are all you know, as in TikTok vertical format videos.
+
+00:07:53.040 --> 00:07:56.320
+[Amit Varma]: And so you can't do a zoom class with them where you show hundreds of these vertical
+
+00:07:56.320 --> 00:08:01.240
+[Amit Varma]: videos, there's really no other, you can't create YouTube modules, the only way to really
+
+00:08:01.240 --> 00:08:05.800
+[Amit Varma]: do the I mean, WhatsApp is perfect for this, because it's meant for forwarding videos and
+
+00:08:05.800 --> 00:08:12.080
+[Amit Varma]: all of that. And my course will really happen through a WhatsApp group, which is where only
+
+00:08:12.080 --> 00:08:17.560
+[Amit Varma]: the admin can post. So it's only me and I'll kind of run the course on that. And that should
+
+00:08:17.560 --> 00:08:21.920
+[Amit Varma]: be great fun. But moving on from that, and thank you for asking me about this and giving
+
+00:08:21.920 --> 00:08:27.040
+[Amit Varma]: me this extra publicity. I hope listeners check that out at cnunseen.in slash TikTok.
+
+00:08:27.040 --> 00:08:31.800
+[Amit Varma]: But what you and I are as excited about, if not more, in fact, we've been talking about
+
+00:08:31.800 --> 00:08:39.160
+[Amit Varma]: it for more than a year, bro, is our own co-hosted show, Econ Central. It's a weekly half an
+
+00:08:39.160 --> 00:08:42.840
+[Amit Varma]: hour podcast. And Vivek, just tell our listeners a little bit more about that.
+
+00:08:42.840 --> 00:08:48.160
+[Guest]: Okay, Amit, as we've been discussing, and as we've been talking for a while, the idea
+
+00:08:48.160 --> 00:08:57.520
+[Guest]: here is to sort of lay out economics, which matters to the common man in a lucid, very
+
+00:08:57.520 --> 00:09:05.320
+[Guest]: simple sort of way. And there are two sort of, you know, facets to it. One is the fact
+
+00:09:05.320 --> 00:09:10.240
+[Guest]: that what has happened over the years is as the tyranny of the editor has died, a lot
+
+00:09:10.240 --> 00:09:16.800
+[Guest]: of false news, you know, goes around. And economics also sort of gets included into
+
+00:09:16.800 --> 00:09:21.960
+[Guest]: it. And it becomes very difficult for people to sort of figure out as to what is right
+
+00:09:21.960 --> 00:09:28.840
+[Guest]: and what is wrong. So in that sense, the idea behind the show is to take, you know, a particular
+
+00:09:28.840 --> 00:09:35.480
+[Guest]: topic which is in the news at that point of time, and explain it in a very simple, lucid
+
+00:09:35.480 --> 00:09:41.480
+[Guest]: sort of way. The other thing that happens is the fact that, you know, the conventional
+
+00:09:41.480 --> 00:09:49.560
+[Guest]: mainstream media, be it TV channels, be it digital publications or newspapers, approach
+
+00:09:49.560 --> 00:09:55.600
+[Guest]: economics in a very complex, expert-driven sort of a way. You know, it's like everyone's
+
+00:09:55.600 --> 00:10:01.560
+[Guest]: talking in code. And unless you understand the language of that code, you know, you don't
+
+00:10:01.560 --> 00:10:09.160
+[Guest]: understand what is, you know, being communicated. So the idea is to break that again and talk
+
+00:10:09.160 --> 00:10:16.080
+[Guest]: economics in simple English and explain to people as to how one, you know, why they should
+
+00:10:16.080 --> 00:10:22.040
+[Guest]: be bothered about it, you know, as citizens of this nation, and two, how it impacts their
+
+00:10:22.040 --> 00:10:26.680
+[Guest]: daily lives. You know, we don't really, most of the times, we don't realize that a lot
+
+00:10:26.680 --> 00:10:32.520
+[Guest]: of what is happening in the Indian economy, and even in the global economy for that matter,
+
+00:10:32.520 --> 00:10:37.480
+[Guest]: impacts our lives in very, very different ways. And we don't even realize it. So forget
+
+00:10:37.480 --> 00:10:42.680
+[Guest]: sort of preparing for it. We don't even know that it is happening to us. So I think that
+
+00:10:42.680 --> 00:10:49.040
+[Guest]: is the basic idea behind the show, so that people who have no background, or I'll put
+
+00:10:49.040 --> 00:10:55.120
+[Guest]: it this way, people who have no degree in economics can log in and understand what's
+
+00:10:55.120 --> 00:10:56.120
+[Guest]: what's going on.
+
+00:10:56.120 --> 00:11:01.080
+[Amit Varma]: Yeah. And what also fascinated me about the show is that when, you know, when people talk
+
+00:11:01.080 --> 00:11:05.360
+[Amit Varma]: about economics, partly because of the reason you mentioned that mainstream publications
+
+00:11:05.360 --> 00:11:10.040
+[Amit Varma]: use so much jargon, and they almost restrict it to specialists, partly because of that,
+
+00:11:10.040 --> 00:11:14.320
+[Amit Varma]: but people think of something of economics as something arcane that doesn't apply to
+
+00:11:14.320 --> 00:11:19.600
+[Amit Varma]: the world outside of money. And that's always been something that's irritated me because
+
+00:11:19.600 --> 00:11:24.600
+[Amit Varma]: I look at economics as the study of human behavior. And I think it applies to everything
+
+00:11:24.600 --> 00:11:29.720
+[Amit Varma]: the tools of economics, looking at incentives, understanding trade offs apply to every facet
+
+00:11:29.720 --> 00:11:35.680
+[Amit Varma]: of our lives. So what we will also do through our new podcast, Econ Central is, you know,
+
+00:11:35.680 --> 00:11:41.760
+[Amit Varma]: talk about regular news in India, whether it's in politics or in entertainment, or wherever,
+
+00:11:41.760 --> 00:11:46.680
+[Amit Varma]: look at regular news through the prism of economic thinking, you know, before we begin
+
+00:11:46.680 --> 00:11:50.780
+[Amit Varma]: this particular show, just some information for the listener. Typically, when you launch
+
+00:11:50.780 --> 00:11:55.440
+[Amit Varma]: a podcast, you first put a preview podcast out there. So that, you know, broadcast apps
+
+00:11:55.440 --> 00:12:01.760
+[Amit Varma]: can pick up the RSS feed and like a week after that, you actually put up Episode One, Episode
+
+00:12:01.760 --> 00:12:06.320
+[Amit Varma]: One will come later this week on Thursday, probably we haven't decided which day of the
+
+00:12:06.320 --> 00:12:12.160
+[Amit Varma]: week to release it. But the preview episode is already out, the RSS feed has been submitted
+
+00:12:12.160 --> 00:12:19.080
+[Amit Varma]: to all podcast apps. So do go over to whatever podcast app you use, and look for Econ Central,
+
+00:12:19.080 --> 00:12:26.240
+[Amit Varma]: Econ Central. And you can also go to econcentral.in. Though that is under construction right now,
+
+00:12:26.240 --> 00:12:30.120
+[Amit Varma]: I don't know if it will be ready at the time of the seen unseen episode, but it will be
+
+00:12:30.120 --> 00:12:34.160
+[Amit Varma]: ready when the first episode of Econ Central is actually out. So you can follow that for
+
+00:12:34.160 --> 00:12:40.240
+[Amit Varma]: updates. And in any case, we'll be mentioning that on Twitter. Now having got all the publicity
+
+00:12:40.240 --> 00:12:44.040
+[Amit Varma]: of the various things we are doing out of the way, you know, before we start talking
+
+00:12:44.040 --> 00:12:47.520
+[Amit Varma]: about you know, the Indian economy during COVID, which is, you know, what the theme
+
+00:12:47.520 --> 00:12:51.200
+[Amit Varma]: of the show is, tell me a little bit about how you've been managing during the lockdown.
+
+00:12:51.200 --> 00:12:52.680
+[Guest]: What's life been like for you?
+
+00:12:52.680 --> 00:12:58.960
+[Guest]: Actually, this is a question I get asked often these days. And very honestly, my life hasn't
+
+00:12:58.960 --> 00:13:03.920
+[Guest]: changed at all, because this is the life I normally lead. Wherein, you know, I work out
+
+00:13:03.920 --> 00:13:09.480
+[Guest]: of home, I get up in the morning, I make my breakfast, I write my stuff, I take my nap
+
+00:13:09.480 --> 00:13:16.120
+[Guest]: in the afternoon, and then I read in the evenings. And obviously, then, you know, at around 8,
+
+00:13:16.120 --> 00:13:22.440
+[Guest]: 8.30pm, I cook. So that is pretty much what has been happening. The only difference that
+
+00:13:22.440 --> 00:13:27.160
+[Guest]: has come in is that obviously, you know, I would probably go out a couple of times a
+
+00:13:27.160 --> 00:13:34.360
+[Guest]: week and socialize. So that has, you know, that is not happening. And most of the stuff
+
+00:13:34.360 --> 00:13:40.840
+[Guest]: is being home delivered. So other than that, my life is pretty much like the way it used
+
+00:13:40.840 --> 00:13:47.240
+[Guest]: to be. Now, the interesting thing is what a lot of my friends who have worked out of
+
+00:13:47.240 --> 00:13:52.880
+[Guest]: home in the last three months, have realized is that working out of home is not easy. Because
+
+00:13:52.880 --> 00:13:58.320
+[Guest]: one, there is no one sitting on your head to sort of do the work that you have to. And
+
+00:13:58.320 --> 00:14:05.200
+[Guest]: two, it is very difficult to get into a routine, at least for them, because for them, you know,
+
+00:14:05.200 --> 00:14:10.920
+[Guest]: you go to office, and then you sort of have your cup of coffee, you gossip a little and
+
+00:14:10.920 --> 00:14:15.280
+[Guest]: then your computer warms up in the meanwhile, and then work starts. So all these little
+
+00:14:15.280 --> 00:14:22.800
+[Guest]: things have gone out of the window. And obviously, for a lot of men who have been brought up
+
+00:14:22.800 --> 00:14:27.680
+[Guest]: by their mothers not so well, you know, it's been a real challenge because when your home
+
+00:14:27.680 --> 00:14:33.280
+[Guest]: help is not coming, and your wife cannot possibly be doing all the things. So for them, it's
+
+00:14:33.280 --> 00:14:37.960
+[Guest]: just you know, a lot of them have washed utensils in their lives for the first time, some of
+
+00:14:37.960 --> 00:14:42.000
+[Guest]: them have discovered cooking. I mean, like a friend was telling me the other day, I didn't
+
+00:14:42.000 --> 00:14:48.880
+[Guest]: know paneer banana itna aasan tha. So yeah, so that's the but yeah, I mean, so the interesting
+
+00:14:48.880 --> 00:14:53.360
+[Amit Varma]: thing is a lot of people have realized that working out of home is not easy.
+
+00:14:53.360 --> 00:14:57.360
+[Amit Varma]: And maybe a lot of men appreciate their wives a little bit more all the unpaid labor that
+
+00:14:57.360 --> 00:15:02.760
+[Guest]: they took for granted. I mean, you know, hats off to all the working women who used to sort
+
+00:15:02.760 --> 00:15:08.600
+[Guest]: of manage their homes as well. I mean, so all the men are now gradually sort of, I mean,
+
+00:15:08.600 --> 00:15:12.760
+[Guest]: I don't think it's going to make a big change. But yes, a few people here and there have
+
+00:15:12.760 --> 00:15:20.160
+[Amit Varma]: realized that it's very difficult. Yeah, among the many sort of interesting, unseen consequences
+
+00:15:20.160 --> 00:15:23.880
+[Amit Varma]: of the lockdown could be how relationships between the sexes change in many different
+
+00:15:23.880 --> 00:15:27.680
+[Amit Varma]: ways, good ways, bad ways. And obviously, I share a sentiment because I've kind of been
+
+00:15:27.680 --> 00:15:32.600
+[Amit Varma]: working from home for the last 13 or 14 years. And for me, this is like, not the new normal,
+
+00:15:32.600 --> 00:15:36.200
+[Amit Varma]: it's the old normal, everyone else is sharing in it and cribbing about it. And I'm like,
+
+00:15:36.200 --> 00:15:40.480
+[Amit Varma]: what are you even talking about? And I completely agree with you about the difficulty of self
+
+00:15:40.480 --> 00:15:43.880
+[Amit Varma]: discipline, though, you are obviously far better at it than I am, because you churn
+
+00:15:43.880 --> 00:15:49.160
+[Amit Varma]: out 83 articles every week. And you know, I struggle with whatever little I have to
+
+00:15:49.160 --> 00:15:54.400
+[Amit Varma]: do. So you know, let's get to the subject of the show before our listeners throw their
+
+00:15:54.400 --> 00:15:58.120
+[Amit Varma]: smartphones where they are listening to this into the sink because they're presumably washing
+
+00:15:58.120 --> 00:16:01.680
+[Amit Varma]: dishes while listening to us, which is the most common use case. That's when I listen
+
+00:16:01.680 --> 00:16:08.320
+[Guest]: to podcasts, by the way, very little walking and running that's been happening. So I'm
+
+00:16:08.320 --> 00:16:13.280
+[Guest]: traveling. Yeah, you can't be you know, you are not spending two hours in your car and
+
+00:16:13.280 --> 00:16:18.720
+[Amit Varma]: sort of listening to a podcast. So yeah, so we you know, the two of us did an episode
+
+00:16:18.720 --> 00:16:22.080
+[Amit Varma]: of the seen and the unseen in at the end of December, which I linked from the show notes
+
+00:16:22.080 --> 00:16:27.280
+[Amit Varma]: where we spoke about the economy in 2019. And, you know, we have done various episodes
+
+00:16:27.280 --> 00:16:32.560
+[Amit Varma]: on aspects of the economy in the last three years. We've covered, you know, events like
+
+00:16:32.560 --> 00:16:38.440
+[Amit Varma]: demonetization and GST and pakora nomics, a term coined by Vivek Kaul, everyone multiple
+
+00:16:38.440 --> 00:16:43.480
+[Amit Varma]: times. And in our episode, the economy in 2019, while summing up what happened that
+
+00:16:43.480 --> 00:16:49.320
+[Amit Varma]: year in terms of economic news, we also laid out a pretty bleak picture of the government's
+
+00:16:49.320 --> 00:16:54.160
+[Amit Varma]: management of the economy, things have been going downhill for a long time. And the COVID
+
+00:16:54.160 --> 00:17:00.120
+[Amit Varma]: lockdown, of course, started at the end of March. Can you sort of give me a snapshot
+
+00:17:00.120 --> 00:17:06.200
+[Amit Varma]: of in your view, how the Indian economy stood on the eve of the lockdown? Like, you know,
+
+00:17:06.200 --> 00:17:10.080
+[Amit Varma]: how bad were things were some things improving? Were they getting worse? Were we drifting?
+
+00:17:10.080 --> 00:17:14.960
+[Amit Varma]: We've had many crisis which are getting worse, like credit crisis, jobs crisis, etc. Where
+
+00:17:14.960 --> 00:17:19.720
+[Guest]: did we stand? Okay, so you know, as I have, you know, been writing in the last three months,
+
+00:17:19.720 --> 00:17:26.120
+[Guest]: I think we were already pretty much into an economic slowdown by the time the COVID-19,
+
+00:17:26.120 --> 00:17:32.280
+[Guest]: you know, came around. So I remember, you know, one of the pieces that I wrote for Mint
+
+00:17:32.280 --> 00:17:38.360
+[Guest]: was headlined something like the psychology of a slowdown. And this was late last year.
+
+00:17:38.360 --> 00:17:43.880
+[Guest]: So I think by the end of December, and you know, when we did our year end episode, there
+
+00:17:43.880 --> 00:17:49.520
+[Guest]: were many economic indicators, which clearly showed that the economy was not doing well.
+
+00:17:49.520 --> 00:17:56.200
+[Guest]: I mean, you could look at stuff, you know, everything from car sales to two wheeler sales,
+
+00:17:56.200 --> 00:18:01.080
+[Guest]: to investment happening in the economy, credit growth, multiple indicators, which would have
+
+00:18:01.080 --> 00:18:07.200
+[Guest]: told you that the economy is not doing so well. And in fact, recently, the GDP numbers
+
+00:18:07.200 --> 00:18:16.160
+[Guest]: for 2019-20 were released. And the funny thing is that the economy grew by 4.2% during the
+
+00:18:16.160 --> 00:18:22.120
+[Guest]: course of the year, which was very slow. But if you take out the government's contribution
+
+00:18:22.120 --> 00:18:28.560
+[Guest]: out of it, the economy grew at just around 3.3%. Now, what has been happening in the
+
+00:18:28.560 --> 00:18:35.480
+[Guest]: last three years is that the government expenditure has been growing at a very fast pace. And
+
+00:18:35.480 --> 00:18:41.120
+[Guest]: that has essentially been lifting up the overall economy. But this is not something, you know,
+
+00:18:41.120 --> 00:18:46.720
+[Guest]: which can one, continue forever, and two, it cannot lift the economy beyond a point
+
+00:18:46.720 --> 00:18:52.760
+[Guest]: because the government does not form a very large part of the Indian economy. Let me put
+
+00:18:52.760 --> 00:18:59.400
+[Guest]: it this way, when politicians started recognizing COVID-19 as a serious issue, which was probably
+
+00:18:59.400 --> 00:19:07.600
+[Guest]: first to second week of March, the Indian economy was already in deep trouble by then.
+
+00:19:07.600 --> 00:19:12.080
+[Guest]: And since then, we have only gone downhill like has the rest of the world.
+
+00:19:12.080 --> 00:19:16.240
+[Amit Varma]: Yeah. And in fact, you know, just to drive home the point that you're making in our last
+
+00:19:16.240 --> 00:19:22.440
+[Amit Varma]: episode, we spoke about what is my pet bugbear really about the measurement of the GDP. And
+
+00:19:22.440 --> 00:19:27.040
+[Amit Varma]: this was a debate that happened in the late 1930s. And Simon Kuznets, who is known as
+
+00:19:27.040 --> 00:19:32.440
+[Amit Varma]: a father of the GDP, said that government spending should not be included in GDP, because
+
+00:19:32.440 --> 00:19:37.400
+[Amit Varma]: then what can happen is it becomes easy. If you're using GDP as a measure of growth, it
+
+00:19:37.400 --> 00:19:42.400
+[Amit Varma]: becomes easy for the government to game that measure. You can just dig 1000 ditches, pay
+
+00:19:42.400 --> 00:19:47.040
+[Amit Varma]: people to dig 1000 ditches, fill them up, dig them again, fill them up again. And without
+
+00:19:47.040 --> 00:19:52.000
+[Amit Varma]: anything productive being done, the GDP just keeps going up. And then you can point to
+
+00:19:52.000 --> 00:19:57.080
+[Amit Varma]: those figures and see how well they are doing. But there is a limit to how much you can game
+
+00:19:57.080 --> 00:20:00.400
+[Amit Varma]: them because first of all, where does the money that the government is spending come
+
+00:20:00.400 --> 00:20:05.400
+[Amit Varma]: from? It comes from the people, there is an opportunity cost to it. In a great episode
+
+00:20:05.400 --> 00:20:11.000
+[Amit Varma]: I did with Ajay Shah and Vijay Kelkar earlier this year, a few months ago, they pointed
+
+00:20:11.000 --> 00:20:16.360
+[Amit Varma]: out that they pointed out something called the marginal cost of government funds, government
+
+00:20:16.360 --> 00:20:20.920
+[Amit Varma]: spending, which basically means that for every one rupee that the government spends, the
+
+00:20:20.920 --> 00:20:26.520
+[Amit Varma]: cost to GDP growth is equal to that of three rupees approximately in India is between two
+
+00:20:26.520 --> 00:20:30.660
+[Amit Varma]: and a half to three and a half, but you can approximate it to that. So the cost of every
+
+00:20:30.660 --> 00:20:35.640
+[Amit Varma]: one rupee spent by the government is three rupees in the overall sense, that's the opportunity
+
+00:20:35.640 --> 00:20:41.120
+[Amit Varma]: cost. So that's, again, something that you have to consider. So even if this metric is
+
+00:20:41.120 --> 00:20:45.640
+[Amit Varma]: inaccurate and has been gamed in this way, that really can't continue. And we were in
+
+00:20:45.640 --> 00:20:50.000
+[Amit Varma]: bad shape anyway. I mean, after all these years of talking of 8% growth, four and a
+
+00:20:50.000 --> 00:20:54.320
+[Amit Varma]: half percent, even with government spending, you know, being spoken of as part of GDP is
+
+00:20:54.320 --> 00:20:58.400
+[Amit Varma]: pretty miserable things have gone wrong. I'd also recommend listeners listen to an episode
+
+00:20:58.400 --> 00:21:03.640
+[Amit Varma]: a link from the show notes, which I did with Pooja Mehra about the last decade where she
+
+00:21:03.640 --> 00:21:10.120
+[Amit Varma]: lays out that all of this really started in 2011. And we've had a decade of disastrous
+
+00:21:10.120 --> 00:21:17.000
+[Amit Varma]: economic management since. And so my question to you here is this, and I don't want to belabor
+
+00:21:17.000 --> 00:21:22.000
+[Amit Varma]: the point of data and what metrics we look at to judge how the economy is doing. But
+
+00:21:22.000 --> 00:21:26.640
+[Amit Varma]: in the context of COVID, it becomes acute because in many earlier episodes, we've lamented
+
+00:21:26.640 --> 00:21:31.800
+[Amit Varma]: how, you know, data is so unreliable. And what are the different kinds of proxies and
+
+00:21:31.800 --> 00:21:36.360
+[Amit Varma]: metrics by which we can talk about the economy. In the time of COVID, it seems to me that
+
+00:21:36.360 --> 00:21:41.120
+[Amit Varma]: that has been exacerbated, like early on in the lockdown, you wrote a piece about how
+
+00:21:41.120 --> 00:21:47.380
+[Amit Varma]: real freight prices were indicating what's going on. So when someone who covers economics
+
+00:21:47.380 --> 00:21:52.320
+[Amit Varma]: and looks at it as closely as you looks at what is happening after COVID, besides, of
+
+00:21:52.320 --> 00:21:56.840
+[Amit Varma]: course, the anecdotal evidence all around us, which are mostly stories of great suffering,
+
+00:21:56.840 --> 00:21:59.840
+[Amit Varma]: how do you get a handle on how bad things are?
+
+00:21:59.840 --> 00:22:06.280
+[Guest]: Okay, so, you know, you just talked extensively about the GDP. Now, there are a lot of things
+
+00:22:06.280 --> 00:22:12.120
+[Guest]: which are not right with it. But ultimately, it is, it's a measure which everyone follows.
+
+00:22:12.120 --> 00:22:21.620
+[Guest]: And it's essentially a measure of economic activity. Okay. So how do you look at economic
+
+00:22:21.620 --> 00:22:26.820
+[Guest]: activity without looking at, let's say, the GDP number? Now, the GDP number comes once
+
+00:22:26.820 --> 00:22:33.960
+[Guest]: every three months. But there are a lot of other parameters which one can look at and
+
+00:22:33.960 --> 00:22:40.640
+[Guest]: get a sense of what is happening in the economy. And these numbers come out pretty quickly.
+
+00:22:40.640 --> 00:22:46.680
+[Guest]: So one of the things that I sort of looked at, you know, this was sometime around a month
+
+00:22:46.680 --> 00:22:53.800
+[Guest]: back in May, was revenue earning rail freight. Now, it's essentially the amount of freight
+
+00:22:53.800 --> 00:23:01.320
+[Guest]: which is moved by the Indian Railways. Okay. And in April, this came down by close to 35%.
+
+00:23:01.320 --> 00:23:09.200
+[Guest]: Now, here's the thing, what are the main commodities that the Indian Railways moves? It moves coal,
+
+00:23:09.200 --> 00:23:16.040
+[Guest]: it moves steel, it moves petroleum, it moves food grains, and it moves cement. Okay. So
+
+00:23:16.040 --> 00:23:21.840
+[Guest]: if you look at railway freight as a whole, the amount of freight moved by them in April
+
+00:23:21.840 --> 00:23:29.760
+[Guest]: fell by close to 35%. This after it had already fallen by 14% in March. So one of the most
+
+00:23:29.760 --> 00:23:36.680
+[Guest]: important commodity that railway moves across the country is basically coal. Okay. Now,
+
+00:23:36.680 --> 00:23:44.400
+[Guest]: coal movement fell by close to, again, 35% to around 34.6 million tonnes in April, after
+
+00:23:44.400 --> 00:23:50.920
+[Guest]: having fallen by around 14% in March. Now, what does this basically indicate? Okay. One
+
+00:23:50.920 --> 00:23:55.520
+[Guest]: is obviously, you know, coal production has fallen and because of that, lesser coal is
+
+00:23:55.520 --> 00:24:02.780
+[Guest]: being moved. But what does it tell us? It tells us largely that most factories and companies
+
+00:24:02.780 --> 00:24:08.440
+[Guest]: in India have been shut over the last more than a few weeks now, and they don't need
+
+00:24:08.440 --> 00:24:15.640
+[Guest]: electricity. Okay. Now, when you don't need electricity, you don't need coal, simply because
+
+00:24:15.640 --> 00:24:21.560
+[Guest]: most of the electricity produced in India is thermal electricity. So this tells you
+
+00:24:21.560 --> 00:24:27.920
+[Guest]: very, very clearly that most factories have been shut, most offices have been shut, thanks
+
+00:24:27.920 --> 00:24:33.600
+[Guest]: to the lockdown. Then you have petroleum. You know, petroleum movement was also down
+
+00:24:33.600 --> 00:24:40.240
+[Guest]: almost 35% to around 2.3 million tonnes in April. Again, explains the lack of demand
+
+00:24:40.240 --> 00:24:46.320
+[Guest]: of petrol and diesel. Now, the interesting thing is that obviously, you know, this is
+
+00:24:46.320 --> 00:24:51.160
+[Guest]: because people were at their homes and they were not moving around. Now, the more interesting
+
+00:24:51.160 --> 00:24:58.320
+[Guest]: thing is that if people do not consume petrol and diesel, the government, the central government
+
+00:24:58.320 --> 00:25:05.640
+[Guest]: does not earn excise duty on petrol and diesel. And this excise duty on petrol and diesel
+
+00:25:05.640 --> 00:25:10.920
+[Guest]: during the course of the last few years, you know, has been greater than 2 lakh crore.
+
+00:25:10.920 --> 00:25:16.120
+[Guest]: Then you look at cement movement. So, cement movement was down 90%, which tells you that
+
+00:25:16.120 --> 00:25:22.920
+[Guest]: construction activity has basically come to a standstill. It is also a very good explanation
+
+00:25:22.920 --> 00:25:30.280
+[Guest]: of the fact as to why so many people started walking from the bigger cities to their homes,
+
+00:25:30.280 --> 00:25:36.160
+[Guest]: you know, in Eastern UP, Bihar, Jharkhand, Chhattisgarh, Odisha, you know, so on and
+
+00:25:36.160 --> 00:25:41.800
+[Guest]: so forth. So, the only thing, you know, the only commodity in which case the movement
+
+00:25:41.800 --> 00:25:51.520
+[Guest]: went up were basically food grains. And the food grain movement soared by 135%. And this
+
+00:25:51.520 --> 00:25:57.000
+[Guest]: was primarily on account of the distribution of extra food grains, which the central government
+
+00:25:57.000 --> 00:26:02.680
+[Guest]: was basically distributing. So, these grains had to be moved from parts of the country
+
+00:26:02.680 --> 00:26:08.520
+[Guest]: which had a surplus to other parts which did not. So, you know, if you looked at just this
+
+00:26:08.520 --> 00:26:16.360
+[Guest]: indicator, it could have told you in a very, very simple sort of way that all wasn't well
+
+00:26:16.360 --> 00:26:21.480
+[Guest]: with the Indian economy. Now, obviously, you know, common sense tells us in a much simpler
+
+00:26:21.480 --> 00:26:26.640
+[Guest]: way that if everybody, you know, is at home and is not going out and spending money, obviously,
+
+00:26:26.640 --> 00:26:31.280
+[Guest]: there will be a problem in the economy. But this is just a, you know, way of thinking
+
+00:26:31.280 --> 00:26:37.760
+[Guest]: where non GDP data can help us see things much more clearly.
+
+00:26:37.760 --> 00:26:42.880
+[Amit Varma]: No, and this is so fascinating to me that it's almost like a piece of detective work
+
+00:26:42.880 --> 00:26:46.640
+[Amit Varma]: that you find out one piece of data and it seems like, okay, real freight, what difference
+
+00:26:46.640 --> 00:26:50.600
+[Amit Varma]: does it make? But it impacts everybody's life in so many different ways.
+
+00:26:50.600 --> 00:26:56.040
+[Guest]: Yeah, in fact, to be very honest, you know, I have been looking at this data for years
+
+00:26:56.040 --> 00:27:01.160
+[Guest]: now. And it sort of never occurred to me that, I mean, I always knew that this is it's a
+
+00:27:01.160 --> 00:27:07.400
+[Guest]: very important data point. But I had somehow never sort of articulated it to myself that,
+
+00:27:07.400 --> 00:27:12.480
+[Guest]: you know, one could link it to almost every important aspect of the economy. You could
+
+00:27:12.480 --> 00:27:18.080
+[Guest]: link it to food, you could link it to taxes, construction, electricity, you know, these
+
+00:27:18.080 --> 00:27:23.440
+[Guest]: are things that we all used to, I mean, like electricity. Now, without electricity, there
+
+00:27:23.440 --> 00:27:28.080
+[Amit Varma]: is no survival these days. So, and, you know, what is also interesting to me, like what
+
+00:27:28.080 --> 00:27:35.000
+[Amit Varma]: you've described about what real freight indicated about everything in the economy and how everything
+
+00:27:35.000 --> 00:27:40.000
+[Amit Varma]: is connected is, you know, talking about the economy from a sky high view and, you know,
+
+00:27:40.000 --> 00:27:44.200
+[Amit Varma]: looking at all these different aspects of it. And now I want to zoom in to individuals
+
+00:27:44.200 --> 00:27:49.160
+[Amit Varma]: to human beings, psychology, how they think about all this, and understanding how that
+
+00:27:49.160 --> 00:27:54.320
+[Amit Varma]: ties into the economy. Now, you've written many fascinating pieces, obviously about how
+
+00:27:54.320 --> 00:28:01.320
+[Amit Varma]: psychology ties in with the economy. And also, you know, a point you often make is that what
+
+00:28:01.320 --> 00:28:07.120
+[Amit Varma]: is in an individual self interest may not be in society's self interest and vice versa,
+
+00:28:07.120 --> 00:28:12.520
+[Amit Varma]: which means that we can all behave in rational ways, as far as spending and saving and going
+
+00:28:12.520 --> 00:28:17.360
+[Amit Varma]: out is concerned. And that can harm us all in the aggregate. And there's nothing much
+
+00:28:17.360 --> 00:28:22.840
+[Amit Varma]: to do about this. And this is possibly more vivid in the time of COVID than in normal
+
+00:28:22.840 --> 00:28:24.880
+[Guest]: times. So can you elaborate on this a bit?
+
+00:28:24.880 --> 00:28:29.680
+[Guest]: So, you know, this point was basically one of the major contributions of John Maynard
+
+00:28:29.680 --> 00:28:34.480
+[Guest]: Keynes in the aftermath of the Great Depression. He basically studied the Great Depression
+
+00:28:34.480 --> 00:28:39.680
+[Guest]: and realized as to, you know, why the Great Depression became the Great Depression. So
+
+00:28:39.680 --> 00:28:45.040
+[Guest]: what he basically suggested was that, you know, at an individual level, incomes drive
+
+00:28:45.040 --> 00:28:50.840
+[Guest]: spending. But at an aggregate societal level, it is spending which drives income. Or to
+
+00:28:50.840 --> 00:28:56.000
+[Guest]: put it in a simpler way, one man's spending is basically another man's income. So let's
+
+00:28:56.000 --> 00:29:03.360
+[Guest]: let's sort of dwell a little deeper into this point. Let's say you are an employee and you
+
+00:29:03.360 --> 00:29:07.800
+[Guest]: work for a company. Let's say you work for an IT company. The company pays you a salary
+
+00:29:07.800 --> 00:29:13.120
+[Guest]: and when the company pays you a salary, it may even give you ESOPs. And, you know, you
+
+00:29:13.120 --> 00:29:18.320
+[Guest]: use that money to buy things. I mean, you use that money to party over the weekends.
+
+00:29:18.320 --> 00:29:24.440
+[Guest]: You can, over a period of time, once you've accumulated a reasonably good amount of money,
+
+00:29:24.440 --> 00:29:29.960
+[Guest]: you can use that as a down payment for a car, for a home and so on and so forth. So income
+
+00:29:29.960 --> 00:29:35.680
+[Guest]: drives spending at an individual level. Nevertheless, you know, the question is, where does the
+
+00:29:35.680 --> 00:29:41.560
+[Guest]: company make money from? Now, the company, this company or any other company essentially
+
+00:29:41.560 --> 00:29:48.480
+[Guest]: makes money when someone else spends money to buy their goods or buy their product or
+
+00:29:48.480 --> 00:29:53.920
+[Guest]: buy their services. So in case of an IT company, it might be a project, it might be a product
+
+00:29:53.920 --> 00:30:02.480
+[Guest]: or anything along these lines. So essentially, you know, one man's spending is another man's
+
+00:30:02.480 --> 00:30:13.800
+[Guest]: income. Now, what has happened in the last few months is that large parts of the population
+
+00:30:13.800 --> 00:30:19.660
+[Guest]: are staying at home. And when you stay at home, you know, you only buy things which
+
+00:30:19.660 --> 00:30:25.400
+[Guest]: you require for your everyday use. So I mean, you may buy soap, you may buy toothpaste,
+
+00:30:25.400 --> 00:30:31.680
+[Guest]: you may buy washing powder, cleaning liquid, vegetables, bread, butter, so on and so forth.
+
+00:30:31.680 --> 00:30:37.120
+[Amit Varma]: I have a feeling you're sharing your personal shopping list with me.
+
+00:30:37.120 --> 00:30:41.720
+[Guest]: I guess, yeah, I mean, it would be anyone's shopping list, Sumit. So you don't buy vegetables.
+
+00:30:41.720 --> 00:30:46.880
+[Amit Varma]: No, no, of course, of course. I was just kidding about how poor Vivek is having to do everything
+
+00:30:46.880 --> 00:30:52.880
+[Guest]: himself. Exactly. So anyway, so you do this, but when you are at home, you don't go out.
+
+00:30:52.880 --> 00:30:57.240
+[Guest]: So, you know, you're not spending in restaurants, you're not going to malls, you're not watching
+
+00:30:57.240 --> 00:31:02.960
+[Guest]: movies, you're not buying new clothes, and so many other things. Like in my case, for
+
+00:31:02.960 --> 00:31:09.640
+[Guest]: almost two months, I did not buy many books. I mean, all the books that I bought were basically
+
+00:31:09.640 --> 00:31:15.280
+[Guest]: bought on Kindle. So obviously, when this happens at the societal level, it impacts
+
+00:31:15.280 --> 00:31:22.200
+[Guest]: the incomes of many other individuals. So incomes go down. It also impacts many businesses.
+
+00:31:22.200 --> 00:31:30.040
+[Guest]: So businesses, when they have to survive through this pandemic, a lot of them have fired people,
+
+00:31:30.040 --> 00:31:37.440
+[Guest]: a lot of them have cut salaries, a lot of them have withdrawn new offers, and a lot
+
+00:31:37.440 --> 00:31:42.720
+[Guest]: of them have postponed dates of joining of people who were supposed to join. So all of
+
+00:31:42.720 --> 00:31:51.080
+[Guest]: this has an impact on the incomes of people, which in turn has an impact on consumption,
+
+00:31:51.080 --> 00:31:56.760
+[Guest]: and which again in turn has an impact on income, and which in turn again has an impact on consumption.
+
+00:31:56.760 --> 00:32:02.440
+[Guest]: So this is how the cycle works. Now, what also has happened, and in fact, this was already
+
+00:32:02.440 --> 00:32:08.780
+[Guest]: happening, I was earlier calling it the psychology of a slowdown, and now I'm calling it the
+
+00:32:08.780 --> 00:32:13.520
+[Guest]: psychology of a recession. Now, the difference between a slowdown and a recession is very
+
+00:32:13.520 --> 00:32:18.760
+[Guest]: simple. A slowdown is essentially an economic environment where the economy is growing,
+
+00:32:18.760 --> 00:32:23.880
+[Guest]: but it's growing at a low growth rate, whereas a recession is an environment where the economy
+
+00:32:23.880 --> 00:32:29.800
+[Guest]: contracts for two consecutive quarters, which is basically a period of six months in total.
+
+00:32:29.800 --> 00:32:35.840
+[Guest]: So we are not there, but we will get there by September. By September, we can officially
+
+00:32:35.840 --> 00:32:40.840
+[Guest]: say that India was in a recession for the first half of 2020-21.
+
+00:32:40.840 --> 00:32:44.840
+[Amit Varma]: But UNESCO may well proclaim it as the best recession in the world.
+
+00:32:44.840 --> 00:32:52.360
+[Guest]: Yeah, which they might, for all we know. So yes, so what will happen over the next few
+
+00:32:52.360 --> 00:32:59.280
+[Guest]: months, and it's already in progress, is that all of us will eventually come to know someone
+
+00:32:59.280 --> 00:33:07.080
+[Guest]: who's lost his job, or has faced an income cut at his job, or is running a small enterprise
+
+00:33:07.080 --> 00:33:12.080
+[Guest]: which is not doing well, or is running a small enterprise which has gone bankrupt, so on
+
+00:33:12.080 --> 00:33:17.760
+[Guest]: and so forth. So basically, in a recession, people who are directly impacted by the recession
+
+00:33:17.760 --> 00:33:21.680
+[Guest]: obviously cut down on their consumption. I mean, they don't have any other way out. But
+
+00:33:21.680 --> 00:33:26.920
+[Guest]: people who are not impacted by the recession also cut down on their consumption, because
+
+00:33:26.920 --> 00:33:32.840
+[Guest]: they have this great fear of being fired or seeing a drop in their income.
+
+00:33:32.840 --> 00:33:40.640
+[Guest]: So everyone starts sort of preparing for that bad day which might come. And when that happens,
+
+00:33:40.640 --> 00:33:46.920
+[Guest]: again, spending takes a beating, and then it impacts incomes, and then it impacts spending
+
+00:33:46.920 --> 00:33:53.760
+[Guest]: again, and then more people are fired. And this is how a recession sort of spreads. And
+
+00:33:53.760 --> 00:34:01.360
+[Guest]: I think this is precisely what is happening right now. And it will continue to play out,
+
+00:34:01.360 --> 00:34:05.160
+[Guest]: at least for the, you know, for the first half of this financial year. So
+
+00:34:05.160 --> 00:34:10.520
+[Amit Varma]: Yeah, and the interesting thing that strikes me about this very profound insight is that,
+
+00:34:10.520 --> 00:34:15.160
+[Amit Varma]: yeah, on the one hand, it's obvious that people who have lost their jobs and people whose
+
+00:34:15.160 --> 00:34:19.920
+[Amit Varma]: businesses have shut down will obviously not be spending more and therefore, because they
+
+00:34:19.920 --> 00:34:25.520
+[Amit Varma]: are not spending, others are making less income and the vicious cycle begins. But what is
+
+00:34:25.520 --> 00:34:30.120
+[Amit Varma]: also happening is even people who do have their jobs still whose businesses haven't
+
+00:34:30.120 --> 00:34:34.640
+[Amit Varma]: been affected, even they will go a little easy on the spending and they'll be like,
+
+00:34:34.640 --> 00:34:38.200
+[Amit Varma]: let's take it easy. So the spending going down is not just because there's a lockdown
+
+00:34:38.200 --> 00:34:42.840
+[Amit Varma]: and people can't go out. It's not just because jobs have been lost or companies are shut
+
+00:34:42.840 --> 00:34:47.880
+[Amit Varma]: down. But even after the lockdown ends, people will go out less and perhaps correctly. So
+
+00:34:47.880 --> 00:34:54.120
+[Amit Varma]: perhaps and not perhaps but rationally, so they should go out less for the next few months.
+
+00:34:54.120 --> 00:35:00.600
+[Guest]: If you were to look at what you need to do in order to eat in a restaurant, I mean, the
+
+00:35:00.600 --> 00:35:04.280
+[Guest]: rules that have been put in place, I mean, you would never go out. I mean, you'd rather
+
+00:35:04.280 --> 00:35:06.280
+[Guest]: sit at home and eat.
+
+00:35:06.280 --> 00:35:10.600
+[Amit Varma]: Yeah, and even otherwise, you know, and so the thing is, and even with people who go
+
+00:35:10.600 --> 00:35:15.160
+[Amit Varma]: out as much as they used to, their discretionary spending the stuff they don't absolutely need
+
+00:35:15.160 --> 00:35:19.880
+[Amit Varma]: to buy will go down a bit because they'll be more aware that they could be, you know,
+
+00:35:19.880 --> 00:35:24.360
+[Amit Varma]: rainy days up ahead, not in a literal sense, of course, because rainy days are ongoing
+
+00:35:24.360 --> 00:35:26.480
+[Amit Varma]: as we both of us are in Mumbai.
+
+00:35:26.480 --> 00:35:31.320
+[Guest]: In fact, the interesting thing is, and when I first sort of came to know of this, I was
+
+00:35:31.320 --> 00:35:37.680
+[Guest]: quite surprised. If you look at, you know, a lot of these analysts, they are also talking
+
+00:35:37.680 --> 00:35:43.760
+[Guest]: about the fact that FMCG companies might see a contraction in revenue this year, which
+
+00:35:43.760 --> 00:35:49.520
+[Guest]: is essentially unheard of. So what that means is that discretionary expenditure will definitely
+
+00:35:49.520 --> 00:35:54.720
+[Guest]: be impacted. That is a no brainer. But even non discretionary expenditure will be impacted.
+
+00:35:54.720 --> 00:36:01.080
+[Guest]: And one clear indicator of that is that people are already buying smaller packs of different
+
+00:36:01.080 --> 00:36:06.520
+[Guest]: things. I mean, that, you know, that news has come around a few weeks back.
+
+00:36:06.520 --> 00:36:11.200
+[Amit Varma]: Oh, that's so interesting. And almost so sad, you know, that in all these economic numbers,
+
+00:36:11.200 --> 00:36:16.280
+[Amit Varma]: if you look closely and use your imagination, you also get pictures of individual human
+
+00:36:16.280 --> 00:36:21.880
+[Amit Varma]: suffering. And even the way minds cloud over that you become less optimistic, and then
+
+00:36:21.880 --> 00:36:26.760
+[Amit Varma]: that pessimism just sort of reaches out and becomes more numbers because you're spending
+
+00:36:26.760 --> 00:36:30.280
+[Amit Varma]: less, others are earning less, and everything is rational. Now tell me, you've described
+
+00:36:30.280 --> 00:36:31.280
+[Amit Varma]: this vicious...
+
+00:36:31.280 --> 00:36:34.200
+[Guest]: This is, you know, it's time for a poor joke, Amit, so...
+
+00:36:34.200 --> 00:36:35.200
+[Guest]: Tell me the poor joke.
+
+00:36:35.200 --> 00:36:39.600
+[Guest]: So you have all this, you know, I tweeted about this a few days back. So you have all
+
+00:36:39.600 --> 00:36:45.360
+[Guest]: these B positive wala's going around, right? People keep telling you, trying to be positive,
+
+00:36:45.360 --> 00:36:51.600
+[Guest]: be positive. So, so basically, my take is that, you know, all the B positive blood group
+
+00:36:51.600 --> 00:36:57.920
+[Guest]: guys should now become C positive. Because only if you see positive, can you be positive.
+
+00:36:57.920 --> 00:37:03.640
+[Guest]: So this is like, it's in your zone, Amit. So it's better than the ones you crack.
+
+00:37:03.640 --> 00:37:08.320
+[Amit Varma]: It's horrendous. This is adding insult to injury. First, you injure me with that terrible
+
+00:37:08.320 --> 00:37:11.680
+[Amit Varma]: joke. And then you insult me by saying it's in my zone.
+
+00:37:11.680 --> 00:37:15.640
+[Guest]: Your PGS are legendary. So this is also a legendary PGS.
+
+00:37:15.640 --> 00:37:20.240
+[Amit Varma]: Indeed. Here's my question. You've described this vicious circle really well. How can it
+
+00:37:20.240 --> 00:37:26.680
+[Amit Varma]: be broken in theory or in practice, like in the past, what has broken such vicious cycles
+
+00:37:26.680 --> 00:37:27.680
+[Guest]: typically?
+
+00:37:27.680 --> 00:37:35.240
+[Guest]: So, you know, in the Indian case, we have very little experience of going through a
+
+00:37:35.240 --> 00:37:41.760
+[Guest]: recession. The last full-fledged recession was in 1979, which was also the year of the
+
+00:37:41.760 --> 00:37:50.920
+[Guest]: second global oil shock. Between 1960-61 to this financial year, I mean, assuming the
+
+00:37:50.920 --> 00:37:56.040
+[Guest]: growth contracts, this financial year, India has seen a growth contraction just five times.
+
+00:37:56.040 --> 00:38:02.080
+[Guest]: And the last time we saw growth contraction was 40 years back. Even in 1991-92, when the
+
+00:38:02.080 --> 00:38:09.000
+[Guest]: economy did terribly, we did grow. So, you know, there is very little experience of how
+
+00:38:09.000 --> 00:38:14.400
+[Guest]: to get out of a recessionary environment, at least in India.
+
+00:38:14.400 --> 00:38:19.280
+[Guest]: Now, if I were to sort of talk, you know, go back to the Great Depression, because that
+
+00:38:19.280 --> 00:38:28.680
+[Guest]: is by far the best example. Countries in the West started coming out of the Great Depression
+
+00:38:28.680 --> 00:38:35.280
+[Guest]: only at the time when they started preparing for the Second World War. Now, if you look
+
+00:38:35.280 --> 00:38:42.240
+[Guest]: at the example of the United Kingdom, it was only when they started taking Hitler's threat
+
+00:38:42.240 --> 00:38:47.520
+[Guest]: seriously and then they started sort of, you know, making arms in the southern part of
+
+00:38:47.520 --> 00:38:54.720
+[Guest]: the country. That is when they started coming out of the Great Depression. In the US case,
+
+00:38:54.720 --> 00:39:01.160
+[Guest]: some of it happened when, you know, Franklin Roosevelt came up with the New Deal. But then
+
+00:39:01.160 --> 00:39:07.440
+[Guest]: the US also sort of started coming out of the recession only around the time the Second
+
+00:39:07.440 --> 00:39:12.440
+[Guest]: World War started. So, the point here is that, and this is what, you know, Keynes' insight
+
+00:39:12.440 --> 00:39:18.360
+[Guest]: was, and Keynes' insight was, in an environment where the private part of the economy is not
+
+00:39:18.360 --> 00:39:24.160
+[Guest]: spending, when individuals are not spending, when private corporations are not spending,
+
+00:39:24.160 --> 00:39:29.280
+[Guest]: the government has to become the spender of the last resort, or the government has to
+
+00:39:29.280 --> 00:39:34.960
+[Guest]: become the employer of the last resort. And, you know, Keynes also, you know, he was great
+
+00:39:34.960 --> 00:39:41.040
+[Guest]: at rhetoric, and he rhetorically even suggested that the government should essentially pay
+
+00:39:41.040 --> 00:39:46.160
+[Guest]: people to dig holes and fill them up and the money that they earn doing that, they would
+
+00:39:46.160 --> 00:39:52.080
+[Guest]: go out and spend and, you know, the economy would come out of a recession. Now, this is
+
+00:39:52.080 --> 00:39:58.640
+[Guest]: something that, you know, this was an insight which politicians, you know, loved and they
+
+00:39:58.640 --> 00:40:02.440
+[Guest]: ran with, because up until the Second World War, the government used to largely run on
+
+00:40:02.440 --> 00:40:08.840
+[Guest]: balanced budgets. They only spent as much as they earned. Now, here was an economist
+
+00:40:08.840 --> 00:40:14.920
+[Guest]: saying that it is fine to spend more money than you earn, and politicians love that insight.
+
+00:40:14.920 --> 00:40:19.920
+[Guest]: But what Keynes had also said was that the government should run surpluses during good
+
+00:40:19.920 --> 00:40:24.720
+[Guest]: years, and then they should use those surpluses during bad years. Now, obviously, the politicians
+
+00:40:24.720 --> 00:40:30.920
+[Guest]: just took, you know, one part of the argument, and they ran with it. Now, to sort of talk
+
+00:40:30.920 --> 00:40:38.720
+[Guest]: about this in the Indian context. So, right now, it is important that the government puts
+
+00:40:38.720 --> 00:40:44.240
+[Guest]: money in the hands of people, and they have done that by, you know, through putting money
+
+00:40:44.240 --> 00:40:49.960
+[Guest]: in the Jandhan accounts of women. They have also brought forward the payments of PM Kisan
+
+00:40:49.960 --> 00:40:55.480
+[Guest]: and stuff like that. But these are very small amounts, okay. Now, you know, the large fiscal
+
+00:40:55.480 --> 00:41:01.480
+[Guest]: expansion as has been demanded by corporate India, and, you know, one gentleman, I think
+
+00:41:01.480 --> 00:41:06.440
+[Guest]: it was one of the builders, who even went on to suggest that the government should spend
+
+00:41:06.440 --> 00:41:13.360
+[Guest]: anywhere from $200 billion to $300 billion. I mean, that's like an astonishingly huge
+
+00:41:13.360 --> 00:41:21.920
+[Guest]: amount of money, which is, $200 billion would be close to not 10% of the Indian GDP, but
+
+00:41:21.920 --> 00:41:27.800
+[Guest]: around 7-8% of the Indian GDP. So, the question is, you know, where does the government get
+
+00:41:27.800 --> 00:41:35.880
+[Guest]: that money from? And especially in an environment where tax collections have totally crashed.
+
+00:41:35.880 --> 00:41:40.320
+[Guest]: So that is, you know, and given the fact that, you know, as we discussed, we were already
+
+00:41:40.320 --> 00:41:46.800
+[Guest]: in a bad shape. So, to sort of give you, you know, the last year's budget, the government
+
+00:41:46.800 --> 00:41:55.160
+[Guest]: had hoped to earn close to 24.6 lakh crore in gross tax revenues, okay, the central government.
+
+00:41:55.160 --> 00:41:59.560
+[Guest]: The revised number, when the budget for this year was presented in February, the number
+
+00:41:59.560 --> 00:42:06.040
+[Guest]: was then revised to rupees 21.6 lakh crore. What the government finally ended up earning
+
+00:42:06.040 --> 00:42:13.000
+[Guest]: was rupees 20.1 lakh crore. So, you know, you started at close to 25 lakh crore, and
+
+00:42:13.000 --> 00:42:18.880
+[Guest]: you ended up at 20 lakh crore. That in itself tells you how, one is, you know, your assumptions
+
+00:42:18.880 --> 00:42:25.160
+[Guest]: have gone all wrong. And two, it is a reflection of the sad state of the economy, because,
+
+00:42:25.160 --> 00:42:30.600
+[Guest]: you know, ultimately, only if the economy is doing well, will people consume. So, if
+
+00:42:30.600 --> 00:42:35.320
+[Guest]: people will consume, then the government will earn GST. If people will earn money, the government
+
+00:42:35.320 --> 00:42:40.840
+[Guest]: will earn income tax in various ways. And when people consume, companies will produce,
+
+00:42:40.840 --> 00:42:45.040
+[Guest]: so the government will earn excise duty. So, it is all linked. So, when the government,
+
+00:42:45.040 --> 00:42:50.280
+[Guest]: rather, when we entered into COVID-19, the government finances were already in a mess.
+
+00:42:50.280 --> 00:42:56.720
+[Guest]: So, in that sense, they really couldn't, you know, do what, or they really can't do what
+
+00:42:56.720 --> 00:43:02.920
+[Guest]: Keynes' theory basically suggests. And yeah, so I guess that's the long and the short of
+
+00:43:02.920 --> 00:43:06.520
+[Guest]: it. And I mean, I'll go into a lot more detail on this as we go along.
+
+00:43:06.520 --> 00:43:11.280
+[Amit Varma]: So, you know, taking on from this, I have both a quick digression for my listeners and
+
+00:43:11.280 --> 00:43:15.600
+[Amit Varma]: three questions for you, Vivek. The quick digression for my listeners is that, you know,
+
+00:43:15.600 --> 00:43:20.880
+[Amit Varma]: when Vivek was talking about the Great Depression and the conventional thinking behind it, that,
+
+00:43:20.880 --> 00:43:25.040
+[Amit Varma]: you know, government spending helped them sort of come out of it. There is a very interesting
+
+00:43:25.040 --> 00:43:28.960
+[Amit Varma]: book that I would highly recommend by the great writer Amity Shlaes called The Forgotten
+
+00:43:28.960 --> 00:43:33.920
+[Amit Varma]: Man, which chronicles those years and would also make you question that conventional point
+
+00:43:33.920 --> 00:43:38.440
+[Amit Varma]: of view. So, you should pick that up. I'll link it from the show notes. I have sort of
+
+00:43:38.440 --> 00:43:42.720
+[Amit Varma]: three questions for you. Question one is this, that when we talk about putting money in the
+
+00:43:42.720 --> 00:43:49.840
+[Amit Varma]: hands of the people, isn't the easiest way to do that, just simply taking less from them?
+
+00:43:49.840 --> 00:43:54.800
+[Amit Varma]: That is, in terms of taxes, that first of all, to begin with, you are taking money from
+
+00:43:54.800 --> 00:43:59.440
+[Amit Varma]: everybody, not just people who pay income tax, by the way, every Indian pays taxes,
+
+00:43:59.440 --> 00:44:03.960
+[Amit Varma]: even the beggar at the traffic signal pays taxes, even your domestic help, they pay taxes
+
+00:44:03.960 --> 00:44:09.000
+[Amit Varma]: when they buy salt or when they buy a sachet of soap. So everyone pays taxes. So what we
+
+00:44:09.000 --> 00:44:13.200
+[Amit Varma]: really do is we take taxes from everyone, and then we give some of it back and say,
+
+00:44:13.200 --> 00:44:18.600
+[Amit Varma]: hey, we are putting money in your hands. Why not leave some of it with them? Is that something
+
+00:44:18.600 --> 00:44:19.600
+[Guest]: that makes sense?
+
+00:44:19.600 --> 00:44:23.720
+[Guest]: Of course. So, you know, one of the things that happened in September last year was that
+
+00:44:23.720 --> 00:44:29.800
+[Guest]: the government cut the corporate income tax rate majorly. And while I understood, you
+
+00:44:29.800 --> 00:44:33.480
+[Guest]: know, the reasoning behind why they did that, you know, they essentially wanted Indian corporates
+
+00:44:33.480 --> 00:44:40.120
+[Guest]: to be able to compete with, you know, companies which operate outside India. But I think what
+
+00:44:40.120 --> 00:44:45.520
+[Guest]: they should have actually done at that point of time was cut income tax rates and put more
+
+00:44:45.520 --> 00:44:50.640
+[Guest]: money in the hands of people. Now, you know, the conventional argument against this point
+
+00:44:50.640 --> 00:44:55.640
+[Guest]: is that how many people pay income tax, which is true. A large section of Indian population
+
+00:44:55.640 --> 00:45:01.320
+[Guest]: does not pay income tax. But the point is that, you know, it is the people who pay income
+
+00:45:01.320 --> 00:45:05.520
+[Guest]: tax have a lot of purchasing power in this country, right? I mean, they're basically
+
+00:45:05.520 --> 00:45:10.600
+[Guest]: the best of the lot. So when you put money in their hands, the chances that they'll go
+
+00:45:10.600 --> 00:45:17.080
+[Guest]: out and spend that money are a lot better. And as, you know, I said earlier, you know,
+
+00:45:17.080 --> 00:45:22.120
+[Guest]: generally one man's spending is another man's income. And so that would have had some sort
+
+00:45:22.120 --> 00:45:27.400
+[Guest]: of a multiplier effect on the Indian economy and would have helped us in some way. And
+
+00:45:27.400 --> 00:45:31.000
+[Guest]: it would have also helped the government because, you know, what you essentially, you know,
+
+00:45:31.000 --> 00:45:37.000
+[Guest]: you lose out in the form of tax that you collect per individual, you more than make up for
+
+00:45:37.000 --> 00:45:42.840
+[Guest]: it in other ways. So when people consume more, your chances of earning goods and services
+
+00:45:42.840 --> 00:45:48.040
+[Guest]: tax goes up. When people consume more, companies produce more. So your chances of earning excise
+
+00:45:48.040 --> 00:45:53.880
+[Guest]: duty go up. You know, so it would have sort of made sense at that point of time to cut
+
+00:45:53.880 --> 00:45:58.600
+[Guest]: the income tax, personal income tax rate, but that wasn't really done. Now, so one of
+
+00:45:58.600 --> 00:46:03.960
+[Guest]: the pieces I had recently written for the Mint and, you know, in that I had essentially
+
+00:46:03.960 --> 00:46:13.400
+[Guest]: suggested that the government should cut the GST rate on automobiles by 10%. I mean, that
+
+00:46:13.400 --> 00:46:18.920
+[Guest]: would be a good chunk that would lead to, you know, prices coming down majorly and the
+
+00:46:18.920 --> 00:46:25.000
+[Guest]: chances of, you know, people buying, you know, more automobiles at a lower price are significantly
+
+00:46:25.000 --> 00:46:31.320
+[Guest]: better. And again, what the government would have lost in terms of the GST it collects
+
+00:46:31.320 --> 00:46:36.920
+[Guest]: per vehicle, it would have more per unit sale of per vehicle that is sold. It would have
+
+00:46:36.920 --> 00:46:42.600
+[Guest]: more than made up for it, you know, in terms of volume. Also, what would have happened
+
+00:46:42.600 --> 00:46:48.040
+[Guest]: is that, you know, there would have been this huge multiplier effect. You know, automobile
+
+00:46:48.040 --> 00:46:52.600
+[Guest]: companies don't make everything on their own. I mean, there are auto ancillary units. So,
+
+00:46:52.600 --> 00:46:57.000
+[Guest]: you know, like car steerings would probably be made by some other company, tires would
+
+00:46:57.000 --> 00:47:01.320
+[Guest]: come from someone else, steel would come from someone, some other company, rubber would
+
+00:47:01.320 --> 00:47:05.640
+[Guest]: come from some other company, so on and so forth. I mean, I'm not an automobile expert,
+
+00:47:05.640 --> 00:47:11.400
+[Guest]: but this is generally what I understand. So, once you get the auto sector going, you also
+
+00:47:11.400 --> 00:47:17.560
+[Guest]: get the auto ancillary sector going. So, there are huge, what economists call backward linkages.
+
+00:47:17.560 --> 00:47:24.760
+[Guest]: Then, you know, the auto ancillary sector employs a lot of contract workers. So, that
+
+00:47:24.760 --> 00:47:29.960
+[Guest]: would have helped, their incomes would have gone up, you know, vis-a-vis the situation
+
+00:47:29.960 --> 00:47:36.280
+[Guest]: now. And I mean, then they would have consumed, it would have impacted GST. And so, you know,
+
+00:47:36.280 --> 00:47:44.280
+[Guest]: so this I think is a good way of quickly putting more money into the hands of people and getting
+
+00:47:44.280 --> 00:47:51.000
+[Guest]: a large manufacturing sector going. And the multiplier effects, again, will be very decent
+
+00:47:51.000 --> 00:47:56.200
+[Guest]: in this case. But I don't know whether this will, you know, I don't see this happening really.
+
+00:47:56.200 --> 00:48:00.520
+[Amit Varma]: Yeah, my other two questions are kind of related. So, I will kind of ask them together that when
+
+00:48:00.520 --> 00:48:05.560
+[Amit Varma]: we talk about putting money in the hands of people and that helping, you know, however,
+
+00:48:05.560 --> 00:48:11.400
+[Amit Varma]: we choose to do that, whatever the mechanics of that is, my question is twofold. Number one is
+
+00:48:11.400 --> 00:48:15.960
+[Amit Varma]: that, will it really help if they don't go out and spend it and partly they may not go out and
+
+00:48:15.960 --> 00:48:20.040
+[Amit Varma]: spend it because they can't, because there is still a part lockdown and so on. And partly,
+
+00:48:20.040 --> 00:48:24.200
+[Amit Varma]: they may not go out and spend it because they are pessimistic and because there is, so to say,
+
+00:48:24.200 --> 00:48:29.400
+[Amit Varma]: a mental lockdown and a rational and justified one. That's, yeah, in fact, you go with this first
+
+00:48:29.400 --> 00:48:33.880
+[Guest]: and then I'll go to the next one. So, I think, you know, it's a very valid point. And I really
+
+00:48:33.880 --> 00:48:41.080
+[Guest]: don't have a straightforward answer for it. But what I can say is that, you know, this is a risk
+
+00:48:41.080 --> 00:48:46.120
+[Guest]: essentially worth taking for the government. In fact, there's a beautiful line in this book that
+
+00:48:46.120 --> 00:48:52.440
+[Guest]: I read recently called Radical Uncertainty by John Kay and Mervyn King, both famous British
+
+00:48:52.440 --> 00:48:58.360
+[Guest]: economists. I mean, John Kay was one of the most widely read columnists of the Financial Times and
+
+00:48:58.360 --> 00:49:03.960
+[Guest]: you know, a very well-known economist and Mervyn King was the governor of Bank of England. And
+
+00:49:03.960 --> 00:49:08.760
+[Guest]: there is a very, you know, this is a brief line in that book, which says that real governments do
+
+00:49:08.760 --> 00:49:16.760
+[Guest]: not optimise, they cope. Okay. And I think this is just the time to do that. You know, you have to
+
+00:49:16.760 --> 00:49:23.880
+[Guest]: sort of take some of these decisions, which, you know, what you call a calculated risk, basically.
+
+00:49:23.880 --> 00:49:29.400
+[Guest]: So, I think it's a calculated risk and see, anyway, they're not making any money out of,
+
+00:49:30.040 --> 00:49:34.840
+[Guest]: you know, GST and vehicle sales. So, this is something that can be tried and, you know,
+
+00:49:34.840 --> 00:49:40.120
+[Guest]: I think it should work. So, and see, there are no, you know, in economics, that's what
+
+00:49:40.120 --> 00:49:45.480
+[Guest]: makes economics so interesting. And that's why so many economists get it wrong when they forecast
+
+00:49:45.480 --> 00:49:49.800
+[Guest]: things, because, you know, ultimately economics is not something where you can actually carry out an
+
+00:49:49.800 --> 00:49:54.520
+[Guest]: experiment in a lab. I mean, it's all out there in the real world. So, yeah.
+
+00:49:54.520 --> 00:49:59.080
+[Amit Varma]: And also you think probabilistically. So, just because you say something has a 55% chance of
+
+00:49:59.080 --> 00:50:03.480
+[Amit Varma]: happening and the other thing happens, that doesn't mean you were wrong. You know, the world
+
+00:50:03.480 --> 00:50:07.720
+[Amit Varma]: is probabilistic and that's how it goes. And that's a lovely quote. And you know, it reminds me
+
+00:50:07.720 --> 00:50:12.120
+[Amit Varma]: of that old cliche about not letting the perfect be the enemy of the good. And it strikes me that
+
+00:50:12.120 --> 00:50:15.960
+[Amit Varma]: one reason that governments can't optimize and have to cope is because of state capacity
+
+00:50:15.960 --> 00:50:20.040
+[Amit Varma]: constraints and all that. How much can you do? What can you do within the bounds of that? What
+
+00:50:20.040 --> 00:50:25.560
+[Amit Varma]: is worth trying? You know, and you need to think probabilistically about that. Though I think the
+
+00:50:25.560 --> 00:50:30.760
+[Amit Varma]: objection per se that people won't go out and spend seems to me to be to have a certain amount
+
+00:50:30.760 --> 00:50:37.720
+[Guest]: of validity to it. My third question. Here's the thing, Amit. You know, I'll answer this
+
+00:50:37.720 --> 00:50:45.960
+[Guest]: question in slight detail. See, ultimately, you know, the problem is that a lot of people speak
+
+00:50:45.960 --> 00:50:54.280
+[Guest]: about economics and the solutions it has to offer in a very confident sort of way. Okay. But that
+
+00:50:54.280 --> 00:50:59.480
+[Guest]: does not mean that economics has all the solutions, you know. And especially in an Indian case,
+
+00:50:59.480 --> 00:51:06.280
+[Guest]: you know, the problem is that we have been brought up writing exams where there is a right answer
+
+00:51:06.280 --> 00:51:12.360
+[Guest]: and a wrong answer, right? But life is not like that. You know, there are right answers which can
+
+00:51:12.360 --> 00:51:18.280
+[Guest]: become wrong answers and there are wrong answers which can become right answers. So, you know,
+
+00:51:18.280 --> 00:51:23.800
+[Guest]: I mean, I'm just, I mean, I won't go into detail here, but if anyone wants to understand what I
+
+00:51:23.800 --> 00:51:29.960
+[Guest]: just said in a little more detail, they should try reading Ram Gopal Varma's book called Guns
+
+00:51:29.960 --> 00:51:36.840
+[Guest]: and Thighs. He explains this very, very beautifully in that book. And the example that he uses is that
+
+00:51:36.840 --> 00:51:43.560
+[Guest]: of a cousin of his who basically did all the thinking and opened up a liquor shop. And his
+
+00:51:43.560 --> 00:51:47.720
+[Guest]: thinking seemed all right, you know, when they sort of were thinking about the entire thing,
+
+00:51:47.720 --> 00:51:52.200
+[Guest]: it just seemed like a beautiful thing to do. But when he opened it, it just bombed.
+
+00:51:52.200 --> 00:51:59.240
+[Guest]: Whereas Ram Gopal Varma opened a video rental shop without really thinking and it just took
+
+00:51:59.240 --> 00:52:04.520
+[Guest]: off. So the point I'm trying to make here is that, you know, economics does not have all the
+
+00:52:04.520 --> 00:52:09.800
+[Guest]: solutions. I mean, and it's just that a lot of economists talk about solutions in a very
+
+00:52:09.800 --> 00:52:15.080
+[Guest]: confident sort of way and people are looking for solutions. So, and this is a complaint that I,
+
+00:52:15.080 --> 00:52:19.880
+[Guest]: you know, get regularly on Twitter that you don't tell the solution. But I mean, the point is,
+
+00:52:19.880 --> 00:52:26.600
+[Amit Varma]: you know, there should be a solution. Very wise words. And actually, I must say that all the
+
+00:52:26.600 --> 00:52:31.000
+[Amit Varma]: good economists I know, and many of them have come on the show are actually pretty nuanced,
+
+00:52:31.000 --> 00:52:36.520
+[Amit Varma]: but you are right that there are a lot of, I mean, there are a lot of WhatsApp economists,
+
+00:52:36.520 --> 00:52:41.160
+[Guest]: in fact, who exude so much. Especially if you follow, you know, these people on,
+
+00:52:41.960 --> 00:52:47.640
+[Guest]: a lot of them on Twitter and a lot of them on TV, you should see an economist economist,
+
+00:52:47.640 --> 00:52:52.600
+[Guest]: you know, someone who studied economics and, and probably has a PhD or something will always be
+
+00:52:52.600 --> 00:52:57.960
+[Guest]: nuanced, but a financial economist, you know, someone who's sort of may have studied economics,
+
+00:52:57.960 --> 00:53:04.280
+[Guest]: may not have studied economics, but has, is making money out of the stock market or is making money
+
+00:53:04.280 --> 00:53:09.320
+[Guest]: in some way out of the financial system. He has to be confident about what he says. He cannot be
+
+00:53:09.320 --> 00:53:14.520
+[Amit Varma]: nuanced. Yeah. And the two points to note is that one, the field that he's done well in is actually
+
+00:53:14.520 --> 00:53:19.160
+[Amit Varma]: very different from this field that he's pontificating about. And two, that he might have
+
+00:53:19.160 --> 00:53:22.600
+[Amit Varma]: been lucky in that field, like in the stock market, there's something called the survivorship bias,
+
+00:53:22.600 --> 00:53:28.840
+[Amit Varma]: which often leads to that. The other sort of quick point I'd like to add on before I get to that much
+
+00:53:28.840 --> 00:53:35.480
+[Amit Varma]: awaited third question is, you know, one thing that it's easy to do with more certainty than
+
+00:53:35.480 --> 00:53:41.000
+[Amit Varma]: the opposite of it is talk about what can go wrong, what is a bad policy or what is a bad economic
+
+00:53:41.000 --> 00:53:45.800
+[Amit Varma]: decision? Like, it's very difficult to say right now, how do we come out of this, that assumption
+
+00:53:45.800 --> 00:53:49.960
+[Amit Varma]: that there is some solution, which brings us out of this, that all problems have a solution,
+
+00:53:49.960 --> 00:53:54.840
+[Amit Varma]: as you pointed out is not true. And perhaps are, you know, multiple choice questions or the right
+
+00:53:54.840 --> 00:53:59.400
+[Amit Varma]: or wrong question answer framework that we are trained to think in a school is responsible for
+
+00:53:59.400 --> 00:54:05.000
+[Amit Varma]: us thinking that way. But it is possible to point out with great certainty, what is the wrong policy
+
+00:54:05.000 --> 00:54:12.120
+[Amit Varma]: to take, for example, you know, Nehru's great fan, Narendra Modi is, you know, replicating many of
+
+00:54:12.120 --> 00:54:16.280
+[Amit Varma]: Nehru's economic ideas. In fact, he's, you know, leaving aside Nehru's good ideas and replicating
+
+00:54:16.280 --> 00:54:21.480
+[Amit Varma]: the bad ones like import substitution in this whole boycott China nonsense. And that I think
+
+00:54:21.480 --> 00:54:27.240
+[Amit Varma]: any economist can confidently say, it's rubbish is just going down the wrong path, because we have
+
+00:54:27.240 --> 00:54:32.200
+[Amit Varma]: all the lessons of history to teach us that. But we'll discuss that later, you know, after we take
+
+00:54:32.200 --> 00:54:37.000
+[Amit Varma]: the break and all that, while we are still on the thread of putting money in the hands of people,
+
+00:54:37.000 --> 00:54:43.080
+[Amit Varma]: such a delightful thought. My final question based on that is that one objection that is
+
+00:54:43.080 --> 00:54:47.480
+[Amit Varma]: sometimes raised to that is that, look, you can put money in the hands of people. But what the
+
+00:54:47.480 --> 00:54:53.720
+[Amit Varma]: lockdown has also done is that is disrupted, if not destroyed supply chains of companies throughout
+
+00:54:53.720 --> 00:54:59.720
+[Amit Varma]: the country. And therefore, if there aren't the number of goods and services out there are much
+
+00:54:59.720 --> 00:55:05.800
+[Amit Varma]: less. So even if you put more money in the hands of people, even if they can overcome all the you
+
+00:55:05.800 --> 00:55:10.200
+[Amit Varma]: know, the psychological barriers, it's just that there are less businesses out there and less
+
+00:55:10.200 --> 00:55:13.320
+[Amit Varma]: things being sold out there, especially in the non-discretionary space.
+
+00:55:13.320 --> 00:55:17.480
+[Guest]: Yeah, I mean, so again, you know, the answer to this question was will be the same as the last
+
+00:55:17.480 --> 00:55:23.160
+[Guest]: question. I mean, ultimately, there are things that you can try. And I mean, if they don't work,
+
+00:55:23.160 --> 00:55:27.480
+[Guest]: they don't work. I mean, what do you do about it? And this again, you know, this again is also
+
+00:55:27.480 --> 00:55:34.440
+[Guest]: a reflection on our limited state capacity. It is also a reflection on how, you know,
+
+00:55:34.440 --> 00:55:39.160
+[Guest]: how we implement things like, you know, the difference between essential and non-essential.
+
+00:55:39.160 --> 00:55:44.360
+[Guest]: Okay. So I find this extremely fascinating. You know, someone should sit and I mean,
+
+00:55:44.360 --> 00:55:49.640
+[Guest]: it would make for a wonderful satire on the Indian economy that, okay. Now, I mean,
+
+00:55:49.640 --> 00:55:56.600
+[Guest]: I'll give you a very brief example. What is essential is my kirana shop guy. He's essential.
+
+00:55:56.600 --> 00:56:05.480
+[Guest]: Okay. But what is non-essential is the tempo in which stuff will be delivered to him from the
+
+00:56:05.480 --> 00:56:12.040
+[Guest]: distributor. Okay. So how is he going to supply, right? He will eventually run out of stuff. And
+
+00:56:12.040 --> 00:56:16.360
+[Guest]: which is precisely what happened in the first few weeks where they tried to figure out the difference
+
+00:56:16.360 --> 00:56:21.640
+[Guest]: between what is essential, what is non-essential. And then they tried to issue a pass. And then
+
+00:56:21.640 --> 00:56:27.720
+[Guest]: they finally said, okay, let all trucks move between States. Now, you know, so which is how,
+
+00:56:27.720 --> 00:56:31.320
+[Guest]: you know, I mean, so which is also, you know, which is, which is a big problem because, you
+
+00:56:31.320 --> 00:56:35.720
+[Guest]: know, you put money in the hands of people and then at the same time come up with rules and
+
+00:56:35.720 --> 00:56:40.920
+[Guest]: regulations, which essentially destroy the supply chain that is in place then.
+
+00:56:40.920 --> 00:56:44.920
+[Amit Varma]: No. And in fact, to add to your example, you know, that can go much further down the line
+
+00:56:44.920 --> 00:56:49.320
+[Guest]: endlessly, for example. Oh, of course. I mean, we can keep going on with this. I mean, I just
+
+00:56:49.320 --> 00:56:53.160
+[Amit Varma]: stopped it at the second level. So, yeah, we stopped it at the second level of the truck.
+
+00:56:53.160 --> 00:56:57.080
+[Amit Varma]: But the point is, if you then decide, let the truck go, you know, for many days, there were
+
+00:56:57.080 --> 00:57:02.920
+[Amit Varma]: jams on the highway because truck drivers abandoned the trucks because they could not get food to eat
+
+00:57:02.920 --> 00:57:07.800
+[Amit Varma]: because the dhabas were considered inessential and not allowed to operate. So if you really
+
+00:57:07.800 --> 00:57:12.600
+[Amit Varma]: look at the whole circle of the economy, everything is essential in some way or the other.
+
+00:57:13.480 --> 00:57:17.240
+[Guest]: You know, today morning, there was this WhatsApp forward going around and I don't,
+
+00:57:17.240 --> 00:57:23.160
+[Guest]: I mean, it basically showed this bus stand in Bhayandar. Bhayandar is a suburb of,
+
+00:57:24.280 --> 00:57:30.920
+[Guest]: you know, Mumbai. The line for that bus ran it to at least two to three kilometers. So,
+
+00:57:30.920 --> 00:57:37.000
+[Guest]: you know, there was a three kilometer line to get onto a bus. So the buses are being run right now,
+
+00:57:37.000 --> 00:57:43.320
+[Guest]: but the trains aren't. And this is when only a limited, very small part of the population has to
+
+00:57:43.320 --> 00:57:52.360
+[Guest]: go to office. So it's very difficult to, you know, shut down, let only parts of the economy operate.
+
+00:57:52.360 --> 00:57:56.040
+[Guest]: I mean, because if you do that, then obviously there will be other problems which will keep
+
+00:57:56.040 --> 00:58:00.760
+[Guest]: cropping up all the time. But if you open it up totally, then obviously there is, you know,
+
+00:58:00.760 --> 00:58:04.680
+[Guest]: there's a huge other problem to deal with. So, which is why I said, you know, economics doesn't
+
+00:58:04.680 --> 00:58:10.200
+[Guest]: have all the solutions or doesn't have solutions all the time. Yeah, I mean, if a planet sized
+
+00:58:10.200 --> 00:58:15.160
+[Amit Varma]: asteroid comes and hits our planet, then what solutions are economists going to find? The world
+
+00:58:15.160 --> 00:58:21.000
+[Amit Varma]: is a complex place. And at times, like, you know, 2020, so much has been happening that the dominant
+
+00:58:21.000 --> 00:58:25.160
+[Amit Varma]: sentiment in the minds of many people must be, hey, give me a break. And guess what, dear listener,
+
+00:58:25.160 --> 00:58:29.240
+[Amit Varma]: we are going to do just that. We are going to give you a break. See you in about 60 seconds.
+
+00:58:31.560 --> 00:58:35.720
+[Amit Varma]: If you enjoy listening to The Scene and The Unseen, you can play a part in keeping the show
+
+00:58:35.720 --> 00:58:41.000
+[Amit Varma]: alive. The Scene and The Unseen has been a labour of love for me. I've enjoyed putting together many
+
+00:58:41.000 --> 00:58:46.520
+[Amit Varma]: stimulating conversations, expanding my brain and my universe, and hopefully yours as well.
+
+00:58:46.520 --> 00:58:51.400
+[Amit Varma]: But while the work has been its own reward, I don't actually make much money off the show.
+
+00:58:51.400 --> 00:58:55.880
+[Amit Varma]: Although The Scene and The Unseen has great numbers, advertisers haven't really woken up
+
+00:58:55.880 --> 00:59:01.560
+[Amit Varma]: to the insane engagement level of podcasts. I do many, many hours of deep research for each episode,
+
+00:59:01.560 --> 00:59:07.640
+[Amit Varma]: besides all the logistics of producing the show myself, scheduling guests, booking studios,
+
+00:59:07.640 --> 00:59:13.320
+[Amit Varma]: paying technicians, the travel and so on. So well, I'm trying a new way of keeping this thing going.
+
+00:59:13.320 --> 00:59:19.240
+[Amit Varma]: And that involves you. My proposition for you is this. For every episode of The Scene and The Unseen
+
+00:59:19.240 --> 00:59:24.680
+[Amit Varma]: that you enjoy, buy me a cup of coffee, or even a lavish lunch, whatever you feel it's worth.
+
+00:59:24.680 --> 00:59:30.920
+[Amit Varma]: You can do this by heading over to sceneunseen.in slash support and contributing an amount of your
+
+00:59:30.920 --> 00:59:36.920
+[Amit Varma]: choice. This is not a subscription. The Scene and The Unseen will continue to be free on all
+
+00:59:36.920 --> 00:59:43.160
+[Amit Varma]: podcast apps and at sceneunseen.in. This is just a gesture of appreciation.
+
+00:59:43.160 --> 00:59:47.640
+[Amit Varma]: Help keep this thing going. sceneunseen.in slash support.
+
+00:59:50.360 --> 00:59:55.960
+[Amit Varma]: Welcome back to The Scene and The Unseen. I'm chatting with Vivek Kaul about the Indian economy
+
+00:59:55.960 --> 01:00:00.680
+[Amit Varma]: in the times of COVID. And you know, before the break, you did that thing you typically do
+
+01:00:00.680 --> 01:00:05.880
+[Amit Varma]: problems, problems, problems, problems. And as they ask you on Twitter, where are the solutions,
+
+01:00:05.880 --> 01:00:10.600
+[Amit Varma]: Mr. Kaul? So I mean, obviously, you and I don't really have any solutions per se,
+
+01:00:10.600 --> 01:00:15.000
+[Amit Varma]: though we can probabilistically point out things that may work and may not work.
+
+01:00:15.000 --> 01:00:20.680
+[Amit Varma]: But when we talk about sort of the different solutions that there are for what the government
+
+01:00:20.680 --> 01:00:26.200
+[Amit Varma]: should do to lessen some of the pain, because this is not a problem you're going to solve.
+
+01:00:26.200 --> 01:00:32.520
+[Amit Varma]: Can you take me through sort of the different options that have been proposed by many and
+
+01:00:33.160 --> 01:00:37.160
+[Amit Varma]: your personal thoughts on them? For example, recently, the government came out with this
+
+01:00:37.160 --> 01:00:42.760
+[Amit Varma]: rescue package where they said, Oh, we will spend 20 lakh crore. And, you know, there was much
+
+01:00:42.760 --> 01:00:46.200
+[Amit Varma]: feverish applause. And you wrote a very interesting piece, which would, of course,
+
+01:00:46.200 --> 01:00:50.840
+[Amit Varma]: like all your pieces be which are you've written about COVID be linked from the show notes,
+
+01:00:50.840 --> 01:00:55.720
+[Amit Varma]: where the headline was six reasons why the fiscal package is more about putting people's
+
+01:00:55.720 --> 01:01:01.480
+[Amit Varma]: own money into their hands than actually kickstarting crippled economy. So take me
+
+01:01:01.480 --> 01:01:06.120
+[Guest]: through your thinking on this. Yeah, so you know, when when do editors give such long convoluted
+
+01:01:06.120 --> 01:01:11.400
+[Guest]: headlines? It feels like a very buzzfeed-y, clickbait-y kind of thing, right? No, no, no,
+
+01:01:11.400 --> 01:01:16.040
+[Guest]: when they obviously don't want to get into any trouble, right? So it's a very long headline,
+
+01:01:17.000 --> 01:01:22.440
+[Guest]: which doesn't really mean anything. Okay, so basically, you know what I had written in this
+
+01:01:22.440 --> 01:01:30.600
+[Guest]: piece, and another piece that I wrote for The Mint was that, you know, how the government's package
+
+01:01:31.240 --> 01:01:37.960
+[Guest]: was, you know, like the old newspaper trick, which, you know, which, which I learned very
+
+01:01:37.960 --> 01:01:44.440
+[Guest]: early when once I started working in the media was that, you know, think of the headline first,
+
+01:01:44.440 --> 01:01:50.680
+[Guest]: okay? This is something that all good editors, old editors would tell you that think before you
+
+01:01:50.680 --> 01:01:56.760
+[Guest]: start writing, think of the headline first, and then write everything justifying the headline.
+
+01:01:56.760 --> 01:02:01.960
+[Guest]: So the government's 20 lakh crore package was a bit like that. So they first thought of this
+
+01:02:01.960 --> 01:02:08.120
+[Guest]: one big number, large number, which was 20 lakh crore, 10% of the GDP as the Indian GDP is around
+
+01:02:08.120 --> 01:02:14.440
+[Guest]: roughly 2 lakh crore. And then they went around ensuring that they, everything added up to 20
+
+01:02:14.440 --> 01:02:21.080
+[Guest]: lakh crore. Now, so first and foremost, it was a lot of people in the media called it a fiscal
+
+01:02:21.080 --> 01:02:28.120
+[Guest]: stimulus, called it an economic stimulus, which it largely was not. A fiscal stimulus is basically
+
+01:02:28.120 --> 01:02:35.400
+[Guest]: when the government spends more money or it puts money in the hands of people through a tax cut.
+
+01:02:35.400 --> 01:02:41.160
+[Guest]: So let me just give you a few very interesting examples on how the 20 lakh crore number was
+
+01:02:41.160 --> 01:02:46.680
+[Guest]: arrived at. In fact, by the time they finished adding it up, it was 20.97 lakh crore. So the,
+
+01:02:46.680 --> 01:02:50.360
+[Guest]: you know, the Ministry of Finance, you know, did really well on that front. So, you know,
+
+01:02:50.360 --> 01:02:55.800
+[Guest]: one of the first things that was announced was that the statutory provident fund contribution
+
+01:02:55.800 --> 01:03:02.280
+[Guest]: made both by the employee and the employer will be reduced to 10% of the salary. Normally it's 12%
+
+01:03:02.280 --> 01:03:09.400
+[Guest]: of the basic plus DA. So essentially this would add a liquidity support of 6,750 crore. Now,
+
+01:03:09.400 --> 01:03:16.200
+[Guest]: what does this mean? What it means is that I, you know, let's say I work for a company,
+
+01:03:16.200 --> 01:03:23.720
+[Guest]: I will contribute less to my PF and that money will come as a part of my salary and that,
+
+01:03:23.720 --> 01:03:29.880
+[Guest]: you know, I will spend in the economy. And then, you know, that is how the 6,750 crore
+
+01:03:29.880 --> 01:03:34.040
+[Guest]: number has been arrived at. Now, what has the government got to do with any of this? You know,
+
+01:03:34.040 --> 01:03:42.200
+[Guest]: how can this be a part of any package, right? I mean, it's my money. Instead of investing it into
+
+01:03:42.200 --> 01:03:47.560
+[Guest]: an employee's provident fund, I get that money in my hand and then I do whatever I choose to do with
+
+01:03:47.560 --> 01:03:53.080
+[Guest]: it. Also, because I'm getting that money in my hand, I pay a tax on it, okay? Whereas which
+
+01:03:53.080 --> 01:03:58.840
+[Guest]: wouldn't have happened when I invested money in the employee's provident fund. The other fancy
+
+01:03:58.840 --> 01:04:05.480
+[Guest]: move was the government cut the tax deducted at source and the tax collected at source by 25%.
+
+01:04:06.040 --> 01:04:11.720
+[Guest]: So if, let's say, you know, you have fixed deposits and at the moment the interest you
+
+01:04:11.720 --> 01:04:18.520
+[Guest]: earn on a fixed deposit goes over 10,000 rupees, the bank charges a 10, rather, you know, cuts
+
+01:04:18.520 --> 01:04:24.360
+[Guest]: 10% TDS, tax deducted at source. Now, what is tax deducted at source? It is essentially the
+
+01:04:24.360 --> 01:04:32.600
+[Guest]: government establishing an accounting trail. Now, if it is cut from 10% to 7.5%, what it means is
+
+01:04:32.600 --> 01:04:39.160
+[Guest]: that you get an extra 2.5% in your hands, but ultimately you have to pay tax, right? I mean,
+
+01:04:39.160 --> 01:04:45.560
+[Guest]: so there is no real, I mean, there's no money being put into your hand. Now, this move was
+
+01:04:45.560 --> 01:04:54.440
+[Guest]: expected to add, you know, 50,000 crore to the liquidity of the economy. So, my favourite example
+
+01:04:54.440 --> 01:05:01.880
+[Guest]: in this huge manipulation of numbers is something called as the Credit Link Subsidy Scheme for the
+
+01:05:01.880 --> 01:05:08.680
+[Guest]: middle income group. Now, this is essentially, you know, an interest subvention scheme offered on a
+
+01:05:08.680 --> 01:05:14.120
+[Guest]: certain size of a home loan. Now, what is an interest subvention scheme? An interest subvention
+
+01:05:14.120 --> 01:05:19.560
+[Guest]: scheme is a scheme in which the government pays a part of the interest that you're paying on the
+
+01:05:19.560 --> 01:05:24.600
+[Guest]: home loan. So, in this case, I think there are two parts. In one case, the government pays 3%
+
+01:05:24.600 --> 01:05:30.600
+[Guest]: interest. In the other case, it pays 4% interest. Anyway, so that's besides the point. So, in this
+
+01:05:30.600 --> 01:05:36.680
+[Guest]: case, the liquidity that is supposed to be added to the system is 70,000 crores. Now, what is
+
+01:05:36.680 --> 01:05:45.560
+[Guest]: happening here? What is happening here is that I take on a home loan and I put a down payment of
+
+01:05:45.560 --> 01:05:53.240
+[Guest]: whatever and then the government pays a part of my interest, okay. Now, if you look at the
+
+01:05:53.240 --> 01:05:57.960
+[Guest]: government's budget carefully, now, this was a scheme which was already there in the budget. It
+
+01:05:57.960 --> 01:06:02.200
+[Guest]: has been there for the last three years. So, I don't know why they said that, you know, we are
+
+01:06:02.200 --> 01:06:07.160
+[Guest]: extending it for 2020-21 because when they announced the budget, an allocation for this
+
+01:06:07.160 --> 01:06:13.160
+[Guest]: scheme was already there and the total allocation for this scheme in 2020-21 is just 500 crore
+
+01:06:13.160 --> 01:06:19.960
+[Guest]: rupees, okay. So, the government is actually spending 500 crore rupees and that 500 crores
+
+01:06:19.960 --> 01:06:25.640
+[Guest]: has essentially become 70,000 crores in the economic package. But that 70,000 crores is
+
+01:06:25.640 --> 01:06:31.320
+[Guest]: largely being spent by, you know, people wherein they sort of, you know, take a home loan or make
+
+01:06:31.320 --> 01:06:36.120
+[Guest]: a down payment and so on and so forth. Now, the interesting thing is that this scheme has been
+
+01:06:36.120 --> 01:06:43.160
+[Guest]: around for three years and in a three-year period, it has benefited 2,50,000 people, okay.
+
+01:06:43.880 --> 01:06:50.440
+[Guest]: Whereas this year, the government expects it to benefit 3,30,000 people. You know, it just goes,
+
+01:06:50.440 --> 01:06:57.160
+[Guest]: I mean, I find it extremely bizarre that when the economy was in an okay shape over a period of
+
+01:06:57.160 --> 01:07:03.800
+[Guest]: three years, only 2,50,000 people took the benefit of this scheme. But when the economy is expected
+
+01:07:03.800 --> 01:07:09.320
+[Guest]: to sort of, you know, get into big trouble this year, the government expects that 3,30,000 people
+
+01:07:09.320 --> 01:07:13.080
+[Guest]: will, you know, take on the benefit of this scheme. I mean, it's just beyond bizarre.
+
+01:07:13.080 --> 01:07:22.840
+[Guest]: Having said that, the biggest input, okay, into the 20.97 lakh crore package is, you know,
+
+01:07:22.840 --> 01:07:28.760
+[Guest]: comes from the RBI. So, the RBI input is a little over 8 lakh crore and it basically forms around
+
+01:07:28.760 --> 01:07:36.200
+[Guest]: 38% of the economic package. Now, what is the RBI's input? The RBI's input is the money that
+
+01:07:36.200 --> 01:07:42.120
+[Guest]: the RBI has put into the economy over the last few months. So, one thing that the RBI has done
+
+01:07:42.120 --> 01:07:48.200
+[Guest]: is that it's cut the cash reserve ratio from, I think, 4% to 3%. Now, cash reserve ratio is
+
+01:07:48.200 --> 01:07:54.360
+[Guest]: basically all the banks need to maintain a certain proportion of their deposits with the RBI. So,
+
+01:07:54.360 --> 01:08:00.520
+[Guest]: it used to be 4% earlier and it's now down to 3%. So, because of that, around 1,37,000 crore
+
+01:08:01.080 --> 01:08:06.600
+[Guest]: rupees have been released into the financial system. Other than that, the RBI has been buying
+
+01:08:06.600 --> 01:08:13.640
+[Guest]: bonds, it has cut the repo rate and so on and so forth. Now, the interesting thing is that the
+
+01:08:13.640 --> 01:08:20.200
+[Guest]: banks are actually not spending this money and, I mean, I haven't checked the data today but up
+
+01:08:20.200 --> 01:08:26.920
+[Guest]: until a few days back, more than 4 lakh crore that the banks had, 4 lakh crore rupees, were being
+
+01:08:26.920 --> 01:08:33.960
+[Guest]: deposited with the RBI because the banks had no use for that money. So, what that essentially means
+
+01:08:33.960 --> 01:08:41.240
+[Guest]: is that, you know, RBI is actually not adding liquidity to the system but is taking it out of
+
+01:08:41.240 --> 01:08:45.960
+[Guest]: the system, okay? Because banks are not, I mean, people are not borrowing, so banks are not lending.
+
+01:08:45.960 --> 01:08:51.320
+[Guest]: So, in that sense, instead of the 8 lakh crore number, the liquidity number which was added to
+
+01:08:51.320 --> 01:08:57.880
+[Guest]: the 21 lakh crore package, it had to be a negative entry of, you know, 4 to 5 lakh crore. I mean,
+
+01:08:57.880 --> 01:09:03.960
+[Guest]: I'm just taking the government's math a little forward. So, the point is, you know, a bulk of
+
+01:09:03.960 --> 01:09:10.920
+[Guest]: this so-called package was nothing but, you know, what we would call a good forward on WhatsApp
+
+01:09:10.920 --> 01:09:15.960
+[Guest]: University. Having said that, there were a few good points to it as well. One of the things that
+
+01:09:15.960 --> 01:09:22.040
+[Guest]: the government did pretty quickly was when they decided to put, you know, 500 rupees each for a
+
+01:09:22.040 --> 01:09:30.200
+[Guest]: period of three months into the accounts of all women Jan Dhan account holders. Then they also
+
+01:09:30.200 --> 01:09:35.960
+[Guest]: decided to increase the allocation to NARIGA, the Mahatma Gandhi National Rural Employment Guarantee
+
+01:09:35.960 --> 01:09:44.200
+[Guest]: Scheme from around, I think it was 61,000 crore to more than 1 lakh crore. There was also, you
+
+01:09:44.200 --> 01:09:50.040
+[Guest]: know, extra food was distributed through the public distribution system. So, there were a few
+
+01:09:50.040 --> 01:09:56.840
+[Guest]: genuine, you know, parts to the package, but a lot of it was just simply made up. I mean, as I said
+
+01:09:56.840 --> 01:10:02.040
+[Guest]: at the very beginning, it was, you know, think of the headline first. So, the Prime Minister thought
+
+01:10:02.040 --> 01:10:09.960
+[Guest]: of a nice, you know, good headline and the Ministry of Finance then worked on justifying that headline.
+
+01:10:09.960 --> 01:10:16.440
+[Amit Varma]: So, I have two digressive observations and one digressive question. And I should point out that
+
+01:10:16.440 --> 01:10:21.960
+[Amit Varma]: actually, if I wasn't being digressive, I would be transgressive of the custom of the seen and
+
+01:10:21.960 --> 01:10:27.320
+[Amit Varma]: the unseen where being digressive is common. One observation, of course, is that this sort of
+
+01:10:27.320 --> 01:10:32.200
+[Amit Varma]: advice that editors sometimes give to think of the headline first and write the piece is actually a
+
+01:10:32.200 --> 01:10:36.920
+[Amit Varma]: hack to sort of defeat the mental block of how do you structure it or what do you do. And that
+
+01:10:36.920 --> 01:10:43.800
+[Amit Varma]: typically, as an editor, I would frown upon people who have decided what a piece is about before
+
+01:10:43.800 --> 01:10:47.640
+[Amit Varma]: they start reading it or writing it because it means you've made up your mind and you're just
+
+01:10:47.640 --> 01:10:51.720
+[Amit Varma]: going to, you know, the confirmation bias comes into play and you're just going to do everything
+
+01:10:51.720 --> 01:10:56.040
+[Amit Varma]: that supports the conclusion you've already made. But of course, we know that. And can I just
+
+01:10:56.040 --> 01:11:01.400
+[Guest]: interrupt you here once? Yeah, sure. Okay. So, I, you know, I'm just taking your point forward,
+
+01:11:01.400 --> 01:11:07.960
+[Guest]: you know, I think as when you start working in journalism, it's probably good advice.
+
+01:11:07.960 --> 01:11:13.320
+[Guest]: But as you go along, and I'm talking from my experience, I think I find the concept of a
+
+01:11:13.320 --> 01:11:18.840
+[Guest]: headline very, very limiting now. Because, you know, sometimes the headline doesn't, it just
+
+01:11:18.840 --> 01:11:25.160
+[Guest]: can't say what you have said in, let's say, a 2000 word piece or even an 800, 900 piece can be
+
+01:11:25.160 --> 01:11:31.240
+[Guest]: pretty nuanced. So I find the concept of a headline very, very limiting now because the headline can
+
+01:11:31.240 --> 01:11:37.160
+[Guest]: just say, you know, it can just give you one point, but there might be, you know, many points
+
+01:11:37.160 --> 01:11:42.600
+[Guest]: that you're making in that piece itself. So, well, you know, as an editor, I would say that
+
+01:11:42.600 --> 01:11:48.280
+[Amit Varma]: if there's a good editor, then the headline can communicate some of the nuance or at least the
+
+01:11:48.280 --> 01:11:52.840
+[Amit Varma]: fact that there is nuance, but how many good editors are there. So by and large, I know that
+
+01:11:52.840 --> 01:11:58.200
+[Amit Varma]: most, there are so many headlines that are given by editors for pieces we write, which just
+
+01:11:58.200 --> 01:12:02.440
+[Guest]: completely sort of misappointment. I mean, I mean, I agree with what you're saying, but you know,
+
+01:12:02.440 --> 01:12:06.760
+[Guest]: I'm saying something which is slightly different. What I'm saying is that, you know, when I write,
+
+01:12:06.760 --> 01:12:12.040
+[Guest]: so I see, I write pieces of all sizes, you know, from 500 words to 3000, 4000 words.
+
+01:12:12.040 --> 01:12:16.680
+[Guest]: So if I'm writing something of, you know, which is like, let's say 400, 500 words in length,
+
+01:12:17.480 --> 01:12:21.000
+[Guest]: then the headline works pretty well. I mean, I'm not, there's no problem at all.
+
+01:12:21.000 --> 01:12:26.760
+[Guest]: But the moment I write a longish piece, I find the concept of a headline very, very
+
+01:12:26.760 --> 01:12:33.720
+[Guest]: limiting because even a very good editor cannot really, I mean, it's, it's just very limiting.
+
+01:12:33.720 --> 01:12:37.960
+[Guest]: I mean, because, you know, the headline typically ends up saying, you know, one or two things,
+
+01:12:37.960 --> 01:12:41.720
+[Guest]: whereas a long essay may not be just about one or two things.
+
+01:12:42.440 --> 01:12:46.760
+[Amit Varma]: Fair enough. That's a digression from a digression. I won't get into that, but I will assure our
+
+01:12:46.760 --> 01:12:52.440
+[Amit Varma]: listeners that in our forthcoming weekly podcast, Econ Central, there will be no headlines.
+
+01:12:52.440 --> 01:12:57.480
+[Amit Varma]: And also, you know, and on that headline point that because that can sometimes be a bad practice
+
+01:12:57.480 --> 01:13:03.000
+[Amit Varma]: for a journalist, it can also be a bad practice for a government as in this case, my second
+
+01:13:03.000 --> 01:13:10.120
+[Amit Varma]: digression would be that, you know, we keep lamenting the rise of WhatsApp economics and
+
+01:13:10.120 --> 01:13:14.360
+[Amit Varma]: the way these narratives are spread through WhatsApp and all that. And, you know, I have
+
+01:13:14.360 --> 01:13:19.000
+[Amit Varma]: been saying forever that this government doesn't care about governance, it cares about optics.
+
+01:13:19.000 --> 01:13:26.040
+[Amit Varma]: But there is one sense, if one may be contrarian, in which optics is useful and optics can change
+
+01:13:26.040 --> 01:13:32.680
+[Amit Varma]: reality, which is, as we spoke in the first part of the show, that, you know, the pessimism and
+
+01:13:32.680 --> 01:13:37.400
+[Amit Varma]: the kind of mindset that times are very hard and we must not spend can actually affect the
+
+01:13:37.400 --> 01:13:42.520
+[Amit Varma]: economy is rational at an individual level, but it can affect the economy. And if you constantly
+
+01:13:42.520 --> 01:13:46.760
+[Amit Varma]: have narratives spread out there and everything is sunny and everything is great and go out and
+
+01:13:46.760 --> 01:13:53.400
+[Amit Varma]: spend, then who knows, you know, that might go a little way towards making people a little
+
+01:13:53.400 --> 01:14:00.200
+[Guest]: less pessimistic. When the financial crisis of 2008 broke out. This is precisely what George
+
+01:14:00.200 --> 01:14:06.040
+[Guest]: Bush told the American economy. I mean, you know, go to Disneyland and and then spend money. So,
+
+01:14:06.040 --> 01:14:12.040
+[Amit Varma]: yep. And my digressive question now is before we get back to various solutions that have been
+
+01:14:12.040 --> 01:14:17.240
+[Amit Varma]: proposed for what the government can do various directions, rather, I want to take a digression
+
+01:14:17.240 --> 01:14:23.640
+[Amit Varma]: to ask about a topic on which you and I have done an episode together one of the first times I think
+
+01:14:23.640 --> 01:14:28.040
+[Amit Varma]: you came on the scene and the unseen, and which you just mentioned, which is real estate, where
+
+01:14:28.040 --> 01:14:32.520
+[Amit Varma]: you spoke about how one of the packages dealt with the interest on housing loans, and so on.
+
+01:14:32.520 --> 01:14:37.640
+[Amit Varma]: And the first thought that entered my mind was what housing loans bro, because the question that
+
+01:14:37.640 --> 01:14:43.240
+[Amit Varma]: we examined in that past episode, which will be linked from the show notes, was that the economy
+
+01:14:43.240 --> 01:14:48.200
+[Amit Varma]: is so bad and demand for housing has gone down. Typically, when demand for something goes down,
+
+01:14:48.200 --> 01:14:52.760
+[Amit Varma]: you know, prices reflect that and prices go down, but the prices weren't going down then.
+
+01:14:52.760 --> 01:14:58.600
+[Amit Varma]: And they don't seem to be going down now. So can you briefly, you know, for the benefit of
+
+01:14:58.600 --> 01:15:02.760
+[Amit Varma]: listeners who haven't heard that episode, and even you might have further insights,
+
+01:15:02.760 --> 01:15:08.040
+[Amit Varma]: since the time we recorded that talk about, yeah, what the hell is happening there? Nobody's buying,
+
+01:15:08.040 --> 01:15:13.240
+[Amit Varma]: but the prices remain high. How does that make sense? I think I wrote about this recently
+
+01:15:13.240 --> 01:15:18.920
+[Guest]: somewhere and I don't remember where but what essentially has happened to real estate is that
+
+01:15:18.920 --> 01:15:24.680
+[Guest]: one that there is no demand, but there is no supply also. Okay. And I mean, I'm talking in
+
+01:15:24.680 --> 01:15:29.640
+[Guest]: very, very general terms here, right? So why is there no supply? Because, you know, a lot of
+
+01:15:29.640 --> 01:15:33.640
+[Guest]: people who bought real estate as an investment, and I'm talking about the secondary market here,
+
+01:15:33.640 --> 01:15:38.360
+[Guest]: not the primary market, you know, secondary market where, you know, when an individual buys from
+
+01:15:38.360 --> 01:15:42.920
+[Guest]: another individual. So when it comes to that market, there are, you know, many people who
+
+01:15:42.920 --> 01:15:48.840
+[Guest]: bought homes over the years and there is a price fixed in their heads. Okay. It's like the anchoring
+
+01:15:48.840 --> 01:15:56.360
+[Guest]: effect that behavioral economists talk about and they want that price. Okay. And because they want
+
+01:15:56.360 --> 01:16:01.880
+[Guest]: that price and they're not going to get it, so there's no supply. And there's no supply and
+
+01:16:01.880 --> 01:16:06.280
+[Guest]: there's no demand. It's a sort of a very unique situation which economists normally don't talk
+
+01:16:06.280 --> 01:16:10.440
+[Amit Varma]: about. But that's a secondary market, right? I mean, what percentage of the overall market is
+
+01:16:10.440 --> 01:16:15.880
+[Guest]: this? I'll come to that. So, you know, in the primary market, what happens is that let's say
+
+01:16:15.880 --> 01:16:23.240
+[Guest]: a builder builds a building and he sells the initial homes at a certain price. Okay. Now,
+
+01:16:23.240 --> 01:16:29.880
+[Guest]: if he starts cutting price after he sold those initial, let's say 20-25% of the homes in that
+
+01:16:29.880 --> 01:16:37.160
+[Guest]: building, it doesn't go down well with the people who have already bought it. Right. And it spoils
+
+01:16:37.160 --> 01:16:43.640
+[Guest]: his narrative as well. But what is happening now, at least in Bombay, I mean, and I've spoken to a
+
+01:16:43.640 --> 01:16:50.280
+[Guest]: couple of guys about this, is that builders are willing to cut prices off the record.
+
+01:16:50.280 --> 01:16:55.720
+[Guest]: So, it essentially depends on how much money they need at a certain point of time. I mean,
+
+01:16:55.720 --> 01:17:05.080
+[Guest]: how desperate they are. And if you sort of, and if you look at, and in central Mumbai where I live,
+
+01:17:05.640 --> 01:17:12.360
+[Guest]: apartments are extremely expensive, 5 crore and upwards. But there have been examples of,
+
+01:17:12.360 --> 01:17:19.560
+[Guest]: you know, apartments which used to cost 5 crore have gone anywhere between 3.5 to 4 crore,
+
+01:17:19.560 --> 01:17:27.000
+[Guest]: which is a huge, if you look at it, it's a reasonably good price drop of almost 20-30%.
+
+01:17:27.960 --> 01:17:32.440
+[Guest]: Obviously, you know, the problem in India is, and again, this is something I've written about
+
+01:17:32.440 --> 01:17:41.000
+[Guest]: extensively, is that there is no real estate price which is available directly to all of us
+
+01:17:41.640 --> 01:17:46.920
+[Guest]: in the open market. So, let's say, you know, you stay in Warsaw and you want to buy a house in
+
+01:17:46.920 --> 01:17:54.840
+[Guest]: Warsaw. You want to buy a 2BHK in Warsaw, in a building which is a decade old. So, what is the
+
+01:17:54.840 --> 01:18:00.760
+[Guest]: price? Unless you sort of call up a broker, and then you talk to five brokers, and then you start
+
+01:18:00.760 --> 01:18:05.960
+[Guest]: getting a certain sense of price. And even then you're not sure as to whether you're getting the
+
+01:18:05.960 --> 01:18:11.800
+[Guest]: right price or not. So, that is a huge problem, because ultimately, if there is no market price,
+
+01:18:11.800 --> 01:18:15.960
+[Guest]: how does the market clear? So, that remains a huge problem. And also what has happened,
+
+01:18:15.960 --> 01:18:20.520
+[Guest]: and you know, I mean, I have some sympathy for builders also now, that what has happened over
+
+01:18:20.520 --> 01:18:26.920
+[Guest]: the years is that the one, the land prices are atrociously high. And two, the kind of
+
+01:18:27.560 --> 01:18:32.040
+[Guest]: charges that state governments, you know, have put on every real estate permission
+
+01:18:32.600 --> 01:18:38.600
+[Guest]: has basically killed the market. I mean, it's again, you know, in their greed to earn more and
+
+01:18:38.600 --> 01:18:43.880
+[Guest]: more money from every project, they have ended up killing the real estate market. So, it's not just
+
+01:18:43.880 --> 01:18:49.960
+[Guest]: black money and builders which are to be blamed, it is also politicians who, one is, I mean,
+
+01:18:49.960 --> 01:18:54.360
+[Guest]: and I'm talking about the money that the state government makes, not the bribes that get paid.
+
+01:18:54.360 --> 01:18:58.840
+[Guest]: So, the money that the state governments have tried to make from real estate is just
+
+01:18:58.840 --> 01:19:05.240
+[Guest]: astonishingly huge, and that has also ended up killing the market. Very, very interestingly,
+
+01:19:05.240 --> 01:19:11.320
+[Guest]: Piyush Goyal, I mean, there was a video of the minister going around, wherein he is seen asking
+
+01:19:11.320 --> 01:19:17.880
+[Guest]: the real estate industry to cut prices, okay. Now, the point is, I mean, it's okay, I mean,
+
+01:19:17.880 --> 01:19:22.280
+[Guest]: coming from a minister, that's fine, but, you know, ultimately, there is something that the
+
+01:19:22.280 --> 01:19:27.720
+[Guest]: government also needs to do. So, one of the simple things they can do is that in order to revive the
+
+01:19:27.720 --> 01:19:33.640
+[Guest]: market, the stamp duty that needs to be paid on every sale can be cut dramatically for the next
+
+01:19:33.640 --> 01:19:39.640
+[Guest]: couple of years, okay. I mean, I know it's not a huge, it varies from 5% to 7%, but then, I mean,
+
+01:19:39.640 --> 01:19:47.080
+[Guest]: you know, when the pricing is, you know, let's say even on a 50 lakh apartment, 2%, 3% cut has a,
+
+01:19:47.080 --> 01:19:52.120
+[Guest]: you know, it leaves a decently, you know, reasonably good amount in the hands of the
+
+01:19:52.120 --> 01:19:57.720
+[Guest]: prospective buyer. So, there are a lot of things that in order to get the real estate market going
+
+01:19:57.720 --> 01:20:02.920
+[Guest]: again, I mean, obviously, a lot of things need to happen at the level of the builders, because
+
+01:20:02.920 --> 01:20:07.880
+[Guest]: the trust that the buyers had in them has completely broken down, because a lot of them
+
+01:20:07.880 --> 01:20:13.720
+[Guest]: sold apartments and disappeared, a lot of them did not deliver on time. And at the other level,
+
+01:20:13.720 --> 01:20:19.960
+[Guest]: the state governments need to be reasonable about the kind of money they hope to earn from real
+
+01:20:19.960 --> 01:20:23.880
+[Amit Varma]: estate. And I think another measure that the government has is that, you know, they have a
+
+01:20:23.880 --> 01:20:30.360
+[Amit Varma]: law by which whatever their valuation of a property is, which is a fixed point, if the buyer pays
+
+01:20:30.360 --> 01:20:35.080
+[Amit Varma]: below that, they have to pay tax on the assumption that they paid the rest, which is supposedly to
+
+01:20:35.080 --> 01:20:40.440
+[Amit Varma]: cut down the use of black money. But the effect of that is that now prices cannot fall below that,
+
+01:20:40.440 --> 01:20:47.160
+[Amit Varma]: it's almost as if the government has set a floor below. So, it's not that the prices can't, what
+
+01:20:47.160 --> 01:20:51.560
+[Guest]: is happening now in some of the larger markets is that what you're talking about is the ready
+
+01:20:51.560 --> 01:20:56.840
+[Guest]: reckoner rate. So, ready reckoner rate is the rate on which you need to pay stamp duty. Okay.
+
+01:20:56.840 --> 01:21:02.440
+[Guest]: Now, in many large cities, the market price is actually lower than the rate of the ready
+
+01:21:02.440 --> 01:21:07.400
+[Guest]: reckoner rate. Now, what happens is in that case, the, you know, the difference between the market
+
+01:21:07.400 --> 01:21:12.600
+[Guest]: price and the ready reckoner rate gets added onto your income, and you need to pay tax on that
+
+01:21:12.600 --> 01:21:18.040
+[Guest]: income. So, what that does is it just, you know, the transactions in the market come to a complete
+
+01:21:18.040 --> 01:21:24.120
+[Guest]: standstill. So, what is important here is that the ready reckoner needs to keep pace with the market
+
+01:21:24.120 --> 01:21:28.600
+[Amit Varma]: price, which is not happening. Or maybe there doesn't need to be a ready reckoner for all those
+
+01:21:28.600 --> 01:21:33.720
+[Amit Varma]: people who have watched Bollywood films and look at builders as, you know, evil people, villains,
+
+01:21:34.280 --> 01:21:39.640
+[Amit Varma]: kindly note that we are all victims of the rapacious state. And I should also say that...
+
+01:21:39.640 --> 01:21:44.200
+[Guest]: But there is another, it's again a broader philosophical point. But I think it needs to
+
+01:21:44.200 --> 01:21:49.880
+[Guest]: be made, you know, when you when you look at real estate in India, there are very few big builders,
+
+01:21:49.880 --> 01:21:56.520
+[Guest]: right? And they specialize in a particular part of the country, like BLF is a Gurgaon Delhi builder,
+
+01:21:56.520 --> 01:22:02.360
+[Guest]: it tried coming to Mumbai, flopped, it tried going to Bangalore, flopped. In Mumbai, there are
+
+01:22:02.360 --> 01:22:08.920
+[Guest]: builders who operate in specific parts of the town. So, there you have Rizvi builders in Bandra,
+
+01:22:08.920 --> 01:22:14.360
+[Guest]: you have Oberoi in Goregaon, you know, you have Godrej in Vikroli. So, the point is that, you
+
+01:22:14.360 --> 01:22:21.080
+[Guest]: know, the regulatory system that you need to manage in order to be a builder is so complicated that
+
+01:22:21.080 --> 01:22:27.000
+[Guest]: you can only specialize in a very small part of the country. And that also, I mean,
+
+01:22:27.000 --> 01:22:31.400
+[Guest]: what that does is obviously it takes economies of scale out of the equation totally. So, you know,
+
+01:22:31.400 --> 01:22:36.280
+[Guest]: if you had a builder, forget a pan India builder, I mean, even if you had a pan Maharashtra builder,
+
+01:22:36.280 --> 01:22:41.320
+[Guest]: per se, I mean, that would have some, you know, you would have a much better negotiating power
+
+01:22:41.320 --> 01:22:45.160
+[Guest]: when it came to construction of homes. So, all that goes out of the equation.
+
+01:22:45.160 --> 01:22:49.400
+[Amit Varma]: That's a great point. And you keep talking about builders and buying homes and all of that. And I,
+
+01:22:49.400 --> 01:22:53.480
+[Amit Varma]: as you were saying that, I was thinking to myself, bas kar pagle, rolaega kya?
+
+01:22:53.480 --> 01:22:57.560
+[Guest]: No, I mean, the irony is I just keep talking, you know, I've no bottle.
+
+01:22:57.560 --> 01:23:01.960
+[Amit Varma]: Yeah, exactly. That's what I was saying that, you know, I would like to kind of inform all
+
+01:23:01.960 --> 01:23:07.800
+[Amit Varma]: our listeners that both Vivek and I live in rented houses. We cannot, yeah, we cannot afford to
+
+01:23:07.800 --> 01:23:13.800
+[Amit Varma]: actually own our own houses, either in the places we live or any other place for that matter.
+
+01:23:13.800 --> 01:23:18.920
+[Amit Varma]: Moving on to the sort of directions which people often propose for what the government can do,
+
+01:23:18.920 --> 01:23:23.880
+[Amit Varma]: and you know, there's borrowing money, printing money, the RBI doing this and that and blah,
+
+01:23:23.880 --> 01:23:27.400
+[Amit Varma]: blah, blah. Take me a little bit through some of them. I mean, let's start with,
+
+01:23:27.400 --> 01:23:30.920
+[Amit Varma]: it's almost become fashionable now to say, hey, the government should just print money.
+
+01:23:30.920 --> 01:23:36.200
+[Amit Varma]: And the, you know, just on the face of it, that sounds absurd to me, because we know that,
+
+01:23:36.200 --> 01:23:41.000
+[Amit Varma]: you know, if you print money, you increase the money supply, and that leads to inflation,
+
+01:23:41.000 --> 01:23:44.600
+[Amit Varma]: and that is a tax on the poor. And I just want to break it down in simple terms,
+
+01:23:44.600 --> 01:23:49.400
+[Amit Varma]: for people who may not have followed or studied that connection in the past, that if you print
+
+01:23:49.400 --> 01:23:54.600
+[Amit Varma]: money, you have more money chasing the same number of goods and services, and therefore naturally,
+
+01:23:54.600 --> 01:24:00.600
+[Amit Varma]: their price goes up. Who does this hurt? It hurts the poor, you know, it is disproportionately hard
+
+01:24:00.600 --> 01:24:06.200
+[Amit Varma]: on them, we the middle class can manage if, you know, a soap that was 10 rupees becomes 11 rupees,
+
+01:24:06.200 --> 01:24:12.040
+[Amit Varma]: which is why you sort of need, you can't just print money and spend money indiscriminately.
+
+01:24:12.040 --> 01:24:17.480
+[Amit Varma]: Otherwise, that would be a solution to everything. Now, one of the things that people who are now
+
+01:24:17.480 --> 01:24:22.120
+[Amit Varma]: saying print money is that a we need money to spend. And this is one solution. And hey,
+
+01:24:22.120 --> 01:24:27.800
+[Amit Varma]: inflation won't happen. Because anyway, people are not going to spend now. And all of that. But
+
+01:24:27.800 --> 01:24:32.120
+[Amit Varma]: I would say that in the long run, at some point or the other, it will still happen, even if you,
+
+01:24:32.120 --> 01:24:39.480
+[Amit Varma]: you know, have a flat curve now to use that popular phrase of these times. So tell me a
+
+01:24:39.480 --> 01:24:44.680
+[Amit Varma]: little bit about what the thinking is behind printing money, what the nuances are, and what
+
+01:24:44.680 --> 01:24:49.720
+[Guest]: are your personal thoughts on this? I mean, this is a question that I've been constantly thinking
+
+01:24:49.720 --> 01:24:54.920
+[Guest]: about over the last three months. And in my quest to understand it, there are, you know, two things
+
+01:24:54.920 --> 01:25:02.520
+[Guest]: that I read, I found very, very helpful. One is a book by a gentleman called Randall Ray. And he has
+
+01:25:02.520 --> 01:25:09.960
+[Guest]: written this book called Modern Money Theory, Primer on Macroeconomics for Sovereign Monetary Systems.
+
+01:25:09.960 --> 01:25:15.560
+[Guest]: It's not a very easy book to read. But I mean, in case you are interested in this entire,
+
+01:25:16.120 --> 01:25:21.000
+[Guest]: you know, people who essentially support money printing, you know, this is the book to read.
+
+01:25:21.000 --> 01:25:27.240
+[Guest]: Then there's obviously this long document that Dr. Raghuram Rajan wrote. That was also very
+
+01:25:27.240 --> 01:25:33.640
+[Guest]: helpful. So I mean, I'm sort of, you know, I'm still thinking about it. But Randall Ray's book
+
+01:25:33.640 --> 01:25:42.520
+[Guest]: was a huge eye opener. And so this is again, you know, he comes from this new macroeconomic school
+
+01:25:42.520 --> 01:25:50.600
+[Guest]: called the Modern Monetary Theory. And the Modern Monetary Theory essentially, you know, starts
+
+01:25:50.600 --> 01:25:57.560
+[Guest]: with the argument or rather with the question that why do people accept paper money? Okay.
+
+01:25:58.280 --> 01:26:02.680
+[Guest]: Now, the conventional answer for that has always been that, you know, you accept paper money
+
+01:26:02.680 --> 01:26:07.800
+[Guest]: because, you know, everyone else accepts it, right? But the Modern Monetary Theory guys don't
+
+01:26:07.800 --> 01:26:14.600
+[Guest]: agree with that answer. And their answer is, you know, it's slightly more nuanced. And I think it's
+
+01:26:14.600 --> 01:26:19.160
+[Guest]: important that we sort of go through this. And I'll sort of quote, you know, small portions out
+
+01:26:19.160 --> 01:26:25.160
+[Guest]: of Ray's book. So he says that the typical answer provided in textbooks is that you will accept a
+
+01:26:25.160 --> 01:26:30.200
+[Guest]: national currency because you know that others will accept it. In other words, it is accepted
+
+01:26:30.200 --> 01:26:36.600
+[Guest]: because it is accepted. The typical explanation does relies on an infinite regress. John accepts
+
+01:26:36.600 --> 01:26:41.960
+[Guest]: it because he thinks Mary will accept it. And she accepts it because she thinks Walmart will take it.
+
+01:26:41.960 --> 01:26:47.240
+[Guest]: So I accept a dollar because I think I can pass it along to dupe some dope, is what Ray says.
+
+01:26:47.240 --> 01:26:53.640
+[Guest]: But then, you know, what the Modern Monetary Theory guys say is that people accept a national
+
+01:26:53.640 --> 01:27:01.240
+[Guest]: currency because the government allows them to pay tax in that currency. Okay. So that is how
+
+01:27:01.240 --> 01:27:08.760
+[Guest]: they sort of legalize paper money. And so that's their argument. Now, what they go on to say is
+
+01:27:08.760 --> 01:27:18.600
+[Guest]: that in developed nations where the government forms a reasonably large proportion of the economy,
+
+01:27:18.600 --> 01:27:25.880
+[Guest]: the population is willing to accept more domestic currency than what is needed for tax payments.
+
+01:27:26.760 --> 01:27:31.160
+[Guest]: Okay. The normal case, and I mean, I'm quoting out of the book, the normal case, let us say,
+
+01:27:31.160 --> 01:27:37.080
+[Guest]: in the United States or the United Kingdom or Japan, is that anything for sale domestically
+
+01:27:37.080 --> 01:27:42.440
+[Guest]: is for sale in domestic currency. These sovereign governments never find that they cannot buy
+
+01:27:42.440 --> 01:27:47.560
+[Guest]: something by issuing their own currency. So the conclusion that they draw from this
+
+01:27:47.560 --> 01:27:55.880
+[Guest]: is that in developed nations, you know, money printing can happen and it does not necessarily
+
+01:27:55.880 --> 01:28:02.360
+[Guest]: lead to inflation. Okay. Having said that, even Ray acknowledges that, you know, you have to be
+
+01:28:02.360 --> 01:28:07.720
+[Guest]: careful that these principles do not imply that the government ought to spend without constraint.
+
+01:28:08.360 --> 01:28:13.240
+[Guest]: These principles also do not deny that too much spending by the government would be inflationary.
+
+01:28:13.240 --> 01:28:20.040
+[Guest]: Okay. So there is a certain school of thought which believes in money printing up to a certain
+
+01:28:20.040 --> 01:28:25.720
+[Guest]: extent, but they also don't believe in the fact that, you know, it can go on endlessly or that
+
+01:28:25.720 --> 01:28:32.040
+[Guest]: there won't be any problems with it. Now let's concentrate on the Indian case. Now in the Indian
+
+01:28:32.040 --> 01:28:39.240
+[Guest]: case, the first problem is that the government forms a very, not a very small part, but, you
+
+01:28:39.240 --> 01:28:46.520
+[Guest]: know, not a very big part of the Indian economy. So it sort of, you know, prints money and that
+
+01:28:46.520 --> 01:28:52.360
+[Guest]: leads to inflation. Chances are people will start moving away from the Indian rupee. And that is
+
+01:28:52.360 --> 01:28:59.400
+[Guest]: something that happened, you know, post 2008 when a significantly large proportion of the Indian
+
+01:28:59.400 --> 01:29:04.520
+[Guest]: population bought a lot of gold. Okay. And, you know, it was all essentially linked with the
+
+01:29:04.520 --> 01:29:10.040
+[Guest]: government spending too much money and people buying gold. So basically what works in a developed
+
+01:29:10.040 --> 01:29:15.240
+[Guest]: economy need not necessarily work in a developing economy like India is. You know, in India, there
+
+01:29:15.240 --> 01:29:21.560
+[Guest]: is a general tendency to avoid paying taxes. Hence, you know, unlike the developed countries,
+
+01:29:21.560 --> 01:29:26.040
+[Guest]: the Indian government cannot print money and spend it in the same way as governments in most
+
+01:29:26.040 --> 01:29:32.440
+[Guest]: developed nations can. An excellent example here is that of the US dollar. Okay. Between February
+
+01:29:32.440 --> 01:29:40.520
+[Guest]: 26th and I think May 22nd, the US Federal Reserve has printed close to 3 trillion dollars. Okay.
+
+01:29:41.160 --> 01:29:46.520
+[Guest]: So basically when they started printing money, their balance sheet size was around 4.2 trillion
+
+01:29:46.520 --> 01:29:52.120
+[Guest]: dollars and now their balance sheet size is close to 7.2 trillion dollars. So they print dollars
+
+01:29:52.120 --> 01:29:57.640
+[Guest]: and they pump that money into the financial system by buying bonds. And the idea is obviously to
+
+01:29:57.640 --> 01:30:03.720
+[Guest]: drive down interest rates so that people consume more money. Okay. Now the point that you need to
+
+01:30:03.720 --> 01:30:08.760
+[Guest]: understand here is that the US dollar is the international reserve currency. It is the
+
+01:30:08.760 --> 01:30:15.080
+[Guest]: international trading currency. It is also a safe haven. Right. So whenever there is a crisis in any
+
+01:30:15.080 --> 01:30:20.040
+[Guest]: part of the world, money moves from different parts of the world and it goes to the US. So
+
+01:30:20.040 --> 01:30:24.360
+[Guest]: there is a great demand for the US dollar. In fact, one of the interesting stories that I would
+
+01:30:24.360 --> 01:30:32.280
+[Guest]: like to recount here is that in August 2011, when the SNP downgraded the AAA rating of US dollar,
+
+01:30:32.280 --> 01:30:38.840
+[Guest]: money moved from all parts of the world to the US dollar. Okay. And that was the irony of it all. So
+
+01:30:38.840 --> 01:30:44.040
+[Guest]: people like holding to the US dollar and to a lesser degree, this is also true about the British
+
+01:30:44.040 --> 01:30:49.240
+[Guest]: pound, the Japanese yen, the euros, and the Canadian and the Australian dollars. The same is
+
+01:30:49.240 --> 01:30:54.600
+[Guest]: not true about the Indian rupee. No one really, you know, beyond a point, people do not want to
+
+01:30:54.600 --> 01:31:01.000
+[Guest]: hold the Indian rupee. So what will happen is that if there is even some sense of the RBI printing
+
+01:31:01.000 --> 01:31:07.160
+[Guest]: money and handing it directly to the government, the foreign money will all start moving out of
+
+01:31:07.160 --> 01:31:13.640
+[Guest]: India. And when that happens, there will be great pressure on the rupee, your bond yields will sort
+
+01:31:13.640 --> 01:31:20.280
+[Guest]: of go up dramatically. And generally, the macroeconomic environment will be disturbed. So
+
+01:31:20.280 --> 01:31:26.680
+[Guest]: it's not really a great idea for India to print money. Also, you know, it's worth remembering
+
+01:31:26.680 --> 01:31:34.280
+[Guest]: here that the RBI used to sort of monetize the central government deficit as late as 1997. So
+
+01:31:34.280 --> 01:31:39.320
+[Guest]: what that meant was that if the fiscal deficit of the government went beyond a certain level,
+
+01:31:39.320 --> 01:31:44.360
+[Guest]: the RBI will just print, you know, money and bring down the fiscal deficit. But since in 1997,
+
+01:31:44.360 --> 01:31:50.200
+[Guest]: the RBI entered into agreement with the government and it doesn't happen like that anymore. And
+
+01:31:50.200 --> 01:31:54.600
+[Guest]: because of that, what has happened is that, you know, interest rates sort of went up over the
+
+01:31:54.600 --> 01:32:00.760
+[Guest]: years and people actually saved a lot of money and that led to investments and that, you know,
+
+01:32:00.760 --> 01:32:07.800
+[Guest]: helped the economy at large. So if the government prints money, you're essentially starting to
+
+01:32:07.800 --> 01:32:15.080
+[Guest]: question the structure that was put in place and that has worked well over the years. So this is,
+
+01:32:15.080 --> 01:32:21.720
+[Guest]: and then there's a beautiful argument that I think Raghuram Rajan made in the brief paper that
+
+01:32:22.440 --> 01:32:29.480
+[Guest]: he wrote and this is how he put it. So let's say the RBI prints money, okay, and hands it over to
+
+01:32:29.480 --> 01:32:35.240
+[Guest]: the government. Now, so basically the money goes into the government account and then the government
+
+01:32:35.240 --> 01:32:39.720
+[Guest]: spends the money on something. Now, when the government spends the money on something,
+
+01:32:39.720 --> 01:32:48.120
+[Guest]: you know, incomes of people go up and money comes into their hands and then they go and spend that
+
+01:32:48.120 --> 01:32:53.560
+[Guest]: money and so that money lands up with some, you know, shopkeepers all over the country. And given
+
+01:32:53.560 --> 01:33:00.120
+[Guest]: that, you know, in an environment where people are not willing to spend, that money ultimately
+
+01:33:00.120 --> 01:33:07.880
+[Guest]: comes back to the banks, okay, and banks are not able to lend that money and then they deposit the
+
+01:33:07.880 --> 01:33:15.480
+[Guest]: money with the RBI and the RBI pays them interest on the money that they deposit with it and that
+
+01:33:15.480 --> 01:33:21.480
+[Guest]: rate of interest is called the reverse repo rate, okay. So essentially what will happen is that if
+
+01:33:21.480 --> 01:33:27.800
+[Guest]: the government prints and pumps money into the economy, the velocity of money is so low at this
+
+01:33:27.800 --> 01:33:33.880
+[Guest]: point of time that money will not change hands and it will ultimately end up with the RBI and the
+
+01:33:33.880 --> 01:33:39.320
+[Guest]: RBI will end up paying interest on the printed money and if the RBI ends up paying interest on
+
+01:33:39.320 --> 01:33:45.400
+[Guest]: printed money, it obviously earns less money during the course of the year and then it gives
+
+01:33:45.400 --> 01:33:50.360
+[Guest]: a lower dividend to the government, okay. Now, banks also lose out on money because
+
+01:33:50.360 --> 01:33:55.880
+[Guest]: if the government was financing its fiscal deficit through, you know, by issuing bonds,
+
+01:33:55.880 --> 01:34:02.200
+[Guest]: the banks would have earned a higher rate of interest than what they would earn by depositing
+
+01:34:02.200 --> 01:34:08.760
+[Guest]: money into with the RBI at the reverse repo rate. So there are a lot of these interesting points
+
+01:34:08.760 --> 01:34:15.800
+[Guest]: which, you know, a lot of people who believe in the modern monetary theory either do not understand
+
+01:34:15.800 --> 01:34:20.840
+[Guest]: or they don't talk about it. But if you read up guys who actually, you know, who believe in modern
+
+01:34:20.840 --> 01:34:27.080
+[Amit Varma]: monetary theory, they offer all these reasons very, very clearly. Yeah, and it kind of strikes me as
+
+01:34:27.080 --> 01:34:32.440
+[Amit Varma]: fairly amusing that firstly RBI prints money and then it pays interest on the same money,
+
+01:34:32.440 --> 01:34:36.360
+[Amit Varma]: you know, the seen and the unseen right there. And, you know, I will, of course, endorse your
+
+01:34:36.360 --> 01:34:40.200
+[Amit Varma]: conclusion of saying that printing money is a bad idea and just because something works in
+
+01:34:40.200 --> 01:34:44.280
+[Amit Varma]: developed countries doesn't mean it will work in developing countries. But I will also add to that
+
+01:34:44.280 --> 01:34:50.680
+[Amit Varma]: that I'm not even sure it can work in developed countries. The jury is out on that. This is just
+
+01:34:50.680 --> 01:34:55.960
+[Guest]: one theory among many. So see, I'll tell you why modern monetary theory has picked up in the last,
+
+01:34:55.960 --> 01:35:01.080
+[Guest]: at least in the last 12, 13 years, you know. So all the central banks, the western central banks
+
+01:35:01.080 --> 01:35:07.880
+[Guest]: have printed a lot of money, but that has not led to conventional consumer price inflation.
+
+01:35:07.880 --> 01:35:13.800
+[Guest]: Okay, so which is why the MMT walas are, you know, bullish right now and sort of, they have a market.
+
+01:35:13.800 --> 01:35:21.240
+[Guest]: But what they forget is that the reason that there has been very little consumer price inflation
+
+01:35:21.240 --> 01:35:27.480
+[Guest]: is because China has become the factory of the world. Okay, and they have really, you know,
+
+01:35:27.480 --> 01:35:32.680
+[Guest]: increased their productivity and driven down prices globally. The second thing what they don't
+
+01:35:32.680 --> 01:35:37.320
+[Guest]: talk about is the fact that even though there has been no consumer price inflation, there has been
+
+01:35:37.320 --> 01:35:42.280
+[Guest]: huge asset inflation all across the world. I mean, you know, stock markets have been going up for
+
+01:35:42.280 --> 01:35:48.680
+[Guest]: years without company earnings going up. I mean, if you look at the Indian market in the last eight
+
+01:35:48.680 --> 01:35:55.480
+[Guest]: years, price has gone up at a much faster rate than the earnings. So, and the gap keeps increasing
+
+01:35:55.480 --> 01:36:01.080
+[Guest]: every year. So obviously there is inflation, but it's just that it is not conventional consumer
+
+01:36:01.080 --> 01:36:07.000
+[Guest]: price inflation. It is inflation which is reflected in the assets that you, you know, that you buy all
+
+01:36:07.000 --> 01:36:08.280
+[Guest]: across the world. So.
+
+01:36:08.280 --> 01:36:12.600
+[Amit Varma]: Yeah, and they're both great points and to sort of add to the first point, you know, of consumer
+
+01:36:12.600 --> 01:36:17.400
+[Amit Varma]: price inflation not being reflected because China is sort of the factory of the world. We also don't
+
+01:36:17.400 --> 01:36:21.960
+[Amit Varma]: see the counterfactual. If these governments hadn't printed so much money, would prices have
+
+01:36:21.960 --> 01:36:27.080
+[Amit Varma]: been lower, even lower, we simply don't know the counterfactual. And therefore, I find all of this
+
+01:36:27.880 --> 01:36:33.320
+[Guest]: Inflation is a very individual thing, Amit, you know, I mean, it depends on what exactly your
+
+01:36:33.320 --> 01:36:39.400
+[Guest]: consumer basket is at any point of time. I mean, if you have kids, they go to a good school. I mean,
+
+01:36:39.400 --> 01:36:45.000
+[Guest]: you have a pretty good rate of inflation because school fee, you know, goes up every year, the cost
+
+01:36:45.000 --> 01:36:50.920
+[Guest]: of educating a child, all the activities that come with it. I mean, these days, it's not just enough
+
+01:36:50.920 --> 01:36:55.480
+[Guest]: to send your, you know, kid to school and then forget about it. I mean, there are 10 other things
+
+01:36:55.480 --> 01:36:57.320
+[Guest]: that he or she needs to be a part of.
+
+01:36:57.320 --> 01:37:02.120
+[Amit Varma]: A fascinating example to come up in a discussion between two people who don't have kids.
+
+01:37:02.120 --> 01:37:08.280
+[Guest]: Let me get judgmental about the entire thing.
+
+01:37:09.000 --> 01:37:14.280
+[Amit Varma]: Yeah, so let's kind of move on from, you know, one direction that it is often proposed the
+
+01:37:14.280 --> 01:37:18.600
+[Amit Varma]: government can go in which is printing money to another one, which is borrowing money.
+
+01:37:18.600 --> 01:37:24.280
+[Amit Varma]: Tell me a little bit about the pros and cons of that approach. And what is the thinking behind
+
+01:37:24.280 --> 01:37:24.760
+[Guest]: that?
+
+01:37:24.760 --> 01:37:29.080
+[Guest]: Okay, you know, when the government borrows money, the good thing is that
+
+01:37:29.080 --> 01:37:35.480
+[Guest]: it is setting a sort of a benchmark interest rate for the entire financial system, right?
+
+01:37:35.480 --> 01:37:40.840
+[Guest]: Because the government borrows at the lowest rate, you know, lending to the government is
+
+01:37:40.840 --> 01:37:47.400
+[Guest]: the least risky form of lending on most days. So, that is one good thing, that it is borrowing at
+
+01:37:47.400 --> 01:37:53.800
+[Guest]: a rate which the market is sort of deciding on. The problem with borrowing, now there are multiple
+
+01:37:53.800 --> 01:37:58.200
+[Guest]: problems with borrowing as well. So, the first problem is if you borrow too much and again,
+
+01:37:58.200 --> 01:38:02.600
+[Guest]: you know, this is why a lot of people recommend money printing, is when you borrow too much as
+
+01:38:02.600 --> 01:38:07.160
+[Guest]: a government, you crowd out the private borrowers, right? So, when you crowd out the private borrowers,
+
+01:38:07.160 --> 01:38:12.200
+[Guest]: the entire interest rate in the financial system tends to go up. So, which is why a lot of
+
+01:38:12.200 --> 01:38:16.520
+[Guest]: economists right now have been, you know, saying that, you know, the government should print money
+
+01:38:16.520 --> 01:38:22.440
+[Guest]: and they should monetize and this and that. In fact, interestingly, it is not that RBI is not
+
+01:38:22.440 --> 01:38:27.080
+[Guest]: printing money and not monetizing the fiscal deficit, but they're not doing so directly. So,
+
+01:38:27.080 --> 01:38:32.440
+[Guest]: what they do is, you know, there are primary dealers which basically create the market in
+
+01:38:32.440 --> 01:38:38.920
+[Guest]: bonds. I mean, they primarily, so the RBI is using these primary dealers to buy government bonds.
+
+01:38:38.920 --> 01:38:44.440
+[Guest]: So, the market has an indication that the RBI is buying bonds, but no one can say very, very
+
+01:38:44.440 --> 01:38:49.960
+[Guest]: clearly that the RBI is. But there are, I think, at least two central bank governors, D Subba Rao
+
+01:38:49.960 --> 01:38:56.840
+[Guest]: and Raghuram Rajan, who have both gone on record to say that the RBI is printing money and monetizing
+
+01:38:56.840 --> 01:39:01.320
+[Guest]: a certain part of the deficit, though it is doing so indirectly. And which is good because when
+
+01:39:01.320 --> 01:39:07.080
+[Guest]: you're doing it indirectly, at least you are paying the market rate of interest to some extent.
+
+01:39:07.080 --> 01:39:11.720
+[Guest]: Now, the problem is when you borrow more, one is the crowding out part where the interest rates
+
+01:39:11.720 --> 01:39:16.120
+[Guest]: go up. But then, you know, right now, I don't think that is much of an issue because the private
+
+01:39:16.120 --> 01:39:22.280
+[Guest]: sector is really not into borrowing right now. The other thing that happens is that the rating
+
+01:39:22.280 --> 01:39:29.240
+[Guest]: agencies tend to follow the debt-to-GDP ratio while deciding on the rating. Now, in an environment
+
+01:39:29.240 --> 01:39:36.680
+[Guest]: where your GDP is contracting and your debt is going up, so when the debt-to-GDP ratio goes
+
+01:39:36.680 --> 01:39:42.600
+[Guest]: beyond a certain level, then there is a cut in the rating. And right now, India is just barely
+
+01:39:42.600 --> 01:39:49.720
+[Guest]: investment grade, one cut and we become non-investment. And if that happens, a lot of,
+
+01:39:49.720 --> 01:39:54.600
+[Guest]: you know, serious foreign money, pension fund money and all that, will move out both of the
+
+01:39:54.600 --> 01:40:01.320
+[Guest]: Indian bond market as well as the Indian stock market, which will create problems for, you know,
+
+01:40:01.320 --> 01:40:07.400
+[Guest]: everyone. But having said that, the thing here is that I think the lesser evil right now is to
+
+01:40:07.400 --> 01:40:11.480
+[Guest]: borrow money than to print money because the government really doesn't have a choice. You know,
+
+01:40:11.480 --> 01:40:15.960
+[Guest]: the tax collections have totally collapsed. I mean, if you look at the April numbers of the
+
+01:40:15.960 --> 01:40:22.920
+[Guest]: central government, the tax collections are down by around 44%. GST collections have collapsed 87%
+
+01:40:23.720 --> 01:40:31.640
+[Guest]: to around 5,934 crore, if I remember the number correctly. So, that's the lesser evil right now.
+
+01:40:31.640 --> 01:40:38.600
+[Guest]: Having said that, okay, there are other repercussions to the government not borrowing
+
+01:40:38.600 --> 01:40:43.080
+[Guest]: more money but the fiscal deficit going up. And this is important to explain because,
+
+01:40:43.080 --> 01:40:48.680
+[Guest]: you know, as we said at the very beginning that the, you know, economics has, it seems to operate
+
+01:40:48.680 --> 01:40:53.560
+[Guest]: at a very, very high level, but it has impacts on all of us. And a lot of us don't understand
+
+01:40:53.560 --> 01:40:59.320
+[Guest]: those impacts. So, you know, look at the fact that the fiscal deficits of the state governments
+
+01:40:59.320 --> 01:41:03.000
+[Guest]: as well as central governments will go up this year, right, because they are not earning as
+
+01:41:03.000 --> 01:41:08.840
+[Guest]: much tax as they had hoped to. Now, the repercussions of that can be seen immediately.
+
+01:41:08.840 --> 01:41:15.080
+[Guest]: Now, look at the fact that the government has decided not to pay the increase in Dearness
+
+01:41:15.080 --> 01:41:19.240
+[Guest]: Allowance as well as Dearness Reliefs for the salaried government employees as well as the
+
+01:41:19.240 --> 01:41:25.800
+[Guest]: retired government employees up until July 2021. So, that, you know, one estimate suggested would
+
+01:41:25.800 --> 01:41:31.240
+[Guest]: lead to a saving of around 38,000 crore. This is the central government. A lot of state governments
+
+01:41:31.240 --> 01:41:35.480
+[Guest]: have followed the central government and if, I guess, all state governments follow the central
+
+01:41:35.480 --> 01:41:41.000
+[Guest]: government, that saves another 82,000 crore. Now, this is money that the government employees would
+
+01:41:41.000 --> 01:41:46.840
+[Guest]: have earned, but they did not. Now, government employees are one sort of class of employees
+
+01:41:47.400 --> 01:41:54.920
+[Guest]: who do not feel the pain of slow economic growth much, okay, but this time they are.
+
+01:41:54.920 --> 01:42:00.680
+[Guest]: The second thing is the price of petrol and diesel, you know. Even though, you know, between,
+
+01:42:00.680 --> 01:42:06.600
+[Guest]: I think, in January, the price of crude oil was around $65. Currently, it's around $40,
+
+01:42:06.600 --> 01:42:12.920
+[Guest]: but the price of petrol and diesel is still what it was in January. So, the reason for that is that
+
+01:42:12.920 --> 01:42:18.360
+[Guest]: the excise duty that the central government charges and the sales tax that the state government
+
+01:42:18.360 --> 01:42:22.760
+[Guest]: charges, both of them have sort of been ramped up. So, obviously, you and I are paying for that,
+
+01:42:22.760 --> 01:42:29.240
+[Guest]: right? The third thing is when the RBI has printed and pumped a lot of money into the
+
+01:42:29.240 --> 01:42:34.280
+[Guest]: financial system, that has led to the fixed deposit interest rates coming down. In fact,
+
+01:42:34.280 --> 01:42:41.560
+[Guest]: I was very, very surprised while writing a piece a couple of days back that a two-year fixed deposit
+
+01:42:42.120 --> 01:42:49.720
+[Guest]: for Kotak Mahindra Bank pays you just 4.75 percent per year. And, in fact, the rate of interest was
+
+01:42:49.720 --> 01:42:53.880
+[Guest]: even lower than that of the State Bank of India, which was, normally, it's the State Bank of India
+
+01:42:53.880 --> 01:43:00.600
+[Guest]: which sets the benchmark. So, 5.1 percent. So, interest rates on fixed deposits have come down.
+
+01:43:00.600 --> 01:43:06.680
+[Guest]: Obviously, you and I will have to pay for that. What will also happen is that the interest rates
+
+01:43:06.680 --> 01:43:13.720
+[Guest]: on small savings schemes will automatically come down in the months to come. So, it's not like
+
+01:43:13.720 --> 01:43:18.680
+[Guest]: only the government gets impacted or only the companies get impacted. I mean, you and I also
+
+01:43:18.680 --> 01:43:24.680
+[Guest]: get impacted through all these things. And if the government sort of, you know, decides to start
+
+01:43:24.680 --> 01:43:31.240
+[Guest]: printing money, there is an extreme danger that money will move out of the stock market and it's
+
+01:43:31.240 --> 01:43:36.360
+[Guest]: essentially foreign money and SIP money which has kept the stock market going. So, if the foreign
+
+01:43:36.360 --> 01:43:42.600
+[Guest]: money goes out, it's only the SIP money which is left. Which, you know, brings me to another
+
+01:43:42.600 --> 01:43:47.160
+[Amit Varma]: digression which is something that, you know, people have been baffled about for the last few
+
+01:43:47.160 --> 01:43:51.960
+[Amit Varma]: years, in fact, that the economy keeps going down and the stock market keeps going up. So, in a
+
+01:43:51.960 --> 01:43:57.000
+[Guest]: nutshell... I have an explanation for that. And this is, again, something I realized only recently.
+
+01:43:57.000 --> 01:44:02.520
+[Guest]: In fact, in the last three years, the stock market has primarily been driven by the SIP investors.
+
+01:44:02.520 --> 01:44:07.080
+[Guest]: So, it's the SIP investors who bring in money, the market goes up, more SIP investors come in,
+
+01:44:07.080 --> 01:44:12.520
+[Guest]: and it's a perfect, what you call, a naturally occurring Ponzi scheme. And I should point out
+
+01:44:12.520 --> 01:44:17.160
+[Amit Varma]: here to all our listeners that one of the very popular episodes that Vivek and I have done together
+
+01:44:17.160 --> 01:44:22.680
+[Amit Varma]: is on Ponzi schemes that will be linked from the show notes. You will find much to relate to
+
+01:44:22.680 --> 01:44:26.920
+[Amit Varma]: when you listen to that and think of the modern world in which we live, especially the way
+
+01:44:26.920 --> 01:44:34.360
+[Guest]: the state operates. One last point. So, all this essentially, you know, comes back to the fact that
+
+01:44:34.920 --> 01:44:39.960
+[Guest]: we have been in a mess before COVID. Because if we had not been in a mess before COVID,
+
+01:44:39.960 --> 01:44:46.120
+[Guest]: we would have had, you know, still some tax inflows coming in. But because we were already
+
+01:44:46.120 --> 01:44:50.760
+[Guest]: in a mess, this is sort of, you know, that has accentuated the problem.
+
+01:44:50.760 --> 01:44:56.840
+[Amit Varma]: So, here's sort of one question, which is that we have been discussing the various ways in which
+
+01:44:56.840 --> 01:45:03.160
+[Amit Varma]: governments can raise money, which is they can print it or borrow it, or just announce on WhatsApp
+
+01:45:03.160 --> 01:45:08.280
+[Amit Varma]: that they have it. But whatever the government does to get money, once it has it, what should
+
+01:45:08.280 --> 01:45:13.640
+[Amit Varma]: it do with it? You know, if when you consider the unseen effects of all kinds of spending that
+
+01:45:14.280 --> 01:45:19.000
+[Amit Varma]: it can do, including, of course, the unseen effect of what the money could have achieved,
+
+01:45:19.000 --> 01:45:23.240
+[Amit Varma]: had it been left with the people that it's been taken from whatever percentage of that is
+
+01:45:24.120 --> 01:45:29.080
+[Amit Varma]: tax. But apart from that, what should they actually do with it? What is a sensible thing
+
+01:45:29.080 --> 01:45:34.600
+[Amit Varma]: to do here? Should we not cut area spending in many areas where we spend too much? And what
+
+01:45:34.600 --> 01:45:39.320
+[Guest]: are the areas in which we need to pump money? I think it is already happening. I mean, if you
+
+01:45:39.320 --> 01:45:44.440
+[Guest]: if you read the newspapers carefully, I think most of the major projects have been put on hold,
+
+01:45:45.000 --> 01:45:50.360
+[Guest]: and they don't have the money to do anything else. So, right now, you know, most of the money
+
+01:45:50.360 --> 01:45:58.920
+[Guest]: is going towards tackling COVID-19. So, I think one of the things that I suggested in the first
+
+01:45:58.920 --> 01:46:03.560
+[Guest]: piece that I wrote on what the government can do to tackle COVID-19, I mean, I've written many
+
+01:46:03.560 --> 01:46:09.400
+[Guest]: written many pieces since then, was the fact that money needs to be put into the hands of people,
+
+01:46:09.400 --> 01:46:15.000
+[Guest]: right? So, the government has essentially put 1500 rupees over a period of three months
+
+01:46:15.000 --> 01:46:19.640
+[Guest]: into the hands of female Jan Dhan account holders. So, I mean, their number is around 20 crore,
+
+01:46:19.640 --> 01:46:26.920
+[Guest]: whereas the total Jan Dhan accounts amount to around 38 crore. I think this is not the time
+
+01:46:26.920 --> 01:46:32.440
+[Guest]: to sort of differentiate between, you know, man and woman, and money should have been put into
+
+01:46:32.440 --> 01:46:37.640
+[Guest]: all Jan Dhan accounts. And this is something I think which needs to continue through the course
+
+01:46:37.640 --> 01:46:44.680
+[Guest]: of this year. Now, people will come around and tell you, you know, what is 500 rupees? But then
+
+01:46:44.680 --> 01:46:49.400
+[Guest]: again, at the end of the day, some money is better than no money, right? And the government cannot,
+
+01:46:49.400 --> 01:46:54.440
+[Guest]: I mean, obviously, there are limitations, it can only do things within a certain limit. And given
+
+01:46:54.440 --> 01:47:01.400
+[Guest]: that, I think if it has the money, the thing it needs to do right now is to sort of put more and
+
+01:47:01.400 --> 01:47:06.920
+[Guest]: more money in the hands of people. And you know, I mean, people will say, okay, but what if they
+
+01:47:06.920 --> 01:47:12.360
+[Guest]: save it? And I mean, that's fine. I mean, even if they save it, it will be there for them to spend
+
+01:47:12.360 --> 01:47:18.600
+[Guest]: at a certain point of time. I mean, that I think is the only thing that will work right now. And
+
+01:47:18.600 --> 01:47:22.760
+[Guest]: so obviously, the problem is targeting, you know, a lot of people have suggested that the government
+
+01:47:22.760 --> 01:47:26.760
+[Guest]: should put, I think I was reading a comment somewhere, one of these business guys said that
+
+01:47:26.760 --> 01:47:32.600
+[Guest]: 5000 rupees should be put into the accounts of all migrants. But how do you identify a migrant,
+
+01:47:32.600 --> 01:47:38.920
+[Guest]: right? So, this is also the time to sort of build slightly more robust systems where better
+
+01:47:38.920 --> 01:47:44.600
+[Guest]: targeting can be carried out. Now, the problem again with that is, you know, you go back to
+
+01:47:45.480 --> 01:47:52.360
+[Guest]: IT security and, you know, all those issues start to, privacy and all those issues start to crop
+
+01:47:52.360 --> 01:47:59.400
+[Guest]: up. So, basically, you know, the state capacity in India is very, very limited. And because we,
+
+01:48:00.040 --> 01:48:04.440
+[Guest]: the government wants to do way too many things, which it shouldn't be doing,
+
+01:48:05.480 --> 01:48:10.360
+[Guest]: it does not end up doing those things that it should be doing well. This is a good time to
+
+01:48:10.360 --> 01:48:16.680
+[Guest]: tackle that. And one thing that can easily be done is, you know, the government owns a tremendous
+
+01:48:16.680 --> 01:48:21.240
+[Guest]: amount of land. And this is not, you know, Rajesh Jain's version of where he suggests everything
+
+01:48:21.240 --> 01:48:28.680
+[Guest]: should be sold. But, you know, there is a lot of land with the government and public sector
+
+01:48:28.680 --> 01:48:35.080
+[Guest]: enterprises, and this land can easily be sold. Land prices can be brought down, real estate prices
+
+01:48:35.080 --> 01:48:41.720
+[Guest]: can be brought down. And, you know, we talked in the beginning about a GST rate cut essentially
+
+01:48:41.720 --> 01:48:47.640
+[Guest]: helping the automobile industry, right? Because the automobile industry has many backward and
+
+01:48:47.640 --> 01:48:54.600
+[Guest]: forward linkages. The real estate sector has 250 forward and backward linkages. So, what that
+
+01:48:54.600 --> 01:49:00.440
+[Guest]: essentially means is that if the real estate sector starts to do well, there are 250 other
+
+01:49:00.440 --> 01:49:05.480
+[Guest]: sectors which have the potential to do well. I mean, you know, so obviously, you know, you would
+
+01:49:05.480 --> 01:49:11.080
+[Guest]: need sand, you will need cement, you will need wood, you will need glass to sort of build a home.
+
+01:49:11.080 --> 01:49:15.960
+[Guest]: And then once a home is being bought, people will have to furnish it. In order to buy a home,
+
+01:49:15.960 --> 01:49:23.080
+[Guest]: people will need a bank loan. So, I think it's very, very important that, you know, one is to
+
+01:49:23.080 --> 01:49:30.840
+[Guest]: address the post-COVID economic scenario, and also to sort of cash in on India's so-called
+
+01:49:30.840 --> 01:49:36.440
+[Guest]: demographic dividend, that we get a real estate sector, right? And this is the opportunity to do
+
+01:49:36.440 --> 01:49:42.440
+[Amit Varma]: it. So, I have three digressions, the third of which will lead to a question. And hopefully,
+
+01:49:42.440 --> 01:49:47.320
+[Amit Varma]: we can avoid further digressions while these three digressions are being aired. And then we'll get to
+
+01:49:47.320 --> 01:49:52.120
+[Amit Varma]: the question. First digression, of course, is that I have a great two-hour episode with Rajesh Jain,
+
+01:49:52.120 --> 01:49:57.240
+[Amit Varma]: whose proposal essentially was that, look, we sit on humongous amounts of public land,
+
+01:49:57.240 --> 01:50:02.280
+[Amit Varma]: which are being put to no good use. And if the government starts selling that off, one,
+
+01:50:02.280 --> 01:50:06.040
+[Amit Varma]: it will have a lot of money, which will be helpful, especially in a crisis like this,
+
+01:50:06.040 --> 01:50:11.320
+[Amit Varma]: huge amounts of money. And two, it will also, you know, land prices will go down because the supply
+
+01:50:11.320 --> 01:50:15.880
+[Amit Varma]: will go up. And that will be great for common people. A digression within this digression is
+
+01:50:15.880 --> 01:50:21.960
+[Amit Varma]: another way to make the supply of land go up and land prices go down, is to reduce the sort of
+
+01:50:21.960 --> 01:50:28.280
+[Amit Varma]: ridiculous laws like FSI and rent control that we have, especially in our big cities. Digression one
+
+01:50:28.280 --> 01:50:33.720
+[Amit Varma]: over. Digression two is a rant, which is that forget government spending, a lot of money was
+
+01:50:33.720 --> 01:50:40.520
+[Amit Varma]: basically recently raised from contributions to a fund called PM Cares. None of that is being said.
+
+01:50:40.520 --> 01:50:44.520
+[Amit Varma]: You know, it is opaque. None of that has been spent. We don't know where it's going and what
+
+01:50:44.520 --> 01:50:49.720
+[Amit Varma]: it's for, which leads me to digression three. There is one area where the government should
+
+01:50:49.720 --> 01:50:54.840
+[Amit Varma]: have spent money and, you know, got it right in the last three months, which is the plight of
+
+01:50:54.840 --> 01:50:59.320
+[Amit Varma]: migrant labourers throughout the country. It is okay to say in the last week of March when the
+
+01:50:59.320 --> 01:51:04.760
+[Amit Varma]: lockdown started that, okay, we were blindsided, it did not strike us. But, you know, that went
+
+01:51:04.760 --> 01:51:11.000
+[Amit Varma]: on for weeks and weeks. And that's a humanitarian crisis. It's absolutely unconscionable. And the
+
+01:51:11.000 --> 01:51:15.880
+[Amit Varma]: sort of question I'll get to and I was discussing this last week in my episode on lockdowns and
+
+01:51:15.880 --> 01:51:20.520
+[Amit Varma]: COVID-19 with the brilliant Anup Malani. And the larger point we discussed there was,
+
+01:51:21.080 --> 01:51:26.360
+[Amit Varma]: which will lead to the question that I come to, is that a lot of this migrant labour hasn't just
+
+01:51:26.360 --> 01:51:30.440
+[Amit Varma]: gone back on a temporary basis that when this crisis ends, they will come back and everything
+
+01:51:30.440 --> 01:51:36.600
+[Amit Varma]: will be okay again. There is a deep loss of trust in the system. You know, they found themselves
+
+01:51:36.600 --> 01:51:42.040
+[Amit Varma]: starving, they found themselves out of jobs, and they found the government unwilling to help in
+
+01:51:42.040 --> 01:51:47.480
+[Amit Varma]: any way. On the contrary, putting barriers in their way, which has led to a loss of not just
+
+01:51:47.480 --> 01:51:53.560
+[Amit Varma]: livelihoods, but also lives and also hope. Many of these people may not come back. You know,
+
+01:51:53.560 --> 01:51:59.240
+[Amit Varma]: broadly from out of this sort of incredible tragedy that has happened, what do you think the
+
+01:51:59.240 --> 01:52:02.840
+[Guest]: economic impacts of that could be? I know, I mean, you know, I've been thinking about this for a
+
+01:52:02.840 --> 01:52:08.920
+[Guest]: while. And so I think I don't, yeah, you know, so let me put it this way. I was just looking at some
+
+01:52:08.920 --> 01:52:16.520
+[Guest]: data today. And the amount of work being demanded in the Mahatma Gandhi National Rural Employment
+
+01:52:16.520 --> 01:52:25.000
+[Guest]: Guarantee Scheme has just gone through the roof. Okay. In the first seven days of today's what,
+
+01:52:25.000 --> 01:52:30.600
+[Amit Varma]: 8th, right? Yeah, we are recording on June 8th, and this episode will be out on June 4th. Right.
+
+01:52:30.600 --> 01:52:38.120
+[Guest]: So today is 8th. So in the first eight days of the month, the 2.12 crore households have demanded
+
+01:52:38.120 --> 01:52:45.480
+[Guest]: work under NREGA. Okay. Whereas last year, the number for the full month of June was around 2.56
+
+01:52:45.480 --> 01:52:51.400
+[Guest]: crore. So that tells you the amount of work that is being demanded. Now, just because you're
+
+01:52:51.400 --> 01:52:58.840
+[Guest]: demanding work doesn't mean that you'll get it. The other thing is that agriculture in India
+
+01:52:58.840 --> 01:53:03.400
+[Guest]: already has a huge amount of disguised unemployment, which basically means that it
+
+01:53:03.400 --> 01:53:09.720
+[Guest]: has many more people than is economically justifiable. So it contributes around 15 to 16%
+
+01:53:10.680 --> 01:53:17.880
+[Guest]: of the Indian economy and employs more than 40% of India's workforce. Now, imagine all these people
+
+01:53:17.880 --> 01:53:24.920
+[Guest]: going back and, you know, becoming either a part of the agriculture workforce or demanding work
+
+01:53:24.920 --> 01:53:30.360
+[Guest]: under NREGA. I mean, what do they do there to continue earning a living? Now, one reason that
+
+01:53:30.360 --> 01:53:36.360
+[Guest]: they came to, you know, the cities from, you know, from the places where they originally belonged to
+
+01:53:36.360 --> 01:53:42.840
+[Guest]: was looking for work. And they came because there was no work where they came from. Right. And
+
+01:53:42.840 --> 01:53:48.280
+[Guest]: suddenly when they're going back, I mean, how are they going to get work there? I mean,
+
+01:53:48.280 --> 01:53:55.080
+[Guest]: I can understand that, you know, the government can increase allocation towards NREGA and create
+
+01:53:55.080 --> 01:54:00.120
+[Guest]: some work. But then that's one, it's very low-end work and two, it doesn't pay much.
+
+01:54:01.000 --> 01:54:08.520
+[Guest]: So ultimately, I don't know. I mean, I think the people who have gone back may have, you know,
+
+01:54:08.520 --> 01:54:17.800
+[Guest]: no other way but to come back to the cities and hope that they sort of get the jobs that they
+
+01:54:17.800 --> 01:54:24.280
+[Guest]: originally had. I mean, I can't see any other way out. I mean, I have thought about this over and
+
+01:54:24.280 --> 01:54:31.960
+[Guest]: over again. And I don't, I mean, unless the chief ministers of Bihar and UP and Jharkhand and even
+
+01:54:31.960 --> 01:54:39.080
+[Guest]: Odisha and Chhattisgarh to some extent end up creating a lot of work within the state. I mean,
+
+01:54:39.080 --> 01:54:44.200
+[Guest]: in that ecosystem, even if it happens, it's not going to come up in two years or three years or
+
+01:54:44.200 --> 01:54:49.880
+[Guest]: five years. And I mean, one is you don't see any commitment from any of the leaders in that
+
+01:54:49.880 --> 01:54:54.920
+[Guest]: direction. And two is even if there is a commitment, it's not, you know, Bangalore wasn't built in a
+
+01:54:54.920 --> 01:55:02.200
+[Guest]: day, right? I mean, it took the city close to 20 years to reach where it did. I mean, and I'm not
+
+01:55:02.200 --> 01:55:07.800
+[Guest]: talking about the Bangalore traffic here. But the fact of the matter is that there are, you know,
+
+01:55:07.800 --> 01:55:13.480
+[Guest]: it is a city, there are a lot of IT companies based out of it. And there is a lot of work being
+
+01:55:13.480 --> 01:55:18.520
+[Guest]: created in that city all said and done. So I don't know, I don't think I mean, I have come around to
+
+01:55:18.520 --> 01:55:25.080
+[Guest]: the conclusion that these people will have to, for whatever be the case, will have to come back.
+
+01:55:25.800 --> 01:55:31.640
+[Guest]: And I just hope that, you know, this time around, they get treated much better. I mean,
+
+01:55:31.640 --> 01:55:37.640
+[Guest]: there have been some very good stories on how people, you know, employers in the southern states
+
+01:55:37.640 --> 01:55:42.680
+[Guest]: are giving AC tickets to some of their employees to come back. Some of them have even been flown in.
+
+01:55:42.680 --> 01:55:48.120
+[Guest]: I just hope that this goodwill or whatever you might call it, this just lasts for a while. And
+
+01:55:48.120 --> 01:55:53.080
+[Guest]: I don't know, I mean, otherwise, I don't see how they can, you know, make a living in these states.
+
+01:55:53.080 --> 01:55:59.000
+[Guest]: You know, one is that, you know, if you look at places like Bihar, the size of the agriculture
+
+01:55:59.000 --> 01:56:04.600
+[Guest]: plot is already very small and average agriculture plot, not, I mean, and that being the case,
+
+01:56:04.600 --> 01:56:09.400
+[Guest]: how do you make a living out of being a farmer? I mean, the reason that you moved out of that
+
+01:56:09.400 --> 01:56:14.280
+[Guest]: place was because you couldn't make, continue making living as a farmer. So, which is again,
+
+01:56:14.280 --> 01:56:19.560
+[Guest]: you know, I'd like to connect this to the point that, which is why it is very important to get
+
+01:56:19.560 --> 01:56:25.000
+[Guest]: the construction and the real estate sector going all over again, because, which is where, I mean,
+
+01:56:25.000 --> 01:56:31.000
+[Guest]: which can sort of, again, you know, create jobs in smaller cities where people can then, you know,
+
+01:56:31.000 --> 01:56:37.720
+[Guest]: sort of hope to work at least, if not in the village, but at least in the city that is nearest
+
+01:56:37.720 --> 01:56:42.040
+[Amit Varma]: to wherever they live. Yeah, so two thoughts strike me here. One is, of course, like you said,
+
+01:56:42.040 --> 01:56:46.680
+[Amit Varma]: it's a great opportunity for those states. Now that they have all those people back there to
+
+01:56:46.680 --> 01:56:51.960
+[Amit Varma]: do something about it, because I continue to maintain that every human being is, you know,
+
+01:56:51.960 --> 01:56:56.760
+[Amit Varma]: add something to the world, they are not a burden on it. And it's a great opportunity for them to
+
+01:56:56.760 --> 01:57:01.880
+[Amit Varma]: sort of revamp the regulatory system and sort of but like you said, it won't happen overnight.
+
+01:57:01.880 --> 01:57:05.960
+[Amit Varma]: And therefore, what do we do now? And I can't really see a way out. What I'd also like to sort
+
+01:57:05.960 --> 01:57:10.840
+[Amit Varma]: of tell my listeners is that I've done a bunch of episodes on agriculture, which I rather like a lot
+
+01:57:10.840 --> 01:57:16.600
+[Guest]: and I shall link them from the show notes. You should definitely link the one that you did with
+
+01:57:16.600 --> 01:57:22.280
+[Guest]: Shetkari. You should definitely link that one. That's I think the best of the lot.
+
+01:57:22.280 --> 01:57:27.080
+[Amit Varma]: Yeah, it's a wonderful episode, episode 86. The only episode I've done in Hindi, by the way.
+
+01:57:27.080 --> 01:57:30.520
+[Amit Varma]: Yeah, so moving on. I mean, we're kind of approaching the end of the episode. And in a
+
+01:57:30.520 --> 01:57:36.600
+[Amit Varma]: sense, we are also kind of approaching the end of the lockdown. And recently, you wrote a piece
+
+01:57:36.600 --> 01:57:42.840
+[Amit Varma]: talking about how the end of the lockdown will not bring life back to normal. Can I ask you to
+
+01:57:43.400 --> 01:57:45.400
+[Amit Varma]: sort of elaborate a bit on this?
+
+01:57:45.400 --> 01:57:50.120
+[Guest]: Huh? I mean, see, in the sense that, you know, people are still apprehensive of, you know,
+
+01:57:50.120 --> 01:57:55.880
+[Guest]: going out and spending money. You know, you have parts of the transport system, which are working
+
+01:57:55.880 --> 01:58:02.280
+[Guest]: parts, which are not. So I don't know. I mean, you know, if you open it up too much, obviously,
+
+01:58:02.280 --> 01:58:09.240
+[Guest]: there is, you know, the risk of COVID-19 spreading more than it already is. If you don't open it up,
+
+01:58:09.240 --> 01:58:14.040
+[Guest]: then there is the problem of, you know, economic activity not really picking up. So how do you,
+
+01:58:15.000 --> 01:58:21.320
+[Guest]: I don't know. I mean, I don't think there is a balance to this. And our health system isn't
+
+01:58:21.320 --> 01:58:28.680
+[Guest]: really, you know, it just can't really cope up with the, you know, if any more increases in the
+
+01:58:28.680 --> 01:58:35.160
+[Guest]: disease happen in the days to come. And in fact, in Mumbai, the medical system is on the verge of
+
+01:58:35.160 --> 01:58:39.880
+[Guest]: collapse. And it's not that there are no, I mean, there are enough beds, it's just that there aren't
+
+01:58:39.880 --> 01:58:45.240
+[Guest]: enough nurses and ward boys, which is very, very, you know, which is why again, it is you need
+
+01:58:45.240 --> 01:58:51.640
+[Guest]: everyone to sort of be there for a system to work and which is really not happening. So.
+
+01:58:51.640 --> 01:58:56.120
+[Amit Varma]: That's incredibly bleak. I think we've taken up enough of the listeners time this week,
+
+01:58:56.120 --> 01:59:01.160
+[Amit Varma]: but no worry, we shall come at you every week in our new show Econ Central. And we will also
+
+01:59:01.160 --> 01:59:06.520
+[Amit Varma]: discuss on episode one of that which will come this Thursday, a topic which we haven't found
+
+01:59:06.520 --> 01:59:12.600
+[Amit Varma]: time for in this episode, which is this whole, you know, tirade against China, boycott China,
+
+01:59:12.600 --> 01:59:17.320
+[Amit Varma]: return to Nehru's import substitution under different names and a rhetoric spread on a
+
+01:59:17.320 --> 01:59:22.760
+[Amit Varma]: different kind of media entirely. What would Nehru have thought of WhatsApp, I wonder. So,
+
+01:59:22.760 --> 01:59:28.920
+[Amit Varma]: you know, do sort of check that show out our website is econcentral.in. You can go to all
+
+01:59:28.920 --> 01:59:34.920
+[Amit Varma]: your podcast apps right now and search for Econ Central. I hope the, you know, the RSS feed has
+
+01:59:34.920 --> 01:59:39.000
+[Amit Varma]: spread widely enough and you'll be able to see the preview episode.
+
+01:59:39.000 --> 01:59:40.680
+[Guest]: Can I make another poor joke here?
+
+01:59:40.680 --> 01:59:42.120
+[Guest]: Kindly do, kindly.
+
+01:59:42.120 --> 01:59:47.400
+[Guest]: So, you know, I don't know what RSS feeds, but RSS is definitely widely spread.
+
+01:59:49.560 --> 01:59:55.880
+[Amit Varma]: Yeah, you could. Yeah, indeed. So we won't comment, we won't make a value judgment on that.
+
+01:59:55.880 --> 02:00:01.160
+[Amit Varma]: It's an indisputable fact. And so Vivek, you know, thank you so much for coming on the show.
+
+02:00:01.160 --> 02:00:04.680
+[Amit Varma]: I think it's the first time we're actually recording a scene unseen episode remotely
+
+02:00:04.680 --> 02:00:07.400
+[Amit Varma]: like this on the computer. And it's so weird, isn't it?
+
+02:00:07.400 --> 02:00:11.240
+[Guest]: Yeah, it is very weird. I mean, it just you know, when you can't look into the other person's eye
+
+02:00:11.240 --> 02:00:16.280
+[Guest]: while talking or generally have someone in the room around you, it's just, and you know, even
+
+02:00:16.280 --> 02:00:20.440
+[Guest]: when you're looking into the other person's eye digitally, it's just not the same.
+
+02:00:21.240 --> 02:00:26.600
+[Amit Varma]: Yeah, we're actually recording via Zencaster, but we've also got Zoom open so we can see each other
+
+02:00:26.600 --> 02:00:31.160
+[Amit Varma]: and kind of pick up visual cues. But then I'm doing alt tab and going to my notes and
+
+02:00:31.160 --> 02:00:33.560
+[Guest]: Are you wearing a hairband by any chance?
+
+02:00:33.560 --> 02:00:34.440
+[Guest]: No, that's my headphone.
+
+02:00:35.080 --> 02:00:38.440
+[Guest]: I just thought for a moment that you've done that Abhishek Bachchan thing and
+
+02:00:38.440 --> 02:00:42.840
+[Amit Varma]: Listen, the recording is going on. Don't start flirting now. All right.
+
+02:00:42.840 --> 02:00:43.960
+[Guest]: Thanks a lot for coming on the show.
+
+02:00:43.960 --> 02:00:45.720
+[Guest]: Thanks Amit for having me. Thanks. Thanks.
+
+02:00:48.680 --> 02:00:54.760
+[Amit Varma]: If you enjoyed listening to the show, do follow Vivek on Twitter at call underscore Vivek.
+
+02:00:54.760 --> 02:00:58.600
+[Amit Varma]: You can follow me at Amit Verma, A-M-I-T-V-E-R-M-A.
+
+02:00:58.600 --> 02:01:03.800
+[Amit Varma]: You can browse past episodes of the seen and the unseen at seen unseen.in.
+
+02:01:03.800 --> 02:01:11.640
+[Amit Varma]: And hey, do check out my new course, TikTok and Indian society at seen unseen.in slash TikTok.
+
+02:01:11.640 --> 02:01:40.760
+[Amit Varma]: Thank you for listening.
+
+02:01:41.640 --> 02:01:44.280
+[Unknown]: Bye.
+

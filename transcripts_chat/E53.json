@@ -1,0 +1,412 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Many years ago, I was hanging out with a friend of mine in an industrial park. His name is Narendra and he wasn't, at that time, the Prime Minister of India. So we were just shooting the breeze, talking about girls and cars and all the books we'd read, I mean all the books I'd read because he isn't much of a reader, when suddenly it started raining. I love the rain and this change in weather put me in a mellow mood. Isn't this lovely?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:28.080",
+        "message": "I asked Narendra. Yes, it's very romantic, he said as he reached out and touched my arm gently. I could really do with some chai and pakoras right now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:39.200",
+        "message": "I can organise the chai, I replied, but where will we get pakoras from over here? No one here sells pakoras. When he heard that, Narendra got very serious."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:48.400",
+        "message": "He thundered, No one here sells pakoras? That is preposterous. This must change. I will change it. Welcome to The Scene and the Unseen, our weekly podcast on economics, politics and behavioural science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:07.320",
+        "message": "Please welcome your host, Amit Badma. Welcome to The Scene and the Unseen. Before we start today's episode, a note from our sponsors. If you love art, but find the work of top Indian artists too expensive to buy and hang on your walls, here's a solution. Hop on over to IndianColours.com. Indian Colours is a company that licenses the work of top Indian artists and adapts it into objects of everyday use, including wearable art like stoles and kaftans, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. The artists whose works you'll find include luminaries like Samir Mondal, Vasco X Vaxo, Brinda Miller, Shruti Nelson, Harin Vakil, and the brilliant Dhruvi Acharya. Do check it out at IndianColours.com, that's Colours with an OU, and use the code IVM20 for a 20% discount. Remember IVM20 at IndianColours.com, Colours with an OU. And now, on with our regular programming. My guests today are my good friends and regular guests on the show, Vivek Kaul and Shruti Rajgopalan. Vivek and Shruti, welcome to the show. Hi, Amit."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:21.800",
+        "message": "Hi, Amit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:22.800",
+        "message": "Vivek is here with me in the studio, while Shruti is connected to us via Skype. The topic for today is pakoda-nomics, I hope I pronounced that correctly. Pakoda, not ra. Pakoda, yeah, it's my Bengali nest egg. You can even call it bonda-nomics, because bondas are more famous south of the wind. But that's not the word Mr. Modi used. So pakoda-nomics is inspired by a recent quote from our Prime Minister, Narendra Modi. Here's what he said, quote, if someone opens a pakora shop in front of your office, does that not count as employment? The person's daily earning of rupees 200 will never come into books or accounts. The truth is, massive people are being employed, end quote. Now it's true that some massive people like me are indeed employed. But leaving that aside, I had a hard time trying to figure out just exactly what Mr. Modi was trying to say here. So Vivek, what was he trying to say?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:03:18.920",
+        "message": "So basically, you know, what I think he was trying to say is that we need to differentiate between employment and jobs. It is not about creating jobs, as you know, we tend to argue over and over again, but it is about creating employment. And I think that's a valid point. I mean, the second point that he was perhaps trying to make is that you shouldn't expect the government to create jobs for around 1 million Indians who are entering the workforce every month, and for around 8.4 crore Indians who need to move, be moved out of agriculture so that agriculture becomes economically feasible. These were the two points that he made and his solution was that, you know, anyone who's sort of selling pakoras on the street, or anyone, you know, is selling anything for that matter on the street, because pakoras are just incidental here, is also making money. And that is adding to the employment. So but I think, you know, that something like this shouldn't have come from the Prime Minister of the country, at least."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:31.360",
+        "message": "So before we move on, I want to take a really layman's approach to this this episode and ask you to elaborate on your point about jobs and employment."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:04:38.400",
+        "message": "What do you mean jobs and employment are not the same thing? Okay, so jobs, I mean, let's say, you know, you were working for Wisden quick info at a certain point of time, that that was a job right now, you don't work for anyone, you work for anyone who gives you work, that is employment, right? So as long as people are employed, and gainfully employed, and are getting paid reasonably for it, I don't think it matters whether, you know, they have a job or not. So I guess, so the debate should not be that India is not creating enough jobs, or India is creating enough jobs, or whether India is creating enough jobs, but the debate should be whether India is creating enough employment for the people who need it. And is it?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:27.560",
+        "message": "Of course not."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:05:28.560",
+        "message": "I mean, we are not, we are nowhere near creating enough employment, as much as is needed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:36.400",
+        "message": "And we have 1 million people coming into the workforce every month, like you pointed out, that's 10 lakh people and nowhere near that amount of jobs are being created."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:05:42.880",
+        "message": "Yes, I mean, so one of the, you know, recent estimates that CMI Centre for Monitoring Indian Economy came up with was that in the year 2017, around 2 million opportunities were created and nearly 11.5 million Indians entered the workforce. Now, we need to sort of also state here very, very clearly that India does not have very high employment, very high unemployment, sorry, which is primarily because of the fact that anyone who does not, you know, get a job in India, ultimately ends up in self employment. So our unemployment rates are extremely low. In fact, the International Labour Organization just came out with numbers, and the rate of unemployment in India is something like 3.5%. Now which is, I mean, then the next question to ask is, you know, why are we even, you know, talking about all this if unemployment levels are so low?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:44.720",
+        "message": "So, is it your point, like I've often heard it said that our problem isn't unemployment"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:06:48.800",
+        "message": "as much as underemployment? So which is, you know, our unemployment rates are low, because everyone's doing something. But the question is, whether that something is productive enough, and the answer is no."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:03.160",
+        "message": "And like recently, I heard about some PM's job in Delhi, where there were like 20 vacancies and some 40,000 people have applied, including hundreds of PhDs and MAs and all of that. And that, I mean, that points to dual problems. I mean, one of those problems, of course, is that a lot of the education system, you've had credential inflation in the sense it's, you know, those degrees have kind of become meaningless. And people aren't really being trained for the workforce, there is a mismatch between education and what the labour market wants."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:07:33.920",
+        "message": "And this is something you've, you know, you and I have spoken about in a previous podcast. So basically, what is happening there is twofold. One is that, you know, all these MBAs and PhDs and graduates that we are producing, a huge number of them are simply unemployable. And the second thing is that at lower levels, the government is a significantly better paymaster than the private sector. So there was this study carried out, you know, by the 7th Pay Commission, and this is these are 2013-14 numbers. And they figured out that, you know, at the junior most level, you know, what they call euphemistically called a helper, but basically meant a peon, the government salaries are at around 21-22,000 rupees per month, whereas the private sector pays around anywhere from 8 to 9,000. So which is why you get so many people and so many qualified people applying for all these jobs. And then job security also. Yeah, I mean, job security, then, you know, you obviously have this huge fascination for government jobs in India, then, I mean, at any level, you at least have this thought that you will make some other income as well, you know, beyond what you get as your salary and so on and so forth."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:51.440",
+        "message": "So Shruti, I want you to chime in here. My question to you is that, you know, one of the points which Vivek pointed out Modi was probably making is that, hey, it's not my government's job to create jobs, which I know all three of us would kind of agree with while traditionally, it's, you know, you'll have politicians taking credit for job creation, and you'll have people criticizing this government or that government for not creating jobs. But what government can't actually create jobs, right? So where do jobs come from?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:09:20.280",
+        "message": "The government doesn't have an obligation to create jobs, and the government can't actually manufacture productivity. It's quite the reverse. Usually, when the government starts releasing employment schemes and programs, it's the opposite of productivity. However, the government does have an obligation to create an environment that is conducive for private individuals to be able to find their optimal job and for skills to be matched to requirements in a very, you know, fairly low transaction cost way within an economy. So to that extent, the government does have an obligation to create an environment that will then itself create jobs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:05.040",
+        "message": "So what you'd mean by that is, for example, that the government would have to do things like maintain the rule of law, enforce contracts, and so on, on the one hand, while on the other hand, getting out of the way of voluntary exchanges within society and not having too much of the license and regulation, Raj, basically, which acts as a dampener on private enterprise and raises transaction costs."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:10:26.280",
+        "message": "One of the things that's happening in India is that, as a country, we have made it too costly to employ unskilled labor. And when it's too costly, then the skill level has to be higher. That is to make it worthwhile to hire that particular labor and pay that wage, or it has to come in terms of productivity. It's a labor surplus country, but manufacturers are reluctant to hire labor and employ other substitutes for labor. Now, in the process, the people have to do something. So one is in many developed countries where there are unemployed benefits and so on and so forth. You see these people reflected in unemployment figures, as Vivek pointed out, that doesn't happen in India. So these people get reflected or rather get hidden in self-employment, in culture or street vending or so on and so forth. So what is happening in India is we see very little of the problem in terms of data points, but we see the problem everywhere. People are not that productive and people are not that rich."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:33.240",
+        "message": "And you know, one of the things I've noticed in recent discourse is that, especially after demonetization and GST, is that the informal economy gets a bad name. But the point I keep making is that the informal economy only exists because you made it so hard for the formal economy to function. So all these people who can't get jobs in the formal economy because of these labor laws and the variety of other regulations and all have no choice but to be part of the informal economy. They're not there out of choice. And a lot of these people who are self-employed are not self-employed in the glamorous way that I, for example, that Vivek and me are, where we are, you know, freelance columnists or whatever, but are self-employed in the sense of, say, the pakora seller, who don't have a choice. That's pretty much all they can do to survive."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:12:17.240",
+        "message": "Yeah, there are two aspects to the problem that you just pointed out. The first is when the English speaking elite or elite who are tweeting that there's really nothing wrong with what the prime minister said. I mean, they're right in the sense that factually, there's nothing wrong with what the prime minister said. But their priors about self-employment are completely different from what is the reality on the ground. For most of us, like you mentioned, especially you and Vivek, you are self-employed out of choice. That is, your choice of being self-employed is far superior to the alternatives of the kinds of jobs that you might get. Now, what happens with the street vendors, the exact opposite. They would really like to get a job. They would like the security of the job, but they can't seem to find a job and they have to make a living. So they are self-employed as last resort. And it is very difficult to be a street vendor in India. I don't think given a choice, most of these people would want to be self-employed. There's a secondary aspect to it. Normally, when we think about entrepreneurs, you would think, oh, so today he's selling pakoras as a street vendor. Now, if he's really entrepreneurial tomorrow, that pakora enterprise will become bigger. Maybe he'll go from a cart to a food truck. Maybe he'll go from a food truck to a restaurant. Now that is the conventional thinking about self-employment and entrepreneurship when you look at the West. That never happens in India. When we say, is it not jobs when a pakora seller makes 200 rupees a day? Let's be very clear, there is no upward mobility there. He's going to continue making 200 rupees a day. It's never going to turn into a pakora shop. It's never going to turn into one of those places where, you know, pakora store, AC at the first floor and non-AC in the second floor. That's not happening. So the self-employment also has a very, very clear ceiling in terms of future growth and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:20.840",
+        "message": "productivity and opportunity. So before I cut back to Vivek, just break that down for me. Why can't he scale up? Like why can't the pakora stall become a pakora chain?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:14:31.220",
+        "message": "The pakora is affordable at that price for a regular person who might also be self-employed or trapped in a low productivity environment. So if pakoras are selling at, say, 50 rupees a plate or 30 rupees a plate, then to make it at that price, you can only do it on a street cart because it is just simply too costly to scale it up into any kind of formal establishment, because formal establishments require all kinds of permits and licenses and health inspections. And I mean, there are different surveys done in different cities on how many gazillion units you need to open a small shop or a restaurant. I'm not exactly aware of what it is for an eatery in Mumbai in the exact locality where you are, but I would guess it's pretty high."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:21.480",
+        "message": "Right. So, Vivek, let me sort of come back to you here. You published a column on the day we are recording, which is January 24th."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:15:30.960",
+        "message": "Yeah. January 24th. It's Awareness Day."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:33.960",
+        "message": "You're listening to this on the next Monday, or rather this is released on the next Monday. And you wrote this column about pakoranomics, coining that most excellent term, which I'm very fond of. And you sort of broke down Prime Minister Modi's logic. So can I ask you to sort of go over your chain of thinking again?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:15:53.720",
+        "message": "Sure. So, you know, first and foremost, I didn't come up with the example of pakora Mr. Modi did."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:01.120",
+        "message": "So that's a very important point. But pakoranomics is your coinage."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:16:03.120",
+        "message": "Yeah, pakoranomics was my coinage. So, you know, we shouldn't be getting here into the unit economics of how profitable it is to sell pakoras, because, you know, we all know of some pakodawala who made it"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:16:17.440",
+        "message": "big."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:16:18.440",
+        "message": "You know, I was tweeting about this and one gentleman sort of tweeted back that there was some pakodawala in Borivali, which is Mumbai suburb, which, you know, who had to face a raid by the income tax department. I mean, there are always exceptions like that. But a pakodawala essentially is a representation of a self-employed individual who is trying to make money by selling some stuff on the streets. And we have too many people selling too many things on the streets of India. I mean, this is a point that we need to keep in mind. Now, if you look at the fact that Mr. Modi talked about the pakodawala making rupees 200 per day, that works out to around rupees 73,000 a year, the average per capita income in 2016-17 of an average Indian was around 1.03 lakhs. So an average Indian essentially made 41% more than Mr. Modi's pakodawala. So there is a problem there. I mean, obviously, someone's got to, you know, when we're talking averages, someone will make lower than the average. But you know, 41% gap is a little too much. Then the second point that we need to keep in mind is that the pakodawala, you know, unlike me, would definitely not be single. I mean, he would have a, I'm using, you know, I'm saying he because pakodawalas in India typically are men, would typically have a family. Now, assuming, you know, the average Indian household has five people. Now, if this pakodawala has, you know, a wife and three children, then we are talking about, you know, a per capita of around 14,000 rupees per person per year, which is not a huge thing. So what we need to understand here is that, you know, all these pakodawalas and self-employment guys are essentially, as Shruti said, not there by choice, but because they don't have a choice because there are no jobs available or there are no jobs available for the skill set that they have, making pakodawalas, hawking stuff on the street is very easy. You need very little capital to start off. Now, you know, if you look at, you know, there's some very interesting data that gets put out by the Labor Bureau, you know, and they sort of suggest that close to half of India's workforce is self-employed. I mean, the exact percentage is 46.3, but since we live in an era of, you know, hyping and overhyping things, so, you know, I've rounded off 46 to 50 percent. Now, half of India's workforce is self-employed, which is too high a number anyway, right? If you look at their income brackets, very, very interesting, around 41 percent of these, you know, self-employed people make up to rupees 5,000 rupees a month, which is up to rupees 60,000 rupees a year, around 67 percent make up to rupees 90,000 a year, only 4 percent make more than 2,40,000 a year. So most of these pakodawalas slash self-employed people do not even come into the income tax bracket, okay? So the prime minister of a country sort of, you know, selling this as a vocation, I mean, that's not on. The other point I sort of wanted to make here is that, so there's clearly a problem with being self-employed. Now, what is happening now is that self-employment is sort of being mistaken, or rather, you know, the propaganda is that self-employment is entrepreneurship, which it is not. Entrepreneurship and self-employment are two very, very different terms, which we need to distinguish between, and entrepreneur is always an entrepreneur by choice. It may not be by, may or may not be by choice. So this is a very important, you know, difference that, you know, that needs to come out. Also, you know, if you look at, you know, the numbers of people, if you look at the income of people who are self-employed, I mean, as I said, 41 percent of them make up to rupees 60,000 a year, that is way less than the average per capita income."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:37.440",
+        "message": "That's less than the pakodawala, in fact, of Mr. Modi."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:20:39.880",
+        "message": "That's less than the pakodawala. So the larger point here is that Indians have been pakodawalas for a few decades now. We have been self-employed for a few decades now because we haven't got enough jobs, enough employment opportunities, enough viable employment opportunities going around. So this is not a new idea. I mean, it's just like, you know, old wine in a new bottle, which Mr. Modi is very good"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:08.760",
+        "message": "at. Am I correct to say that the pakodawala is not so much a solution as a symptom of the problem which Mr. Modi is sort of ignoring and turning away from?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:21:17.040",
+        "message": "You have nailed it. Absolutely. So, you know, Amit and Vivek, just to jump in here, I don't think in general it's a very productive idea to pick one sentence that the prime minister of a country says and then pick it apart the way we usually do on Twitter. But here I think it's really important to do it because it seems that the prime minister in this one sentence has captured exactly how much we are missing the point when it comes to good economic reform. By pointing out the biggest symptom of the problem as an example of success, in this case the pakodawala who earns 200 rupees by being self-employed because there's literally no other choice for him. That I think is a bad idea coming from the leadership of the country, which is in charge of economic reform."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:15.400",
+        "message": "And that shows a mindset problem, that shows that at some level, you know, our political class still hasn't figured out what the fundamental problem is."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:22:25.240",
+        "message": "I don't agree with that. I think they know very well what the problem is, it's just that they can't do anything about it. Given the number of structural reforms that are required and given the fact that we haven't had them for a while now. So see, every politician needs to fight and win elections. Elections happen every five years. These structural reforms are to be initiated and if we were to sort of wait for the results, it would be a decade, decade and a half. So the politicians need to do something in between. Which is why I think, you know, what this, you know, the current dispensation is very good at, is sort of taking the attention of people away from the real problem. I mean, you know, Mr. Modi was elected on the plank of jobs, employment, and, you know, economic development, minimum government, maximum governance, but all that's now fallen by the wayside. What we have is Padmavat, which is basically Padmavati or Padmavat, whatever you might call it. I mean, from people who have seen the movie, I mean, they say it's a right-winger's wet dream. And, but, you know, you look at the kind of protests that are happening against the movie. Now, if, you know, if the right wing can protest and protest so successfully against what is a right-winger's wet dream, imagine the kind of nuisance they can keep creating against other, you know, cultural and other, you know, economic issues that keep propping up. So these are, you know, you basically want to take the attention away from the real problem. So then you make statements like, so this has been happening for a while. So, you know, before he made this pakora statement, he's also been talking about the fact as to how mudra loans are creating employment. Now an average mudra loan is around 23,000 rupees. So I don't know how that is creating employment, but Mr. Modi believes that, you know, every person who takes on a mudra loan has two, three more people and there's a multiplier effect. There has been no study which has shown this. The CEO of mudra has gone on record to say that we do not have any data on, you know, the number of jobs or employment opportunities that mudra loans have created. So this has been happening for a while when you cannot deliver on what you have promised, then you have to sort of create, you know, and say things which take away attention from the real issues."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:25:00.000",
+        "message": "I would want to add one more thing to what Vivek is saying. I mean, I partially agree with him that a part of this whole pakora story is just, you know, some part of it is just spin, right, to deviate from the real problem. The first is what Vivek pointed out as the underemployment, which is masked as self-employment. But there's a second thing hidden in this number, which we haven't talked about yet. As Vivek pointed out, there's very low levels of unemployment in India. Now what is unemployment? Unemployment is people who are looking for a job and can't find a job. Now one of the things that the self-employment story and this whole, you know, the fiasco over the pakorawala tells us is, in India, people have stopped looking for jobs maybe because they know that it is that difficult for jobs to come by. It's almost impossible to find one when you have 20,000 applications for four vacancies for an office helper or something like that. So then the alternative is just to go into self-employment."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:26:09.360",
+        "message": "Which is true. Which is true. I'll just, you know, budge in here."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:12.360",
+        "message": "Which is true."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:26:13.360",
+        "message": "If you look at the CMI data, which came out a while back, so they have said that the labor force participation rate has come down. So you're right."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:22.680",
+        "message": "Yeah. So, so he's, you know, applauding the 200 rupee pakorawala while I think they need to be applauded for a completely different reason, which is that they work in a hostile environment. But Mr. Modi's reason for applauding the 200 rupee pakorawala is really trying to mask both the reasons for the unemployment data point, which is people might have just given up and the reason for the self-employment data point, which is just, it is underemployment or, you know, you just need to eke out a living and look after your family and you have no other choice, but to do something that seems relatively obvious and easier than the alternative."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:06.680",
+        "message": "And Shruti, what do you say about people giving up on getting a job is actually very poignant, you know, in an earlier episode, I was chatting with JP Narayan about the state of Indian politics today. And he pointed out that two of the qualities that, you know, characterize the essence of the Indian voter are fatalism and tribalism, and it could even be argued that one leads to the other."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:27:28.640",
+        "message": "But can you really blame the average Indian person? I mean, the three of us sitting and recording this podcast are not the average Indian person."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:38.400",
+        "message": "Can you really blame them for being fatalistic about their situation? I meant that as explanation, not condemnation at all."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:27:45.960",
+        "message": "I mean, Yeah, no, no, I understand that. I mean, things are just really, really difficult for the average young Indian male joining the job force. It's really difficult. And one part of that is, you know, what Vivek mentioned in terms of to hide that fact, you know, there's a lot of political drama over Padmavat and things like that. But the other fact is, these young men and women need to be employed in some way. And when they can't get that, they find different ways to protest. And sometimes the most obvious thing that annoys you or offends you is a great way to channel your energy because it's not like the economy allows them to channel their energy"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:34.640",
+        "message": "in a productive fashion. And in a sense, that makes Padmavat also a symptom of sorts, like one of the things we're all agreed on. And I've been writing about it for ages is that Narendra Modi has always been a man who cares more about optics than anything else, and perhaps with good reason, because most people don't care about reality, but about the narrative, the nurturing in their heads and optics plays directly to that. So he's always in campaigning mode, even after 2014. He never exactly got into governance mode, which is where I want to focus my next question that, you know, Vivek, the point you made about, you know, they know what reforms have to be made, but they're not possible because of structural reasons, by which you mean, you know, what the political economy is like, and those changes are simply not possible. So therefore, they just resort to optics, thereby implying that the system is so sclerotic that things can never improve for the better. I mean, can you elaborate on that to give me a sense of what it's like, for example, we all agree on certain labor laws, which need to be changed, we all agree on certain, a whole bunch of regulations and licensing laws, which, if they changed, would allow greater employment in the formal sector. But give me a sense of what are the sort of obstacles in their way, which prevent that"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:29:46.640",
+        "message": "from happening? Okay. So I was, you know, recently reading a column in the Business Standard written by A.K. Bhattacharya. So Mr. Bhattacharya points out, and I didn't know this, that there are 260 labor laws in the state of Jammu and Kashmir. And I mean, I knew for a fact that there are around 200 labor laws all across India, state and central labor laws, but Jammu and Kashmir seems to have outdone all of that. And they have 260 labor laws. Now they're trying to, so the state of J&K is trying to sort of come up with some sort of a code which summarizes these laws. Anyway, that's a different point. The point is, you know, every time governments have tried labor law reforms, I mean, and this includes Mr. Vajpayee, who tried some reforms in, you know, in the early 2000s, there have been grave protests from labor unions. Now, labor unions in India, as you would know, are politically affiliated. And ultimately, given the fact that they are politically affiliated and they are organized, they have a huge nuisance value. I mean, look at, you know, banks, I mean, the government of India owns 21 banks. I mean, why does the government need to own 21 banks? Some of these banks like, look at a bank like IDBI, it has a bad loans ratio of 25%. So why are we running these banks and wasting so much money? But ultimately, the point is the moment, you know, any government decides to sort of either privatize or even shut down any of these banks, there will be a huge hangama because all these unions, you know, they're all very well organized and nobody wants to get into that. Look at Air India, I mean, we've been talking about privatization of Air India for close to a year now. But still, nothing is, you know, nothing concrete has happened. I mean, they've done, you know, they've said that, you know, we'll sell the company and the employees will be protected. But then, you know, you need to, if they were serious about selling Air India, you know, by now, we would have known as to what are the terms and conditions, which come attached with it. I mean, does the buyer take on the debt of the company? What happens to the employees? Can the employees be fired, so on and so forth? But that has not happened. So essentially, you know, no, I think the..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:10.280",
+        "message": "But is that a lack of will on their part or the friction in the system?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:32:13.320",
+        "message": "I mean, both. It's both. And it's also, I think, so as Vivek pointed out, the unions are a huge nuisance there. And I want to add to that, that the other group that is a huge nuisance value. So you know, just off tangent for a minute, in standard public choice theory, we call this the transitional gains trap, which basically means that everyone, most people agree or everyone agrees that moving from system one to system two is beneficial. But when you move or transition from system one to system two, there are some winners and losers. And if the losers manage to organize themselves very well, then they can actually prevent the transition from system one to system two, which would benefit everybody largely. So now, what you need to think about is, like Vivek pointed out the example of the labor unions, we need to figure out who are these groups, who are the winners and losers for each of these categories of regulation or licensing. And it's pretty difficult, but I think we can summarize it in two big groups. The first is, of course, labor unions, which is the, you know, extremely formal, well-protected fraction of the economy compared to this huge part, which is completely vulnerable in the informal sector. The other is the bureaucrats. Now, if we get rid of all the stupid licensing requirements, then how are they going to make the rents that they wish to make or their entire reason for getting into a particular kind of job to get those rents will be defeated. So you actually, when Vivek says structural problems, it's not just frictions from outside. It's also frictions from within a very large part of the government, which is the bureaucracy, which never really goes away. You know, legislators are elected every five years. The bureaucracy is just there forever. They are extremely well organized, and it is very difficult to do things that are not in their interest. So it's very difficult to change things. Now, having said that, I want to defend the prime minister here a little bit, and I also want to zero in on where I place the blame. I want to defend the prime minister in the following fashion. The mess is really too large for one person at the top or a small group of legislators at the center to do anything about it. Now, labor laws are concurrent list. You can legislate at the center or the state. There's nothing that prevents states from adding amendments, which many states have to improve the mess that is the labor law in their particular environment. So we are not seeing any leadership at the state level either, which we could have. I mean, nothing precludes the leadership at the state level from doing something different from what the center is suggesting. So the first is, you know, there is a lot of regulation at the corporate level, at the state bureaucracy level, at the state legislation level, which I think it's a little unfair and difficult to pin the blame on the prime minister, not just this one, but any prime minister. Now, having said that, where do I think we can impose some responsibility, if not blame on the prime minister? I think the leadership has to set out the ideas and the agenda at the top. And that is something that we find missing. The spin story of saying pakodawalas are doing just fine, and it's a sign of the Indian economy doing well, sets a very poor example. The example needs to be that what can the government at the union level do to help governments at the state level untangle the regulatory mess and make it easier or have a more conducive environment for jobs? That is completely missing from the current leadership. So on that aspect, I do think that the union leadership can do the lot and they're really not doing anything. They're just deviating from the matter, spinning stories, traveling here and there, talking"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:18.340",
+        "message": "about all sorts of irrelevant nonsense. But Shruti, to sort of go back to the question of the prime minister's vision and concurrent lists and so on, the fact of the matter is that Mr. Modi boasted recently about how the BJP today rules more states than Indira Gandhi did. You know, the BJP is in power at the center and at many of the states. I mean, take Gujarat alone, for example, if he really had the will to make these changes in the conviction that they were necessary, surely he would have made more progress than he had. And I'm, you know, I totally understand that there's a lot of friction within the system, both from inside the government in terms of the bureaucratic structures and from outside in terms of unions and so on. But at the same time, my sense is that the current political leadership and every single political leadership before it in the history of independent India simply doesn't understand what needs to be done."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:37:12.400",
+        "message": "I'm not so, well, yes and no to your question. Yes, in the sense that I do think the current leadership and previous leaderships have been extremely lacking, no, in the sense that I do think as civil society in India, we need to start blaming more responsibility on different tiers of government and different individuals as opposed to focusing all our attention at one tier of government and one man or woman. So I think that is one area where I might disagree. That's the reason I jumped to the prime minister's defense, not because of what's going on is amazing, it's quite dismal, but I think we need to make state, you know, chief ministers, we need to make local corporators, we need to name these people, impose blame and responsibility on them and actually hold them accountable, right? So that is my limited point."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:06.200",
+        "message": "But my point is, the BJP is in power practically everywhere, 18 states, if I'm not mistaken, plus the center. So what is the philosophy of the party on all these issues? What are its positions? Not only are they not clearly articulated, the only articulations we get are populist articulations, which are good for optical reasons. But not only are these kinds of reforms not articulated as something that is necessary, that across the board, in most places, there's no effort to actually do anything."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:38:33.160",
+        "message": "But anyway, I mean, leaving that aside."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:35.160",
+        "message": "It's a longer discussion for another day. It's a longer discussion. It's a longer discussion. But in one sense, I don't think that is a problem or a malady that is BJP centric or"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:43.720",
+        "message": "unique."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:44.720",
+        "message": "Absolutely. I mean, no matter which party and when you ask what is their goal or agenda, it's the"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:38:50.200",
+        "message": "same as every party which is giving the most number of seats and hold on to the most power in most states. I guess I'll summarize that. So basically, I keep this is something I keep writing on that, writing that India has only one model of governance, and which is the Congress model of governance."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:39:03.760",
+        "message": "So which is absolutely true."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:39:04.760",
+        "message": "As long as we, you know, keep following that model of governance, you cannot get different"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:09.960",
+        "message": "results by doing the same thing over and over again. Narendra Modi is in power because of all the misgovernance of the last six and a half decades. And the fact of the matter is that every political party in India is pretty much left of center when it comes to economics, and doesn't believe in social freedoms. So it's like for a libertarian like me, that's the worst of both worlds."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:39:28.000",
+        "message": "Yeah. And in one sense, I think Mr. Modi's government is the most close analogy I can find is Mrs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:37.120",
+        "message": "Gandhi's government. Absolutely."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:39:39.120",
+        "message": "There is a high degree of centralization of power, a high degree of suppression of economic freedom, except that is the line that Mrs. Gandhi fully bought into. I think with Mr. Modi's current situation, there is a little bit of a spin. They seem to suggest that they want economic liberalization, but there's still suppression of economic freedom. And they both suppress social freedom in completely different ways. Right. In Mr. Modi's case, what is happening right now in the country and the protests, like I just saw a horrific video of kids in a school bus being targeted by some foul group or the other. And Mrs. Gandhi did it in a completely different way. She also hurt minorities and, you know, forcible sterilizations and all sorts of horror. So I mean, I don't think this is a BJP centric problem. I think this is a Indian governance model, I think it's a design flaw, like Vivek pointed out that we have one model of governance, which is Congress, centralized power, hold it right at the top. And you know, that's not really when we think about the structural reform that is required in the various sectors, we're talking about occupational licensing, labor reform, industrial reform. I don't think you're going to get that in that model."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:40:59.600",
+        "message": "It's highly unlikely. You know, Shruti, you would have made for a very bad journalist, simply because what you know, it took you so many words to basically, what you basically meant was NAR INDRA MODI, you know."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:41:15.040",
+        "message": "Yeah, see, I would have made a bad journalist, but I'm a professor who needs to fill up 100"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:21.920",
+        "message": "minutes of class time. So you need to be verbose. Kind of now, microscoping down and moving from the sort of the large issue that we've been talking about and coming back to jobs. And this is something again, Vivek, you and I have discussed on a previous podcast, we had a podcast just on jobs. And given that Mr. Modi is focusing more on optics with, you know, all these fancy images of pakorawala earning 200 a day being what he's selling, you know, are you optimistic or pessimistic about what's going to happen in the near future?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:41:56.040",
+        "message": "Where is the ray of hope? I'm extremely pessimistic. I, in fact, earlier in the day, I just wrote a piece which I headlined, India has lost its bus out of poverty. Okay, so I am extremely pessimistic."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:16.360",
+        "message": "I'm very pessimistic about the government and what the government can do to improve our lot in life. I'm very optimistic about individual creativity and entrepreneurship and ingenuity. And Amit, you and I have had this conversation many times over, you even call it the million mutinies after Mr. Naipaul."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:41.400",
+        "message": "Actually it's a mutual friend, Varun Mitra has, you know, invoked that Naipaul term in"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:45.880",
+        "message": "this context, a million mutinies, and also credit to Varun for it. Oh wonderful. Yeah, so fantastic Varun. I mean, Varun is amazing. Well, everybody should follow Varun Mitra on Twitter and in life, he is fantastic. But I think that is what I'm optimistic about. I'm still very optimistic about the average Indian. I mean, look at Indians, they survived a disaster like demonetization. Because Indians are fundamentally intelligent, entrepreneurial, try and find a way to get by despite all the oppression of the state. And once in a way, while they are just getting by and just sort of surviving, you see the incredible idea, you see the incredible entrepreneurship, you see the next hero."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:38.360",
+        "message": "So that I'm very optimistic about the Indian people. The flip side of that might well be that they survived just by being fatalistic, not necessarily optimistic. You know what?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:43:48.360",
+        "message": "Fatalism is our optimism, you know."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:43:49.360",
+        "message": "No, but what I like about India is, you know, like Mrs. Joan Robinson said that anything you say about India, the opposite is also true. So if there is a very large group which is fatalistic, then there's a very large group that is entrepreneurial and clever and ingenious and will come out of it also. So a large enough group of people that we're talking about, that I think that we can easily find the million mutinies that we're looking for."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:17.680",
+        "message": "On that marvelously optimistic or pessimistic note, whichever way you look at it, for We Contain Multitudes, I'll thank you both for coming on the show where we agreed and disagreed so much because everything happened. And it's always a pleasure talking to both of you guys. And I hope we can continue to do so in future after Mr. Modi listens to this particular episode."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:44:38.440",
+        "message": "Thanks, Amit."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:44:39.440",
+        "message": "Hi. Thanks, Amit. I mean, for inviting me when I pretty much just sort of elbowed my way into this conversation. And I wanted to make two plugs. One, when you talked about Indian colors, you guys can't see it because I'm not in the studio. I'm actually wearing a Haren Vakil scarf with the jazz player and the other plug that everybody should read Vivek's book. It's marvelous."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:04.360",
+        "message": "Absolutely. If you read this book, give big government and why it's hurting you and indiancolors.com colors with an OU. Thank you guys. If you enjoyed listening to the show, you can follow Shruti on Twitter at S Raj Gopalan. You can follow Vivek on Twitter at call underscore Vivek. You can follow me at Amit Verma, A M I T V A R M A. If you want to listen to more great podcasts from India, check out IVM podcasts, just download their app, like them on Facebook or Twitter, and you'll find many more great shows for archives of the scene in the unseen. Please head on over to seen unseen.in. I've done plenty of episodes with both Vivek and Shruti, though never together before this. So do check those out. Thank you for listening. If you enjoyed listening to the scene in the unseen, it makes complete sense for you to check out the Pragati podcast, a show on public policy. Pragati is a magazine I edit and the Pragati podcast is hosted by two of my colleagues, Pawan Srinath and Hamsini Hariharan. Every week, Pawan and Hamsini analyze views and news from India and the world and talk to experts and practitioners on a wide range of issues. Episodes out every Thursday."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:46:20.400",
+        "message": "So there's your mid-week fix right there."
+    }
+]

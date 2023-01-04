@@ -1,0 +1,863 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:09.560
+[Amit Varma]: Welcome to the IVM Podcast Network.
+
+00:00:09.560 --> 00:00:14.240
+[Amit Varma]: Imagine you're a farmer with an empty bank balance and little cash.
+
+00:00:14.240 --> 00:00:19.080
+[Amit Varma]: You're about to sow your crops at the start of the season and are filled with uncertainty.
+
+00:00:19.080 --> 00:00:20.840
+[Amit Varma]: What if the monsoon is bad?
+
+00:00:20.840 --> 00:00:24.040
+[Amit Varma]: What if the harvest isn't good for some other reason this year?
+
+00:00:24.040 --> 00:00:28.200
+[Amit Varma]: If you're unable to sell your produce at the end of the season, you will be deeply in debt
+
+00:00:28.200 --> 00:00:31.440
+[Amit Varma]: and will not be able to put food on the table.
+
+00:00:31.440 --> 00:00:35.800
+[Amit Varma]: Just as you're getting stressed out over this thought, a man in a floral t-shirt and Bermuda
+
+00:00:35.800 --> 00:00:38.440
+[Amit Varma]: shorts appears in front of you.
+
+00:00:38.440 --> 00:00:43.480
+[Amit Varma]: He gives you a sunny smile, a plate of fried eggs sunny side up, and then grabs you by
+
+00:00:43.480 --> 00:00:46.800
+[Amit Varma]: the hand and takes you to a Las Vegas-style casino.
+
+00:00:46.800 --> 00:00:51.720
+[Amit Varma]: There, he takes you to a roulette table and he says, spin.
+
+00:00:51.720 --> 00:00:57.200
+[Amit Varma]: And even as your first instinct is to get away from him, a voice in your head says,
+
+00:00:57.200 --> 00:00:58.760
+[Amit Varma]: don't worry.
+
+00:00:58.760 --> 00:01:01.680
+[Amit Varma]: This is exactly what you need.
+
+00:01:01.680 --> 00:01:09.360
+[Unknown]: Welcome to The Seen and the Unseen, our weekly podcast on economics, politics and behavioural
+
+00:01:09.360 --> 00:01:10.360
+[Unknown]: science.
+
+00:01:10.360 --> 00:01:14.400
+[Unknown]: Please welcome your host, Amit Varma.
+
+00:01:14.400 --> 00:01:18.920
+[Amit Varma]: Welcome to The Seen and the Unseen, my weekly podcast in which I talk about the seen and
+
+00:01:18.920 --> 00:01:22.080
+[Amit Varma]: unseen effects of public policy.
+
+00:01:22.080 --> 00:01:26.160
+[Amit Varma]: Today's subject is futures markets in agriculture.
+
+00:01:26.160 --> 00:01:31.240
+[Amit Varma]: The government in India has always been wary of futures markets in agriculture, either
+
+00:01:31.240 --> 00:01:35.040
+[Amit Varma]: regulating them heavily or simply banning them outright.
+
+00:01:35.040 --> 00:01:38.920
+[Amit Varma]: What is the seen effect of this?
+
+00:01:38.920 --> 00:01:43.920
+[Amit Varma]: The seen effect of restricting futures markets in agriculture is that farmers don't become
+
+00:01:43.920 --> 00:01:44.920
+[Amit Varma]: gamblers.
+
+00:01:44.920 --> 00:01:49.120
+[Amit Varma]: After all, their place is on a farm, not in a casino.
+
+00:01:49.120 --> 00:01:55.000
+[Amit Varma]: Ah well, you could argue that the whole world is a casino and that the farmers are already
+
+00:01:55.000 --> 00:01:56.000
+[Amit Varma]: gambling.
+
+00:01:56.000 --> 00:02:01.400
+[Amit Varma]: To speak more about the subject and to take us through the unseen effects of such regulation,
+
+00:02:01.400 --> 00:02:06.600
+[Amit Varma]: I have with me Karthik Shashidhar, a renowned quant with a cult following, a management
+
+00:02:06.600 --> 00:02:13.840
+[Amit Varma]: consultant, a columnist at Mint who also corrupts young minds by teaching at IIM Bangalore.
+
+00:02:13.840 --> 00:02:16.080
+[Amit Varma]: Karthik, what are futures in agriculture?
+
+00:02:16.080 --> 00:02:18.880
+[Guest]: Okay, first let me talk about what are futures, right?
+
+00:02:18.880 --> 00:02:20.760
+[Guest]: And then we'll come to the agriculture.
+
+00:02:20.760 --> 00:02:27.640
+[Guest]: So usually, so let's say for example, that like, I'm okay, actually I'll take the agriculture
+
+00:02:27.640 --> 00:02:28.640
+[Guest]: example.
+
+00:02:28.640 --> 00:02:33.120
+[Guest]: I want to sell something, let's say six months down the line, and I don't know what the price
+
+00:02:33.120 --> 00:02:34.600
+[Guest]: will be then, right?
+
+00:02:34.600 --> 00:02:40.440
+[Guest]: So futures is basically a contract I strike with you saying, let's say on the 26th of
+
+00:02:40.440 --> 00:02:46.680
+[Guest]: May 2017, I'm going to sell you a hundred kilos of rice for which you're going to pay
+
+00:02:46.680 --> 00:02:48.460
+[Guest]: me 10,000 rupees.
+
+00:02:48.460 --> 00:02:55.040
+[Guest]: So it's a contract you strike on one day for execution on a future date.
+
+00:02:55.040 --> 00:02:59.520
+[Guest]: So the future, at the simplest level, that's a futures contract, which is basic.
+
+00:02:59.520 --> 00:03:02.980
+[Guest]: And then, and futures are typically traded on an exchange.
+
+00:03:02.980 --> 00:03:07.640
+[Guest]: So in commodities, you have like the multi commodities exchange and NCDEX and so on.
+
+00:03:07.640 --> 00:03:12.540
+[Guest]: For stock market, you have BSE and NSE and things like that, where futures are traded.
+
+00:03:12.540 --> 00:03:16.560
+[Amit Varma]: So why do governments tend to be distrustful of future markets and why, for example, has
+
+00:03:16.560 --> 00:03:20.080
+[Amit Varma]: there over the years been so much regulation in futures trading and agriculture?
+
+00:03:20.080 --> 00:03:25.200
+[Guest]: Yeah, just to give a little history into this, futures trading and agriculture had been blanket
+
+00:03:25.200 --> 00:03:27.320
+[Guest]: banned in 1952 or something like that.
+
+00:03:27.320 --> 00:03:30.080
+[Guest]: There was some Forward Contracts Regulation Act, which banned it.
+
+00:03:30.080 --> 00:03:31.360
+[Amit Varma]: What was the logic for it?
+
+00:03:31.360 --> 00:03:35.920
+[Guest]: Logic for it is that like, it's an anti-farmer, futures are anti-farmer.
+
+00:03:35.920 --> 00:03:42.760
+[Guest]: It like supports evil speculators who can buy cheap from the farmer and sell at an expensive
+
+00:03:42.760 --> 00:03:44.480
+[Guest]: rate to the consumer.
+
+00:03:44.480 --> 00:03:48.920
+[Guest]: And if you were to take out the evil speculator, and instead like kind of force the farmer
+
+00:03:48.920 --> 00:03:53.760
+[Guest]: to sell through regulated markets, then both the farmers and the consumers can gain.
+
+00:03:53.760 --> 00:03:55.400
+[Guest]: So that was the logic back then.
+
+00:03:55.400 --> 00:03:59.640
+[Guest]: 2003, they figured out the fault in the logic and they undid that regulation.
+
+00:03:59.640 --> 00:04:01.200
+[Guest]: And futures markets in all...
+
+00:04:01.200 --> 00:04:02.200
+[Amit Varma]: So what did they understand?
+
+00:04:02.200 --> 00:04:03.960
+[Guest]: What is the flaw in that logic?
+
+00:04:03.960 --> 00:04:09.440
+[Guest]: The flaw in the logic that like futures are anti-farmer, it's very hard to simply describe
+
+00:04:09.440 --> 00:04:10.680
+[Guest]: what the flaw in the logic is.
+
+00:04:10.680 --> 00:04:16.680
+[Guest]: But the basic logic is that futures are pro-farmer because they allow, they're a key risk management
+
+00:04:16.680 --> 00:04:21.720
+[Guest]: tool for a farmer, because for a farmer, one of the biggest sources of risk, apart from
+
+00:04:21.720 --> 00:04:26.880
+[Guest]: monsoon failing and electricity and things like that, a big source of risk is price risk.
+
+00:04:26.880 --> 00:04:33.680
+[Guest]: If I am going to grow coffee today, if I need to make a decision that I want to grow coffee,
+
+00:04:33.680 --> 00:04:37.840
+[Guest]: I need to know how much that coffee will fetch me when I'm going to harvest it now.
+
+00:04:37.840 --> 00:04:43.680
+[Guest]: And futures markets is one excellent way for me to know what it's going to fetch me.
+
+00:04:43.680 --> 00:04:48.960
+[Guest]: And if the government decides to ban that, I have absolutely no information on price
+
+00:04:48.960 --> 00:04:50.660
+[Guest]: and I have to speculate.
+
+00:04:50.660 --> 00:04:54.440
+[Guest]: So the lack of futures markets actually results in farmers speculating.
+
+00:04:54.440 --> 00:04:55.440
+[Amit Varma]: Right.
+
+00:04:55.440 --> 00:04:56.920
+[Amit Varma]: And instead of the certainty it provides.
+
+00:04:56.920 --> 00:05:01.960
+[Amit Varma]: So the scene effect of regulating or banning futures market would appear to be that there's
+
+00:05:01.960 --> 00:05:06.640
+[Amit Varma]: no speculation and it's, you know, you don't introduce the logic of the casino into something
+
+00:05:06.640 --> 00:05:10.200
+[Amit Varma]: as initial as agriculture, but the unseen effect is the opposite happens, you're saying.
+
+00:05:10.200 --> 00:05:11.200
+[Guest]: Exactly.
+
+00:05:11.200 --> 00:05:12.200
+[Guest]: So let me just take a recent example.
+
+00:05:12.200 --> 00:05:18.640
+[Guest]: I think in August this year, the government recommended SEBI to ban futures trading in
+
+00:05:18.640 --> 00:05:19.640
+[Guest]: sugar.
+
+00:05:19.640 --> 00:05:24.360
+[Guest]: The trigger for that was that prices of sugar had been increasing and the government in
+
+00:05:24.360 --> 00:05:27.600
+[Guest]: its wisdom said, the festival season is approaching.
+
+00:05:27.600 --> 00:05:33.240
+[Guest]: You don't want consumers to suffer because sugar prices are going to go up.
+
+00:05:33.240 --> 00:05:37.240
+[Guest]: So and it's because of evil speculators that like prices are going up.
+
+00:05:37.240 --> 00:05:40.720
+[Guest]: So let's ban speculation, let's ban all futures contracts.
+
+00:05:40.720 --> 00:05:42.240
+[Guest]: But then like, think about it, right?
+
+00:05:42.240 --> 00:05:49.300
+[Guest]: I mean, what a futures price essentially recommends or represents is actual demand supply imbalance
+
+00:05:49.300 --> 00:05:50.400
+[Guest]: in the future.
+
+00:05:50.400 --> 00:05:51.400
+[Guest]: Why would you speculate?
+
+00:05:51.400 --> 00:05:53.080
+[Guest]: Let's say you're a hoarder, right?
+
+00:05:53.080 --> 00:05:57.520
+[Guest]: You think of all those hoarders who are villains of all the 1970s Hindi movies.
+
+00:05:57.520 --> 00:06:02.200
+[Guest]: If you're a hoarder, I would hoard something if and only if I know it's going to fetch
+
+00:06:02.200 --> 00:06:04.320
+[Guest]: me a higher price in the future.
+
+00:06:04.320 --> 00:06:07.560
+[Guest]: And how do I know it's going to fetch me a higher price in the future?
+
+00:06:07.560 --> 00:06:11.960
+[Guest]: For whatever reason I have in info on the market, I'm probably, I have my eyes and ears
+
+00:06:11.960 --> 00:06:12.960
+[Guest]: close to the market.
+
+00:06:12.960 --> 00:06:16.920
+[Guest]: And I know that there's a shortage of this coming up sometime soon.
+
+00:06:16.920 --> 00:06:19.280
+[Guest]: And because of that, I'm going to hoard.
+
+00:06:19.280 --> 00:06:25.520
+[Guest]: And yes, so it is a logical thing to say that futures markets possibly encourages hoarding.
+
+00:06:25.520 --> 00:06:29.280
+[Guest]: But then hoarding also encourages efficient distribution of resources.
+
+00:06:29.280 --> 00:06:30.280
+[Guest]: And information.
+
+00:06:30.280 --> 00:06:31.280
+[Guest]: And information.
+
+00:06:31.280 --> 00:06:32.280
+[Guest]: And this is the other thing, right?
+
+00:06:32.280 --> 00:06:34.160
+[Guest]: I mean, this is something I want to talk about.
+
+00:06:34.160 --> 00:06:38.200
+[Guest]: So basically, if you're a farmer, think about a socialist utopia.
+
+00:06:38.200 --> 00:06:43.820
+[Guest]: In a socialist utopia, the government or whoever it is decides that, okay, this year we need
+
+00:06:43.820 --> 00:06:47.460
+[Guest]: to plant 100 kilos of rice, 200 kilos of wheat, whatever.
+
+00:06:47.460 --> 00:06:50.440
+[Guest]: And these are the farmers who need to plant that and so on, right?
+
+00:06:50.440 --> 00:06:55.140
+[Guest]: And in the presence of perfect information, possibly it might work, but then that leads
+
+00:06:55.140 --> 00:06:56.480
+[Guest]: to a coercive state.
+
+00:06:56.480 --> 00:07:01.400
+[Guest]: So how do you come up to the same conclusion in terms of how do you, how do you get millions
+
+00:07:01.400 --> 00:07:06.600
+[Guest]: of farmers across the country to coordinate on who grows what every year?
+
+00:07:06.600 --> 00:07:08.840
+[Guest]: For that, you need a way to capture information.
+
+00:07:08.840 --> 00:07:14.360
+[Guest]: So if I am a farmer, if I need to be steered towards growing what others are not growing,
+
+00:07:14.360 --> 00:07:18.640
+[Guest]: the futures market is a great place for me to know what others are growing.
+
+00:07:18.640 --> 00:07:22.800
+[Guest]: So let's say for example, lots of people are growing rice and have sold rice in the futures
+
+00:07:22.800 --> 00:07:25.080
+[Guest]: market because they know they're going to grow rice.
+
+00:07:25.080 --> 00:07:28.160
+[Guest]: Then I'll see that the price of rice in the futures market is down.
+
+00:07:28.160 --> 00:07:33.080
+[Guest]: So it makes less sense for me to buy rice and maybe I'll grow wheat instead and so on,
+
+00:07:33.080 --> 00:07:34.080
+[Guest]: right?
+
+00:07:34.080 --> 00:07:38.760
+[Guest]: So when a large number of farmers take a look at this futures market and participate in
+
+00:07:38.760 --> 00:07:41.720
+[Guest]: it because as soon as they make the decision on what to grow, they need to lock in the
+
+00:07:41.720 --> 00:07:46.120
+[Guest]: price on the futures market, they are exchanging information with each other and they together
+
+00:07:46.120 --> 00:07:49.680
+[Guest]: will collectively come up to a decision on what is good for the country.
+
+00:07:49.680 --> 00:07:54.800
+[Amit Varma]: So is it correct to say that just as prices convey information, futures market are one
+
+00:07:54.800 --> 00:07:58.960
+[Amit Varma]: great mechanism for actually propagating that information efficiently?
+
+00:07:58.960 --> 00:08:00.600
+[Guest]: So I would put it a little differently.
+
+00:08:00.600 --> 00:08:03.360
+[Guest]: You say prices convey information.
+
+00:08:03.360 --> 00:08:08.760
+[Guest]: Futures markets are again like futures prices, they convey information of what the market
+
+00:08:08.760 --> 00:08:10.160
+[Guest]: looks like in the future.
+
+00:08:10.160 --> 00:08:17.040
+[Guest]: So it helps people make more efficient decisions because they have more information on what
+
+00:08:17.040 --> 00:08:18.640
+[Guest]: things are going to be like in the future, right?
+
+00:08:18.640 --> 00:08:21.960
+[Guest]: So instead of going to the village astrologer to know what the price of rice is going to
+
+00:08:21.960 --> 00:08:25.880
+[Guest]: be, you go to the futures market to know what the price is and make your decision accordingly.
+
+00:08:25.880 --> 00:08:28.400
+[Amit Varma]: Where the wisdom of crowds come into play basically.
+
+00:08:28.400 --> 00:08:31.800
+[Guest]: Where the wisdom of crowds come into play and the important thing is this, it's the
+
+00:08:31.800 --> 00:08:32.800
+[Guest]: participation.
+
+00:08:32.800 --> 00:08:36.080
+[Guest]: So it's important for futures markets to work.
+
+00:08:36.080 --> 00:08:39.320
+[Guest]: It's important that a lot of people are participating in the market.
+
+00:08:39.320 --> 00:08:44.000
+[Guest]: If I only use the futures market to as a price reference and don't actually trade on it,
+
+00:08:44.000 --> 00:08:48.640
+[Guest]: what will happen is like whatever my information on what I'm going to grow is not going to
+
+00:08:48.640 --> 00:08:52.040
+[Guest]: get disseminated to the larger group of farmers.
+
+00:08:52.040 --> 00:08:56.840
+[Guest]: So basically to use a phrase from another context, you don't want lurkers in the futures
+
+00:08:56.840 --> 00:08:57.840
+[Unknown]: market.
+
+00:08:57.840 --> 00:09:02.160
+[Guest]: So if I'm participating in the futures market, it's good for me because it locks in my price
+
+00:09:02.160 --> 00:09:04.880
+[Guest]: and it's good for everybody else because they know what I'm growing.
+
+00:09:04.880 --> 00:09:05.880
+[Guest]: They get that information.
+
+00:09:05.880 --> 00:09:07.520
+[Guest]: And it happens in a completely anonymous fashion.
+
+00:09:07.520 --> 00:09:11.040
+[Guest]: You don't need to know which is the farmer who's growing rice so that you can go beat
+
+00:09:11.040 --> 00:09:16.640
+[Guest]: him up so that he doesn't grow rice because it happens at a large decentralized level.
+
+00:09:16.640 --> 00:09:19.720
+[Amit Varma]: Moving aside agriculture for the moment, can you give me examples of futures markets in
+
+00:09:19.720 --> 00:09:20.720
+[Guest]: India which work?
+
+00:09:20.720 --> 00:09:21.720
+[Guest]: Yeah.
+
+00:09:21.720 --> 00:09:27.200
+[Guest]: So for example, India has one of the most vibrant futures markets when it comes to stocks.
+
+00:09:27.200 --> 00:09:32.360
+[Guest]: So if you take, let's say for example, you want to bet that, so Nifty is trading at around
+
+00:09:32.360 --> 00:09:33.360
+[Guest]: 8,000 now.
+
+00:09:33.360 --> 00:09:36.280
+[Guest]: You want to bet that it's going to go to 8,500 in six months down the line.
+
+00:09:36.280 --> 00:09:40.280
+[Guest]: So if there's a six month futures, sell on the futures market and then like you can lock
+
+00:09:40.280 --> 00:09:41.280
+[Guest]: in the price.
+
+00:09:41.280 --> 00:09:45.280
+[Amit Varma]: So that locks in your preference and it sends information of your perception to everyone
+
+00:09:45.280 --> 00:09:47.180
+[Guest]: else and that affects, exactly.
+
+00:09:47.180 --> 00:09:49.960
+[Guest]: So it's a way to collect the wisdom of crowds, as you mentioned a while back.
+
+00:09:49.960 --> 00:09:52.400
+[Guest]: So it's profitable both for you and for everybody else.
+
+00:09:52.400 --> 00:09:55.320
+[Guest]: So it's a kind of a Pareto optimal thing to have futures markets.
+
+00:09:55.320 --> 00:09:59.440
+[Amit Varma]: So now you mentioned before I rudely interrupted you that the ban on futures markets in India
+
+00:09:59.440 --> 00:10:06.080
+[Amit Varma]: was lifted in 2003, I think that it was, but regulation has continued on an ad hoc basis
+
+00:10:06.080 --> 00:10:07.080
+[Guest]: since.
+
+00:10:07.080 --> 00:10:08.080
+[Guest]: Yes.
+
+00:10:08.080 --> 00:10:10.360
+[Guest]: So the biggest problem with the futures markets now is one problem is that you have large
+
+00:10:10.360 --> 00:10:11.360
+[Guest]: lot sizes.
+
+00:10:11.360 --> 00:10:13.960
+[Guest]: This is there in the financial futures also.
+
+00:10:13.960 --> 00:10:19.200
+[Guest]: The logic is that like the small retail investor needs to be protected or small farmer needs
+
+00:10:19.200 --> 00:10:20.200
+[Guest]: to be protected.
+
+00:10:20.200 --> 00:10:24.080
+[Guest]: So you don't want small farmers to be gambling their money away in the futures markets.
+
+00:10:24.080 --> 00:10:28.320
+[Guest]: So you need to have like, like to buy futures in stocks, you need to have at least two lakh
+
+00:10:28.320 --> 00:10:29.320
+[Guest]: rupees for commodity.
+
+00:10:29.320 --> 00:10:31.080
+[Guest]: It's, it's a larger number.
+
+00:10:31.080 --> 00:10:35.000
+[Guest]: So, so because of that, all farmers cannot participate in the futures market.
+
+00:10:35.000 --> 00:10:39.560
+[Guest]: So they are one denied the information to their denied the opportunity to convey their
+
+00:10:39.560 --> 00:10:40.560
+[Guest]: information.
+
+00:10:40.560 --> 00:10:41.560
+[Guest]: Right.
+
+00:10:41.560 --> 00:10:47.160
+[Guest]: And the second thing, and which is more kind of problematic in terms of the use of futures
+
+00:10:47.160 --> 00:10:49.760
+[Guest]: markets is this whole ad hoc banning.
+
+00:10:49.760 --> 00:10:56.200
+[Guest]: So earlier this year, for example, the prices of sugar were going up and the government
+
+00:10:56.200 --> 00:11:00.760
+[Guest]: decided that, okay, so the way they did it was this one prices of sugar are going up
+
+00:11:00.760 --> 00:11:03.800
+[Guest]: to futures markets exists in sugar.
+
+00:11:03.800 --> 00:11:07.320
+[Guest]: And then they come up with a causation that because futures markets exist in sugar, the
+
+00:11:07.320 --> 00:11:09.320
+[Guest]: prices are going up, ban the futures markets.
+
+00:11:09.320 --> 00:11:10.320
+[Guest]: Brilliant.
+
+00:11:10.320 --> 00:11:14.680
+[Guest]: So the, the good thing now, and this is an important piece of reform from this year's
+
+00:11:14.680 --> 00:11:19.200
+[Guest]: union budget, which people have missed is that earlier you used to have this entity
+
+00:11:19.200 --> 00:11:23.800
+[Guest]: called a forward markets commission who used to recommend, who used to regulate all futures
+
+00:11:23.800 --> 00:11:29.280
+[Guest]: and options markets in both agriculture and single stocks and so on.
+
+00:11:29.280 --> 00:11:33.560
+[Guest]: After a scam, I mean, a lot of reform in India, I think happens on the back of scams.
+
+00:11:33.560 --> 00:11:37.520
+[Guest]: After a scam last year on the national spot exchange, what the government decided was
+
+00:11:37.520 --> 00:11:42.680
+[Guest]: to merge the FMC with SEBI, who's the securities market regulator and who has a great reputation
+
+00:11:42.680 --> 00:11:46.280
+[Guest]: of fair securities market regulation over the last 25 years.
+
+00:11:46.280 --> 00:11:50.440
+[Guest]: So now earlier, FMC was a very pliable kind of a regulator.
+
+00:11:50.440 --> 00:11:53.560
+[Guest]: Government would say, ban futures in this, they would go and ban it.
+
+00:11:53.560 --> 00:11:58.000
+[Guest]: This year, two times government asked SEBI, why don't you ban futures trading in sugar?
+
+00:11:58.000 --> 00:12:04.240
+[Guest]: And SEBI said, no way, it's a, we know markets better and banning futures trading is not
+
+00:12:04.240 --> 00:12:09.560
+[Guest]: going to kind of really result in kind of curbing the price.
+
+00:12:09.560 --> 00:12:11.720
+[Amit Varma]: So we are not going to ban it.
+
+00:12:11.720 --> 00:12:16.480
+[Amit Varma]: So given the role of futures market in a bringing some certainty to say a farmer in this case
+
+00:12:16.480 --> 00:12:21.040
+[Amit Varma]: and also in disseminating information, is there any circumstance in which it is correct
+
+00:12:21.040 --> 00:12:24.160
+[Amit Varma]: to ban futures markets?
+
+00:12:24.160 --> 00:12:25.160
+[Guest]: I can't think of any.
+
+00:12:25.160 --> 00:12:26.160
+[Guest]: You can't think of any?
+
+00:12:26.160 --> 00:12:27.160
+[Guest]: I can't think of any.
+
+00:12:27.160 --> 00:12:30.260
+[Amit Varma]: And is it therefore any reason to regulate them at all?
+
+00:12:30.260 --> 00:12:34.040
+[Guest]: You need to regulate them in terms of like, let's say, for example, like you were to regulate
+
+00:12:34.040 --> 00:12:37.280
+[Guest]: stock markets, because you need to make sure that like, for example, there's counterparty
+
+00:12:37.280 --> 00:12:38.280
+[Guest]: risk.
+
+00:12:38.280 --> 00:12:45.960
+[Guest]: Let's say I pledge to sell you 10,000 kilos of rice, and then like you go bankrupt.
+
+00:12:45.960 --> 00:12:49.880
+[Guest]: My kind of contact needs to be upheld, right, which is why you need to have futures trading
+
+00:12:49.880 --> 00:12:54.120
+[Guest]: on an exchange where counterparty risk is protected and so on.
+
+00:12:54.120 --> 00:12:55.800
+[Guest]: Second thing is you don't want fraud in the futures market.
+
+00:12:55.800 --> 00:13:02.200
+[Guest]: I mean, see, the thing is, protecting the small farmer is actually a good kind of intention.
+
+00:13:02.200 --> 00:13:04.720
+[Guest]: And you need to protect him against fraud and so on.
+
+00:13:04.720 --> 00:13:06.400
+[Guest]: So how do you kind of prevent that?
+
+00:13:06.400 --> 00:13:11.280
+[Guest]: A little bit of a gray area here is in terms of like, marketing and sales of futures, because
+
+00:13:11.280 --> 00:13:16.880
+[Guest]: sometimes like, I mean, there's no, I can't think of a good way to regulate them, because
+
+00:13:16.880 --> 00:13:20.080
+[Guest]: you don't want, there can be massive mis-selling if you were to actually allow it.
+
+00:13:20.080 --> 00:13:24.120
+[Guest]: I mean, that's possibly the reason why governments don't allow small farmers to actually trade
+
+00:13:24.120 --> 00:13:25.720
+[Guest]: in futures markets and so on.
+
+00:13:25.720 --> 00:13:29.000
+[Guest]: Because they can be like massive, like if I'm an investment banker looking to make a
+
+00:13:29.000 --> 00:13:33.360
+[Guest]: good buck, I can go catch some poor guy and like sell him some like, there's a recent
+
+00:13:33.360 --> 00:13:41.480
+[Guest]: case of Goldman Sachs selling a large number of some call options on Citigroup to Libya
+
+00:13:41.480 --> 00:13:42.480
+[Guest]: in 2008.
+
+00:13:42.480 --> 00:13:47.840
+[Guest]: Libya thought they were buying Citigroup stock, Goldman had sold them options.
+
+00:13:47.840 --> 00:13:52.200
+[Guest]: And the Libyan Investment Authority lost more than a billion dollars or something.
+
+00:13:52.200 --> 00:13:57.320
+[Guest]: And recently they sued Goldman and the case got thrown out by a court in England.
+
+00:13:57.320 --> 00:14:02.200
+[Amit Varma]: So in regulatory terms, now that SEBI, which as you say, has a very good record of regulation
+
+00:14:02.200 --> 00:14:07.400
+[Amit Varma]: over the past 20-25 years, is in charge of regulating future markets, is this an ideal
+
+00:14:07.400 --> 00:14:11.560
+[Amit Varma]: situation or in policy terms, is there something else that you would suggest?
+
+00:14:11.560 --> 00:14:16.100
+[Guest]: I think it's a good situation that SEBI is regulating now, because like, there's no reason
+
+00:14:16.100 --> 00:14:20.040
+[Guest]: why commodities futures are different from stock futures and why stock futures are different
+
+00:14:20.040 --> 00:14:21.040
+[Guest]: from stocks and so on.
+
+00:14:21.040 --> 00:14:23.880
+[Guest]: So it's good that everything is under one umbrella.
+
+00:14:23.880 --> 00:14:28.920
+[Guest]: And it's under a good umbrella because I think SEBI has had a fantastic record in the way
+
+00:14:28.920 --> 00:14:32.360
+[Guest]: it has regulated stock markets in the past.
+
+00:14:32.360 --> 00:14:35.880
+[Guest]: In the, one of the things is, I mean, you do have restrictions in the market.
+
+00:14:35.880 --> 00:14:39.720
+[Guest]: Like for example, you can only use futures for hedging and not for speculation.
+
+00:14:39.720 --> 00:14:44.800
+[Guest]: There's actually, so you, like any other law, this law has been written in a way that it's
+
+00:14:44.800 --> 00:14:47.800
+[Guest]: very hard to kind of be enforced.
+
+00:14:47.800 --> 00:14:51.220
+[Guest]: It's very hard to kind of follow without breaching.
+
+00:14:51.220 --> 00:14:53.240
+[Guest]: So the ambiguity needs to be removed.
+
+00:14:53.240 --> 00:14:56.600
+[Guest]: There's an ambiguity in terms of like, am I a farmer?
+
+00:14:56.600 --> 00:14:58.520
+[Guest]: Am I using it for hedging and so on, right?
+
+00:14:58.520 --> 00:15:04.160
+[Guest]: So that bit kind of needs to be kind of removed so that the regulation is far simpler.
+
+00:15:04.160 --> 00:15:08.000
+[Guest]: While on the other hand, you need to have some ways of consumer protection because you
+
+00:15:08.000 --> 00:15:12.280
+[Guest]: don't want too much of like mis-selling and stuff to go on, which can potentially happen.
+
+00:15:12.280 --> 00:15:13.280
+[Amit Varma]: Exactly.
+
+00:15:13.280 --> 00:15:19.000
+[Amit Varma]: So to sum it up, why don't you tell me again, what are the unseen effects of either banning
+
+00:15:19.000 --> 00:15:20.920
+[Guest]: or over-regulation of futures markets?
+
+00:15:20.920 --> 00:15:24.680
+[Guest]: Okay, the main unseen effect is that it results in speculation.
+
+00:15:24.680 --> 00:15:28.000
+[Guest]: The seen effect of futures banning is that it cuts speculation.
+
+00:15:28.000 --> 00:15:33.800
+[Guest]: The unseen effect is that it results in speculation because people are denied information.
+
+00:15:33.800 --> 00:15:36.280
+[Guest]: And when you have information, there's no need to speculate.
+
+00:15:36.280 --> 00:15:38.840
+[Guest]: It's only when you don't have information that you try and speculate.
+
+00:15:38.840 --> 00:15:40.320
+[Guest]: And that's what people do in the futures market.
+
+00:15:40.320 --> 00:15:43.320
+[Amit Varma]: So by not allowing farmers in the futures market, we're turning them into gamblers.
+
+00:15:43.320 --> 00:15:44.960
+[Guest]: We are turning them into gamblers.
+
+00:15:44.960 --> 00:15:48.000
+[Amit Varma]: Karthik, pleasure having you on the show.
+
+00:15:48.000 --> 00:15:50.080
+[Amit Varma]: Thanks so much.
+
+00:15:50.080 --> 00:15:55.080
+[Amit Varma]: If William Shakespeare had been used to thinking probabilistically, he would have no doubt
+
+00:15:55.080 --> 00:16:00.720
+[Amit Varma]: said that all the world's a casino, all the men and women merely gamblers.
+
+00:16:00.720 --> 00:16:06.960
+[Amit Varma]: Every action we take is in some way a gamble of some sort, based on our estimate of probabilities
+
+00:16:06.960 --> 00:16:09.400
+[Amit Varma]: and our weighing up costs and benefits.
+
+00:16:09.400 --> 00:16:14.680
+[Amit Varma]: Maybe we don't think about it in these terms, but intuitively that's what we're doing.
+
+00:16:14.680 --> 00:16:21.320
+[Amit Varma]: Consider the irony then that futures markets, which seem to us to be an arena for gambling,
+
+00:16:21.320 --> 00:16:25.080
+[Amit Varma]: actually reduce the risk in a farmer's life.
+
+00:16:25.080 --> 00:16:34.040
+[Unknown]: Who would have thunk?
+
+00:16:34.040 --> 00:16:38.880
+[Unknown]: Next week on The Seen and The Unseen, Amit Verma will be talking to Varun Mitra about
+
+00:16:38.880 --> 00:16:40.800
+[Unknown]: the anti-defection law.
+
+00:16:40.800 --> 00:16:44.960
+[Amit Varma]: For more, go to seenunseen.in If you enjoyed listening to The Seen and The
+
+00:16:44.960 --> 00:16:51.320
+[Amit Varma]: Unseen, check out another show by IVM Podcasts, Symbolified, which is hosted by my good friends
+
+00:16:51.320 --> 00:16:53.760
+[Amit Varma]: Naren, Chuck, and Srikith.
+
+00:16:53.760 --> 00:16:56.240
+[Amit Varma]: You can download it at Audioboom or iTunes.
+
+00:16:56.240 --> 00:17:02.880
+[Unknown]: Hey man, just help me out, man, I need some, I need some podcasts, man, I haven't had a
+
+00:17:02.880 --> 00:17:05.440
+[Unknown]: fix in a week, just need some.
+
+00:17:05.440 --> 00:17:08.640
+[Unknown]: Don't you worry about it, I got podcasts galore for you, man.
+
+00:17:08.640 --> 00:17:13.480
+[Unknown]: Just go to ivmpodcasts.com, you can also find us on Facebook, Twitter, and Instagram.
+
+00:17:13.480 --> 00:17:40.560
+[Unknown]: Thanks, man, I'm gonna check it out.
+

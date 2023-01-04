@@ -1,0 +1,1364 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+[Unknown]: I.V.M.
+
+00:00:30.000 --> 00:00:49.520
+[Unknown]: Welcome to the scene and the unseen, today's episode is about behavioral economics.
+
+00:00:49.520 --> 00:00:54.120
+[Amit Varma]: Richard Taylor, one of the pioneers of this field, won the Nobel Prize for Economics recently
+
+00:00:54.120 --> 00:00:59.000
+[Amit Varma]: and honestly he might as well have won the Nobel Prize for understanding human nature.
+
+00:00:59.000 --> 00:01:04.640
+[Amit Varma]: I keep telling friends that while the term sounds geeky, behavioral economics is, simply
+
+00:01:04.640 --> 00:01:07.520
+[Amit Varma]: put, the study of human nature.
+
+00:01:07.520 --> 00:01:11.560
+[Amit Varma]: To celebrate Taylor's Nobel Prize, and in fact the whole field of behavioral economics,
+
+00:01:11.560 --> 00:01:14.240
+[Amit Varma]: I asked Nidhi Gupta to join me on this show.
+
+00:01:14.240 --> 00:01:18.920
+[Amit Varma]: Nidhi is the head of postgraduate programs at the Takshashila Institution in Bangalore
+
+00:01:18.920 --> 00:01:22.840
+[Amit Varma]: and is a graduate of the London School of Economics and Political Science.
+
+00:01:22.840 --> 00:01:26.000
+[Amit Varma]: One of her main research interests is behavioral economics.
+
+00:01:26.000 --> 00:01:29.200
+[Amit Varma]: I caught up with her a couple of weeks ago.
+
+00:01:29.200 --> 00:01:31.400
+[Amit Varma]: Nidhi, welcome to the show.
+
+00:01:31.400 --> 00:01:32.400
+[Guest]: It's a pleasure to be here, Amit.
+
+00:01:32.400 --> 00:01:38.160
+[Amit Varma]: Nidhi, we are both pretty much fellow behavioral economics geeks in the sense that, you know,
+
+00:01:38.160 --> 00:01:42.160
+[Amit Varma]: we've studied the subject and are both fans of Richard Taylor who won the Nobel Prize
+
+00:01:42.160 --> 00:01:43.160
+[Guest]: recently.
+
+00:01:43.160 --> 00:01:44.160
+[Guest]: Absolutely.
+
+00:01:44.160 --> 00:01:45.160
+[Guest]: Yes.
+
+00:01:45.160 --> 00:01:47.640
+[Guest]: And I'm very excited that, you know, finally behavioral economics is getting its due and
+
+00:01:47.640 --> 00:01:48.640
+[Amit Varma]: it's being recognized.
+
+00:01:48.640 --> 00:01:49.640
+[Amit Varma]: Yeah.
+
+00:01:49.640 --> 00:01:52.200
+[Amit Varma]: And of course, Daniel Kahneman won it so many years back as well.
+
+00:01:52.200 --> 00:01:56.200
+[Amit Varma]: And, you know, I often think that the term behavioral economics makes it sound more niche
+
+00:01:56.200 --> 00:02:01.840
+[Amit Varma]: and specialized than it should be, that what it really is, is the study of human nature.
+
+00:02:01.840 --> 00:02:06.880
+[Amit Varma]: And therefore, if you want to sort of understand the unseen effects of many things, understanding
+
+00:02:06.880 --> 00:02:08.360
+[Amit Varma]: human nature is the key to that.
+
+00:02:08.360 --> 00:02:10.560
+[Amit Varma]: And therefore, behavioral economics is the key to that.
+
+00:02:10.560 --> 00:02:11.560
+[Guest]: Right.
+
+00:02:11.560 --> 00:02:15.920
+[Guest]: In fact, you know, economics is finally about the incentives that people respond to or how
+
+00:02:15.920 --> 00:02:17.880
+[Guest]: they use the scarce resources.
+
+00:02:17.880 --> 00:02:22.800
+[Guest]: And if you're talking about people, you can't take the psychology of people away from it.
+
+00:02:22.800 --> 00:02:23.800
+[Guest]: Exactly.
+
+00:02:23.800 --> 00:02:25.320
+[Guest]: That's what behavioral economics does, right?
+
+00:02:25.320 --> 00:02:30.280
+[Guest]: It brings that psychology back into the hard science that economics is kind of touted to
+
+00:02:30.280 --> 00:02:31.280
+[Amit Varma]: be.
+
+00:02:31.280 --> 00:02:34.800
+[Amit Varma]: And you actually teach behavioral economics in the Takshashila courses.
+
+00:02:34.800 --> 00:02:39.800
+[Amit Varma]: And therefore, what I'd like to sort of do today is let's talk about some specific fundas
+
+00:02:39.800 --> 00:02:43.800
+[Amit Varma]: of behavioral economics and which have come from behavioral economics.
+
+00:02:43.800 --> 00:02:48.640
+[Amit Varma]: Our first example, in fact, being a term coined by Thaler himself.
+
+00:02:48.640 --> 00:02:53.720
+[Amit Varma]: And then illustrate that with what is happening in the world around us, both in politics and
+
+00:02:53.720 --> 00:02:54.720
+[Guest]: otherwise.
+
+00:02:54.720 --> 00:02:55.720
+[Guest]: Perfect.
+
+00:02:55.720 --> 00:03:01.120
+[Guest]: So I like to think of behavioral economics, I kind of separate heuristics and biases.
+
+00:03:01.120 --> 00:03:05.520
+[Guest]: So heuristics are basically shortcuts that people use to make decisions.
+
+00:03:05.520 --> 00:03:08.080
+[Guest]: And heuristics kind of lead to biases.
+
+00:03:08.080 --> 00:03:13.120
+[Guest]: So what I'd like to talk today is biases, you know, we won't touch upon heuristics.
+
+00:03:13.120 --> 00:03:17.560
+[Guest]: So the first one that I'd like to start with is something known as endowment effect, which
+
+00:03:17.560 --> 00:03:25.960
+[Guest]: basically says that you value the things that you own much more than somebody else does.
+
+00:03:25.960 --> 00:03:32.680
+[Guest]: In fact, so much so that the moment you start owning something, the value that you ascribe
+
+00:03:32.680 --> 00:03:36.600
+[Guest]: to it becomes higher than what you did just before.
+
+00:03:36.600 --> 00:03:43.400
+[Guest]: And this kind of plays out really well if you think of how when a government is in opposition,
+
+00:03:43.400 --> 00:03:50.520
+[Guest]: how they are always critical of the policies that the government in power is coming out
+
+00:03:50.520 --> 00:03:53.560
+[Guest]: with or the policies that they have.
+
+00:03:53.560 --> 00:03:58.440
+[Guest]: But when they themselves come to power, they take a lot of these policies and continue
+
+00:03:58.440 --> 00:03:59.440
+[Guest]: with them.
+
+00:03:59.440 --> 00:04:05.920
+[Guest]: In fact, you see now a lot of, I think more around 19 policies of the UPA have been taken
+
+00:04:05.920 --> 00:04:08.320
+[Guest]: by BJP and renamed.
+
+00:04:08.320 --> 00:04:12.000
+[Guest]: And now they are suddenly, you know, they've become these very nice policies that are going
+
+00:04:12.000 --> 00:04:16.360
+[Guest]: to change India and that are going to bring about prosperity.
+
+00:04:16.360 --> 00:04:22.440
+[Guest]: So whether you look at the Jan Dhan scheme, you know, the Pradhan Mantri Jan Dhan Yojana,
+
+00:04:22.440 --> 00:04:28.520
+[Guest]: there was a UPA scheme, which was called Basic Savings Bank Deposit Account, or you look
+
+00:04:28.520 --> 00:04:32.200
+[Guest]: at Swachh Bharat Abhiyan, you know, the flagship scheme.
+
+00:04:32.200 --> 00:04:37.800
+[Guest]: There was the Nirmal Bharat Abhiyan or a total sanitation campaign that the UPA had.
+
+00:04:37.800 --> 00:04:43.600
+[Guest]: There isn't a lot of change in what these policies, the details of the policies, but
+
+00:04:43.600 --> 00:04:49.760
+[Guest]: it's just that now, because the government, it's the BJP's policies or the NDA's policies,
+
+00:04:49.760 --> 00:04:56.320
+[Guest]: they suddenly, you know, are the right, they have all the right elements to it.
+
+00:04:56.320 --> 00:05:00.120
+[Guest]: Or you look at Indira Awas Yojana, which was UPA scheme.
+
+00:05:00.120 --> 00:05:03.880
+[Guest]: And now it's called, I think, Pradhan Mantri Awas Yojana.
+
+00:05:03.880 --> 00:05:08.320
+[Guest]: And it's funny that when you even go to Pradhan Mantri Awas Yojana's website, actually some
+
+00:05:08.320 --> 00:05:13.280
+[Guest]: of the documents, if you open them, they actually still refer back to Indira Awas Yojana.
+
+00:05:13.280 --> 00:05:17.480
+[Guest]: So it's funny that, you know, they say, oh, Indira Awas Yojana was all crap and you know,
+
+00:05:17.480 --> 00:05:23.240
+[Guest]: how it would not meet the goals, while you yourselves are incorporating most of the things
+
+00:05:23.240 --> 00:05:24.240
+[Amit Varma]: of that policy.
+
+00:05:24.240 --> 00:05:25.240
+[Amit Varma]: It's just a different name.
+
+00:05:25.240 --> 00:05:29.120
+[Amit Varma]: And you'd argue that this is not just a question of political convenience, but that humans
+
+00:05:29.120 --> 00:05:33.720
+[Amit Varma]: are actually wired to value something more when they own it than they would if they did
+
+00:05:33.720 --> 00:05:34.720
+[Guest]: not own it.
+
+00:05:34.720 --> 00:05:35.720
+[Guest]: Exactly.
+
+00:05:35.720 --> 00:05:39.920
+[Guest]: I mean, you could find a lot of individual examples that, you know, for example, if you're
+
+00:05:39.920 --> 00:05:44.880
+[Guest]: in a secondhand market, right, you want to sell your car, you would almost always think
+
+00:05:44.880 --> 00:05:49.280
+[Guest]: that your car, you know, should fetch you higher than what anybody else is willing to
+
+00:05:49.280 --> 00:05:50.280
+[Guest]: pay for it.
+
+00:05:50.280 --> 00:05:51.280
+[Amit Varma]: Right.
+
+00:05:51.280 --> 00:05:52.280
+[Amit Varma]: That's a classic example.
+
+00:05:52.280 --> 00:05:53.280
+[Amit Varma]: Right.
+
+00:05:53.280 --> 00:05:54.280
+[Amit Varma]: And I was a professional poker player for a few years.
+
+00:05:54.280 --> 00:05:57.560
+[Amit Varma]: And I always use poker to give, to illustrate examples of behavioral economics.
+
+00:05:57.560 --> 00:06:01.800
+[Amit Varma]: And the classic example of this in poker is that if someone tells me about a hand that
+
+00:06:01.800 --> 00:06:06.480
+[Amit Varma]: he's playing and asks for my advice, at some point, I'll be able to say, hey, no, man,
+
+00:06:06.480 --> 00:06:07.480
+[Amit Varma]: you should fold it.
+
+00:06:07.480 --> 00:06:08.480
+[Amit Varma]: It's not classy.
+
+00:06:08.480 --> 00:06:09.480
+[Amit Varma]: We do keep playing.
+
+00:06:09.480 --> 00:06:13.560
+[Amit Varma]: But if I'm myself in the same situation, you'd continue playing instinctively, I want to
+
+00:06:13.560 --> 00:06:14.560
+[Amit Varma]: continue playing.
+
+00:06:14.560 --> 00:06:19.160
+[Amit Varma]: I have to fight that impulse because now that it is my hand, I value it more somehow magically
+
+00:06:19.160 --> 00:06:21.600
+[Amit Varma]: and can't think objectively about it.
+
+00:06:21.600 --> 00:06:22.600
+[Guest]: Right.
+
+00:06:22.600 --> 00:06:24.680
+[Guest]: So this is one example that we can think of.
+
+00:06:24.680 --> 00:06:27.080
+[Guest]: This is one of the biases.
+
+00:06:27.080 --> 00:06:33.280
+[Guest]: The other one that I like to talk about is the sunk cost fallacy.
+
+00:06:33.280 --> 00:06:39.520
+[Guest]: So traditionally, economics would tell you that if you put in your time, effort or money
+
+00:06:39.520 --> 00:06:47.600
+[Guest]: in a particular, you know, endeavor, you should stop continuing further if you don't see benefits
+
+00:06:47.600 --> 00:06:49.440
+[Guest]: coming off it.
+
+00:06:49.440 --> 00:06:55.460
+[Guest]: But as humans, if we've invested time, effort and money in a particular thing, we actually
+
+00:06:55.460 --> 00:06:58.280
+[Guest]: keep adding on to it.
+
+00:06:58.280 --> 00:07:02.680
+[Guest]: And you know, there is this fallacy that now that I have put in some effort and money,
+
+00:07:02.680 --> 00:07:05.960
+[Guest]: let me just, you know, continue and see what comes of it.
+
+00:07:05.960 --> 00:07:10.520
+[Guest]: For example, if I've bought a movie ticket and then I hear a lot of people saying, oh,
+
+00:07:10.520 --> 00:07:11.520
+[Guest]: the movie was crap.
+
+00:07:11.520 --> 00:07:15.120
+[Guest]: But now that I've bought the ticket, let me just go and, you know, watch the movie anyways.
+
+00:07:15.120 --> 00:07:18.240
+[Amit Varma]: And it's a fallacy because the time you're spending is also worth something and you're
+
+00:07:18.240 --> 00:07:19.240
+[Amit Varma]: wasting that time.
+
+00:07:19.240 --> 00:07:21.800
+[Amit Varma]: And you should just think of the price of the ticket as a sunk cost.
+
+00:07:21.800 --> 00:07:22.800
+[Guest]: Absolutely.
+
+00:07:22.800 --> 00:07:24.400
+[Guest]: And in fact, it's not just individuals.
+
+00:07:24.400 --> 00:07:25.400
+[Guest]: Right.
+
+00:07:25.400 --> 00:07:28.600
+[Guest]: It actually plays out at a public policy or the government level.
+
+00:07:28.600 --> 00:07:34.240
+[Guest]: Now we all know that Air India, you know, it was known for a long time that it's not
+
+00:07:34.240 --> 00:07:35.680
+[Guest]: making profits.
+
+00:07:35.680 --> 00:07:42.000
+[Guest]: It does not even provide the quality of service that's expected of an international airline.
+
+00:07:42.000 --> 00:07:44.240
+[Guest]: But look at how long it survived.
+
+00:07:44.240 --> 00:07:49.360
+[Guest]: Look at how much money went into keeping Air India and Indian Airlines alike, even though
+
+00:07:49.360 --> 00:07:55.320
+[Guest]: we got so many budget airlines and really good quality international airlines, you know,
+
+00:07:55.320 --> 00:07:56.320
+[Guest]: in the market.
+
+00:07:56.320 --> 00:07:58.840
+[Guest]: Why has the government not done away with Air India?
+
+00:07:58.840 --> 00:08:03.320
+[Guest]: It's only now, you know, in the last two years that we are talking about privatization of
+
+00:08:03.320 --> 00:08:11.200
+[Guest]: Air India or, you know, doing a mix of like a PPP or actually just doing away with it.
+
+00:08:11.200 --> 00:08:13.320
+[Amit Varma]: It's only now that we are actually doing this.
+
+00:08:13.320 --> 00:08:14.320
+[Amit Varma]: I'm skeptical to me.
+
+00:08:14.320 --> 00:08:15.320
+[Amit Varma]: It's just talk.
+
+00:08:15.320 --> 00:08:16.320
+[Guest]: It's just, yeah.
+
+00:08:16.320 --> 00:08:18.320
+[Guest]: We are yet to see what happens.
+
+00:08:18.320 --> 00:08:22.760
+[Guest]: Or for example, think of bailouts for public sector banks, right?
+
+00:08:22.760 --> 00:08:27.800
+[Guest]: Now that any public sector unit, now that you've put in money, you know, you, you kind
+
+00:08:27.800 --> 00:08:32.080
+[Guest]: of think, oh, let me just put in a little more and see, maybe it will get better.
+
+00:08:32.080 --> 00:08:37.840
+[Guest]: While the rational, you should think that, well, that money is gone, that effort is gone.
+
+00:08:37.840 --> 00:08:45.680
+[Guest]: Why put in more resources and why unnecessarily, you know, enhance the costs, the overall costs?
+
+00:08:45.680 --> 00:08:50.440
+[Guest]: Would we continue the recapitalization of banks is not something that, you know, is
+
+00:08:50.440 --> 00:08:55.000
+[Guest]: very old, maybe three, four days ago is when we heard of recapitalization again of public
+
+00:08:55.000 --> 00:08:56.000
+[Amit Varma]: sector.
+
+00:08:56.000 --> 00:08:57.000
+[Guest]: And it's going to happen again and again.
+
+00:08:57.000 --> 00:08:58.000
+[Guest]: And it's going to happen again and again.
+
+00:08:58.000 --> 00:09:00.840
+[Amit Varma]: I can think of various examples of this from everyday life.
+
+00:09:00.840 --> 00:09:05.120
+[Amit Varma]: I mean, the standard poker example is that you continue in a pot when you should fold
+
+00:09:05.120 --> 00:09:08.920
+[Amit Varma]: because you're, you're thinking, oh, I've already put in money, it will get wasted.
+
+00:09:08.920 --> 00:09:12.280
+[Amit Varma]: Even though the rational decision at that moment in time, the plus EV decision is to
+
+00:09:12.280 --> 00:09:13.400
+[Amit Varma]: fold.
+
+00:09:13.400 --> 00:09:15.840
+[Amit Varma]: And there are trivial examples in real life.
+
+00:09:15.840 --> 00:09:19.280
+[Amit Varma]: Like I may pack a tiffin from home, but then my colleagues say, hey, let's go to that nice
+
+00:09:19.280 --> 00:09:23.560
+[Amit Varma]: Japanese restaurant and I really want to, but I'm saying, no, I made a sandwich in the
+
+00:09:23.560 --> 00:09:27.400
+[Amit Varma]: morning and it's in my tiffin and it'll get, you know, and that's, again, you should treat
+
+00:09:27.400 --> 00:09:28.400
+[Guest]: that sandwich as a sunk cost.
+
+00:09:28.400 --> 00:09:31.560
+[Guest]: I love how you've understood all of behavioral economics with poker in mind.
+
+00:09:31.560 --> 00:09:32.560
+[Amit Varma]: I just love it.
+
+00:09:32.560 --> 00:09:37.120
+[Amit Varma]: With poker in mind and it actually, and fallacies like this is serious real life implications.
+
+00:09:37.120 --> 00:09:42.560
+[Amit Varma]: Like I think a lot of bad marriages, for example, continue long past the point where they should
+
+00:09:42.560 --> 00:09:46.280
+[Amit Varma]: because of the sunk cost fallacy, because of some battered woman saying, I've already
+
+00:09:46.280 --> 00:09:49.640
+[Amit Varma]: spent 20 years with this guy, how can I walk out now?
+
+00:09:49.640 --> 00:09:50.640
+[Guest]: Maybe it will get better.
+
+00:09:50.640 --> 00:09:52.160
+[Amit Varma]: Maybe if I put in more, sure.
+
+00:09:52.160 --> 00:09:53.480
+[Guest]: And you can rationalize all that.
+
+00:09:53.480 --> 00:09:58.680
+[Guest]: You know what Taylor mentions is that a lot of people in the US thought that we should
+
+00:09:58.680 --> 00:10:03.560
+[Guest]: get out of Vietnam war, but it continued and that he at least says that, you know, that's
+
+00:10:03.560 --> 00:10:06.080
+[Amit Varma]: an example of sunk cost fallacy.
+
+00:10:06.080 --> 00:10:09.840
+[Amit Varma]: And therefore, you know, these little fallacies would seem like, you know, fancy phrases in
+
+00:10:09.840 --> 00:10:15.360
+[Amit Varma]: textbooks actually have real world humanitarian consequences and affect millions of people.
+
+00:10:15.360 --> 00:10:16.360
+[Amit Varma]: Right.
+
+00:10:16.360 --> 00:10:17.360
+[Amit Varma]: What's your next example?
+
+00:10:17.360 --> 00:10:24.680
+[Guest]: So the next example I would like to talk about is called present bias in easy terms and hyperbolic
+
+00:10:24.680 --> 00:10:27.960
+[Guest]: discounting in very technical terms.
+
+00:10:27.960 --> 00:10:33.400
+[Guest]: But that is something that all of us can relate to on individual level, which is I value the
+
+00:10:33.400 --> 00:10:37.700
+[Guest]: now much higher than I value the future.
+
+00:10:37.700 --> 00:10:42.200
+[Guest]: So I want a smaller, sooner reward than a larger later reward.
+
+00:10:42.200 --> 00:10:49.640
+[Guest]: I would rather have the pizza now than think about, Oh, in the next five years I will have
+
+00:10:49.640 --> 00:10:54.160
+[Guest]: put on weight and I will have to exercise, or I would rather break my new year resolution
+
+00:10:54.160 --> 00:10:57.800
+[Guest]: now than worry about how I will feel bad about it sometime later.
+
+00:10:57.800 --> 00:10:58.800
+[Guest]: Right.
+
+00:10:58.800 --> 00:11:04.640
+[Guest]: And we all do it all the time, procrastination, laziness, overeating, indulging.
+
+00:11:04.640 --> 00:11:05.640
+[Amit Varma]: We do it all the time.
+
+00:11:05.640 --> 00:11:11.520
+[Guest]: I feel like you're describing me or myself and even not saving enough.
+
+00:11:11.520 --> 00:11:12.520
+[Guest]: For example,
+
+00:11:12.520 --> 00:11:18.960
+[Guest]: I'm not saving enough and at individual level, you know, you can tackle these things by committing
+
+00:11:18.960 --> 00:11:19.960
+[Guest]: to certain things.
+
+00:11:19.960 --> 00:11:22.640
+[Guest]: So you say that, okay, I will enroll myself in this marathon.
+
+00:11:22.640 --> 00:11:27.400
+[Guest]: And only if I have run so much, am I going to indulge in a big dessert?
+
+00:11:27.400 --> 00:11:28.400
+[Guest]: Right.
+
+00:11:28.400 --> 00:11:30.080
+[Guest]: A lot of people do that.
+
+00:11:30.080 --> 00:11:36.680
+[Guest]: But where I see this playing out in public policy, look at how the governments in the
+
+00:11:36.680 --> 00:11:41.640
+[Guest]: US, for example, have the 401k savings or in India where we have the employee provident
+
+00:11:41.640 --> 00:11:42.640
+[Guest]: fund schemes.
+
+00:11:42.640 --> 00:11:43.640
+[Guest]: Right.
+
+00:11:43.640 --> 00:11:48.360
+[Guest]: It is a welfare scheme, of course, but somehow the governments have understood that if we
+
+00:11:48.360 --> 00:11:54.640
+[Guest]: don't kind of force people or make people commit to their own future savings, they would
+
+00:11:54.640 --> 00:11:55.840
+[Guest]: not do it.
+
+00:11:55.840 --> 00:12:00.560
+[Guest]: So what they essentially do it, they say that, no, you must save this much.
+
+00:12:00.560 --> 00:12:04.840
+[Guest]: And they also have your employer put in, you know, an equivalent amount.
+
+00:12:04.840 --> 00:12:09.360
+[Guest]: And when you retire, you have this big fund, you know, there for you.
+
+00:12:09.360 --> 00:12:13.040
+[Guest]: And this is especially relevant for people who don't earn really well.
+
+00:12:13.040 --> 00:12:20.200
+[Guest]: So, you know, the EPF is mandatory for people, for companies with more than 20 people, I
+
+00:12:20.200 --> 00:12:21.200
+[Guest]: think.
+
+00:12:21.200 --> 00:12:24.680
+[Guest]: And for people who earn, whose wages are below 21,000.
+
+00:12:24.680 --> 00:12:28.240
+[Guest]: So maybe not for, you know, people who work in big private companies.
+
+00:12:28.240 --> 00:12:31.480
+[Guest]: It's not mandatory, although even these companies register for it.
+
+00:12:31.480 --> 00:12:36.800
+[Guest]: But think of somebody who earns 15,000, 16,000, for them building up this sum is really important.
+
+00:12:36.800 --> 00:12:40.680
+[Guest]: And they might not do it because there are always priorities, competing priorities in
+
+00:12:40.680 --> 00:12:43.960
+[Guest]: the here and now that you want to take care of.
+
+00:12:43.960 --> 00:12:49.240
+[Guest]: So like, like they say, right, eat, drink and be merry for, you may die tomorrow, but
+
+00:12:49.240 --> 00:12:52.160
+[Guest]: you actually do not die tomorrow and you continue to live for a long time.
+
+00:12:52.160 --> 00:12:55.200
+[Guest]: And it's better for you to save, save up for that.
+
+00:12:55.200 --> 00:12:59.040
+[Amit Varma]: And if you can take a slight tangent, this brings me to one of the criticisms many people
+
+00:12:59.040 --> 00:13:03.880
+[Amit Varma]: have of Thaler per se, not the field, which is of the term that I think he coined called
+
+00:13:03.880 --> 00:13:08.280
+[Amit Varma]: libertarian paternalism, and which the book nudges about, which he co-wrote with Cass
+
+00:13:08.280 --> 00:13:13.640
+[Amit Varma]: Sunstein is almost that the government has a duty to nudge people in these directions
+
+00:13:13.640 --> 00:13:16.360
+[Amit Varma]: to mitigate the effects of their biases.
+
+00:13:16.360 --> 00:13:22.160
+[Amit Varma]: And you know, my typical instinctive criticism to that is that while it is one thing to understand
+
+00:13:22.160 --> 00:13:28.080
+[Amit Varma]: human nature, it is another to then coerce people in different ways, which, you know,
+
+00:13:28.080 --> 00:13:33.760
+[Amit Varma]: the EPF being compulsory for firms of over a certain size is an example of that.
+
+00:13:33.760 --> 00:13:37.640
+[Amit Varma]: It is another to coerce people and take that agency away from them.
+
+00:13:37.640 --> 00:13:41.240
+[Amit Varma]: It's almost like saying, Hey, you're too stupid to make your own decisions.
+
+00:13:41.240 --> 00:13:44.480
+[Guest]: That's the big criticism of the whole field of behavioral economics.
+
+00:13:44.480 --> 00:13:48.560
+[Guest]: In fact, if you think of a libertarian paternalism is an oxymoron, right?
+
+00:13:48.560 --> 00:13:53.240
+[Amit Varma]: You can't have libertarian and paternalism in the same, you can't speak of them in the
+
+00:13:53.240 --> 00:13:54.480
+[Guest]: same breath.
+
+00:13:54.480 --> 00:14:00.240
+[Guest]: But that's what Taylor and Sunstein, at least how they feel it is that we do not take choices
+
+00:14:00.240 --> 00:14:01.240
+[Guest]: away from people.
+
+00:14:01.240 --> 00:14:06.240
+[Guest]: When we are thinking of behavioral interventions, they always are free to choose what they want.
+
+00:14:06.240 --> 00:14:08.760
+[Guest]: It's just nudging them in a particular direction.
+
+00:14:08.760 --> 00:14:14.640
+[Guest]: And, and of course there are critiques and critiques of critics and it never ends.
+
+00:14:14.640 --> 00:14:15.640
+[Amit Varma]: Yeah.
+
+00:14:15.640 --> 00:14:16.640
+[Amit Varma]: I mean, yeah.
+
+00:14:16.640 --> 00:14:19.520
+[Amit Varma]: I just feel that if a guy is earning 15,000 a month and he's saying, no, I don't want
+
+00:14:19.520 --> 00:14:23.920
+[Amit Varma]: to give any of this away to a fund for when I'm 60, I need the money now, that choice
+
+00:14:23.920 --> 00:14:25.520
+[Amit Varma]: should really be up to him.
+
+00:14:25.520 --> 00:14:27.280
+[Amit Varma]: Even if he recognized that this biosexist.
+
+00:14:27.280 --> 00:14:32.000
+[Guest]: Well, you also can then think of if these people haven't saved enough, then it's up
+
+00:14:32.000 --> 00:14:34.600
+[Guest]: to the government to then provide for them.
+
+00:14:34.600 --> 00:14:35.600
+[Guest]: Right.
+
+00:14:35.600 --> 00:14:40.040
+[Guest]: We also say that, Hey, well, the government should provide healthcare, but if the government
+
+00:14:40.040 --> 00:14:43.200
+[Guest]: says, well, you should pay for your health insurance so that when you are sick, you know,
+
+00:14:43.200 --> 00:14:44.440
+[Guest]: we will be able to fund.
+
+00:14:44.440 --> 00:14:49.440
+[Guest]: But that's the example that at least NHS in the UK, you know, they, they say that the
+
+00:14:49.440 --> 00:14:53.960
+[Guest]: burden of healthcare is increasingly becoming larger.
+
+00:14:53.960 --> 00:14:58.840
+[Guest]: And if the people don't save up for their health or save up for their life insurance,
+
+00:14:58.840 --> 00:15:00.600
+[Guest]: it is for the government to then spend money.
+
+00:15:00.600 --> 00:15:04.680
+[Guest]: We also criticize the government then that, Oh, you know, where is the money for it?
+
+00:15:04.680 --> 00:15:07.640
+[Guest]: So I agree with you that, you know, it shouldn't be coerced upon people.
+
+00:15:07.640 --> 00:15:13.640
+[Guest]: It should rather be voluntary profit and fund, but, and I'm not one for EPF, but that there
+
+00:15:13.640 --> 00:15:18.920
+[Guest]: is a mechanism that is provided as a public policy that, you know, there are these commitment
+
+00:15:18.920 --> 00:15:23.520
+[Guest]: devices that are provided by the government itself, and you can then draw this pension.
+
+00:15:23.520 --> 00:15:26.360
+[Guest]: That I think is an example that we can look at.
+
+00:15:26.360 --> 00:15:29.720
+[Amit Varma]: But I mean, I would certainly say that wherever one stands on this issue and one can agree
+
+00:15:29.720 --> 00:15:35.320
+[Amit Varma]: to disagree, it's an unfair criticism of behavioral economics because behavioral economics, the
+
+00:15:35.320 --> 00:15:37.480
+[Amit Varma]: way I see it is descriptive.
+
+00:15:37.480 --> 00:15:38.480
+[Amit Varma]: It's not prescriptive.
+
+00:15:38.480 --> 00:15:43.880
+[Amit Varma]: A lot of these specific prescriptions from which, you know, coercion comes or agency
+
+00:15:43.880 --> 00:15:48.240
+[Amit Varma]: is taken away from individuals is comes from individual economists, but the field itself
+
+00:15:48.240 --> 00:15:51.080
+[Guest]: is just describing what human nature is, right?
+
+00:15:51.080 --> 00:15:52.800
+[Guest]: And that's what it tries to do with that.
+
+00:15:52.800 --> 00:15:54.000
+[Guest]: This is how humans behave.
+
+00:15:54.000 --> 00:15:57.860
+[Guest]: Look, you know, we tried to do this, but this is what happened in reality.
+
+00:15:57.860 --> 00:16:01.720
+[Guest]: And it just tries to describe the behavior and then maybe draw insights from it and then
+
+00:16:01.720 --> 00:16:06.880
+[Guest]: say, next time they are behaving this way, maybe we could, you know, and then that argument
+
+00:16:06.880 --> 00:16:09.760
+[Amit Varma]: can happen, but at least it's an informed argument.
+
+00:16:09.760 --> 00:16:15.960
+[Guest]: For example, this whole thing of default options, right, where, and I like to give the example
+
+00:16:15.960 --> 00:16:23.560
+[Guest]: of this give it up scheme where the LPG scheme, you know, our prime minister went about saying
+
+00:16:23.560 --> 00:16:28.200
+[Guest]: everybody now is enrolled in the subsidy and now give it up.
+
+00:16:28.200 --> 00:16:33.720
+[Guest]: I wanted to say that, you know, I mean, my prescription for it would have been that let
+
+00:16:33.720 --> 00:16:39.200
+[Guest]: nobody be subscribed to it, say that you are entitled to it as a citizen, you are entitled
+
+00:16:39.200 --> 00:16:43.680
+[Guest]: to it, but your default position is that you're opted out and let only those people who really
+
+00:16:43.680 --> 00:16:49.640
+[Guest]: need it, you know, opt in and make the opt in really easy, make it really easy for people
+
+00:16:49.640 --> 00:16:51.240
+[Guest]: to get this subsidy.
+
+00:16:51.240 --> 00:16:55.800
+[Guest]: And again, how you give subsidy remains the same, but now a lot of people are not giving
+
+00:16:55.800 --> 00:16:57.480
+[Guest]: it up just because that's the default position.
+
+00:16:57.480 --> 00:17:00.160
+[Amit Varma]: I'm just lazy to go to some place and you know, do something.
+
+00:17:00.160 --> 00:17:02.840
+[Amit Varma]: Inertia, inertia is the most powerful force in human life.
+
+00:17:02.840 --> 00:17:04.520
+[Amit Varma]: That's what present bias is all about.
+
+00:17:04.520 --> 00:17:05.520
+[Amit Varma]: Yeah.
+
+00:17:05.520 --> 00:17:09.400
+[Amit Varma]: But though I would also, my, my instinctive reaction there is that if you make it an opt
+
+00:17:09.400 --> 00:17:12.480
+[Amit Varma]: in thing, then you inevitably create rent seeking.
+
+00:17:12.480 --> 00:17:16.240
+[Amit Varma]: It's easy to say in theory that it should be easy to opt in, but you'll create rent
+
+00:17:16.240 --> 00:17:20.120
+[Amit Varma]: seeking and you'll, you know, everything else that follows with it.
+
+00:17:20.120 --> 00:17:21.120
+[Amit Varma]: That's true as well.
+
+00:17:21.120 --> 00:17:22.320
+[Amit Varma]: Let's move on to the next example.
+
+00:17:22.320 --> 00:17:23.320
+[Guest]: All right.
+
+00:17:23.320 --> 00:17:27.000
+[Guest]: So the next example I like to talk about is about social norms.
+
+00:17:27.000 --> 00:17:29.800
+[Guest]: And there are a lot of things in behavioral economics that revolve around this.
+
+00:17:29.800 --> 00:17:35.880
+[Guest]: So, you know, there are things called herd behavior, confirmation bias, or social desirability
+
+00:17:35.880 --> 00:17:42.640
+[Guest]: bias, which all essentially talk about how human behavior is set in a social context,
+
+00:17:42.640 --> 00:17:43.640
+[Guest]: right?
+
+00:17:43.640 --> 00:17:49.280
+[Guest]: You are influenced by the society, by the people around you and the decisions you take
+
+00:17:49.280 --> 00:17:55.320
+[Guest]: or the preferences you have are not just your preference.
+
+00:17:55.320 --> 00:17:59.680
+[Guest]: Maybe they are your preferences, but yet they're almost always influenced by the people around
+
+00:17:59.680 --> 00:18:00.860
+[Guest]: you.
+
+00:18:00.860 --> 00:18:07.880
+[Guest]: So what, how you behave is set in a social context and that people want to behave how
+
+00:18:07.880 --> 00:18:09.280
+[Guest]: their friends behave.
+
+00:18:09.280 --> 00:18:14.400
+[Guest]: So you see, you know, echo chambers forming on social media.
+
+00:18:14.400 --> 00:18:20.640
+[Guest]: That is, I want to talk like my friend, so I will, you know, adopt that line of opinion.
+
+00:18:20.640 --> 00:18:27.480
+[Guest]: And it is a similar set of people who get, you know, who get caught in these echo chambers
+
+00:18:27.480 --> 00:18:33.480
+[Guest]: or look at confirmation bias where I have a certain viewpoint and I'm always looking
+
+00:18:33.480 --> 00:18:38.640
+[Guest]: at or reading something with this thing of, Oh, this, this is an alignment with what I
+
+00:18:38.640 --> 00:18:39.640
+[Guest]: was thinking.
+
+00:18:39.640 --> 00:18:40.640
+[Amit Varma]: Didn't I say so?
+
+00:18:40.640 --> 00:18:44.560
+[Amit Varma]: You know, you're always trying to, you value the information, which confirms your bias,
+
+00:18:44.560 --> 00:18:46.240
+[Guest]: but you ignore everything else.
+
+00:18:46.240 --> 00:18:47.760
+[Guest]: And that's just human behavior, right?
+
+00:18:47.760 --> 00:18:57.120
+[Guest]: I mean, you would do that, but what this results in is something known as private truths and
+
+00:18:57.120 --> 00:18:59.960
+[Guest]: public lies and you would know of it, you know.
+
+00:18:59.960 --> 00:19:04.120
+[Guest]: So what we do is in private, we might hold certain preferences, but because of the social
+
+00:19:04.120 --> 00:19:09.640
+[Guest]: norms, because of this social pressure that we have in public, we might state our preferences
+
+00:19:09.640 --> 00:19:11.960
+[Guest]: very differently, right?
+
+00:19:11.960 --> 00:19:17.840
+[Guest]: So for example, Timur, Quran and economists talked about preference falsification that
+
+00:19:17.840 --> 00:19:21.640
+[Guest]: in public, we tend to falsify our preferences.
+
+00:19:21.640 --> 00:19:28.160
+[Guest]: Now look at how after the new dispensation, the BJP has come to power, we suddenly have
+
+00:19:28.160 --> 00:19:35.520
+[Guest]: this surge in, you know, anti-Muslim riots or the Hindutva bigotry that we see suddenly,
+
+00:19:35.520 --> 00:19:40.200
+[Guest]: you know, there is just so much of it, whether it's Pelukan or it's Akhlaq.
+
+00:19:40.200 --> 00:19:43.200
+[Guest]: Why was this not happening for the last 60 years?
+
+00:19:43.200 --> 00:19:49.120
+[Guest]: Because maybe the social context was such that this was taboo and maybe people wanted
+
+00:19:49.120 --> 00:19:53.800
+[Guest]: to talk about these things, but they were not doing because of the social context.
+
+00:19:53.800 --> 00:19:57.600
+[Guest]: And maybe the context right now has changed that, you know, some people have, they are
+
+00:19:57.600 --> 00:20:00.400
+[Guest]: the norm entrepreneurs and they've set this norm.
+
+00:20:00.400 --> 00:20:04.360
+[Guest]: They took that extra chance and said, well, we can talk about this.
+
+00:20:04.360 --> 00:20:10.400
+[Guest]: And suddenly this whole bunch of people find that they can now express their hidden preferences.
+
+00:20:10.400 --> 00:20:17.120
+[Amit Varma]: I'd written a column about this a couple of years ago when the whole Trump wave was happening.
+
+00:20:17.120 --> 00:20:21.600
+[Amit Varma]: And I think to a large extent, social media empowering as it is, and I think it's a net
+
+00:20:21.600 --> 00:20:23.800
+[Amit Varma]: positive good, enormously so.
+
+00:20:23.800 --> 00:20:29.120
+[Amit Varma]: But social media has enabled this in the sense that a lot of the phrase I use is closet bigots.
+
+00:20:29.120 --> 00:20:33.320
+[Amit Varma]: There'd be a lot of people who are closet bigots, but they don't express their bigotry
+
+00:20:33.320 --> 00:20:37.400
+[Amit Varma]: because it seems impolite or unacceptable around them to do so.
+
+00:20:37.400 --> 00:20:41.480
+[Amit Varma]: But suddenly through social media, they realized that there are actually a lot of people who
+
+00:20:41.480 --> 00:20:42.480
+[Guest]: think like that.
+
+00:20:42.480 --> 00:20:43.480
+[Guest]: They can come out.
+
+00:20:43.480 --> 00:20:44.480
+[Guest]: There are a lot of them.
+
+00:20:44.480 --> 00:20:47.480
+[Amit Varma]: And, and they feel empowered to come out and express their bigotry.
+
+00:20:47.480 --> 00:20:51.520
+[Amit Varma]: And as more, and as they start doing that, it becomes a cascade.
+
+00:20:51.520 --> 00:20:54.440
+[Amit Varma]: In fact, Timur Karan called this a preference cascade.
+
+00:20:54.440 --> 00:20:58.840
+[Amit Varma]: You know, first, I think the example he gave was of the Soviet Union where everybody assumed
+
+00:20:58.840 --> 00:21:04.920
+[Amit Varma]: that all the individuals were for the Soviet state, but once people began to express otherwise,
+
+00:21:04.920 --> 00:21:05.920
+[Unknown]: it kind of cascaded.
+
+00:21:05.920 --> 00:21:10.120
+[Guest]: And the downfall of the Soviet Union actually seems very sudden, but had been building up
+
+00:21:10.120 --> 00:21:11.120
+[Guest]: over decades.
+
+00:21:11.120 --> 00:21:16.000
+[Guest]: But social revolutions seem very sudden, but they're always building up because there are
+
+00:21:16.000 --> 00:21:18.720
+[Guest]: these individual preferences that are hidden.
+
+00:21:18.720 --> 00:21:24.400
+[Guest]: And then suddenly some people and which Cass Sunstein, you know, calls them norm entrepreneurs,
+
+00:21:24.400 --> 00:21:27.880
+[Guest]: that these norm entrepreneurs take the chance and you know, they say, okay, we'll speak
+
+00:21:27.880 --> 00:21:28.880
+[Guest]: the opposite.
+
+00:21:28.880 --> 00:21:31.520
+[Amit Varma]: And then suddenly they find a bandwagon.
+
+00:21:31.520 --> 00:21:33.960
+[Guest]: And social media enables and magnifies this.
+
+00:21:33.960 --> 00:21:34.960
+[Guest]: You've seen that happening.
+
+00:21:34.960 --> 00:21:35.960
+[Guest]: Right.
+
+00:21:35.960 --> 00:21:36.960
+[Amit Varma]: The polarization that social media.
+
+00:21:36.960 --> 00:21:37.960
+[Amit Varma]: Yeah.
+
+00:21:37.960 --> 00:21:41.480
+[Amit Varma]: You've seen this with the Trump and the alt-right in the US, you've seen this with Modi.
+
+00:21:41.480 --> 00:21:45.720
+[Guest]: The white supremacist rallies, the increasing number of rallies that we see.
+
+00:21:45.720 --> 00:21:51.360
+[Guest]: So that's what I, and the interesting thing is, we don't even know if these are the real
+
+00:21:51.360 --> 00:21:57.080
+[Guest]: preferences now or other people again, falsifying their preferences, you know, in their heart
+
+00:21:57.080 --> 00:22:02.520
+[Guest]: of hearts, it's actually something else, but because of this new context, the social context
+
+00:22:02.520 --> 00:22:07.480
+[Guest]: or the new language that people are speaking, they start to speak this.
+
+00:22:07.480 --> 00:22:12.240
+[Guest]: They start to confirm to, you know, what is the current context.
+
+00:22:12.240 --> 00:22:15.720
+[Amit Varma]: And the interesting thing is that when we talk of preference falsification, it's not
+
+00:22:15.720 --> 00:22:18.000
+[Amit Varma]: just falsification for the sake of others.
+
+00:22:18.000 --> 00:22:20.620
+[Amit Varma]: You're also lying to yourself very often.
+
+00:22:20.620 --> 00:22:24.480
+[Amit Varma]: And for example, you know, a classic example of how even these preferences, which seem
+
+00:22:24.480 --> 00:22:28.720
+[Amit Varma]: to now be truly expressed, might actually be falsified as you're saying, is that if
+
+00:22:28.720 --> 00:22:34.240
+[Amit Varma]: you sort of conflate criticism of the government with being anti-national and, you know, bring
+
+00:22:34.240 --> 00:22:38.760
+[Amit Varma]: nationalism and Modi together in the same sentence, then people are afraid to, for example,
+
+00:22:38.760 --> 00:22:43.240
+[Amit Varma]: during demonetization, it was framed in such a way as we are attacking black money.
+
+00:22:43.240 --> 00:22:46.280
+[Amit Varma]: And if you speak up against it, you're speaking against the nation.
+
+00:22:46.280 --> 00:22:50.240
+[Amit Varma]: And you would have had people expressing support for demonetization, even though if they really
+
+00:22:50.240 --> 00:22:53.120
+[Guest]: thought about it, they might not feel that way.
+
+00:22:53.120 --> 00:22:58.360
+[Guest]: And even though right now, I mean, I'd like to think that, you know, if suddenly the dispensation
+
+00:22:58.360 --> 00:23:01.200
+[Guest]: actually came out and said, Oh yes, this was a mistake.
+
+00:23:01.200 --> 00:23:02.200
+[Guest]: It's never going to happen.
+
+00:23:02.200 --> 00:23:05.880
+[Guest]: But let's assume, let's, you know, think that it happens.
+
+00:23:05.880 --> 00:23:11.320
+[Guest]: I'm sure a lot of those people who were, you know, singing songs about how demonetization
+
+00:23:11.320 --> 00:23:17.120
+[Guest]: is going to, you know, clean all the black money will actually then start again saying
+
+00:23:17.120 --> 00:23:20.460
+[Guest]: the same thing that the government says that, Oh yes, it was a mistake.
+
+00:23:20.460 --> 00:23:24.560
+[Guest]: So it's, it's just about keeping in tune with the current, you know,
+
+00:23:24.560 --> 00:23:28.880
+[Amit Varma]: And not just that, another bias, a hindsight bias would kick in and they'd imagine that,
+
+00:23:28.880 --> 00:23:30.880
+[Guest]: Hey, we thought it was crap all along.
+
+00:23:30.880 --> 00:23:34.480
+[Guest]: Yeah, I didn't, I said, I was right when I said that.
+
+00:23:34.480 --> 00:23:35.480
+[Guest]: And it happens all the time.
+
+00:23:35.480 --> 00:23:37.240
+[Guest]: I mean, let's not blame others.
+
+00:23:37.240 --> 00:23:39.040
+[Amit Varma]: You and I would do it as well.
+
+00:23:39.040 --> 00:23:40.040
+[Amit Varma]: Right.
+
+00:23:40.040 --> 00:23:41.040
+[Amit Varma]: I mean, everybody would do it.
+
+00:23:41.040 --> 00:23:44.040
+[Amit Varma]: I mean, we are not standing on a pedestal and saying, Oh, you humans are like that.
+
+00:23:44.040 --> 00:23:45.040
+[Amit Varma]: We are also like this.
+
+00:23:45.040 --> 00:23:46.040
+[Amit Varma]: We suffer from it.
+
+00:23:46.040 --> 00:23:50.140
+[Amit Varma]: But what's important about behavioral economics is that it then helps you understand these
+
+00:23:50.140 --> 00:23:56.800
+[Amit Varma]: biases within yourself and within the context you operate and the policies that you have,
+
+00:23:56.800 --> 00:24:00.840
+[Amit Varma]: you know, what your government does and the quality of that self-reflection can help you
+
+00:24:00.840 --> 00:24:08.280
+[Amit Varma]: either live a happier life or be more aware of your unending unhappiness.
+
+00:24:08.280 --> 00:24:10.240
+[Amit Varma]: Let's move on to the next example.
+
+00:24:10.240 --> 00:24:15.440
+[Guest]: So the next example I'd like to talk about is, it's called peak end rule.
+
+00:24:15.440 --> 00:24:24.080
+[Guest]: What that necessarily says is that the sum total of how a person remembers an experience
+
+00:24:24.080 --> 00:24:27.400
+[Guest]: is defined by how they felt at the peak of it.
+
+00:24:27.400 --> 00:24:30.800
+[Guest]: And at the end of it, people tend to ignore the rest.
+
+00:24:30.800 --> 00:24:35.640
+[Guest]: So if I were to ask you, Hey, Amit, how was the Bangalore lit fest?
+
+00:24:35.640 --> 00:24:37.960
+[Guest]: You would possibly remember the highlight of it.
+
+00:24:37.960 --> 00:24:44.120
+[Guest]: And the, you know, if you attended the last few sessions, you would forget the rest.
+
+00:24:44.120 --> 00:24:50.360
+[Guest]: And the example, a rather controversial one that, you know, I'd give you is that think
+
+00:24:50.360 --> 00:24:52.680
+[Guest]: of Indira Gandhi's rule.
+
+00:24:52.680 --> 00:24:56.440
+[Guest]: If you'd ask most people, you know, how was her rule?
+
+00:24:56.440 --> 00:25:01.520
+[Guest]: They would talk of emergency, which defined the peak of her rule.
+
+00:25:01.520 --> 00:25:04.680
+[Guest]: And they would talk of, you know, how she was assassinated.
+
+00:25:04.680 --> 00:25:07.320
+[Guest]: So her becoming a martyr.
+
+00:25:07.320 --> 00:25:09.600
+[Guest]: And that's how we think of as her rule.
+
+00:25:09.600 --> 00:25:13.560
+[Amit Varma]: Whereas there was a lot more to it, by the way, she ruled for a long time, right?
+
+00:25:13.560 --> 00:25:16.800
+[Guest]: And I'm not taking sides of whether she was good or not.
+
+00:25:16.800 --> 00:25:20.520
+[Amit Varma]: So they'd remember the peak of it and think of her as an authoritarian despot.
+
+00:25:20.520 --> 00:25:22.600
+[Amit Varma]: And they'd remember the end of it.
+
+00:25:22.600 --> 00:25:25.920
+[Amit Varma]: And they'd think of her as a martyr who died for the nation.
+
+00:25:25.920 --> 00:25:30.080
+[Amit Varma]: And both of those may have an element of truth, though I think the former has far more truth.
+
+00:25:30.080 --> 00:25:33.040
+[Guest]: I would agree actually.
+
+00:25:33.040 --> 00:25:37.040
+[Guest]: But that's also how, I mean, so we tend to forget that there would have been other elements
+
+00:25:37.040 --> 00:25:38.040
+[Guest]: of it.
+
+00:25:38.040 --> 00:25:42.600
+[Guest]: And most of it actually in her case was not that great, but that's how we remember most
+
+00:25:42.600 --> 00:25:43.600
+[Amit Varma]: of the things.
+
+00:25:43.600 --> 00:25:45.400
+[Amit Varma]: And that's how we look back on our own lives.
+
+00:25:45.400 --> 00:25:47.920
+[Amit Varma]: And which is why, you know, memory is selective.
+
+00:25:47.920 --> 00:25:50.200
+[Amit Varma]: What we remember is not really what happened.
+
+00:25:50.200 --> 00:25:54.320
+[Guest]: So we are fabricating a lot of things in between.
+
+00:25:54.320 --> 00:25:57.880
+[Guest]: What we actually remember is the peak and the end most of the times.
+
+00:25:57.880 --> 00:26:00.000
+[Guest]: The rest of it is, we are just filling it up, right?
+
+00:26:00.000 --> 00:26:01.000
+[Guest]: We are fabricating it.
+
+00:26:01.000 --> 00:26:02.000
+[Amit Varma]: Right.
+
+00:26:02.000 --> 00:26:03.480
+[Amit Varma]: So, and we've reached the end of the podcast.
+
+00:26:03.480 --> 00:26:08.400
+[Amit Varma]: And at this point, I will ask my listeners to reflect on what you remember of this podcast.
+
+00:26:08.400 --> 00:26:10.880
+[Amit Varma]: Chances are it will be the peak and the end.
+
+00:26:10.880 --> 00:26:12.360
+[Amit Varma]: Nidhi, thank you so much for coming on the show.
+
+00:26:12.360 --> 00:26:13.360
+[Guest]: Thank you so much, Amit.
+
+00:26:13.360 --> 00:26:16.360
+[Guest]: It was a pleasure.
+
+00:26:16.360 --> 00:26:21.360
+[Amit Varma]: If you enjoyed the show, you can follow Nidhi on Twitter at Nidhi1902.
+
+00:26:21.360 --> 00:26:25.560
+[Amit Varma]: You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A.
+
+00:26:25.560 --> 00:26:29.600
+[Amit Varma]: And if you want to hear earlier episodes of The Seen and the Unseen, please hop on over
+
+00:26:29.600 --> 00:26:32.200
+[Amit Varma]: to seenunseen.in.
+
+00:26:32.200 --> 00:26:42.840
+[Amit Varma]: Thank you for listening.
+
+00:26:42.840 --> 00:26:48.160
+[Amit Varma]: If you enjoyed listening to The Seen and the Unseen, check out another show by IVM Podcasts,
+
+00:26:48.160 --> 00:26:53.000
+[Amit Varma]: Simplified, which is hosted by my good friends, Naren, Chuck, and Shriketh.
+
+00:26:53.000 --> 00:26:55.160
+[Amit Varma]: You can download it on any podcasting network.
+
+00:26:55.160 --> 00:26:56.160
+[Amit Varma]: Excuse me, brother.
+
+00:26:56.160 --> 00:26:57.160
+[Unknown]: Excuse me.
+
+00:26:57.160 --> 00:26:58.160
+[Unknown]: Tell me, ma'am.
+
+00:26:58.160 --> 00:26:59.160
+[Unknown]: What's on the menu?
+
+00:26:59.160 --> 00:27:04.160
+[Unknown]: The menu has Seen Unseen, Podcasts, On Course, Cyrus Says, Marry in India, Rediscovery Project,
+
+00:27:04.160 --> 00:27:09.160
+[Unknown]: Empowering Series, Sex Wax, IVM Likes, Simplified, Keeping it Queer, Things and Destinations,
+
+00:27:09.160 --> 00:27:11.160
+[Unknown]: My Neighbor Zuckerberg, and The Fine Garage.
+
+00:27:11.160 --> 00:27:12.160
+[Unknown]: What do you want?
+
+00:27:12.160 --> 00:27:13.160
+[Unknown]: Can you repeat it once?
+
+00:27:13.160 --> 00:27:14.160
+[Unknown]: I don't repeat.
+
+00:27:14.160 --> 00:27:15.160
+[Unknown]: You go to ivmpodcasts.com and listen to all this.
+
+00:27:15.160 --> 00:27:18.160
+[Unknown]: Or download their app.
+
+00:27:18.160 --> 00:27:45.160
+[Unknown]: It's all on your fingers.
+

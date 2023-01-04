@@ -1,0 +1,347 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "One of the greatest signs of privilege in the modern world is how many things we take for granted. Looking at myself, for example, I take it for granted that I have a roof above my head and will have one for the foreseeable future. I can eat when I am hungry. I will always have access to drinking water. In fact, a friend of mine recently pointed out that thanks to technology, the next generation will never know what it is to be lost. Imagine that, GPS Zindabad. Well, today's episode is about water, which is something that people like me are lucky enough to take for granted, while millions in this country are not. Now, usually things get better. But in this regard, matters might actually get worse. We think of water as an endless resource. But could India actually be running out of water?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:52.200",
+        "message": "Welcome to the seen and the unseen. Our weekly podcast on economics, politics and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:58.760",
+        "message": "Please welcome your host, Amit Bhadma. Welcome to the seen and the unseen. In one sense, India has had a water crisis for decades. Millions of Indians don't have access to clean drinking water. But those who run the country take it for granted. I always assumed, though, that the issue here was distribution. I thought, well, we have the ocean on three sides, we are a land of rivers. It's just a question of using technology to make all this water drinkable and then distributing it efficiently. Well, I discovered while recording this episode, that my notions about water were completely wrong, and that we might be headed for a water crisis. My guest for this episode is Vishwanath S. He is well known on Twitter as Zen Rain Man, and has been an activist for water conservation for over three decades. I'd heard a lot about him. And as I didn't know anything about the subject, I invited him over for an episode. We recorded this in Bangalore a couple of weeks ago. Listen, Vishwanath, thanks so much for coming on the scene and the unseen. Pleasure. Vishwanath, you worked in the field of water conservation and in the field of water generally for more than three decades now, 32 years, 32 years. And these days, there's been a lot of news about Bangalore's water wars, and so on and so forth. Can you contextualize our current problems for me a little bit?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:18.280",
+        "message": "That's interesting. India is a bit peculiar as compared to other countries when it comes to how it accesses water. One striking example for me, which has driven me to work in this particular sector also has been the dependence on groundwater. We have close to 33 million wells and borewells. We take out 250 cubic kilometers of water, that's groundwater every year. So this is far more than what the next two nations, China and the USA combined to. Together China and USA take about 220 cubic kilometers out, India takes 250 cubic kilometers of groundwater out. So this dependence on groundwater is something stunning."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:00.960",
+        "message": "I'm a complete layman. So excuse me for this very sort of newbie question, but how do the other nations then get their water? Like if we are different from depending so much on groundwater?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:11.320",
+        "message": "Right. I think the other nations, China and the USA are to a large extent dependent on surface waters. Right. Waters from rivers which they stock up in reservoirs, dams and then pump it across or canalize it across the country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:26.320",
+        "message": "But in our case, we are dependent more on drilling underground and\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:29.760",
+        "message": "We have been to for a long, long time, we have depended on groundwater. It dates back to the Indus Valley Civilization, Mohenjo-Daro, Harappa, Lothal, we have a history of open wells, which provided water and this is striking again, because it's called the Indus Valley Civilization, yet the habitations actually took their water from groundwater."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:51.760",
+        "message": "So why was that? I mean, you'd imagine a land with so many rivers would, you know, not have this kind"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:56.680",
+        "message": "of\u2026 Well, it looks like a historical coincidence, but let's look at it from also the other lens of what I would call water romance, which I'm pretty much romantic about. This discovery that a hole in the ground could yield water was something stunning for civilization. Some tectonic shift happened. You were no longer tied to the tyranny of rivers and lakes. You could go to the countryside, dig a hole in the ground, find water and survive. And it looks like the ancients in India cracked that particular form of knowledge. So therefore, you were anywhere and everywhere and remember this country of ours, what is now what we call India is two-thirds semi-arid, it's in the Deccan Plateau. So the rivers are ephemeral, they're not permanent, they're not perennial rivers. And then when you have to survive for the whole year, you look for solutions and the well was a striking solution."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:51.860",
+        "message": "So what are the implications of our dependence on groundwater?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:56.200",
+        "message": "Here's the thing. Till we were dependent on open wells, there was a strange sort of communication between the ecological resource that is water and us as human beings. So the wells spoke to us, it would tell you summer is coming. So you started to alter your behavior depending on the water availability. The well was both functional and communicative, it rewarded you for good behavior. If you recharged around the surrounding areas, if you protected the forest, then the well had plenty of water. If you dumped waste material, well, the well would get polluted and you wouldn't be able to use the water. So these signals of communication and functionality was something striking about the well. Come the 60s, and then we slipped into the era of the borewell. The borewell stopped communicating to us, they only communicate to us twice, once when they strike water and once when they're dead, actually."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:46.480",
+        "message": "Because we no longer see what's happening to water levels, how they're changing with the seasons, and we can't adjust accordingly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:51.240",
+        "message": "So that information is stopped. Absolutely. So the borewell does not let you know how much water there is, what is the source of that groundwater? Where is it coming from? What is the quality of that groundwater? What can you do to protect it? How much of it are you using up? All these signals are completely lost with the borewell."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:09.520",
+        "message": "So what are sort of the seen and unseen effects of borewell drilling, like, what were the advantages which led to that being adopted as a technology in the first place and what"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:17.680",
+        "message": "eventually happened? So there's a strange coincidence to the entry of the hard rock drilling rig into India documented by UNICEF, amongst others. In the 60s, the mid 60s, there was a continuous drought for three years, and there was actually famine, there was food shortage and great water shortage. And UNICEF brought in these drilling rigs from the UK, Denmark and the USA, hard rock drilling rigs, about 18 of them, and started drilling for water. These went off into the villages of Bihar, UP, Madhya Pradesh, and they brought life saving water. So they were a big boon at that particular point of time because the wells had dried up. The borewells had to be dug to about 100-200 feet, which the wells would not have reached. And then the hand pump was attached to it, and life saving water came. But in a peculiar Indian tradition, we took the drilling rig, jugadofied it and started to make the rig itself. So, small town of Tiruchangod in Tamil Nadu is now one of the leading exporters of borewell drilling rigs in the world. These rigs then started to get used for irrigation and agriculture, farmers started to drill it, they were uncontrolled, nobody controlled the number of wells that were being dug. And actually, the political establishment started to give free electricity for the pump sets to mine water from these, and so they spread rapidly, became politically uncontrollable and started to exploit a lot of water. Two consequences, the benefits, of course, of the Green Revolution came from groundwater, a lot of people argue not from the dams of India. The second consequence on health, for a long for a short time, diseases like the guinea worm were eliminated, waterborne diseases became less because groundwater was pure water. But slowly, poisons such as fluoride and arsenic started to emerge. Now we have a situation, because of our dependency on these deep borewells, that about 66 million Indians are consuming fluoride contaminated water and about 18 million Indians are consuming arsenic contaminated water."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:17.480",
+        "message": "Wow, that's quite a revelation. So the first seen effect of borewells was effectively that it played a part in enabling the Green Revolution, which of course saved millions from possible starvation and was a big boon to us. And the second effect was that diseases like guinea worm, for example, completely vanished. And, you know, before I ask you to elaborate on the unseen effects, you spoke about how the spread of borewells was, you hinted that it was perhaps more than it should have been. And, you know, partly because of government incentives, like free power, which allowed people to pump up as much water as they wanted. And we started, we jugarified and we started making them ourselves. And can you elaborate on that a bit, like how, like, was the was the spreading of borewells at what point does it sort of become a con rather than a pro?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:10.400",
+        "message": "Yes. That's an interesting question. I think in the initial days when the Geological Society of India, which was one of the strong proponents of the hard rock drilling rig and the borewell, went about its business, farmers did not believe that a four inch hole in the ground could actually yield water. So they had to be persuaded by scientists who actually dug these borewells and drew the clean water out. And I think even in the minds of the geologists, it was not clear that we were going to run out of groundwater, because we had not formed a good idea of how much water was actually there, what was the volume that was being recharged annually, and what were the areas from which these deep borewells were being recharged. I think that hydrogeological science is only now developing in India, we are doing something called sub aquifer mapping, trying to understand these hard rock aquifers in a more thorough manner, which we did not know in the 60s and 70s. So we went about assuming infinite resource. And I think that was the handicap. So one does not lay blame on a deliberate attempt to create a scarcity. But this is the very nature of technology and science. It seems that we create problems, and then overcome them with solutions, which are actually greater problems."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:22.680",
+        "message": "And so then the cycle continues, except that, you know, with most everyday technology, like if there's a bug on the latest Android version, it's fixed really fast, and the information is flowing really fast. And here, because it's geology, and you don't really know what's under the earth, and it's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:36.080",
+        "message": "something that can take decades to play out and affect millions of people. Absolutely. And how many hydrogeologists are produced in India? It's a good question to ask. And where do they go? Most of them went to the oil industry. So we had a lack of human resource power, we still have a lack of human resource power, given the complexity of the science, who has to do the investments in managing groundwater? Is groundwater a government resource? Is it a common pool resource? Is it a private resource? It's now managed as a private resource. When do we flip from being from turning it into a common pool resource from a private resource? And then who does those investments are big question marks even now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:12.800",
+        "message": "So one of the unseen effects that you pointed out, of course, with the new diseases that came about like chloride poisoning, and so on and so forth, but, you know, going even beyond that, as our knowledge grew of, you know, how scarce groundwater might be how it gets depleted, where it comes from, and so on and so forth. Looking at those learnings, what can you say are the and also the point you made about the information that a person living on the land has about the water content of the land disappearing because you this was now unseen the water at the borewell was striking as opposed to the scene water in a well, which you're in touch with every day. How did all of this play out? What are the long term unintended consequences?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:53.600",
+        "message": "So one unintended consequence is the drying up of the peninsular rivers, a lot of people don't get the fact that it's not merely depletion of catchments and cutting down of forests and trees, but it's actually the sinking of the groundwater table through millions of borewells, which causes our rivers to dry up. And so if we want to revive our rivers, which is now quite a thing with society, then we have to get our groundwater tables high. It's a relationship not understood pretty well. The second point is what it did was it caused farmers to take loans to drill borewells. Enough evidence has come that farmers would take loan after loan, sink borewell after borewell in this desperate chase for water because that was his only source of water"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:42.600",
+        "message": "for whatever. So he would have to drink multiple borewells because he drink dig one and then that would get over and he'd have to dig another one."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:49.040",
+        "message": "The thing with hard rock terrain is that if you drill a borewell, it's not a guarantee that you will strike water, you may drill one four meters away and it may strike water because this waters occur in cracks and crevices which are limited, there's not a sponge like aquifer which the well would have tapped into. So this uncertainty of being able to strike water was a clear factor in hard rock borewells"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:11.960",
+        "message": "and this caused tremendous agricultural distress. So what followed from this, take me on a narrative like through the decades, like in the 60s you have problems of food and water and then you have these borewells coming in, they enable the green revolution and it seems like a technological miracle and by and large the green revolution was something which helped millions of people enormously. But then through the decades, a story then starts playing out where people gain more and more knowledge about what it's actually doing to the groundwater and we start facing the consequences. Can you sort of tell me that story through the decades?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:45.600",
+        "message": "Well, yeah. Okay. So let's see, India is getting independent in 47, our population is about 330 million. We are a nation growing just about enough food for ourselves. Slowly the population starts to increase, in the 50s we are faced with a set of droughts and in the 60s it becomes striking because we get three year drought, continuous drought and then we have a hand-to-mouth living as is described with grains coming from the USA, PL 480. At the time there's a war with Pakistan 65 coincidentally or otherwise and now our dependence on food becomes a security risk for us. So we start to think what we should do. Caesar Bramaniam steps out, Prasad Swaminathan and meet Norman Borlaug and the high yielding dwarf variety, the Mexican dwarf variety of wheat comes to India. This dwarf variety needs actually more water and it needs lots of groundwater for its productivity to increase. It needs fertilizers, it needs pesticides. Then comes the rice, the International Rice Research Institute is established in Odisha to begin with, later on shifted to the Philippines, they developed IR 64, a wonderful hybrid variety which comes to the Tanjavur belt which is in the Cauvery area. These wheat and rice strains are now demanding water, they are producing food security and informally, subversively farmers are drilling bore wells to feed this water but we are fixated on the food output. We are not looking at what's happening to the water depletion and slowly the spread of this both these varieties is all across India. In the meantime, the hard rock drilling rigs have come technologically speaking. They have started to replace the traditional diesel pump or the animal driven lifting devices. They now start to dig deeper and deeper and start to move everywhere. Free power is started to be given to the farmers because the farmer lobby is a strong lobby, agriculture is a strong lobby and so therefore, this depletes groundwater even further because it is indiscriminate use of the groundwater, flood irrigation, it is not drip or sprinkler irrigation. And slowly eventually, we are into 33 million bore wells and 250 cubic kilometers of water over time. Now, we realize the gravity of the situation, we start to figure out areas where groundwater is depleting and we try to bring control through law, it does not work, none of the places in India, groundwater rules and legislations are working because the number, sheer number of bore wells to manage and regulate has become too huge. Now, we are in an era where we want to recharge the aquifers and try to make it up but we still have not found an idea for demand management. Until we find a balance between demand management and what goes in into the groundwater as rainwater, strike a balance, we will be in for tough times."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:36.040",
+        "message": "And this seems like an almost insurmountable problem because at the policy level, the government will of course say that we need to not destroy the depleted resource, we need to figure out a way to make it better. But at the individual level, the incentive for the individual farmer always will be to make sure that his next crop has the water it needs and therefore, he doesn't give a damn and farmers are an important constituency and politicians therefore have to kind of"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:00.040",
+        "message": "listen to them, can't go against them. That's true. But however, there are grains of experiments which are now happening where we are turning the resource into a common pool resource and there's a particular program called the participatory groundwater management, which the group which I'm working with, Argyam, it's a funding agency, it's also funding and we're trying to bring together pools of farmers who pool their groundwater bore wells. So, let's imagine about 40 or 50 farmers come together, link up their bore wells, use drip irrigation and sprinkler irrigation so that they are effective, put up a rain gauge in the place and understand how much it rained. Based on the rainfall, take a call on how much water is recharged these bore wells and therefore, use and grow crops which require less water than what it rained. So, if this year it rained less, you grow millets, if it rained more, you grow paddy. That kind of a call. You link up the groundwater and build that groundwater knowledge, link the bore wells. The pooling also brings in market feasibilities. You can buy seeds cheaper, you can sell to the market as a cooperative, as a unit, as a producer unit. These experiments seem to show a glimmer of hope for the common pool resource that groundwater has become."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:13.400",
+        "message": "Are they just sporadic efforts made by organizations like yours? Because it imagined that it's actually in the farmers' long term interest to pool together and do this for various reasons, not just the water, but also the collective power they get when it comes to the marketplace and therefore, this is something that should be happening anyway regardless of any impetus coming. Is that the case or have you found that that impetus is required?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:35.800",
+        "message": "So here's the thing. The institutional architecture of groundwater governance in India is varied from state to state because groundwater and water is a state subject. One of the better performing institutions is the Groundwater Survey and Development Agency, which is in Maharashtra. And Maharashtra has taken up very formally this way of pooling groundwater and trying to work on it as a modality. And we're eagerly waiting for the kind of results that will come there because that will set an exemplar for other states to follow. There's no other choice. We have to make it work. But we have to get these institutions to be full of specialties which can deal with societies, not just groundwater alone. So far, we have thrown hydrogeologists, now we need community mobilizers. We need people who can organize farmers groups. This is a different skill set altogether. So the governance architecture of groundwater will have to be reimagined and it will have"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:26.920",
+        "message": "to change. So give me a sense of, to understand the situation we're in and the crisis that there is, give me a sense of the worst case scenario. Supposing Vishwanath, you don't exist and this governance architecture doesn't take place and there's no one really doing anything about this and it's just individuals going by without that larger knowledge that you have gained. What's the worst case scenario?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:46.840",
+        "message": "What can happen? It's playing itself out in many parts of the country, playing itself out in North Gujarat. It played itself out in Chennai, that groundwater ran out completely, that societies had to migrate out. There was great agricultural distress, economic distress. People struggled for drinking water, drinking water had to be shipped in trains and trucks and tankers. In Gujarat? In Gujarat, in Maharashtra, in Karnataka, in many places, in many habitations, the groundwater has simply run out. There is no life without groundwater. So, you'll see great patches of India, which will simply be not occupied because there's no groundwater. And, mind you, when groundwater tables fall, forests will start to die, because the roots of the trees cannot get into the aquifers to drink water. So, you can imagine terrific catastrophes, the limited forest cover that we have which feed our rivers will die and so therefore our rivers will be in distress, they're already"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:44.760",
+        "message": "in distress. This is both an ecological disaster as well as a humanitarian disaster, because you'll have people migrating away from areas where there's no groundwater and quite apart from the devastation that's already been wreaked on them by having to migrate, they'll put pressure on the areas they migrate to, who will in turn, in a cascading effect, face these problems of their own. Is there any, like you said, a lot of nations don't quite depend on groundwater. Are there other options? Like, if we take it as a given that eventually, over time, the groundwater is not going to sustain us. Are there other options in terms of, you know, again, I'm asking completely as a layman,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:18.400",
+        "message": "that can fill that need? Well, different areas and different rainfall patterns and different hydrogeologies will have to show a different response. Kerala in India has the largest density of open wells for any place in the world. What Kerala is now doing with its rainfall is it's picking up rooftop rainwater, many households in Kerala and feeding their wells, so that the wells are full all the time that the quality of well water improves, and it can quickly become a mass movement."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:46.760",
+        "message": "And this is again an innovation that's happened, as you pointed out, because they get information about what's happening to the level of water in the well, and therefore, they can prepare in advance and they understand what's happening while with borewell drilling and so on, you have no information, you assume it's there till it's not there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:02.000",
+        "message": "Absolutely. So, this business of modernity, which started to bring piped water to homes with all good intentions to remove the duress that women had to go to bring the water and make things easier. Pipe water inside the house caused this disconnect, because you don't know where the pipe water is coming from, how much there is water in the rivers and all. So, some examples are striking, what we are trying to do is to merge both the pipe network as well as groundwater. Belgaum is a striking example. When they ran out of water for the pipe network, an engineer there called RS Nayak thought about the old open wells there and with the help of the community mobilized and cleaned up those old open wells. The community promised not to chuck Ganesh idols into it, garbage into it. In return, with some small funding, they were able to put up water networks for the local community 500 people, 1000 people, sometimes even 10,000 peoples, a local network linked to the local well, pipe water to your homes. So, here's an incentive for the community to keep their wells clean, to recharge water and then in turn they get water. As opposed to the pipe water supply, which cost them about 12 rupees a kiloliter, the water from the well was only 75 paisa a kiloliter and I'm talking 75 paisa for 1000 liter. So, there's an economic benefit and an ecological benefit and an environmental benefit plus sustainability. And this water supply scheme is giving water to 200,000 people in Belgaum of a population of 500,000 people. Kundapur, which is close by, started to get 24 bar 7 pipe water supply. Well, when the residents were asked to connect and pay a connection fee, they said, we already have our 24 bar 7 supply from our wells, they're giving us 24 bar 7 and we're in charge of these wells. So, why do we need your pipe water connection? So, somewhere these two will have to meet the pipe water network aspirations of the people and the well as a sustainable water resource and the community understanding what the well is. And so, that challenge will have to be played itself out differently in states like Kerala, in small towns and cities and in the vast rural areas of India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:05.520",
+        "message": "I mean, it seems it seems a really great challenge because like in a village, okay, you can have communities and they have wells and so on, but in a large city like Mumbai or Bangalore, you know, you don't have those open wells and that sort of connect, you're dependent on the pipe water supply and then on the water supply basically."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:20.360",
+        "message": "So, let me give you one more example from Bangalore because you raised this important point of urbanization and the complexity of cities and how you manage it. And this example is Rainbow Drive on Sarjapur Road, just opposite Wipro, 36 acres of campus, 360 plots, not connected to the city utility network. What would they have done? Each one of them would have drilled a bore well as they build their homes. So, you would have 360 straws emptying out the cup of water, each competing with the other, pretty soon it would be finished. When we worked with the community and the community had some reasonably enlightened leadership, what they did was they banned private bore wells, they said we'll sink three community bore wells and we'll share the groundwater, but 360 will now compulsorily recharge the aquifers. So, each one of them will make a recharge well, which is about three feet in diameter and about 20 feet to 30 feet deep, pick up all the rooftop water, the water which flows on the roads and make sure that it's filtered and send it into the aquifer."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:14.520",
+        "message": "So, recharge well is something that collects all this water and\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:17.760",
+        "message": "Unlike a well which gives you water, a recharge well picks up rainwater, clean rainwater and puts it into the aquifer. So, you got 360 recharge wells, but only three wells which were drying. Still this was not enough. When we did a water balance for them, we figured that they were consuming 265 liters per person per day. With all the rainwater harvesting they do, they're still overdrawing on the aquifer. So, they had to get it down to 130. They put a meter in every connection, they price the water. So, if it's more than 20,000 liters per month consumption for a household, they pay 120 rupees a kiloliter. The consumption came down to something like 120 liters per capita per day. With the monies that the institution collected, they were able to invest in a wastewater treatment plant. They pick up treated wastewater and send it to the households for non-potable use. So, again, the net freshwater demand has dropped to something like 80 liters per capita per day. They are now contributing to the city of Bangalore, they're contributing water. They're self-sufficient, they're sustainable, and they have perhaps the cheapest water in town. So, these kind of examples, this is 36 acres, it's now being replicated in a 70 acre layout. It's gone to a 200 acre layout where they've discovered that the basements were flooding and the wells had water and they were buying water at the same time. So, this sort of mental map in which we've forgotten what shallow aquifers and wells are, are being regenerated."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:34.640",
+        "message": "So, this is obviously a remarkable and inspiring story. But as you pointed out, it's a community which is relatively small, and also had enlightened leaders, and therefore is sort of one island of enlightenment in overall. So, my question to you there is that, let's say that as a society, it's a problem we need to solve. What is, what is the role that the government can play in it with all the incentives because they are usually focused on the short term, and they have different kinds of special interest groups? And what is the role that we cannot look to government to play, that we have to say that society has to make these moves and these ideas, and these values have to spread through society? How hard is that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:14.800",
+        "message": "Can it happen? What are your thoughts? So, that's a, that's an important point. I think the institutional architecture for water governance in India is 20th century. We're faced with 21st century problems. And unless we redefine our institutions and get them to be able, capacitated enough to be able to address our problems, we're going to be stuck with some challenges. From a policy perspective, the city of Bangalore, Chennai, for example, drives a rainwater harvesting policy, which makes it mandatory for every household to do rainwater harvesting. It's not being implemented at the efficiency and effectiveness, which it should be. But a beginning has been made. And why it's not being implemented is something that we need to crack because we do not have a good communication outreach to persuade citizens to understand the benefits of doing it. But if we do that, then we have a substantial amount of recharge of our aquifers. So therefore, our bore wells and groundwater open wells can come back to life. If lakes are rejuvenated, and if they're fed with treated wastewater, so in the rainy season, you feed the lakes with rainwater, in the non-rainy season, you feed them with treated wastewater which comes in through constructed wetlands. And there's an example in Jakkur, there's an example in a lake called Rajanalli, Puttanalli, many examples are there. Then these lakes recharge that shallow aquifer and a huge amount of groundwater becomes available for the city to reuse, right. So a wastewater policy which talks about ecological use of treated wastewater to recharge aquifers. A groundwater policy which says, okay, in a particular area, you're not allowed to sink individual bore wells, but community bore wells will supply you water. A rainwater harvesting policy, wastewater policy, groundwater policy, all talking to each other and reinforcing sustainability is the way for government to think and work upon. At a policy level, that's already happening, we need more better implementation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:05.120",
+        "message": "What do you see are the bottlenecks here? Like, is it the government sort of seeing the light? Or is it a matter of state capacity? Or is it a matter of communication?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:14.680",
+        "message": "It's again that cities need what is called integrated urban water management institutions, an institution which looks at water holistically. A classic example is Jakkur Lake. Now, if you go to the lake, the lake is with the BDA, the Bangalore Development Authority, which is handed over to the Bangalore Mahanagar Palike. The fishes in the lake belong to the fisheries department. The recharge that the lake water does is monitored by the Mines and Geology Department in the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:38.960",
+        "message": "Central Groundwater Board."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:39.960",
+        "message": "So these are like separate silos, which... Completely. The wastewater which comes in is managed by the Bangalore Water Supply and Storage Board. The rainwater which comes in is with the Mahanagar Palike. You take any one of this institution to the lake, and they're like the six blind men of Hindustan. They just see their point of view, and then they come back. Now, unless we get these institutions to sit together on one plan of action and management, we have a challenge. Now, residents associations are doing the convergence. They sit, they identify a problem. Okay, solid waste is coming in. I go to the BBMP and fix it. Medical waste is coming in. I go to the State Pollution Control Board and make sure that they take action. But that citizen action cannot be long term and sustainable. Our institutions have to, like I said, reimagine themselves and come together on this common platform. It's possible. It's a long road. It's a harder route. It's not a technical solution. It's an institutional and governance solutions. We need that kind of capacities to come together to reformulate our institutions and governance policies to make it happen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:35.920",
+        "message": "So when you spoke about sort of the institutional architecture being of the 20th century instead of the 21st century, what you're referring to is that the same thing that they all work in kind of silos. And now we need to recognize the problem and bring it under one authority, which can then,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:50.200",
+        "message": "you know, take these decisions and get it done. That's one part of the problem. The 20th century architecture of institutions was one of supply management, the resource was available in plenty, you needed engineering skill sets to pump water from a large distance. The Bangalore Water Supply Storage Board, set up in 1964, was the first water utility set up in India. And its biggest achievement was that it brought water from the Cauvery River in 1972, which is 100 kilometers away and 300 meters below the city. Huge engineering challenge. Now the resource itself is running out. But what this institution is geared for is to pump water to the city. So its next imagination is to bring water from the Sharavati River, which is 340 kilometers from Bangalore. Whereas what it perhaps needs to do is to look at the ecological resource available within the city like rainwater, wastewater, groundwater, and manage it. But there is not a single hydrogeologist in the institution. There's not a single hydrologist. There's not a single ecologist. How can that hockey team play football, which is what is being asked of them?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:49.520",
+        "message": "That's a brilliant articulation. And like you just pointed out, citizen activism has its limits, and you also don't have enlightened citizens everywhere. So what really you need here is, in a sense, political will and governmental will, which are slightly separate things, but those are what you need."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:03.240",
+        "message": "What are the obstacles to those? Well, actually, the government too is listening. It's not that all politicians are bad."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:08.920",
+        "message": "There are quite a few ministers who... But the incentives are sort of different. They're geared towards a short term, winning the next elections, more towards handouts and deep fundamental change."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:17.360",
+        "message": "That is true. The democratic cycle and the ecological cycle of sustainabilities, this one is a five year cycle. But in the minimum 20 year cycle, they don't overlap and the short termism and suboptimal nature of democracies start to impact it. However, I think we can find a midway by which we commit ourselves to a long term plan, which is cutting across political frontiers, but then use the democratic cycle for equity and distribution, which is as critical as resource management. The big challenge for our cities is not how much water is coming in as much as who is getting this water. Here the political system can play a major role in making sure that there is equity. So I see a lot of merit, but what we need from civic society groups and activist groups is to be able to understand the weaknesses of the system and address those in a solution mode rather than to keep on harping on problems and highlighting problems. You can keep on saying that Belandur Lake is getting sewage, that it's foaming and frothing. But what is the architecture by which you want to manage it is something that civic and academic institutions, civil society groups have to come together and brainstorm a bit"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:32.400",
+        "message": "more. And what I've often heard from civil society activists in other fields is that when it comes to dealing with government, you can sort of push for short term measures and jugars and little fixes here and there, but changing fundamental architecture is much more difficult because of sort of the incentives involved. So I sort of now want to talk about your personal journey. You've been in this for 32 years, you've been a sort of an evangelist for reform in all of these. What has that journey been like? Like to what, what's your struggle been to convince fellow citizens around you of what the problems are? And from there, what's your struggle been to actually make fundamental change happen?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:12.160",
+        "message": "Well, it's not been struggle, struggle, as in where you see it as a sort of a despondent act. I've had great joy and happiness in being able to understand the complexity of the problem and trying to see how individually and as teams, different kinds of teams, we're able to push the solution envelope a bit more. Luckily, 14 years of my initial life in the job sector, I spent with Housing and Urban Development Corporation, which is the Government of India undertaking. So I know how the government thinks I was lucky enough to do that. And that job gave me exposure to many geographies of South India, especially I must have visited every alternate village and almost every town and city as part of that job. So it was a huge learning experience and one learned the strengths of government and the limitations of government. Then once you stepped out, the challenge was, how do you work with communities, academic institutions, and even the government from a policy influence part of you. So it's important to build a brand around yourself and a thought process that you do. So that has been very important. I think you must be seen as somebody who does not have an agenda, which is political or whatever, personality driven, but which seeks to bring positive change to communities, individuals. The response has been fabulous. I mean, I have the choice are from working with well diggers, traditional well diggers. There are a community who have been digging wells in India for 1200 years now, and who have run out of a livelihood because nobody's digging wells, but everybody's digging bore wells. So how do you make sure that they get a job? So in the policy, we said in the rainwater harvesting policy, which I was fortunate enough to write with the government was to say, hey, everybody will make a recharge well. So suddenly the livelihood opportunities for these well diggers came up and the well diggers learned a new skill and a new trade. You pick up rainwater and you send it into wells, they didn't know a damn about it. Now many of these wells have water. So there's at least 10,000 open wells in Bangalore with water in it. So people call them again to clean it up every year, which was what they used to do before and deepen it a bit more and make sure that the water quality is improved. So you see that solving a water problem is also engaging with history, livelihoods, its economic benefits, its social benefits, and all these add up to ecological benefits. And when you see that canvas, it motivates you almost on a daily basis, because there's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:27.240",
+        "message": "something exciting happening. And do you feel you're taking small steps all the time and then it's then it's sort of getting to somewhere really meaningful or do you sometimes feel there's an impasse"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:36.200",
+        "message": "and I mean, oh, there's old monk for that. But the thing is that the beauty of at least the work that I got on myself was that I was able to engage with one small rainwater harvesting unit, which collects 2000 liters of rainwater to be able to sit on writing the wastewater policy for Karnataka, rainwater harvesting policy for Karnataka, sitting with the planning commission as one of the subgroup members to be able to address some of those issues. So scale, ways of thinking institutional governance to actually doing that sort of engagement, which really gives you a huge kick."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:13.760",
+        "message": "Right. And supposing some of my listeners are listening to this and thinking that, hey, you know, as a concerned citizen, I'd like to do something about this. Now, two questions for you on that account. One, can you explain the scale of the problem? What are things like right now? And two, what is it that concerned citizens can do at a practical level immediately?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:34.300",
+        "message": "So the scale of the problem is an agglomeration of a million problems. If you take a city like Bangalore and there are 1.8 million households, the city of Bangalore's problems of water is 1.8 million problems, which then agglomerate. So therefore, you can become part of that 1.8 million solutions because you occupy one of those households and one of those homes. The thing to do is to start to understand what water is in your household level itself. And it's not rocket science if you want to, you can cut down consumption 30%, 40% if intent is there. You need space between the years, you don't need space anywhere else. Second is to look at the rainfall in your apartment, in your building and see what's happening to it and whether it can be put to better use. And one of the better uses is to make sure that it goes and infiltrates into the ground. These are immediate actions. The second set of actions is to reach out at a community or a watershed level. There is a lake within two kilometers of every apartment or house in Bangalore, step in into the lake on a Sunday, which we try and get what we call friends of lakes to come. Pick up 10 plastic bags from that lake. The next time somebody chucks a plastic bag in that lake and you realize you're going to pick it up, it really makes you mad. So your ownership of the lake is generated by simple small actions and then work with groups to figure out what needs to be done to save the lake. It's not going to be easy, but you'll understand the political ramifications, the challenges which a city has to go through in managing water. And it gives you pretty much a can-do kind of a positive moment. And I think we need to work at a lot of these can-dos at various scales, you know, you engage with your corporator, engage with your MLA, engage with your water utility provider and see how the challenges they think that exist and what can be done by you as a participant."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:21.600",
+        "message": "You'll find many solutions. So I'm going to end with, I mean, this has been extremely illuminating, and I'm going to end with two questions. One, what makes you despair about the journey that you're on and what can happen to what"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:35.800",
+        "message": "India's water problems and to what makes you hopeful? The despair comes from a sort of a binary view that we seem to think that economic development means certain sacrifices and therefore ecological environment has to degrade. This set of thinking articulated in that river water reaching a sea is a waste. It makes you despair saying how much more literate should we become ecologically and environmentally. And your point is they can go hand in hand, there's no trade-off. They absolutely go hand in hand, there is no binary there, they have to coexist together and we have to find, you cannot label people environmentalists or you cannot label people pro-market and leave it at that. Both have to talk to each other and reinforce each other and understand each other's problem. But that conversation is not deep enough or not smooth enough in the sense we don't seem to be able to sit and dialogue a way out. That's a cause for despair. The cause for hope is to see the millions of actions, fishermen, well diggers, poor well diggers, everybody who's in some way or the other contributing to make sure that what we have as a society and as a nation stays somewhere reasonably good."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:51.680",
+        "message": "So that engagement fascinates me. That's an inspiring note to end on and you know, if you're listening to the show, you don't just have to listen to our journey and say, hey, that's nice, but you can also be part of it. Vishwanath, thanks so much for coming on the show, it's my honor."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:05.440",
+        "message": "It's my pleasure and the Twitter handle is at Zen Rain Man, I have to do this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:09.440",
+        "message": "I always tweet that at the end of the show, don't worry, but at Zen Rain Man and he tweets regularly about all of these issues. So please go and check that out. And you know, I really hope you write a book about this someday, because all of this has been such a learning for me just, you know, talking to you today. And you know, there's such a great narrative of how our woes with water have sort of developed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:29.400",
+        "message": "Yes. Thanks for that suggestion. I'm basically too lazy a person to be able to sit together and print words. The communication has to be immediate and absolutely these kind of conversations that I have with you, it's such a pleasure to talk because then thoughts flow and we can answer"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:46.000",
+        "message": "questions. It's fantastic. And I'd love to have you on the show again sometime."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:49.000",
+        "message": "Thanks so much, Vishwanath."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:41:50.000",
+        "message": "Pleasure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:51.000",
+        "message": "If you enjoyed listening to this episode, do follow Vishwanath on Twitter at Zen Rain Man. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. Past episodes of the seen and the unseen are available at seenunseen.in. And hey, two final pieces of advice before I go. Number one, please stay hydrated. But number two, don't waste water. While you figure it out, goodbye till next week. If you enjoyed listening to the seen and the unseen, check out another show by IVM Podcasts, Symbolified, which is hosted by my good friends Naren, Chuck and Sriket. You can download it on any podcasting network."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:42:38.320",
+        "message": "As you can see, we have a podcast listener in his natural habitat. Millions of years of evolution have led him to this point. He's on his way to work and listening to podcasts makes his miserable day better. He will now head to work and use all his knowledge to communicate with other colleagues and possibly future mates. You can find more of his species on ivmpodcasts.com, your one-stop destination where you can check out all the coolest Indian podcasts. Happy listening."
+    }
+]

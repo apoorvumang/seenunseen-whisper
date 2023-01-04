@@ -1,0 +1,1117 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:00.000",
+        "message": "There is an old quote often attributed to Horace Walpole The world is a tragedy to those who feel and a comedy to those who think. And indeed, often the best way to deal with difficulty or sadness is through humour. And the best comedy is always much more than merely funny. It's no surprise then that a society can be at its funniest when things look really bleak. Soviet humour was renowned during the dark communist years of the Soviet Union. There was no other way to cope and the only alternative to a hearty laugh was to descend into a deep never-ending funk. And for those of us who believe that Indian society and Indian democracy is going through a difficult phase, it's no surprise that the quality of our humour is getting better and better. Because when things get so bleak that they are no laughing matter, that's when they are indeed a laughing matter."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:18.000",
+        "message": "Welcome to The Scene and The Unseen, our weekly podcast on economics, politics and behavioural science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:30.000",
+        "message": "Welcome to The Scene and The Unseen. When stand-up comedy first came to India, it was shallow and derivative, performed by privileged kids who lacked life experience and an understanding of what India was really all about. That has changed. The best stand-up comics in India today are both deeply self-aware and engaging with the world around them, feeding off it and feeding into it. To discuss the evolution of both comedy in general and stand-up comedy in particular, I have invited Aditi Mittal onto the show. Aditi needs no introduction from me. Google her, see her videos on YouTube, browse her YouTube channel especially I recommend and you'll get a sense of what she's all about. Also, the producer of The Scene and The Unseen, Abbas Momin, also happens to be a stand-up comic. So I asked him to sit in as a guest and co-host with me and come in front of the mic for once. For what it's worth, I wanted to record two episodes with Aditi. I wanted one whole episode on the subject of misogyny in entertainment and in Indian society. But that'll be the next episode. In this one, we'll talk more about the comedy scene in India than just this aspect of it. But first, let's take a small break. Hosted by Pranay Koteswamy and Saurabh Chandra. And apart from these policy podcasts, IBM has shows that cover music, films, finance, sports, sci-fi, tech and the LGBT community. All under one roof. Or rather, all in one app. So download the IBM podcast app today. Aditi, welcome to The Scene and The Unseen."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:04:30.000",
+        "message": "Hi! This is so incredibly exciting."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:33.000",
+        "message": "And not just Aditi, Abbas, welcome to The Scene and The Unseen as well."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:04:36.000",
+        "message": "Hi Amit, good to be on the show I produce once again."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:40.000",
+        "message": "Yeah, good to be in front of the mic instead of behind it. Right, welcome back. So Aditi, we have this, and you're going to probably find this a little disconcerting, but we've started this new custom on The Scene and The Unseen that before we get down to whatever the serious subject of the day is, macroeconomics or protectionism or whatever, we ask the guests a few personal questions about themselves."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:02.000",
+        "message": "So that, you know, I always assume... Long walks on the beach, dogs, candlelight dinners and dinners at candlelight dogs. Those are my preferences."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:12.000",
+        "message": "Okay, I'll take a few moments to fathom that. But in this case, actually, there's a natural segue from sort of your personal journey to the subject of today's episode, which is, you know, the history of stand-up comedy and comedy in general, which you have a lot of thoughts and feelings on. Yeah. So tell us a little bit about yourself. Like, what did the eight-year-old Aditi want to be? Like, how did the eight-year-old Aditi get here?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:40.000",
+        "message": "You know, the eight-year-old Aditi wanted to be a rickshaw driver because I was just fascinated. I was like, oh my God, you get to go places and people will pay you."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:05:49.000",
+        "message": "And I just thought it was genius."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:52.000",
+        "message": "I was like, oh my God, it's the whole day with the wind in your hair. And a meter on your shoulder. And a meter on your shoulder. I thought it was the ultimate sort of like, I would feel very jaunty if I was a rickshaw driver. And then I think I sort of grew out of that ambition. And then, you know, I think I wanted to be an elephant. That was my childhood aim, which I think I achieved."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:18.000",
+        "message": "You're giving your stand-up routine now. Come, come, come. Shed the mask, show us the real Aditi."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:25.000",
+        "message": "So I wanted to be a nun. No, I wanted to be, I don't know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:33.000",
+        "message": "You didn't have wanted to be anything per se. No particular aims. But as you went through school and college and all that, you know, what were you studying? What were you looking at? What kind of person were you? Were you always funny?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:45.000",
+        "message": "I think, yeah, I don't know if I was always funny, but surely I was a nautanki. Like I was that kid, you know, when your relatives come over and your parents say, dance for uncle and auntie. I was that kid who was like, which genre?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:06:57.000",
+        "message": "I have a sad song, a happy song and I know that love is by heart."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:01.000",
+        "message": "And did they ever call you a bluff and say, dance for a year?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:07:04.000",
+        "message": "I would make it up. I would make it up on the spot."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:07.000",
+        "message": "And they wouldn't know because you're Indian uncles."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:07:09.000",
+        "message": "Yes, they would just clap along politely. Like to the point that when my dad owed people money, he used to just call them home. They never came back. Because they were like, let it be, a kid from Mittal will have to see a six-hour show. So, too much stress."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:22.000",
+        "message": "My God, the loan collector's daughter. So, Abbas, I got to give you some trivia that I found out about her before the show."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:07:28.000",
+        "message": "What is it?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:29.000",
+        "message": "Both of us went to school in Pune. And I studied in this place called Bishop's School. And many years after me, of course, she studied in this neighboring school called St. Mary's. And Bishop's was a boys' school, St. Mary's was a girls' school. And Bishop's and Mary's used to have a social every year, where boys and girls would get together. And I don't know what the girls would think, but the boys would, like, the only social I went to, I didn't talk to any girl because I was too scared. I found the guitarist of the band and asked him for tips on how to play the guitar, which I still don't know, by the way. So, Aditi told me that she was like the school marmie presence among the girls. And she would make sure that none of them, you know, danced with any of the boys or held hands with them or whatever."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:08:13.000",
+        "message": "She was that kind of person. I've been preventing people from getting laid for like decades now. I think, yeah, but it's true. And our schools, by the way, Abbas was separated by one single wall. There was one single wall in between."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:08:29.000",
+        "message": "It's like Israel and Palestine. It was, I mean, not as tragic, clearly, or fraught with sexual tension as our girls' schools and boys' schools. But yes. Nobody tried to climb over the walls or anything?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:08:43.000",
+        "message": "I was one of the, sort of, as I said, the asexual moms."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:08:48.000",
+        "message": "It would be like, sister, sister, someone is trying to go on the wall. Sister, sister, I saw that one staring at that one."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:08:55.000",
+        "message": "Just saying, I was a very popular kid among the teachers. Sisters. Yeah, not so much among the girls."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:03.000",
+        "message": "So, after your early school career as a spoilsport and messing with everyone's fun, where did you go for college?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:09:10.000",
+        "message": "I went to Sophia College in Bombay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:13.000",
+        "message": "A girls' college after a girls' school. Yes. Now we know why you're so twisted."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:09:17.000",
+        "message": "Actually, I think, you know, one of the advantages of being in an all-girls environment for me personally has been the fact that whenever you're in a co-ed environment, the class clown would always be a guy. You know, because any sort of clownish behavior from girls was never rewarded with laughs."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:09:34.000",
+        "message": "It was always like, what are you doing? Are you crazy?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:09:36.000",
+        "message": "And I think with the fact that I was in an all-girls environment till very later on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:41.000",
+        "message": "So you were the class jester?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:09:42.000",
+        "message": "Yes, I was sort of the one who would like raise my hand and give a smart-ass answer. Like 80% of my school life was spent kneeling outside class, just waiting for the break bell to ring so that I could be the first one in the canteen for the samosas before they got over. But yeah, I think it really helped. It really helped to be in an environment where there was a constant also reinforcement of the things that women found funny. And I think, so if anyone, if you want to blame anyone for my career, it's them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:14.000",
+        "message": "So that's where your bad carbohydrate habits started. First one to the samosas, it seems."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:10:18.000",
+        "message": "But that's really interesting."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:19.000",
+        "message": "So what you mean is if you were in a normal, not a normal, but say a co-ed environment where there were both boys and girls, you may not ever really have had the confidence to, you're saying, express your comedy and find your voice."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:10:30.000",
+        "message": "Oh, clearly, clearly. 100%. And, you know, I know that the conversation about single sex environments in schools is a sort of, is very important to have. But I think that in this particular aspect, it really helped. It really helped. It made sort of, actually, going back, I met my first non-relative man when I was 19. And like met as in like interacted. And I remember being blown away that I was like, oh, my God, they have hair on their neck. You know, they smell like this in this one particular way. Their toes have hair on them. I just remember being sort of blown away by the male form at the age of 19, which I think was still kind of late in the day. But I think the natural shut ups that could have come to me till I was 19 didn't come."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:27.000",
+        "message": "What do you mean the natural shut ups? Oh, people saying shut up to you."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:11:30.000",
+        "message": "Enough people telling you to shut up or policing you into a confined gender role that no, no, no, girls don't behave like this. Or women don't behave like this. We were able to sort of occupy more roles than just the prescribed act out of the gender that you are supposed to be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:47.000",
+        "message": "Right. And did that change after you left at all girls environment? Did you have to adjust?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:11:52.000",
+        "message": "Yeah, I was I was genuinely confused. I was genuinely sort of like frazzled and taken aback, sort of. But I think it helped also, again, in that way that I was very, I was a little bit too self-assured. When I was placed then in an environment where there were men as well, is that I was like, no, I know, I know that I am sort of my voice is worth listening to. I, the things I am saying are not like, oh no, no, just our talking. I just, I felt I had my sense of validation from within. So then by the time I went out into a world where there were all sorts of genders, I was more confident."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:32.000",
+        "message": "And we will talk about, you know, more about being a woman in this kind of an environment in sort of the next episode. But just to kind of continue with that, you know, whenever I would go to a bookstore and there would be a section called humor and there would be books there and I would be like, humor is a part of everything. It makes no sense to have a section which is called humor. And so, OK, obviously, then as a schoolgirl and, you know, as a college going person, you are someone who's naturally funny and you're making your voice cracks and you're sort of, that's what you do. At what point did you become aware of comedy as a genre by itself, which you could consume and which had value and be as something that you could do?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:13:15.000",
+        "message": "So, A, I think it was because, you know, my family is like my dad was hilarious. My dad was the funniest guy I ever knew. He I think he brought us up sarcastically. Like he brought us up. Like I remember there was he used to have this back scratcher. OK, and back scratchers were a rare commodity at some point. So I was totally fascinated with it. And one day I was chatting with him. I was just banging the back scratcher on the table. I was like, thug, thug, thug, thug, the papa, something, something. He looks at me and he's like, Aditi, what's going on? Why are you doing that? I said, no, I say, ha ha ha, he's like, do me a favor. If you want to break it, at least hit it hard enough. And I stood there. I was so confused for a second. I was like, wait, should I hit it or not? I don't know. But he sort of was a very clever and very like he I think. But did you break it? You know, ultimately I did. Ultimately I did."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:14:09.520",
+        "message": "Five years later. Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:14:11.200",
+        "message": "But I mean, that backstab had a long life. Thanks to that one sarcastic comment. Um, and he sort of attributed a lot more intelligence to us than I think we had, to"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:21.760",
+        "message": "be very honest. And did that make you more intelligent? And I'm asking that seriously."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:14:27.560",
+        "message": "Yeah. Cause you, I really, I did want to sort of, whenever he put an expectation in front of me, I wanted to fulfill it. I think one of the main functions of humor is to dispel tension. And, um, I sort of had a, I had a fairly unconventional life, uh, you know, not from just the general nuclear or joint family. Um, so we constantly found ourselves in situations with a lot of adults and slightly tense situations. And I realized the only way out of it was to make a joke about it or to sort of do a silly dance or something like that. And I realized that would dispel the tension and make me more acceptable to sit around in the room long enough till it came time for me to crack the next joke or say something silly again. Um, and so just sort of became, it was a sort of a defense mechanism as well as a way to appeal to people. I switched schools when I was, uh, in ninth standard, uh, because the boarding school I was in, St. Mary's, sorry. Um, they shut down. And so my father was like, oh, you have, we have to put you in another boarding school and they took me to Panchkani. And I had had all these friends for me, you know, from like junior KG to eighth standard. And now suddenly I'm in this new school, ninth standard, tenth standard. I was totally confused."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:39.080",
+        "message": "Also a girls school."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:15:39.880",
+        "message": "Yes. Um, I remember that weekend when I was going to school, uh, Kaho Na Pyar Hai had come out. That movie is my spirit animal. Kaho Na Pyar Hai had come out. I memorized the entire movie. Every single word of that movie."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:56.680",
+        "message": "You saw it once or?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:15:58.120",
+        "message": "Like maybe three times. On Monday. And, um, I memorized that entire movie, including like transitions, like the don't ask me dad, I'm in love. I'm in love. Hey, I'm there. Just song to dialogue, dialogue to song. You remember it all now?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:15.240",
+        "message": "Kind of."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:16.040",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:17.160",
+        "message": "Um, why did you do that?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:19.720",
+        "message": "Cause the, the first day that I got into school, you know, all the other new girls was sort of unpacking and being sort of bummed out. I just put on my best performer's hat and I acted out the movie for like a bunch of 10 standard girls who were just confused. They're like, who the f**k is this girl? She's new here, but she's not crying. She's sitting and doing don't ask me, dad. I'm in love. I'm in love. I, and I still have friends from that time who remember me for that. Uh, well, I go, oh my God, you know, we became friends with Aditi because she just was ridiculous and telling this story."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:52.600",
+        "message": "And it's both very funny and in some way, very sad as well."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:55.960",
+        "message": "Oh, I think, yeah. Oh, I think in fact, one of the, I think comedy is one of the most deeply tragic things in"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:17:01.320",
+        "message": "the world. Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:17:02.600",
+        "message": "Um, it was sort of finding survival. It was finding a way to make yourself fit in, uh, that may not necessarily, uh, be about asserting authority or asserting superiority."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:15.240",
+        "message": "Uh, finding empathy, which is hard for a new girl in a new school. So instead you do this."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:17:19.880",
+        "message": "Yes, yes. Um, and also just the value of the funny person is, I mean, I love, I enjoy that mid range where nobody cares who you are, but the moment you pipe up, they'll be like, they'll acknowledge you and move on. I love that, that, that temporary ability to hold someone's attention and have it gone back. Um, so yes, yes. You know, it, it was about survival. It was, and as we discussed earlier, I think that comedy is sort of the other end of the coin of every other emotion, whether it's fear, whether it's anger, whether it's sadness, whether it's humiliation, uh, everything plus time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:02.760",
+        "message": "So essentially what you're saying is you cope with every kind of anxiety by bringing"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:18:06.680",
+        "message": "comedy into it and the spelling. Oh yes, yes, surely. In fact, one of the greatest examples of that, uh, is in, uh, uh, Johnny Leaver's new show, which he's doing right now. It's a two hour special. Uh, it is mind boggling that a 62 year old man is standing on stage for one and a half hours and sort of, you know, having at it with the audience. And he, one of the bits he talks about is how, uh, you know, he had this drinking problem and then he gave it up and how everyone reacted to him giving up alcohol. And that whole set is hilarious, that you know, that people are like, no, no. drink it. How did you leave it, etc. The offense that people feel when you say you've given up alcohol. But just the fact that he was talking about something that was so deeply tragic. I mean, his sort of addiction to alcohol is what led him to Christianity, which is the religion he practices right now and has brought a lot of stability to his life. But the fact that he was able to channel something so profoundly tragic into just a room where 600 people were screaming. And we were screaming at the back because we bought the cheap tickets at the back. There were just people being like, Gio, Johnny, Gio. And I thought, where else would a story of such utter vulnerability get these kind of just like air punching whoops."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:25.960",
+        "message": "And would you say that the best way to process such pain, such tragedy is comedy? It's the only way. Otherwise you'll be crushed by the weight. Is that what?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:19:33.720",
+        "message": "Yes. Yes. I think in fact, comedy is one of the best ways to move on from something that you find tragic. They say that comedy is tragedy plus time."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:19:44.920",
+        "message": "Yeah. Beautiful quote."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:19:46.840",
+        "message": "So just adding time to what is so sad or so painful is what propels you to move on. Even that's why, have you by the way, I know we spoke about this earlier, but Hannah Gadsby's new special Nanette, did you watch it?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:20:04.200",
+        "message": "I haven't watched it yet. Everybody's been recommending it to me."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:20:07.720",
+        "message": "Oh my God, Abbas. Oh my God. So you must watch it. Oh, please Amit if you have the time. But she sort of discusses that. She discusses how at the base of comedy, every funny story you tell actually has something really sad in it. And I can actually tell you my personal story that I decided to do on stage was, one day I asked my dad to drop me to the airport. And my dad was reading the newspaper. And so, you know, he puts away the newspaper. He's looking for his, you know, glasses. He goes, looks for the keys. You know, he was sitting in his lungi. So he went and he changed into his pants. He opens the door and he's waiting there. And because that generation, I think they're not used to airline travelers, we are. He started getting anxious. He was like, get to the airport early. Get to the airport early. Just get to the airport. Like just get there before the Wright brothers invent the airplane. Just get there. I feel like you're talking about me."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:05.400",
+        "message": "That generation, like, you know, I mean, yeah, I'm not, I'm not offended by it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:09.640",
+        "message": "And I will find a way to cope with the deep sadness I feel now in the due course of time."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:21:15.640",
+        "message": "But he, and so he was getting really anxious. And I was just sort of like goofing off. I was like, hey, Papa, lipstick, lipstick, lipstick, lipstick, lipstick, lipstick, lipstick, lipstick, lipstick, and he got so angry. He slapped himself. That like, because I mean, he couldn't raise his hand on me because I was clearly a 30 year old woman who can't leave the house without being like Papa. And it's funny now. It's really funny now. But that moment, like, I think that was my reckoning. That was my moment when I was like, I can't be a child anymore. I think that was my big growing up moment. And I was sort of distraught about that incident for a very long time. But I think I managed to find a funny way to tell it. And it, I mean, of course, later on improved relations between me and my dad, you know, when I was like, Papa, I'm so sorry that I put you through this. And, and he was just like, you know, it's fine. It's, you know, how we process things and how we grow up. And I mean, but that's not, that's not an interesting punchline."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:25.080",
+        "message": "It's not an interesting punchline. He was probably in the middle of solving a sudoku or something,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:22:29.000",
+        "message": "you know, disturb someone in the middle of that you are asking for trouble. He was doing a crossword. He was doing a crossword."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:34.760",
+        "message": "You go nailed it. I know what men are like."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:22:38.200",
+        "message": "So that's what like, but me saying that, you know, well, that my relationship between my dad improved is not a punchline."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:22:44.120",
+        "message": "Your dad saw you do that bit? No. Oh, he hasn't seen it."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:22:48.280",
+        "message": "Yeah. I mean, he passed away in July last year, so he didn't see a lot of the stuff."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:52.680",
+        "message": "But what did he think of your, I mean, when you,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:22:55.640",
+        "message": "It is astonishing, actually, that he thought, I mean, he was one of those, he would sit in a comedy show, second row, tears running down his face because he's so proud. I was like, Papa, that is not the desired reaction at the comedy show."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:23:11.240",
+        "message": "So, one, why is this man crying?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:16.600",
+        "message": "Because he gets to the essence of comedy strategy."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:23:26.920",
+        "message": "He was one of those that would like, sort of every show I did, he would be like, and then sometimes come and then sit at the back and pass out. And I'm like, Papa, you were sleeping? And he's like, oh, it was AC, it was nice and dark. So, I heard it, so I was like, I lulled off. I was like, why did you come? You could have sat at home."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:23:45.880",
+        "message": "No, no, I'll tell you guys, your generation also, your generation, you guys, you kids these days also take so many things for granted, including AC. AC is such a big freaking deal."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:56.680",
+        "message": "You know, I remember when I was in college in Pune, Ferguson College, sweltering summer, every afternoon I would go to the British Council library, sit for five, six hours. People would say, boy likes reading. It's AC."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:24:08.120",
+        "message": "It gave us this podcast. I think it all worked out. It all worked out in the end. You guys take AC for granted, GPS for granted. I see people taking. How can you?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:24:17.160",
+        "message": "Yeah, we do. So, he was super supportive. And my mom, you know, in spite of the fact that she also works a very unconventional job, she is a production controller at Fireworks Films, which does CID and Aahat on Sony. And so she sort of knew that, I mean, she had no idea. She's like, you're going out in the middle of the night, you know, at nine o'clock in the evening with these notes. And then you're coming back, you're saying, I'll go into a club."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:24:45.240",
+        "message": "And then you're coming back and you're sober. And you have more notes in your hand. What is going on? What are you doing in these clubs?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:24:51.800",
+        "message": "But she sort of, and as I was telling Amit, for the first three years, it was just a labor of love. We were doing stand up comedy for like garlic bread and a glass Pepsi and all was our payment. Okay. They sort of stuck with me through it. And I realized that that deadly combination of two people who have that unending faith and trust in you is what propelled me personally, for sure. If they had not had, if they were not supportive, I would not be doing this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:21.080",
+        "message": "So, a shout out to Mrs. Mithil and thank you so much. So the question here is that how did they then look upon your comedy per se, because the kind of comedy that you did and it was very different from what we'll talk about soon, which is the kind of comedy that otherwise existed in India before that. Worlds apart where you're essentially mining the personal for, you know, for using those insights and making people laugh. How did they react to that?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:25:46.600",
+        "message": "I think they were thrilled. I think, like, dad was personally thrilled. He just..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:50.920",
+        "message": "But thrilled at the response that, oh, Beti Stage pe hai, or also did they enjoy the form?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:25:56.920",
+        "message": "Oh, I used to read out everything to my dad. Every line that I, like, if I wrote something new, I would be like, and then he would do the like,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:10.280",
+        "message": "Great, beta, great. I wish this bit was in video."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:14.600",
+        "message": "It's just like, Fittemu, yeh ladki kya kar rahi hai? Nahi, nahi, great, great, beta, fantastic, fantastic. So it was sort of like, and I've realized that reaction actually was also very similar to what I used to get on stage in the beginning, is sometimes I used to hear when, and because the audience is in the dark, right, when you're on stage, I used to hear the... And I used to wonder, like, people don't like it."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:34.760",
+        "message": "Like, should I stop? And it's your daddy."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:42.360",
+        "message": "But I realized it also came from the fact that they were sometimes titch-titching at themselves for laughing at something that they thought was inappropriate. So if you're talking about, say, sanitary napkins or Eve teasing or, you know, penis enlargement cream, they would find it funny, but they would be shocked that they're laughing at it themselves."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:01.000",
+        "message": "And would they be shocked at what the story says about them? Because they're in the story."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:27:05.000",
+        "message": "Oh, no, they are too secure for that. It's embarrassing. It's embarrassing how they don't care. Like, my market value at home is zero. My mother was just like, why do they pay you for this when you're doing this nonsense for free at home? And I'm like, eh, eh, eh, eh."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:20.520",
+        "message": "Got lucky."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:27:21.560",
+        "message": "I think that would be almost every comic. I don't think they're very appreciated at home, which is why they go out and make a film of themselves on stage."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:28.360",
+        "message": "Look, look for... But it's probably comics of this generation, because we are passing through that transitional phase where the older generation is like, not 20 years older than you,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:27:36.520",
+        "message": "but mentally maybe a century older than you, right? Yes. Also, like you said, the form previously was different. It was different than what has been happening the last 10 years or so, where mimicry or doing a bit on stage was its own thing, rather than expressing your opinions or talking about issues, which is what's been happening in the last decade or so in Indian stand-up comedy."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:28:03.640",
+        "message": "You know, yeah, and that actually was very dependent on the method of disbursement of said comedy. Because most of the comedy that was coming to us prior to the 10 years was sort of this mainstream mass."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:17.080",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:28:17.880",
+        "message": "And so it had to be beamed out to a lot of people and be inoffensive to a lot of people. And so it would catch the lowest common denominator. And in most cases, that would be misogynistic, classist, casteist."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:27.400",
+        "message": "Or even conceptions of what the lowest common denominator is, which you probably might not have had any way of testing. You know, in the sense that you had a vision of this is what the people want, but do the people really want it? And you don't really know that because there's no way to test that. So those preconceived notions just get pushed further and further."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:28:46.840",
+        "message": "Yeah, yeah. I mean, till of course, the era of feedback, which is 10 years ago. And I think that's why the stand-up comedy industry, as I think we are experiencing it, Abbas and I are experiencing it, is looked at with that much disdain or with that much awe, because it suddenly has a very deeply personal opinion attached to it, which was not the case before. And so now suddenly you're like, oh, comedians are upstarts and they're,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:14.760",
+        "message": "you know, abusive losers. Perhaps because people feel outraged at their conventional views of the world being challenged. Because earlier, earlier comedians were entertainers. Ki aao, maza karo, slapstick karo, we want to laugh, fall down in a funny way. But now they are the voice of society in a sense. And people who are sort of find themselves targets of that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:29:36.040",
+        "message": "I agree with that. I would also like to add to when the comedy scene started, the comedy scene that we are part of. 10 years ago, it was primarily English comedy and Hindi comedy. So your Hindi comedy would be looked upon like the Masi kind of thing. Now what's happening is this opinionated comedy about social issues is also happening in Hindi. A lot of comics from Delhi and the North, or even Mumbai comics are doing that kind of comedy in Hindi also. So now it's reaching out to that Masi crowd, but with opinions and thought and well-crafted jokes. So now that change is coming because more people understand it, more people conceive it, more people demand for it. So I think that's where the crowd is growing more and more for comedy. And that change is coming and that old guard versus new guard sort of friction exists. But that's where it is now. And it'll be interesting to see how."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:28.920",
+        "message": "Great point. And that's something Aditi brought up earlier when I was telling her about how, when I first, like I, in the nineties, I used to, I've written for Javed Jaffrey's Time X Time Pass. And I also wrote for Cyrus Brochure. And the predominant notion of comedy then was puns and slapstick and the cheapest form of humor. And when standup comedy first started coming to India in the early 2000s, I had a very low opinion of it because it was done by these privileged kids with accents. And it was very derivative of American standup comedy and not rooted in any way to the Indian experience, people like Ash Chandler and so on."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:59.960",
+        "message": "And I used to think that was the first name drop has happened."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:03.400",
+        "message": "And then I sort of went into a cave for five years around to 2009 for various reasons. I won't go into, but when I came out of the cave, I suddenly found that, my God, there is this explosion of talent all around me. And you have some genuinely good standup comedy. And even if a lot of these people are doing it in English, they are still speaking about this no longer so derivative. Exactly. Yeah. How did that happen? What was that process?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:31:24.280",
+        "message": "You know, and so the history of standup comedy, and I, you know, if I may sort of do a like a quick this thing on the different kinds of comedy, right, the genre is comedy. The methods of practicing it are, you know, one, there is sketch comedy, which is little sketches, characters, you put them in a little scene. A good example of that would be the flop show, which we all know, Jaspal Bhatti's show, a flop show where you put a character in a situation and he overcomes it. And that is where the comedy or tries to overcome it. And that is where the comedy is. The other one is say improv, which has only come to India in the past sort of two, three years, even I would say, is where, you know, four players come on stage, you tell them, Arre, name, Pooja, you know, favorite place of Pooja, beach, okay. Pooja on the beach is enjoying the sunshine. Improv. Right. And then there is stand up. And the difference, I think, in stand up and the other forms is that stand up is very pure. It's very like you think the thought, you write the thought, you perform the thought. It's all you. So when the bookies or the brick"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:33.560",
+        "message": "paths come, they are all you. So as a comedian, as auteur, in a sense, where everything is you, you're the director, producer, whatever of the thought."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:32:42.280",
+        "message": "Auteurs do. Auteurs as in not otters."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:32:45.320",
+        "message": "I was like, you thought my pronunciation is very..."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:32:47.320",
+        "message": "I was like, this conversation... Auteurs. Auteurs, what have you done?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:53.320",
+        "message": "Now I'm imagining an auteur doing stand up comedy and it's still in use. How do you spell it? A-U-T-E-U-R."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:33:01.320",
+        "message": "Yeah, auteur. It's not bad either."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:05.320",
+        "message": "The Stanley Kubrick kind."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:33:07.320",
+        "message": "We left to such a pretty..."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:33:09.320",
+        "message": "Yeah, so I guess, yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:33:13.320",
+        "message": "There is a sense of... Because the origins of stand up comedy also, like abroad, was... Stand up comedy was sort of the response of the working class to the man, to the society. It is very simple in that it requires no set construction. It requires no sort of fancy lights, big stage. All you need is a microphone and a person. So anyone who is anyone, without access to the systems that normally propel you into the entertainment industry, can come and do stand up. And that is why it was fiercely independent and I think fiercely anti-establishment for a very long time. In India, we had what was called Haasiya Kavi Sammelans. Which would be, you know, just groups of poets sitting around on gaddas and then a microphone in the centre."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:11.320",
+        "message": "Usually all men."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:34:13.320",
+        "message": "99% of the time, all men, sitting around on gaddas and then, you know, one by one coming out to say funny things or tell a funny poem or a story. So we had that happen for a while. It caught the public imagination like nothing else in 2001 with the launch of the first Great Indian Laughter Challenge. That first season, comedy in all its iterations of making statements on society and stuff had existed in our theatre. And on a local level, I mean, we have the funny bits of Ramlila that would sort of stand out always, you know, during Diwali celebrations also. So we had those small, small things happening. 2001, when Great Indian Laughter Challenge hit our TV screens and lasted, I think, 13 seasons."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:00.320",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:01.320",
+        "message": "It revolutionised the way we saw comedy. The problem was, of course, then it fell back into the same trap of catering to the lowest common denominator."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:11.320",
+        "message": "I was just about to say that most of the stuff was derivative and sexist and, you know, not very quality wise."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:17.320",
+        "message": "Did you see the shift that happened, happened that earlier, the funny guy in a Bollywood movie, for example, was someone you laughed at who was behaving like a clown or whatever. And that changed and instead it became something else."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:30.320",
+        "message": "I think Bollywood wise, I think we're still a long way to go to capture good comedy on screen that way."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:37.320",
+        "message": "But you know, sorry, sorry, may I interrupt with Johnny bhai's, I call him Johnny bhai, like he's a friend of mine."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:42.320",
+        "message": "No, I mean, I'm like, I'm in awe. But then I'll meet him a week later and I'll be like Johnny bhai, I did a podcast with Aditi and he'll be like, Kaun, kaun re bhai."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:52.320",
+        "message": "But his origins were, I mean, he's called Johnny Lever because he worked with Hindustan Lever. And one of the things that they did was during, you know, worker meetings and stuff like that, they would be like, aarey koi entertainment karne ko jao, Johnny bhai kuch toh bolo. And Johnny bhai, so Johnny bhai found his footing as a comedian doing stand up comedy. Single man behind a microphone, just pulled out from the audience, tell a story and make everyone laugh. He then moved on. And I think that's what's happening to us also as an industry is even though we might be speaking in the language of what is the urban elite in English, because we exist in Bombay, we are being co-opted into the Bollywood entertainment industry. You know, there's, you will see often see comedians collaborating with, you know, filmmakers or production houses to either promote a film or to, you know, be in a film or to write dialogue for a film. So that I think, like that is just a sort of a natural progression."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:49.320",
+        "message": "This is an excellent point for me to segue into your forthcoming collaboration with Shah Rukh Khan, but we'll take a small commercial break first."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:20.320",
+        "message": "Croc Tales by Anand Sivakumaran is a bi-weekly show where Anand spins a story from a prompt that could be a word or phrase coming from you. Catch these episodes every Monday and Thursday. On Simplified this week, the trio dig further into the football world cup history with some trivia and silly jokes on a longer episode. On the scene of the Unseen, Amit Verma is joined by stand-up comedians Aditi Mittal and Abbas Momin to talk about the pros and the cons of the Indian comedy scene. On Cyrus Says, Cyrus does an exit interview with his producer Naveen Narona. Naveen's going to be terribly missed around here. If you're not following him, please follow him on Twitter and Instagram. He's at House of Narona. Try and listen to as many of these shows as you can. And now, on to your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:50.320",
+        "message": "Welcome back to the scene in the Unseen. I'm here with Aditi Mittal and Abbas Momin. We're talking about the history of stand-up comedy in India. And Aditi, so my next question to you is, and Abbas, tell us about your experiences in this also. When did you first figure out that you wanted to do stand-up comedy? When did it actually strike you that rather than just make wisecracks in front of the class, I want to actually go on a stage and do this?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:14.320",
+        "message": "You know, I went to an open mic and I was watching some slam poetry happen. And I was like, I can do this. Around which year was this? 2010. And I saw this and I was like, oh, I can do this. And then the next, literally the next week was a stand-up comedy open mic. And the thing is, when I was in college, and I was in college in the US, you know, I had watched a bunch of stand-up comedy. I used to go to clubs all the time because they would have these $5 nights where you just paid $5 and you would get to watch like three shows back to back. And I had nothing to do. So I used to sit and watch these like, like hour long shows of just comedians who knew who would just come and do these hour long sets. And so when I moved to India, I saw this. I said, I got to try this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:59.320",
+        "message": "And who were the guys you liked? Who were the guys you could relate to?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:39:02.320",
+        "message": "At that point in time, really? Nobody. Nobody. And I don't mean here. I mean, there. Oh, there. If I say it right now, I will be like, I don't because I don't believe I don't, I'm not inspired by that person anymore."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:39:15.320",
+        "message": "Louis CK. No, no, no. Bill Cosby. Bill Maher. I was like, what a guy he is. What a way to talk. Wow. And I mean, clearly my thoughts have changed. The tone has changed. What a guy he is. It's become that. That's right."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:39:32.320",
+        "message": "But at that point, I sort of, I was really taken in by the ability to speak again, truth to power and to do it as simply and directly as you can. And I think one of the things I was confused about was the fact that Hindi and the way we speak in India, like it's a very euphemistic language. It's there's a lot of ways. You know, most of the most simple, direct ideas will sometimes find a veneer and covering of 3000 different kinds of phrases. And that becomes exhausting just to even process it while listening to it. And I remember that was my first impulse with stand up. I was like, just go say it directly. Just go say it directly and see what effect it has. Because it's not like the whole world is not talking about these things already or someone is not saying these things already. But just go say it directly and see what sort of the feedback that comes to you. And so I remember my first set was, again, trying to process tragedy was I, you know, I've always been a slightly chubby person. And I said, I went on stage and I talked about how, you know, when fat guys, you know, when whenever friends, if a friend is hooking you up with a fat guy, should always be like, oh, my God, you know, you know, he's amazing. He has a heart of gold or he's amazing. He's like a teddy bear or whatever. But there were no euphemisms for fat girls. There was nothing that was like, oh, she's amazing. But, you know, she's also slightly sweaty all the time. Those things are not. And so I went and did this set and it got two laughs. It wasn't great. It wasn't like, oh, my God, they carried me off on their shoulders and signed me up for a Hollywood movie immediately. But I think that was that one moment when I realized I can get laughs. Then it just became a pursuit of laughs. There was no there was no time consciously that I was like, oh, I want to do this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:25.320",
+        "message": "And once you start doing it, does it change the way you sort of think about the world? Like, are you then processing everything through? Can this be part of my material?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:41:32.320",
+        "message": "I think, yes, I am almost like I have now started putting pressure on myself. I can't believe this. But at the age of 32, I'm one of those people that says I want to live."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:41:43.320",
+        "message": "My mother's like, dude, what are 90? And I'm like, no, no, I want to live."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:41:47.320",
+        "message": "I want to experience life because I think one of the things that stand up does is or comedy does is it makes you want to live life. So you can filter those experiences through the lens of comedy. So I've just I've pushed myself into tons of uncomfortable situations just because I'm like material. I've done corporate shows like I went for this one corporate show where I got asked if I wanted to be because I mean, initially when they called me, they were like, oh, you know, like you're so bold and open minded and we love how bold and open minded you are. And I should have picked up on the fact that they were really honing in on the fact that I was bold and open minded."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:27.320",
+        "message": "So they wanted that or they were warning you against it?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:29.320",
+        "message": "No, no, they were like, no, we love it. We love it. So I went into this, I do this like fairly bold and open minded set and then I come out and then they invited me into a threesome. And I was like, oh, you know, I don't know if my bold and open mind extends to my bold and open sex life."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:42:45.320",
+        "message": "But it happens at corporate shows. I've been saying no to all corporate shows."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:50.320",
+        "message": "So when did you start performing?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:43:02.320",
+        "message": "I went to my first open mic in 2012. And I only realized that I wanted to do it when I did my first open mic."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:43:09.320",
+        "message": "Why did you do it?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:43:10.320",
+        "message": "Because I was scared. I was very introvert. I didn't have the courage to go on stage. And the first time I did it also happened by accident because I took this workshop, stand up comedy writing workshop by the then very newly formed East India Comedy. And I went under the pretense that they're going to tell us how to write material and I'll write it and someday I will go on stage and try it. But when I reached there, I found out so the afternoon was the workshop and that same night you had to perform the material. So we had two minutes on stage, I think 12 or 14 of us and we had to write two minutes of material and do it on stage. And my two minutes of material I just dropped out of dentistry back then and come back to Bombay. So my two minutes were mostly about how I'm fat, how I'm balding at a young age and how I quit dentistry and disappointed my dad. And people lost their shit. They were laughing their ass off. And I thought, wait a minute, if I tell you about the problems and troubles of my life, you find it funny. Maybe I can do this."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:44:07.320",
+        "message": "So that's that was the first thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:09.320",
+        "message": "So you were used in your in your previous profession, you would cause pain to people and now you were making them laugh."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:44:14.320",
+        "message": "Comedy is a way of dispelling tension. I can imagine the stand up dentist where he's got his tools and all over the person's face and he's telling him a joke, which is out of personal material. Do you know a patient died at my chair?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:44:30.320",
+        "message": "Obviously, the build up to that, of course, was I was a comedy fan before I ever tried it. So the comedy store, which is now the Canvas Laugh Club had opened newly back then. And Aditi and all of these guys used to perform. I used to be almost there every week. I couldn't go the weekends because the tickets were a little too expensive. But they had these local hero nights on Wednesdays and Tuesdays. So I used to go I used to watch all of them, Abish, Sahil Shah, Rohan Joshi, Tanmay Bhatt, Aditi, all of them. So I became like hardcore fans of them. I would tweet to them. I will I would follow them to find out where they are performing. So so yeah, that's where it came from. And then I wanted to be like them. So so yeah, that that wanted me to go to open mic nights and perform. So you performed first in 2012. But from when did you start watching and following these people? Around 2009, 10. So I think I was in Bangalore studying dentistry and I wasn't liking it at all. So I used to cut classes. I used to sit at home and just binge watch sitcoms. And I realized that the writers of these sitcoms are also stand up comics. So I would YouTube their name and watch their material."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:38.320",
+        "message": "Like like who are the guys?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:45:40.320",
+        "message": "So there was this writer called Judah Friedlander on 30 Rock. And I would watch him repeatedly. Then there was this one video that HBO did, which has now become like a cult among comedians. It was called Talking Funny. It was Chris Rock, Jerry Seinfeld, Ricky Gervais and Louis CK in a room talking about comedy. Now I knew Chris Rock, I knew Seinfeld, I knew Gervais from the television and movie stuff. Then I didn't know who Louis CK was. So I googled his name, saw his stand up. And again, this all feels very weird to say is now because Louis CK is now disgraced. But there's one joke that he did, which stuck in my head where he said he was talking about his daughters. He said as a dad, you look for the mini vacations that you take in your life, like you shove your daughters in the car, you close the door and you walk to the driver's side. That's a mini vacation for me. I'm not a dad. I'm not a middle aged man. But I still found that joke so hilarious. And in that one moment, I went back to all the times I saw my dad taking that walk in the car to the driver's side and thinking what must be going in his mind when that happened."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:50.320",
+        "message": "So you had a good start there for Aditi. The first time you performed, people laughed and it went well. Was it always like that in your early days?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:46:58.320",
+        "message": "No, and it's still not. I think one of the greatest things about this job is that you throw a sheer wall every day and hope it sticks. And you never know if it's going to stick. I know I can, I still do bad shows. I still do shows where I'm like, oh, you know, that could have gone better. I could have said that, you know, I could have pronounced that clearer. I could have hit that line more clearly. I could have put that other thought inside. So I think the unsurety of stand up actually."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:24.320",
+        "message": "And you ever feel that I did the right thing? I was funny. The audience was stupid. They didn't get it."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:47:28.320",
+        "message": "Very rarely. Very rarely. I mean, I think I'm awed by our audiences. I think I I've never been anywhere where I've thought that the audience didn't get it because I think empathy is what is required. Even if you're speaking in a very different language, I think people latch on to your confidence, your energy. And so I've never stood in front of an audience that I feel like it's their fault for not getting me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:56.320",
+        "message": "And, you know, from those early days of stand up when you started in 2010 to today, and not just a question about your own comedy, but also the comedy of the others around you. Has it changed much in terms of content, the kind of things you're handling, or is it just more a sharpening of the craft?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:48:14.320",
+        "message": "Yes, I think so. Definitely. In fact, I think now we are smarter in that we know that you approach it with stereotypes. Punjabis are loud. You know, Maharashtrians don't do work. Gujaratis are always eating sweet dal."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:27.320",
+        "message": "That's not a stereotype I've heard actually. I've heard the cheap tickets Gujarati stereotype. Correct. Sorry. That's what I meant. Sugar is poison anyway."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:48:39.320",
+        "message": "But you start with the stereotypes because those are accessible. Those you are sort of gathering in as many people as you can on those and then you take them on your personal journey. Then you say, oh, and by the way, you know, the other day I was thinking about death and this is after sweet dal. Sweet dal, death. And that's how you sort of take them on your journey. I think, you know, audiences that way are very open, are extremely open. I've performed abroad for Indian audiences and I've realized that Indian audiences abroad are more conservative than Indian audiences in India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:16.320",
+        "message": "And they vote more for the BJP. So why? That's not supposed to be funny."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:49:21.320",
+        "message": "The two aren't connected or are they? No, but I mean, because they're stuck in whatever year they left."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:49:26.320",
+        "message": "So if they like, I remember, last year I was in London and somebody was doing a song. Somebody was dancing to some function and cultural function was dancing to Chane Ke Khetme. Y'all that is a 1997 song. But this person, clearly her parents left when they were in 1997. And so this 12, 14 year old girl is dancing to Chane Ke Khetme like it was released yesterday. So I think they're still stuck in the time that they left the country with that same notion of like, you know, what India was and they carry that there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:58.320",
+        "message": "And we were discussing earlier about how, you know, English speaking people like us tend to be in this small cocoon, which of course, because niches are so big in India is a fairly big cocoon in absolute numbers. But at the same time, it's just a small niche and there's a danger in sort of the selection bias where you imagine that these 200 people who are coming to my shows are the audience. And there's really, you know, not much beyond that. Is that something you think about in the sense of how has the audience for stand up comedy evolved in India? Is it really growing? What kind of comedy are there? How are the tastes changing?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:50:30.320",
+        "message": "Well, how are the tastes changing? Like I made the earlier point about the language, what was seen as a language barrier that these are English comedians, they do the high fun do stuff, they speak to an elite audience that is breaking down as we go. That's primarily because of the internet and the streaming websites, where comedy is one of the top genres, right? See any YouTube video, stand up comedy video, it'll easily have around a million views. So I think comedians use the language of the people to make relevant points, the more the mindset of the people will expand, and the more accepting they will be, right? You have comedians doing English comedy, you have comedians down south, doing comedy in Tamil and English. So that barrier of this is only for the elite crowd and the rest of them will be excluded out. That's, that's kind of changing now. So I think that's gonna, that's gonna be the turning point where language won't be a barrier anymore. The kind of comedy that English comedians did when it starts going out to more people, more people will be accepting of it. Or if they're not accepting of it, at least I hope it will force them to think and know that there is this alternate thought process out there. And if we expose ourselves to that, the world won't end. It's okay to expose yourself to different kinds of thought processes and mindsets and points of views. So ideally, comedy should be for all points of views. And then you pick and choose and find your sort of what you like."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:06.320",
+        "message": "And in these kinds of polarizing times, and comedians are always sort of speaking truth to power and just going out there fearlessly. And in these kinds of polarizing times, do you find yourself self censoring or thinking, I mean, what kind of pushback do you face?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:52:21.320",
+        "message": "You know, and so actually, instead of adding to Abbas's point, I personally feel like we're still in the gathering stage. I think, you know, I mean, we have a 2% repeat audience at say, a canvas laugh club, that means 98% of the people who are coming for a comedy show at any given point in time have never seen comedy before. And so I think actually, we are still in the phase of the sort of the upward thing of the bell curve."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:48.320",
+        "message": "And that's actually worrying also, because it means if only 2% are repeat, then there aren't enough repeats."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:52:53.320",
+        "message": "Because it started with so little. Right. So it's sort of, you know, and I mean, by like one day for the next, right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:00.320",
+        "message": "So on Monday, or whatever, so some of those 98 maybe repeats from previous day. Correct."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:53:06.320",
+        "message": "There is a, like, again, the fascination, I know, I've been hired for shows where they've just been like, what is comedy? Like, wait a minute, you don't know? So why did you call me? But they're just, they just want to know. They're just curious that how, like, how does this get handled? They'll have the conception that they'll come and abuse everyone. They will come and call everyone Chitra, Chitra, Chitra, Chitra and f*** off. Which also is a thing that people think. I know that I, you know, I did a show in a smaller city recently, and we had about 900 people show up. And then the organizer comes up to me and I said, dude, this is crazy. I did not know there were 900 people in this city. And he's like, dude, no, he's like, you know, about 300 of them, 100% got what you're saying. But the remaining 600 were just there to see what this was. And I was just sort of blown away by that. I was like, oh, I did not know that we're still in that. You are literally the first exposure to this."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:54:06.320",
+        "message": "A lot of us in that phase where us being on stage and seeing these things is the first time they're hearing these kind of sentences constructed on stage."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:17.320",
+        "message": "And what I kind of find is, you know, like, if you look back on the Soviet Union, it was a golden period of humor for them, because the state was so oppressive that the only way you could express your dissent was through humor. And the state, of course, never gets satire. So that's just perfect. And in a sense, if you look at what's been happening here over the last two or three years, and I don't intend to say for a moment that we're anywhere near that oppressive, but regardless, in these polarized times, especially in terms of cartoons, I just find a lot of these cartoonists like Manjul and Sandeep of Times of India and all are just doing mind blowing work."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:54:56.320",
+        "message": "And actually, I think that is one of the sort of the one of the pillars of comedy in India has been our cartoonists. Because every eight kilometers, if our language changes, if you know, we have such varied striations of economics, of society, of class, caste, etc, etc, then surely language can almost be a barrier in understanding each other. That's why you have small groups of offense popping up. There's always six people who are suddenly offended at one thing, right? The remaining 350 don't care. But cartoonists have been able to bridge that gap merely because images. And of course, I mean, largest distribution networks of newspapers in the world and therefore, you know, the channels of distribution are also extensive. I think that's why our cartoonist Manjul Toons, to a certain extent, Mr. Hemant Umar Paria, are just doing amazing work and sort of presenting more potent statements on the current state of our government than any comedian ever will be able to with words."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:04.320",
+        "message": "And I've heard someone make the interesting point about stand up comedy in India that because stand up comedy in the US, for example, has such a long tradition, you've got people tackling all the different phases of life through that, whether it's middle age or growing old and death and so on and so forth. But in India, it's kind of a young bunch of early pioneers. And therefore, sometimes it might still be a little shallow. And sometimes they don't go as deep into some of those subjects. And over the years, like, what do you feel about that? Like, do you feel that you are becoming a more rounded comedian just by living more and just growing older?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:56:40.320",
+        "message": "Do you know and so I think the youngness of stand up comedy, the first of all, because it's one of those jobs where you don't make money for three years, you have to be young and stupid and dependent on your parents to be able to like, breathe, eat, live. Then also, by the way, the economic this thing behind it, I think one of the, in fact, almost what I think has been the downfall of the stand up industry in India is the fact that we are, I mean, one, first of all, the youngest country in the world and are the comedians and especially the comedy groups figured out that the younger you get them, the longer you will be able to milk that ticket money, you know, into their 20s and into their 30s. And so there has been, I believe, due to the economic incentive, a juvenile ization of our comedy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:29.320",
+        "message": "So you mean it's become more juvenile?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:57:30.320",
+        "message": "You know, it's I mean, it started with juvenile and has, I mean, the economic drive to be juvenile is there. Because the audience is young and respond to it and because they buy tickets and because it's, you know, edgy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:42.320",
+        "message": "So what is a juvenile is what kind of humor does it entail?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:57:45.320",
+        "message": "I mean, I don't want to be specific."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:47.320",
+        "message": "I don't take names, but like a gag like this, for example, or a move in this direction, for example, or you're joking about X, for example."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:57:58.320",
+        "message": "Okay, let me try and simplify. I think the thing is, so you catch certain tropes that you know, will get clicks or likes or views."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:13.320",
+        "message": "No, I'm really struggling. I mean, give me an illustration. I'm not trolling you."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:18.320",
+        "message": "Okay, I mean, put the guy, newbie on the spot."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:58:25.320",
+        "message": "Shall I? Baby, go for it. I am in the background without the mic."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:31.320",
+        "message": "Okay, so for example, let's say, so AIB did something this Valentine's Day called Pyaar Ek Dhoka Hai. They use that tagline to garner as many people as they can. And there were a lot of questions raised around that slogan itself, where Pyaar Ek Dhoka Hai, what does it entail? Is there a reason behind it? Or is there a firm point you're trying to make? Or is it just let's give them a slogan, let's get as many people as we want. And let's just make this a place where we can get the eyeballs, get more publicity, more subscribers, more. And many times what happens is comedy groups use, like I said, certain tropes, and then they would use this similar kind of trope in multiple sketches or videos that they make. Which sometimes reeks of, we found a safe spot, comfort spot, and we're going to stay there. And we know we're going to get eyeballs. So let's not experiment a lot."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:28.320",
+        "message": "So your objection is not to the trope per se, but to the fact that once they find a trope that works with getting reliable eyeballs, you don't push the envelope beyond that."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:59:39.320",
+        "message": "Yes. That's exactly it, actually. I mean, you know, you're like a 36 year old dude, like you're sitting in like something called Bakcho, then your shows are called Turdford and all this, like, you know, grow up. You really grow up. I think it sort of becomes like beyond the point you have to start speaking your age. And that's what it is, is that nobody's talking about being a 36 year old man, even though there are so many 36 year old men in comedy. What's happening? Young people from where I stand. But you know what I'm saying? It's sort of then that becomes confining. It becomes like, you know, even the older men in comedy are being compelled to do jokes about, then they'll do like WhatsApp level jokes. Because they know, I'll say, if a woman takes a lot of time to wear clothes, she'll get applause. So, yay, she doesn't know how to park. And so that I think will also then, I mean, as I said, the economic incentive for juvenile is very high. Having said that, we have to then incentivize a variety of voices."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:43.320",
+        "message": "And having said that, like one thing you pointed out earlier about when stand up comedy started was that one reason it took off was because it was a pure form. There were no entry barriers. Or you needed no equipment, nothing. You could just stand at a town square and do your gig. And that is way more true today than ever before, because it just is no entry barrier. You can take your mobile phone, shoot a video of yourself, put it on YouTube, or you can go to any open mics anywhere. And surely that's a good thing. And even if it means that mainstream tastes are either juvenile or may not agree with them or whatever, there is still space for all kinds of comedy. Would you say there's enough of that?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:01:21.320",
+        "message": "Yeah, I don't think there is enough diversity at all. We don't have any good Dalit comics. We barely have like 10-15 female comics. We have three gay comics. We have, I mean, the variety of perspectives is so little."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:33.320",
+        "message": "So we'll discuss misogyny in the entertainment industry in the next episode. But I nevertheless want to ask you now that why is it that there is so little diversity? Is it only access or are there structural reasons behind it?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:01:46.320",
+        "message": "There is access, of course. I mean, you know, to enter one of these clubs, you have to be able to enter a mall. I mean, to be able to enter a mall, you need to look a certain way without the security stopping you. You know, you get in there and I mean, I like I am sort of the top of the top of the top of the pile when it comes to having privilege. But you can notice, you know, whether it's just self-confidence to hang around in an area which is dominated mostly by upper caste mouthy men who will not let you talk. I will interrupt you or will sort of, you know, try and decimate and minimize you at any given point in time. I know that me with all my privileges, it took me time. So I cannot comprehend that someone who does not have the level of confidence and validation that I keep giving myself, how they will navigate this space."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:33.320",
+        "message": "I do not know. But is it then the case that stand up comedy in India, as we call it, stand up comedy, quote unquote, is essentially a very elite phenomenon restricted to privileged elites, which are necessary. If you can enter a mall, you are a privileged elite. And that is not really there in the languages. It's not really there at the lower levels."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:02:52.320",
+        "message": "And those entry barriers are still there. Is that what you're saying? We have, we do have, you know, we're starting to sort of work on, we do have now this one. Bhajpa is done. They're doing like a all Marathi show."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:03:03.320",
+        "message": "Bhajepa? Is that Bhajpa?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:03:05.320",
+        "message": "For a moment I was wondering what's going on here. Aditi Mittal endorses the BJP for spreading comedy. Actually in a sense, you could use her name for that. Exactly. Source material. So she actually meant it."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:03:20.320",
+        "message": "We're sort of going into that space and the local regional comedy scenes have always been very active in themselves. But I think, yes, as so far, I can confidently say it is elitist. I can confidently say that it is confined to that group that, you know, we discussed earlier of that, that 1% of that 1%. And even though with the internet, we have managed to find takers and people who are watching our videos and sort of reaching out. It is still the variety of perspectives being offered is non-existent. And I mean, like for that reason, we keep sort of, I know EIC was doing those workshops where they were like, just come along and sort of, you know, help out. I mean, I mean, find your own voice, do two minutes of jokes. I think the entry barrier for someone older, like I think you would be great for stand up. But I mean, you're clearly not even responding to that vocally."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:04:19.320",
+        "message": "I don't even know what to say."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:04:23.320",
+        "message": "But, you know, I think the space is wide open. The space is wide open. And, you know, keeping in mind all these structural problems, I think there is a way to."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:35.320",
+        "message": "But that means it's a very restrictive ecosystem. I mean, for example, even if someone like me, an older person wanted to get into stand up, I'd still be able to go and do it because of the privilege and the access and so on. But if there is a guy who is, say a guy whose native language is Bhojpuri or Hindi or whatever, any of the languages, and they are inspired by great comedy from everywhere, but they can't develop it simply because there's no audience for that. Because even the neighbors and friends don't have those tastes and they won't laugh at that. And is that something you see changing or?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:05:06.320",
+        "message": "You know, I met Deepika ji recently. Deepika ji is a comedian now. You know, I met her at a and I found out about her from an open mic that happened two years ago on Women's Day. And it was for the house help of a building in Malad. It was being organized by this lady called Sangeeta Vyas. And so Deepika ji went on stage and I have the video of it. She just went and she was just talking about how, like how the, you know, she's talking about the way lifts are different for house help and for regular members of the society. She was talking about how, you know, her madam is always like, you know, chapati mein ghee mat daalo, main moti ho jaungi. She's like, yaar main ghee nahi daalungi, lekin cheese wala sandwich toh aap hi khaate ho na."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:55.320",
+        "message": "Actually, both ghee and cheese are great. Again, shout out for the keto diet. Ghee is a superfood for us. Chapati mein ghee daalo, chapati mat khao. Ghee mein chapati mat daalo."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:06:05.320",
+        "message": "So she sort of, she managed to, she was talking about things that nobody in the comedy scene had ever spoken about. We have several sort of comedians being like, and then my maid came and my maid was like, bhaiya aap kya kar rahe ho? Joke. When she came on stage, her first line was, tum stand-up comedian log maids ke baare mein bohot bolte ho na, toh aaj mai maid hoon aur mai bolungi. Aur tum log sunna. The audience just lost their brains. And again, nobody in that audience was from that, from where she came from. But everyone got that there was revolution in every single line that she spoke because it was brand new, it was fresh. And I think, I mean, and now Deepika ji is a part of the regular open mic scene. Like she's done, you know, she did the Femmeapalooza line-up two months ago. And she's been showing up at regular open mics."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:54.320",
+        "message": "Is she an exception or are there more? She is very much an exception. Still. So if my listeners want to search for her stuff on YouTube, what should they search? Type in bad girls with Deepika Mhatre. M-H-A-T-R-E. Excellent."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:07:06.320",
+        "message": "She's also on Facebook and Instagram. And Twitter. Deepika Mhatre 25. Excellent. So. And so yeah, I mean, I think that's what I'm saying right now. But these are exceptions. Yes, very much the exceptions to the rule. I think the, I mean, I guess the takeaway from this is that it's open. Is that if there is anyone that you think might be funny, if you think you are funny, I for not one second don't think that you, your story is not worth telling. That I think is what stand up has taught me is that no matter who it is, their story or your story is worth telling no matter how badly, no matter how ridiculously, no matter how well. Tell your story."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:47.320",
+        "message": "That's a fairly inspiring note. So I'll end this episode by asking you two questions. I ask all my guests on whichever subject they're speaking of. What makes you hopeful about the future of stand up comedy in India? And what makes you despair?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:07:59.320",
+        "message": "And you can address these from a personal perspective as well. But whichever way you choose to answer. I think what makes me hopeful, of course, is, as I said, the space is wide open. I think that right now, the platforms, I mean, it's not like we're dying for a lack of audience. Surely there are, I mean, with so many of us, surely it is, it is possible to find 10 people to sit down and, you know, just tell them your story or tell them jokes or whatever it is. And so I think that's what makes me hopeful. What makes me hopeful about stand up comedy also is the fact that it is such a low cost thing to start is I know that most of the rooms that are running right now were this guy going up to a restaurant owner and being like, Bhai sahab, bhai sahab, wo jaga hai na, jab log kha rahe hain, kuch bole kya mic pe. Restaurant's like, theek hai yaar. And that's how most comedy rooms start is while you're trying to eat food, someone's like, sir, what's the deal with airplane food? You're like, yaar, mein chips kha raha hu. Sir, you eating sweet dal? Don't let me live that one down. So I think that's what makes me hopeful. What makes me sort of despair about stand up comedy is I think the fact that, you know, those, as I was telling you, the small factions that keep popping up to be offended and sad and all that stuff, I think that is a waste of time. That is a lot of waste of time, resources, money, energy. I mean, not only of course, for the comedian, but also for the people. I mean, this sort of ties into the premise of I know that you speak about it very frequently is a lack of jobs. Is that, is that, what happened, ma'am? Why are you out protesting at like 1.25 on a Tuesday afternoon? Shouldn't you be at work?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:47.320",
+        "message": "I mean, that kind of environment also then creates a tension for which the humor is a release, you could argue. Just as you had great humor in the Soviet era and now in the Modi era."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:09:58.320",
+        "message": "May I say this? I love telling this bit, but one of my favorite stories about humor in times of duress was during in the concentration camps where they would have comedians, where the concentration camps prisoners would be sitting in front with the SS officers behind on chairs and a comedian would come and tell jokes. And one joke that I think is brilliant that apparently they didn't get was this guy goes up to Hitler goes up to a fortune teller and says, when am I going to die? And the fortune teller says, you're going to die on a Jewish holiday. And so he's like, okay, what Jewish holiday am I going to die on? And he goes, any day you die will be a Jewish holiday. And I mean, this is one of those jokes that has sort of like, I mean, I was doing some research on it. So it's sort of come down through the ages. And it was one of those jokes that they never got."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:53.320",
+        "message": "Amazing. And it could be argued that we're all in a concentration camp, because we're all going to die anyway. And we all need all the humor we can get. Thank you so much for coming on the show, Aditi. Thank you so much for having me. And Abbas, thanks also. My pleasure. In case you enjoyed listening to this episode, do follow Aditi on Twitter at oriaditi. A-W-R-Y-A-D-I-T-I. I hope I pronounced that correctly. Otherwise Aditi is going to make fun of me in her next show. You can also follow Abbas at Abbas Momin. You can follow me at Amit Verma. A-M-I-T-V-A-R-M-A. Also, watch out for the next episode, which is also with Aditi, where we discuss in particular how hard it is for women to claim their space, whether in entertainment or in society. See you next week."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:12:09.320",
+        "message": "Transcribed by https://otter.ai"
+    }
+]

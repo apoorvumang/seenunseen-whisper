@@ -1,0 +1,212 @@
+[
+    {
+        "speaker": "Guest 2",
+        "time": "00:00:00.000",
+        "message": "Welcome to the IBM Podcast Network."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:07.000",
+        "message": "Ram Singh is a farmer in a small village in India. One morning he woke up to a loud noise coming from over his head. He got out of bed and looked out of the window. There he saw that there was a giant spaceship hovering over his hut with the logo of the Indian government on it. It was lowering a giant steel cage that would fit neatly around his hut. Alarmed, Ram Singh rushed out looking for someone to speak to and spotted a babu in a safari suit. What's going on, he asked the babu. What are you doing? The babu said, we are lowering this cage outside your hut so that you are trapped inside. You can't go out and no one else can get inside. Why are you doing that, asked poor Ram Singh. The man in a safari suit just laughed at him. He said, you fool, we have been doing it for almost 70 years now. This is the story of agriculture in India."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:12.000",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Bharma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:25.000",
+        "message": "Welcome to The Seen and The Unseen, my weekly podcast on the seen and unseen effects of public policy. This week, I want to talk about some of the laws around agriculture in India, specifically two laws. One, which restricts entry into agriculture by preventing the entry of big corporations into farming. And two, which stops farmers from taking an escape route from farming by not allowing agricultural land to be sold for non-agricultural purposes. What is the seen effect of these laws? The seen effect of such restrictions on agriculture is that farmers are protected from greedy, rapacious capitalists and an important sector of our economy, agriculture, is safeguarded. All this sounds most noble, but is it possible that these regulations are actually hurting both the farmers themselves and our nation? To discuss the unseen effects of these regulations, I have two guests on the show with me. Pawan Srinath is a fellow at the Takshashila Institution and Karthik Shashidhar is a renowned quant with a cult following, a management consultant, a columnist at Mint and adjunct faculty at IIM Bangalore. Guys, welcome to the show. Pawan, give me some background on how we have regulated farming in India over the last 70 years."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:02:52.000",
+        "message": "So, ever since independence, we've had this idea that farmers are the backbone of the country, they are poor, they need to be taken care of and they are suffering because of various reasons. So, in order to do this, there have been heavy restrictions placed on who can do farming. So, the fear is, you know, you can have a company which comes and takes land away from people, you can have one of us who lives in a city who has more access to resources, who goes in and cheats the poor farmer out of their wealth, right, because land is perhaps all that a few people own. So, that's the intention of why only farmers and collectives of farmers are allowed to own land and practice farming. And even unless you have, I think, different states have different rules, but unless you have an ancestor or a parent or a grandparent who has done farming or still owns farmland, can you get back into this?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:48.000",
+        "message": "I must remind you here that Amitabh Bachchan is a farmer, so more of us are farmers than we know. Karthik, so what are the unseen effects of this? What is the problem with protecting the farmer in this manner?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:03:58.000",
+        "message": "See, the thing is, there are two roles that a farmer has to play here. The problem with this regulation is that it forces a farmer to be an entrepreneur. And there is a seen effect there. There's a noble thing that like it comes from on the back of the zamindari system where they said like, Oh, you don't want the farmer to be a slave. You don't want him to like be farming for someone else. You need to own your land and farm for yourself and things. So, you're forcing everyone to be entrepreneurs. Now, being a farmer and being a businessman are two completely unrelated skills. And what is happening now is that the farmer whose primary skill is farming is also being forced to be a businessman. And there are a large number of risks associated with farming. And not only does the farmer have to take care of his crop and apply his crop science to the farm, he also needs to be tracking the markets, hedging against the risks and so on. So, we are overburdening the farmer by forcing him to be an entrepreneur."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:04:56.000",
+        "message": "Just to add on that, so there's the risk of weather. And in a country where we can't even predict the monsoon really well right now, there's price risks as you mentioned. There can be all kinds of shortages, infrastructure problems. I mean, we are making them forced entrepreneurs and then sort of celebrating that as a virtue. Imagine if every single software engineer in the country was not allowed to form a company, not allowed to form a group, but just work entirely on their own. Even over there, sure, you have technology to at least network people and you can't even network farmers. But that's the big challenge, right? I mean, what software would India be producing? What technology would we be making if no one was allowed to form a company?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:37.000",
+        "message": "And then there's a cash flow problem. So, right now, the way farming works is, okay, you own your land. Beginning of the season, you have to invest to buy seeds, buy equipment, buy fertilizer. And then you farm and then in order to get paid, you just have to pray and hope that you have a good crop and it fetches a good price. So, continuing Pawan's analogy, imagine that software engineers in India were not allowed to take a salary. And they could only get paid in terms of dividends or profits from what they would make at the end of the year, right? So, farming is like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:12.000",
+        "message": "So, to continue on that analogy, what would happen, I imagine, is after a period of a year, a lot of software engineers would be out of jobs, would be broke and they'd move on to other professions. Is that what is happening in farming and is it possible for farmers to actually escape farming?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:29.000",
+        "message": "Actually, if that happens, I don't think it's a bad thing. Because right now, you have like some 40 or 50% of the country producing 15% of the GDP. So, if you were to have 20% producing 15%, those 20% would be making a lot more than what the farmers are making now. So, it's not a bad thing. But again, you have restrictions in other markets. Because of the restriction in land that Pawan mentioned that you can't buy land unless you're a farmer, the market for farmland is not particularly liquid. And it's hard for the farmer to kind of sell and like get away from his capital and so on, right?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:07:04.000",
+        "message": "So, the value of that land will accrue to the person who has the ability to change the use of that land, which is typically some guy sitting in a government office somewhere, rather than the owner of the land, right? So, he's not even in full possession of the wealth."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:17.000",
+        "message": "So, a farmer who's in debt and commits suicide might actually be sitting on debt capital, to use Anand Dasota's words, which he can't actually make use of."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:07:25.000",
+        "message": "Absolutely. But to go back to this, every single country which has increased in prosperity, which has increased incomes, has had a large exodus of people out of farming and into typically industry, but out of farming into more productive things, right? And in this process, there's more skilling that is happening, there is security that is given. In fact, the start of, you know, modern ideas of social security comes from sort of Bismarck's Germany, right? Where you have sort of industries going up and then sort of a conversation on, okay, some sort of support should be provided. So, all those things that we think of as now as a part of this table, evolved from that idea of, first you have a company, they give you security by giving you a salaried income, and they give you benefits, you get regularity, you have predictability, and predictability is one of the most wonderful things in our lives, right? I mean, those of us who have a lot of it can take it for granted and want adventure and spontaneity, but I wouldn't inflict that on\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:23.000",
+        "message": "And no farmer has that, and it's, you know, some of us take unpredictability and entrepreneurship by choice. We like to take those risks, but farmers don't have a choice in the matter."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:08:31.000",
+        "message": "And coming back to an earlier point, right? Like, apart from not having a choice in the matter, what it also does is like, a farmer is forced to do things he's unsuited to do. Things like, how do I sell it to, who do I sell it to, do I sell it in the local market, or do I take it to Bombay, or do I like kind of just sell it to the guy next door? And there's so many decisions, and what crop should I plant this year? These are all things that are like hardcore business decisions. They need to be done by hardcore business people. And you're forcing the poor farmer to do all of that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:03.000",
+        "message": "Now, the counter view to that is that if you just allow others into farming, if you allow, say, big companies like Reliance and Atata to get into farming, they buy out all the poor farmers and, you know, then the farmers don't have their land anymore and so on. And you have these big conglomerates controlling farming."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:09:19.000",
+        "message": "So, I don't know if they necessarily need to buy out the farmers, right? So, you can have interesting architectures around that. You can have farmers as, I don't know, shareholders in a company that is formed locally. You can have farmers who are given sort of guarantees of various sorts. And the idea is, yes, all of that is hard. Yes, sort of enforcement of contracts is hard. But we have so many people who are happily taking salaries and not complaining, and they're not necessarily getting cheated out. So, this idea that somehow a corporation can come and take over everything, just because bargaining rights are different, is wrong. And the other, the unseen effect of all of this, right, is people repeatedly ask for the benevolent hand of the government, which is never terribly benevolent, right? So, you want intervention and price, because price is uncertain. You want intervention for crop failure because of weather, because that is uncertain. So, every single problem, and we've listed all these problems, the automatic solution everyone's asking for is government intervene, right? So, one intervention begets many, many other interventions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:24.000",
+        "message": "So, since this logic seems so infallible to me, that, you know, you give the farmer some security, don't force him to be an entrepreneur and so on, what are the obstacles to the policy change that you recommend? Who are the interest groups who want farmers to remain impoverished"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:10:41.000",
+        "message": "and in the condition that they are? See, the main interest group there is the government. As Pawan mentioned, like, because the farmers have an uncertain future, lots of risks, and they keep asking for the benevolent hand of the government. If the farmer's lot becomes better, if he gets paid a regular salary, and if he doesn't have to face all these risks that he faces now, and maybe he has an employer, he'll stop asking the government for its benevolence. And when you stop asking the government for benevolence, you're taking power away from the government. So, it's not in the interest of the government to actually reform this law and reduce the need for their own benevolence."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:11:19.000",
+        "message": "So, in a sense, what we've done, I think, is to get rid of the ills of the zamindari system. We sort of nationalized the zamindari system, right? So, you have a national government, which is the Uber zamindar. And that's what they're doing. They're extending patronage, right, in the form of benevolence. And so, you kill a patronage network, their power goes away."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:37.000",
+        "message": "So, educate me on this. What percentage of the Indian population depends on agriculture? And what are the comparable percentages in advanced Western countries?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:11:46.000",
+        "message": "Okay. So, here's the number that keeps floating around, right? 60% of India depends on farming. Right. Two fallacies over there. That 60% number is a bit old. The number is actually reducing. Second is even people who are token dependent on farming are actually getting most of their income from non-farm sources, right? So, they're doing small service jobs, they're sort of participating in the rural economy in various ways. And the other thing which is sort of hidden is you go to rural India, you don't find as many young people anymore. People between the ages of 20 and, say, 35. Because they're off in the city trying to work. So, sons of farmers, daughters of farmers are not doing farming. So, if you actually do an age profile, that 60% comes, first of all, starts with something like 50, and then that drops down to about 20% or lower. And that depends, of course, state by state. What are the implications of that? The implications of that is you need new sources of jobs. And India has been bad at providing that. The informal sector in the country absorbs a lot. So, we don't have a traditional sort of a labor strike or a labor movement that way. I mean, we don't have the kind of insane unemployment rates that other countries do, but there's a desperate need for more jobs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:58.000",
+        "message": "And with specific, in the context of the demographics you mentioned, that if you have older generations of farmers who continue farming, but the kids go away to the towns and the cities to work in industries, etc. What happens to farming then?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:13:12.000",
+        "message": "So, you have a massive adverse selection, right? So, you have people who are desperate and are unable to do anything else for a variety of reasons, who are sort of stuck in farming. And anyone who can do something better exits."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:13:27.000",
+        "message": "Actually, we can see what's happening there in commercial agriculture, where for-profit farming is allowed. It's in so-called cash crops like coffee and so on. So, the big story about how some coffee companies have grown is that you have all these coffee farmers whose sons and daughters don't want to be coffee farmers. And then they just get acquired. And the easiest people for them to sell their land to is this big coffee plantation company. And those guys employ their workers and so on. And they've been managing it. And I think it's been doing rather well. So, I think the plantation sector, which I think is still open for commercial investment, shows the way to what agriculture\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:13.000",
+        "message": "And you don't have this kind of distress, you don't have coffee plantation workers committing suicide and so on."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:14:18.000",
+        "message": "They're workers, right? They might be committing suicide because their employer might not be treating them well. They're not committing suicide because the coffee crop failed because their workers are working on a salary and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:27.000",
+        "message": "Exactly. So, they have that security as all of us do in whatever jobs that we have."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:14:32.000",
+        "message": "Of course, there are problems. I mean, there are problems in the software sector as well. But I think it's unarguable that their lot is better than the lot of a rice farmer in any state in the country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:44.000",
+        "message": "So, I interrupted you a little while back. So, you were saying that the 60% figure is false and is probably on a spectrum between 60 and 20 somewhere. Right. What is it in like, say, Germany, USA?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:14:55.000",
+        "message": "Single digit percentages. Single digit percentages. 3%, 4%. So, there's this idea that we need so many farmers for food security. The food security thing still remains as a narrative. No, you need a much smaller number of people to do the farming. You need more people in other sectors. Right. So, I mean, countries are managing with much smaller numbers. China has done a brilliant job of moving a humongous number of people out of farming. I think now China might have dropped to single digits or in the early double digits. So, if India gets its act together, and I don't want to mix cause and effect over here. It's cyclical. Sure. But if we get our act together, we grow, we provide new jobs in industry and so on. In 20-30 years, we should be able to achieve what China did. So, it's not unthinkable and we are already sort of automatically doing it in spite of, you know, bad laws. Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:49.000",
+        "message": "So, finally, I'll ask each of you, what would your reform suggestion be in this context?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:15:55.000",
+        "message": "I think one important reform would be in terms of liberalizing the market for agricultural land. Even if we were to not reform this whole thing of, I mean, Pawan mentioned about not changing land use and stuff, but if everybody is allowed to invest in agricultural land, the market for agricultural land will automatically become far more liquid. And that will enable any farmer who wants to exit the system and who currently is not able to do so, to exit in a more graceful manner. And that will possibly make things far more efficient."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:16:29.000",
+        "message": "Yeah, that I completely agree. The single biggest thing is liberalize the land market. Allow more people to buy and sell, allow different modes of, it need not be a sale per se, it could be, you know, some form of a land bank that's formed such that even if value accrues over time, dividends from that accrual can go to people who originally owned it. So, a lot of things can be done. But yeah, that's not just an agriculture problem, but a pan-India problem, liberalizing the land markets. But I think that's the single biggest thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:00.000",
+        "message": "So, here's what I don't understand. Liberalizing the land market is something that would actually be in the interest of big business. Now, for the last few, maybe decade and a half, government has essentially been run by interest groups and you could say run by big business."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:17:13.000",
+        "message": "So, what is really the obstacle here, I mean? Okay. So, I think liberalization is in favor of all big businesses. When you have, but when you have interest, but it's not in, what is in favor of all businesses is not in favor of interest groups."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:29.000",
+        "message": "Specific interest, yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:17:30.000",
+        "message": "So, what's happening now is that because of you had the Land Acquisition Act and now there are amendments to that and so on. It's in favor of the special interest groups and not in favor of all big businesses. Right. And so it's like kind of what we tend to see, the scene is that special interest group equal to big businesses. Right. But the unseen is that special interest group is a subset of big business and it depends on the government in power and so on. Right. So, we have to take out the ability of the government to intervene on behalf of the special interest groups. It is not in the interest of either the government or the special interest group, but it's in the interest of big business. So, we need to separate out this thing between big business and the groups."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:18:11.000",
+        "message": "I want to pull out an analogy that my colleague Nitin Bhai uses and that's about how, because regulations are so dense, because it's so hard to do business and so hard to operate in the land markets. Most players who are successful are successful because they have created knee sized loopholes. Right. So, they managed to get themselves into this entire thing. So, and they're now protected from competition. So, you have big real estate houses, big businesses who know how to play this game and they've, you know, set their entire thing together. So, now if you liberalize it, they lose their incumbent advantage. They have to face stiff competition. Nobody wants to do that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:49.000",
+        "message": "Awesome. Thank you so much for your insights, Karthik and Pawan. Pleasure having you on the show. My pleasure. Thank you. The laws in India around agriculture are actually a perfect example of how good intentions often lead to bad outcomes. And these are outcomes that could have been predicted by any competent economist given the kind of incentives created by these laws."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:19:11.000",
+        "message": "Just because an effect is unseen does not mean that it is unforeseeable. On that note, I'll leave you for this week."
+    }
+]

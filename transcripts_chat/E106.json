@@ -1,0 +1,397 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "Welcome to the Scene and the Unseen, our weekly podcast on economics, politics and behavioral"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:51.560",
+        "message": "science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:52.560",
+        "message": "Please welcome your host, Amit Bhadma. Welcome to the Scene and the Unseen, my guest in this episode is the economist Tyler Carvin. Though describing him as an economist seems inadequate, Tyler is a polymath who blogs at Marginal Revolution, which is by far my favorite blog in the world, and he's written numerous books on a variety of subjects. He also runs a Marginal Revolution University, MRU, with his Marginal Revolution co-blogger Alex Tabarrok, who has been a guest on the Scene and the Unseen a couple of times. The subject I invited Tyler to chat about is his latest book, Stubborn Attachments. This is not actually a book of economics, but of moral philosophy. In a nutshell, Tyler makes a number of bold assertions in this book. One, he argues that we need to regard future lives of people who haven't yet been born as morally equivalent to the lives of those alive today. We should not discount those lives at all. Two, he argues that for this reason, aiming for high economic growth is a moral imperative, as that will lead to the best outcomes for future humans, and so we need to build institutions and social norms that maximize the chances of achieving sustainable high economic growth. Three, he says that we should do all of this within the constraints of human rights, which he defines to be negative rights. This conversation with him was recorded in late December 2018, but before we get to it, let's take a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art, like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vazvo x Vazvo, Brinda Miller, Dilip Sharma, Shruti Nelson, and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to IndianColors.com, that's colors with an O-U. And if you want a 20% discount, apply the code IVM20, that's IVM for IVM podcast, IVM20 for a 20% discount at IndianColors.com. Tyler, welcome to the scene in the unseen. Happy to be here. Thank you. Tyler, my friends and I have a theory that there isn't actually one Tyler Carvin, it's a collective that calls itself Tyler Carvin because you actually get so much done that it seems impossible one person could manage it all, you write multiple posts a day on Marginal Revolution, you've written 15-16 books, you obviously read so much, you immerse yourself in other cultures, you travel, you've written a book about food, so you eat out a lot, and you teach. So I'm really curious, how do you structure your days? Like, what's a typical day in the life of Tyler Carvin like?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:01.840",
+        "message": "I try to wake up at exactly the same time, by 7am at the latest. And then I start working right away, and every morning I treat writing as the most important thing I do. And I get some writing done. And then the afternoon, all kinds of things can happen, but other things get done then too. And, you know, you stop maybe by 11pm and you go to bed. I exercise somewhere in between, obviously I eat."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:33.240",
+        "message": "That would be like a first cut at it. Do you set out a specific time for reading, or do you just read as and when you can?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:40.560",
+        "message": "When I can, but I really never read in the morning. Mornings are for writing. Now, when I travel, it's quite different. I may just spend the whole day walking around, you know, looking, say, at Mumbai or wherever, taking in things in a more intensive way than I could when I'm reading."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:56.660",
+        "message": "And I read in an interview of yours that, you know, a lot of the books you read, you sort of, you know, you don't necessarily read all of them, but there are a few books that you really like that you go back to when you read them multiple times. What are the sort of books that through your life have really, either A, books which have influenced you and influenced your thinking, and B, books which you just like to read and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:17.720",
+        "message": "reread again for pleasure? Well, I'm reading for maybe the fifth or sixth time Homer's Odyssey. There's a new translation by Emily Wilson, and I'm enjoying that a great deal. The books I like to reread typically are very famous classic books like Adam Smith or Plato, Gulliver's Travels by Jonathan Swift. They wouldn't be that hard to guess at. Most books that come out today, you know, maybe they should have been articles. They may have good parts or a chapter on a topic or country you're interested in, but"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:45.720",
+        "message": "I don't see why you should read the whole thing. That's true. And is there any book or are there any books that sort of were like a eureka moment for"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:52.040",
+        "message": "you that changed the way you look at the world? Well, reading Plato's Dialogues when I was 13 and 14 years old, that had really a big impact on me. It got me thinking more philosophically, and it just introduced me to Western thought and the idea of dialogue. So that Adam Smith, reading Hayek when I was quite young, those would be some of like the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:14.440",
+        "message": "earthquake moments for me. And also, I mean, you've written 15 or 16 books, and one often assumes that, you know, when you write a book, you come up with the idea of a book, you spend a couple of years and you write it. But in the case of Stubborn Attachments, I read that you spent, you know, more than 20 years actually thinking about this book, writing drafts of it, and, you know, getting it together in your head before you actually came out with the book. Can you sort of take me on your intellectual journey through the questions of this book? Like, what are the big questions in this book that you were trying to answer that concerned you? And did you come up with different answers to those questions at any point?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:51.800",
+        "message": "When I was at Harvard in 1984, I was in Harvard bookstore. And just coincidentally, I picked up a copy of Derek Barfitt's Reasons and Persons, which is still one of my favorite books. And that book was another of these earthquake moments. And that was just his take, you know, on the self and how to think about value and how to aggregate or not aggregate. And I just thought, well, I need to spend a big chunk of my life in some way responding to this book or addressing it. So the issues I've been thinking about since 1984 and about 20 years ago, I think I've now lost track exactly how long, I started writing a manuscript on the value of civilization. That would be my account of what value is. And I thought, well, you know, a book like this, I can't just finish it in two or three years. I've got to work with, I'll need to think about for a long time, talk about with many other people, see, you know, much more what has been published on the topic. So just every year, I would spend about a month revising. And this book kept on changing. A lot of the time, the changes were just me cutting things. And finally, it's come out. So I'm very happy about that. But a lot of my books are these like longer term investments. You know, my book on food, I didn't spend that long writing it. But I spent many years eating, and it's really the distillation of what I learned, you know, traveling and eating."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:16.680",
+        "message": "So in that sense, that's another very long production period. And that's actually a really lovely short book. I quote from it often when I go out to eat, in fact, let's kind of talk about stubborn attachments. What's the central question that you're trying to answer through this book?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:31.480",
+        "message": "What is the correct way to think about the best society? What standard could we plausibly use to judge one social outcome as better than another? And finally, what kind of thinking should guide economic policy? And I decide that this notion of compound returns and economic growth is really central to solving all of those puzzles. So it's very much a pro-economic growth book."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:55.120",
+        "message": "Right. And you write about this concept called the crosonia plant in the book as a metaphor for"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:00.880",
+        "message": "economic growth. Yes, think of the crosonia plant as representing compound returns. So say you have an apple tree and the apple tree gives you apples and the apples in turn give you more apple trees. There's this notion of things which, of their own steam, keep on growing forever and give you more and more value. And a well-structured economy is one of those. And I argue we can think of those as the fundamental sources of value at the social level in human affairs. And the one definitive claim we can make is that an economy which is much wealthier is clearly better than an economy or society which is much poorer."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:38.120",
+        "message": "And this is a sort of a debate that keeps cropping up because despite the overwhelming evidence that points out that wealth and social welfare are completely correlated and it's very clear that economic growth causes people to live better lives, it's still something that's oddly enough questioned in many circles. Why do you think that is? Why that skepticism when the data is so clear?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:01.520",
+        "message": "I think there are a number of reasons why people are reluctant to accept a more optimistic outlook or the notion that a lot of other values can be subsumed by having some form of economic growth. I think a lot of people, they're programmed to want to complain and they end up with other views. But this is why I called the book Stubborn Attachments. I argue we should literally have a stubborn attachment to this idea of growth and also to an idea of human rights."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:33.640",
+        "message": "And you know, stick with them stubbornly. Right. And you also sort of make the case that measuring economic growth of wealth through GDP itself is insufficient. And you talk about something which you call wealth plus. Tell me a little bit about wealth plus. What more does it have besides GDP and how do we measure it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:53.680",
+        "message": "Well, to give an example from India, some parts of India, such as Kerala, are in some ways better off than just numerical wealth might indicate. So they have stronger social indicators. Environmental factors may be something else that's not fully captured in GDP or leisure time. So I think GDP is actually a fine number for many purposes. It often comes close enough. But for some final decisions, we need to also incorporate social indicators, the value of the environment, and also leisure time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:27.720",
+        "message": "So that's how I would modify GDP. Right. And you sort of write in your book that because, you know, compound interest is something that is so underestimated and, you know, you point out about how if you ask someone by how much has the standard of living in America gone up in the last hundred years that your typical guesstimate of someone you ask could be, what, 50% a couple of times, but it's actually seven eight times because people underestimate the value of compound interest and also a lot of the growth, I guess, can't be quantified because the remarkable amount of information that you can access on your smartphone, for example, or the fact that no human being will ever get lost again because of technology. You know, how do you quantify that stuff? There's no economic figure that can capture that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:12.840",
+        "message": "I agree with that, but I think for actual comparisons, if you simply look at GDP growth rates over time and again, adjust them a small amount, they come close enough. So the countries that measure as having the highest GDP really are the countries with the highest living standards. Maybe the oil monarchies would be somewhat of an exception to that. But if you look at the United States, Canada, Australia, Norway, those are the places where people want to migrate to if they can, and they're the places with high GDP. So I think the measure works surprisingly well. It doesn't mean that money is all that matters or even the main thing. But as you mentioned, GDP correlates with having a more secure life, lower levels of stress, a more rewarding or safer, more creative job, many, many other non-monetary goods."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:03.200",
+        "message": "And there'll be naysayers on the left who will sort of say that, hey, economic growth is all well and fine, but it's not across the board, there's inequality. What about those who are left behind and so on and so forth?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:16.000",
+        "message": "The best remedy for those who are left behind is economic growth. You see this in the history of China. The Chinese economy is about 40 times larger than it was, you know, about 50 years ago. That's just astonishing. China not only has more billionaires than the United States, but it has a healthy and growing middle class. And Chinese rural areas are also much, much better off than they had been where there used to be starvation. People now eat really very well. So again, if you're asking what's the one thing we can do that's better for virtually everyone, I think the unique answer which stands out is economic growth."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:55.600",
+        "message": "Yeah. In fact, I, you know, when talking about inequality, I tend to say that it's a luxury of rich countries to think about it, that people in India should just focus on poverty, which is a very different problem and inequality and poverty are very different, they require different solutions. And, you know, I often I mean, one clear indicator of this is that, you know, you don't see any poor people trying to migrate to Bangladesh, they're trying to migrate to the US. And similarly, you don't see any migration away from cities, you see them migrating to cities and if inequality was a big problem, that should have been the other way around."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:29.480",
+        "message": "Exactly. And even in the US, I mean, most ordinary Americans don't care about inequality. They care about whether or not they have a good job or growing wages. If they care about inequality, they compare themselves to their high school classmates, you know, not to billionaires or Bill Gates. So the inequalities that people actually get bothered by are quite local."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:51.320",
+        "message": "They're within families or all groups of friends or peers. And you know, often people also say that, look, you know, economic growth is all well and fine, but money can't buy happiness. Can happiness be measured and is that something that you'd agree with?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:05.840",
+        "message": "I wouldn't say money can buy happiness, but having a wealthier society is the best thing you can do to get higher levels of happiness. So it just gives people a more secure foundation for other things they wish to do to seek their happiness. So I would say, you know, it's steps A, B and C, if your goal is to just make people happy. Now, I'm an ethical pluralist. I don't think happiness is the only value. I think aesthetics, creativity, justice, all these things matter. But for the most part, they also do better in these wealthier societies."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:37.560",
+        "message": "And you also pointed out that, you know, people often measure happiness through surveys by asking people if they are happy. And you know, that measurement leads to a sort of a language problem. Like you correctly said, you know, a poor person in Kenya who's relatively better off than his neighbors might actually rate higher on the happiness scale, according to how he sees himself, than an American who in reality is actually far better off and even happier,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:02.480",
+        "message": "though he doesn't express it that way. That's right. I think when you look at numerous other indicators, such as what people actually choose, the case that wealth is correlated with happiness is really pretty strong. Wealthier societies, there's also greater life expectancy. So you just live longer, you have more years of whatever level of happiness you're going to have. And these measures don't pick that up, because the questionnaires, you're only asking people"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:27.240",
+        "message": "who are alive, right? And you know, another thing that you've kind of pointed out is that, you know, this is like you say that there are three questions that we should ask ourselves when deciding on what we should do. And those three questions are, A, what can we do to boost the rate of economic growth? B, what can we do to make our civilization more stable? C, how should we deal with our environmental problems? Because this obviously has an effect on future generations. And as you pointed out, you know, the first of those questions about economic growth is something that libertarians would be attracted to. The second of those about civilizations being more stable is more something that would appeal more to conservatives and environmental problems more to left wingers. And the fact that you sort of require a consensus on all of these, if this vision is to be sort of accepted as a moral vision, isn't that more of a bug than a feature? Because now we are divided into political tribes, and you're never actually going to get anyone to agree with something that's a concern of the opposing political tribe reflexively."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:31.760",
+        "message": "Well, I'm not sure how many people will agree with me, but I think the important thing is to put out what you think is right. And the world political opinion isn't a bad way in today's world. In most countries, I guess I have the intuitive view that if what you're saying irritates everyone just a bit, maybe you're on the right track. And if you're just, you know, picking one of the sides and saying, rah, rah, this is my team, probably you're on the wrong track. Now, that doesn't mean my view is right. But again, the goal is not to persuade people in the short term, that may be hopeless. But sort of the long term, how people think about the world a generation from now, I hope"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:10.080",
+        "message": "is along the lines I'm suggesting ideas do change. And you sort of told me that, you know, one of the earthquake books for you, so to say, was Plato's dialogues. But in today's times, given what discourse has become, is Socratic dialogue even possible? I mean, what social media has done is it's enabled all of us to find these echo chambers. And you often find that, you know, social media, especially, and all of political discourse really is incredibly polarized, where people aren't talking to each other anymore. They're talking past each other. They're posturing to raise their stature in their in group, are the days of Socratic dialogue behind us?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:45.040",
+        "message": "Well, people sometimes say that, but I'm not convinced it's gotten any worse. And in a lot of ways, it's better. So you can use the internet to reach out to anyone. I mean, you emailed me to set up this Skype call and podcast, probably, we don't agree on a bunch of things. But here we are talking. And go back to the 1970s, where there's, you know, no internet, there's television, which is awful in the US, just three major networks, it's all boring and stupid and mainstream. It was very hard to like break into, you know, writing for newspapers, I think it's much better now. So partly because like the pond is so much bigger, you have more ideologues and more"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:23.720",
+        "message": "intolerance, but you also have much, much more real dialogue. Moving on back to your book now, you know, one of the controversial points you made was about time preferences about how, you know, we all tend naturally to discount the long term, and think of the short term, and this is especially true when it comes to all the people who are alive today versus all the people who might live 200, 300, 400 years from now. And we discount the value to them. And what we do is not with reference to the kind of lives that they will have. And your dual argument is that number one, we should treat those lives as equivalent or almost equivalent. And we should design our policies and our actions accordingly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:07.200",
+        "message": "That's right. And I think what that means in practical terms, is the best thing we can do for the future is to invest in better institutions and better rules and norms today. It's not that we can control future events 30, 40 years out in any kind of fine detailed predictable way. But we should have this obsession on making our procedures and processes as good as possible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:29.440",
+        "message": "And I think that is exactly the right advice. And that actually goes against both, I mean, as you correctly pointed out, people are wired to think of the short term, possibly because we evolved in prehistoric times. And in the hunter gatherer rage, it's you know, you're going to survive longer if you think of the short term imperative of surviving rather than think 10-20 years into the future. So one, people think automatically in the short term. And two, when you think of the political economy, if you just look at what the incentives for political parties are like, every party just gives a damn about one thing. They want to win the next election, they don't really care. I mean, just to take an example from India, which is going on these days, is that it has now become the rigor for any party which wants to win elections, to offer farm loan waivers to farmers. And farmers, of course, are I mean, we are in the middle of an agricultural crisis, farmers are in great distress, it's completely natural for them to ask for farm loan waivers. And it's completely natural, therefore, for the supply side of the political marketplace to promise them those farm loan waivers. And rationally, everybody can sort of say that, look, this is not really good for the long term, what we need to do for the long term is we need to do structural reforms and blah, blah, blah. But there's no demand for that in electoral politics. Thinking of the long term just doesn't come naturally either to individuals, and it doesn't make sense to politicians to cater for it. So even if people agree with you at a rational level, that yes, this is how we should think to be moral beings, how does that find expression in actual action?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:03.760",
+        "message": "This same kind of problem is becoming worse in my country as well in my politics. But what I find striking is you have many countries, often democracies, where it's not nearly as bad. If you look at Norway or Switzerland, or New Zealand, Singapore is not not quite a full normal democracy, but nonetheless, they have good governance. They do have much longer time perspectives. And I don't, in every case, know what the secret is for that difference in perspective, but I think it shows it's possible. So I would just like to see American political debate reoriented much more along this idea"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:40.320",
+        "message": "of economic growth. And do you see that happening? Or is it going in the wrong direction? Or do you at some level believe that the arc of history, despite these little, you know, ups and downs eventually moves towards freedom?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:52.600",
+        "message": "I think in my country, it's going in the wrong direction, the world as a whole, it's probably still moving in a more positive direction. You have so many countries now trying to achieve economic growth, even if they're failing. And you look at a place like Ethiopia, they've now had 10 years in a row of averaging about 10% growth a year. And that's fantastic. Something like that never would have or could have happened in the 70s, 80s, or even 1990s. So I think I'm optimistic. But you know, there's not a set answer. It is up to us. And a lot of countries, they get wealthy, and they grow sloppy in their thinking. And that's what's happened in America."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:29.320",
+        "message": "Right. And, you know, in your book, when you make the case for valuing future lives, as importantly as current lives, there's a really nice quote by you, a start quote, imagine finding out that you having just reached your 21st birthday, must soon die of cancer, because Cleopatra wanted an extra helping of desert. Stop quote. And here, of course, you're sort of putting the reader in the place of a person in the future and saying that, look, that person matters also, and therefore your actions matter. But if we go back into the past, you've made a case for, you know, that do past actions and lives matter as much as present lives?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:05.880",
+        "message": "I think it's striking how much persistence there is in cultures. So there's a paper by Bill Easterly showing that per capita income in the year 500 AD actually has a fair amount of predictive power for per capita income today. So if you look at, say, the countries that were part of the Roman Empire way back when, compared to the rest of the world, they're still doing relatively well. China is rising again. It has earlier traditions that can draw upon. So just the persistence of the quality of the decisions we make today, I think, is often"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:37.560",
+        "message": "underrated. And, you know, and a sort of unrelated question, not something that has to do with the argument we're making, but it just struck me when I was reading these bits, is that do you think at some level, we should also discount past lives completely in the sense, let's say that past lives and actions don't matter? Because what we sort of see in India, and no doubt across the world, but, you know, with reference to India, is that there is this constant vicious cycle of the past being invoked. For example, a few hundred years ago, a Mughal emperor, you know, broke a temple here allegedly and built a mosque. We must now break the mosque and build a temple, which is something that the right will say, or the left might say that, you know, Group A was oppressed by Group B. And therefore, we now have to switch the oppression and recompense from it, which is a thinking in a very zero some kind of way. And B, it opens the gate for identity politics, which just vitiates the hatred between people and doesn't help us move past that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:35.640",
+        "message": "Is that an issue? It's a huge issue. I don't think we'll ever succeed in really ignoring the past. Maybe a big part of me would like to, but I would say, let's pull the stories from the past and reinterpret those stories in a way that will do the most for us in the future. So a very, you know, positive vision of what we can become and how we can work together and how we can cooperate rather than these identity politics versions of the past. So I would rather have the past working for me, given that I cannot abolish it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:05.560",
+        "message": "Tyler, we'll take a quick commercial break. We'll be back in a minute."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:08.960",
+        "message": "Hello, it's been another great week on IBM podcast. If you aren't following us on social media, please make sure you do. We're IBM podcast on Twitter, Facebook and Instagram. We've been running this thing for the last few weeks and we're going to keep doing it. If you are listening to an interesting show that you're enjoying, pause it, take a screenshot, tag us on your Instagram story and drop us a comment and we will post that to our own Instagram story. So I want to tell you about a new show that we're launching. It's called Gana Tantra. It is hosted by Surya Natarajan and Alok Prasanna Kumar. They discuss how politics goes beyond intriguing elections and its implications in everyday life. I think you'll really enjoy that. Also starting on the 4th of February, we're launching a new show with Ambi Parmeswaran. It's called The Sponge Podcast. He talks about all the invaluable lessons he learned from his 40 years of experience in advertising. Speaking of Ambi, he's also on the Filter Coffee podcast with Karthik Nagarajan this week. They discuss the importance of data and advertising. It's a really, really insightful conversation, which I think you would enjoy. On Sider Says, we have author Mopia Basu, who talks about her new book on the Rani Ujjansi and clarifies some historical misconceptions held about Indian history. On Pesa Vesa, Anupam talks to Ashok Kumar, CEO and co-founder of Scriptbox about the importance of tax planning and the effective ways in which you can save tax. On the Pragati Podcast, catch special guest Ambassador Shiv Shankar Menon in conversation with Pawan about the importance of connectivity on a geopolitical scale and the economics behind it. Here's what's in store for you on our regional language shows. On the Hindi show Puliya Bazi, the hosts do a deep dive into Dr. Ambedkar's most famous yet controversial essay, The Annihilation of Caste. On the Hindi film show Cinemaya, director Paromita Vora joins Swati to talk about her documentaries, her directorial decisions and the politics behind camera. And with that, let's get you back to your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:43.040",
+        "message": "Welcome back to the scene in the unseen. I'm chatting with Tyler Cowen. Tyler, the second big ingredient of your sort of the moral vision that you lay out. The first ingredient, of course, is we must aim for economic growth because it compounds over time. And the second ingredient is we must, however, do this with the strong constraint of rights. Can you explain that to me a little bit? And also, what do you mean by rights? Because people everywhere kind of get confused between positive and negative rights, and it gets very muddy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:14.640",
+        "message": "I mean, negative rights, freedom from coercion and arbitrary murder. So just to be clear, most of the book is about economic growth, as I think our conversation has indicated. But there's a kind of rejoinder I was worried about, someone who might say, well, you know, what about Joseph Stalin? He killed all these people, but it helped the Soviet Union grow at a rapid clip. Well, you know, I don't think it's true that Stalin killing people boosted Soviet economic growth. But the point I want to make in the book is not to argue that fact with people, but just to show that killing innocent people is wrong. You can have an absolute prohibition against it. You don't have to think we should do that to get economic growth, that you have morals and you have the practical benefits of growth. And the right way to think about the world is to combine those two things and think of human rights as a constraint that you should operate within."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:05.840",
+        "message": "Right. And you talk about that constraint being nearly absolute. What does it nearly indicate?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:11.200",
+        "message": "Well, I think if there were some kind of strange case where to save the whole future history of the world, you had to kill some number of people, you know, maybe to fight World War Two, to stop Hitler from taking over the world. I think rights are embedded within the context of a world. And if you need to fight to save the world, you are then in some cases justified in infringing on people's rights. So if we had to have, say, a draft to fight World War Two, I mean, that did kill some innocent people. But I don't think that's wrong. Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:40.560",
+        "message": "But really, you need extreme cases. Right. In fact, you mentioned that in your real world experience, you couldn't actually think of extreme cases where, you know, infringing rights would be justified. Not anything lately now. Right. You then also have a chapter on a rather controversial subject of redistribution, where you talk about our responsibility to the poor, and you talk about how some amount of redistribution might be necessary, but not too much. How does that work? Like what amount is necessary? And where do you draw the line?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:13.240",
+        "message": "Well, a lot of redistribution actually boosts economic growth. So if you remove the risk of malnutrition from children, or give them better education, or maybe clean up a water system, those all have great potential to boost growth. And I'm all for that kind of activity. But that said, a lot of redistribution is just for redistribution's sake. It may make incentives worse. Poor people have less of an incentive to earn more income, wealthier people are taxed at higher rates, then I'm much more sceptical. So I would say let's do all the growth enhancing redistribution we can."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:47.640",
+        "message": "And you know, the question that then comes up there is that if we are balancing, say the consequentialism of your essential vision against the rights that we say are a constraint against that, any kind of redistribution does infringe negative rights in some way, because obviously it's money coerced from people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:06.360",
+        "message": "How do you reconcile that? In my view, democratically voted taxation is not an infringement on rights per se. I mean, maybe it would be if it reached some level that were like extortion. But if people vote to tax themselves and provide some public goods, including redistribution, I don't per se consider that a violation of human rights. They may mess up, you know, whether it's done well or not. But in principle, it has the potential of making virtually all of us better off."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:33.160",
+        "message": "Right, but that's kind of, you know, if two wolves and goat have dinner together and the wolves want to eat the goat and they take a vote on it, then you know, the majority would want to eat the goat, but the goats rights would, you know, be infringed in that sense. I mean, the whole idea of negative rights is that you don't go by what the majority wants, but you protect the rights of every individual. And the whole, the sort of classical liberal vision of the state, I would imagine comes from accepting that you do need a state to protect rights, and therefore that calls for a necessary infringement of rights. But anything beyond that becomes problematic."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:09.120",
+        "message": "I would agree with most of that. I don't think there's an absolute right to all of your income. I do think there's a right to your life. But if you have, say, a government, which is reasonably accountable and based on democratic principles and it taxes from people say 30% of their income, I don't think that's an unjustifiable violation of rights. It's very different from say, rounding people up and putting them in camps and killing them. It's something you would like to minimize that taxation. But again, there's not actually an alternative that will give people more liberty."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:41.320",
+        "message": "Right. And as far as redistribution is concerned, you draw the line by saying that you redistribute only up to the point that it maximizes sustainable economic growth. Doesn't this sort of run up against Kant's categorical imperative that you should not use people as a means to an end, where here you are kind of thinking of people as a means to an end, which is sustainable economic growth for the future to benefit future generations"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:05.720",
+        "message": "and so on? I don't agree with Kant's imperative. I think we need to be consequentialists and do things to maximize how good consequences will be. This will often mean in the short run, some people either lose out or they are treated as means to an end. But again, if you think of compounded growth over time, you'll have to meet what is by far the best outcome. So this is not a Kantian book. You can think of it in part as a response to Kant."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:33.080",
+        "message": "And a common criticism against consequentialism, which you also addressed in this book is obviously the epistemic problem that, okay, we judge actions according to their consequences. But how can we know ahead of time what those consequences will be? And this becomes particularly acute at scale at a level of public policy, where we've already had enormous follies earlier in the century in terms of central planning and so on, running up against Hayek's knowledge problem. How do you reconcile the epistemic problem that is inevitable when it comes to planning anything?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:07.040",
+        "message": "I mean, Well, I think we should bite that bullet and swallow it. So in many cases, we should be very modest about how likely we are to be right. Of course, you should pursue the course of action you think is most likely to be right. But you should not be very dogmatic and think, well, I have it exactly right. I would say when it comes to economic growth, we often know a great deal about how to thwart it. But it's much harder to have very exact knowledge on how to stimulate it. And I think that's the level of agnosticism we should have. So we shouldn't think we know everything about every public policy issue, because we don't."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:41.800",
+        "message": "So for me, that's a feature, not a bug. Yes, I was, I had an interesting conversation yesterday, I had a historian called Gyan Prakash on my show, and he's just written a book about the revisiting the emergency and looking deeper into its root causes and all that. And one of the things that he tangentially wrote about there was the thrust towards family planning and population control in India, which, you know, took place over a period of decades and was driven by Americans like American institutions like the Ford Foundation, were actively talking about coercive family planning. And at one point, the American government itself made aid conditional upon the Indian government carrying out family planning policies. And of course, this was magnified massively during the emergency. But leaving that aside, coercive family planning continues to this day, and is based as I know you would agree with me on, you know, flawed Malthusian principles and, you know, looking at human beings, not as resources, which they are, but as a problem and the damage that this sort of thinking caused, at that time was, you know, had enormous consequences. I mean, there are millions of people who would have been born and would have lived fulfilling lives who simply don't exist. And that seemed to me, you know, since it just happened yesterday, it seemed to me to be a great example of how, you know, consequentialism can go dramatically wrong, because all of those people were acting out of good intentions. And they were convinced they were right. And that this was a reasonable thing to do for the sake of future generations."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:11.440",
+        "message": "I agree with all your points. But I wouldn't blame consequentialism, I would blame arrogance, a consistent consequentialist will recognize how hard it is to calculate consequences. And one simple consequence is if you have fewer children, there's less social insurance within the family, or, you know, less chance you'll give birth to the next genius or great inventor. And that's a consequence too."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:33.600",
+        "message": "So I would say they were not consequentialist enough. Right, and, you know, the other sort of criticism that can be leveled against, you know, the thesis that you've laid out, is that in your book, you really take the point of view of the species or the civilization across this great span of time, and not specifically the individual, like, you know, just going back to your earlier quote, when you talk about, you know, Cleopatra wanting an extra helping of desert and someone dying of cancer today, but the thing is, does someone have the right to tell Cleopatra today to not have an extra helping of desert because someone hundreds of years later may die of cancer?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:12.000",
+        "message": "Well, you have to ask which are the actions of Cleopatra that might have wrecked the world. And maybe there were some she was not in every way a good ruler, as I understand it. But I don't think her heapings of desert were the problem. That's the kind of joke that sentence. She did not invest in durable institutions that could be passed down along the generations. And for that, I think we should condemn her and she should have done it. So this idea that there's a cultural persistence to good institutions, I think that's the obligation of leaders is to support good institutions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:46.640",
+        "message": "Fair enough. I'll quote another sentence from you where you sort of you handle the epistemic problem and you talk about how, when it comes to small uncertainties, we should just default to respecting rights. But when it comes to, you know, clearly big consequences, like sustained economic growth way into the future or preserving the environment for future generations, then we should act decisively. And you know, you spoke about not being paralyzed by epistemic uncertainty. So there's a sentence where you say, quote, rather than letting it paralyze us, we can think of radical uncertainty as giving us the freedom to act morally, stop quote. And my thought here was, you know, why do we need radical uncertainty to give us the freedom to act morally? Why not act morally anyway? And wouldn't that lead to the best consequences?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:37.520",
+        "message": "Well, I think maybe it's easier to act morally. If you're not sure your rights infringement will lead to good practical benefits. So take this course of family planning, something I would be opposed to. People really should have thought twice, three times about this and said, you know, we really don't even know if this will do good. And if you don't even know that you ought to think it will do good. I think it's much easier to say, well, look, this is wrong. It's coercing people. We just shouldn't do it and leave it aside. So I think it opens up the space to be moral without always looking over your shoulder and wondering who's going to lose as a result of this. Who's going to die? What other grave consequences am I creating? In a lot of cases, you just don't know, so do the right thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:25.040",
+        "message": "So tell me if I've sort of summarized the thesis of your book accurately. You write that we have to think consequentially and we have to use rights as a constraint for that. And we have to most importantly, balance the lives of future generations and consider them as important as ours. And therefore, we have to aim for sustainable economic growth, pointing out, you know, the principle of compound interest, which philosophers may not have paid as much attention to as accountants. And therefore, what you prescribe is that let us always aim for sustainable economic growth using rights as a constraint. And that's essentially the thesis of your book."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:04.600",
+        "message": "Is that an accurate summation? I agree with all that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:08.240",
+        "message": "I'm never sure that a summation of a book is possible, but what you said sounded great. And is your thinking sort of a work in progress? Like, did you think differently 10 years ago or 20 years ago? And if so, what changed over a period of time as you thought about the book?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:24.680",
+        "message": "I think I've tried to improve the ideas, but I don't think they've changed fundamentally. Maybe the main change in the book over time was the earlier drafts had a lot more on sustainability and preserving the value of civilization against existential risk. I haven't at all repudiated those ideas, but I found they've come out in a lot of other books. And I ended up mostly taking them out of mine just because I wanted to focus on what I thought was my unique contribution."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:53.880",
+        "message": "That would be the biggest change. And sort of moving away from the book for a moment, you know, you sort of live in America in the age of Trump and just looking at the way things are going, for example, you speak about how things might seem to be going backwards in the US, but they are doing well in the rest of the world. But Trump has just engaged on what could be called negative, some trade wars with China and others, which actually have a negative impact on the entire world, including us in India and increased instability everywhere. Do you feel more hopeful about the future?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:27.760",
+        "message": "How do you look at all of that? I think the world today is in a positive place that I could not have imagined, say, 40 years ago. And that should make us quite optimistic. But I do see a number of countries, including in Eastern and Central Europe, Brazil, some features of government in the United States, some features of government in India, China being more autocratic, which I think are getting worse. And that scares me. So I would say the last two or three years, we've maybe needed to reassess our optimism a bit. But I still see the optimistic trends as stronger than the bad politics. And I think the US will survive Trump. I don't agree with the trade war. But I do think China was doing a lot to steal intellectual property and conduct espionage. And we did need to poke back at them in some way. I don't agree with what we did. But I think Trump, in some ways, has been speaking the truth about China also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:26.280",
+        "message": "And also, do you think that your moral vision for the future is something that or any moral vision for the future can really percolate to the level of politics? Because maybe I'm biased by the politics that I see in India, but what I see here is that politics tends to be morally corrosive, that once people enter the political sphere, the lust for power drowns out everything else. And even if they went into it with good intentions, and, you know, specific moral visions, those disappear as the imperatives of that political game kind of play out, and it becomes sort of impossible for anyone to really have any principles apart from catering to the interest groups and getting reelected once they reach the higher levels of politics."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:09.000",
+        "message": "You've had very clear moments in the history of Indian politics where people did the right thing, people who fought for independence from the United Kingdom, Ambedkar, the reforms of the 1990s. I'm not saying those sentiments always last forever, but people have stood up and acted for right and had lasting impact, and also boosted the rate of economic growth in India, which is much higher than it used to be. And post-independence was much higher than that compared to being a colony of Great Britain. So even in Indian history, which has, you know, been fraught with a lot of negative events, we've seen this happen and succeed. So I would again be more optimistic than not."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:52.880",
+        "message": "Tyler, let's end on a hopeful note. Thanks a lot for spending so much of your time talking to me."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:58.120",
+        "message": "My pleasure. And thank you for your interest in my book and for reading it so carefully. Thanks, Ryla."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:05.400",
+        "message": "Like every good book should be, Stubborn Attachments is thought-provoking, and it's also short enough to be read entirely in one sitting, so I strongly recommend that you pick it up. Because it's so accessible, it might even be a gateway book for new readers interested in moral philosophy. I also urge you to develop a new habit, reading Tyler Carvin and Alex Tabarrok's excellent blog, MarginalRevolution at MarginalRevolution.com. You can follow Tyler on Twitter at Tyler Carvin, one word, Tyler Carvin, and you can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse past episodes of The Seen and The Unseen at SeenUnseen.in and ThinkPragati.com. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:44:54.200",
+        "message": "Bye for now. Bye. Bye."
+    }
+]

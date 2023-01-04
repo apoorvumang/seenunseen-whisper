@@ -1,0 +1,737 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Every year, the government presents its annual budget, and there is enormous fuss over it. It is a media spectacle, and I wonder when some smart person in the finance ministry will get the idea of inserting commercial breaks in between the live telecast. I can totally imagine the finance minister saying, and now to tell you about how we will recapitalize public sector banks, but first, a quick commercial break. This could be India's Super Bowl. No, but seriously, it irritates me that the budget is given so much importance by people because it reflects how much coercive power the state has over its subjects. If the Maybap Indian state did only the things it was supposed to, and interfered nowhere else, the budget would be insignificant, provide the rule of law, and society will see to its own prosperity. Whatever prosperity we do achieve is usually in spite of the interfering state, rather than helped along by the enabling state. Anyway, that's the world we live in, and the budget does matter because the state has the power and capacity to mess so much up. It does also have the capacity to make things a lot better, especially when things are already so bad because the worst things get, the greater the scope to make things better, I guess. In such scraps of pointless hope, do people such as me find the will to go on living? So did this budget give me any cause for hope? No, it didn't. But I still look at the bright side of things. More joblessness means more people will have more time to listen to my podcast."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:32.640",
+        "message": "Welcome to the scene and the unseen. Our weekly podcast on economics, politics, and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:44.040",
+        "message": "Welcome to the scene and the unseen. My guests today are the Shah Rukh Khan of economics, the infamous Vivek Kaul, and the Shyam Benegal of economic policy, Ajay Shah. I call Ajay that after due thought, because Shyam Benegal's excellent artistic and aesthetic sense has as little of a reflection in Bollywood as Ajay's fantastic and clear ideas do in the world of actual policymaking. In both spheres, populism dominates. I had Ajay on the show a few weeks ago to discuss his masterful book, In Service of the Republic, co-written with Vijay Kelkar. Every patriotic Indian should read it. And indeed, every patriotic Indian should listen to this episode. But first, let's take a quick commercial break. If you're listening to the scene and the unseen, it means you like listening to audio and you're thirsty for knowledge. That being the case, I'd urge you to check out Storytel, the sponsors of this episode. Storytel is an audiobook platform that has a massive range of audiobooks from around the world. The international collection is stellar, but so is a local collection. They have a fantastic range of Marathi and Hindi audiobooks. What's more, I do a weekly podcast there called The Book Club with Amit Verma, in which I talk about one book every week, giving context, giving you a taste of it, and so on. Download that app and listen to my show. And as long as Storytel sponsors this show within this commercial itself, I will recommend an audiobook that I liked on that platform every week. My recommendation for this week is Fascism, a Warning by Madeleine Albright. This is a subject that is relevant today and a book you should listen to. That's all I'll say about it. Fascism by Madeleine Albright on Storytel. Download their app or visit Storytel.com. Remember it is Storytel with a single l, Storytel.com. Guys, welcome to the scene and the unseen."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:03:37.640",
+        "message": "Thanks so much."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:38.840",
+        "message": "Happy to be here. So Ajay, tell me a little bit about how your book has been doing in the last few weeks. Is it a load off your shoulders in the sense that now all of this knowledge, these ideas are actually out there in, you know, in a packaged form and is there a sense of relief?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:03:55.280",
+        "message": "Yeah, it felt great when the book was finished. This is going to sound cliched, but the reception of the book has just been a surprise to me. I thought that this was going to be some obscure geeky book with people like Vivek and you taking interest in it and just about nobody else. In fact, the book seems to have found a life of its own. In the first month after the release of the book, Kelkar and I got 60 speaking invitations and I just seem to be going around the world doing conversations, doing podcast episodes and so on about the book. And it's overwhelming how many people are finding the book to be exciting. I increasingly see bits of it creeping into the culture, which is the best thing imaginable. I was with Junaid Ahmed at a book conversation at the World Bank and he asked me, what's your highest dream for this book in five years? And I said, the highest dream is that these ideas should become commonplace and nobody should even remember they came from us. And bits of that are already visible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:04.680",
+        "message": "And how have people actually in the business of policymaking responded to it?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:08.000",
+        "message": "I think it's too far from practice. I think this is still at the thinking levels."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:11.960",
+        "message": "Do they read? That's a very good question. Do they read? And one question no one can ask you Vivek is, do you write?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:05:20.160",
+        "message": "Because you have written some 24 pieces since the budget came out three days ago. It feels like that. It's cliched. I wrote just five this time and one was actually in Hindi, which was sort of a summary of the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:31.640",
+        "message": "other four. So, you know, one criticism I, not of you, but in general of commentators and pundits that I read on Twitter is that after people stop criticizing the government, you know, they'll turn to the pundits because all the pundits will say the same old cliched things year after year that, oh, structural reforms are needed and no, these are just piecemeal solutions and blah, blah, blah. And after I read that tweet, I think Siddhanth made a tweet like that. And then I came across one of your pieces which spoke of structural fixes. Now, I mean, these are cliches because they're true and it is true that structural fixes are needed. But just as a writer, how do you get past the not just the fact that you're writing five pieces? How do you not repeat yourself? But how do you not stop repeating yourself year after year?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:06:15.040",
+        "message": "Because you're basically the same thing, right? I don't have a problem with repeating myself because a lot of people, you know, a lot of writers have this that if you're repeating yourself, it's not the right thing. But my point is, you know, if that's the right thing to say, then that's the right thing to say. I mean, if it's a repeat, it's a repeat. I mean, how does it matter? I mean, see, I have grown up on, you know, masala Hindi movies, they're basically the same, right? Two boys, one girl, three songs, father doesn't like the boy, boy is poor. But people used to enjoy, people watched it over and over again. What I'm trying to say is that when I do this, I'm not being mediocre. But that's what it is. One is when you want to say the right things and two is that there is only so much that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:58.800",
+        "message": "you can say against, you know, that is happening. Don't shoot the messenger, that's what the truth is, blame the truth, not the truth teller, as it were. So, you know, before we kind of start talking about this specific budget, what it did, and frankly, a lot of it is already feels a bit meh and blah and all of that. But before we kind of get down to the specifics, Ajay, I wanted to ask you, you've actually been an insider in all of this, you've been part of the process, the process of kind of making a budget and, you know, getting things out there, give me a little bit of insight onto that, like how do bureaucrats and politicians think about economic policy per se?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:07:37.080",
+        "message": "My knowledge is old, I left the Ministry of Finance in 2005. I was reasonably aware of how things worked in the 90s as well. So let me describe that world and it may or may not tally up with what is done today. So the way this used to work was like this, that there used to be something called a budget group in the Ministry of Finance, which consisted of the secretaries of the three departments, the Department of Economic Affairs, which does economic policy, the Department of Revenue, which used to do tax administration, and the Department of Expenditure, which is a bit of an accounting operation, which has oversight over the money flows into the departments. These three secretaries, along with the chief economic advisor, would sit with the finance minister every morning. So when I used to be in this, there used to be a budget group meeting every morning, and these four civil servants would sit with the finance minister, and they would debate every morning. Partly, they would debate from scratch, what is it that we would like to do? Partly, they would respond to the large number of notes and proposals and ideas and the impulses that were coming from outside. And day after day, over a two-month period, they would refine the concept of what we want to do this year, where we want to go this year. And that discussion led to these two critical documents that came out. The first was the budget packet, and the other is the economic survey. In the budget packet, it's partly a financial statement about how we propose to raise revenues and how we propose to spend that money. But alongside that is part A of the budget speech, which is a bit of a work plan statement. So it's a promise that over the next one year, these are all the things that various departments of government, all over government, not just the Ministry of Finance, will do. Why is this important? This is important for three reasons. The first is that the budget speech has a certain legal status as a cabinet resolution. So short of being a parliamentary law, it is a document to take seriously. Every word matters in an almost legalistic way. So it's a commitment device where various departments of government commit themselves that I'm going to do this. Second, in the same vein, because that budget speech is then backed up, was then backed up with a follow-up and a tracking mechanism through the year, that people all over government would be held accountable for delivery on the sentences in that budget speech. So this tracking mechanism was introduced, I think, at the time when Yashwant Sinha was minister, where every sentence in the budget speech is mapped to one responsible person somewhere in government. And there would be a process of building a spreadsheet through the year that was an MIS about the state of completion of what was done and what was not done. So again, I think that's why the words in the budget speech matter. It's not just a speech. It's a legalistic document where every word counts and the words are actions. They're not statements of aspiration. They're not vacuous phrases. They're actually supposed to be almost legal sentences that are actionable and that can be evaluated. Was it done? Was it not done? The third reason why part A of the budget speech matters, and it flows logically in the budget process, is that in those years, in the 90s and in the 2000s, the Department of Economic Affairs was the engine of economic reform, not just of the Ministry of Finance. The Department of Economic Affairs was the engine of economic reform, and it used budget-making power to negotiate reforms with other ministries. So as an example, the Ministry of Civil Aviation would ask for money to do ABC, and the DEA would say, yeah, we'll give you this money, but you've got to privatize the Bombay and Delhi airports. So this is how deals were made, that surrounding every year's budget process, there would be negotiations that are done for reforms in government more broadly. And that required that the DEA had to have an economics capability more broadly and be able to negotiate meaningfully with every single secretary in government. And then those promises would turn into sentences in the part A, where they become legalistic. It's not just an informal promise that some department makes, which they can later on renege on. Okay, so these are the three reasons why the budget is pretty important. It's a work plan for the year with some legal status behind it, with some negotiation that has led up to it. And it's the stuff that will get done at a high priority. Of course, other things can also be done. But this is like the minimum work plan of the year in terms of what government can do. And now let me describe the role of the Economic Survey. The Economic Survey is a document that's built by the team of economists in the Department of Economic Affairs led by the Chief Economic Advisor. It is not the policy statement of the government. It's a view of the world of the Chief Economic Advisor and the other economists in the Ministry of Finance. It mattered because the Chief Economic Advisor was a member of that budget group. And the Chief Economic Advisor was the intellectual in that group, who was a part of every single discussion that do you really think it's worth privatizing the Bombay and Delhi airport? What's your intellectual construct? What's your intellectual framework? How are we going to think about it? The CEA was present in every budget discussion. And by the way, in those years, the CEA would draft the budget speech. Because the CEA generally had the best writing capabilities compared to many of the career civil servants whose written English is often quite poor. So the CEA was the intellectual who cast a light of economics into every budget discussion. And also personally was the author of the budget speech, the quality of language, the coherence of the budget speech. You can see that richly say in the July 1991 budget speech, or what I experienced some of the budget speeches written by Rakesh Mohan, and so on. So that was the unique role of the CEA. Now, that's all the policy work of the CEA. But you and I as private citizens would find it interesting to read the Economic Survey because it gave a window into the intellectual framework of the CEA and of the economics team inside the Ministry of Finance. Not that they control economic policy, not that they make economic policy. But that they had a seat on the table in all the discussions and influenced the worldview and the philosophy of the Ministry of Finance. Because otherwise, the career civil servants tend to not have much of a worldview. They tend to do more expediency. This was the old arrangement. And so that was the significance of the part A of the budget speech and the Economic Survey and the budget process."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:44.520",
+        "message": "Now, a couple of thoughts kind of strike me here. I mean, a couple of questions. One is that, which you can answer in a yes or no right away, which is that structurally"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:14:54.040",
+        "message": "are things more or less the same? I think they've changed quite a bit. I'm not competent on how things work today."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:59.760",
+        "message": "And the other question is even assuming that there is a structure which is similar to this with little bits of change here and there. What strikes me is that the smooth functioning of this seems to depend on having, say, the right individual with the right impulses in the right places. For example, you talk about, you know, the third aspect of the budget that you pointed out that it became a tool for the Department of Economic Affairs to negotiate reforms with other departments. For example, civil aviation will give this budget if you privatize these airports. Now, that works both ways. For example, if you assume as in public choice, you'd assume that there's certainly a direction towards all ministries being captured by special interests. Now, if that is to be the case, and if that holds true of economic affairs as well, and you don't have a utopian situation of actually having someone there who is reform minded and thinks about policy the right way, then what you have is really a negotiation between special interests. And therefore, none of the reforms that we kind of speak out which are for the larger good ever really happen, because then you're just negotiating transactional stuff."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:05.580",
+        "message": "So I want to take you back into history. We had a terrible time in the 70s and the 80s, in terms of the working of institutions in India. And that gave us a balance of payments crisis, and an IMF program in 81 and 91. And after that, a larger consciousness developed in the Indian government process, that there is something special and important about the Ministry of Finance, about the Department of Economic Affairs. And there was a very self conscious attempt at building a certain kind of capability in the Department of Economic Affairs. I remember, there was a time when I was in the Department of Economic Affairs, where we were just playing games, sitting over chai and arguing about things. And we had the rough calculation with paper and pen, that if the economists in the Department of Economic Affairs stepped out and became a new academic economics department in the country, we would be the number one economics department in the country. That was the kind of firepower that had accumulated in the DEA in those years. So in similar fashion, I just want to talk about tax policy, where your question shines through very nicely. When you have tax policy that is being controlled by the Department of Revenue, then you have a real problem because the tax administrators will choose tax policy that is convenient for themselves. And one of the historic achievements of the 91 onwards period is that the primacy in tax policy shifted from the Department of Revenue to the Department of Economic Affairs. Elsewhere in the world, this is done explicitly, that in places like the UK and the US, there is no role for tax administrators in determining tax policy. We didn't do that institutionally in India, but de facto, that's what happened in India also starting from the 91 reforms, that we got great progress in tax policy. You may recall, we started out with a big marginal income tax rate, like 98%. We had a wealth tax. We had all sorts of craziness going on in tax policy, when tax policy was dominated by the tax administrators. And from 91 onwards, the primacy of tax policy moved out to DEA. And somewhere in the last 15 years, tax policy went back to the Department of Revenue. And that's part of a lot of the troubles that we've been having in terms of the conduct of how India thinks about taxes. So this is an example of the role of an economics team in DEA to think about taxes as opposed to letting it be controlled by the tax administrators."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:54.720",
+        "message": "And would it be correct to say, like, I tend to be skeptical about the drift of government towards being captured. And would it be correct to say that, okay, 91, we were lucky that we had that crisis. And all the reforms that happened, happened not just in terms of policy, but in terms of actually getting people in department who had a strategic vision, who looked at the bigger picture and got this stuff through. But what appears to have happened since then, and even though you haven't been in the ministry, you've been close enough to comment on it. And what appears to have happened is a drift back to the old kind of system where your chief economic advisor is not necessarily any more an academic who is, you know, the big alpha in the room respected by everyone, a person with a vision. But perhaps like in this case, frankly, I must say to political crony who is there because he wrote columns in support of demonetization, which not many respectable economists would do. And I won't ask you to comment on that. And again, like you pointed out, tax policy going back into the hands of tax administration. So two questions, is this sort of some kind of cyclical thing which can be reversed or is it necessarily as I would skeptically say, that the tendency of government to be captured"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:20:01.400",
+        "message": "power and money, the interplay. So I want to again, locate this in our historical experience, as Kelkar emphasizes, at the time of the 1991 reforms, there was actually remarkable capabilities in the community. There were people in many parts of government. There was a very strong academic community, which had understood that the old Indian socialism was broken, which had thought hard about the kinds of changes that we might like to see. And then in that context, when the crisis came, there was a capability in doing something differently. And as you know, in the book, we actually belabor this point that don't overstate the extent to which a crisis will give us the requisite changes. Pakistan has had 14 IMF programs and never bootstrapped itself out of a low level equilibrium. So I would emphasize some very high minded people who took away the lessons of the 81 and the 91 IMF programs and the balance of payments crisis, who thought about how to do things differently. And who took one key lesson away that you need to build intellectual and professional capability in the Ministry of Finance in the Department of Economic Affairs. For example, there was a break in convention when Monte Carlo Alia became the finance secretary, who was the first amongst equals, even though he was not the most senior of the secretaries, but that's the right way to do it. It is only the secretary, Department of Economic Affairs, who has the full picture, who should be the finance secretary. And these are not things that can be easily messed with and you are able to then maintain performance. So I think that we need to introspect a lot more about these institutional foundations of good economic policy."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:21:52.480",
+        "message": "What I wanted to ask you, Ajay, is that, you know, we have this funny thing, you have one guy who's finance secretary one day, and then becomes tourism secretary the next day. So how do you get, you know, we live in the era of specialization. So how is this some sort of a joke or?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:22:10.960",
+        "message": "Well, the best civil servants are good managers, they will reply that is Steve Jobs an engineer? Is Tim Cook an engineer? So I think that the truth is halfway, that you do need leadership skills. Leadership is a very human capability. It's about a certain kind of charisma, it's about handling people, it's about pulling technical teams together of geeks, and being able to get work out of many, many geeks. It's about communications capabilities, it's about good human capabilities of being well liked by people below and above you. So I will give that to the leader. But it's also about understanding, right? So you do need a body of knowledge, and it does need a certain kind of capability. So I'm not one of those who will argue that you always need to be a professional economist to be a good secretary DEA. But I will also say that you do what in government is called 10-20 years in finance. So you know, look, an ideal person will have spent 5-10 years in a finance department in Tamil Nadu, will have spent some time at the IMF, will have grown up the hierarchy inside the Ministry of Finance, will have gone a little bit distance away, Economic Advisory Council to the Prime Minister, you know, and then developed 10-20-30 years of job relevant experience, which is the ideal preparation to do DEA. And that used to be the way things were done in the past, and it's less so today."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:41.240",
+        "message": "I mean, to add a little bit to the point that Vivek was making, the fundamental difference it seems to me between, say, Steve Jobs and a bureaucrat is the incentives at play, that, you know, you only rise in the private sector if you perform, you know, we think of Steve Jobs because of the survivorship bias, he's a guy who happened to perform at that insane level and got up there. And it is relevant what he was trained in, he was very good at what he did. And there was a way of measuring that, which is something that the market did."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:24:06.920",
+        "message": "To be fair, Steve Jobs had the genius for asking a question, let's build something like an iPod, or an iPad. But he didn't really know anything about how to do it. That's a distinction I want to make."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:17.160",
+        "message": "Exactly. But I'm saying that genius gets rewarded in the free market, in government, basically where you rank in the IAS exam, which you, the civil, the UPSC exam, which you give when you're 20-21 will determine promotions for the rest of your career. So, you know, if you were going to judge, say, Steve Jobs on what he was doing at 21,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:24:36.600",
+        "message": "you know, he probably... But I think Ajay answered my question. I mean, what I was basically trying to say is that, I mean, I was also not even for a moment suggesting that the head of DEA should be an economist, but there has to be some experience along the way. But you know, so I find it very funny that, so Arvind Mayaram, excellent example, was the finance secretary, and then they made him the tourism secretary. Now tourism in itself is a very, very specialized area. So is finance. So, I find that a little, you know, difficult to handle. Because I mean, the same thing happened with Subhash Chandragaru, you know, he was finance secretary, and then he was made power secretary, the power in, you know, the kind of regulations and everything that are there in India. It is a, it's a minefield in itself."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:25:18.880",
+        "message": "Exactly. So Vivek, on the way in, on the people who rise into the DEA, some of the most important stints that they do are at a much younger level, when they are a director level officer, when they're a joint secretary, if they've done time inside the DEA, that really helps. So DEA is actually the ground in which we grow the future leadership cadre for economic policy. Or again, that is the way things were done many, many years ago."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:44.400",
+        "message": "But I mean, what role do political incentives play, for example, in the last episode, you did point out that it is in one sense, to the interest of a party to actually, you know, have a shadow cabinet and have competent people running their economic policy. And when they come to government, you know, start implementing that while you have your five year term ahead of you, which seems to make sense. You know, if all that was there in politics was you come to power, you govern well, and on the basis of the governance, you get elected again. But that's not exactly how the chain is. For example, if you look at the current party in power, you don't have that situation where they seem to value that kind of governance and building that kind of competence. I mean, if you, you know, they started with a bunch of pretty remarkable economists in their team, so to say with Raghuram Rajan and Subramanian and all of that, and they all kind of left and, you know, even those who have remained, I think, have, to some extent, debased themselves by supporting things like demonetization and defending the monstrosity that the GST has become. Is the politics in part responsible for the degradation of the process like you've kind of described? I mean, the process has degraded, you would accept."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:54.320",
+        "message": "Vivek, if I may, again, I think I'm halfway to, again, make an analogy with corporations. In Hindustan Lever, you will want a phenomenal capability in branding and in marketing and in distribution. Okay, but all the branding and the marketing and the distribution is not a substitute for actually the R&D that develops good products, and the manufacturing and the supply chain management that delivers the products all over the country. So I think it's not either or, it's both. Now, my opinion is that the politicians of that period took away a lesson from the balance of payments crisis of 81 and of 91, saying that this is too costly for us. So let's build an intellectual capability in economic policy, and then we'll, of course, go on and do our politics. So all of us know the history of that period. It's not as if post-91 politics was characterized by consistent greatness, they were not paragons of excellence. It was a practical and logical thing to do. So I think that the Indian political system has to ask itself, what are the costs and benefits of greater intellectual capacity in the economic policy process? We've seen various kinds of experiments of doing it more and doing it less, and let history judge what is the most useful thing to do, and whether there is a causal connection between the kind of Department of Economic Affairs that you build and the kind of long-term growth outcomes that you get. The links are not there in the short term. In the short term, it will always appear that there are no consequences to diminishing the institutional capacity of the DEA and of the other economic policy institutional apparatus. But is there a link in the medium term? Is there a link in the long term? I believe the answer is yes. And it is for the people in politics to debate whether those kinds of time horizons and those considerations of performance are salient when thinking about their own optimization."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:01.160",
+        "message": "No, that's fair enough. And that's again a problem we again, I won't go over at ground again, we discussed it in the episode we did where the issue is that a politician always has a very short time horizon in front of him. The next election is not even five years away, it's all the time because state elections keep happening all the time. And if you are asked to build capacity or do things that will pay off in the extreme long term, what are the sort of incentives there? But leaving that aside, Vivek, if I may turn to you, one of Ajay's colleagues at NIPFP, a former colleague, Suyash Rai, who is now at Carnegie India, wrote this piece where he said that this budget is more tactics and strategy. And do you think that that is a case that there is the absence of somebody sitting in making an overall plan? Because at one level, you could say that a lot of it is piecemeal announcements, yeh karenge, woh karenge, and possibly the result of sort of different silos within the government demanding this or demanding that. And there's no overall broader vision."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:02.400",
+        "message": "Is that a sense you're getting? I haven't read Suyash's piece, so I don't know. But what I can, I mean, I can, I'll give you an example here. So, in this year's economic survey, and also in the speech, in Finance Minister's speech, was a mention of the fact that we need to become a part of global supply chains, okay. So, exports over the last, let's say, 20 years have happened if you are a part of global supply chain. I mean, like, take the example of China, right. In fact, the best example is that of the iPhone. So, everything that goes into the iPhone is made in different parts of the world, and then it gets assembled in China, right. So, in that sense, China is a part of a global value chain. Now, it may obviously be that assembling is the probably the lowest part of the value chain, but it helps because it is a labor intensive industry, right. Years later, we have started to talk about it. Now, at the same time, there has been a rise in protectionism. In fact, Arun Jaitley, in the last budget speech that he made, said very, very clearly that, you know, we are going against what has been policy for the last 20-25 years. So, now, the moment you start, you know, going towards protectionism, you're obviously, you know, allowing the local guy not to compete. And if you can't compete, you know, how do you become a part of the global supply chain? So, there is an inherent contradiction. At one part, you're talking about the fact that we need to export more, become a, you know, part of a global supply chain, and so on and so forth. And on the other part, you're increasing custom duties on products. So, something as simple as I was talking to, you know, some random guy, and he was telling me about something as simple as porcelain plates, right. Now, a lot of hotels, you know, they imported from China simply because we don't make those plates in India. We don't make plates which are good enough in India. So, like, something like, you know, a big hotel would require a plate which can be loaded onto a dishwasher. So, that kind of product is not available in India. Now, the moment you increase the customs duty on that, you're essentially making his life difficult. So, it's not, so, see, I find it very difficult when, you know, when people say, Chinese product. But the point is, at the end of the day, no one is forcing an average Indian to buy a Chinese product, right. We buy Chinese products, knowingly, if, I mean, a lot of people buy unknowingly as well. But if you're buying a Chinese product knowingly, you're doing it because you feel that the product has more value for money. So, the moment, you know, you start talking about protectionism, you're essentially going against the average consumer. And you know, I mean, this is something you and I have discussed over and over again, that when you sort of increase protectionism, the scene effect is that someone benefits. But there are a whole lot of unseen effects as well. Well, let's say, you know, the Chinese mobile phone companies operating in India, there are a lot of custom duties are put, and then Chinese mobile phones become expensive, and then people start buying mobile phones made in India, okay. So automatically, that mobile phone being made in India will be expensive than what is the Chinese mobile phone. So everyone has a sort of a consumption basket, right, I mean, we will not suddenly start to make more money. So, if you're spending more money on a particular product, we'll obviously cut it down on something else. So, it may benefit a particular sector and a particular product, but it hurts the overall"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:37.240",
+        "message": "economy. No, in fact, before I come to Ajay, I'll kind of sum up with the two broad unseen effects of protectionism seem to be. One of course, is that if I am paying, because of tariffs on foreign products, let's say a foreign Chinese widget was available for 20 rupees, I instead, you know, there's a tariff on that, so I have to buy the Indian product for 25. The unseen effect is a five bucks, which I don't have to spend on something else, which would otherwise have gone into the economy and generated jobs and generated productivity. And the second unseen effect is also that the Indian firms aren't being forced to compete. And therefore, like, you know, if those tariffs were not there, the Indian firms would also have to lift their game to be able to provide enough value for money to sell at 20 or whatever they have to match and their standard, their quality would go up and the good guys would survive. And that would, in fact, then lift them to do better in the exports market."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:34:28.920",
+        "message": "And I just add one point. So, you know, when I was growing up as a kid, during Holi, the water pistols that used to be available, and if you compare those water pistols with the kind of Chinese made water pistols that come, I mean, the difference is huge that the product available now is so much better than the rubbish that used to be sold back then. So, ultimately, the benefit is for the consumer, obviously, the producer of those, you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:54.080",
+        "message": "the water pistol, the pichkari has lost out, because he couldn't compete. I'm utterly amazed at your recent scrutiny of water pistols, it seems to be the case. Why are you examining water pistols?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:05.160",
+        "message": "I'm not, I'm just telling you something."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:08.440",
+        "message": "I second that. I second that. When I first went to America, this was one of the things that struck me, the water guns"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:35:14.160",
+        "message": "were so great."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:15.160",
+        "message": "I love those water guns, and today those lovely water guns are ubiquitous in India, there's no fuss anymore."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:20.800",
+        "message": "Whereas in the olden days, the water guns in India were just bad. To come back to the strategy versus tactics kind of thing, you know, you've written recently that and I think it's in your book also, I don't remember if it's in your book, but you've written about it recently, how in the 2000s, Vijay Kelkar and Rakesh Mohan rallied the Ministry of Finance around the slogan, every time we cut tariffs, our exports go up, stop quote, right, which is one of the unseen effects that and which is very counterintuitive to people that if you cut tariffs, you will have imports coming in, why should exports go up, but they force your local guys to be competitive, and so on and so forth. And a lot of that thinking had come because like you pointed out over the decades from the 80s onwards, that intellectual capacity had built up and you actually had people like that in positions of power. And a lot of those insights are counterintuitive. So you do need people with specific learning and insights. You can't, you know, just sort of, and today, it seems that we are, you know, a lot of those lessons have sort of been reversed in the sort of a lot of measures that these guys carry out seem populist, and they're intuitive, and they seem to make sense. But if you understand economics, you know that they have the opposite effect."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:36:29.600",
+        "message": "Similarly, I want to call out Arvind Veermani, who used to have a missionary zeal around one proposition. Okay, and it seems a little counterintuitive, but it's worth recounting. He used to emphasize how important it is that if you're going to have a customs tariff, just have a single uniform rate, don't have the slightest variation in rates, okay, because there are huge effective protection rates that can come about from very modest differences in duties. Like if you have a 10% duty on crude oil and a 20% duty on petroleum products, it works out that you're actually giving a gigantic effective protection to refineries, and so on. So, I think many of those people used to appear semi-unhinged when they went around selling the larger community on each of these propositions, and I think that's the kind of passion that it takes. It takes that certain kind of passion to just get fixated by an idea and to talk about it, to woo people, to persuade people, and over some years, the giant processes of public policy start moving in that direction, and we started getting some unification of rates and the reduction of rate dispersion came into the policy agenda. This stuff is not easy, and it takes a mixture of deep intellectual insights and a certain selfless willingness to not earn political capital in all transactions."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:37:56.160",
+        "message": "I mean, the ability to sell economics is not easy. So, you need to have that deep understanding so that you can explain things in a very simple"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:06.240",
+        "message": "way. This is why we call you the Shah Rukh Khan of economics. I mean, I don't do policy. So, yeah, that's very true. So, you know, I mean, there are essentially sort of two kinds of things that, you know, we discussed before the show that we'll talk about on the show. One is a meta level of thinking about the budget and so on and so forth, the strategy as it were. The other is sort of the level of tactics ki yeh galat kya, wo galat kya, yeh galat kya, you know, and Vivek has written more about the latter recently in the around 43 pieces he's written since the budget came out. And you Ajay have written, you know, an excellent piece in Business Standard, which will be linked from the show notes, though, you know, there's a paywall, but we link it anyway for, you know, and encourage people to subscribe. And I'll quote a line from that and ask you to elaborate on that, which is you basically said, quote, the budget speech has done well to avoid the calls for a large fiscal expansion and propping up GDP growth, turning around economic conditions requires greater strategic thinking about the relationship between the state and the individual and addressing the unease of private persons that has manifested itself in private investment, stop quote, which goes a little bit against, you know, a lot of what the commentary art has been saying before the budget is that we need fiscal expansion that we need to somehow boost consumption and blah, blah, blah. And you've said that no, our problem is more fundamental."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:39:25.960",
+        "message": "So can you elaborate on that? So I'm going to hand wave around some magnitudes. These are all complicated estimates, and I'm happy to waste a half day on estimation. But right now, please take my word for it on certain broad numbers. My podcast often lasts a half day, but nevermind. At its peak in about 2007-8, private corporate gross fixed capital formation, which is buzzwords for investment, was about 16% of GDP. And there's been a decline of about 10 percentage points of GDP. So the first big ballpark figure to keep in mind is that the decline in private corporate investment works out to about 10% of GDP. 10% of GDP is a gigantic number. It's a very, very large number. So you could say, we've got a demand shortfall. Let's go overcome that. So in some sense, you'd need to do 10% of GDP more by way of government spending as compared to where we were in 2007-8. Now is that even feasible? Do we have that kind of fiscal capacity? Do we have that fiscal headroom? The next ballpark number is that the true state of the union government's fiscal deficit is presently about 6%. And under any reasonable conduct of fiscal policy institutions, it is unreasonable to think of anything more than 1% or at most 2% of a move in a year. So note that the fiscal stimulus, many people are a little confused on this. The fiscal stimulus, when you go from a 6% deficit to an 8% deficit, is 2%. It's not like you are adding 8% to demand when you go from 6 to 8. You're adding 2% to demand when you go from 6 to 8%. So it seems to me that these magnitudes are far apart. And in fact, I also worry that we will be in a difficult fiscal state if we actually go from a 6% deficit to an 8% deficit. So I was pleased that the budget does not do such a thing. I think that they've broadly retained the status quo of perhaps being about 6%. I don't yet know a good analysis of this year's numbers, but perhaps it will be about 6%. It seems to be something similar to what was done last year. And then that takes you to the problem that what is this demand shortfall in the economy and how could you change something? And I'd say go to the root cause. The root cause is that private persons have pulled back from investing. We've gone from 16% to 6%. We've got to go into the heads of those private people and wonder why. So what has changed the optimism, the confidence, the trust of private persons in building businesses in India, in investing in India, in committing financial capital in India? And that takes you to the relationship between the state and the citizenry. That do we have the rule of law environment, do we have a government which can be trusted? Is there too much business model risk because of a government that interferes without warning in the working of my business? Is there too much legal and regulatory risk when you have CBI, SEBI, income tax, SFIO, ED, dot, dot, dot, prowling at your door? Okay. These are the kinds of questions to ask. And as you know, Kelkar and I have written a book on these themes of doing a first principles understanding of what is appropriate relationship between the government and the resident, and what is going wrong in India about that relationship and how we need to change that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:10.920",
+        "message": "Yeah. And what also strikes me Ajay, that when you speak about private people feeling confidence in the rule of law and in the structure of the state and so on, and it feels to me that's also affected because of, you know, I think since 2011, and certainly more recently, what people call tax terrorism has just gone up massively. And that's been exacerbated by the pressure on the government to increase tax revenues, because tax revenues, every year, you know, simply don't meet what the expectations of the government, and that relationship just gets worse and worse. And, you know, another very interesting stat, which I pointed out in your book is the massive flight of millionaires over the last few years from the country, and, you know, which is indicative of larger problem. You can't just say, oh, a few elite, rich riches are leaving the country, let it be, but they are leaving for a reason. And that's where the job creation and the entrepreneurship and the drive comes from. And, you know, that's something that we should worry about. And, you know, is any cognizance of all of this, that how do you build confidence in people?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:44:09.960",
+        "message": "Well, so this is the frontiers of the Indian economic policy debate. As you said, many people are thinking around small practical things, like let's raise the deficit a bit, or let's raise some customs duties a bit, and let's solve the problem of the NBFC sector. It's no longer a problem that can be addressed in those small ways. I think it requires going back to the foundation. In the firm data, there is a very interesting story about smaller problems versus larger problems. In 2013, 14, 14, 15, 15, 16, you see what is called a normal credit profile, that the firms with high credit risk have pulled back on investment, but the firms with low credit risk continue to invest significantly. But from 2017, 18 onwards, you see weak investment by all kinds of firms, whether firm is credit stressed or not credit stressed, investment has pulled back. So why did it change for the latter category? I think in that early period, we were in the early stages of the balance sheet crisis, and there was still optimism about how the overall Indian growth story would work out. But some firms were credit constrained. The lenders were unwilling to commit to those firms, while other firms were able to continue to invest. So that is where we got what I would call a normal credit profile, that there was good investment by the healthy firms, and there was a crimping of investment by the firms with high credit risk. But in the more recent years, starting from, I seem to remember 2016, 17 or 2017, 18, the profile is gone. So in all parts of the firm universe, you tend to see weak investment, and it's no longer become very credit sensitive. So that is saying something else, even firms who have operating cash are reluctant to invest. And so that's why you've got to go deeper. It's not just a matter of rescuing the financial system. It was at that time, in 2013, 14, in 2014, 15, the highest priority for policymakers should have been to undertake the financial reforms and fix the foundations of the financial system. But that opportunity was lost. Today, of course, we should fix the financial system, we should make the financial system work better. But today, it's become a bigger and different problem compared to where we were in 2013, 14, 2014, 15."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:36.240",
+        "message": "So I'll ask you to elaborate on that a little bit, and digress a bit from the budget itself and the budget making process itself, where you or Josh Feldman, I don't know which of you and I met you once at one of our weekend reading groups, pointed out, use the analogy of how our credit crisis is like a cancer in our economy. It's a root cause, which, you know, is making a lot of the rest of the economy very, very sick. Is there an understanding of this within the economic policymakers today? Is there anything in what they are doing, including in this budget that sort of addresses that or does that cancer continue to fester? And what exactly is that cancer?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:47:16.360",
+        "message": "The cancer lies in the fact that perhaps half of the banking and NBFC balance sheet is distressed. Perhaps there are bad assets on the LIC balance sheet. And LIC is the biggest financial firm in the country today. And the managers inside these firms know that their firms are not in good shape. And that leads to risk aversion, that leads to caution. So that's the heart and soul of the cancer. That cancer was, of course, created and aided and enabled by the financial regulators, who created rules that made it possible for the financial firms to not recognize these problems. So the regulators supported the firms in kicking the can down the road, hoping that there will be some thing that will happen in the future whereby the problem will magically go away. And of course, these things don't go away by themselves. So I feel we're still stuck in a difficult and challenging balance sheet. But I will emphasize that in the 2016-17 and 2017-18 data, it's surprising how you do not find a clear linkage between firm credit stress and firm investment. So something bigger is afoot."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:48:32.480",
+        "message": "In fact, this is something that Mahesh Vyas has also been writing about over and over again. So I would just like to add, you know, about the regulator point. And it's very interesting. So I've just finished writing this, you know, book on the banking crisis. But from whatever I sort of researched, I think the thinking was that as we go along, the economy will recover, the loan book will grow, and the bad loans will become a very small proportion of the overall loans. Now, there are fundamental mistakes here. Obviously, one was the assumption that the economy will go back to growing at 9% and all which did not happen. The second mistake that I guess, was the fact that they hope that they would be able to control the total amount of bad loans, which also did not happen. I mean, they kept rising till 2018-19. Now they are falling because they're being written off. It's not like, you know, they're able to reclaim the bad loans, actually."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:37.840",
+        "message": "So yeah, and there are some figures I can't kind of get around, like in one of your pieces, you mentioned that the amount it's allocated towards recapitalizing is 2 lakh rupees."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:49:49.200",
+        "message": "But then see what also happens is, so this is very funny, okay. And this happened in the interim budget that Piyush Goyal presented last year. The allocation towards recapitalizing public sector banks was rupees 2 lakh. And this year also, it's rupees 2 lakh. Now, the thing here is that obviously, because we're working through recapitalization bonds, so this is in a way budget neutral. So essentially, what happens is that the government issues special bonds, the banks buy these bonds, and then the government takes that money to reinvest in the bank itself. So to that extent, it does not add to the budget, to the fiscal deficit immediately, though over a period of time it does because the government has to pay interest on these bonds. And finally, you know, they need to repay it as well. So obviously, the public debt goes up. But the point is that when public sector banks have bad loans worth 7,80,000 crore, there has to be, you know, some sort of investment that has to be made into them. And I guess the assumption this time around is that we've sort of the banks have recovered or probably they want to sell these banks, so which is not very clear. I mean, the only thing that she said very clearly was, the government will sell the remaining stake in IDBI to investors."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:03.800",
+        "message": "This was what was said very, very clearly. How would public sector banks be recapitalized, Ajay, like, how does one deal with this problem? Because a lot of it to me seems like throwing good money after bad."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:51:14.800",
+        "message": "It's a tough problem. I remember when Yashwant Sinha was planning that we should reduce the government ownership in public sector banks from 51% to 33%. He got quite some pushback, not from the left of center parties, but from within the BJP. It was BJP MPs who were uncomfortable about the idea. I think we need a lot more high quality discourse in the country around the meaning of public money. More people need to worry that every one rupee of government expenditure comes at an opportunity cost of three rupees of GDP. More people need to worry that for every 10,000 crore rupees, I can build 1,000 crore of expressway. And is that a better use of money than recapitalizing banks? So I feel we need to think more about what we do with public money. If we could be more frugal in our use of public money, I feel the best of all worlds is to privatize the public sector banks. Maybe a government might like to hang on to an SBI for some government type functions, but for the others, it seems feasible that each of them should be put through a big good bank, bad bank operation. And then the good bank is sold to a private person and the bad bank is liquidated by the government as was done with UTI. And I think that will be the best of all worlds. I would say in passing that if that is your long range strategy, then it was not very useful to do these mergers of PSU banks, because it's much better to sell smaller banks. The better off selling a bank with a 50,000 crore balance sheet or a 1 lakh crore balance sheet, rather than trying to deal with 2 lakh crore, 3 lakh crore of balance sheet. So this is where a little bit of strategic thinking would have been useful that what's our long run game plan? Are we going to have public sector banks forever? Are we going to privatize public sector banks? If our long game was that we're going to privatize public sector banks, and we should have never"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:29.600",
+        "message": "done these mergers. Is it a long game? I mean, I'm not saying do you agree with the long game or not? But do these people have any long game thinking at all? Or is it sort of all very ad hoc?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:53:39.080",
+        "message": "My understanding is that the current mainstream view of the long game is that there is no problem and that incremental fixes will suffice. But public sector banks did badly because of a few corrupt individuals and industrialists. And we will appoint better people and the problems will end. This is the mainstream view. And I happen to disagree. But this is my reading of where the mainstream stands."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:05.840",
+        "message": "And it's a classic fallacy."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:54:06.840",
+        "message": "Yeah, I mean, this is totally true. And I'll sort of admit something here. Five, six years back, I was also of the view that you know, all these cronies have sort of taken our money and all that from public sector banks. But you know, having sort of written a longish document on it now and research the topic a little better, I think obviously there are crony capitalists involved. I mean, you can't deny that. But that was not the only reason. I mean, there were a lot of businesses just simply went overboard borrowing as well. Having said that, you know, this is where it gets very interesting. A lot of people, and this includes our policymakers, and I'll give an example here, believe, continue to believe that public sector banks are the ones driving banking in this country, which is absolute rubbish. So if you look at this year's economic survey, the economic survey quotes that public sector banks have 70% market share in Indian banking, which is rubbish of the highest order. Because if you look at RBI data, as of September 30, public sector banks have 58% of the credit and 62% of the deposits. And this has been falling from the last five years, six years. The deposits had peaked at around 75%, and the credit had peaked at around 72, 71%. From that 72%, it's already fallen to 58. What does this mean? This essentially means that even though the government doesn't want to privatize these banks, the banking sector is getting privatized on its own. And a lot of these private banks are now attacking public sector banks directly. You know, they go around, they go to depositors' homes, get their deposits transferred. So all that is happening. I mean, imagine the economic survey making a mistake as drastic as this, wherein the share has fallen from 72 to 58%. And you are still stuck at 70%. I mean, 58% can be rounded off to 60%, it can be rounded off to 70%. So in their heads, they're still, you know, ki bhai SBI hai aur, but then that's not true. And you know, what is also happening is that the younger Indian does not want to deal with these older banks. I mean, when was the last time you heard, you know, a 30-year-old or a 25-year-old actually went to a bank? I mean, they like to do their banking online. And the online banking systems of private banks are much, much better than some of these public sector banks."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:56:30.640",
+        "message": "So... So Vivek, I agree with you. And I make an analogy with MTNL and BSNL. You've privatized BSNL, great. The government did not privatize MTNL and BSNL. But by and large, it's irrelevant, because the business of telecom is gone, turned into a private sector character. And the resources are increasingly controlled by private persons. And you know, we are today surrounded by firms like Jio and Airtel and ACT and so on. And these are the telecom firms of India today. So in similar fashion, that is a transformation happening in banking. Or Air India for that matter. But I do want to call an alarm on the distinction between airlines and telecom versus banking. That in telecom or in airlines, we don't really mourn the transformation away from Air India in favor of, you know, I was about to say jet airways, which we had in the episode. But in the case of banking, there is a fundamental problem, which is that there is an old saying amongst economists, the one thing worse than a public sector bank is a badly regulated private sector bank. So when the regulatory capacity is weak, private bankers will be rapacious and extract the maximal personal benefits that they can out of every glitch in the regulations. So if one could strategize this correctly, the right sequencing in which to do this is to first undertake the required RBI reforms to build capability at RBI. Because ultimately, RBI was the one on the watch as the entire banking difficulty unfolded over the last... Slipped on the watch. Yeah. And so we do need to recognize that there were failures of concepts and principles and intellectual frameworks and regulations and of course, the implementation of those regulations. And we need to fix that before we confront large complex private banks who will be hard driving in achieving million dollar bonuses for individuals inside those banks."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:40.520",
+        "message": "In fact, talking about RBI and bad loans. So after Governor Subbarao retired, he wrote this lovely little book on central banking. And the interesting thing is that the term NPAs or bad loans aren't even used once in the entire book. And he was the governor from 2008 to 2013. And most of the crisis unfolded between, I would say, 2010, 11, 12, and 13. So that tells you as to where the attention, the focus of RBI was during those years. I mean, I can understand 2008, 2009, given the financial crisis and everything else. But for the remaining four years, when the crisis unfolded, there had to be something that would have happened at the bank."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:24.120",
+        "message": "So clearly... So, before we go in for a commercial break, three quick responses to what you guys just said and I think it's perhaps a subject for another episode on regulation and why banking is so different. I mean, my tendency to view markets is that I think competition is the best regulation that you need the state to provide a firm rule of law. But beyond that, any regulation will tend or even the custom of being able to regulate will support some interest group that the benefit of the other competition is always the best regulator. So if you can ensure easy entry and competition, that takes care of a lot of those problems. And I know you'll have, you know, certain caveats to that and we can discuss that some other day. Secondly, I like the way Vivek that you characterized the privatization of banking where you're saying that even if public sector banks aren't being privatized, banking itself is. And the analogy you do of, you know, telecom and airlines is to me very accurate. That's what I always say that if you know, I remember how they were government monopolies in the 80s, and you had to wait five years to get a phone and blah, blah, blah."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:00:25.520",
+        "message": "And I'll give you an example here. So I still remember 1987-88, my father, who was a public sector employee, we took an LTC. And it was the first time I think he was entitled for air travel. And we went to Srinagar, which was hometown and we came back. The total money we paid in Indian Airlines back then, from what he told me, and I remember was 75,000 rupees back in the mid 80s. 75,000 bucks, I mean, obviously, he didn't pay it, the company did. But imagine, I mean, from that, I mean, even now, it would probably be the same amount"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:02.640",
+        "message": "for four people. Exactly. And if you just allow private participation in a lot of these areas, you'll soon find that government participation will become redundant. And the government should. And before we go into a break, the final point is, you know, I just wanted to point out the fallacy that you pointed out in this case, that people think that, oh, if we just put the right individuals in charge, it's okay, things will become better. It's a question of having good people running these things is a classic fallacy, which has ailed not just economic policy thinking, but also politics in India, where what really matters is you have institutions, you have good rules of the game in terms of the Constitution, and so on, which have good restraints on power. And what I keep saying is that you should have a system whereby even if the most murderous sociopath rises to power, he can't do much damage because of the way the rules of the game are. And we think too little in terms of institutions and too much in terms of individuals on which note we can go into a break."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:01:58.960",
+        "message": "Okay, I just want to take one of Ajay's points forward. So you know, so on this thing of privatizing public sector banks, I don't what I don't get is, I mean, I can understand you want to hang on to an SBI or a Bank of Baroda or a Punjab National Bank or a Canara Bank. What I don't get is why do you want to hang on to an Indian Overseas Bank, a Yuko Bank, a United Bank, a Central Bank, a Bank of Maharashtra for that matter, a Punjab and Sindh Bank. So if you look at their, you know, the books of these banks, most of them are like riddled with bad loans. But even that apart, the total amount of credit or loans that they've given out are miniscule in proportion to the overall size of banking in India. So forget, I mean, I mean, we can sell them if there are buyers, but if there are no buyers, you can simply shut them down. I mean, even that is a solution because that's going to sort of, you know, benefit the economy quite a lot. So it's just about so it's just, you know, at the end of the day, it's nuisance value because there are people working there and a few lakh, I mean, the interesting thing is there's a data point in this time the economic survey, which gives you that the total number of employees in public sector banks in India are less than 9 lakh. So if you take these smaller banks, the total number of employees would at best be one and a half, one, one and a half. So for one, one and a half lakh people in a population of 130 crore, why do you have to take a bad solution?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:22.400",
+        "message": "I mean, take the good solution and implement it. And what you see is the benefit of the status quo on these 9 lakh people, which is a concentrated but not the diffuse costs on all the rest of us."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:03:33.200",
+        "message": "Not just of... Because the rest of us don't realize."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:35.200",
+        "message": "The rest of us don't realize because we should, we all need a break. The citizens of this nation need a break. So we'll take a quick commercial break and then all the citizens of the nation can continue listening to the scene and the unseen. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to indiancolors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into products of everyday use. These include wearable art like stoles and dresses for women and evening shirts for men. Home decor like wall plates, cushion covers and table linen and accessories like tote bags and pencil pouches. This allows art lovers to actually get fine art into their homes at an accessible price and artists get royalties on sales, just like authors do. Their artists include luminaries like Dhruvi Acharya, Jaideep Mehrotra, Madhuri Kathe, Sameer Mondal, Brinda Miller, Tanmay Samanta, TM Aziz and Manisha Gehra Baswani. They accept bulk orders for corporate and festival gifting. But even if you want to buy just for yourself or a friend, head on over to indiancolors.com. That's colors with an OU. And if you want a 15% discount, apply the code unseen, U-N-S-E-E-N. That's unseen for 15% off at indiancolors.com. Welcome back to the scene and the unseen. I'm chatting with Ajay Shah and Vivek Kaul, Shah Rukh Khan and Shyam Banegal about cinema respectively. Vivek is looking most upset at that. Why should you be upset? He should be upset. You're Shah Rukh Khan. No, I'm not. You're not. I just want to kind of sort of get back to the budget and you know, to carry on from what I was sort of the note I ended on just before the break is that and a point that you have also made very eloquently many times Ajay that you know, the problem is not that we no longer have good individuals who are sort of making the right decisions. You know, there are individuals in of the 90s in the early 2000s, who are now semi legends within the community like Mr. Kilker, Rakesh Mohan and so on. And they're not there. But that's not the problem as far as I can see it. The way it seems to me is that the problem rather is that somewhere the incentives have gone wrong, that somewhere, the individuals who are there are not thinking like that, because there is no need to because the pulls and pressures on them are very different. So how would like leaving I don't want you to comment on the specific dispensation right now leave that aside that is for enters like me, but just at a structural level, how would you reform the system? So you have the right kind of thinking emerges."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:06:14.640",
+        "message": "You're squarely on track that we should not personalize these discussions. As Charles de Gaulle said, the graveyards are filled with indispensable men. So I'm not fussed about individuals, but we should ask the question of incentives. How do we create conditions under which various elements of economic policymaking deliver reasonably good outcomes? How do we take a more dispassionate process perspective to the role of these various pieces of the Indian state? Finally, individuals inside each of these organizations will look out for themselves will pursue their own self-interest. So we should not expect anything more of a line employee of a Ministry of Power or Ministry of Civil Aviation, or a DEA or a DFS or RBI or SEBI other than to pursue their own interest. What we should do is think about their role, their function, their accountability, their checks and balances. And it requires that kind of more dispassionate, little bit of detached perspective on analyzing these institutions, modifying the rules of the game and the check and balance. So as to create incentives for regular guys to produce superhuman performance. I think that's where we have to go in terms of the economic policy reform."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:37.740",
+        "message": "In the sense, not let nobility and excellence be happenstance, but actually allow for it to be manufactured by design."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:07:45.280",
+        "message": "Does that happen in any government in the world? Oh, yes. So I have been a frequent admirer of, for example, the UK Treasury. The UK Treasury is a remarkable institution. People come, people go, it's an institution. It's a formal machine that knows how to think about economics, about budgets."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:02.600",
+        "message": "And so yeah, this can be done. What is different there? What have they got right that we haven't? Why do those institutional incentives, how are they different? How do they sustain themselves there and not fall prey to the pressures of everyday electoral"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:08:13.920",
+        "message": "politics? So to take an example about tax policy that I just mentioned, there is a tax administration element of the UK, which is called Her Majesty's, I'm trying to remember the name of the agency, Her Majesty's Customs and Revenues or some such thing. And they are the tax administrators and they collect taxes from individuals all over the country. They're kept at arm's length from the Treasury because you don't want the concept of the political party in power inflicting income tax rates on their enemies. So there's a very formal institutional apparatus to firewall the tax administrator from the political process. But then back to back with that, you need to construct tremendous amount of check and balance so that that does not become a law unto itself. So when we say independence for CBI or independence for RBI, that can very easily turn into officials pursuing their own self-interest, which is probably worse than having them under political control. Then in the UK, the entire control of tax policy is only with the Treasury. So it is only the equivalent of DEA that writes the tax policy. So these are examples of formal rules and procedures that create the correct incentives and then we get the better outcomes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:35.200",
+        "message": "And the thing is, when the framers of our constitution were writing the constitution or when the early rules of the game were being set, obviously, you can't expect them to get into such granularity on how specific ministries will function. We need these rules today. These tools presumably evolved over a period of time in England. What would be the sort of impetus for the politicians in charge to actually now build these checks and balances because it's in their interest to have the tax department under them, right? Why would they give that away?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:10:02.160",
+        "message": "So in the 70s and the 80s, we had some reasonably bad ideas in economic policy and it led to the Hindu rate of growth and to balance of payment crises. And that did give ample incentive to the politicians that business as usual is not working. So in similar fashion, I think that men and nations will do the right thing after trying every reasonable alternative. And I think that a poor economic performance from 2011 onwards has got the pot on boil. More and more people are curiously wondering where did we go wrong? What gives? And all of us are part of that discussion. And I think that enough of the Indian intelligentsia is able to understand these problems and agree on an approach on how to do this. Then things will change. I want to give you one last example about this kind of work. In 2003, when Jaswant Singh was finance minister, he asked Vijay Kelkar to lead a team, which was titled the Ministry of Finance for the 21st century. Okay. Now this is an incredibly important problem because the Indian Ministry of Finance is frankly a 1960s institution. It has not been thought through in these ways about organization, organization design processes, incentives, check and balance information. These foundational things have never been done differently since the 60s and the 70s. So in 2003, Jaswant Singh said that we need a Ministry of Finance that is commensurate with the complexities of what India is today and where we are going for the next 25 years. And Vijay Kelkar led a team which had some remarkable people who worked on that. And that report was presented to Mr. Chidambaram, who unfortunately ignored it completely. But I think that that report is an example of the kind of work that is required. Is it available in the public domain? It was unfortunately never put up on the Ministry of Finance website. So it's a little bit of the black art of Indian economic policy to know these things. Periodically, people ask me what were the key ideas of that report. Every one or two years, I get asked for what were the key insights of that report. So I think it's lurking in the imagination of people, but it's not officially in the public domain. One should send in an RTI request to obtain a copy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:26.120",
+        "message": "If Saket Gokhale is listening to this, kindly put an RTI for this. This also matters because economics has, as I keep saying, humanitarian consequences. So before we go to the specifics of this budget, my big takeaway from the meta is that all of us are afraid that things are going to get worse. Perhaps we should hope that things get worse because only a crisis seems to provoke the kind of deeper thinking and action that is sort of required in that case. Would you agree with that? Even though you have previously said in this episode that we overstate the importance of"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:12:57.760",
+        "message": "crisis. I worry that we have to lay the groundwork of the thoughts, the concepts, the frameworks about what you would like to do different in the Indian economic policy problem. There is a lack of knowledge in this field. There is a lack of an elite consensus in this field. There is a lack of community. There is a lack of people that understand these things. So I think now is the time for thinking and discussion and cogitation, the development of people, the development of community, so that when there are politicians asking to do things differently, then there is a body of knowledge and a community that is able to carry these things forward. Something commensurate to the initial conditions of 1991."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:41.800",
+        "message": "And I would really hope that the young lady who is going to be finance secretary in the year 2045 is taking copious notes as she listens to this episode. Vivek, sort of moving on to you and your favorite company, which actually seems to your favorite company, of course, LIC. And that seems to illustrate what you were saying, you know what you often keep saying and it's true of this budget that it looks like different parts of it have been written by different people. And, you know, the proposed LIC sale seems to be, sorry."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:14:12.520",
+        "message": "Amit, it's more than that. Not only have different parts been written by different people, they've also been typeset"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:17.720",
+        "message": "in different fonts. Oh, really? In the budget? Yeah. Yeah. The other thing I was wondering was that, you know, again, to take a digression, Vivek, you pointed out that is some 18,900 words."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:14:26.400",
+        "message": "1971 words. 18,971 words. So a good book these days has around 90,000 words or less than that, in fact."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:35.200",
+        "message": "No, I'll give listeners a better context. You know, one of my guests once transcribed a two hour episode I did with him, and it came to 25,000 words. So therefore, 18,000 words."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:14:45.320",
+        "message": "No, but that depends on how fast you're speaking."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:48.720",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:14:49.720",
+        "message": "So this, she spoke for almost two hours, 45 minutes, which is a record."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:54.920",
+        "message": "And she gave up in the end, she couldn't complete. I thought the great master plan is she'll go on till the end of the news cycle and you're in the next news cycle. And then people have forgotten about the budget. But that hasn't happened. We don't let these things go."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:15:05.360",
+        "message": "I managed to listen to it because what happened was at around 1015 in the morning, I was feeling terribly sleepy. So I slept. And then I woke up at around 1145, I woke up and I thought it will be done in an hour. And then it finished at around 145. So it was quite otherwise I would have fallen asleep if I hadn't slept before the budget speech started. I would have fallen asleep during the course of it just went on and on and on. And there was, I mean, it was all sorts of things from Kalidasa to, I don't know, I mean, to the great Harappan civilization, I mean, and a lot of very random posturing also let"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:47.000",
+        "message": "us show off our erudition and our knowledge and let us, you know, while we have the two Abdullahs in jail, let us quote from a Kashmiri poem written by a Kashmiri poet for senior Abdullah, Sheikh Abdullah. The irony of all of these things escape these people, but sort of let's kind of talk about and the reason I also want to talk about specifics, while this has been a really good discussion on the sort of meta level that I like rather indulgently, there has been great public demand for Mr. Vivek Kaul to comment on all the nitty gritties of the budgets and a number of people even asked me, why, when are you doing an episode on this budget? So I didn't plan to do an economics episode so soon. But since there was so much public demand here it is, but the next 12 episodes will not involve economics, LIC. So what you have written about LIC is that at one level is good news, because it means that you know, it will become more transparent, hopefully, hopefully, it showed the incentives go that way. But what you are confused about is that to quote you quote, LIC has acted as the internal financier of the government and has been used to bail out the government on multiple occasions. So it will be interesting to see whether this equation changes in the future, stop quote."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:16:58.560",
+        "message": "Yeah, I mean, so there are I mean, obviously, you know, once you list on the stock exchange, you have to put out a certain amount of information. So to that limited extent, it's it's a great move. But then there are a lot of other issues, which will need clarification over a period of time. I mean, so LIC as of now, the structure of the LIC is I mean, and you would probably know better is that it's essentially a pool of investors coming together, and their money being invested, and then the returns being shared with them, right. Also, whatever remains goes as dividend to the government. So you you have to, you know, that that structure has to change, because once you become a listed entity, there has to be a proper, you know, balance sheet, profit and loss account statement, and so on and so forth. Then there is this huge thing, as I said about how LIC has rescued so many government IPOs over and over again, a lot of LIC, you know, the the policy, the endowment and the money back policies, the money they collect, get simply get invested in government bonds. So to that extent, it is a very large financier of of the government. Also, there is the issue of solvency. I mean, I think the capital backing LIC is some 5 crore rupees or something like that. And that is primarily because the Indian government, obviously, backs it. So will the government continue to back it after it is listed? So there are a lot of questions which it will not be easy to list LIC. I mean, I guess it'll it'll take at least, I mean, it should take them a minimum of seven, eight months to just get the process going. Another thing about this budget, which causes contradiction here is and so now, since we are moving to a tax system where there will be no exemptions, and so people will not be encouraged to save because they are saving tax. And at the other end, you're trying to list LIC. So LIC is premium. The main reason that LIC survives is because people want to save tax. Nobody buys life insurance from LIC, right? People think they are buying life insurance, what they're buying is essentially a investment product masquerading as a life insurance product, and something which helps them save."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:21.120",
+        "message": "They're almost being nudged slash coerced towards it by bad incentives forced upon you"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:19:26.120",
+        "message": "by the government. Now, see, the other thing that comes out is like, you know, if you look at the these endowment and the money back policies of LIC, the returns of them are hopelessly low 4%, 5%. It's just that the average Indian or even the average human being cannot sit and calculate the IRR on the policy that the internal rate of return on the policy that he or she is buying. So all this will gradually start to change. And the moment you take away the tax thing, the tax incentive of investing in insurance,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:19:58.720",
+        "message": "the business model of LIC goes for a toss. I think that it is an extremely positive move to think of putting LIC into an IPO and bringing"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:09.760",
+        "message": "it into the markets."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:20:11.960",
+        "message": "Accountability incentives, everything gets really happy that this has happened. It's a tough, difficult thing. You can just see all kinds of people getting unhappy, but this is the right thing to do. So I'm very happy that that move has taken place. As Vivek says, there are many hoops to jump. I want to just emphasize two of those hoops. The first of them is that we will need regulatory capacity at IRDA and we need to confront basics about capital adequacy that it's almost amusing how little equity capital there is in LIC. And LIC has given loans to a lot of the same firms who have defaulted on banks. And I don't know how that mark-to-market is done inside LIC."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:20:54.040",
+        "message": "Yeah, exactly. This is another point. The bad loans. So it's like, you know, banks are facing bad loans and LIC has also got to..."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:21:00.520",
+        "message": "LIC has lent to all the same people. So if there is a problem inside many banks, it's probably a difficult problem inside LIC as well. On this note, I also want to emphasize the importance of IFRS accounting. This is like high-geeky accounting terrain, but I'm one of the people that gets really happy when you move accounting from a cash-based system to an accrual-based system."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:21:24.640",
+        "message": "And that is what is called NDS."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:21:26.640",
+        "message": "LIC was on a cash-based system? There are only two industries in India which are not in NDS at the fervent request of the regulators. RBI requested that we continue to do bad accounting for banks and IRDA requested that we continue to do bad accounting for insurance companies. So that's one more barrier that I think will end up needing to be crossed, that you really need accrual-based accounting for an insurance company. It's just totally wrong to think about an insurance company on a cash basis. Because the demographic composition of the payouts and the new customers is profoundly different. On a cash basis, you may always feel you've got to do accrual-based accounting to think in a forward-looking way about what's going on. So I feel that these are hoops to cross. But the point is, it is this decision that will force a reckoning on these questions, which is so great."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:19.800",
+        "message": "So, my next question is about something else."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:22:22.960",
+        "message": "This also brings us back to what Ajay was saying that, you know, different parts of the budget have been written by different people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:30.800",
+        "message": "No, and I was again going to, my next question was also going to deal with debt dissonance and in the process managed to ask a larger question as well, a microcosm and a macrocosm. Microcosm of course is that the, interestingly, the NREGA budget has gone down a little bit, I think from 70,000."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:22:47.440",
+        "message": "71 to 61."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:48.440",
+        "message": "71 to 61. But the larger question is that this is a government which, and so Mihir Sharma had a very interesting tweet about how this government seems to mistake reforms or is trying to recast reforms as welfarism, which, you know, is an extremely valid point. While it's interesting on the one hand, because all of these guys who are in power now used to rail against the welfarism of the Congress, the NREGA and so on, that the Congress did circa the late years of the last decade. What they have done since is that they have renamed some of those schemes, but they've kept a lot of the welfarism going. A lot of that welfarism is actually why they won votes in the heartland. It's not all, you know, as some allege, it's not all bigotry in Hindu Rashtra, the welfarism did help. You know, Parthaman did a bunch of pieces on this where he showed that people's perceptions of the Modi government was that they're actually doing a lot for the people and many of these schemes are delivering, if not for them, they've seen it deliver for others and so on. And in an episode I did with Ram Guha for this year's Republic Day, he also pointed out and he agreed with me that a lot of Prime Minister Modi's view of the world comes from what he has experienced as opposed to what he has read. So while a lot of the more abstract concepts which you need to know to run an economy might escape him like spontaneous order and positive sumness and so on, he gets the importance of things like water and roads and electricity, which, you know, and the delivery of those. And therefore, he is someone who actually genuinely does believe in welfarism, ideologically as well. Given all of this, what's going on here that, you know, they do stress more on welfarism than fundamental reforms, but at the same time, the NREGA budget has gone down, is there"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:24:28.800",
+        "message": "some broader thinking? I don't know. So which is what left me confused, because when I looked at the numbers, so the NREGA budgets are down from around 71,000 crore this year to 61,500 crore next year. But the PM-Kisan allocation continues to be the same at 75,000 crore, even though this year they'll end up spending only around 54,000 crore. So my thinking is, you know, if you're giving the landowners some amount of money, you might as well, you know, spend a little more money on NREGA. I mean, I mean, I thought that was quite also, you know, when you keep putting equity into dud companies like MTNL and BSNL, I mean, it's not fair that, you know, you cut 10,000 crore there. So, I don't know. I mean, I don't think there is a broad thinking behind all this, they just randomly, you know, doing stuff here and there, because, you know, this this sort of contradiction is very difficult to explain. So,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:25:26.320",
+        "message": "Sanjiv Gupta Perhaps the political environment surrounding welfarism changes when there is economic stress. Perhaps if the same Mr. Modi had presided over a strong economy, his calls could have been different. I wonder how much of this push in favor of welfarism is, in fact, the consequence of poor economic performance."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:51.120",
+        "message": "Sanjiv Gupta So to break that down, are you saying, if I interpret it correctly, then what you're basically saying is that, look, welfarism, perhaps for the word itself, welfarism, it has a positive ring to it makes for good political optics that, hey, you know, you guys are suffering, we're going to help you out, we're going to, you know, these are all the handouts we are sort of going to do. But of course, you know, economists would know that there is a tradeoff between redistribution and growth, and growth is what actually lifts people out of poverty. But because growth isn't happening, and all of that, they're going for the political optics, is that right?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:26:22.320",
+        "message": "Sanjiv Gupta Yeah, but I don't know how much of this is a reflection of the underlying ideology, as opposed to an expedient response to the difficulties"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:26:32.640",
+        "message": "that we face."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:26:33.640",
+        "message": "Sanjiv Gupta Incentives again, therefore, Sanjiv Gupta In fact, you know, another thing, this sort of slightly different point, you know, a lot of media this time, went around reporting that subsidies have been cut. Now, you know, that that was so wrong at many levels, with subsidies have not been cut, the government is just not paying the subsidies, okay. So take take like, I mean, Food Corporation of India, best example,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:55.600",
+        "message": "Sanjiv Gupta Which is actually your favorite company. Sanjiv Gupta I was thinking when you said favorite company,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:27:01.080",
+        "message": "you would say Food Corporation, but that's okay. So, you know, look at Food Corporation of India, right? So the food subsidies for 2019-20, when the budget was presented, were around 1,84,000 crore. In the revised number, it's around 1,09,000 crore, okay. So that essentially means that the food subsidy has been cut by close to 75,000 crore. Food Corporation of India's subsidy bill this year stands at 3,17,905 crore, okay. So it's a difference of around 2,10,000 crore, which the government has to pay FCI, but it is not. Now, the government has to pay FCI because FCI is buying rice and wheat from farmers directly at a certain minimum support price. And it's selling that rice and wheat at a very low price through the public distribution system. So that difference has to be paid for so that, you know, FCI remains a going."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:54.560",
+        "message": "Sanjiv Gupta That's a mechanism of the food subsidy."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:27:56.520",
+        "message": "Sanjiv Gupta So, so it's not that food subsidies been cut, you know, food subsidies still the same. It's just that FCI is not being paid. And FCI is now being partly financed out of the National Small Savings Fund, which is where the investment that you know, people make in the National Savings Scheme, NSS goes to. So they are essentially borrowing money from that. And the remaining part of the money is being borrowed from banks."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:21.320",
+        "message": "Sanjiv Gupta So is NSS forced to lend to the FCI?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:28:24.080",
+        "message": "Sanjiv Gupta It's like it's government one hand, money"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:27.600",
+        "message": "moving from one hand. Sanjiv Gupta Are we incentivized to invest in the NSS because"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:28:31.320",
+        "message": "of tax savings? Sanjiv Gupta The rates are very high."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:33.320",
+        "message": "Sanjiv Gupta So basically, these sort of coercive regulations force us to invest in NSS to save tax, and that money then goes to pay FCI bills, which"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:28:42.920",
+        "message": "the government isn't paying, and then it is claiming that hey, we will do subsidies. Sanjiv Gupta So there are multiple problems here. So the first thing is that, so FCI is buying this rice and wheat, and it ends up buying an excess amount of rice and wheat. So I was just seeing looking at the numbers for as of January, FCI had around 75 lakh tons of rice and wheat when it needed to have some half of that or something like that, right. The excess stock has been paid for by the FCI, which has borrowed money from NSS, and from banks. So basically, it's been paid for by UNI, right, I mean, it's ultimately comes down to us. The second thing that happens here, and this is where it all starts getting very, very bizarre is that when the FCI borrows all this money from banks, obviously, there is going to be crowding out, less money left for others to borrow, and your interest rates remain where and you know. The other interesting thing is because NSS needs money, the interest rates on that continue to remain higher than fixed deposits, because NSS needs money, because it has to finance FCI, it has to finance the National Highway Authorities of India. So all this comes together to essentially ensure that monetary policy does not work, because the government needs a high interest rate environment to keep all this going. And because it needs a high interest rate environment, your, you know, your interest on small savings schemes continue to remain higher than interest on FDs. So because interest on small savings schemes continue to remain high, FD interest rates cannot be slashed, even though, you know, the monetary policy has been cutting the repo"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:32.040",
+        "message": "rate for a while now. And you've written articles about how cutting the repo rate doesn't actually make a practical"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:30:37.760",
+        "message": "difference in our lives. As of now, it doesn't."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:30:39.760",
+        "message": "It's been sort of... I just want to riff on what he has been describing. Everything you say is, of course, correct. But here's the deeper story of what happens. The first element is that social systems are complicated. And each move you make has unintended consequences. And the second problem is, this is the consequence of low strategy, high tactics. So every day, one feels very clever, coming out with one more element of a solution, which seems to solve my point of pain today. But actually, that just creates a more and more intricate web of interlocking policy constraints that tie down policymakers in knots. And this is why there is a greater role for strategy. So very often, people tend to wonder that what's wrong with just taking one day at a time? You see a problem, you solve the problem. You see a problem, you solve the problem. It doesn't suffice. In public policy, it's important to have a strategic sense. Who am I? What is the role of the state? What market failure am I addressing? What is the detritus of inherited, messy interventions and institutions that we need to wind down gradually? And then many decisions can be taken that will put us on a better path."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:32:01.280",
+        "message": "Ajay Shah So I just wanted to sort of make one more point. No, no, that's fine."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:06.880",
+        "message": "I mean, that's a very important point."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:32:09.640",
+        "message": "So no, what I wanted to say was, Ajay was talking about how the rate of investment has come down dramatically. Okay. So I'm obviously simplifying things here a little. So when, because the rate of investment has come down, obviously jobs haven't been created at the same pace as when needed. When jobs haven't been created, obviously a lot of people are not making money or they're not making the kind of money they would have otherwise made. So income growth has also come down. Because income growth has come down, people have been consuming a larger proportion of their incomes or they have been borrowing to finance consumption. So when you do both, obviously what happens, your rate of savings comes down, right? In all this environment, while the rate of savings has been coming down, the public sector borrowing, which is central government, state governments, our budget has been going up, right? So how will interest rates come down? So it's all, it's not like you're doing this and that doesn't get impacted. I mean, it's all connected at some level. And a lot of it is, you know, people don't even understand that it is connected."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:16.880",
+        "message": "Yeah. And so my next question is, again, something you've written about with a certain amount of bemusement and which the middle class was very, you know, eagerly looking at, which is what is going to happen with income tax. And there was this initial impression that, oh, yes, the taxes have gone down. But that is not the case. And most people are still confused about whether they will be paying more or less."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:33:38.280",
+        "message": "So basically, you know, the government wants you to understand the Income Tax Act. And it also wants you to know how to use an Excel sheet and figure out as to which is the better system for you. But largely, you know, if you are the kind who uses the deductions and exemptions that are available, you are better off on the present system. And from what I've been told, I mean, I haven't read the finance bill. From what I've been told, if you move to the new system, you cannot go back to the old one. Now, I mean, so I think, you know, if the idea was to simplify, there was no point in having two systems. I mean, you could have had even lower rates, so as to ensure that the actual tax comes down. Okay. And incomes go up. Right. But I think as of now, and this obviously is a short term solution, people, there has to be more money in the hands of people, you know, this is not the time to tax. Now, the problem here is, one is that, you know, whether there is more money or not in the hands of people, that in itself is a question. And a lot of it is psychological, you know, when, as a nation, we are obsessed with the government budget. Now, why is that? That is because finance ministers have a proclivity of changing, you know, income tax rates or introducing new exemptions, new deductions, so on and so forth. So, our obsession with the budget is not because we want to know, whether we have become protectionist or not. It is because all of us want to know whether our take home is growing, or we'll have to pay more tax. So, at the end of the day, it's very, very psychological. Now, if you had actually cut taxes, and if you had clearly told people that, yes, the money in your hands is going to go up, they were more likely to spend or, you know, essentially consume more. And that would have sort of helped the economy in a very small sort of way. But here, what we ended up doing was creating this confusion. And you have now all the CAs badgering their heads. And I think this government just wants to make sure that CAs make more and more money."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:35:51.800",
+        "message": "You regret not being a CA, Vivek?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:35:55.760",
+        "message": "You regret not being a CA? I mean, I regret a lot of things in life, but that can be an episode in itself. No, so I found it very, very, this was a low lying, low hanging fruit, which could have been. Also, the interesting thing is that in the budget speech, the finance minister said that the government will lose 40,000 crore because of this new system. But if you check the receipts of the government, the assumption is personal income tax collections will go up 14%. So, how is that possible that 40,000 crores will be lost and there is an increase of 14% there? I mean, this is a little bizarre. In an environment where they have assumed that the nominal GDP growth will be 10%, if you look at the gross tax numbers for this year, the increase assumed is 4%, whereas if you look at the gross tax numbers for the first nine months, they are 3% lower than the last year's thing. So, in this environment, how can you assume a 14% growth? So, there are a lot of, in fact, the budget math is very, very shaky this time around."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:00.200",
+        "message": "Not only is the math shaky, the shaky math is based on dubious data. And therefore, is it fair to say that to some extent, these guys are winging it too?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:37:07.920",
+        "message": "Oh, yes. In fact, yesterday, late night, I saw this beautiful video where two old men, A.K. Bhattacharya,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:14.520",
+        "message": "who's the editorial director of Binistandar and T.N. Nainan, who's the chairman, and they"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:37:18.240",
+        "message": "were talking, and it's an 18 minute video, which everyone should watch. And Nainan kept making this point over and over again as to, you know, should we take these numbers seriously? So, and, you know, nobody has seen more budgets in India than Nainan has."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:34.520",
+        "message": "He's that old? Yeah. No, no."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:37:38.120",
+        "message": "I mean, there are people who've seen more budgets, but no one has analysed more budgets."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:37:42.560",
+        "message": "I want to look at this in a larger problem of the republic. Okay, so let's take one step back and say, why do we have a budget? Okay, we have a budget because the legislature wants to have oversight on the executive. The legislature wants to say to the executive, show me what taxes you will collect. Show me how you will spend it. I must be satisfied that your spending plans are consistent with my political values and beliefs. Okay, so that's the concept of the budget. Or take a corporation. Okay. Why do we have a budget? Because the board mistrusts the management. And that is why a budget is established, whereby the management is on a tight leash. And through the year, the legislature has to hold the executive accountable for what it has done in terms of the actual operationalisation of the taxation side, and of the spending side. Okay, so for example, all of us reading about news in the United States, it is so interesting and fascinating to discover that when Congress voted for money to be given as aid to Ukraine, it was illegal for Donald Trump to withhold that money. Because when the legislature votes on a certain spending, you have to do it. That is the meaning of being a representative democracy, where political power ultimately vests with the legislature. I feel that what we're getting in India today is a part of that larger problem, which is the collapse of the legislature as an institution, where we go through a show of some tax proposals and some spending proposals, and the year unfolds in very different ways. And the legislature frankly exerts no force on the executive to create accountability."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:39.560",
+        "message": "And the executive comes from the legislature, so you know, which is, you know, not the case in the US where you have a separate election for the president."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:39:47.000",
+        "message": "In fact, I'll just give an example on what Ajay said. So in 2018-19, the government expected to earn a total GST of 6,26,000 crore. It was revised to 5,26,000 crore. Finally, they managed to collect 4,58,000 crore, which is 25% lower. What is the point of making these projections if they're going to be so widely, you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:40:10.720",
+        "message": "of the things? So does that then merit a deeper look at the electoral system? If you're saying that, you know, the legislator and the executive are too much in lockstep, you know, unlike the US, for example, where there's a separate election for the president and you know, the Congress and the Senate are separate and they can, you know, they can act as a check on each other. That's not the case here. And would it also be fair to say that the legislature has, you know, the anti-defection law plays a part. One of the unintended consequences is that you cannot speak against your party, for example, and therefore you could run parliament from an Excel sheet. You don't need people to even show up. I've had an episode on this in the past."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:40:49.320",
+        "message": "I do think that of the three branches of government in India, the legislature has shaped up as the weakest component. It is not pulling its weight because of the anti-defection bill. The legislative negotiation now only takes place between the heads of the political parties, but not the average parliamentarian. So parliamentarians have switched off, frankly, they don't care about legislation. When is the last time there was a private member bill? So bills are drafted by joint secretaries. This is really a travesty that the legislative function is now being taken over by the executives. And I think this is an important failure of Indian democracy. I do not understand the problem enough to be able to think about how to solve it. But I think it's important to recognize that the weakest piece of our constitutional system today is the legislature. On the same note, you may remember in the Kelkar and Shah book, when we talk about decentralization, the only important caveat that we have is the unchecked power of a chief minister at a state level. We simply don't have enough check and balance surrounding a chief minister and a chief minister can easily become a bit despotic. And then that is no foundation for performance. We need to think more carefully about how these institutions can evolve so that there is an everyday check and balance between legislature and executive at the state level as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:21.240",
+        "message": "No, very wise words and I mean, an example of a despotic chief minister who then became prime minister and tried to be as despotic is coming to mind, but I won't say it here. So you know, let's kind of, I'll obviously link all your respective pieces from the show notes so people can dive into them for the details. Vivek has many entertaining things to say about Nirmala Tai's budget speech. So let's kind of wind up now and sort of, I'll ask both of you, you know, are you hopeful of the system changing where the budget is this big media tamasha, but it is actually just people winging it and it really doesn't mean anything. You know, I mean, barring a crisis, you've been an inside of, you know, in policy circles for decades, if that doesn't make you feel too old, Ajay, you know, is there also an impetus besides the standard impetus of, oh, we may have a crisis or oh, there may be something political besides that. Is there also an incentive from elite intellectual circle to a recognition of this problem or everyone's just sort of improvising with the moment?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:43:27.000",
+        "message": "I think that inside the BJP also, like everywhere else, there is a perception of difficulties in the economy. And I think that every politician in India is sincerely incentivized to understand these events and to think of what to do different. So in that sense, I think Indian democracy is working. No politician wants to go into elections, maybe a state election, with one hand tied behind their back, owing to poor performance. So let's not think that elections in India have degenerated to a point where performance does not count. Performance always counts. And\u2026 A few state elections have shown that now. So I think every politician in India sees that we had a 20 year run of high growth from 91 to 2011."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:19.920",
+        "message": "And that something has gone wrong. But actually, I mean, you can you can cherry pick evidence, but you can also come to the opposite conclusion from evidence, for example, 2019, you know, this government did win after five years of disastrous economic management. And similarly, they had a landslide win in the UP elections after DEMO."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:44:36.880",
+        "message": "So I'm not here to say that performance is the only thing. The limited question that I would ask you is that if you could have a one on one private conversation with anybody in Indian politics, and you would pose this question that as the incumbent, would you have rather walked into the 2019 election holding good performance? I think the answer will be loud and clear. Yes, that the leadership of Modi and Amit Shah pulled off a victory against all odds. But if they could dream of a different world, they would have loved to go into that election with better performance."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:12.360",
+        "message": "In fact, the counterfactual, therefore, is that had they actually delivered on a lot of their rhetoric from 2014, they could have won an even more landslide win in 2019."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:45:20.480",
+        "message": "So I don't think that any politician would like to go back to elections, holding bad performance. And I think we are increasingly getting the point all over India, that there was great GDP growth from 1991 to 2011. And from 2011 till today, something has gone wrong. And we are at the early stages of this cogitation of developing the third paradigm of Indian economic policy. And I'm optimistic that things will change, that we are a remarkable country. We are a precocious country, where at a very low level of per capita GDP, at a time when female literacy was 6%, we enacted a remarkable constitution. We are a country that is a child of Gandhiji, Tagore and Nehru, and we'll get better."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:14.640",
+        "message": "Wise words. Vivek, so next year, when the budget rolls around, you see yourself writing pretty much the same kind of pieces, at which point even Siddhant cannot bemoan it on Twitter, because he will be repeating himself."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:46:25.480",
+        "message": "Difficult thing to say. But yeah, I mean, on past evidence, one would say the same. Bad news will sort of continue. No, I mean, see, the thing is this. So until, you know, a few days back, the nominal GDP growth for this year was supposed to be at a 43-year low. But then since we revised last year's data, so this year's data is suddenly now looking a little better. So, now we are at a 17-year low. So, the point is, if the GDP growth is at a 40-year low, and if that does not give you incentive enough to do the right things, what else will, right? I mean, 40-year low is like as bad as it could get. I mean, okay, let's even, I mean, this is nominal, but even when you look at real GDP, we were at a 10-year low. So that 10-year low is like, and that 10-year low was also because of the financial crisis, right? So, if that does not give our government and our politicians the incentive to do, carry out the major reforms and do the right things, then, I mean, see, I'm not even, I mean, you know, people talk about these big philosophical reforms and take something like a goods and services tax. Okay, it's been two and a half years since it's been in place. And every month there is some change, this change, that change, I'm willing to accept that as well. But when I upload my return, let that return get uploaded in one time. Let the OTP come to me, you know, when it has to. I mean, these things, these are like, you know, the minutest, the simplest of things that need to be done, or the entire GST system has been made with the assumption that people will not make mistakes, okay, everyone will file everything and they'll do it correctly. So recently, I had this experience, one of the media houses I write for raised a query, and this was regarding a query on an invoice I had generated in 2018-19. So the date of the invoice did not match with the date I had registered against that invoice in my return. Okay, so obviously, they wanted it corrected. So it seems the law is such that you can only correct a mistake that you make during the course of that financial year. This is stupid, right? I mean, and these are not huge amounts. I mean, people, you know, it's a 20,000 rupee, 25,000 rupee bill. So I mean, if people, you know, if you sort of make even changes to these simple things and make life simpler for people who follow the GST, that in itself will be a huge thing. But that is also not happening."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:49:18.400",
+        "message": "Thank you. It's been an awesome experience talking to both of you guys addressing high philosophical concerns, like the structure of government, as well as, you know, everyday granular problems like where is the OTP for my GST filing? Ajay, thanks a lot for coming on the show. My pleasure. Vivek, thanks a lot. Thanks. Thanks for having me, Amit. If you enjoyed listening to this episode, hop on over to your nearest bookstore online or offline and buy In Service of the Republic by Vijay Kelkar and Ajay Shah, outstanding book. I can't praise it enough. Also, check out the many, many books written by Vivek Kaul, including the Easy Money Trilogy and India's Big Government. Do not search for my name. If you want to follow Vivek on Twitter, you can follow him at Kaul underscore Vivek. If you want to follow me on Twitter, you can follow me at Amit Verma, A-M-I-T-V-E-R-M-A. If you want to follow Ajay Shah on Twitter, too bad you can't, he's not there. You can browse past episodes of The Seen and the Unseen at SeenUnseen.in and ThinkPragati.com. The Seen and the Unseen is supported by the Takshashila Institution. To learn more about their public policy courses, head on over to takshashila.org.in."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:50:28.640",
+        "message": "Thank you for listening."
+    }
+]

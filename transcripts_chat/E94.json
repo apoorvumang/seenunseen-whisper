@@ -1,0 +1,1067 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "Uber, the way people interact with each other has been disrupted by Facebook and Twitter and Instagram. Entertainment has been disrupted by Netflix and Amazon Prime. And everywhere, consumers and producers have both benefited enormously from this. But here's the thing, this disruption has happened in most marketplaces, but not yet in the political marketplace. So here's a question worth asking."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:54.680",
+        "message": "Can politics be disrupted as well?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:10.600",
+        "message": "Welcome to the Scene and the Unseen. My guest for today is Rajesh Jain, who will be talking about his new project, Dhanwapsi. I've known Rajesh since early 2015, and he's most famously known for being one of the brains behind Narendra Modi's rise to power. But I saw a completely different side of Rajesh when I met him. He had gotten buyer's remorse in 2014 itself, and when I met him in 2015, was an articulate and vociferous critic of Modi, a man he had once supported for understandable reasons. But Rajesh had the intellectual honesty to change his mind about Modi, and the commitment to continue working on projects that were actually designed to get Modi out of power at considerable personal risk to himself. He hasn't spoken about this publicly much in the past, but we'll speak about some of that on this episode, and we won't speak about certain parts of it. And while this episode is supposed to be about Dhanwapsi, which is an insanely ambitious and extremely interesting project he's on, I decided to dedicate only the second half of the episode to that project, and spend the first half discussing why he supported Modi to begin with, and what made him change his mind. This is a really long episode, but it's fascinating, so do listen to the full thing, after a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more, head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India, and adapts them into objects of everyday use. These include wearable art, like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vasvo x Vasvo, Brinda Miller, Dilip Sharma, Shruti Nelson, and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to IndianColors.com, that's colors with an O-U. And if you want a 20% discount, apply the code IVM20, that's IVM for IVM podcast, IVM20 for a 20% discount at IndianColors.com. Rajesh, welcome to the scene and the unseen. Hello, Amit. Rajesh, I've known you for like the last three or four years, I've of course known of you from way before that you are one of India's first tech millionaires, and I've kind of been seeing what you've been doing in the blogging space for, you know, from a decade before that, but I actually met you two or three years ago. And I find the story of your political consciousness, so to say that how you from just being someone who'd made a lot of money in tech, to how you got interested in politics in a deeply passionate way, extremely interesting, because most middle class or rich Indians tend to be apathetic about politics. How did that happen? What changed?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:16.300",
+        "message": "So, my journey into the political space began with a question, a friend of mine, Natanu, they asked me, it was in late 2008, he said, Rajesh, you've been working in the tech space for a long time. When your son, Abhishek, who was three years old at that time, when he grows up and tells you or asks you, Papa, you saw all that was going wrong in the country. You had the time, you had the money, why didn't you do something about it? What will you answer him? And that was the question which really set me thinking. And as happens many times, when you start thinking about it, sort of doors open up. And this was late 2008. And then early 2009, I'd met with Piyush Goyal, because he had come to assess my company Netcore for BJP's SMS campaign. And we got talking. And then I said, look, there are a lot of people like me who would like to help in the elections. We've been sort of longtime BJP supporters, and elections are coming up in four or five months. And we'd like to do something about it. And from there started Friends of BJP. So it was not sort of structured, just one event led to another. But the question really made me think about what we need to do to help transform India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:28.540",
+        "message": "So you're describing yourself here as a BJP supporter at the time. And I'm presuming the support for the BJP came out of this new political consciousness or this question that you asked yourself that, what can I do to make my country better for my kids?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:40.860",
+        "message": "Not really. As a family, we have been BJP supporters. My father always would tell us go vote BJP. So that was it. And also in the 2000s, when I started sort of thinking for myself, on the political space, I think one thing which came and was that the policies of the Congress, once you start reading, you start thinking about it, why has India been poor? And the party which had been in power for a very long time, of course, has been the Congress. And again, if you look back at that period, after 2004, onwards, also, there wasn't anything substantially different being done from what they had done previously. So the support for Congress really wasn't there. I had written a blog post, in fact, in early 2009, when I started Friends of BJP said, I described BJP as the lighter shade of grey, I said, you can't really, it's not a black and white thing. But at that time, the memory, of course, of the BJP was the Vajpayee government and the sort of some of the reforms that they had brought into play. So a, there was a family history of having supported the BJP, b, there was some sort of an antithesis towards the Congress based on my own sort of reading and conversations with different people. And third, there was the opportunity which came up through the BJP SMS campaign, which was, of course, a professional activity that we had done."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:00.740",
+        "message": "Right. And you'd also done a similar professional activity for India against corruption. So that came in later. That came in 2011. Yes. Yeah. And I was purely professional. So, you know, just to sort of, again, go back, I mean, obviously, we are, I know, on the same page as regards to the harm that the Congress has done the country. I mean, we've been poor for decades longer than we should have because of bad policies in the case of Nehru that you can say they were misguided because those were the fashion of the time. There were white statesmen who built institutions and did a lot else, which was great and but just got the economics all wrong. And in the case of Indira Gandhi, I mean, I think we'd both agree that many of her economic policies were crimes on humanity, even if you leave emergency aside, she was an absolute monster for the damage that she caused to the poor of this country, despite her slogans like Gareebi Hatao and all that. So I completely get that, that at some point in time, you begin to feel that, damn it, we need an alternative. And we can't have any more of this, our people need freedom in every way, economic freedom and every other freedom. But I think where our intellectual parts differ is that I never went from there to support from the BJP. BJP seemed to me to be equally bad in other ways. So I agree with you that Vajpayee's prime ministership did give a lot of hope and he had some good people like Arun Shourie in his cabinet. But you know, at the time that you decided to kind of support the BJP and go all in and you describe them as a lighter shade of grey, inevitably, that would mean propping up Modi supporting Modi. And you know, and Modi had the history of 2002 behind that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:33.020",
+        "message": "How did you reconcile that? So in 2009, actually, before the elections, the support was for Yadvani led BJP at that particular point of time. So we have started Friends of BJP, where we tried to organize events in multiple, we did actually organize events in multiple cities for BJP leaders. The idea was, how do you get middle class more engaged in conversations in the political space? I remember writing about what I called at that time, the secession of the successful that people, like you said, right in the beginning, people become apathetic in the political space and they don't tend to vote, or even want to have conversations about those things. So the idea was, how do you get a more structured form of conversation going? First, BJP lost the elections and then Friends of BJP also sort of petered out, they didn't want anything to do with it afterwards. In political parties, there's no sort of introspection on why you lost. You can't really point fingers at a single person and you can't, so it's collective responsibility, which means no one's really responsible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:32.420",
+        "message": "So you just rationalize what happened and you move on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:34.500",
+        "message": "So we sort of moved on from there. And it was in early 2010, when I had met Modi for the first time. And I met him multiple times after that. And my belief was, at least from what I had read, and I had not, of course, gone into the depth of things, but at least when you read up at that time, he did come across as the tallest leader. And you compare it with what was happening in the country. So there's a context also, what's happening in the country, 2010, 2011, some of the scams had started coming out also, the leadership really of the country was not very strong. And Gujarat's track record, at least the visible track record at that time was quite good. I mean, one thing which we would see, which you could see the difference is the roads really. You travel from, say, Bombay to Rajasthan, which we used to do often by road. And you know, when you're leaving Gujarat and you're coming into Rajasthan, the roads were significantly different. So the idea was that in the BJP, if you're supporting the BJP and you are a choice between two parties, really, so if you want to do something in the political space at that time, it was this or the other, there was no alternative to any of these two. And my belief at that time was that Modi was the best person to support if the BJP had"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:01.580",
+        "message": "to come to power in the next election. But the question of 2002 still comes up, like, what do you feel about that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:07.860",
+        "message": "See, at that time, I had not thought much about it. I think the thing was that in Indian courts, really, have the jurisdiction on decision. There were many investigations which were happening. And I sort of left that decision to the courts. I did not think that it is for me to make a judgment. I did not have any specific information one way or the other. And at that time, the economic, so the courts were, of course, making the call and they did make decisions through the investigative agencies, which cleared Modi, of course. And on the economic side, the idea was that, at least when you heard Modi in 2013 and 2014 run up, he said all the right things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:51.180",
+        "message": "He did say all the right things, I agree with you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:53.540",
+        "message": "And you see the track record, at least of the visible track record, like I said of Gujarat in terms of infrastructure development, in terms of power, etc. And more importantly, I think, in the conversations that I had with him, Modi came across as a very good listener, very open to new ideas, very open to meeting with different people. In fact, I traveled with him to China in 2011. And I wrote a fairly detailed blog post about it. And the one memory which stood out for me was on the flight back. And there were about 20 people on the flight, mainly business people from Gujarat. He called everyone to the front of the aircraft and asked everyone, tell me what went right for you in the trip? What could we have done better as a team? And any other candid suggestions and for the next four hours, he was listening to as every person spoke. Now, I interacted with politicians in 2009, some of the BJP politicians, and I found this ability to listen, as just not there in most of the other politicians. So you combine multiple things together. And even in my one to one conversations with him, here's a person who is very open, very listening, which typically doesn't happen, like I said, with the political class. And that's what I my feeling was that we should support him for, for being the next Prime"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:21.620",
+        "message": "Minister. But beyond the openness, did you find that he has sort of strong beliefs of his own on anything? Or is he open in terms of tell me what works, I'll do it? Or, you know, is he also constantly reflecting and changing his ideas? Does he have a belief system in place?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:35.260",
+        "message": "See, the context in which we were interacting at that time was primarily the elections part of it. Right. So it was the first Gujarat elections of 2012, December, which took place, and then the national elections. And the one thing which I had told him is that I will work from the outside for you. I do not want any funds from the BJP, I think you are the best person to lead the country. I will invest my own money. And I will set up my own team, because I want to see you as Prime Minister."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:05.760",
+        "message": "So those conversations were more on questions of instrumentality, like, how do I win? What strategy should we have? How do I portray myself? And but you didn't really get a deeper sense of what are his actual core beliefs?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:16.380",
+        "message": "No, I did not spend time discussing that. It's primarily around, I would give tech ideas for the campaign, because that is what I knew"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:14:22.260",
+        "message": "well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:23.260",
+        "message": "And I was not very conversant really with the political and the economic part of it. And political at best, you can read and try and summarize and give it. But what fascinated me was the fact that, for the first time, you could actually start using technology to shape a campaign. Obama had done that in the 2012 campaign in the US. And using technology, he had helped create a community organizing sort of network of people, volunteers across the country. There was a book which had come out in late 2012, Victory Lab, which actually said how political science was used through the years in the US. And I was very interested in taking some of those ideas and applying it in the Indian context. So mobile penetration was going up, internet was becoming much, much better, and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:10.500",
+        "message": "So what are the sort of learnings you then took from these new campaigns, like Obama's campaign and, you know, apply to Modi's campaign for 2014?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:18.080",
+        "message": "So one of the first things which I had done, which in June of 2011, actually, again, using data, I had looked at the BJP's electoral performance through the years. And I realized that they had won 299 seats at least once. And this was a number which was really no one knew about it. When I would ask people, no one could give an answer. And from there, I wrote a blog post, which said Project 275 for 2014. I was the first person to actually articulate that the BJP could get a majority of its own in the next election."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:51.500",
+        "message": "It was three years. And before that, the paradigm was that, hey, we'll get 160, 170, have a coalition, have"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:56.420",
+        "message": "an Indian government. In fact, exactly right. I mean, people would laugh when I would tell them that, look, instead of thinking 180, you need to think 100 seats more. And the strategy for trying to win 180 versus the strategy for 280 is very different. 180, really, it's a summation of state elections. But if you want to get a majority on your own, you need to make it a wave election. So there has to be one dominant theme pretty much across the country. And I said, that is really what I want to work on, but I didn't want to take any orders from anyone else. I was very clear. As an entrepreneur, I'm doing it from the outside. So that then led me to the formation of Neeti. And we worked in four areas. So those were the sort of learnings I picked up from my experience in 2009. And then only keeping on looking at the political space, where are the gaps? So I said, we need four things. We need a media platform, because there was nothing which was really pro-BJP or able to articulate the BJP viewpoint or even be pro-Modi. So that was Neeti Central, which we set up. The second one was India Votes, which had all the electoral data. Again, it was very hard to get elections data. The Election Commission had it, but it was in Excel files and PDFs. So we took all of that and made it into a very nice, browsable, public, open site. Then there was the analytics. So where do you focus on? So there are 10 lakh booths in the country, 543 constancies. Which are the constancies where you have a greater chance of winning? In the constancies, which booths should you focus on? There's a lot of historical data available through Form 20 data, which is the booth level data, which is made public again on the Election Commission site, but no one would look at it. And the fourth one was the volunteering platform. So what we called India272.com at that time, that people could, wherever they are in the country, help in spreading information about Modi or about the BJP and what it wants to do to people in their neighborhood. So without becoming part of the formal party structure, you could just work on that. So I took learnings from what I had seen in 2009, what I thought were missing, plus some from my readings, and then like an entrepreneur, you know, you identify which are the gaps, and then you see how you can plug those or fill those."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:09.500",
+        "message": "One of the podcasts I had done over here was with Prashant Jha, who wrote the book, How the BJP Wins, which is a description of say, Amit Shah's, and I recommend listeners listen to that episode, because it's got a lot of insight. And his book is really about Amit Shah's work on the ground where he would travel incessantly and go across, you know, all the different cities and booths and revamp the organization completely. So what was the synergy between, for example, the data that you were coming out with the analytics and the party organization and how they were using that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:37.780",
+        "message": "In parts. So we had made a lot of this information available to the BJP and RSS ground campaigners, right. And it was available through a website where they could pick up this information, pick up the electoral rolls, we are on a campaign where if you supported Modi, you could SMS your voter ID. And then we digitize the electoral rolls, so we could then map voter IDs to the person and the constituency. So the idea is, see, in the election, it's actually a very simple idea. It's basically being able to identify who supports you, and who does not, and who are the ones in the middle. So it's a support score that you need, combined with a turnout score. So if you are likely to support and you're likely to turn out, you don't need, nothing needs to be done to that person, they're going to go out and vote on their own. If they don't support, not likely to turn out, again, you can't do much about them. But if you're likely to support, low propensity to turn out, then you need some persuasion, you need some push to make sure you vote on election day. And if you are high turnout, but low on support, then you need persuasion. So you can actually slot people in this matrix. And then, but again, there's not enough data still available, or at least at that time, it wasn't. But those were the ideas. So those were the experiments, or those are the things which I tried to do. And a lot of it depended on the ground operation, that people had different candidates, including in the two constituencies that Modi fought, they would have, where there was a better ground organization, they would then be able to go out and do the door to door outreach. See, in India, one of the big problems is that candidates are typically not declared until three weeks before the elections, there are no primaries. So it's very hard to run a proper campaign, actually. So you need, I think there are a lot of systemic changes which need to happen for data and tech to have a much greater play in elections."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:26.500",
+        "message": "So you know, kind of moving away from the mechanics of this, which is a fascinating subject in itself, and maybe we'll do another episode on it sometime. But you know, at this point, essentially, what the BJP was doing is it was campaigning on different fronts, it was presenting different faces of itself. And one of those, of course, is Vikas. And that's pretty much, I guess, why you became involved in the first place, because you correctly felt that what India really needs is economic freedom. And this is not just an economic question, it's a humanitarian question, because millions have been in poverty for decades longer than should have been the case. And we badly need reforms and economic freedom. And here is a guy who is saying the right things, as we subsequently know, none of that happened. But along with his Vikas talk, there is also polarizing talk, there is also a lot of bigotry, a lot of which was, in fact, reflected in the site that you own, Neeti Central, which to me had two problems, and one issue, of course, was editorial content, because it would publish just about anything, and there wasn't enough discernment. But the other issue was that a huge chunk of Neeti Central content, for example, was bigoted, anti-Muslim Hindutva content, I say Hindutva as opposed to Hinduism, the two being very different, and not enough of sort of the Vikas economic content. Did this disturb you at some point?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:41.340",
+        "message": "Was it something you thought about? See, the site, essentially, and I don't agree with you on your assessment of the site. The site, our goal really was that there are BJP supporters across the country, whether it's spokespeople or supporters, and they needed material to be able to defend themselves against what is being spoken, because you also need to understand that the media pretty much in its entirety at that time, the 2010 to 2014 timeframe, was very much anti-BJP and anti-Mudi. So, there needed to be an alternate platform, which really puts across an alternative viewpoint, which different people could use it to counter really what was happening. So, we did try and have a wide mix of A, trying to articulate what is wrong with the current narrative and putting out an alternate narrative. I mean, some people may have different views on the content, but our idea was very clear that we needed to get this out, because there was no space in the traditional print and TV media sites, and there were very few internet sites at that time, media, political media sites. Of course, there's a proliferation of that now, at that time, to bring this viewpoint across."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:51.540",
+        "message": "So, I don't agree with you on your characterization. Fair enough. Fair enough. I mean, you would know the site much better than me, and you did shut it down after you"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:56.980",
+        "message": "mentioned it. Yeah. So, I was very clear that the purpose was still the election. And then after that, you know, we, of course, disbanded most of the team, pretty much the entire teams over the year, course of the year after the election results."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:09.740",
+        "message": "Right. So, I want to ask one more question, which I think we've discussed before. And you know, that it's something I kind of bring up and feel strongly about, which is that, you know, my support for economic freedom is really part of my support for freedom in a larger sense, that of all individual freedoms that arises out of that. So, I will also, for example, I'm a free speech absolutist, I'll also support all kinds of personal freedoms. I was delighted when 377 was abolished recently. And to me, these are off a piece, these can't be separate things that if you really care about freedom, economic freedom, and personal freedoms kind of go together. And this is also why I was against the BJP even then, because the thing is that while they were talking about economic freedom, they really did not give a damn about the other freedoms, it seemed to me at the time today, of course, we both of us know in hindsight that they don't care about any kind of freedom and on economics are actually as left wing as their predecessors. I mean, they're all basically the same. But personally, how much of, for example, your concern for economic freedom comes from, I mean, do you support freedoms in all of these other contexts, or is your support of economic freedom something that comes out of saying that India is a poor country, we should be rich and economic freedom will get us there and for these consequentialist reasons,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:22.820",
+        "message": "therefore, I support it. So, there are two ways to look at that question. One is what I feel. And second is, what is it that we can persuade people about? So, I am still learning on the freedom part, I've read a lot, when I educated myself in economics post 2014. So, my background has been in technology. So, I heard the terms like classical liberalism or libertarian or public choice after 2014, it was not before that. Even the term economic freedom really, what I understood the full meaning of it later on and not before that. I think, of course, like you said, a lot of these freedoms, they all go hand in hand. You can't have one without the other, though you can argue that countries like Singapore, countries like China have clamped down on political freedom allowed, at least some parts in China have allowed much greater economic freedom. I think in India, what we really need, because when you take this message out to people, here's the problem. When you go out and tell people that look, you need freedom, the answer you get back is, oh, but we are free. We got free on August 15, 1947. So, the word freedom itself, there is a big challenge in persuading people about the need for freedom. And most people don't have the same sort of intellectual capability to read and analyze why freedom is so important and the cornerstone for prosperity. So, when I thought about the problem, I said, rather than talk about freedom, which then gets you into independence and on a different track, let's start with prosperity. It's something which is tangible. India is a poor country. It has been deliberately kept poor over the past 70 years. And that is something which people can feel and understand that you should have been 10 times wealthier by now, but you are not. That is something which is easier to sell, to persuade people about, than to say that look, you need more freedom of speech or more individual freedom. That becomes a little harder problem. So, I said, let's start with the economic outcome that we want to talk about. And from there, then we can actually talk about all the other elements. They will all become natural elements which will flow into making the end happen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:38.300",
+        "message": "Right. Okay. So, let's, you know, and this is really a part of your thinking, your support for Modi and all of that, that you actually left behind and you left it behind in 2014. Can you describe to me how very early on in Modi's prime ministership, you kind of knew that you had made a mistake and that he was going in the wrong direction?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:56.620",
+        "message": "Can you tell me a little bit about that? Yeah. So, I think it started, the process, of course, was gradual. There were step functions, I think, in that process. But I think the first step was really the initial team that was put together as part of for the cabinet. I think till what was very interesting was that the campaign was essentially managed by a lot of people from the outside. But when it came to the team, the cabinet which was formed, and there was a lot of speculation between 16th May 2014 and 26th May when the cabinet was announced, there would be outsiders, there would be laterals. And I think it was a moment in time when there were a lot of people from India and abroad who I think if they had been tapped into and told that, look, the next three years, we'd like you to work for making Indians rich or making India prosperous, very few would have had hesitation in actually agreeing to something like this. So, the first problem which I saw was the talent that had been assembled. The second was the language. I think the language changed quite dramatically from pre-election, which was about aspirations, it was more of the neo-middle class term that Modi sort of used to talk about. And it became very quickly about the poor. And I think as we know, that the more you talk about the poor, and the more you try to do things specifically for the poor, you are basically ensuring that they will stay poor for the rest of their life. So, that was the second thing. Third was that I think we lost or Modi lost really the first 100 to 200 days, which was the time for dramatic change. And the agenda for what needed to get done, actually, if you want to make Indians rich is pretty clear. I mean, you got to undo the anti-prosperity machine which has been running for the past 70 years, whether it's in education, healthcare, labor, land, admin reforms, pretty much every sector of the economy, and none of that happened. So, I'm seeing the first five, six months, where it's basically a continuation. And the budget, I think the first budget which got presented in July, was effectively a rehash of the previous or the pointers in the budget or the economic survey were just rehash of the previous one. So, then where is the change? The second sort of event, which I think was concerning to me, was the response to the phrase Sootboot ki Sarkar. I mean, that happened probably in early 2015. And I think Modi turned decisively more socialist, more towards the left after that. So, the poor focus became a lot more heightened. What he really should have done, and I think the Modi who was the campaigner would probably have done this thing, but maybe the Modi, the Prime Minister did not look at it the same way. He should have come out and said that, look, of course, we want a Sootboot ki Sarkar. We want every Indian to be in a Sootboot. We want every Indian to be rich, so they have the choice of what they decide what to wear. But that did not happen. So, that was, I think, a huge missed opportunity, because after that, the economic slide sort of continues. And I think the next big sort of the breaking point really, in my mind, came with demonetization. Demonetization I think was, I mean, you know, no right thinking leader would inflict this on any country, on people. It was the largest, probably abuse of individual rights this country has ever seen and perhaps will ever see. And I remember having a phone call, phone chat on the day, the night the demonetization was announced and telling people, telling a few of my friends that this is India's road to serfdom, road to serfdom, as you all know, the Hayek book, I said, this is just not done. And even the reasons which were outlined, it is very clear, I mean, corruption does not happen when two individuals are transacting. Corruption happens when people have to interact with those in government or in the political"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:50.940",
+        "message": "space. Whoever has power over you has power over those corrupts."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:54.540",
+        "message": "So all of the reasons which were set out, seemed to me completely wrong. And it just didn't seem right. So I said that is, but of course, and in parallel, what was happening also was my own economic education was happening. So from 2014, the first time I remember attending a CCS seminar in Delhi in late 2014 and hearing about public choice and was an aha moment where I said, okay, so this really explains how politicians behave when they are in power, they are just like us as self-interested. And the goal is not out there to do good for the people, it's to do good for themselves. And doing good for themselves means doing those things, which is going to keep them in power. So this backdrop of my own education, plus what I saw on the trajectory, which I saw with the Modi government, helped create my disillusionment and then made me really decide"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:50.880",
+        "message": "of what to do next. And in fact, like public choice theory, I often say is something that every Indian should really learn about because it totally explains the system so well and however, in fact, Shruti Rajgopal and a mutual friend and I are planning to do a series of episodes where we talk about public choice theory. And I'm really looking forward to that. Going back to demonetization, obviously, I agree with you entirely, at that time, I called it the largest assault on property rights in human history. And it was very Maoist more than anything else, I saw the parallels between Mao's great leap forward and demonetization very striking in this in the kind of social engineering that Modi was attempting, and I have a number of episodes on that, which will be linked from this. Regarding what you said about Sood Bhut ki Sarkar, I think the criticism of Sood Bhut ki Sarkar and criticism that I agree with was like the Sood Bhut to me was reflective not of prosperity, but of cronyism."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:41.500",
+        "message": "And that was the main criticism. But what Modi should have done is turned it around, right, okay. So in an attempt to be anti cronyism, and as we are seeing now, it's probably been getting proven the other way around. What should have been done is said that we want every person, so it was more of dealing with the rich, but he should have turned it around and made it into a symbol of prosperity"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:03.620",
+        "message": "for every Indian. But that's a rhetorical solution. That's optics. I mean, you know, Modi is brilliant at optics and it's surprising that he missed this out. But my issue with him always has been that he nails the optics, but he completely gets policies wrong. He doesn't actually do anything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:17.260",
+        "message": "So that's a separate point, basically, where I think the fundamental problem is that of lack of A, an understanding. I don't think any Indian politician really understands why India is poor. And therefore, what we need to do for prosperity. And that's the most fundamental issue, which really is there. And therefore, when they all come to power, it's more a continuation of what's happening. Because without having self beliefs on what creates prosperity, it's going to be continuity on what's happening. I think that remains the first challenge. The second is, of course, India's bureaucracy, really saddled with the same old ideas. The secretaries in Delhi are today probably 58 to 60. And with ideas which are 20, 30 years old, I mean, India never really has, where do you in India do we hear about Adam Smith, about Friedman, about Buchanan, about Hayek? These ideas aren't even taught in our schools and colleges in economics. So without that understanding, I think it's impossible for things to change. And more importantly, I think people have really no understanding without like you said about public choice. And I think that kind of education needs to be done. And it's actually a very simple idea. Once you explain it to people that look, the politician is not some saint who's different from you and me. The politician is basically just like you and me. And you look at your self interest, the politician does the same. The politician's self interest just happens to be staying in power, getting reelected. And once you use that lens, it actually becomes clear. But no one's taking this message out to people. Once we start doing this, I think we'll start creating a demand for change in the country. And so it's either, so where does change come from? It either comes from a leader who understands, which we did not have in this case, or from people who demand it, which also has not been there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:07.660",
+        "message": "That's the problem. You know, what I should point out to my listeners is that while you were talking about all the different reasons to be disillusioned with the Congress coming down all the way to demonetization, you were disillusioned with Modi and you saw it same for what it was from well before that. I remember meeting you in early 2015. And you were already very clear that the country was going down a very harmful road and you needed to do something about it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:29.180",
+        "message": "Yes, because if you look back, it's the first 100 to 200 days really when transformative change can actually happen. And I had studied the Reagan period, Reagan basically, there was a complete document prepared by Heritage Foundation on the changes that were required in the government at that time. And most of those changes were done, started at least the narrative and the change process was started early on. In India also, what happens is because of the continuity of or a continuous flow of assembly elections, you know, you are set back in one election, then you go back to sort of quaint old ideas, flawed old ideas of the past. And here was a person who could basically, I think, persuade the country on any idea. And to have missed out the first six months, I think is unpardonable, really, because that is where the country was primed for change. And in every sector, I mean, we had to loosen up, we had to give really economic freedom to people and Modi was the person who could have sold it. And that was the vote. He had the mandate. Again, like you said, the mandate was a majority. So he could get anything done in the Lok Sabha. Oil at that time was at like $40. You have a leader who can sell, I mean, this is a moment in time, which was really after a generation. I mean, this had not happened since 1984. And it completely blew the opportunity. And that really upset me quite a bit, because to make that change, I think you needed two things. One, you needed to have a deeper understanding of what creates prosperity. And second is you needed talent. You needed people different from the political class and the existing bureaucrats, because they all think pretty much the same way. And without laterals, without having lost the first three to six months, I think it was then very clear that it's a very uphill struggle and therefore it's not going to change."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:26.300",
+        "message": "I mean, that's another thing that, you know, public choice teaches us, right? If you look at the traditional politicians and the traditional bureaucrats, they have their self-interest in mind first, their incentives are towards increasing their power, getting elected again, blah, blah, blah. So if you actually want radical reform, then you've got to bring in people from outside. Which brings me then to the question is that two questions really, and a sort of a small question and a big question, the small question being that, who would you like to have seen in the cabinet? What would have given you hope? And the big question being, what are the key changes, maybe three or four, that you would have liked to see in those first six months?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:59.180",
+        "message": "I think what we needed at that point of time is first, Modi should have basically got his team together, got a bunch of economists and probably people from other countries, even spoken to others, possibly, at that time, Lee Kuan Yew was of course still alive in"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:16.460",
+        "message": "early 2014. He did get Arvind Panagariya for the Niti Aayog, who completely disgraced himself by going against his life's work, basically."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:23.480",
+        "message": "That came in much later. So, ideas, I think, were there, but they needed to be internalized. On what does India really need to change from the trajectory of the past? Okay, so that was, I think, the first thing. And you needed experts, really, you needed people, at least expert inputs. You definitely did not need politicians manning the entire cabinet. And even between 16 and 26, there was talk of, oh, we'll have a much more reduced cabinet, etc. There should have been no HRD minister, there should have been no telecom minister, there should have been no civil aviation minister. You basically didn't need 80% of the positions, that would have sent a very strong message."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:06.500",
+        "message": "That the command and control mindset of the past is gone."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:08.700",
+        "message": "Mindset is gone."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:09.700",
+        "message": "Absolutely."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:10.700",
+        "message": "Right. There were, another simple thing which would have been done is many of the, what they call the concurrent list, should have been just handed over to the state, decentralization. Right. So, when you talk of, so, it's very hard to pinpoint specific people. But essentially, what I'm saying is, needed a smaller number of people who basically understood or understand what creates prosperity, I think that was the single most important agenda for this country. I mean, we'll talk about it more when we, in the second half, but the big changes, I think, which needed to happen, I think number one is education. I mean, we have, I think, yet again, blown another five-year term, where we keep messing up on education. And this has happened now for 70 plus years, it started with Nehru, who did not get one generation of Indians educated. If one generation of Indians had been educated well, they will ensure that the next generation is educated better than they are. So, he invested in higher education at the cost of primary education. So, where was education? When you look at the corporate ideas in economic freedom, in terms of administrative reforms, the way the bureaucracy actually works, you look at getting rid of government presence in all of various sectors of the economy, I think we needed to just get the government out from all of those things. I mean, Vajpayee had done a little bit of that, but the government had no business being in any of these sectors. Essentially, again, all of it would have, these things would have happened, had there been an understanding of what creates prosperity, and there is only one path which creates prosperity. If you study the countries which have become rich, it's the path of limited government, it's free markets, it's free trade, it's individual freedom, it's a rule of law and property rights. This is the core mix. So, every policy should have been taken, keeping this framework in mind, policies which are non-discriminatory, policies which basically decentralize power closest to where the people are. But none of that actually happened because the core understanding was not there. So, without that core understanding, then you stick to, oh, so, it's essentially like, it's not like Warren Buffett type investing strategy, it is more like day trading."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:28.620",
+        "message": "So, it's almost like all of Modi's openness, which you spoke about earlier, was openness in terms of how do I win this thing, and not openness in terms of evaluating his ideas on what is right, what is wrong, what should I actually do, how should I actually govern, but more in terms of how do I win, how do I win, and that obsession, and that, therefore, you know, while campaigning, he could be all things to all people, he could say words which from music to warriors, like minimum government, maximum governance, but actually, which he didn't give a damn about and didn't deliver on at all."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:58.740",
+        "message": "In hindsight, this is an absolutely correct understanding."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:01.860",
+        "message": "Right. And, you know, I want to take you back to a point you made earlier, where again, I entirely agree with you that one of the problems here is that these ideas are sort of not part of our culture, that people don't value economic freedom, people don't value freedom per se. I mean, my, the way I come to economic freedom is just saying that look, two consenting adults should be able to do whatever they want with each other, whether it is in a bedroom or in the marketplace, no one else has a moral right to get in the way this is a moral issue as much as a consequentialist one, but a lot of Indians wouldn't even agree with that basic premise that two consenting adults should do whatever they want with each other. There are all kinds of social and cultural norms, which are which we would consider problematic. And therefore, I would imagine that one of the things that you then say is that, okay, you know, if you look at the political marketplace, there's supply, there's demand, I need to change the demand side, I need to change the culture, and only then will, you know, politicians with those kinds of ideas actually come to power and do something about it, which therefore becomes then a sort of a long term project. And instead, what you sort of did after you realized that Modi wasn't the way to go over a series of projects, which was still sort of predicated on the supply side itself. And I want to spend a few minutes talking about each of them before we come to Dhanwabse. For example, your constitution project, where you decided that you want to change the constitution. Tell me a little bit about that. Why the constitution? Why did that come to mind?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:26.980",
+        "message": "So, when I started thinking, and talking to various people on why is India really poor? So, of course, the simple answer is Indians lack freedom. But why do Indians lack freedom? And the answer goes back to the rules that are there. There's nothing wrong with Indians, you take the same person from here, you put that person in America or Singapore, and in five years, they'll be doing incredibly well. So, there's nothing genetically or there's no DNA problem with Indians. So, there's obviously a problem with the external circumstances or in the external environment in which they're operating in. And the core set of rules are actually defined in the Indian constitution. And when we started studying the constitution, I think what was the shocking realization was that 242 out of 395 articles in the original constitution were pretty much lifted verbatim from the 1935 Government of India Act. Let's understand that the 1935 Government of India Act was written by a colonial power, the British, to subjugate and rule over Indians. And we kept two thirds of that, or we used that to become two thirds of our constitution. And once you go through the constitution of India, it's a the longest one. And length does not mean greatness or goodness at all. It's written by lawyers, readable only by lawyers. If then else's butts are all over the place, it's a pretty much unreadable document, can be interpreted in any different way. Most important, it basically puts the people as subservient to the government. That is, I think, the most fundamental problem. And then you compare it with the American constitution, which is effectively carried in a pocket, 20 amendments, only 25 odd amendments in 200 plus years, but written in a language a 10-year-old can read and understand. Simple example, you take article, the first amendment, basically, says Congress shall make no law, among other things, abridging freedom of speech. What it really means is that every person has the freedom of speech naturally. It's there with them, and Congress cannot make any law suppressing it or abridging it in any way. In India, if you read the 1700 word first amendment on the same theme, effectively, it says you can say what you want, as long as you don't disagree with what the government"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:00.780",
+        "message": "wants."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:01.780",
+        "message": "Right. And that's the root of that. You know, that sets the context."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:05.500",
+        "message": "All the caveats mentioned in article 19, like public order, decency, and so on, which makes"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:09.940",
+        "message": "freedom of speech irrelevant, basically, we pay lip service to it. But when we started thinking, it's the rules, so we can keep changing rulers. But if you don't change the rules, your outcomes are not going to change. And the core set of rules were defined in the Indian constitution. So that is when I started thinking that India needs a new constitution, because if you change the rules, then you will start to at least get different outcomes. But of course, the process of changing the constitution is a long drawn out one. Second is when I started talking to people, people would get spooked with this idea. Because we have been all taught to revere our constitution, of course, not a single person I met, and I must have spoken to hundreds of people at that time, has actually even read the constitution. I would carry the Indian constitution, the thick Indian constitution, and a copy of the American constitution. Now, it's basically one sort of long page, where you have everything written out there. But no one does it. So this is, I mean, other than the preamble, I don't think anyone gets past, preamble also, of course, has problems, as we all know, socialist and secular and all that stuff."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:16.580",
+        "message": "So that was..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:17.580",
+        "message": "What's wrong with secular? Yes, you don't have to put it in there. It's an individual choice that is there. And the way we have used secular, by putting it in there, is completely the opposite of what really was the intent of secular. It has been, it has been twisted through the years. And of course, socialist, where you just insert... Now, my thinking at that time was that the constitution really are the coarser of rules, and that needs to get changed, if India has to be put on a path to prosperity. But then I realized very quickly, that it's not an idea you can try persuading people about. And it's also an impossibility to try and change it, because the way the proper process is you need Lok Sabha, Rajya Sabha, majority states and all of that stuff. And we're not even clear about how that can be done, because of the basic structure doctrine and so on. So, it became a very complicated part. But I said, at least, I still tell, I show people who come and meet me in the office, the American and the Indian constitution."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:11.900",
+        "message": "I said, look at these two and try reading it. So, there's something here that you're an engineer, right? So, I know that appeals to you that you just change a few rules somewhere and everything works differently. But what I'm trying to reconcile here is, and where I probably disagree, is that one of the criticisms against the constitution in the first place is that it's a constitution imposed by liberals on a country which is not really liberal. Of course, we know the constitution is deeply illiberal, doesn't support free speech, doesn't support all kinds of personal freedoms, but it's still relatively more liberal than the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:45.060",
+        "message": "country per se. At least the original 1951 was, till they started with all the amendments, as Shruti"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:51.540",
+        "message": "has explained. Shruti has explained and we linked up a brilliant talk she gave about how Nehru and Indira and so on, all the way to the present day, just kept making amendments to the constitution every time they didn't agree with what a court would have to say. And it became more of a periodical than a book. But the question here is that, let's say that by some miracle, you could change the constitution and make it what you wanted. It would still be a question of elite people imposing ideas on a country that broadly does not agree with these ideas. So, the larger task, if the constitution ever changes the way I would rather see it change, is if these ideas emerge from the culture itself and people demand freedom and people demand all of these things. And then you have sort of change coming forward."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:32.260",
+        "message": "I don't agree with you, Amit. See, the real problem in India is we've never really experienced freedom. Okay, so people, the problem is that people think they are free. So now to actually prove to them that they are unfree and what is the world that they are living in is actually not the right world is a very difficult exercise. And unlike when you look at the time of the American constitution, the people who drafted it were living away from the British guys and their freedoms were then being imposed, the British started imposing taxes, etc. on them and curtailing their freedoms. Unfortunately, in India, in 1947, the skin color of the rulers changed, but the real lives of people, the rules governing them, look at our penal code, and how many of them are still brought from the British era, we are still in place."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:28.300",
+        "message": "And meant to subjugate us, as you say, and I keep pointing out, you know, when people talk about Gandhi's fight for independence, that the salt taxes of the British that he protested are actually far higher today. And we've normalized all of these, we've normalized these many oppressions, which, you know\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:43.500",
+        "message": "The Mumbai Municipal Corporation Act is a derivative of a 1988 document. So these things\u2026"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:50:51.340",
+        "message": "1988 or 1888? 1888. Sorry, 1888."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:54.340",
+        "message": "1888. So, the problem really in this is, okay, how do you bring about change? That's the key thing. So, there are two approaches, you can try and change minds of people, or you can channelize votes and push through changes through that second process."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:08.340",
+        "message": "So, demand end and supply end, in a sense."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:10.380",
+        "message": "So, I said, trying to change minds of people on some of the ideas around, whether it's the constitution, around the rules, is actually going to be a very, very long, drawn out effort. And I tried, like I said, like you said, the constitution was the first one, we tried to even persuade people in Mumbai city, that, you know, we need a directly elected empowered mayor, that the city should not be under the thumb of the Municipal Commissioner appointed the Chief Minister who doesn't really care about cities, because the votes are coming from the rural area. So, cities become a milking ground for collecting all the money and then redistributing it in in rural areas where all the votes are. And therefore, you see the pathetic state of not just Mumbai, but most pretty much every city in this country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:50.460",
+        "message": "And I had a great episode on urban governance with Shruti, which sort of, which I'll again link it on the page of this episode, which kind of explains that dynamic beautifully."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:58.740",
+        "message": "Sorry, carry on. Yeah. So, this was the problem that what we realized is that trying to persuade people on these ideas is actually a very hard exercise. And for me, the biggest learning came when we went out and talked in the Mumbai campaign that we were running ahead of the Mumbai civic, the corporation elections, and people told us that, look, your ideas are good, but don't tell us to vote NOTA, don't tell us how we want to vote. If you have good ideas, come and contest, put your own candidates, and then we will support you. So, don't just, so the message really was that don't tell us what to do, you give us an alternative to what the other parties are basically doing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:37.660",
+        "message": "And this is in the context of like after the constitution thing where you\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:40.860",
+        "message": "Yeah, so 2015, if I were to look back, 2015 and early 2016 was when I was talking about the constitution ideas. After the second half of 2016, early 2017 was the cities campaign, what we call free"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:55.540",
+        "message": "cities, swatantra city. But before we go into that, you know, the constitution thing, the thing is at around the same time, you know, and through this period, the RSS has also been talking of changing the constitution and they would, of course, make it much more culturally Hindutva as opposed to Hinduism. And it would just, the constitution would reflect the bigotry of our nation, perhaps. And with the exception of the RSS would have a realistic shot at this, you had absolutely no realistic shot because, you know\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:21.300",
+        "message": "Yeah, it was a sort of long term project. I thought that if I could put this idea out to people around the constitution, around the freedom, give them an alternate document, which is really built on the American version. I mean, I keep saying that India made two fundamental mistakes in 1947, we chose the wrong economic model, and we chose the wrong political model, we should have copied the American constitution, we should have copied the American economic model, we chose the British parliamentary system, and we chose the Soviet Union's economic model. And that really has sealed the fate of our country over the last 70 years. So, what my thinking at that time really was that, if we can at least try and persuade people on an alternative set of ideas, then some of these things may be possible. I was naive."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:10.460",
+        "message": "Sure."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:11.460",
+        "message": "And like any entrepreneur, I think you make initial mistakes, and then you learn from those mistakes. So, I'm a political entrepreneur, I try out different things, and if they don't work, then you make changes and you adapt, I failed enough times in my life, so I don't worry about failure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:25.140",
+        "message": "Right. And moving on from the constitution, then you decided to focus on local governance."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:30.140",
+        "message": "So, tell me a little bit about that. Yeah. So, cities are the engines of growth, basically. Cities are where jobs get created, cities are where wealth gets created. And in India, cities are in a miserable situation, because we have no decentralization of power and of funds. So, the decentralization, the rules, which were there in the constitution, don't mandate in the 74th amendment, they don't mandate, they leave it to the state to really decide if they want to give funds to the cities automatically or not. And of course, no chief minister will want to do that. So, the cities basically become completely under the thumb of the chief minister, who then appoints a commissioner. So, the elected people, the mayor and the corporators have very limited powers to really make any changes. And therefore, there is no accountability, either financial accountability or governance accountability. So, you have, Bombay has, Mumbai has basically some 20-30 agencies, we've got 60,000 crores sitting in a fixed deposit account, which could transform the city's infrastructure, but no one's doing anything about these things. So, it becomes basically dense of corruption, because everyone is looking at their own thing. We've made, we've compounded the problem with reservation of seats or for the 50% women thing where no corporator knows if in the next election, their seat is going to get reserved, become a reserved constituency for a woman. So, they want to make as much money as they can now. So, as much money as now. So, there's no incentive, absolutely. So, the rules, again, you look at the rules, which are there out here, the perverse set of incentives out there. So, the cities really should have been the magnets. I mean, we have 15 million people moving from rural areas to urban areas every year, 400 million people in the next 25 years. What kind of lives are we going to give them in cities, slums? We've all seen that in Mumbai, we are seeing that in many other cities. And it doesn't have to be that way. So, the cities really needed to be independent of the central government and the state government. And that's why we called it swatantra cities, free cities. But these are hard ideas to actually persuade people with, and we had limited budgets, we were not fighting the election, our thing was, and of course, the other problem in the election was that this is a decision which has to be made at the state government level. And the corporators, ones whom people were voting for, had no power to decide their own"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:53.580",
+        "message": "fate. This is, in fact, what like Shruti had discussed in her episode on urban governance, where she, I mean, the fundamental problem here is there's a mismatch between power and accountability. The people you vote for, and who have incentives to do things for you actually has no power to do anything. And the people who have the power, they don't care for your votes, because they're getting it from somewhere else. And the fundamental principle, of course, here is that, which we can all agree with at an intellectual level is that the more local government is, the better it is where power and accountability are together."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:23.020",
+        "message": "Yeah, the principle of subsidiarity, which says that decisions should be made as close to the people as possible, and only then is where you start making better decisions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:33.100",
+        "message": "Because the only people who can change the system are the people who actually benefit from it, who have power without accountability right now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:38.500",
+        "message": "So, we had drafted an alternate replacement for the Municipal Corporation Act. We did all of that work, tried to take it to people. But of course, it was not easy to do that. And then I realized that that project is not going to go too far, because you can't really persuade people, the ones in power to actually give out. No chief minister wants to release the power that he has, he or she has over cities."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:00.780",
+        "message": "You actually put together a little political machine for the Bombay elections. But what you did there was instead of actually putting up candidates, you set this political machine to get people to vote for NOTA."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:11.340",
+        "message": "Yeah, the hope was that if there were enough NOTA, someone would take notice. But then again, the problem in India is that NOTA by itself is a meaningless vote. Because even if you got everyone but one person voting for NOTA, that one vote winner still"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:25.940",
+        "message": "If NOTA wins the election, it doesn't mean there'll be another election, it's just irrelevant."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:30.820",
+        "message": "So, people basically, of course, rightly told us that just calling a vote for NOTA is irrelevant."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:35.500",
+        "message": "In a sense, a not voting sends the same sort of signal as a NOTA does, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:39.340",
+        "message": "NOTA, actually, at least you're going out and making a conscious choice of pressing a button at the EVM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:46.140",
+        "message": "So, you're at least going out there. Not voting is basically just ignoring the election process. Right. So, I mean, this episode is about Dhanwapsi and I don't want to, you know, take any more of your time. The subject, though, the journey that you've made is fairly fascinating to me. But so before we go into a commercial break, and we'll come back for Dhanwapsi, I want to ask you one more question. And I've been asking you this since 2015. And it's something I didn't understand back then is that my thing was that look, you know, you are against Modi now, you supported him in the public eye, people think, oh, that this is one of the masterminds behind the whole Modi thing, he runs all of Modi's tech, blah, blah, blah. Why don't you speak out against Modi? It would make a difference. Why don't you speak out publicly about your disillusionment, all the things that you basically said in this episode of the problems you have with him. And at that time, you weren't, I mean, now, of course, you are, and you've come on this show and you've spoken about it. But at that time, you weren't like, what was the thinking there?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:42.380",
+        "message": "Like, see, I've not really spoken at all, either about my role in the campaign. I've not given interviews for pretty much most of my last. Some of it is urban mythology, which is built up. So, see, the point is that, what is it, I mean, I tend to look forward rather than back. So, my decision to support the BJP and Modi, whether it's in 2009 or after that, I think was the absolutely right decision at that point of time. Given the information available. I think given what the country needed at that point of time, given the information available. And of course, what I knew, and it was a decision which I made and a lot of the country made at that particular point of time. I think I perhaps was a little more wedded to the decision or I thought a lot more about the decision because I was quite involved in the campaign. But one decision which I did make was that, okay, what's past is past, we need to look forward. And by being critical of Modi or by saying that he should have done this, he should have done that, I don't think it solves the problem. I think what we really need to look at, and that's what I've spent the last year, year and a half thinking through, I think it's very easy to criticize, okay, but then what is your alternative? That's what everyone comes down to even today, saying that, okay, so you don't want to vote for Modi. What is your alternative? Whom are you going to vote for? And that is the question which really drove me, saying that, can we come up with a credible alternative to not just Modi, but the current set of political parties, because like you said earlier, it doesn't make a difference who's in power. On the economic side, they're all the same. On the political and other freedom side, some are on one side, some are on the other side. But effectively, they are all running what I call PPP, you know, planned perpetual poverty."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:33.660",
+        "message": "And as your good friend, Arun Shourie said, the BJP is really UPA plus cow."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:37.980",
+        "message": "So I think if you start thinking about it from, like an entrepreneur, okay, what's happened in the past is done, now you look forward, where are the opportunities which are there in the election? And I think what's fascinating, at this point of time is the options that people have today are not particularly thrilling, you know, like, you don't see an emotive wave, which started building up late 2013, and towards early 2014. And this creates a market opportunity. I look at it that the political marketplace has options, which the consumers are not excited with. But is there an opportunity to provide them with something that they want something different?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:22.140",
+        "message": "And that's what we'll talk about after this commercial break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:24.780",
+        "message": "Hey, everybody, it's another awesome week on IBM podcast. If you're not following us on social media, please make sure you do. We're IBM podcast on Twitter, Facebook and Instagram. This week on Cyrus Says, Cyrus talks to journalist Rachel Lopez about her taxi ceiling art series and her own podcast, Wordy Wordpecker, available only on the IBM network. On Simplify, Chuck Narain and Sreeket deconstruct the latest UN report on climate change and why the next two decades might be the most important for the earth. On the latest special episode of Pesa Vesa, Anupam talks to Hansi Mahotra, an investment professional and owner of the financial block, TheMoneyHunts.com. On Suneo One, Sheila Dittia and I speak to Arpit Ratan, co-founder of SignZ, a fintech company that makes regulatory processes for bank and other financial institutions simple, secure and compliant. On the Kinetic Living podcast, Coach Urmi talks to childhood buddy and actor Shikhat Al-Saniab. She elaborates on her fitness journey and how she balances work, diet and the need to stay fit. And just a reminder guys, please tell a friend, you need to tell a friend that you're listening to a podcast that you like and get them to listen to the podcast that you think they will like. And with that, let's take you on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:26.180",
+        "message": "Welcome back to the scene in the unseen. I'm sitting with my friend Rajesh Jain and we're now going to talk about Dhanwapsi. Rajesh, what is Dhanwapsi?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:33.180",
+        "message": "So Dhanwapsi is a movement to make every Indian rich and free. So what we want to do is to ensure the return of public wealth, surplus public wealth back to the people. Our estimate of the public wealth of Indians is 50 lakh rupees per family. And what we want to see is 1 lakh rupees go back to every family every year. It helps tackle what I call the Hamisha problems of poverty, unemployment, corruption and it's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:01.940",
+        "message": "got a lot of other very positive benefits. Let's define public wealth first. Public wealth is basically wealth which is owned by the government and not by private individuals and therefore, it's wealth which is owned by all of us."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:12.420",
+        "message": "Yeah, so it's the word I would use is controlled by the government."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:15.460",
+        "message": "It's owned by the people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:17.460",
+        "message": "And this largely falls in three categories. There are the public lands, so which would be in Mumbai, let's say, Navinagar, the eastern waterfront or in Delhi, Lutyens Delhi, Delhi cantonment, the public sector undertakings is the second category and then all the assets that they have. And the third is the mineral wealth that is there. So, all put together, I mean, we've got a detailed wiki on our website thanwapasi.com, which actually we've measured all of this and this comes to 1500 lakh crores."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:48.180",
+        "message": "1500 lakh crores?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:49.180",
+        "message": "Yeah, about 20 trillion dollars. So, 15 followed by 14 zeros if you're counting."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:53.780",
+        "message": "And how much of this should legitimately be owned by the state in your view and how much of this should just, you know, where you can you ask the question to why is it owned by"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:02.220",
+        "message": "the state? Yeah, so all of this is actually what we define as surplus wealth. So, we are not counting the real, the few things that the state should be doing. I mean, if you actually look, police stations, parliament, the judiciary, the army, I mean, there is no logic. Let's take a simple example. Navinagar in Mumbai, it was fine in 1790s when it was set up. It was fine till 1946 or early 1947 when it should have been there. What is the logic for having it right now? It's basically become a lifestyle center, the best golf course, the best wedding venue and so on. But this is place where we need, we should be having economic activity. You know, people should be not having to commute three hours in every day, they should be getting whether it's affordable homes, whether it's educational colleges, whether it's offices, all of that should be happening because that is what creates wealth. So, our point is that if you want to eliminate poverty in India, you need to start getting all of these surplus assets into production, into use, and that then creates wealth. So, you monetize all of these assets, and then you return the wealth back to people. So, that then has the other benefit. So, other than being under the government, because the government basically we all know there's a lot of wastage, which is there. I mean, now government just raided the National Small Savings Fund to put money into Air India. So, all of this started to keep happening, because this is the actual wealth of the people. So, it is pathetic that, you know, we keep people poor, and then, of course, they don't even know that they have access to a large sum of money, which is their own, it is their own wealth. All that we are seeing is start returning it back to them, so they can craft their own path to prosperity."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:43.260",
+        "message": "So, what you would suggest is for something like a Navi Nagar, then, for example, or any large sprawling land, which the government has and is really doing nothing with. What you would say is that privatize it, which will have two effects. One effect is that what you the money that you get is the money of the people and you want to distribute it to the households of this country directly without, you know, any other use for it. So, it goes back to the people it belongs to. And the second order effect is that once it is privatized, it will be put to optimal economic use and that itself will generate wealth and prosperity."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:15.540",
+        "message": "Yes. And more importantly, to add to that, actually, is that today, when it stays with the government, there is corruption, also, because some of it starts getting edged away. I mean, railway land, no one even has an account of how much land has been sort of encroached or privately monetized."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:33.620",
+        "message": "So, public assets, which are basically private wealth creation, colonialism, all of that starts coming. And industrialists will come and say, okay, let me use this much land and I'll set up a factory here or I'll do whatever and it's actually public property."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:45.020",
+        "message": "Absolutely. So, this happens in most wherever there is land available. People have been doing that in cities. This has been happening. But there are no clear titles also available in many of these places."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:55.900",
+        "message": "So, your concept of Dhanwapasi really is that everyone in this country, no matter how poor he is, even the beggar at the traffic signal actually has a lot of Dhan in the form of this public wealth, which he has no access to whatsoever. And no idea about. No idea about. And this is not Dhan being used for the legitimate purposes of the state, or whatever one agrees they might be."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:15.820",
+        "message": "But it's just lying around, it's wasted. Yes. So, there are two arguments really for Dhanwapasi, there is the economic argument and the moral"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:08:21.940",
+        "message": "argument."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:22.940",
+        "message": "The economic argument is efficiency, that these are assets which are not being used. If you get them into use, you'll have greater efficiency, which will lead to wealth creation and so on. But there is also the moral argument that what is happening right now is actually theft. What the government is doing right now is taking the property which belongs to the people and is sitting on it. They've basically stolen all of this wealth. This is wealth which should be returned back to people. And that is morally the right thing to do. So, the government cannot be sitting and claiming, or a thief cannot be coming and claiming that look, I'm going to use your money more efficiently, so let me steal it from you. Morally, this is wealth of the people, this should go back to them. Let people decide how they want to use that money."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:08.900",
+        "message": "What Dhanwapasi basically means is here is all this Dhan, which is held by the state, and you want a Dhanwapasi, you want this Dhan to go back to the people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:16.580",
+        "message": "Go back to the people, because let's, and what is the broader idea behind it? Indians, the average per capita income today in India is $1,700, $1,800. More importantly, the family income, the median family income in the country is 10,000 rupees a month. A family of five earning 10,000 rupees, probably saving a small fraction of that, many of these families actually would also be in debt, especially in rural."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:45.100",
+        "message": "So, the wealth is negative, basically. Wealth is negative."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:48.380",
+        "message": "And it makes no sense, you know, because of the policies that we've had, what we talked about earlier, the anti-prosperity machine that every government in India has run and continues to run, has actually been the biggest wealth destruction, I think, in the history of the world. I mean, you have 1.3 billion people who are denied the chance to be rich."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:09.420",
+        "message": "In fact, the late leader Sharad Joshi ji used to use a term which resonates with me a lot, the negative subsidy, which he used in the context of farmers, we had a great episode on agriculture where Gunwant Patil ji elaborated on that, check that out. So, what is the mechanism of this thanwapsi? How would it work?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:25.180",
+        "message": "Okay. So, there are two key questions to address. I think first is, how do the resources get raised? And then how do they get given back to people? So, how do we deliver it? So, let's talk about raising, where does this money come from?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:37.380",
+        "message": "To begin with, you've kind of identified a lot of this land, which is just lying around."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:41.340",
+        "message": "So, what we've done is, and it's all there on our public wealth wiki, we've tried to identify from listed sources, and I don't think that's complete, but it's what we have. Pretty much every government controlled land that is there, with defense, railways, public sector undertakings, etc., we've then done a valuation of that. We've taken an FSI of 1 in all cases, which is actually low. In Mumbai and Delhi, the FSI should be really 10."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:09.100",
+        "message": "It's ludicrously low. I mean, there's no reason, like Alex Tabarrok, who did an episode with me on FSI said there's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:11:14.300",
+        "message": "no reason why it can't be 30, 40, 50."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:16.020",
+        "message": "We've taken, we've been very conservative in our calculations, and that's how we've... That's really low."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:11:20.540",
+        "message": "Yeah. We've arrived at these numbers, which are there. So, for land, for public sector undertakings, I mean, some of the corporations are not even held publicly, like LIC, and the India Post are still not listed, so we have no way of estimating wealth. You take entities like Coal India, they should actually be worth probably 10 times what they are worth today, because Coal India is looted three ways. First, the government loots them from all the profits that they make, they make them dividend it out to the government. Second is, it's the most overstaffed, one of the most overstaffed organizations, so the employees are, in theory, looting it. And then you have the contractors and the politicians when the coal starts flowing out. So, there is no reason really for anyone to buy Coal India stock, theoretically. On the other hand, you have in Saudi Arabia, you have Aramco, which is worth a trillion and a half or $2 trillion, and here we have Coal India, which is worth $25 billion, having one of the largest coal reserves in the world. So, in the hands of government, these assets are really not worth much, put them in private hands. So, how do you do this? We've written out a Dhanwapasi bill, which we've sent to the Prime Minister and to every Lok Sabha, Rajya Sabha MP, a bill which can actually be introduced in the Lok Sabha and passed. And it gives a four-stage process of how you generate the wealth. First is identifying the resources, of course, we've done it at our level, but presumably government sources will have a lot more info, so identify, restructure them, so in the way that they can be most optimized for private use, get all the permissions in place, get all the land titles clear, so there's no litigation afterwards, clear property, clear asset. And third is auction. And fourth is, as the monies come in, you're putting them into a fund from where it can be returned. So, this is how the wealth is getting created or generated from all of these public assets. How do you deliver? The second part is how do you get it across to people?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:07.100",
+        "message": "To sort of come back to this, I think there are like what just comes to my naturally cynical mind because I'm very skeptical about how government operates is that you mentioned the auction mechanism, which is a good thing, but, you know, the first issue there is that if you talk about selling all this public land, it's a process that for politicians incentives are for subverting the whole process and giving it to favored cronies under conditions that would fetch less than the market value, for example. And you think auctions would probably be one way to have a transparent process."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:37.340",
+        "message": "So, what we are saying also in the bill is there's a separate Dhanwapasi commission gets created. Right. So, you take the matter out of the politicians and the bureaucrats. But the government only will create the commission. Yeah, government has to create the commission."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:48.740",
+        "message": "I mean, at some point of time, you have to look at that. There is no other way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:52.260",
+        "message": "But of course, we are also solving the, trying to solve the problem of who forms the government. We can take that up a little bit later. Okay. So, the first part of it is really how the assets are identified. The process of auction is a transparent process. And look at what's happening today. Today, these assets are sitting with the government. They are either picked up by some of their friends, crony people, or they are just wasted. So, you have effectively, you have a plot of land, which is sitting idle, and then you have five unemployed people sitting somewhere away. Now, you put these five people on work on the land, they will create wealth. But today, if they are sitting idle, there's no wealth creation, which is happening. Simple example here. So, my belief is that this is at least a starting point. If there are better solutions, I think we are definitely open to ideas from the outside on what can be done better. But our key point is, this is the wealth of the people which should be, the process of returning it should start. Then comes how do we give the money back to people?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:53.740",
+        "message": "To get back to the process of returning it, one more question. Which is that, if you, for example, if you put too much of this land on the market at the same time, the value actually depreciates because the supply has gone up so suddenly. So, you plan to phase it out over time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:06.580",
+        "message": "Yeah. So, if I look at it, the actual process, I think how we can do it is that in the first year, the public sector undertakings, they are the low hanging fruit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:14.860",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:15.860",
+        "message": "So, by that time, you also have a year then to get the land processes set up in place. And I think it will be a good idea if land prices come down, especially in places like Mumbai and Delhi."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:25.860",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:26.860",
+        "message": "I mean, we have some of the most expensive real estate, again, because of bad laws. You've covered that earlier in your earlier episodes, because of bad rules that are there. And again, if the core price of the land actually comes down, you'll again have more economic activity, things which were unaffordable earlier. Couldn't set up a college, couldn't have affordable homes, couldn't have hospitals or whatever, all of the stuff that drives economic activity, you'll have a lot more of that happening. Prices in Mumbai and Delhi, especially, and some of the larger cities in India have been artificially driven up, because we have put so many constraints. It's like, take a simple example, we've reclaimed the sea, we've not reclaimed the sky. There are 100 stations in Mumbai and Delhi, we can have a million square feet built above every railway station. That's what happens in Hong Kong, Singapore, New York, all over the place."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:22.820",
+        "message": "In fact, the point Alex Tabarrok made in his great episode on FSI with me, where he said that we need to reclaim the sky, not the sea, and other cities in the world have FSI of 30, 40, they build upwards, we have an FSI of 4 or 5."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:35.460",
+        "message": "And we have done both the things, we have built a 100 storey building in Mumbai, we've also built on top of a railway station in Vashi, but we've done it for one station. So again, this is just economic opportunities, which are lying, which go a begging. And therefore, we as a country stay poor."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:53.500",
+        "message": "Okay, let's move on to the second part of your thing now, how do we get this money to the people?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:58.660",
+        "message": "What's that? So our first point is, this has to be universal. Okay, so yeah, people will come in and say, why should Ambani and Birla and everyone get it? And there are two answers to it. First is that every person, every citizen of India has an equal right on the wealth of the country. So it does not matter how rich or poor you are, you have a right. And the beggar at the traffic signal should get the same as Mukesh Ambani. Same as, it's the equal share in the wealth. Second is why universal? Because it just makes sense, of course, everyone should get it. And then you don't want to create another bureaucracy with corruption, trying to identify should Amit get it and should Rajesh get it? So what is your income? What is your BPL line and all of those things? Nothing. So everyone gets it, you don't need bureaucracies to identify who should get it, who should not get it. And the process of returning it can be through bank accounts, possibly linked, of course, linked with Aadhaar. DBT today is anyway happening to roughly a few hundred million people, probably close to 500 million people in all the various governments, direct benefit transfers already happening. I say is that, you know, the Election Commission can hold an election in 30 days and reach out to every Indian who does not have to walk more than 10 minutes to actually go cast a vote. So the people who are left out from the bank account creation, I think we can have one exercise which lets people create a bank account and you don't need a physical branch, you can do phone banking, equivalent, all of these possibilities are there. I mean, there's a significant economic incentive for a family when they're going to get one lakh rupees to actually go and get a bank account. All you have to do is to generate the awareness. And these are the poorest families in India would probably be saving not more than 10, 20,000 rupees, like we said earlier, debt."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:45.700",
+        "message": "So there's a great economic incentive. But you were joking about the Aadhaar linkage, right? Because coercing Aadhaar on people is, you know, then you see the other aspect of freedom"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:53.100",
+        "message": "come in. Yeah. So there are, like I said, Aadhaar is one possibility. Whatever, it's a mechanic, the mechanics can be debated yourself. We need to ensure that, you know, there's no fraud, there is no corruption in the process of giving it. So some form of identity will be required one way or the other. So make it universal, give it into people's bank accounts. So 20,000 rupees per person, one lakh rupees for a family of five. And it is recurring. So it is every year. And I think in the next five to 10 years, we would have completely transformed India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:23.420",
+        "message": "So every year a person is going to get 20,000 bucks. Yes. Does that really make such a big difference?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:29.380",
+        "message": "Again, go back to what the income of a typical family is, what are the savings and so on. My sense is, at least from what initial feedback we've got, I think it will make a very big difference. Because the most important number is, 10,000 rupees is the income, monthly income. Savings are probably, let's say, 10% or so for a household, for a household. So 1,000 rupees. What we are really doing is that 10, 12,000 rupees savings are now being multiplied 10 times over."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:00.500",
+        "message": "Instead of 12,000 savings for a household, you're getting one lakh to a household."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:03.460",
+        "message": "One lakh additional, which is there. And that is really, really transformational. That is, I think, what we'd like to accomplish through this, through Dhanwapasi. I mean, every year that we are not helping or not returning this wealth, which is legitimately that of the people, because we are saying that, you know what, we are keeping this for your descendants. So you will not become rich, but maybe two, three generations from now, you will become rich. Complete nonsense. Give the money back, let people become rich. Now, you don't have to then support them or help them afterwards. And we are actually spending probably a very large sum of money anyways today on all of these subsidies and all of these schemes, a lot of which is just looted away. Or it is going to people who don't need it. Some bureaucrat in Delhi deciding what scheme is right for some poor family in Jharkhand. This is again about individual choice. You get your one lakh rupees for your family, you decide how you want to spend it. Do you need to buy a Buffalo? Do you need to add an extra room in your house? Do you need to sell the cycle and get a bike? Do you need to invest that money for your child's education? It is your prerogative. So actually, by unlocking this wealth, we are freeing the people from the bureaucrats and the politicians. So not only we are freeing the wealth, but this is the way you actually get freedom back"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:36.180",
+        "message": "into people's lives. And you'd rather empower these people by giving them the money rather than saying that, hey, the government will do worthy things with it in your name, whether it's build statues or subsidy schemes or whatever."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:47.020",
+        "message": "No, here, take the money directly. Yeah, because everything else is coercion."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:50.020",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:51.020",
+        "message": "I mean, when government has put up already 60,000 crores into Air India, every poor family has already paid 200 rupees, 2000 rupees, sorry."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:59.860",
+        "message": "To Air India?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:00.860",
+        "message": "For Air India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:01.860",
+        "message": "And without being asked about it. So all you listeners who are Indian taxpayers, you've paid 2000 rupees to Air India, were"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:06.700",
+        "message": "you asked about?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:07.700",
+        "message": "Not just taxpayers, every Indian family. Right. Everyone pays tax. Everyone pays."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:12.820",
+        "message": "No, obviously, I mean, by taxpayers, I mean, 100% of us pay taxes, as I keep pointing out. I mean, all of these loan waiver schemes, MSP, and all of these new schemes which are announced, they're all taking away money from people. Of course, we are just too unorganized to protest about any of these schemes at all. But what we are saying is get rid of all of these things, because every one of them, I think the key message for people is that every one of them actually increases poverty. It does not increase prosperity. It hurts the poor the most, because they have no choice in this matter. And they should be having the freedom to decide what they want to do with the money. My belief is that even the poorest family knows what is right. There have been studies conducted. This whole, when I talk to people, many times people say, oh, but they'll blow it up in drinking and wasting it. It's completely the opposite. They know what is good for them. There'll always be that small fraction of people who will probably misuse some part"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:23:08.900",
+        "message": "of it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:23:09.900",
+        "message": "They do have the right to use the money. But it's their choice. Let them decide what they want. Because every year that we are losing out on this, I mean, a simple example, a simple point, 25 million kids get into the education system every year. We are subjecting them to a government education system, which does not work. You don't educate them right. You are basically, it's a human rights issue, you know, literally."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:23:36.320",
+        "message": "And more than that, they go out and because the education system is so bad, they end up having no skills at all."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:23:41.540",
+        "message": "And therefore, our jobs crisis becomes even worse. Completely. So give them, give the money back. I think you need to do this. I mean, even though technically you can do it for a longer period, 5 to 10 years, because there is no other way by which we are going to put Indians on the path to prosperity. What else is the solution? In fact, if you go back in America, they did pretty much similarly in the when the pilgrims and the early early settlers came in, they were given land, they tried community farming earlier, people started dying because no one wanted to really work out there. Everyone wanted the free lunch. Then they started saying, okay, this is your individual plot of land, you decide what you want to do with it. And that started the process of prosperity in America. I think in India, what we don't realize is that our people just don't realize because we are where we are. So, but the point I try and make to people is that your net worth should have been 10 times more today, had we done the right things over the last 70 years. And that's the change that we need to bring out, bring in India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:24:42.180",
+        "message": "That I completely agree with. And, you know, one early objection I had to Dhanwapsi when I first heard about it, and I spoke to your colleague Kumar about it, and I said that, listen, okay, I understand that there's this public wealth and it's debt capital, and you're going to sell it off. But by selling it off, why don't you simply reduce the tax burden and maybe, you know, cut down on all the taxes that people have to pay, which are, you know, essentially a form of theft, because the state does all kinds of things with it, which are not legitimate functions of the thing. And his answer, which kind of convinced me was that what you're then doing is that the Ambanis and the Adanis will benefit more from this and the poor people and by actually giving the money directly to each person at an equal level, you're making sure that the beggar on the street gets the same amount as the Mukesh Ambani, well, if you just reduce taxes or whatever, it's the rich who would really benefit from the lowering of the burden."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:30.100",
+        "message": "And there's one more point to add to that, which is that Dhanwapsi is not universal basic"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:25:35.740",
+        "message": "income."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:36.740",
+        "message": "There's a very big difference between the two. UBI is seen as an entitlement. This is the right of people. This is their wealth. So we are not doing anything other than giving them back what is already theirs. Just that they don't know about it today, just because they don't know and doesn't allow the government to retain control on that wealth. This is not perpetual. It's not a lifetime commitment that we are making. This is still, the wealth is there, what is generated from there, till we are giving it back. We are seeing as of today that the wealth is 50 lakh rupees in the surplus wealth. So potentially one lakh can be given for 50 years, it may be more, it may be a little bit less. But my feeling is that after 5 to 10 years, it will not make much of a difference to most people. Because by that time, they would have all started creating their own path to prosperity and their incomes would be, or their wealth would be a multiple, where this may not make as much of a difference. But we have to kickstart this process, we have to free up this wealth and get it out in the hands of people. I think that's very important. UBI has been used in developed countries more as a solution against the automation and the jobs crisis that is there. This idea is really new and innovative because it's about the public wealth. It's about the wealth, which, I mean, frankly, most people don't even know. We all, like you said in the beginning, it's owned by the government. But what is owned by government? Government ownership means it's actually government control. But we seem to separate out, you know, it's owned by the government, so you can't be touched as if the government was this massive monolith."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:08.740",
+        "message": "And your point is, look, it's actually owned by us and damn it, we need the money. Absolutely. And, you know, just to elaborate on that, I mean, the point of, you know, that UBI being an entitlement and, you know, just looking at it from the angle of positive rights and negative rights, you know, an entitlement or what some people call rights, but are really entitlements and, you know, would fall into the positive rights category. And therefore, what I would call fake rights is that you take money from X set of people and redistribute it to Y set of people, which is what UBI basically is. Absolutely. You tax everybody and then you give everybody UBI out of that. And of course, there is much leakage within the system. But what you're saying is not that there is no coercion involved here. This is the money of the people. It in fact, undoes the coercion of the past and, you know, sort of does justice by returning"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:53.720",
+        "message": "that money in an equitable way. Absolutely right. In fact, I should have added this earlier that UBI in most countries, all the countries that have been talked about is funded by taxation. In fact, here, and we've written this out in our prosperity agenda on our site, where non-wapasi is one of the key pillars, of course, for prosperity. With this, we can actually reduce taxes for everyone to keep more money in people's hands. They are the best decision makers on what to do with the money that is there. The government should get a limited amount of money, which it spends on a limited number of things. Today, what's happening is that the government appetite for collecting is going up much more. I mean, all these cesses and all of these additional things get squeezed in. So, it's death by a thousand taxation cuts that is there. And the scope of what the government does keeps growing. And we are heading down the completely wrong path. So, whatever the government needs, they should collect through taxes. So, there's a very transparent mechanism of running the government saying that, okay, this is how much we collected and this is how we have spent it. But they're not taking that money and trying to spend it on 25,000 other things that they should not be doing. India needs a better judicial system. India needs a better police force. India needs a better equipped army or defense forces. We today don't even have the money to buy arms if we have to protect our borders. Those are the core functions of a government. Protecting property rights, enforcing contracts, law and order, and so on. But today, because the government does 25,000 other things, they are not even able to do those core things that they should be doing, which others cannot. They're not doing that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:31.100",
+        "message": "In fact, instead of being a strong and limited state, we are a weak and diffused large state. So, instead of being strong in the few functions that we should do, we are actually weak in those and we do 100 other things. And the one thing that the state is really good at is basically predation. You know, the state is like a parasite which just sucks and sucks from we the people. So, moving forward then, is Thanwapsi or is this bill you've created just a public policy proposal which you want others to implement, or is it a political movement you're trying"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:01.580",
+        "message": "to start on your own? So, Thanwapsi is a political movement because the people in power right now, the MPs and their political parties are not going to pass the bill. We have sent it to all the MPs, we've got acknowledgments back from six out of 780 people"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:17.900",
+        "message": "we have sent it to. Can I, by the way, reproduce a bill on the site so my listeners can also download it"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:22.180",
+        "message": "and read it for themselves? Absolutely. Great. So, you'll find out in the episode. Yeah, it's there on the Thanwapsi site. In fact, the wiki, we have a booklet, there's a manifesto and the bill. So, all these links will be in the episode page then? So, the current sort of MPs are not going to do it. So, how do we make it happen? This is not just a theoretical idea which is left out there and then no one does it. What we really want to do, and that's the process that we've started with the second part of, so there's an economic idea, there's the political part of it also, which is that we don't even have political freedom actually in the country. We may call ourselves a democracy, but whom are we voting for? We are basically voting for those people whom the political party bosses decide. We have no ability to select the candidate from a political party whom we support in our own constituency. They put up the person, so now that candidate's loyalty or that MP's loyalty is towards the political party bosses, not towards the local people. So, our idea is that how can we create a technology platform? So, again use technology to bring in change in the political process. Technology has impacted a lot of other areas, it's not touched the political part. So, how can you use technology to select and elect a government of independent candidates chosen by the people through primaries in the next election? And these are the people then who are elected on a Dhanwapasi plank, that they will pass the Dhanwapasi bill, and once you start the process of doing Dhanwapasi, government starts a lot of other side effects which take place like we discussed. The process of shrinking government will begin. Now, how do we make this happen? So, what we've done, what our thinking is that, and that's what I was saying earlier on that, there's a very interesting opportunity right now, that there needs to be an alternative. So, the way I like to sort of frame it is that the political parties are built on a premise of dhoka, basically betrayal. You make promises and they have no intention of keeping, it's all for the purpose of getting into power. And all you have a choice is between one type A of dhoka or type B of dhoka. That's what you're going to get. We have seen it election after election through the years, but that's the choice that people have had in the past. What we are saying is that let's create another option, which is different from the political party. So, it's not about creating a new political party, it's creating a tech platform, which lets individuals who like this idea, who want dhanwapasi to happen, come together with candidates, with leaders who actually want to make dhanwapasi happen, who want to get elected to the Lok Sabha. So, it also brings down the cost of entering politics, cost of winning elections, because now you no longer have to rely on your political party godfathers and give them a lot of money to come into power, which sort of vitiates the entire system. As members come, just like Ola and Uber, it's a two-sided platform, you have drivers and you have passengers who connect through a tech platform. Today, we have enough phones and smartphones across the country to actually think about ideas like this. So, if, say, I want to contest elections, I can do that, of course, as an independent, but I'm not going to get more than a handful of votes, because who knows me, and so it's a waste of your deposit, security deposit. But now, if I want to contest elections, I can come on the dhanwapasi platform and say, yes, I want to be a leader, and there, we have a mechanism by which you can earn points. The top five people become the candidates for a primary in that constituency, where people can vote for them, they can rate them, review them. Someone can come in and say, hey, Rajesh, I know Rajesh, he was a BJP supporter. So, I can comment on that back, but it's a transparent process. You're not hiding, nothing gets hidden, because you're also tapping into the wisdom of crowds really out there. So, just like Zomato reviews or Amazon product reviews, they're all out there. I have to then be accountable to the people. So, you have primaries where the candidate then gets selected, and then, hopefully, because there's a large membership base, the likelihood of that person winning is very high. And I want to add one more thing out here. What's very interesting, if you actually look at the numbers, there should be 100 crore eligible voters in the next election in six to eight months' time, 30 crore, only 30 crore are hardcore supporters of BJP, Congress, and the regional parties. So, those are people who will go out, vote on the symbol that is there. They're not going to sit at home, they don't care about the candidate. The other 70 crore are unattached to any political party. They are either not voting, they're not registered to vote, they are wasting their vote, or they're deciding at the last minute whom to vote for. Our goal is that if this 70 crore, people can be persuaded that there is an economic incentive where you get your wealth back, and as a political part of it, where you get your voice back. And for the first time, you really will have a say in the future of this country. You have a voice as part, of course, of a large group, you have your voice, which comes back to you. You are not now hostage to the political party bosses, where two people sitting in Delhi are making all decisions, does not matter what you think. So it's sort of a revolution on both the political side and on the economic side, because you can't do one without the other. I can put the economic idea out, it's not going to happen, unless, and that was the big learning from the Mumbai corporation elections. And the solution is not creating another political party, because then we will go down the same path where there'll be two people at the top trying to decide. You've seen that happen with, for example, Aam Aadmi Party, where it went down the same way. So how do you think it bottom up, where, how do you return in a way the voice and wealth of the people? How do you make people politically free and give them economic freedom?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:05.500",
+        "message": "So let me try to kind of summarize what you've said and tell me if I've made a mistake and sort of understanding it and I have follow up questions. What you're saying is that then the Dhanwapsi platform is like a tech platform, which is like an Uber for politics, where you're connecting, like Uber connects drivers and passengers, you are connecting potential voters with potential politicians. And eventually, from this interaction between voters and politicians, you will winnow out a person in each constituency, who will then represent the platform, but not a political party per se. And the only thing about this platform, which is a given is that this platform stands for Dhanwapsi. So all these voters are people who want Dhanwapsi to happen. And all these politicians on the other end are people who are basically saying that, hey, we will make it happen. And that is a single point purpose of this. And it really doesn't matter what else anyone stands for."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:36:59.940",
+        "message": "Is that correct? Yeah, that's largely correct. And what we are hoping also is that as people come together, there's a broader prosperity agenda, where I think the Dhanwapsi by itself is the big idea. And actually, if we just get that right, there'll be a lot of other things which will have to be done, all of which will push India in the direction of prosperity. But the core agenda is towards this. So our thinking is that can we, in the next election, create a Lok Sabha of 272 plus, so the majority, are independent candidates who support Dhanwapsi and therefore we can get the Dhanwapsi bill passed as we go forward. You're talking about the 2019 elections, which are a few months away. 2019 elections, yes, in the next six months."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:41.260",
+        "message": "Do you think that's realistic, 270 independent candidates?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:44.460",
+        "message": "Yeah. I think the good thing today is that what technology lets you do is if an idea catches the imagination of people, it can spread very rapidly. This was not possible even probably four or five years ago. Each of us has the ability to, in seconds, distribute an incoming message to 100 or 200 other people through all the groups that we are on, and we tend to do that quite regularly. So I don't have to rely on sort of the existing media channels or any of those to get an idea across and it really has to be created as a people's movement. So the key parameter for success or the key, the one path for us to succeed is this idea has to go viral and there's an economic incentive actually for both members and for candidates to spread it. What we are saying is for members, when you register, you get a Dhanwapsi date exactly one year from the day you sign up. So the earlier you sign up, the earlier will be your date when your family will get back 1 lakh rupees."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:38:47.300",
+        "message": "But it should be equal for everyone, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:49.140",
+        "message": "So everyone will get it over a year, but of course, you can't distribute all of it on"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:38:52.700",
+        "message": "the same day."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:53.700",
+        "message": "But we're just creating an economic incentive for people to sign up earlier. Otherwise, we have the free rider problem. No one is going to sign up and we don't get any support base. So in the first year, everyone will get it. So it's a universal, but just it's staggered in terms of how there's an interest incentive for you to sign up earlier. Second, what we've done is what we are saying, of course, this is all subject to us being able to pass the Dhanwapsi bill through the Lok Sabha and all that. The second part of it is that if you now help sign up other people, your date advances by a day for every person you sign up. So we've gamified this a little bit, again, incentives work, we all know that. So if you are a person who has connected with other people, the 1 lakh rupees means a lot for your family, you will want to then sign up on this platform, there is no downside to it. Even a lottery ticket that you buy actually costs you money. Here, there is no downside to it. And we want to make people champions of this idea that by just by you signing up, you're not going to make Dhanwapsi happen, go and talk about it to 10, 20 other people. Because that's how the idea can spread."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:55.180",
+        "message": "So these are the incentives of the voters and what are the incentives of the candidates"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:58.580",
+        "message": "and for the candidate? Now, what's very interesting is that if you have wanted to come into public life, if you want to do public service, you want to become a politician, what are your paths today? You can try going into any of the political parties, if you do not have a lot of money or you do not have the right surname, it is pretty much impossible for you to make any kind of progress. And that's why we see some of the MPs that we see, you don't even see them after the election campaign over the next few years. What we are saying now is that if there are a lot of people who want to get into politics for the right reasons, where making money, being corrupt and just exercising hardcore power is not the primary objective or is not the objective. For these people, today, there is an alternate way, which does not require a lot of funds. It democratizes or opens up politics, just as Ola did. If you have a car and you want to make some money driving it around, you can do that. Of course, we've banned that particular element in India, but worldwide, that's the place for Uber, for example. You have a few hours, you've got a vehicle, you just sign up on the platform. So, it opens up the access to the platform. This is what we are doing out here. And people can then essentially, and by primaries, it makes the process very transparent and open. And even in the primaries, we have set two more conditions. We've said that we will only do primaries if we have a 5% plus support base in our constituency. So unless there are a lack of people in a typical 20 lakh constituency, there are no primaries, there is no candidate. And second is the winning candidate must have 50% or more of the support base. So, you cannot create selectorates."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:39.780",
+        "message": "So, you have run-offs basically, that if you have five people in the top two players."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:41:44.660",
+        "message": "Either run-offs or you can do rank choice voting."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:46.580",
+        "message": "There are two options, which we will be examining. Right. So, I have some further questions on this mechanism. The first question is that to get sort of critical mass and build a bunch of voters, you have to then sell the idea to them. Now, the thing is the idea that you're basically selling does not seem to be the idea of economic freedom because those are counterintuitive, hard to understand, not already in the culture. The idea that you're selling is basically, hey, we'll give one lakh a year to your family. And that seems, although the logic is different from populism, because it's not funded by taxes and coercion, in terms of the appeal to the people, it seems kind of, it has that populist welfarist kind of feel to it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:42:25.540",
+        "message": "I thought a lot about which is the one idea which can capture people's imagination. And to everyone who gives me this, I said, give me a better idea. And it's really like this. I think the real problem in India today is that of poverty. And I would say it's not just absolute poverty, it's just that people don't have enough wealth because we suppress wealth creation, we inhibit, we proactively have policies which destroy wealth. Negative subsidies. Negative subsidies. Like you said it earlier. So, I said among all of the ideas which were there, and there are many themes which we had discussed when I used to think about this, it's like an entrepreneur, okay, there is a political marketplace, we are introducing competition in the political marketplace. And what should my product be like? And I said this theme around prosperity, this idea around that there is your wealth which can be returned back to you, came across to me as a very, very powerful idea. And in the last two and a half months, I released the first video on August 15th, which talked about this idea. It's very interesting. We've had two types of reactions from people. So, the intellectual elite have come back to me and said, Rajesh, how are you going to make it happen? You know, all these land permissions are there, this permission is there, nothing gets really ever done in India. It's never going to be possible to do it. But then there's a completely different other set of group, which I would categorize as the mass. They are coming and saying, when will I get my one lakh rupees? So, this theme of, you know, that this is their money, it's getting in, it's spreading. Now, it's at least spreading as in it's touching people, that this is mine, I should get it back and it will make a significant difference to my life. It gives me an escape path from the bad or suboptimal situation that I am in. And the fact that this is my right, that is, I think, very important to bring out here, that this is not another government scheme, where they are giving out this kind of money by redistributing it from taxes that they raise otherwise. So, I think if we can get more and more of that idea across to people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:39.140",
+        "message": "Do you really want to invoke their anger? You want people to say that, damn it, I struggled so hard to get by, and my money is just lying out there and I want some of it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:44:47.180",
+        "message": "Yes. So, I mean, all that, well, you're absolutely right. Because unless people get really angry, okay, they do not tend to act. This is, we all know this really is there. So, this theme of dhoka versus dhanwapasi, dhoka or dhanwapasi. So, the way I'm looking at it is, how do I frame it? And I'd love inputs from people who listen to this podcast, for example, is that we have to get a message out to people with limited attention spans. The framing has to be such that it has to be positioned as a choice in the next elections. You can either vote for BJP, Congress or your favorite regional party, that is the only choice you had so far. But now there is an alternative. So, then when people say, what is the alternative I want people to say, there is dhoka on one side, there's the betrayal, which will happen again and again to us, doesn't matter who gets elected. Or there is the idea of dhanwapasi and prosperity and freedom that we can make happen. That is the real framing that I want to get done going forward."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:41.340",
+        "message": "That's with regards to appealing to the voter. Now, my second question to you is that if the platform becomes popular, and if there is a chance that candidates, you know, you will reach the 5% threshold you set for yourself, like in a 20 lakh constituency, you will get a lakh people, and then you will elect candidates. Isn't there then a danger that this will be hijacked? Because the only thing that a candidate really needs to say is he needs to say, I believe in dhanwapasi. And beyond that, his framing can be absolutely anything. And you don't even know whether he really believes in dhanwapasi. So you can have like Modi made a lot of opportunistic noises about economic freedom before 2014. And people were taken in by that and voted for him and he turned out to be something else entirely. You know, as you said, this is like a crowdsourcing, no one owns this whole process, you want it to be bottoms up. How can you say that the process won't be hijacked, for example, by people who might say yeah, dhanwapasi is a good idea. But hey, let's also ban cow slaughter, and hey, let's also, you know, push Muslims to go out of the country to Pakistan, for example."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:46:42.820",
+        "message": "Okay, so my sense in this is that it's, you're right that it is impossible to control the entire process, okay, because in the current Indian system, there is a whip. So the extreme that you have right now is two people decide the entire existing set of MPs are basically just administrators of MP lad funds, which they get, they have no real power, no real authority to do anything, because otherwise, if they violate what the party tells them to vote for, they're ejected and thrown out. Look at the US system, the Republicans and Democrats, people get elected on one of these two tickets, but they are free to decide on every vote on every issue on their own. So there is no core, possibly maybe other than maybe finance matters, the budget or whatever, there is no real whip that is holding them on this, but they are accountable to their constituents. What we are saying here is that if you are going to do things which is against the will of the people, and you have to rely on the will of the people at the end of the day, that is the choice that we have made in India. If you are going to do, they are going to be up in arms against you, you are accountable to them, that's first. Second is, I think once people taste economic freedom, and because of that, the other freedoms, I think there is no going back. See, we've never had, you know, it's like we've never really had Indians exposed to real freedom, you know, where you are not held hostage by some government bureaucrat for like 20 permissions that you need for doing something, and so on. I mean, the rules, regulations in India just keep going up in every sphere that is there. And the government has become, like you said earlier, a predation machine. It keeps extracting because its desire to gather votes and please people is going up. Like what we have seen currently happen in the dispute between the government and RBI on what to do with the big chunk of RBI reserves, you know, which really technically is the wealth of the people, but they are fighting over it as if it's their pool of money to distribute the way they want. So, I think what needs to happen here is that you can bring in what people want through the mechanism of technology. And where it is happening actually is in Italy, the five-star movement, even though that's a populist movement. So, they came to power on a populist principle, but forget that part for now. They are essentially using the app, the five-star app, using technology to source inputs from people on bills, on legislation, etc. So, there is a way by which you can make this happen through technology, there is discussion which happens. Today, there is no voice that people have at all. We may make some wrong decisions, but then the candidate has to come back and face his constituents and then they will decide, look, you did not do the right thing, we will vote you out. So, I think this is the natural process of corrective democracy, which will be there. But let's at least experience that. And my belief is as long as we go through the dhanvapasi, even if just dhanvapasi gets done, I think in five years, you will have a very different country. You will have a significant reduction in the powers and the resources that the government has and it's an irreversible. After that, they cannot grow it again. And that will really set Indians free. So, even if they want to try and do things, they will not have the ability to actually"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:06.540",
+        "message": "grow government after that. A platform like this seems a mind-blowing idea to me, very disruptive and all that. But it also seems to me that rather than being built around a set of values is built around one specific policy proposal, and you could easily have people come out of the system, who would say, fine, we'll implement dhanvapasi, but we'd also do X, Y, Z, and here just think of whatever is most objectionable to you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:50:28.380",
+        "message": "I'll tell you why. I thought about this. And I said, should we have a pledge, you know, which says, I agree to this, I agree to this. I said, it's a meaningless pledge. I said, how is it that I look inside a person and say, what are your core beliefs and all of these things? You can't do that. So, keep the big idea as big enough that it will prevent a lot of other bad things from happening and you can't really, you know, like you said earlier, people could sign up for anything. So, it's very difficult for me to force that corrective mechanism has to be with the voters in the constituency themselves who are selecting the candidate. And therefore, it's not a very small electoral college, it's not 10 people deciding who the candidate should be. It's a very large electoral college, which is deciding who the candidate should be. And if they make mistakes, well, they'll correct it in the next election."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:13.380",
+        "message": "So now that let's, so you've got this tech platform, you've got this one policy item, which also, you know, has a rationale of certain principles behind it, which you hope are embraced by the candidates. But leaving that aside, let's say that everything works, you achieve critical mass in terms of getting voters, you get good candidates who fight among themselves, and there's a meritocracy and, and you actually get a lot of MPs. But then the question is, these are all independents, they're not part of a party, their views to your tech platform, but they're not actually part of the same organization."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:44.100",
+        "message": "So what happens next? Okay, so think of this as if we are successful, it's a government of 272 plus whatever number singleton parties, every party with a single candidate, because every candidate is theoretically independent. But we have seen this picture before. This is exactly how the US Senate, how the US Congress work and in many other countries, it's the same way that it works. What happens, even when the president or whoever proposes something, they have to get persuaded whether to support that particular bill or policy. And for that, they are taking inputs from their constituents, which is what we want to make happen. Technology just makes this whole process easier. I agree, this is not perfect. And we will probably take, we'll see how to how it gets refined and how it becomes better. But look at what we have today. Today, we have effectively, like I said, in one of my earlier videos, we have a kakistocracy. Kakistocracy is a government by the worst of the most unscrupulous people. We had that for the last 70 years. People who have no incentive, no interest in doing the things to get out of the way of Indians who want to prosper for themselves. And that's the core idea that everyone, every family has. But we put hurdles, whether it's farmers, whether it's entrepreneurs, whether it's businessmen going about their lives genuinely, whether it's kids wanting to get educated. I mean, look at, but that is what we have today, because it's two people who have no understanding of what creates prosperity and does not matter which party they are, if it's one or two people deciding what should be the core policies or whatever it is there. Maybe this is another extreme, but let's at least try something different for the next five years, 10 years, because we know the path we are on right now. If you're going to stick on that path, we know the outcomes. India is not going to become rich today. Every Indian family who has 18 year old kid and who has two crores in the bank, they want to send their kid outside of India for education."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:46.860",
+        "message": "In fact, under Modi, you had the largest number of multimillionaires leaving the country and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:53:52.820",
+        "message": "settling somewhere else. So we are effectively sending our best brains, our brightest young kids out of the country on a one way ticket. How is India going to become prosperous? I think for one generation, what India needs to do is to set aside everything that divides us. And there will always be issues that divide us from caste, community, whatever it is, and focus on a single mission around prosperity. It's effectively what the US did after the Civil War. After 1865, it was business people who built America, Morgan, Rockefeller, Carnegie, Vanderbilt, Ford and others. And I think we will have that surge of entrepreneurship and innovation. I mean, we have unleashed the power of 1.3 billion free people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:54:44.740",
+        "message": "The world has never seen this. So here's my question for you, supposing Dhanwapsi doesn't work, and your party of independence doesn't form the next government, what's next?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:54:54.580",
+        "message": "So there are two paths. My belief is that the idea is right. And we will, of course, see what feedback comes and what happens. But I think the same idea can actually be applied at the state level also. So we may not have Lok Sabha elections for another five years, but there are a lot of state elections. So I want to take the same theme around prosperity and take it to the states. So states, I would add one additional idea, along with Dhanwapsi, I want to add the idea of Swatantra cities."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:55:19.380",
+        "message": "But states can't really do Dhanwapsi, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:21.820",
+        "message": "Because..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:55:22.820",
+        "message": "Oh, there is plenty of..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:23.820",
+        "message": "Oh, that the state can sell? Yes, yes. There's plenty of state owned, state controlled land also that is there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:55:30.380",
+        "message": "Which if they sell, they will also be at liberty to disperse the money in this way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:33.700",
+        "message": "They can do that. That's at least a starting point. So try that. So extend the platform for MLAs and potentially for cities. Cities also can do somewhat similar. There are resources which are there. So that's one track. And second is, I will then want to also increase the education process. Then we have five years or N years, whatever, three to five years, depending on what type of government gets formed. To persuade people that there is an alternate path to prosperity. I recognize that the time is limited right now, but I also know from my previous experience that the period just before an election, the six to eight months before an election is probably 10 times heightened awareness than is the peace time, the four and a half years in between. So I think it's a great time to actually put an alternative out to people. And I think we will get learnings. So my sense is we'll have one of two outcomes, either we fail spectacularly, okay, in which case we don't get any interaction, or if this becomes a force, then I think it is unstoppable. Because like the network effects, which will be inbuilt into what we have, are going to be something which no political party will be able to stop. It's a genuine people's movement."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:56:47.060",
+        "message": "It seems to me to be, and tell me if you agree with it, it seems to me to be a low probability high variance kind of thing, where this will probably 99.9% of the time, it will fizzle out completely and be a spectacular failure, but 0.1% of the time, it will succeed spectacularly and change the nation forever. That's what you're banking on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:57:05.420",
+        "message": "That's how every entrepreneurial venture is about. So now at the same time, every entrepreneur goes into that venture knowing, I mean, with the reality that 99.99% ventures fail, but the entrepreneur has the optimism that there's a 70 to 80% chance of success."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:57:21.540",
+        "message": "That's how I am. So what you're saying is, then you have to be delusional to be an entrepreneur, because"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:57:25.780",
+        "message": "if it's a 0.1%, but you think it's 70%, that's how every entrepreneur is, especially when you come up with big ideas."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:57:31.340",
+        "message": "So I want to sort of end on this note that, you know, in the time that I have met you, you had the idea of changing the constitution, then you had the NOTA idea, now you have these, and these seem incredibly outlandish. And yet people don't love you out of the room, because you have a track record of success in tech, where you've built multiple ventures and made them extremely successful, you know, starting with your India World Ventures, in which you sold for 100 million and 99 hundred million dollars. And you've built that core into a very successful company, and you have that track record of success. And no matter how outlandish your ideas, people kind of listen to you and sort of give you that space. And you've brought many of your principles of tech entrepreneurship into political entrepreneurship. One of those seems to be that don't agitate too much and get an idea perfect, just go out with it and see what happens and throw everything at the wall and see what sticks. What are the sort of like, are there similarities between tech entrepreneurship and political entrepreneurship? Like, how do you think about it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:58:28.980",
+        "message": "Yeah, see, at least the way I've been thinking about this is first is, have a big idea. The odds of success or failure don't change, because you've got to get a million decisions right in anything that you do to succeed. So might as well go for the moon, in terms of the idea that you have. So when I started India World, the idea at that time was not just to create a news and information portal, but how do you build an electronic marketplace which connected Indians worldwide? When I talked about in the political space with the BJP, I did not say that, okay, let's move the needle from 182 seats to 210 seats or 220 seats, I said, how does the BJP get a majority on its own, because the strategy then becomes very different. So here it's not about saying that, look, let's try and get five independent candidates into the Lok Sabha, which will actually make no difference at all. So first is make big plans, because they are the only ones which can really inspire other people to action. That's one. Second is, how do you use technology as a game changer? Technology is the only thing I really know in my life. And in every place I've tried to use, look ahead and see what are the things that technology can do, which we can apply. And when I looked at the political space, I said, okay, this is the Dhanvapasi idea was there, but then I had to make it into something which is actionable. And that is where this idea of platform technology comes in. Over the last many years, we've seen platforms emerge. So like Facebook, Google, they're all platforms, they're connecting two sides together. And I said, the same thing can be applied here. So instead of trying to create another political party with me at the top, trying to recruit people, I said, how do I know who in a constituency in Kerala would be the right candidate? So you flip the whole thing around, which is what Uber, Ola, all of these marketplace type platforms are actually doing. So the technology in this case is this, but in every place, how do you use technology to really make a difference, be the disruptor really? And the third thing is, don't worry about failure. I failed enough times in my life, every failure teaches, because if you think about, okay, how impossible the mountain is, or how impossible the mission is, you are not going to climb. There's a very nice title of a book, Mountains Beyond Mountains. And when I read it, it by Tracy Kidder, basically, it's a Haitian proverb, but it's only when you climb one mountain, that you see that there is another mountain beyond it. But if you knew if you sat at the bottom and saw how high the mountain is, you probably not start climbing it at all. So my approach in this is to get started. Like you said, you try out different things, and you learn every day, can you become better every day? What an entrepreneur really does is not aim for massive success. You're going into work every day, trying to reduce your chances of failure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:01:18.940",
+        "message": "Wow. Rajesh, thanks so much for this, it's always inspiring and intellectually stimulating for me to chat with you. All the best with Dhanwapsi and I hope to have you on the show some other time talking about something else as well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:01:30.340",
+        "message": "Sure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:01:31.340",
+        "message": "Thank you so much for the comment. If you enjoyed listening to this episode, do go over to dhanwapsi at dhanwapsi.com that's spelled D-H-A-N-V-A-P-A-S-I.com Dhan V-A-P-A-S-I.com. You can also read more of Rajesh Jain's writings on at RajeshJain.com. You can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse past episodes of The Seen and The Unseen at seenunseen.in and thinkpragati.com."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:02:02.420",
+        "message": "Thank you for listening. Have you gotten yourself a gym membership and shown up only a few times? Are long working hours cutting your fitness goals short? How about you change things a little? Even a small effort can make a big difference. And I'll tell you how and what exactly. Hi guys. I'm Coach Urmi and on the Kinetic Living podcast, you can look forward to some interesting stories of people who have changed the way they look at fitness after their kinetic journeys. Episodes out every Wednesday on the IBM app, website, and anywhere you get your podcasts from. How aware do you think you are of your laws and rights? Do you look up to laws when you're caught up in situations? Do you know what your rights are when you're stuck somewhere bad? Well, here's a show that can help you move an inch closer to being aware of what your rights are. Tune in to Know Your Kanun with me, Amar Rana. This is a podcast meant to answer all your law related queries. Catch Know Your Kanun every week on the IBM website or the app or anywhere you get your podcasts from."
+    }
+]

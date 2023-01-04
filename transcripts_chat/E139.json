@@ -1,0 +1,1127 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Before you listen to this episode of The Scene and the Unseen, I have a recommendation for you. Do check out Pulya Bazi, hosted by Saurabh Chandra and Pranay Kotesane, two really good friends of mine. Kick-ass podcast in Hindi. It's amazing. In 2014, when the BJP swept the general elections, commentators spoke about the Modi wave. Some people were stunned by the size of this wave. But maybe they would not have been so surprised if they'd followed the cultural, social and political currents behind this wave. Narendra Modi's rise to power did not start in 2002 when the Gujarat riots happened, or 1992 when the Babri Masjid was demolished in Ayodhya, or even 1980 when the BJP was founded. These currents, in some form or another, go back decades, if not centuries. They started gathering force and were given direction around a century ago, and it was such a well-organized, well-thought-out, powerful force that I am surprised that we didn't have a Hindu Rashtra long, long ago. The book that I will discuss on the show today is ostensibly a book of history, but it will reveal the true nature of modern India more than almost any other book you can find in the market."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:14.320",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Bharma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:29.000",
+        "message": "Welcome to The Seen and The Unseen. I'm honored to have the journalist and author Akshay Mukul as my guest today, and we'll be chatting about his brilliant book, Gita Press and the Making of Hindu India. There's been a common question asked in recent years, sometimes with genuine curiosity and sometimes with mockery. Where are the intellectuals of the right wing? I explored this question myself in an episode I did a few months ago called The Intellectual Foundations of Hindutva, where I chatted with Aakar Patel, who is writing a book on the Hindu Rashtra. At the end of the episode, Aakar and I concluded that there isn't really much there. On reading Akshay's book, I realized that we were perhaps too glib. There is an organized intellectual tradition within the Hindutva movement, and there has been coherence and consistency over the decades. Maybe people like me have discounted it because our first language is English and we don't read the Hindi press, and maybe we discounted it because we have such contempt for the founding principles of this tradition that we hesitate to call it intellectual. Either way, it's our mistake and our loss. Without understanding these intellectual currents, I don't believe we can understand India. And we will continue to be surprised, election after election, as our elite little bubble continues to count for nothing. Also, all our talk of getting our ideas into the culture stand for nothing. If we cannot understand our culture in the first place, and the forces that shaped it. Gita Press and The Making of Hindu India is an eye-opening book. But before I begin my conversations with Akshay, let's take a quick commercial break. Did you know that Parsis in Mumbai, instead of being left at the Tower of Silence after they die, are now cremated? And why? Because a cow fell sick in the early 1990s? Did you know that the smog in Delhi is caused by something that farmers in Punjab do, and that there's no way to stop them? Did you know that there wasn't one gas tragedy in Bhopal, but three? One of them was seen, but two were unseen? Did you know that many well-intentioned government policies hurt the people they're supposed to help? Why was demonetization a bad idea? How should GST have been implemented? Why are all our politicians so corrupt, when not all of them are bad people? I'm Amit Verma, and in my weekly podcast, The Seen and the Unseen, I take a shot at answering all these questions and many more. I aim to go beyond the scene and show you the unseen effects of public policy and private action. I speak to experts on economics, political philosophy, cognitive neuroscience, and constitutional law, so that their insights can blow not only my mind, but also yours. The Seen and the Unseen releases every Monday. So do check out the archives and follow the show at seenunseen.in. You can also subscribe to The Seen and the Unseen on whatever podcast app you happen to prefer. Akshay, welcome to The Seen and the Unseen. Thank you, Amit, for having me. Akshay, tell me a little bit about yourself. How did you become a journalist?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:31.880",
+        "message": "How did your journey start? I grew up in Ranchi. I'm originally from Bihar, but I grew up in Ranchi, which is now Jharkhand. So it was, it's a very cosmopolitan, I grew up in an industrial township. And we grew up without getting too much affected by caste or religion, because, you know, for years I had Goan neighbors or Garhwali neighbors, because you know, this is how industrial towns are. And I studied there till my plus two, which is I did intermediate, went to JVS college there. And then I came to Delhi University, where I studied history, I majored in history. And then, well, like everyone from Bihar, or that part of the world, tries a hand at civil services, which I did one attempt. And then I thought, no, that's something maybe I'm, it's not for me, I just couldn't clear it. I just couldn't even clear prelims. So I went for, I thought journalism, I tried journalism, I went to IMC. And then I joined, I worked four places, started with Asian Age, which was just launched."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:05:39.840",
+        "message": "And it was like talk of the town, it was one of the biggest thing to happen in the early 90s. Then worked in Pioneer for three and a half years, then in a way changed hands."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:51.320",
+        "message": "Then I moved to Hindustan Times, where I worked for exactly two years."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:05:55.320",
+        "message": "And then Times of India, where I worked for almost 17 years. And then now I kind of quit, now I'm off journalism. I quit in 2017. And since then, I'm kind of on my own now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:08.200",
+        "message": "And what kind of journalism attracted you?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:10.800",
+        "message": "Well, journalism, when I had grown up reading all kinds of journalism, I'm talking of M. J. Akbar of those days, not the M. J. Akbar of now, when he was editing Telegraph and growing up in Ranchi, and Telegraph was launched, and it was in the paper in Ranchi always normally comes in the evening. But one waited for that paper. And even waited for Indian Express or Times of India, which all came in the evening because there were no Patna editions, no other editions. So Delhi edition will come by air and will come in the evening. One was really attracted to the kind of journalism which was happening those days with, you know, Bhagarpur blindings happened, Arun Souri was there, M. J. Akbar was there. And these people were taking on the establishment. And when I joined profession in late 93, early 94, these people were still there, Arun Souri was no longer working in active journalism, but Akbar was, I joined his paper. Other people, Chandan Mitra, other people who one had grown up reading. So there was this whole thing on this right on the genuine issues of the country, right on the politics. And it was a phase when Congress was dominating. And although it was like the fag end of Congress dominance, but still Congress was very much the dominating force. And there was this whole larger alliance of anti-Congressism happening, socialists, leftists, even BJP, all of them were coming together. So it was a very, very interesting phase when I joined journalism. I remember in 93, one of the, this 94, in fact, this Andhra election was taking place. And this was a one big election. I think Chandra Babu Naidu had managed to come back, it was, I remember, it was a big election. Then, of course, that was a phase of instability, we saw governments after governments come and go from 89 onwards, only five years of Narsimha Rao, five stable years of 96, 98, 99. And then the stability, now we are in a stable phase. And once all that, you know, I was in HD when Kargil happened, I covered Kargil in a very different way. I covered post-Kargil, I traveled, I remember from Meerut to Tehri Garhwal, Pauri Garhwal, just talking, going to the families who had lost their children, their sons, brothers, you know, husbands, and the whole futility of war, what goes in the family, one could see it firsthand, and a lot more things are happening in terms of religious politics, because you know, 92 was very fresh, 92 had happened, politics had gone for a complete chin, Mandal had happened. So it was very, very, we saw United Front government, we saw six years of Bajpayee rule, 99, and then he again, 98, 14 months, and then five years from 99 to 2004. And I covered, I started basically as a feature writer, I was writing on arts and culture. And I must have interviewed all the writers, poets, painters, you can think of, because Pioneer was the only paper those days, which had a dedicated arts page five days a week. And it was a very serious arts page, very, very serious people were writing, very serious columnists were there, and we got really into the subject. So and then we had a very good weekend paper for which I wrote a lot. Then I moved to writing more and more on politics while I was still there. And while I moved to HD, it was again part of the Sunday team, but it was writing more on politics. And that's where I covered, I had a lot of experience doing varied things. For instance, I, much before this Gujarat thing, I remember doing a full page on Gujarat as Hindutva Laboratory. And they were outraged that how he's saying this, and this was way back in 99. Then I did on this whole how they were trying to, what they're trying to do with syllabus, NCRT syllabus. And I remember Murali Manohar Joshi getting very hassled about it, he was HRD minister. I did a lot on, I wrote on the Narmada Bachao Andolan, which was in a very crucial phase, which was kind of in a way, disintegrating, you know, that was the last rally for the valley I remember in 99 or early 2000. So we did a lot of interesting stuff. And then I came to Daily Grind in Times of India, where I was covering political parties, Parliament, I was doing a dedicated ministry, like HRD ministry, or culture ministry, which gave you a ringside view of how government functions, what happens, how decisions are taken or not taken, or made and made. And Parliament, of course, teaches you, you see closely how legislation happens, how things work, how politicians, how political parties come together on certain issues, how on certain issues, whatever might be the rhetoric outside, deep within, they're all together, you know, so you see all those things happening very closely. So it was a very, very good, very enriching experience. And I was lucky to work with some of the very, very good editors, you know, I worked with"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:11:45.400",
+        "message": "Bharat Bhushan, I worked with Chandan Mitra, worked with Beer Sanghvi for a while in Hindustan"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:52.680",
+        "message": "Times. I had NHD, I had all, Padgaonkar was just kind of the last days of Padgaonkar in Times of India. But yeah, one knew him, one could always go up to him. Then we had people like Siddharth Varadarajan, Manoj Joshi, you know, so it was a very, very good. Later on, changes happened in Times of India around 2004, early 2004. Because somewhere BJP, I think it was a complete coup, a lot of people had to move out and the people who was considered very close to the government took over. But then the election they lost. And after that, and one has actually I consider 2004 and 2009, actually the UPA 2, that's when it started deteriorating. And now, in 2014, I was very much there when Modi came to power. And you could see for the first time, you know, you're always second guessing the your boss political bosses, you're thinking what's happening, not happening, which is not to say that was not happening during Congress regime. I know of Congress ministers who would constantly buzzer editors and owners saying that why my particular kind of picture gets published, please ensure that it never comes out again. But it's become far worse."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:17.800",
+        "message": "Now it's happening at a different level, all together. I had a young political scientist on my show a few weeks ago called Rahul Verma, and who's just written this book called Ideology and Identity. And Rahul made a very interesting point that because he grew up essentially reading Hindi newspapers every day, he got a very different view of India from what his peers have today. I'm just wondering that in your case, you grew up in Ranchi, and obviously, your Hindi"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:48.080",
+        "message": "is excellent, because you know, Yeah, my family has been a very bilingual family has been a stress. So that's how I got used to Hindi literature. I read Hindi literature a lot, when I was growing up, I continue to and I feel we have added this completely false sense of I don't know what to call it, but by you know, reading Hindi or reading any other language, it's not about Hindi reading, I have Telugu friends who are my generation who kind of regret their children not reading, I regret my daughter not reading Hindi as much. I don't know, maybe I tried too much. Maybe I didn't try enough. Maybe there's something wrong. But I feel very bad that the children all coming up with a single language, English speaking people. So that way, yes, I was lucky. What Rahul told you, he's absolutely right, your sensibilities, your the way you see the world completely changes, because Hindi newspapers in the literature introduce you to world, which exists in which we and we are not aware of, you know, for instance, say someone reading a book like Raag Darbari, I must have read it, I think I was just out of school or something. And so nothing after that, nothing shocks you, you know, you feel that, okay, this is"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:01.640",
+        "message": "so true, he was, you know."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:04.080",
+        "message": "And you realize the power of literature, more than any other work of nonfiction."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:08.960",
+        "message": "Absolutely."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:15:09.960",
+        "message": "Absolutely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:10.960",
+        "message": "In fact, Rahul and I discussed Raag Darbari also."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:16.160",
+        "message": "When you see this India that we are inhabiting now, you realize that, oh God, you know, just say this how I met Mr. Lal Sughal much, much later, and I just couldn't imagine, yeah, he was a man who had a great sense of humour. And I was kind of trying to ask him, what is the process? How did he? He said, you know, I was just, he was an administrator. So he had seen India, he had an added perspective, how things work, what happens. So he brought everything there and nothing has changed. This is the India of Srilal Sughal, Raag Darbari has not changed at all, if you ask me, nothing"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:00.320",
+        "message": "has changed. All of those fundamental things, the way the bureaucracy works, the way people think, it's just flat out the same. So I can't help but ask you that, okay, so, you know, you went to college and you did a degree in history. And typically people of my generation and earlier generations, what we did a degree on we just happened to do it, it wasn't really a real interest, degree karo, uske baad jo karna hai karo. And but in your case, there is this interesting symmetry that you do a degree in history, and you spend these decades in journalism, and then you write this great book of history."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:30.400",
+        "message": "See, I have been a kind of history junkie, I have been kind of, I have been genuinely interested in history. And in fact, a lot of my friends who are in academics, they always joke that, you know, when a new book comes on history, he probably buys or reads before us, you know. So I have this, my entire money goes in books. That's all I've done in life. If someone asks me, I've done nothing, but only bought books. Pretty much the same."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:16:55.480",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:56.480",
+        "message": "So nothing. I live behind nothing, just books. And I have been genuinely interested reading new kinds of history, what is happening worldwide new trends. And one can see how the history writing also changed the time when I was in college to subsequently and then some books completely kind of, like, for instance, this book that I'm talking about Francis Corsini's in the public some days, I'm getting not getting the title right. And then Vasudha Dalmia's book on nationalization of Hindu tradition on Banaras. You find that this is saying something which is first time history writing or don't call it history, don't call it it's a kind of a literary history of a different kind of things which no one bothered about your history books never told you. And they're talking about creation of mindsets, how mindsets became what they become, you know, what we are seeing now. So Vasudha Dalmia's is a great book, which talks of how this whole thing started in a city like Banaras, the role of Bharatendu Harishchandra. Francis Corsini takes it even forward. Charu Gupta comes, who brings out, if you ever thought that Hindi literature was all about nationalism or patriotism and everything, she talks of sexuality, obscenity in Hindi literature, not literature, she's even talking about journals, and it's a path breaking book actually. And then you grew up in a place where you see that Gita Press is there all the time, you know, in any ordinary Hindu household, they need not be rabidly communal or anything. It's a very secular household, it was coming, it was coming for your grandparents, someone was reading somewhere, you know, and if you ask anyone, everyone knew about Gita Press and everyone had their own story about Gita Press. So then you realize, so in fact, before I started working on it, I asked, I remember Wendy Doniger, that why did she never work on it? She said, well, I'm not interested so much that aspect of this thing, but it's a very good idea. And just then before that, there's another historian called Ulrich Stark, she did a brilliant book on Naval Kishore Press of Lucknow, Kanpur, and it's an amazing book on the history of this press. So I kept wondering that how come there's nothing in Gita Press, everyone reads about Gita Press, and that got me thinking, that got me inside Gita Press. And I could easily relate to it. In fact, a lot of my friends, in fact, Basudha also asked me this, that how could you relate to this? I could relate to it also, because as you said, right in the beginning, you know, because of reading is multiple things in languages, Hindi. So you know, that was not a kind of alien thing, I didn't have any problem thinking about working on Gita Press, it was not something, you know, formidable for me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:56.400",
+        "message": "And in a sense, a book is, I mean, much more than the history of a printing press. It's also to me the history of the whole Hindutva movement. It's in a sense, bits of it are also a very fascinating sociological study of Marwaris"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:20:10.600",
+        "message": "and how their social position changed. And of course, the main people behind the Gita Press were Marwaris."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:16.320",
+        "message": "And I was staggered at one point when I came across these figures in your book, I'll just quote them. As of February 2014, 71.9 million copies of the Gita have been sold. This is Gita Press applications. For the Ramcharitmanas and other works by Goswami Tulsidas, the figure is 70 million copies, while 19 million copies of the Puranas, Upanishads and ancient scriptures have been sold. Then there are the tracts and monographs on the duties of ideal Hindu women and children, of which 94.8 million copies have been sold so far, while more than 65 million copies of stories from India's mythic past, biographies of saints and devotional songs have been bought. Stop quote. And, you know, you also, for example, talking about every year they used to bring out these special issues and talking about in 1938, they got out Manasankh, which was in Ramcharitmanas. And there you write, quote, the very first print run was of 40,600 copies. And by late 1983, a total of 5.69 million copies had been printed, a record unparalleled in the work of Indian publishing. Stop quote. And, you know, maybe I should be ashamed of this, but I had no idea that something so..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:31.000",
+        "message": "Well, if you... See, in fact, there's a friend of mine from Rachi, who grew up differently, that's all I tell him. I tease him. He said, how come I was not aware? Then I said, why don't you ask your parents, maybe, ask your mother, she'll be aware of it. And he said, no, even she won't be aware. I said, no, try it. Then he found out that, yes, they knew somehow he was not interested. His interests lie elsewhere. So, you know, it's about... But you know, I can safely tell you while I was working on it, I have friends across who work across professions, you know, friends who are like very in corporate world from university years. And if you tell them Gita Press, the brand recall itself told me the story that even if they don't know anything about Gita Press, they know about it. They know of, they've heard of Gita Press. And as far as the numbers, even I was staggered. And I took it from their website. I didn't want to be kind of... And their website says it. And there won't be any single, in North India at least, any single in the Hindu household where, you know, even a scholar who keeps a copy of, say, Ramayana for some study or something, he'll say, okay, boss, let's get the Gita Press version, English as well as Hindi. Even Mahabharata, because it's cleaner, it's well brought out, it's a very high production quality. All the books have very high production, even Kalyan, very high production quality. Kalyan being the magazine. Being the journal, yeah, magazine. And the idea of also gifting religious texts, if you go to city like Banaras or Gorakhpur, you'll find that there is, or even Delhi, the Delhi store in Chandni Chowk, in that old Delhi, certain books, if you call up and say, do you have this? No, it's just run out of here, you'll have to wait for a week. And so it constantly sells. And then in Ramayana, then they have this thing called what they call Gutka, which is basically smaller, miniature version of Ramayana. You're on the road, you can't carry the fat volume, so you can read it. But that itself sells in lakhs and lakhs. And these figures also, don't forget, would be what they export. And huge diaspora population relies on, they're the big clientele in this diaspora population, because they were the first ones to even think of, I will not say first one, the early ones, who in 1934, started an English journal called Kalyan Kalpataru. Because they said, well, we have to do something about them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:10.800",
+        "message": "In fact, in your book, you've got accounts of various people, both Indians and non-Indians"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:15.160",
+        "message": "writing from abroad. And they were trying to track people who could write, even non-Hindus, great scholars of Hinduism, Jainism, they were trying to get them to write, to give it that kind of very"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:28.240",
+        "message": "eclectic feel about it. Let's kind of go back to the starting of it. Let's talk about sort of the impetus behind the Gita Press to start off. And in your book, you mentioned that there are sort of three factors. And let's kind of take them one by one. And the first factor that you mentioned is the consolidation of Hindi. Tell me a little bit about, I mean, all of us take Hindi for granted, like it's been"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:24:54.600",
+        "message": "there forever."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:56.160",
+        "message": "But in a sense, Hindi was a political project of its own."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:00.080",
+        "message": "Yeah, it was because see, this whole movement in which Madan Mohan Malviya played a big role, and 1900, which is called the MacDonald moment, which is actually not my corners, Alok Rai's corners, which I find absolutely brilliant corners. 1900 is when the petition finally leads to something. To recognize Hindi as a separate court language. Look at that, you know, very smart move. Once you change it in court, subsequently, it has its impact, you know, it's, it has its ripple effect. And a lot of things are happening simultaneously. There is the soul, Hindi is now finally found some place at the cost of Persian. Then what happens, the print technology is just coming, which is slowly settling down. And Marwari's are investors, we find in most in North India, most of the publishing houses Marwari's were investing, and for philanthropic reasons too. And then Hindi is coming. So first quarter of the 20th century is kind of a golden phase of publishing. And Hindi journals are coming one after the other, one after the other, English journals are also coming, like, firstly, you have this great modern review coming from Calcutta. But Ramanand Chatterjee was a completely different sort of person. He was also paying for Bisal Bharat. Yeah, so in fact, Calcutta became a big center of Hindi publishing. So you had Saraswati coming from Calcutta, you had Bisal Bharat, which continued till 70s, actually. And in those days, in 1930s, late 30s, he was incurring a loss of 70,000 rupees, but he was still publishing it. So what I'm trying to say is that it was a golden phase of, now, in that all the journals which were coming, were very general in nature, mostly literary, say, Saraswati or Bisal Bharat, it will have a bit of politics, a bit of literature, a bit of poetry, you know, the usual, some international news, but very well brought out. Gita Press, in a way, is the first one which is exclusively devoted to religion. There were a few other attempts made. And it came also because, you know, Marwari, there has been a churning happening within the Marwari world, because there was a section which was not kind of happy with what the newfound wealth was doing to the community. As it is, as Goenka at one point says, we are being equated with Jews, and you know, we have this thing of us, you know, we're taking money, you know, lending on high rate"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:44.340",
+        "message": "of interest."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:45.340",
+        "message": "And so, there was this churning happening within and there was this, Marwaris were known for the ostentatious display of wealth, and the marriages and various other things. So there was this two stream like Jamnalal Bajaj you had, GD Birla, whoever, the moderate ones. To deal with there were two ways, like Jamnalal Bajaj and also just stop doing this, become Gandhian. There's this other world of Jai Dayal Goenka, Hanuman Prasad Poddar, and also the answer lies in going back to our roots, and basically celebrating the Sanatan Dharm. And that, you know, Sanatan, this is what we had a great past, which was interrupted by Muslim rule and now British rule. And so we have to go back to that period when we were doing extremely well in everything, you know, science, literature, and that's this whole thing, Kalyan finds a place. So one motive was, of course, that introspection for the community, but there was a larger good also involved that, you know, the country should go back to its ancient roots."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:54.520",
+        "message": "And that's when we were kind of doing very well. No, and I find it interesting that, you know, in a sense, the political core of both the rise of Hindi and the establishment of the Gita Press and Kalyan seems to be the same, which is harking back to a mythical past and leaving aside Hindustani, which is this conglomeration"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:29:13.240",
+        "message": "of Urdu and Persian and whatever, and creating Hindi for the Hindus, you know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:17.800",
+        "message": "And really, like you point out in 1877, Bhartendu Harishchandra gave this speech called Hinni"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:29:23.640",
+        "message": "ki unnati par vyakhya hai."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:25.640",
+        "message": "And from there, of course, he dies young."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:28.600",
+        "message": "It kind of becomes a political movement and it totally makes sense that then the journal which is set up really to take that politics forward beyond just the religious aspect of it is in Hindi and it all kind of seems to come together. I also found your whole account of the churn in the Marwari community very interesting. For example, I'll quote again from your book, with Marwari, quote, with Marwari domination of the growth of Indian capitalism in the late 19th and early 20th century, two crucial but contradictory things happened, stop quote. And one is because they are the trading class and they're looking for profit and all that, they become the butt of jokes like the Jews did elsewhere. And the second you point out is, you quote a historian who talks about this semi involuntary upward mobility. Yeah. I know. It's fascinating. In which Vaishyas become the new Kshatriyas."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:21.520",
+        "message": "So in fact, you know, because it was a money, cloud of money, you find that Marwaris, if you follow Sanatan Dharam for a second, for argument's sake, not that one believes in it is that Marwaris had no business to be wearing sacred thread, right? But because of the money, you find that their entire ritual got Brahmanized. Then you find the temples, schools, the hospitals, you know, sarais, inns, whatever they were making, everywhere started bearing plaque of wealthy Marwari who helped in building it or repairing it. It's not a phenomenon. You will not find it a single plaque. As one of my historian friends says, pre 20th century period, Marwaris were still coming up. It's only after around the first quarter of 20th century, that they had to establish themselves to deal with this infamy that they were being equated with Jews, that, you know, the money making thing was becoming a bit of a problem for the community. And there was a churning within also, there was this whole thought process that we should do something. In fact, there's a historian, he's not a historian, he's kind of a chronicler among Marwaris called Jamini Barua, who did a completely, I wish someone could have just put it together in a very different way. He did a book called Main Apni Marwari Jati Se Pyar Karta Hoon. And he brings up, I had to kind of really work hard to get that, all those six volumes. But he just puts together every single act of philanthropy that Marwaris did till the period that he did book and across India. So this was very, very important to Marwaris for getting this whole Brahmanical rituals in the marriages also, like a lot of my Marwari friends have told me that a lot of rituals are completely Brahmanical, which was not happening, say back home in Rajasthan or anything. So that that period becomes very crucial. A lot of things are happening in the Marwari world, social, business, you know, in their business life and the social life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:39.280",
+        "message": "So in fact, in your book, you talk about the philanthropy and then you say, quote, through such initiatives, Marwaris replaced the aristocracy and wealthy landlords as religious patrons and changed the Kshatriya Brahman interface of Hindu society to a Vaishya Brahman interface that eventually resulted in the Marwariization of Hinduism, stop quote. And it seems to me that what was really happening here was a marriage of convenience where the Brahmans need the patronage of the Marwaris and the Marwaris are buying respectability"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:33:08.440",
+        "message": "through this alliance. Absolutely."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:10.440",
+        "message": "Yeah. It was mutual. They were trying to help each other and Kshatriyas never had that kind of, you know, they didn't really have, they could fight your war, they could fight your battle, but that's it."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:33:21.800",
+        "message": "And in this age, Rajput valor is pointless."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:26.640",
+        "message": "And it's interesting how the proximate impetus for the Gita Press actually comes from a sort of an argument within the Marwari community where you talk about how in the oppressive Delhi heat of March, April 1926, there's an 8th annual conference of the All India Marwari Agarwal Mahasabha. And there, there's an argument between JD Birla and Atmaram Khemka and Atmaram Khemka is talking about Sanatan Dharma and this is the direction we should go in. And JD Birla is saying, look, this is not the platform for that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:53.320",
+        "message": "If you want, why don't you do a journal? And that's how this journal comes about. And then they have a train journey, Rohtak and all that happens. So it's actually fascinating to come to and look at this larger network of Marwaris also how they're helping out. See, the idea takes place somewhere in, you know, what is Haryana and Bajaj Press, the family in Bombay, which are like the big publishers, they still apparently own the big mainland money, the press land, because what they had from those days, they had a paper also, Benkatesh Samachar or something, and they were big publishers in those days. And he agrees to just do it for a year, just take my press, do it, I think almost 14 months"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:35.840",
+        "message": "he did it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:36.840",
+        "message": "And meanwhile, Goenka is in Calcutta, Anuman Prasad Poddar is the one who then he moves to after, when he moves to Gorakhpur, he moves to Gorakhpur."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:46.520",
+        "message": "Yeah. Yeah. These are two of the impetuses, which kind of two of the stimuli which made the Gita Press happen. One, the growth of Hindi as a political movement, and then within the culture as a language that people speak and write in, and of course, this Marwari movement where they are getting more integrated into that mainstream of Hinduism with their so called, with their putative alliance with the Brahmins. The third element that you point out is that the 1920s are a hotbed of political communalism. Yeah, like you write about how there were 91 Hindu Muslim riots in United Provinces between 1923 and 1927. And it's a memorable time because Savarkar's Hindutva comes out in 1923, the RSS is founded in 1925. And also, which is, you know, the Hindu Mahasabha is a very powerful party at this time, much more so then than it is today. And also within the Congress, there is a very strong stream of Hindu traditionalists like"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:45.440",
+        "message": "Madan Mohan Malviya. And who was also a member of Hindu Mahasabha, you're a member of Congress also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:50.880",
+        "message": "Founded the Banaras Hindu University. Just lay out that political landscape for me of the time and where sort of Hindu nationalism"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:57.800",
+        "message": "fits in. See, they were, I think, till late 19, I think somewhere till 1930s, meeting of Gorakshini Sabha and Congress, Hindu Mahasabha and all the members, you could be a member of both. So Congress, when it now regrets and says, doesn't actually look back at its past, especially very dominant class within the Congress, Nehru and Gandhi's, they managed to battle this group, this dominant class within the party. But they were always there. You know, you have Malviya, you had Govind Ballopant, much later, you had Govind Das. So, you know, there's this whole stream of people who were very aligned to the Hindu cause. But they also knew Congress was the party which had a future."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:50.960",
+        "message": "I was fascinated by one of the nuggets in your book that back in 1891, a Gaurakshini Sabha meeting took place during the Nagpur session of Congress."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:00.280",
+        "message": "Yeah, yeah. It was, see, in fact, if you look at the records, I remember this one, which leader says he came out and this person who's reporting is saying he came out after giving a fiery speech in the Congress session and walked straight into the Gaurakshini Sabha. What do you expect? So, now, when today Congress says what it does, they don't know about their own past. Actually, some of them don't. Even now, in fact, the problem of Congress is even now you have that element which exists. You know, this whole conundrum about whether to go to temple or not to go to temple, Rahul Gandhi is a Janavdhari Hindu or not. Come on. So, this emanates from the past that they have, you know, and one should name names in the party in the Congress, but we know who are these leaders who are constantly pushing. So, in fact, someone should ask Rahul Gandhi, his whole decision to be a Janav or this temple hopping, was it something which he approved of or was someone telling him to do it?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:01.160",
+        "message": "But I guess the thing with, for example, the so-called soft Hindutva of the Congress today is that a lot of it seems to be merely posturing, while back in the day, a lot of the big leaders"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:10.960",
+        "message": "of the Hindu Nationalist movement. Yeah, because they were very important leaders. Just see the battle that Nehru had to wage with Purushottam Das Tandon on cow. Then he says, I'll resign and only someone like Nehru who had to really believe in what"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:27.280",
+        "message": "he did. And another battle, in fact, which Nehru lost is when the idol of Lord Ram appears magically in the Singh and Gobind Mallapant is then CM of UP, Lal Bahadur Shastri is Home Minister of UP and he tells him, get the idol removed and they ignore him."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:44.280",
+        "message": "They ignore. Look at Rajeshwar Dayal's account when he says that nobody would listen to him."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:38:48.600",
+        "message": "He was Home Secretary."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:50.040",
+        "message": "And even in case of Poddar, Poddar is among thousands of people. Nobody's saying whether he was directly involved or not. But yes, he was also who was suspected to have some role in Gandhi's assassination. How on earth someone who was arrested even for a few days in 48, in 51, will you recommend"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:08.800",
+        "message": "him for Bharat Ratna?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:11.800",
+        "message": "Which Govind Mallapant did. It's unimaginable. But how could he even suggest and then you're saying you tear off this later. That anyway was a tradition. Those everyone used to say, tell everyone, tear off the letter and none of them did,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:24.360",
+        "message": "you know. And now we come to the hero of the story, Hanuman Prasad Poddar, who is, of course, a cultural giant, which is why I think Govind Mallapant would have wanted to give him the Bharat Ratna. But he's also somewhat like Gandhi, a figure with many internal contradictions."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:38.160",
+        "message": "He is at one level, he's a fascinating man. You really want to, he never went to university, he never went to, I mean, if you read his English, it's impeccable, you see his range of readings, it's impeccable. He was a fascinating editor, he was an editor who could go out of the way to, if you see his letters to some of these contributors, someone teaching at Hunter College in New York, his writing and he's not, he's just, he's relentless that you have to write. And his whole knowledge about who's working on what all over the world is fascinating. Even the new-age sadhus who are coming up in a big way in Germany, who are teaching yoga, he's aware of all of them. He is, the way he gets after Sampoornanand, he says, you have to, I'll keep the issue on hold, but you have to write. And he lets him write. And when Sampoornanand, as a chief minister, writes something which is not to his liking, he says, well, we'll publish it once, but we won't want any further debate on it. And he makes it very clear. So if you, from his point of view, he was an editor for more than 40 years, 46 years. And mind you, in between, many times he'll throw tantrums, he'll leave, he'll go away, but they'll never let him go away. He became larger than life. And on top of that, he had this whole spiritual aspect to him that he had visions of God and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:03.600",
+        "message": "this and that. Yeah, which is very interesting. I mean, there was a soul origin myth about how he was born."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:08.480",
+        "message": "Yeah, everything. So he was created. So you know, they address him in a certain way in Gorakhpur. So he's seen as an incarnation of God. I know people who, I know one lady who's like now 90 plus, coming from a big industrialist family in Delhi, who just couldn't believe, who thought that I was doing a great work of God by writing on Gita Press. And the kind of things that she had to say about Podar, because Podar, people saw, those who believed in him, saw him no less than as an incarnation of God. In fact, you quote Teji Bachchan in your book. Yeah, Teji Bachchan. Imagine one of the birthdays, I think seventh birthday of Ajitabh Bachchan, he's brought all the way to Gorakhpur. And then he did the Avadhi Gita, only at the instance of Radha Baba, who was like his guru"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:59.640",
+        "message": "and later. This was, yeah, and just to quote like two different, very different aspects of Podar and both unrelated to sort of his professional work, but personal aspects, which I found fascinating. And the first one is, of course, a spooky religious aspect. And you write, quote, Podar would have more visions of God in the next few years. In 1936, he claimed to have been met in Gita Vatika, which was where he lived, by celestials, a sage Narada and Angiras, the sage who received the Atharva Veda. Podar claimed that they explained to him concepts which are not part of the Shastras, stop quote. And another aspect of it, which is a more introspective, self-critical aspect, which you write about later in the book, start quote, writing to an acquaintance, Podar said he was not the person he had been made out to be by others. And neither was Gita Press anymore the ideal place to seek spiritual solace. And now it's Podar's words, till a few years ago, this was a good place for those involved in spiritual exercise. This place is not fulfilling, as it is marked by demonic traits like self-promotion, jealousy, materialism. And he continues, there is no limit to my meanness and misdemeanors. Neither could I become a good person, nor could I help my associates improve, stop quote."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:17.560",
+        "message": "He will get into these long phases of self-introspection where he will, all his replies to everyone would be of this nature, you know, I have failed, I am here. And mostly this will be when he'll be in Dalmia's factory in one place, or he'll be in Ratangarh in Bikaner. This also, in a way, helped building what we call now, you know, Podar brand, you know, because people would know that there'll be phases, now Bhaiji, as he was called, Bhaiji has gone into sulk or Bhaiji is in a different mode. So he's become inaccessible. But when he's talking about this whole decline, the moral values in Gita Press, that is mostly because he could see what was happening around in his own family, what was happening with children, not his children, but, you know, associates, the children, they were going out eating, then he has problems with people going watching cinema, people eating ice cream, people sharing, drinking from the same glass, which they still continue to kind of propagate, you know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:22.320",
+        "message": "So, before we get on to sort of the Gita Press itself, how it grew, and one by one we'll tackle all the themes, the broad themes that come up, there was an intriguing sidelight, which was, you write about this thing called the Roda Conspiracy, which this is well before"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:38.160",
+        "message": "the Gita Press around 1950s, 1960s, when he was growing up in Calcutta, when he was growing"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:44:41.360",
+        "message": "up and some Marwaris were involved in this, he himself was arrested."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:46.360",
+        "message": "And it's very interesting that the Marwaris managed to hush up the matter and they get him out and then they almost seem to take a decision as a community that we are not going to get into this kind of politics. We are going to do our dhandu and all of that. And my question is that, is this also to some extent, one of the many reasons that the Hindutva movement was never anti-colonial, like later when the Gita Press got into politics, it got into politics against fellow nationalists, you know, against Nehru and against the Congress,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:17.960",
+        "message": "that never against a British person. Because see, for them, commerce was, nothing came before commerce. It was for commerce that they left their family, wife, children, everyone behind Rajasthan. This community was very focused. And despite all the joke and whatever, you know, this larger thing which was said about Marwaris, that didn't deter them from the path. And here comes something which would have completely destroyed them. If you see the pages of Kolkata Samachar, which was edited by Jhaber Mal Sharma, who was also Marwari, they first tried to, because I was trying to track what they're saying, because it was very important what Kolkata Samachar says. So they're saying, kuch Marwariyon ki giraftari hui hai, and then they give names, GD Birla is also there, one of them, by the way, and who absconded. And people say that he went to Ooty and fellow Marwaris who got arrested, they said that those days, apparently, more than a lakh was paid. Can you believe it? What the money would be?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:21.240",
+        "message": "Now, crores, easily."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:22.240",
+        "message": "And that gentleman, that police officer, later on, which is even more interesting, I think Medha's biography of Birla says, he or someone else wrote it that that gentleman, police officer later, after retirement from police, was heading the London operations. So this immediately, so first thing they did was, they just said that, okay, listen, it was not even, their tone was not defiant at all, that, you know, my community has done, my boys cannot do it, even if they do it for the larger, no, no, no, nothing. They said, basically, they're saying these are misguided youth, okay. And then they get certain people who are very close to the colonial rulers to come and speak to them, and be there, kind of negotiate on their behalf. And the Kolkata Samachar, for the after that is constantly talking about how law abiding they are. They have nothing to do with all this. And as you said, just do your commerce, that they didn't want interrupted at all, which road arms, if you actually look at the original records, which is there in the sixth volume, which West Bengal government brought out, it's like they were really trying to get after them. But it got hushed, only he and then the gentleman who later became a member of Rajya Sabha, Prabhu Dayal Himmat Singh and few others got arrested, their lives. So there was a rancor among some of these Marwadis that Birla got away, we still had to face punishment, spend time in jail."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:00.040",
+        "message": "No, I mean, Himmat Singh was a post-independence minister, you know."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:03.440",
+        "message": "Minister. Himmat Singh became one of the top notch lawyers in the country. So yes, that was basically keep away from all this, from whatever is happening."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:16.160",
+        "message": "And this is, you know, also interesting because Poddar, you know, before this, he got very influenced by the extremists within the Congress party, as you point out, Bipin Chandra Pal and so on. And he also simultaneously and later on in time and through the years, this became a love-hate relationship, but got extremely close to Gandhi, very close to Gandhi. And we'll discuss that as well in the second half, it's really, that relationship is fascinating. But what seems to me is that after this Roda thing happens and they are let off, he pretty much decides that I'm going to stay away from politics and the Gita Press is really a cultural thing. But at the same time, it's a political project which is happening under the surface."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:57.200",
+        "message": "And which he makes, his very first editorial of Kalyan in 1926, it's a fascinating, which is a kind of a template from which Gita Press has not wavered at all, where he talks of everything, where he talks about what is happening all over the world, he's talking about what is Hindu-Muslim unity, he's talking about what we should do to... And mostly it doesn't become, it doesn't have anti-colonial language. It's mostly about the community. It's mostly about the religion and Muslims, of course. And then he says that, you know, we should learn from Muslims to be together and fight together. And then he says, he uses the word Sangbal, which is unity of strength."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:43.240",
+        "message": "In fact, at different points in time, he almost sort of cozy's up to the British. For example, when George V dies in 1926, you know, again, quoting from your book, his death in 1926 came at a time when Kalyan was still finding its feet and for a journal that counted Hindu nationalism as a scenic one of the freedom movement, paying tribute to King George V was possibly a calculated act to win the goodwill of the colonial government. Poddar called George V an ideal husband, father, son, and friend, and justified the gloom his death had brought to his subjects, family, and friends."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:50:18.040",
+        "message": "How would he know George V was an ideal father? That was a... Yeah. Randomly... Kuch bhi bolte the. Kuch bhi bolte."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:25.920",
+        "message": "Do whatever to please them. Yeah, you know, and as a project gets underway, I mean, you write about how gradually the early issues of Kalyan are sort of a testing ground for what become leet motifs and dominant themes later, like cow slaughter and gender and so on, which we'll discuss as we go along. But I was particularly struck by how, even though the Gita Press and Kalyan was, you'd put it in the philanthropic box of the Marwaris that they are not doing this for profit. This doesn't mean dhando. Nevertheless, you described that the model of Hinduism they sell is almost a Baniya model in your words."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:59.800",
+        "message": "Yeah. Baniya model... See, they had to make religion attractive. One of the ways in which they started right in the beginning, and which in a way played a big role, and continues to in fact, is that selling you recite God's name for 20, 50,000 times, or you write in a notebook and submit to us, they had the Ramayana Bank and all that. And then they had this Ram Nam, Jab Bibhag, and then similar thing for something for Gita. So it immediately struck a chord among people, among the literate people, that, okay, I know people who even now are doing it, sending the notebooks full of Ram, Ram, Ram, Ram, and they're sending it and they're saying, okay, we've written 100,000 times or... So it brought God and directly, you know, there's a direct interface with God. And then they said, then this Bhagwan Mahima Ankh, they brought out of Kalyan, which is a fascinating issue where everyone is talking about bizarre things have happened because they believed in God, and they recited the name of the God. And so many times, or they did this, and it helped someone's daughter's marriage two days before marriage, someone postman brings 20,000 rupees from somewhere, you know, all kinds of things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:26.000",
+        "message": "And it's almost a transactional model of Hinduism."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:28.400",
+        "message": "Yeah, it was a very transactional. You jump a name enough times, you will get it. You do it, you will get it. And they'll say, therefore, the stress on whole rituals, that, you know, if you want a male child, you have to do this, you know, if you want to do that, you have to have fast in the first hour of on certain day. And so, and you find that this is even now Kalyan has a full page, which says in the coming month, the next month, what will be the celestial positions of and what can you do and which is and there are every day some Purnima or some Ekadasi or some Dwadasi, if you go by it, and people are following if I have seen women in Gorakhpur, who are kind of doing it all the time, and even outside Gorakhpur, you know, you know, women who are"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:25.320",
+        "message": "doing it. In fact, I was also, you know, going to discuss a sort of the strategic genius of Poddar and the various things they did about outreach, which include the Gita Sabhas, Ramayana Sabhas, Gita tests for children, where they would give prizes and medals for kids, and the Gita Society and what you're talking about this transactional model and these rituals that you perform again, I'll quote from your book, because I just found this an incredibly fascinating and jaw dropping quote, or stop quote, four kinds of membership were on offer for the Gita department. The first included those who read the entire Gita 18 chapters once every day, 365 times in a year. The second type of members could finish all the chapters over two days, and the complete text 180 times in a year. The third category of members read six chapters in a day, thus reading the Gita 120 times in a year. The last category of members could reach as much of the Gita as they wish daily, as long as they completed at least 42 readings in a year, stop quote. And it's fascinating, you don't need to live a virtuous life, you don't need to just read it and your job is done, you know. We'll now take a quick break. And we'll come back after the commercial break to get really into the meat of what the Gita press was all about and what the Sanatan Dharm Hindu movement was attempting to do."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:54:44.640",
+        "message": "Hello, everybody, welcome to another awesome week on the IBM podcast network. If you are not following us on social media, please make sure you do. We're IBM podcast on Twitter, Facebook and Instagram. Instagram was a big week for us this week, we crossed 10,000 followers. Also, you should check out the kind of stuff that we do over there. Take a look into the studio and you know, I mean, like see some of the quotes and stuff like that that come out and audiograms and, you know, all that other kind of good stuff. So you know, let me tell you about two new shows that are coming up, right? So the first one let me talk to you about is GAYBCD. This show is hosted by Farhad and Sunetru. They share the ABCDs of their queer lives and dig into the memories and experiences. Tune in for a new episode every week on Tuesdays. Another show we're really excited to bring you is called Feeding 10 Billion. This show is hosted by Good Food Institute's Varun Deshpande and Ramya Ramamurthy. They talk to experts in the food industry about rethinking protein and reimagining food systems in India. New episodes out every Tuesday for the show as well. Also, Simplified is completing 150 episodes. My God, I can't believe that we're already there. They need your help to celebrate this milestone. Send us theories, concepts or questions that you have using the hashtag Simplified150 on Twitter or send us a DM on Instagram and Chuck, Nareen and Srikanth will answer your questions on episode 150. On Cyrus Says, Cyrus is joined by Rajiv Lakshman of Raghuraji from Rohdi's fame. He shares childhood stories of growing up with a twin brother, his memories of Cyrus at MTV and his new show Skulls and Roses. The Gana Tantra podcast was back from a hiatus with a warm-up episode. Saryu and Alok discuss themes that you can look forward to in season 2. On What A Player, Akash, Mikhail and Siddharth talk about the Bangladesh-Zimbabwe tri-series, Monty Panesar is the next mayor of London, the physical requirements for playing chess and a lot more. On Tech Careers in the News, Shiladitya is joined by Kaushik Vijayaraghavan and Aditi Kulkarni to talk about intelligent automation and its impact on the real world. On Agla Station Adulthood, Ritasha and Ayushi dive into romantic relationships and the complexities that they entail. On Keeping It Queer, Farhad and Naveen talk to performance artist Swapnil Alize about accepting her identity, her love for dance and her group Color Positive. On our Kannada podcast, Thaliharate, Narahari KS joins Ganeshan Pawan to share an overview of public relations in India and how it is involved. And with that, let's get you on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:46.640",
+        "message": "Welcome back to The Scene and The Unseen. I'm chatting with Akshay Mukul, writer of the brilliant book, The Gita Press and The Making of Hindu India. Let's kind of go through the different sort of dominant themes that the Gita Press took up. Some of them resonate to this day. And one of them is a cow. So you know, and people today seem to think that this is a recent thing. And of course, to a certain extent, you know, because, for example, cow slaughter would mainly have Muslims and Dalits involved in it, the whole movement almost seems as a proxy to just attack those guys. But it goes a lot deeper than that, doesn't it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:23.600",
+        "message": "It is. In fact, cow and women have been, I don't think there's been a single issue of Kalyan where these two virtues of cow and the need to keep the sanctity of Hindu women is not discussed in one way or the other."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:42.080",
+        "message": "In fact, there's a sentence that I remember from your book where you write about how you quote someone saying wars have been fought over cows and women."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:48.800",
+        "message": "Yeah. And cow was, because cow was a rallying point for them. Cow, they realized, would help them tide over the deep caste divisions, which the Hindus had. It would help them talk of, not talk of other things. And mind you, when this Gaurakshini Sabha started and the violence started in the name of cow, Marwaris were bankrolling, but who were the foot soldiers? Those soldiers were people like, the communities like Yadavs and Kurmis. In fact, if you see in a place like Bihar, some of the riots that took place around that period, most of the perpetrators, Hindu perpetrators were the Yadavs. So it created a kind of, and cow became a very easy symbol for them. And only when you find, only in the 90s or late 80s, early 90s, after the Mandal happened, that we find for some time that cow, although the cow movement has been constant, it has been going on, but we find that the Ram temple or something came as a rallying point, but otherwise cow has been constant. In fact, when 2014, these people came to power, Kalyan talked in detail about, and then Maharashtra government banned it. One of the earliest states in 2014 to do it. They were very happy. They said, now it should be done across India. It should be banned across India and there's this whole thing. Why only few states are doing it? So it was since 1951 election also, every election when they tell readers who to vote, they don't mention a party. They only say that just vote for a party which will do these, you know, one, two, three things. So this has been a very, very, cow has been the most important symbol or the most sacred of things on which they have kind of worked and Gita Press has a big role to play also because the cross linkages that Gita Press created among other groups, there were a lot of other groups exclusively working for cow, cow protection and other things. And that famous, the 60s, the cow protection movement, which led to attack on parliament, actually Poddar was at the helm of it. He was a treasurer for a long time. And Gita, Kalyan was kind of, if you see Kalyan of that time, it was spewing venom."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:23.280",
+        "message": "And as you pointed out, they had two special issues on cow."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:25.840",
+        "message": "One was a cow ankh, which was later on, which happened in the, much later, it was kind of."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:34.240",
+        "message": "And I was trying to figure out why is the cow sacred to Hinduism and you quote Peter Vandermeer in your book, where again, I'll quote from your book, Peter Vandermeer asked the question, why would people want to die and kill for the protection of cow? He looks at the centrality of the cow at four levels. One in Brahmanical rituals, a cow is akin to mother or symbol of the earth, the nourisher, goddess who fulfills every wish, symbol of wealth and good fortune, Lakshmi, who is integral to ritual, blah, blah, blah, blah. Two, sacredness is also attached to cow products like milk, dung, and urine. Consumption of milk, butter, and ghee is believed to make a person sattvic and a mixture of five cow products, milk, curd, butter, urine, and dung is used to prepare the panchgavya that is used to purify a polluted person, parenthesis, it was offered as a solution for Hindu women who had lost their modesty during the communal riots at the time of partition. And we stop parenthesis and we'll come back to this when we talk about gender. Three, the symbol of cow as a wish-fulfilling mother of Krishna is celebrated in the bhakti cult. And finally, Gau Mata was symbolic of both family and community, protecting the cow meant reiterating the patriarchal authority like the kingdom of Rama, which is the Ram Rajya, the ideal Hindu state, stop quote. And it's interesting that once we gain independence and India sort of goes in a different direction, you also talk about how cow protection arguments begin to be framed in secular terms, such as, you know, where you, for example, how they talk about the cow's high economic utility, they talk about the relationship between the quality of cattle in general prosperity. You talk about how national pride is associated with economic prosperity, which is brought about by cows. And also about how the cow can cement harmonious relationships between Hindus and Muslims."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:20.920",
+        "message": "See some of these people had they been alive and seen what was happening now, what is happening now in the name of cow, I'm sure they wouldn't have approved of it. Because whatever they were doing, they were very clear that, you know, the cow is alive, how do you get rid of the cow, which is old, ailing and died on its own? Okay, nobody, even if you're not selling it to a slaughterhouse, everyone knew what was happening to cow. But they knew the skin was being used, the body parts or whatever, you know, various ways it's being used, and they were aware of the economic aspect of the whole thing. Even Rajendra Prasad, when he's writing in Goa, he's talking about it. And he's saying that, let them die on their own, or don't give to slaughterhouse. And they're constantly they'll invoke example of Saudi Arabia or one of these countries and they'll say, oh, cows are not slaughtered even there. And the example of Humayun or Bawar, one of these. Now what is happening? I don't think the killing, I don't know whether they're approving or maybe if I had this kind of, I had, you know, the kind of government we have now, the full Hindu government been in power, maybe it would have happened, one doesn't know. But that generation was aware of that there has to be some, you know, resolution to this whole cow thing. When a cow is giving me milk, helping me in various ways, at the end of it, what to do with cow, old ailing cow, can a farmer afford five old ailing cow and have new ones also? Impossible. So there was a way and they were aware of it, what was happening, otherwise, how a slaughterhouse is working and how were Hindus running the slaughterhouses. And in some of these areas where this movement was very, very strong, Western UP and other places, I know in Maharashtra, for instance, although these Podar and all worked very kind of actively to close many slaughterhouses, in Bombay, they had this huge slaughterhouse which got closed in those days, I think in the 50s, in Bengal, they got certain slaughterhouses closed. But they had some model that, you know, you do, you have a pasture land, you do this, at least that's what they talk. Since they were never in power in those days, one doesn't know how it would have kind of panned out, but I don't know whether they were approved or what is happening now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:47.960",
+        "message": "No, and some of the sort of narratives that came up around the cow seem quite goofy. For example, you quote someone called Prabhudhat Dhramacharya, who prescribed a tenfold path for Hindus and Hindutva to survive. And quoting you, quote, he asked Hindus to keep cows at home, even if this meant they had to have fewer motor vehicles. Yeah, stop quoting, try telling a modern bhakta dad, but the funniest thing that I found was a Vanaspati controversy. Yeah, Vanaspati. Tell me a bit about that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:05:16.840",
+        "message": "See, Vanaspati, this is a vegetable oil which sort of replaced ghee as a cooking medium."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:23.760",
+        "message": "So there was this, you know, there's this famous Jain Vanaspati case, which happened sometime in the 80s, this news, I think, broken by a journalist, I think Manoj Mitta played a big role in it, where this whole beef tallow, which was being used, and some of the Marwadis were involved, this class, this community was involved. And when the time when they're getting very involved with it, you find that Gita Press suddenly turns very business, it's like a business weekly, monthly, where they even listing out early days, they were talking of making this distinction between the companies which use beef tallow and not beef tallow, this is what the controversy that I'm talking about happened much later. And they listed out the companies, which were mostly the Marwadi owned companies, which"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:16.920",
+        "message": "were In fact, the first one was Gita Press."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:18.920",
+        "message": "Later on, they had to leave this business, they abandoned this business, because something happened, something very controversial, which they will not talk about. So when it came to, you know, their business, they use Gita Press to the hilt, especially in when in a crisis like this Vanaspati ghee controversy. So it was used by them. In fact, and then they what they did also on Vanaspati, or controversy, they got more and more people to write on it, you know, and when it suited, they used Gandhi, you"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:51.040",
+        "message": "know. So in fact, there's again, a quote from your book where Gandhi summarizes an article by"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:06:56.520",
+        "message": "Dattar Singh, who is Gandhi's grandfather."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:00.280",
+        "message": "And he was also a prominent, he was a cow consultant for the government. And quoting again from your book, quote, Gandhi summarized Singh's article for wider dissemination. Vanaspati, he said, is a poor substitute for ghee, but due to the great margin of profit in this industry, its production has developed from 26,000 tons per annum in 1937 to 105,000 tons in 1943. Such rapid growth of the Vanaspati industry, Gandhi feared, will not only adversely affect the welfare of the cultivators, but will have a deleterious effect on the cattle industry upon which the prosperity of the whole nation directly depends, and it almost sounds like Basia Scandal Maker's petition that, you know, block out the South. And another interesting thing that I didn't know about, though, I consider myself fairly well informed on Indian politics was the whole sort of the cow slaughter agitations of the 60s, which came to a head as you point out on 7 November 1966, where Delhi witnessed a surge of people estimated between 125,000 and 700,000. And among the people who addressed the crowd in front of Parliament were people like Golwalkar, Karpatri Maharaj, Prabhudad Brahmachari, Seth Govindas of the Congress, Atal Bihari Vajpayee"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:17.480",
+        "message": "and Hanuman Prasad Puldhar. Hanuman Prasad Puldhar was actually the treasurer of that, Goraksha Mahaviyan Samiti. He was a very, very important person, in fact. I also mentioned somewhere, I think here only when I talk about cow, how RSS Kader, he's thanking Golwalkar saying that how your Kader helped our people train and all that, because of this whole violence which happened and the way they attacked the city, especially this Lutyens Delhi got really attacked, Kamaraj's house got vandalized."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:52.640",
+        "message": "Some of his staff got beaten up, and they would always play the victim."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:59.360",
+        "message": "So even every time there was a riot, they would be like, oh, the Muslims started it. Even in this they played victim, but for a change with Indira Gandhi, they were like, for some time they were really, they didn't know that this is the kind of actions she's going to take. She didn't know that a lot of people who were arrested and in Tihar jail will get beaten up. So either police did it or fellow prisoners were asked to beat them up, which is a normal practice in jails, in Indian jails. That kind of really rattled them. They never thought that this will go on for so long. So you find this almost what they were doing during the national movement or later during emergency, very apologetic tone. They're almost writing to Indira Gandhi saying that, addressing her sister, that no, we didn't do this, we got, you got it wrong. And the movement completely disappears. And because the government created its own kind of committee and said, we are doing this and they got somehow trapped into this. So the movement more or less dies in the aftermath of that much later again. And therefore you find there is a period of lull on cow movement, although these groups were constantly working and if you go to places like Rishikesh, Vrindavan, Mathura, Banaras, you find these groups existed, but they'd lost that, although Gita Press continued to talk about it. Gita Press in its journal will talk and all that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:27.600",
+        "message": "So, you know, so just kind of thinking about that, like you said that in politics, the cow issue waxed and waned and, you know, now it's back, of course, but Gita Press kept talking about it throughout. Was it something like, did they genuinely expect cow slaughter to at some point in time be banned across the country, or was it more of a rhetorical tool to mobilize Hindus?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:51.600",
+        "message": "Both, because then they could also see that even post, immediately after independence, you see what was happening in UP, UP had agreed. So they could see even the ambivalence of the Congress government, so the Congress leaders on cows. Although how else was Govind Das addressing, who was Congress leader, he never left Congress till he was, he was, I think, till before that, he was a member of CWC. If you, this one, Lal Bahadur Shastri, well, Lal Bahadur Shastri didn't come out in the open, but Gulzari Lal Nanda quit and came in support of the movement. So Congress's ambivalence, they figured out, and it's also, you know, the cultural thing among Hindus. So very few people could make that distinction on cow which Nehru's Western upbringing, Nehru's refined man, refined thinking, he could make that distinction that don't do this, you'll destroy our economy. And he just kept it economy, nothing else."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:00.200",
+        "message": "In fact, people who talked about the cow, he called them economically illiterate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:03.560",
+        "message": "He was absolutely right, he made some big mistakes himself. But he was right about this. When you read that speech he gave in Parliament, when the private member bill is moved, and he appears in that day in Parliament, and he says, what are you two people doing? And so he could understand he, and he never got into this religion mumbo-jumbo, religious mumbo-jumbo. He said, let's keep it to economics. If you don't guys don't understand, you people talk of rural economy. Do you realize what this, what will do to our rural economy? But then, so partly it was that the right wing figured out that cow is something on which very few parties will have the guts to come and Nehru is gone, Nehru is dead and gone. And so Congress after Nehru, if you see, it's been a kind of, its ambivalence continues till now on certain issues on cow, or be it anything, even in Parliament, just to see on certain bills, Congress could have easily come out and kind of opposed it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:04.120",
+        "message": "I mean, they run states where there are cow protection cells in the Parliament and so"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:08.800",
+        "message": "on. Yeah, look, what's happening in Madhya Pradesh or even Rajasthan instances have happened. So Congress has always been a lesser evil in these matters and various other things, of course, are the bigger evils. So and of course, it becomes a very easy rallying. It helps you paper over the large differences within the Hindu society of caste and everything. Cow is something on which very few people will, you know, then you only talk of cow for Hindus. You're not talking of other things like temple entry movement, every time you talk, it reveals the great divide in the Hindi among Hindus."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:48.160",
+        "message": "Cow doesn't. Let's talk about caste, since you brought it up and, you know, very early on, Poddar sort of, you know, he supports Varnashram. And okay, so before we get to caste, there's sort of a broader question, that in terms of their beliefs and caste, in terms of their beliefs in gender, and in both cases, beliefs basically boil down to, you should know your place. So within a caste system, this is a Varnashram, this is everybody's place. If you're a woman, this is your place, and we'll discuss that in detail at some point. And it all goes back to the whole karma thing that you are where you are, because of the misdeeds of your past birth. And therefore, there's no need to change it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:29.280",
+        "message": "This is your karma playing itself out. Do something well in this life and next life, maybe you will be born upper caste."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:14:35.960",
+        "message": "In the long run, we are not going to be born upper caste."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:43.400",
+        "message": "So caste was very, very crucial to them. In fact, therefore, you find, right from the beginning, even early days in the first few issues of Kalyan also, they're talking of basically, this Chaturvarna system, the Varnashram, and this is what it is. But only after 1932, once the Poonam Pact gets signed, is when they're really agitated. And the first rupture in relations with Gandhi takes place, then how could you? And then he's kind of showing him his old articles, citing old articles of Gandhi to Gandhi and saying that, look what you wrote. But Gandhi is, the good thing about Gandhi was he was constantly evolving, admitting his mistakes, he's saying, yes, I did. So what? I moved on. This is what I think, which they could never kind of come to terms with. And after that, the stress on caste becomes more pronounced in Kalyan and other places. And they're constantly, go to the extent of saying that, you know, just because you carry, you know, the, this whole scavengers, because of what you do, you have germs in your body. Imagine saying this and getting away with it, writing it and getting away with it, kind of terms they use for Ambedkar. And because they were very worried, they were very angry with what he was doing with Hindu code bill, Ambedkar. And on top of that, second, he had married a Brahmin woman, that kind of got the code."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:13.400",
+        "message": "In your book, you've spoken about how they always called him Hinvarna, lower caste."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:18.080",
+        "message": "Imagine addressing Hinvarna, Dr. Ambedkar, they were very, very angry with Ambedkar. In fact, see Nehru, they could still think he's one among us who's gone, you know, off track. But this man? Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:32.360",
+        "message": "And in a similar sense, something that reminded me of what even Modi does today is that when it comes to Muslims, he'll refer to Mian Jinnah and Mian Liaqat, and you have Modi doing his"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:16:42.200",
+        "message": "Mian Musharraf a decade ago."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:44.600",
+        "message": "Yeah. So this is just showing them their place and constantly talking about it. They were so worried when he was contesting from two constituencies in Bombay, that what if he wins? And they could never forgive him for what he did to, because of the Hindu code bill. If he resigns, and Nehru was also not giving up on Hindu code bill, broke it, but got it passed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:08.520",
+        "message": "And these guys didn't know what to do with him. So we will come to the Hindu code bill later. I found, you know, one of the letters from Poddar to Gandhi, you sort of reproduce was very fascinating, where Poddar is writing to Gandhi, quote, these days a big agitation by Dalits is going on in the country that has intensified due to your fast. At various places, people are dining with Dalits, and they're being allowed inside temples. Some only God knows. Just like those believing in God and Shastras are accused of blind faith, I find that this movement has not only become a victim of blind faith, but also there is a lack of discernment. Even those in favor of dining with Dalits agree, though I do not equate dining with them as a mark of equality, that they cannot be considered pure unless they have a pure bath, wear fresh clothes, give up alcohol and meat, and at least stop feasting on dead cattle. Only then co-dining makes sense. But your common dining in temple entry movement is not even checking if they fulfill those norms. And so on, he goes off, ranting on and on. And in the end, he says, even Pandavas and Kauravas used to dine together, but it led to a big battle. And it seems as if, you know, on some of these issues, like Dalits and Muslims and cows, he almost gets unhinged."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:19.080",
+        "message": "Unhinged. And then you realize that, okay, wasn't this journal supposed to be Bhakti Gyan Vairag Journal, which will talk about bhakti and knowledge and renunciation. Look at this man, he's just, and something would happen. Then like one marriage, Gandhi had made this, made some announcement that he'll only attend marriages where at least one partner is, you know, from Dalit community, he's a Harijan. And this comes to Poddar's notice, he says, he's like almost abusive. He said he's lost his mental balance. But then at the same time, it's very difficult to figure out this, around the same time you find there's a letter, which come to him from Jamnalal Bajaj, saying that, oh, Bapu wants you to be part of some journal, which was bring out on again on cows or something. So he says, Bapu ke pyaar se mahatma ka kya lena dena, something he says, makes that distinction that you're a mahatma for the world, and you do all those things, which I don't approve of, but you're my Bapu. So at personal level, yeah, I relate to you, okay, fine. But yeah, 32 kind of gave them this, they just couldn't figure out what has happened to the world, you know, why people are going on and on talking about this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:36.160",
+        "message": "That's very interesting. I mean, the whole this is almost I mean, forgive me if that sounds kind of sacrilegious, but this whole journey of Gandhi on caste also is kind of funny, where it seems to me that okay, at one point, he talks about Varnashram and how the caste have their place and basically says the same kind of thing Poddar would have utterly agreed with. And then he goes to this other side, where he says that no, no, we need to dine together and all of that. But to me, it seems like if you go by some of his actions, he's still posturing a bit and Ambedkar kind of sees through it and the Ambedkar Gandhi debates are..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:08.320",
+        "message": "Yeah, yeah, therefore they never, Ambedkar, see, even the pact was a bit of a compromise and Ambedkar is always suspicious of him throughout. It's not that the relationship ever is very, very, you know, the kind of relations that Gandhi had with Nehru or something, no, he and they were all with it, they inhabited different universes. It was a very, very momentary thing what happened in the Puri Pact and all that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:34.280",
+        "message": "Yeah. And so Gandhi was, in a sense, it almost feels like Needa Ghar Ka Na Ghat Ka, that he's lost the Sangeeta Press and he's lost Ambedkar and he's basically in all his posturing in"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:44.760",
+        "message": "the games. Gandhi always had enough to move on, Gandhi didn't care much about these small things"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:52.480",
+        "message": "of what Poddar thought or what Ambedkar was doing. And the most fascinating parts of your book are parts which actually deal with gender. And the remarkable thing is how you point out that even till today, they have those same kind of incredibly regressive views. And I'm just going to quote a bit. Yeah, I mean, their fundamental sort of belief is again, quoting from your book, quote, independence is not promised to women in the Hindu social structure, a woman has to live with a father till marriage, with a husband as a married woman, and after his demise, she has to live either with a son or some other relative. She cannot be independent at any cost. And a little later while talking about menstruation, Poddar writes, I'll quote from your book again, presenting a skewed understanding of female sexuality, Poddar wrote that during her menstrual period, a woman had an uncontrollable urge for sex. And to channelize this vasana, there is a system of vasana, a sexual urge, there is a system of marrying girls by the time they attain puberty. In the husband's shelter, a woman's sexual desire does not reach others and she is safe from getting polluted. If she is not married, her sexual desire degenerates into debauchery, just the way it is happening in Europe. The core job of a woman was to serve the world. How? Poddar used two terms, utpadan, which means manufacturing or production, and nirman, which means construction or creation. Thus, a woman's job was to procreate and nurture quality men, stop quote."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:28.440",
+        "message": "You know, when I was actually writing this part, my niece was, my daughter was very small, she was in I think, she was still in class seventh or something. So I made her read it. I said, What do you think of this? I made them read that pamphlet as what do you think of it? I made my niece who's elder and who's in engineering college, so I better read it. Is this what you're writing? So they were not very sure what what I have to do with that. So I said, Well, this is what it is and still being sold. See, Isthri Dharam Prasanthi, the last one when the my Hindi translation was being done and I lost my own copy, I picked it up from railway, I had gone to drop some on the railway streets and I got it. And just look at the circulation, it's something produced in 1926, getting sold in 2019, has a constituency, has a readership, selling more than Chetan Bhagat, then what is happening? Someone somewhere is reading it, and even 10%, I don't know what percentage, I have no figures, but someone is getting influenced too. So what is happening when you see this strange kind of things happening outside the urban spaces, you realize that people are getting influenced what is being done to women in terms of just controlling their sexuality, basically control, you know, using whatever be the absurd logic."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:23:56.080",
+        "message": "Yeah. Basically, the whole deal is that a woman's only job is to make her husband look good to the world and to serve him."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:24:01.400",
+        "message": "You inhabit the inner space, the four walls of the house, and just procreate. That's it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:24:09.160",
+        "message": "You have no other job. And you know, in this context, one of the things I noticed in your book, though you don't always call it out as such, but it's, is that what Kalyan is also doing, what Padar is doing is a lot of what today we would call fake news. They are just randomly and I found a few examples of these, and like in one place, you say, quote, Padar cited a Labour MP speech in the British Parliament in which he reportedly said 40% of girls under 20 got pregnant before marriage. And among married women, the first child was illegitimate in 25% of the cases, which is"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:24:42.040",
+        "message": "complete rubbish."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:24:43.040",
+        "message": "And there was a similar thing from Lahore about how all the girls over 12 are pregnant. You know, and one that is not, and okay, but another one, Padar claimed without substantiation that sexually transmitted diseases were prevalent among 50% of students. And another one, which is not related to gender, but I found it so funny was, quote, one of Gandhi's associates telling people in Gujarat that cow fat was mixed in the manufacture of foreign cloth, or a leaflet stating that 1000 pounds of coloured Manchester cloth consisted of 300 pounds of cow and big blood, stop quote."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:21.680",
+        "message": "This is how they propagate it. No, no substantiation, nobody will ask, someone will print it. So we are now worried about fake news from social media, which is still your print is still more or less still all right, you know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:38.160",
+        "message": "And then it was happening in print, you know, and it was everyone was doing the most popular Heartland magazine, reaching everyone."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:44.800",
+        "message": "And you don't have any Pratik Sinha or Alt News to sort of pass this. So you randomly are saying Labour MP, who is this Labour MP, then they will quote some study about something happened to the generation of women, who, what study, which study, they"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:00.840",
+        "message": "will never mention it. And there's other stuff like, for example, at a later point, he's in the 1948 Nariyang Poddar, sort of glorifies Sati, and his narrative rests on his genuine scientific belief. When you put scientific in good words, of course, that fire can emanate from a distraught widow's shoulder and heart. So he's saying no one sets a woman on fire. But if she is pativrata and a virtuous woman, her sorrow for her husband will make her spontaneously combust, which she calls scientific."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:34.400",
+        "message": "And this stuff is just nuts and millions of people are reading it. Reading it, mind you, Nariyang is still in circulation, Nariyang is very much, it keeps getting reprinted. And Nariyang is one of these year end specials, 700 pages. At the beginning of the year, they have special, which is like 1000 page special. You have all these? Yeah, yeah, I have. All of these? Yeah, I have kept all of it. I should have asked you to bring one. Yeah, I have all of Nariyang, Hinduang, everything."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:02.400",
+        "message": "Have all the issues. And what is the noise to signal ratio? Like how much of this is this bullshit kind of fake news nonsense and how much is actually"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:09.560",
+        "message": "well reasoned stuff? See, when it comes to women, I'll say 100% is bullshit, of course. On cow, they were doing both the things. See, Gosevang comes at a time, for instance, when the movement is at its slowest step. So it's talking, it is very economic in nature, this is 90s, 93 or something, if I'm getting the year right. So by then, the movement was not there, you know, Ram temple movement was at the center stage. It has some things, it has a few articles by experts, which is talking of how to make economic use of cow, which is fine. You can even sense the change of narrative. Then it's not a strident."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:56.480",
+        "message": "They're trying to make it sound respectable."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:58.920",
+        "message": "So they made that distinction of Govang, which had already come in the mean Gosevang, where was the, they were discussing economics of it and various other aspects. Otherwise, see, they will always throw this Shastras or some Sutras or some slokas or something, which ordinary reader, I don't know how many of them would understand. I'm not saying because I myself never cross checked when it came to the religious texts. So I'm not in a position to comment on that. But yes, when you claim the scientific study on women or Sati or women burning on their"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:28:37.040",
+        "message": "own because of some combustion happening inside, it's like, what do you do to that? You know, you write, you read, it freaks you out, you know, what do you do with this such"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:45.920",
+        "message": "thing, you know? Yeah. And for example, I mean, a lot of their stands to do with gender are crazy, like they were against birth control. So again, quoting from your book, quote Poddar saying, encouraging artificial methods is like encouraging evil artificial methods of birth control. It makes men and women frivolous. Artificial methods would result in impotence and decline in sperm count. This remedy would prove to be worse than the disease. Elsewhere, he's ranting against cinema and he says, quote, first and foremost, female actors should be thrown out completely. They are the root cause of all evil. And film should not consist of anything that perverts a mind. There will be hangama at first, but then people will get used to the changes. Stop quote. And it's interesting that while all this is happening, what Poddar has done and probably shows his genius as an editor, and you alluded to it earlier, is that he has an extremely wide cast of contributors to, you know, it's not just a typical Hindu nationalist in the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:44.720",
+        "message": "Hindu community. No, no, no, no. You're very, very smart that way. You know, you have people like Radhakrishnan writing for some issues, Radhakrishnan was not writing on controversial, he was a philosopher, he kept to that, he didn't get into areas which he was not. Gandhi wrote a lot. Gandhi wrote a lot. Nehru is the only one which, even he got the big Hindi writers to write, you know, Premchand to Nirala to everyone, and they'll privately say what to do, we don't know anything. But because of his aura, his charm, whatever it is, even Premchand wrote, Nirala wrote. I think among that generation of Hindi writers, Mathilisaran Gupt was the only one who wrote enthusiastically, Hariod maybe, but others were not very keen, someone like Nirala was too irreverent to get into this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:32.680",
+        "message": "But then well, And it's almost like Poddar has like strategically decided that, okay, what do I do to make it as respectable in this way as possible, one, get all the politicians, two, get all the Hindi literators, three, get people from other religions, other religions also, and four,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:48.240",
+        "message": "get people from abroad. So it gained them a lot of respect because of that, you know, and it helped build a huge network."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:57.160",
+        "message": "And let's move on now to the next theme. And this is not really a theme as just an underlying backdrop to all of this, which is their attitudes towards Muslims. I mean, even if they had a few Muslim writers, there's a lot of this constant baiting when Jinnah is mentioned as Mian Jinnah, when Liaqat is mentioned. And in part of the narrative of Sanatan Dharm as this pure religion that has existed from time immemorial is also a specific narrative they're building up of Muslims. For example, again, quoting from your book, you write, integral to the narrative was a depiction of Muslim men as the other, libidinous, sexually dissipated and voluptuously lustful, from whom Hindu women had to be protected at all costs. And later you write how the Hindu nationalist organization like Gita Press called on Hindu women, not only to avoid lag bangles, which you know, those guys made, but also not to board horse carts written driven by Muslims, not to keep Muslim servants, not to invite Muslims prostitutes or singers and joyous occasion not to buy household items from Muslims and so on and so forth. And so it's not just a cultural narrative of the saving your women from the lustful Muslim male. But there's also the economic purpose of cutting off patronage from Muslims."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:09.680",
+        "message": "So you find actually a lot for is happening. You see the roots there, you know, during even on Hindu code bill, maybe we'll discuss it later. But you find that similar thing was happening as far as the love jihad and all similar arguments were happening. And so Muslims kept coming to their narrative one way or the other. When they discuss cow, Muslims come, when they discuss women, Muslims come, you know, you protect your cows from the Muslims because they consume, you protect your Hindu women because Muslim men are limited. In fact, it's considered a compliment if a woman is like a cow. And it also there is a deep seated inferiority complex vis-a-vis Muslim men, you find them that there is something about Muslim men. Why are Hindu women attracted? And this I found not only in Kalyan, but even in some of the contemporary journals, for instance, there was this journal, pretty popular called Hindu Punch. I have some issues of that journal and you will find that this is they're constantly talking about there's something wrong about us, about our women. Why are they so attracted to Muslim men? And they're going to do very graphic reasons, which one may not talk about. But so it comes from a deep inferiority complex."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:34.120",
+        "message": "Where do you think this insecurity comes from? Like, is it just a historical narrative of oh, they invaded us and raped our women and all of that? Or is it also something contemporary where they find that Muslim men are just more virile"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:46.720",
+        "message": "and they're dominating? That's the narrative of if you ask any pracharak privately, he'll tell you this virile thing that you know, they're more viriles, therefore, they need four wives. So they build their own world, even if you ask them how many Muslim men they know, in these times, were four wives, forget four, even two wives, they don't have any name, you know. So this is how they build and the interesting part is that, how this narrative is still alive today is not only alive, it's doing very well, actually, and especially in the last six years now, more than five years."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:26.120",
+        "message": "Yeah. And one wonders whether there is any logical end to this, or it's just a really great way to sort of mobilize the troops, so to say, let's kind of now talk about the Gita Press's rising involvement in politics from the 40 onwards, because as you pointed out, when they started, it was like a cultural thing. They didn't really get involved in politics, even though Poddar was close to a lot of politicians, but they didn't really get involved in this, certainly they were never against the British in any way. But there were a number of sort of hot buttons which came up as the 40s came on, and one as independence approach was partition."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:35:08.640",
+        "message": "Tell me a bit about that. Partition, see, partition, just like, as I told you, during the 30s, when the caste thing came about, they turned, they forgot what the journal was meant to do, 40s, it became more so. 40s, in fact, so much so that in 46, one of their issue, which was called Malviyank, had to be banned by the United Provinces government. It was so communal, it was so communal. It also had the last interview, given by Madan Mohan Malviya, he died in November."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:35:43.280",
+        "message": "I mean, I believe this is the first time they did a special issue."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:35:46.200",
+        "message": "They did a special issue for anyone, they never did it for anyone in that they have"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:35:50.920",
+        "message": "not done it till now on anyone. I mean, when Poddar died, they did a special issue, no?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:35:55.440",
+        "message": "I don't think so."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:35:57.840",
+        "message": "I must be mistaken. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:35:59.840",
+        "message": "No, I don't think so. I didn't come across any. So, and then it was so communal and, you know, from, and what it was doing was, it was getting information from all the newspapers, their kind of newspapers, you know, many newspapers, which they thought was kind of furthering the Hindu cause. And they were talking only of violence and they were very selective in news. In fact, at one point, Poddar says, some of my friends are saying that, how come you're only writing about Muslims killing Hindus? Okay. So Hindus also killing Muslims, he admits very grudgingly. The entire period, if you see from 44 onwards till almost 47, they're very, very upset. They're trying to, especially once they realize that Pakistan is a reality now, there's no going back, then they become even more so. Now they have added grouse that, well, you listen to Muslims, you've given them. So now is the time for us to turn, to become a Hindu Rashtra. Okay. Muslims are gone. Good. Now we become a Hindu Rashtra. And then they find the Constituent Assembly, this gentleman Nehru is discussing Hindu code bill, which freaks them out. And that entire period, 44, 45 to 47, till Gandhi's assassination or before Gandhi's assassination, the entire Kalyan becomes a rabidly common, issue after issue on everything, you know, they ran this one, Bidacharan Shukla's father, who was a member of the Constituent Assembly, and again, party, again, on the side, he was among those right wing element within Congress. He wrote a multi, he wrote a serial, four part series, or three part series on what should happen to Hindi, you know, and very, very particular about how it should not get polluted, how those should be done away with, it was a long and four part series, imagine. So they were kind of bothered about everything, so what should happen post 47, now it has happened. But on the violence itself, and then there's this famous, which I call a fake news in what this Bengali woman, this pamphlet, which they produce all over, which gets noted in Bombay, we noticed in Bombay, Allahabad, Gorakhpur, and frankly, who is this woman, nobody knows. And Kalyan, because of its circulation, it was reaching ordinary Hindu homes, it was, and in a way, it became for RSS and various other organizations, it was a very easy vehicle to get their point across. In fact, entire 1946 Gorakhpur session of Hindu Mahasabha, the resolutions that they pass, you find Kalyan reproducing it in a different form, as a set of demands that they had from the now, New India, which was minus the Muslims, because the Pakistan had come up, which is like even now you find that those same things, someone or the other is talking about, especially since 2014."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:16.200",
+        "message": "And what kind of struck me was like, on the one hand, they're very frustrated, because they're like the Muslims got their Pakistan, but where is our Hindu Rashtra, I think they use the term Khichri for what they were left with, and I love Khichri, I think it's great. But on the other hand, there's almost in some places, I sensed a little bit of glee that this is an opportunity for them to push their agenda. For example, quoting from your book about Noah Khali, you say, quote, the Hindu Mahasabha, which had dispatched senior leaders like Ashutosh Lahiri, Shama Prasad Mukherjee, NC Chatterjee and Pandit Narendra Nath Das to Noah Khali for relief work, did not fail to see the long term gain for the community. And now you quote within that, notwithstanding this great catastrophe, it is a matter of satisfaction to the members of the relief committee, to see a keen sense of fellow feeling now awakened amongst all Hindus in every province of India, stop quote. So people are being slaughtered on both sides. And they see it as an opportunity to continue with the polarization."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:12.520",
+        "message": "See had Gandhi not been assassinated in 48, these guys would have been in power much, much earlier, maybe not in 51, 52, they would have come to power, maybe by 57. But max 62 election. Really? Yeah. This Gandhi assassination kept them, it was set back for 20 years. So you find them coming back to, you know, making noise only in the 60s. Sometime, you know, 65 election, Jan Sangh, otherwise, they were in the, they were there, of course, there was a strong perimeter, Jan Sangh was very much there. But they never posed challenge. And the generation of people, they just couldn't come to terms with this assassination. They wouldn't have won 47. If Gandhi was not assassinated, these guys would have come much earlier."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:05.440",
+        "message": "And that also brings me to the question of that, is our nation's destiny then from that time, the way things have unveiled and unraveled, purely a question of happenstance and dumb luck, whether good luck or bad luck is depends on how you look at it, that there was absolutely just one guy who was against this tide, and that was Nehru, and he is a guy who happened to be Prime Minister, who happened to outlive all these other guys like your Patels and whatever."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:41:30.400",
+        "message": "Nehru and the whole lot, whole generation, I'll not say Nehru alone, because the whole generation of people, even a lot of his colleagues, a lot of his partymen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:40.360",
+        "message": "But the other dominant political figures like Patel, like Panth, like Rajendra Prasad, were"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:41:45.320",
+        "message": "also... They were, but still, the larger, the new India, the fervor of new India, which he wanted to build was very much in there. There were a lot of people who subscribe to that belief. Otherwise, you know, these institutions that Nehru built, a lot of things wouldn't have happened. But yes, this... Otherwise, what explains in 2014, this is a question that I've been asking a lot of people, I ask myself, this deep seated anger among suddenly you discover among your friends, your relatives whom you have known forever, where was this all this while? Why did it need 2014 election result for this kind of anger? There has to be very deep seated, you know, otherwise, now people don't even care when they abuse Muslims in drawing rooms or middle class drawing rooms or anywhere. It's no longer... I remember during Bajpayee's six years, it was not so blatant. It was, but not so blatant. Actually, there was no WhatsApp."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:45.960",
+        "message": "So we don't know."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:42:46.960",
+        "message": "Can I attempt one theory? Please, please."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:48.960",
+        "message": "Yeah. So there's this sociologist called Timur Kuran, who in 98 or 99 wrote this book called Public Lies and Private Truths, something of that sort. And he came up with the phrase preference falsification, where he gave the example of the Soviet Union, where he says that look, the Soviet Union appeared to fall overnight as if the tide of public opinion changed suddenly, but it didn't happen like that. What was happening was, everybody might have been against the government, but everybody was afraid to speak out and they all thought they were alone, which is preference falsification. And suddenly, there was a what he calls a preference cascade where people suddenly begin to realize that everybody else is also things like them and that emboldens them and validates their beliefs and then they can speak openly. And I think what happened, and I've written about this as well, what happened in 2014 was, because of social media, the growth of social media in the five, six years before that, a lot of people who I call closet bigots, but whatever, without using derogatory terms, a lot of people who felt a certain way, but thought they should not say it in polite society, suddenly realized, number one, that there are many, many more people who feel like that to say it openly, that validates their beliefs, that emboldens them to speak out, and the shoe is on the other foot. And that's 24."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:44:05.200",
+        "message": "I mean, that was just my take. No, no, that's absolutely, I entirely agree with this. But this, how did this happen? You know, this, like, you know, and this continued in 2019, for instance, everyone thought there'll be, you know, there'll be judged on performance. And as we were discussing before the recording, demonetization happened and not a protest that one knows of, you know, getting angry in a queue is not a protest, you know, that's it, Indians are used to getting angry when you're queuing at the airport or railway station anywhere or hospital. But, and it happened, it destroyed livelihoods, destroyed lives. Nothing matters to the people anymore."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:52.200",
+        "message": "And it's a triumph of narrative. And in a sense, it's a triumph of the Gita Press, triumph of Gita Press, you know, this"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:44:57.120",
+        "message": "is the kind of they were just saying things constantly, when they read it, not read it, you will see it, it's like the classic Coke ad, you know, they'll, when you go to watch the Hollywood movies in America, they'll say, drink Coke, eat popcorn, there was some catch line which I've forgotten. And they will do it so many times that you will, at the end of it, you'll say, I might as well go and have something, you know. So this constantly talking about cow, women, Muslim, the other, and when you place facts before people, you know, people, the class that you and I belong to, and tell them, tell me how many Muslims that you know, who have done extremely well in life, who have taken away your job. Damn it, I don't see Muslim kids in my kid's school, you know, how many Muslim kids that she has friends in school in college, how many Muslim friends I had, what are they taking"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:53.000",
+        "message": "away then? No, and there's like, like, I remember this incident with this friend of mine who's done an MBA from a top school, has an absolute top job in the corporate sector. And one day we were just chilling and he said that, Amit, there's one statistic which really scares me and I said, what is it? And he said, you know, the Hindu birth replacement rate is so and so and he takes 1.9 or something and the Muslim rate is nine. And I just started laughing. I said that, bro, you know, this is not even something you need to fact check or Google"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:46:22.240",
+        "message": "or whatever."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:23.240",
+        "message": "It's just common sense that this is complete rubbish and you find so many, and then you think that, no, they're believing this because they want to believe this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:46:34.240",
+        "message": "They want to believe it. And when you place these facts, they're not, they will not agree, they'll say, no, how have you got this from? What is this from? You know, therefore, someone like say Pratik Sinha doing something which he does, it's like really hats off to him."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:48.920",
+        "message": "At great personal risk."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:46:49.920",
+        "message": "I mean, he's a hero. Great personal risk."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:46:51.920",
+        "message": "He's a great hero if you ask me. You know, a couple of times I have sent him a few things on Twitter, DMed him, you know, and I found that he figured this out and it was brought in public domain. But then again, how many people are on Twitter? It's the WhatsApp, which is the most dangerous, which is where all the religious jokes to everything and how quick they are with every failure which happens. Like that day, Chandrayan first attempted in go for purely scientific reasons, which is fine, what happens all over the world, but they took it in a completely different way. I got a few forwards which said, why this is, you know, this was, they gave it a new twist to it, which there's no business to do. And you will find that everyone and the enough takers for such narrative."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:43.400",
+        "message": "No, and also that depressing WhatsApp forward there was about so many countries have moons and their flags, but we have a flag on the moon, at which point I'm thinking, what's the point?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:54.960",
+        "message": "You know, what are you going to do with the millions of jobless people in this country? You're going to send them?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:58.840",
+        "message": "Send them. Nobody is worried about this. It's insane. To kind of get back to the subject of the Gita Press and politics, and you know, you brought up the Hindu code bill a couple of times, and I do want to talk about that. And I also want to talk about that, because there's a larger question I want to ask you, which is a very difficult larger question, which is the relationship between the state and society. Yeah, right. Like I had Rahul Verma, the political scientist on my show a while back, and he was talking about one of the two ideological cleavages in India, we have different ideological cleavages from the West, according to him, the left, right doesn't really apply here. And one of those ideological cleavages is statism, that what is the role of the state in relation to society. And whereas the Western conception, the post enlightenment conception would be that, you know, the state sort of you need the state for there to be society because someone's got to protect your rights and blah, blah, blah. But the Hindu conception, according to him, and the conception which all these Hindu nationalists and the Gita Press people would share is that no society has existed from before. The purpose of the state is to serve society, which to a certain degree even I agree with, but the kind of society that I view where individual rights are protected, and so on is completely different from these people's vision of it. But nevertheless, their fundamental point is that our society is what it is for a reason, and the state has no business interfering in it. And this greater philosophical dilemma is what is again at the heart of the Hindu code bill. What do you think about this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:36.280",
+        "message": "Yes, in fact, Hindu code bill, I was talking to someone while researching that Hindu code bill and he said that, you know, the greatest suspicion which Hindus have, or at least this prominent Hindu groups, RSS or Vishwa Hindu Parishad or Mahasabha had at that point was and it Hindu code bill they faced successfully, see, the government managed to bring the bills eventually from broken into four, but they managed, the Hindu right groups managed to be this martyr, you know, why only this communities. So this narrative of state only trying to do something to Hindus, not to Muslims. So that is a great rejoice about what government has done more among Hindus than among Muslim women, I think, or this triple talaq, all the Muslim women I know, my friends, everyone"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:31.640",
+        "message": "no one thinks that is such a big deal, you know, it's not relevant to them."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:50:37.320",
+        "message": "But you find that Hindus are suddenly like more worried about Muslim women than anything else. They think it's you did this to us, state did this to us, the great secular state of Nehru did this to us in the 50s. So now it's your turn. And for whatever reason, they think triple talaq is the biggest problem facing Muslim women, which it is not. But anyway, so yes, they have a suspicion and they also have been very successfully managed to create, cultivate this thing that state has always been after them. And 60 years and the entire Congress rule, years of Congress rule as seen as basically anti-Hindu years, and which they have successfully. So every time, so Nehru has to be invoked, therefore, you know, what this happened the other day, Amit Shah is saying something about that in Kashmir. This happened because of Nehru. Then this, where Priyanka Gandhi went, Eastern UP, Yogi is saying, you know, this was done during Congress. So this is funny."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:39.520",
+        "message": "Now it's becoming absurd, actually, you know. Nehru's actually, you forget Nehru, the real person, yeah, Nehru's become like a mythological"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:51:46.080",
+        "message": "figure like Ravana."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:47.080",
+        "message": "I think in Dasarath, they'll put up a Nehru-"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:50.200",
+        "message": "Because there is a land dispute, someone goes and kills 10 Dalits. And you're saying because of what Congress rule did in between, you also ruled, BJP ruled for long, UP."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:52:01.560",
+        "message": "So this is becoming a bit comical, actually, now. No, and honestly, look, what I would say is that there are a lot of criticisms that I can level against Nehru's economic policies, the Congress government."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:52:11.240",
+        "message": "He was full of his flaws, yeah, absolutely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:52:13.240",
+        "message": "But this is just taking it to a new level, like you said, you know, you can't parody"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:52:17.280",
+        "message": "this shit. Now it's becoming a joke that some killing happens and then you're blaming Congress rule of the 50s."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:52:25.480",
+        "message": "Oh, what do you do? Right. And another slightly, you know, and I found this very funny, you know, it was a hot button once. It's no longer a hot button. But once upon a time, it was a hot button and a big cause for the Gita Press, which is communism."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:52:39.040",
+        "message": "Yeah, it was, it was, in fact, because directly, see, it was most prominent in Bengal. And that's where the Marwadi's, the good old Marwadi world existed in Calcutta, shift to Bombay happened much later. In fact, even now, some of the big Marwadi companies still have work out of, they dominate"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:52:59.040",
+        "message": "Calcutta."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:53:00.040",
+        "message": "They dominate even now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:53:01.040",
+        "message": "And they even fund films in Bombay from there. So, and this was a real challenge. And you have to give it to them, they figured this out much before. In fact, they were, they were having this two part series article on Samevaad in Russia and all kinds of, and somehow, again, this some deprivation you need to bring it everything down to women, you know, they'll say, yeh communism mein sabse zyada problem mahilaon ke saath hota hai. And then they will say that one woman has to have a relationship with 20 men, all kinds of absurd, unfounded, you know, women exist for society. So anyone can have any kind of relationship with women. So I think they realized that this immediately strikes a chord among the readers of people that, you know, this is what the new ideology is all about. And they were early on to realize that this is going to create problem for them in Bengal. Because Bengal forever has been, you know, right from the beginning of the 20th century, even before that, Marwadis have been there in Bengal. So you have to, they figured out, built good alliance with RSS groups, others, even saying in one letter, they're saying that we have to learn from the this communists also, how they do this pamphlets. So we have to do the pamphlets, we have to learn and do similar thing, otherwise, we'll"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:54:28.120",
+        "message": "be finished. And the recent results in Lok Sabha elections, you know, you mentioned the views of communism and how that went to women. And I have to quote this because I'm sorry, I find this so funny, if someone's offended, I apologize. But I just find this hilarious, quote, among several example of Karpatri's regressive views,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:54:47.520",
+        "message": "this is Karpatri Maharaj, he was one of the, yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:54:51.640",
+        "message": "Among several examples of Karpatri's regressive views, the most offensive were his statements on women. The new concept of women workers and the liberty it provided them, a product of the Industrial Revolution, common to both capitalist and communist ideologies, was considered a threat to the Hindu social order where a woman was limited to the domestic sphere as daughter, wife or mother. Karpatri said, Lenin had challenged the concept of pativrata nari, devoted wife. In Marxism, since everything was state owned, there was no need for a woman to be in a relationship with one man. As there were no laws of inheritance and private ownership of property, Karpatri said, a woman became like a bucket of water that could quench the thirst of many men, stop quote. This is how they used to write."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:37.640",
+        "message": "And then this man is absolutely revered by. He is revered. No, but he became a bit of a, later years, he became a liability. In fact, he was, he wanted his whole take was in the rural economy, a very regressive rural economy. Even Jansang, beyond a point, dumped him. I think he did well in the first election for, he got some six, seven seats, he got few seats. Then two elections he did, and then slowly he sank, and this book itself is hilarious. It's a fat volume, which I consider a lot of people have been asking me to lend me a volume. Lend me this volume."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:56:13.040",
+        "message": "I said, only if you promise to return it. Is it an English translation?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:56:15.040",
+        "message": "In fact, I had asked Gita Press people, they said, no, nobody translates. I can, I don't know who will have the guts to, it's a fat volume, going in all directions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:56:29.800",
+        "message": "And another thing I found very funny was how the Gita Press then strategizes that they are going to co-opt communism, and they're going to contrast Russian communism with an Indian communism, which they claimed originated in Hinduism. And I'm again going to quote a delightful book from your book, where you say, quote, two similarities were noted between Indian and Russian communisms. The first would delight even the most serious of political theorists. It said that Lord Krishna, the originator of Indian communism, dallied with Gopis, hardworking milkmaids, just as the fathers of Russian communism were involved with humble peasants and workers. The second similarity was more to the point, both versions were aimed at the betterment of the poor and downtrodden, stop quote. And then another writer called Charu Chandramitra argued that the basic mantra of communism from each according to his ability, to each according to his need, was already practiced in India through the joint family system."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:57:29.880",
+        "message": "But you have to give it to them for trying at least, they were trying to get onto, for a religious journal to be aware of this danger, although the way they dealt with this danger is very funny and very unscholarly, but that's how they were, you know. But for them it was really, in fact, see this side of Poddar, which I wanted to write more, I found few instances, he had also become a big figure in matters of business for Marwadis. For instance, when this whole Dalmia cement and ACC thing is happening, everyone is asking him to intervene, because ACC was a big MNC coming, it would have destroyed Dalmia cement. And what he does is he somehow, he plays some role, whereby they come together, actually that becomes it's a, so it becomes Dalmia ACC, they create a joint group rather than"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:30.040",
+        "message": "fighting with each other. He's like an elder statesman."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:58:32.040",
+        "message": "Yeah, he's an elder statesman. And much later also, even when you find the Dalmia, he was very closely associated with Dalmia family. Even small matters, when the entire separation took place, Times of India, Jains moved out from the father-in-law Dalmia, Sao Santiprasad Jain, and the matter went to court, the Vivian Commission report, they say that it is a limited company, it's a listed company. And they're completely disregarding the shareholders, they're taking all the decisions. And they're saying, how did you take the decision, they're saying, because Bhaiji told us. And Bhaiji is saying them in a very, you know, good old Baniya way of dividing property or business, which is not entirely yours, you have shareholders, you know, you're answerable to them. And so he was playing a big role even in that Vivian Bose Commission report is full of Podare actually. So this man had his foot everywhere, you know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:59:36.860",
+        "message": "So here's a question that kind of strikes me and tell me what you think of this. My observation when I finished the book and contextualizing it to the current times, was that for much of the last few decades, the movement at the Gita Press was spearheading with the alliance that it built together of all the Hindu groups, Mahasabha RSS and so on. So the movement that it was spearheading had success within the culture, but not within politics. It was a cultural success, but not a political success. And I'm just wondering whether today that they've gained this enormous political success, there is also a slight cultural downswing because of the dual forces of globalization and urbanization. That while it may seem that okay, the project has succeeded, could it be said that actually culturally as we become more and more exposed to the globe, as we are say incorporating hip hop in a film like Gully Boy, or as more and more people are getting aspirational in different ways than they would earlier. And as more and more of India is urbanizing, which, you know, tends to put people together, more squeezed together and less likely to discriminate because they are part of those economic networks for self interest. And again, I'm just completely speculating, and I think you'd be better off."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:00:55.720",
+        "message": "I'm not really sure whether, see, all this has happened, but how do you kind of explain some of these people who also do, I'm just giving an example of a friend, I don't want to name him, who is completely postmodern in his, when it comes to his choice of music, or even some bit of literature, but extremely conservative, and I've asked him. And he said that it coexists. For instance, how does one explain the grand success of Article 15, okay, and Kabir, what is that movie? Kabir Singh. Kabir Singh. So I was telling this friend of mine, he said, you know, both of them have made money. What is happening to our society? Article 15 also made money, it's a successful movie, which is very serious movie. Well, a lot of my Dalit activist friends are upset over other reasons, which is fine, which"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:01:54.000",
+        "message": "one can argue."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:01:55.000",
+        "message": "But as a mainstream film, it has done very well. And it almost coincided with Kabir Singh, which is supposed to be kind of a money spinner made some 200 crores. So what is happening to society? I don't know, we're becoming more cosmopolitan, global, as you said. But it's like, one of my other friends says that it's an NRI phenomena, which is now we see more here, you know, you want to make your money working for the MNCs, but when it comes to vote, you want to vote for a guy who is like socially conservative, God knows what he does. So this is some bit of it is happening here. Otherwise, you know, let's just look at all the NRI crowd, you know, all of us have NRI relatives who are like, completely vouching for completely conservative politics. If they had their way, Pakistan would not exist. They're sitting in New York or sitting in London is very easy for them. It would spontaneously combust. So I really don't know how this these things are happening to a society we are becoming. So culturally, this project, as you said, there is a downslide to it, there's a down. Maybe it will happen, because it has to happen. Because in the last five years, we've seen nothing and we have been seeing it even otherwise. But now, past five years have been very pronounced on your face, like, we have, we are there, you take it, you have no choice, you leave it. As someone other day said that, you know, this Guardian article on Turkish intellectuals of what they did, just simply said your time is over, you know, to that good old, now bad word called liberals. Similar thing is happening in India. But for how long, whether this will continue, whether people will forget their jobs, their other things, and continue to be part of this project and vote for a party which only talks of religion, talks of segregation, talks of hate."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:04:05.080",
+        "message": "I don't know. What you said is really thought provoking in terms of Article 15 and Kabir Singh both doing well. And it strikes me that it doesn't mean that in this large country with millions of people that entirely different audiences watch those two films. I think there must be many people who watch both films and like them for different reasons. Like them for different reasons. Because people contain multiple views."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:04:26.480",
+        "message": "It's completely Foxpeel. How is this, both the movies doing well?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:04:30.760",
+        "message": "Because I guess, if I'm again thinking aloud, and maybe this is simplistic, but Kabir Singh might appeal to certain impulses that people have. And Article 15 may appeal to the more rational side of, and obviously what people like you and me hope for is that the rationality wins out in the long run. So I'll end this episode by asking you a question I ask many of my guests on whatever subject we're discussing, that looking into the future, and I normally say 10 years, but in this case, because you know, your book has covered a century and all of that, I'll give it a slightly longer span. Looking into the future over the next 20 years, what gives you despair and what gives you hope about the state of Indian society?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:05:14.240",
+        "message": "First, the despair. My despair is, biggest despair is that our institutions will be destroyed beyond redemption so badly. And when I talk of institution, I don't mean one university here, one university there, the larger fabric of the way we discuss, the Supreme Court, the RBI, you know, and the discourse, the narrative, the institution, the discourse, discourse for all time to come, I think it's vitiated for a long, long time, and it's not going to go away so easily. You have poison, and I talked to my daughter also, who's 18 year old university going girl, and she tells me things which is not, at times, it gives me great, it makes me very, very despair. But then I also see bookstores, I see, I meet people who are worried, I meet very young students, again, at the same time, who tell you that they don't approve, you go for, lit fest might not be the exact answer to say, because these are happening in very urban spaces, these are children who brought up in a very different way. But even in small towns, I've been to a few small towns also, and I see there's some bit of, in the long run, I think the constitution, to sum it up, in the long run, I think, you know, the constitution will be upheld, we will, and the institutional, for instance, media, this can't go on for long, nobody will read you, media also knows, media has lost its credibility, while serving one party, certain government, they've lost the credibility. So I, and at the same time, even the mainstream media has failed, you have a parallel media, which has given us hope, which is, and what will be without hope, you know, and we have seen societies around us, we have not suffered as much as Pakistan has suffered, or Turkey is suffering or various other states. So and they've come out of it in various ways, they fought, so I'm sure people will fight. This can't go on, this, this, this sarad of nationalism, this whole thing will not go"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:07:28.840",
+        "message": "on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:07:29.840",
+        "message": "And our Khichri is a resilient Khichri. Yeah, our Khichri is a resilient Khichri, it has to survive. That's the only way we can survive, you know, all of us."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:07:37.480",
+        "message": "Akshay, I'm so honoured that you gave me so much of your time today."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:07:40.560",
+        "message": "Thank you so much for coming. It was a real pleasure, Amit, talking to you."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:07:43.680",
+        "message": "I haven't had this kind of discussion in a long, long time. Thank you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:07:49.880",
+        "message": "Thanks. If you enjoyed listening to this episode, do head on over to your nearest bookstore online or offline and pick up a copy of Gita Press and the Making of Hindu India by Akshay Mukul. In this episode, we merely touched the surface. I have a few thousand words of note. So it's a remarkable book with a lot of depth, please pick it up. You can follow Akshay on Twitter at Akshay Mukul, one word, A-K-S-H-A-Y-A-M-U-K-U-L. You can follow me at Amit Verma, A-M-I-T-B-A-R-M-A. You can browse past episodes of The Scene and the Unseen at sceneunseen.in, thinkpragati.com and ivmpodcast.com. The Scene and the Unseen is supported by the Takshashila Institution, an independent centre for research in education and public policy. Takshashila offers 12-week courses in public policy, technology policy and strategic studies for both full-time students and working professionals. Visit takshashila.org.in for more details. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:08:58.760",
+        "message": "Filter coffee is a fascinating beverage. You need to pick the right beans, blend them in the right proportion, roast them to perfection and slow brew at the right temperature to get the perfect cup, which is exactly like great conversations as well. You need to track down the most interesting minds, get them into their zone and settle down for an unhurried, unscripted chat. And coffee for me is always, always, always best enjoyed with friends. I am Karthik Nagarajan and do share my table as I meet some of the most interesting people I know and sit them down for a strong cup of coffee and an even stronger conversation. Join me every Wednesday for a freshly brewed episode. This is not frappe, this is the filter coffee podcast. Hi, I'm Satyajit. Hi, I'm Racheta. We are from the Open Library Project and we host a podcast called Paperback. Paperback is a podcast where we engage with stalwarts and experts from various industries, suggesting nonfiction titles that contributed to their journey in a big way. We've had guests like Anjali Raina, Dr. Marcus Rani, Dr. Swati Lodha, Ambi Parameswaran, Apoorva Damani and many more on our show, Paperback. Find new episodes every Wednesday on IVM Podcast app, website or wherever you listen to podcasts."
+    }
+]

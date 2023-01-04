@@ -1,0 +1,377 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "I.V.M. I.V.M. I.V.M. I.V.M."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:13.060",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:18.840",
+        "message": "I.V.M. I.V.M. dead economists were gathered to watch, I wondered. Just then, the title flashed on the screen. Welcome to the scene in the unseen. Today's episode is about zombie firms and creative destruction. What are zombie firms, you ask? They are the living dead of the business world, firms that should have shut down but are kept alive, sometimes by zombie banks. Air India is one example and Jet Airways, which shut down recently, could have been another one. My guest today is the economist Ajay Shah, who is a zombie hunter of sorts, passionate in his belief that zombie firms are bad for the economy and for common citizens like you and me, and that the state should not allow this horror movie to continue. Before he explains why, though, let's take a quick commercial break. This episode of the scene in the unseen is brought to you by Storytel. Storytel is an audiobook platform which you can listen to on your Android or iOS app. They have thousands of audiobooks that you can listen to on your mobile, including hundreds in local languages like Hindi and Marathi, and unlimited monthly subscription costs only Rs 2.99 per month. And you can also get a 30-day free trial if you hop on over to storytel.com slash IBM. I actually use Storytel myself regularly. So as long as they sponsor the show, I'm going to recommend one book a week that I love. The book I want to recommend today is called Hayek by Iman Butler. Frederick Hayek is one of the most important thinkers of the 20th century, and someone who's had a great influence on me. But this is not a book by him, but a brief introduction to his life and his thinking by an outstanding author called Iman Butler. So check it out on Storytel. And remember, you get a 30 day free trial only at Storytel.com slash IBM. Ajay, welcome to the scene in the unseen. My pleasure to be here. Ajay, I've been reading you and I've admired your work for many, many years, almost since the start of the millennium. Tell my listeners a little bit more about you. Like, you know, how did you become an economist? What was what's your journey been like?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:45.400",
+        "message": "Um, I had the good fortune that I was brought up in a house with 6000 books, and my father was an economist. So in a way, I've been exposed to these things all along. I studied aeronautical engineering at IIT Bombay. And then I jumped into a PhD in economics. After moving back to India, I worked at the Center for Monitoring Indian Economy, the CMIE. I worked at the Indira Gandhi Institute for Development Research. This is a university near Bombay. And I was then in the Ministry of Finance in Delhi. After that, I have been at the National Institute for Public Finance and Policy, NIPFP in Delhi. So that's my life trajectory. All through my work, I've basically been curious about the world, both in terms of understanding how things are, and in terms of what public policy can do to make it different. And when you start thinking about public policy, it inevitably takes one away from simple economics, because a lot of public policy is really public management, it's public administration, it is law, and of course, it is politics. So I've been exposed into that world. I've had the good fortune of being involved in many of the big and exciting policy projects of the last 25 years. These included the early development of the equity market, the reforms of building SEBI and NSE, the new pension system. Then I was part of the early thinking on the goods and services tax. I was part of the Financial Sector Legislative Reforms Commission, which did a full clean write of Indian financial law. I was part of the bankruptcy process. I was a member of the committee that drafted the Indian Bankruptcy Code. And I was part of the movement of the Reserve Bank of India, towards inflation targeting, and so on. So I've had the good fortune of being at the early ideas stages of some of these important projects."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:45.080",
+        "message": "And you know, I noticed that you were very fortunate in the same way that I was that I also grew up in a house full of books. And that's where I kind of got hooked on to reading and then you just get curious about the world. And that's an incredible habit. So tell me a little bit about what were your early influences in terms of like, you said you were in a house with about 6000 books. So, and your dad was an economist, but I'm presuming they weren't all books of"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:06.280",
+        "message": "economics. There would have been all kinds of books. My father was a 19th century intellectual, okay, where it was not a narrow economics view. It was everything. It was history, it was politics, it was philosophy, it was culture, it was religion, it was everything. So I always think of myself as a visitor to this century, from the 20th century, for me, the great experience of my mind is the thought process of the 20th century. So if you look at the 20th century, starting from the collapse of the first globalization in 1914, then you play the arc through the First World War, the Great Depression, the Second World War, the collapse of colonial empires, the Cold War, the collapse of communism, the rise of liberal economics and globalization, and then its recent minor hiccups. In my mind, this is the story that this is my natural locale. I understand this world. I have spent my whole life studying this world. I think I have some intuition into how things have happened. And I think that's a useful thing to have in this century, where many people don't quite remember those interconnections and have not lived those experiences. So as a reader of books, I always say that a person lives only one life. But when you read books, you can experience 1000s of lives. So I feel I have pulled together some knowledge and experience from 1000s of people of the 20th century."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:35.880",
+        "message": "And who were the early thinkers or what were the books that had a big influence on you earlier? Like if I had to ask you to name a couple of books, which changed the way you think about the world? It's a question I often ask people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:46.280",
+        "message": "This is going to be an embarrassment. But today, the book that looms large in my mind is a book that I only read about six or seven years ago. And this is the book Seeing Like a State by James C. Scott. I just think of that book as one of the most important influences in how I think about the world today. And sadly, I got to it only seven years ago. How did it change the way you looked at the world? It made me much more cautious. So I think I have suffered from an engineering disease. And a willingness to design the world too much. And I think the book slapped me around and made me much more careful and much more cautious. It also helped that along the way, I was gaining more experience and I was learning how things go horribly wrong through more practical experiences. But I think that James Scott has helped me be far more careful and far more grounded in respecting the complexities of the world, in underlining how little we know. We the thinkers about public policy are actually far less knowledgeable and far less confident in what we do. So this is the sort of caution and change in worldview that James C. Scott has helped me see. Maybe it was brewing all along, but the book just was like a vision for me when I read it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:02.440",
+        "message": "And is that sort of epistemic humility, something that is very uncommon in the fields that you worked in? Because I imagine that people in government always do imagine that they"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:12.040",
+        "message": "can, you know, see themselves as designers of sorts. So I think of it as two parts. First, right after independence, there was unabashedly a period of modernism. There was this idea of a developmental state, the government was going to build steel mills, you know, there was central planning raged on a large scale that the governments were quite comfortable and quite arrogant in reshaping the world. By the late 70s and early 80s, when the economic policy philosophy started shifting into a more market-led vision of the world, I think that has subsided. But even then, I think that we in India would do better by crossing the river, by feeling the stones, making small moves, learning from experience, always being humble, listening to the world, listening to the data, and changing our mind as"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:04.360",
+        "message": "we go along. Getting to sort of the topic at hand, I mean, the larger topic, of course, is the existence and the danger of zombie firms and the value of creative destruction. And obviously, at the time that we are recording this, we are recording this on April 22. And what is looming in front of me, as I think of these things is obviously the downfall of jet, where in a sense, obviously, I'm glad it's gone, because a lot of the voices for keeping it alive, I mean, for the government to keep it alive would really have been, you know, privatizing profits, socializing losses. And that's absolutely the worst for, you know, any supporter of free markets can hope for. Tell me a bit about jet, like what exactly happened"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:43.560",
+        "message": "there? Why did it fail? What was the journey? So, I've thought a lot about the Indian airline industry. And in my mind, one important root cause of the trouble, which I think has not been adequately appreciated, is the presence of Air India that was making losses. So, here is the key intuition. So, just to make up an example, suppose there is an Air India that has 20% market share. So, not a dominant player, but big enough to matter to the price. And suppose Air India systematically loses money, which means that the taxpayer is topping up Air India every year. But Air India is systematically charging an affair that is not enough for Air India to make money. And there is an artificial injection of resources from the taxpayer. What that does is, it really puts a crimp on the profits of every other firm. So, if I'm a rival airline, I'm unable to charge slightly higher prices, because Air India is here charging relatively lower prices. So, these kinds of firms, firms like Air India have a technical name. They're called zombie firms. So, the phrase zombie is supposed to bring to your mind the living dead. I have a funny story about this. Once I was part of a government committee where the phrase zombie banks was used. So, now the word zombie firms, zombie banks is a technical phrase. It's a term of art in economics literature. But there was a chairman of a public sector bank who was hugely offended because he took this phrase to be a slur and there was an energetic fight where he asked for the deletion of the word zombie banks from all over the report. So, zombie firms, zombie banks, these are technical terms in economics. So, this is a firm that, you know, by right would not exist in any reasonable world, but is being artificially kept alive on life support either by taxpayers or by banks, or by somebody, but really, it's not a viable firm. So, in our\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:39.960",
+        "message": "And it need not always be a public sector firm."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:42.600",
+        "message": "And it doesn't have to be a public sector firm. So, for example, in Japan, the zombie banks were keeping zombie firms alive. And both the banks and the firms were purely private. So, there was an entire ecosystem of zombies of the living dead walking around the landscape. These are firms that are not profitable, they're not viable. But the interesting insight is that if you have one guy with a 20% market share, who's being artificially kept alive, either by banks or by taxpayers, then that actually contaminates the health of the entire industry. The remaining 80% of the industry will not be healthy because they will not be able to charge suitable prices. So, then the disease tends to spread. So, once you get one zombie firm, you will get others, then there'll be a second firm, there'll be a third firm. So, when you look back at the failures of some of the other airlines in India, the counterfactual I would like to play in my head is, what if Air India had actually been profitable? What if Air India had been charging a little more for its tickets? What if Air India had been privatized? Okay, so, people often think that if Air India was privatized, that would mean more competition for private firms. But I would also say, it would probably mean somewhat higher ticket prices. And that would prop up the profitability of all the other Indian airlines. So, this is a part of what led to the failure of Jet. It was just too many years of having to compete with Air India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:02.840",
+        "message": "Let me cite an illustration from one of your pieces and all the pieces I refer to in this will be linked in the episode page in the show notes, where you illustrated this by saying that imagine that the ticket price which the market is willing to pay is 100 rupees, but Air India is so inefficient that it cannot price it at less than 110 bucks. So, then the taxpayer or the banks or whoever basically gives Air India 11 bucks, so they can charge 99 rupees. And what that does is because Air India is functioning at 99 rupees subsidized by us or other zombie banks or whatever, is that the likes of Jet and Indigo cannot then charge 102, 101 or even 100, they have to compete at that level. And the investments that they would have made with their profits and you know, getting more fleet, you know, just expanding overall is something that they can't do, they're barely"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:47.640",
+        "message": "struggling to get even. And now let me add to that. So, let's imagine a counterfactual, where Air India had exited the market. Okay, so just suppose we managed to shut down Air India. Many things would happen. So far, we've talked about the pricing side. But also many pilots would then lose their jobs in Air India. The supply of pilots would go up, the prices of pilots would go down, all remaining airlines, all surviving airlines would benefit because pilots would be cheaper. Landing slots would become available. Real estate at airports and near airports would become available. Capital would become available because for many investors and banks, there are limits on the amount of investment you can do in one industry. And by the time you've given loans to Air India, you've choked up your industry concentration limits. And there would probably be space on the balance sheets of banks that is freed up once Air India exits. So, we should see the exit of a firm as playing on these two sides. One is, it improves the pricing power of the survivors. The second, it improves the cost function of the survivors. The survivors are able to buy their inputs at a slightly lower price. And put these two things together, you get a little bit of a bump in the profitability. And that actually could have made quite a difference for"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:01.720",
+        "message": "some of the airlines that blew up along the way. Right. And you know, from another of your posts, there's a very interesting quote where you kind of illustrate this. So I'll just quote that, it's useful to focus on the plane. Ultimately, what is required in the economy is that a plane has to fly from Bombay to Nagpur. Earlier, that plane was leased or owned by Jet Airways. An efficient financial system is one where leasing companies shift leased planes from Jet Airways to other airlines, and the bankruptcy process sells of the own planes or own planes. As long as the plane flies, it does not matter what logo is painted on a stale stop code. And you have another post like this was in a piece and you have another post on your early blog, where you sort of illustrate this by talking about the cost of an idle plane for a single day. And you point out, you know how, for example, an efficient hypothetical dictator would make sure that every plane ran every day because he has to. But the way and the market would do the same thing if it was allowed to function properly, but because of the way our system is messed up, that doesn't happen. And Kingfisher actually had planes lying idle for an entire year at a phenomenal opportunity cost."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:06.680",
+        "message": "So actually, I started thinking about this field when I saw the Kingfisher planes. It just breaks my heart to see those assets sitting on an airfield. What a waste. Okay. It is just a tragedy for society when that asset is sitting there and it's not being used. And that's our failure as society. So as you said a moment ago, it doesn't matter what colors are painted on the plane. You want the damn plane to fly. So in economics, we always use this hypothetical concept of an omniscient dictator who knows how to allocate resources. Okay. Please note, no economist advocates dictatorship. This is just, and no dictator is omniscient. This is just an intellectual device that if you could think efficiently and use all assets and all labor of the country, well, then that's like a hypothetical benchmark. And we always would like to build a society that is able to use resources properly. So it struck me as a glaring failure when there were planes belonging to Kingfisher airlines, which were just sitting idle. That is failure. And we should ask ourselves, how can we organize society so that this doesn't happen? It should just take a few days for a leasing company to switch a plane from one airline to another airline for a painting job to be done for new colors to be painted on the plane. And then you're back to business. Finally, what is going on? As you mentioned a moment ago, there's a plane, there's a pilot, there is Bombay, there is Nagpur, there's a passenger. It doesn't matter. What is the firm? What is the airline? What are the colors? Okay. The same pilot will get a job in that new airline and you're done. You just want to get rid of that one ephemeral construct called an airline and hand over that asset, that pilot to a different ephemeral construct called another airline. And that's our job as society. Can we create the institutional arrangements through which these things can be done swiftly? And then we are done. Then we don't need to get so stuck up about the bankruptcy of jet airways. It is always sad when an organization dies. Okay. So for all of us, we've been part of teams. We've been part of organizations. We love organizational capital. We love to build organizations. And I'll come back to that in a moment surrounding the discussion on bankruptcy. But as society firms are ephemeral, we should use"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:16.200",
+        "message": "assets well. So, you know, when you say that, that those assets should immediately have been put to better use and would have been within a few days, you know, some listeners might immediately imagine as Indians tend to look at the government for solutions, let's say how the government should do that the government should, blah, blah, blah. But what really happens is that when you say society wants to society wants that society acts through markets, markets are the mechanism through which we fulfill each other's needs in society. And typically, the market process would lead to that happening, you know, where the planes idle for maybe a week and they repainted and then they're flying and everything's back to normal. Explain to me how that process would work out. And explain to me what are the impediments in its way that you know, what's wrong with the system? Why isn't that happening?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:58.440",
+        "message": "So I share what you said a moment ago 100% that when we say society, we're looking for the working of markets. Okay, we are a self organizing system. People deal with each other with self interest and profit motives. And what we're looking for is the rules of the game through which all these nice things will happen. And that takes us to institutions and law. So let's think of the pieces of this puzzle. The first piece of the puzzle is that I'm very happy that a lot of planes are leased and not bought. Okay, because it's much easier to move a leased plane from one airline to another. Okay, so the airline is supposed to regularly make payments to the leasing company. And when that doesn't happen, the leasing company yanks the plane, and that plane is then available for rent to give it to somebody else. And so that same plane sitting in Nagpur will be captured from the control of one airline. And the leasing company will probably make phone calls to all the airlines and saying, do you want this asset? It's lying right there. Okay, so that's one part of it that leasing is a very good thing. The second important thing is to think of bankruptcy. Okay, so the way to think of the bankruptcy process is like this. Imagine there is a company with, say, 100 rupees of assets, out of which there is 30 rupees of equity and 70 rupees of debt. And this company gets into trouble and it is not able to pay either its creditors or its employees or something. So for whatever reason, the company gets into trouble. Now what should happen is the bankruptcy process. Conceptually, what happens in the bankruptcy process is we say to a new buyer that I'm willing to write off all the debt of the company. So it's 30-70, 30 rupees of equity, 70 rupees of debt. Imagine what the bankruptcy process does is it says, look, the 70 is gone. Okay, so you as a buyer, I'm giving you a clean slate. I'm giving you an all equity company of just the assets of the company and no debt. So you're not carrying any baggage. That's the glory of the bankruptcy process. That's the beauty of the bankruptcy process that you get a clean slate. It's not like the bad old days where the buyer of a company had to take over all the debt that came with the company. Here, the buyer gets a clean slate. He gets a start. Now, suppose the price, the highest bidder says the price I'm willing to pay is 29. Okay. Then the lenders who have control of the bankruptcy process will think, you know, what's the point? I might as well just liquidate the assets of the company and I'm not really getting much. But if the bidder sees some value in the organization, in the people, in the processes, in the capabilities of the organization, then he probably bid 40, probably bid 50. And the debtors will take whatever little money they can get that comes in and walk away. So that's the bankruptcy process. Can we run this quickly? Can we do this literally within weeks? It should not be complicated. It should not take forever. Okay. So in India, these things go on for years and years. Our puzzle in public policy is how do we make this happen quickly? So we created a new bankruptcy law in May, 2016, and we're still in the early stages of figuring this out. But really in an ideal world, that's what you want to happen. That we like Jet Airways as an organization. It had some genuine capabilities. So somebody should be willing to pay for it. It had some landing slots. It had some very attractive real estate. It had some people. It had some systems. It had some capabilities. So imagine you put it up for auction in the bankruptcy process. Then somebody would pay for it and would pay a good price. And all the debt would get written off and you start over. And that's the glory of bankruptcy. Look around the world. Airlines go bankrupt all the time. It's not new. It's not unusual. Telecom companies go bankrupt all the time. It's not new. So the point is, we should not allow these things to become long, slow, painful affairs. We should have the institutional arrangements to do these things quickly. So the assets will be used. So the people will be used. So the organizational capital will be used. But you know what, if nobody feels there is organizational capability of value inside this company, then there won't really be interesting bids. And then, yes, the company deserves to just be cut up into some pieces and sold off that. You sell some land, you sell some planes, and for the rest, the company ceases to exist. And then we should be unsentimental about it. Okay, we tried. It didn't work. Move on. Let's give the parts back to society and let's move on to something new."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:21.160",
+        "message": "So where did the IBC, like we do have, you know, an IBC, Insolvency and Bankruptcy Code, as you pointed out, where did it fail in this instance?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:28.680",
+        "message": "The IBC is still a work in progress. So many of the steps that I've described are an idealized depiction of what a bankruptcy process should be. Many pieces of the IBC are not yet in place. We don't quite have the ability to rapidly set up the committee of creditors, rapidly assemble the information, rapidly do an auction, have a tribunal that will look effectively at these issues without introducing delays, without making mistakes, and so on. So this is still work in progress, and we're not there. But I'm just on an idealized world that that's how we should be thinking about this. By the way, as you would have read one of my articles, I think the right answer for Air India, for the government, is to use the bankruptcy code. Yeah, that's what I was coming to. Because that's where you wipe the debts clean. The only way in India, where you can wipe"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:15.400",
+        "message": "the debts clean and start over is IBC. So I wanted to break that down for me. Now, in your specific piece, for example, you gave the instance of say that there is a zombie firm, and it has say 200 rupees in debt. And the most anybody is willing to pay for it is 50 rupees. But nobody will do that because they pay 50 rupees and they're stuck with 200 rupees of debt. So one option is where the government covers the debt. So you have an auction where the winning prize is a negative bid in this case 150. So the government covers 200, the other 50 goes into covering that and then you do whoever bids for it has a firm with no debts, but that of course, and the taxpayer is taking that burden, but it's a one time fiscal burden and doesn't keep repeating. Is that the kind of scenario that would work for Air India? Well, it would involve the use of taxpayer money,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:04.920",
+        "message": "and I don't see why. So what's the other option? The other option is to put Air India into the bankruptcy process. So imagine that one of the banks, one of the public sector banks will have a payment that does not come on time from Air India. So imagine the taxpayer stops putting money into Air India. Air India fails to pay either an employee or a creditor, or a bank, and then any of these characters can go to the NCLT and initiate the bankruptcy process."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:34.280",
+        "message": "As it turns out, as it turns out, right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:36.520",
+        "message": "And what the bankruptcy process does is precisely this. It takes Air India, it puts it up for sale, and it offers the buyer a clean slate. It says all your debts are wiped off. And whatever that buyer puts up the highest bidder puts up, that's the money that goes to the creditors, it may be less than the full debt that was owed to them, but that's okay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:56.760",
+        "message": "So that's given in a pro rata kind?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:58.440",
+        "message": "Yeah, there is a procedure for allocating. And in the end, you get a clean, unencumbered firm with some assets, with some capabilities, with some software, with some people, with some management systems, or maybe these organizational capabilities actually don't exist. And nobody really comes up with a half plausible bid for Air India. In this case, it goes to liquidation, please sell Air India building, please sell the planes, please sell the real estate at all the airport counters, and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:24.680",
+        "message": "Right. You've spoken and you had an article on the IBC as a means of privatization, which would basically be this, you get rid of a zombie firm in this manner. So the question here is that, you know, number one, there are obviously interest groups, which would be against this in the political economy, which stop these kinds of reforms from happening. And number two, there might be a mindset problem where, you know, people think of the economy in a particular sort of central planning way that we have to keep these firms alive. And you have zombie banks keeping zombie firms alive, as you described, you know, which of these is more of an issue here?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:59.080",
+        "message": "So I think the second one, because we in India have not had experience with the bankruptcy code, we're used to firms that just live and live and live. And we've developed this worldview that a firm essentially lives forever. And I would just like to plead with all of us that yes, there is something great in the organizational capabilities of many firms, but that doesn't mean all firms have great organizational capabilities. And just like the creation of the creation of new firms is very important, the destruction of old firms is also very important. And as a society, we have to move on. A firm is nothing but a collection of people and capital that comes together. And if it doesn't work, then we should just move on because that same capital, those same people will do other things. Okay. Finally, a pilot is going to fly planes. Finally, the Indian passenger will fly from Bombay to Nagpur. So, you know, in the end, it all evens itself out. We don't have to be so stuck on the idea that there will always be an Air India and there will always be a Jet Airways. Maybe these are not the right organizations to have done these things, or maybe they are. I'm not here to prejudge whether there is organizational capability or not, but that's for the bankruptcy process to decide. If there are buyers who feel that there is organizational capability in Jet Airways, they'll put up a price for it. And if there isn't, then we should feel a little bit of sadness, but we should move on. And the great economist Joseph Schumpeter taught us this whole message about creative destruction, that the glory of the market economy lies in that ceaseless churning where new firms are born all the time and old firms die all the time. And that's what keeps a market economy energetic. That's what keeps a market economy honest. And I feel we in India have somehow got into this notion that every firm is somewhat like a government job, that I'll have the job forever, the firm will be there forever. And I think that we would all be better off being more equanimous about it, that look, these things happen, they come and go. I would like to narrate two stories in this regard. The first of them is the malls of India. So as an economist, I suffer from two problems. The first is that I rarely get to visit malls. And the second is that when I visit malls each time, my heart overflows with joy because I see how much change there is between one month and the next month. You walk in any mall in India, there is this constant churn. There will be a new outlet where there was something completely different. People move on. People try something if it works great. If it doesn't, they move on. There's that dynamism. Among small firms in India, we know that dynamism. So similarly, you would have heard of the restaurant business in India. People put in a lot of capital thinking it's going to work for a year. So you do your entire business plan, thinking at the end of the year, people will be tired of this restaurant and odds are, I'll have to shut it down and move on and do something new. That's the dynamism. Here is a story originally written by my colleague, Ela Patnaik. She did this in the Indian Express some years ago. You will remember a time when there were these STD, ISD, PCOs all over the country. So all over the country, we would travel and then we would find our way to some STD booth and we would make a call home. When mobile phones first came, we still used those STD, PCOs because roaming was extremely expensive with your mobile phone. I believe that at the peak, there were more than a million of these PCOs and each of them probably had one, two, three people participating in the production. So probably a labor force of multi-million people was producing these STD, ISD, PCOs. And then one fine day, the roaming cost of cell phones went to zero. And this entire industry vanished in the blink of an eye. This is an industry vastly bigger than the employees of Jet Airways. In the blink of an eye, all these people lost their jobs and they moved on. They went and did other things. And cyber cafes for that matter. Similarly, cyber cafes sprang up and cyber cafes vanished. And this is the glory of a market economy. That at each point in time, entrepreneurs look at the world, firms look at the world, they try to figure out how can I serve the customer? And there is a way of serving the customer and then the world changes. Preference has changed, technology changes. And we should be unsentimental about firm creation and firm destruction."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:21.160",
+        "message": "Another example that comes to mind is there used to be an old saying right up to the end of the 90s, a Japanese saying, I think, that if you want to make a man bankrupt, give him a camera. Because film was so expensive. And now you don't find, you know, Kodak film developing"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:36.120",
+        "message": "thingies anymore. On every street in India, we would have had one little shop, which is a studio and they would"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:42.840",
+        "message": "develop your film and today they're all gone. Except maybe for passport photos, small whatever. And you know, part of this is again that Indian mentality like earlier in this conversation when you were talking about how if Air India was to shut down, other airlines would be able to buy pilots cheaper. And I thought a lot of my listeners would react to that by saying, oh, what about the poor pilots? They're going to get paid less. And similarly, those same voices spring up now and say, what about the poor jet employees? There are, you know, whatever thousands of employees, what are they going to do? And that's the scene effect. And, you know, like the show is, of course, called the scene in the unseen. And the unseen effect is that, look, there is value created in the economy and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:19.560",
+        "message": "all of these people eventually get absorbed. And see, you can't have it only one way. When markets work and there was a shortage of pilots, the price of pilots went up. And at that point, pilots didn't complain."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:30.920",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:31.480",
+        "message": "Okay. But it's the same process that over the years, there'll be more and more young people who will earn their wings and there will be supply of pilots and that will impact on the price. So once we get used to the idea that supply and demand determines the price, then we just respect that vast impersonal machine of the market and it will have its own ups and downs for each of us."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:53.560",
+        "message": "Now, I also want to talk a bit about the price system and how that affects zombie firms and how that's, you know, how a system where you don't let zombie firms die prolongs downturns."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:04.120",
+        "message": "But we'll take a quick commercial break. So, they talk about the challenges faced by the 470 million plus children in India. On What A Player, Akash Mehta and Siddharth Dedeja are joined by sportswriter Vivek Krishnan. They talk about why Bangalore should be in the top four spots and a lot more. On Dating is Garbage, three IBM dudes discuss their dating lives with Janam and share their stories around love, friendship and sex. On Simplified, we have the founder of Kranti Art Theory, Romario Rodriguez. He joins Chuck in Narendra as they talk about talent management and integrating various art genres. On Football Twirl, the boys are back to discuss last game week's EPL results and the heated battle for top four placement. On Gol Gappa, model turned actress Aditi Govindrikar joins Tripti where she talks about motherhood, practicing psychology and her career as a model. And with that, let's move on with your shows."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:50.280",
+        "message": "Welcome back to the scene in the unseen. I'm chatting with the economist Ajay Shah about zombie firms. You should really make a horror film on this. If Bollywood kind of took this up, that would be great. You know, part of your analysis of zombie firms and all the pieces that you've written on it involves the state, the government not understanding how prices work fundamentally. Tell me a little bit about that. I mean, I've had episodes in the past on how damaging price controls and all of that. Just take me through."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:19.320",
+        "message": "So I feel that a child can understand the price system. And yet, so many people seem to not particularly think about the price system. It's it's just it's a great recipe for understanding the world. It's like an invisible formula that is running the world. And it's a secret that only a few people have. So let me let me talk a bit about how some of these things work. And at once, these are trivial observations. And yet they're interesting and powerful observations. So let's start at planes once again. So we had some of these Boeing 737 MAX planes being grounded because of safety concerns. And at about the same time, we had a disruption in jet airways. So the supply of planes, the supply of seats on planes was adversely affected."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:08.440",
+        "message": "This is what economists would call a supply shock."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:10.280",
+        "message": "It was a supply shock. Now, the fundamental nature of the price system is that the price moves to equate supply and demand. OK, so there is a market and that market is not clearing that there are 100 people trying to buy seats, but there are only 80 seats. There's a mismatch that doesn't work. How the price system deals with it is that prices go up until 20 guys walk away. OK, so the price system rations out the limited seats that are available. So let's visualize that there's a Bombay Delhi ticket, which was ordinarily some 7000 rupees. And now there's a shortage of supply. So the price system. So let's just fix numbers. There are 100 people trying to buy seats and there are only 80 available. So think of the price system as running an auction. It says, no, instead of 7000, I'm going to go to 7500. Some people in the room drop out and they say, OK, at 7500, I'm not going to fly. Does that get you to 20 people dropping out? If not, let's go to 8000 rupees for the ticket and you keep raising the price until there are only 80 guys left. OK, that's the imaginary anthropomorphized price system. That's what the price system does. Now you go one deeper into that and you say, how much do you think I'd have to raise plane tickets to get maybe 5% or 10% of the flyers to drop out? And you know what? Not a lot. Because for many people in India, flying is a choice. You may choose to not fly. You may choose to use a train. You may choose to use a Volvo bus. So many people are on that borderline. Flying is not some critical, essential thing. It's still something that we have a discretionary expenditure on flying. So my prediction would be that a relatively modest movement in the price would work to clear supply and demand. And so it's not a big disruption. There's no great change in prices that occurs. It's nice. There's a 5-10% move in the prices. That's great for the profitability of Indigo and Go Air and SpiceJet and all that. This is the time they deserve to make money. Once again, there are people who will call this profiteering. And I say, look, this is the joy that these firms get in return for the long slog of fighting it out while Air India was underpricing tickets and Jet Airways was there. And in those years, the other airlines did badly. And this is the moment when you make money, because when the other guys exit is your great opportunity to make money. We should not grudge them. This time, we should not be getting angry at the fact that they are gouging customers or they are profiteering. This is markets. This is the normal movement of the price system. If I may take an example from an unrelated industry, let's consider wheat. Now, wheat is a very cheap grain and wheat is a staple. And most of us don't even know the price of wheat that goes into the chapati that we eat, which means that if there was a supply shock, so imagine there was a drought, there was a failure of the Rabi crop in Punjab and Haryana. Now, there is a problem. There is not enough wheat. So if the price of wheat goes up by 5% or 10%, it would not work to clear supply and demand. You would need a large movement in the price of wheat to make people change their behavior, to shift away from wheat to eating rice, to eating bajra, whatever. There would be adjustments. But for many people, you would need a large movement in the price of wheat to elicit a change in behavior. And the term economists"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:38.280",
+        "message": "use for this is demand elasticity. So the demand elasticity of the wheat consumer is different to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:42.680",
+        "message": "the airline flyer. Exactly. So I was particularly comfortable at the prospect of a supply shock in airlines, because our elementary intuition into the kind of behavior of flyers is that people are highly sensitive to price. People are always conscious of what they're spending when they buy a plane ticket. So you would expect a given supply disruption to get tidied over with a relatively modest movement in the price. Whereas in something like wheat, you would get large movements in the price. Once again, we shouldn't get angry about these movements. This is the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:13.080",
+        "message": "price system. This is what prices do. And what a lot of people demand is that, you know, if the price of something, especially something essential goes too high, they say no, no, the government should control it. But, you know, I've had in I've had different episodes in price controls, including an Uber. So I'll just kind of illustrate that with an example of two things that, you know, letting the price adjust does one is let's say that there are 100 potential Uber customers at a given point in time who want a taxi, but there are only 50 taxis available. Now, if you fix the price, what happens is that is first come first serve, the first 50 people get it, the other 50 are simply stranded. Now, you could be someone who has an urgent need, maybe you need to take your aging father to the hospital, maybe you need to catch a flight, you would be willing to pay much more, but you're stranded. And some of the people who happen to get the taxis, the lucky 50 could just be going out for an errand or you know, they could easily walk or take a bus or do something else is trivial, or they could just sit at home and watch Netflix. And they get it instead. Whereas if you allowed the price to adjust, two important things would happen. One is that it would be allocated depending on how desperately someone wanted it because a guy who has to go to the airport, the guy who has to take his dad to the hospital, they'd be willing to pay more. And someone whose need might be trivial, who can just you know, it's a five minute drive, he can take an auto or walk would do that. So the price system effectively sort of sorts those guys out. The second and the more important thing that it does, which even applies to airlines or anything is that it sends information, it sends information to idle Uber drivers that listen, there is a profit to be made. And for their self interest to get into the market to fulfill the needs of the guys who would otherwise be stranded. And this information on both ends to both the buyer and the seller so that they can adjust is something that I think is unintuitive and unseen. And people don't often get it that if you fix the price, you will have scarcity, it will be first come first serve. And a price system is beautiful, not just in the short term way of letting people get what they need based on their how urgent the requirement is, but also in a long term way of fixing that supply demand shortfall. So I want to talk about two things."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:21.240",
+        "message": "If I may do this in reverse order, I'll come to what you just said in a moment. So I'm very happy you brought up Uber, because there is something fundamental and profound about the gig economy. And it fits beautifully in our intuition about how markets work. There was a paper done by people at the Center for Civil Society, which did some things that were quite interesting and an eye opener to me personally. This was about Airbnb. And they found that one of the features of Airbnb accommodations that users valued the most was a kitchenette. And it turns out that this is something quite difficult to do within the normal government regulatory system. So the gig economy is particularly good at discovering products and features in its own way that traditional regulatory structures might fumble at. And I think that's an important lesson to all of us that let that self-organizing system work and discover solutions as opposed to using regulation. That said, there is a role for regulation. And let me talk about your example. So first, I agree with everything you said, but now let me bring the cautionary note about the problem and how we worry about it. The technical phrase we use in the field of the economics of public policy is market failure. A market failure is a situation in which the self-organizing system, the individual decentralized decisions by all of us does not work so well, where something goes wrong. And there are four categories of market failures. And the first of them and the most important of them in one way is a monopoly. So when there's market power, when somebody's a monopolist, things don't work so well. The monopolist will gouge the consumer. The monopolist will artificially depress production and will extract consumer surplus. So nobody likes a monopoly. And in a way, a lot of what we do in public policy is designed to combat these monopolies. Now, when you go back to the beginning of the taxi industry, which is now like 70, 80 years old all over the world, the situation that was on the mind of everybody was like this, that there is one taxi cab on a street and you are one consumer on the street and you go up to the taxi cab and say, will you go there? And the guy realizes that you're desperate and he's a monopoly in that brief moment and he can basically charge anything. So the regulation of taxi fares came out of that problem. That in that situation, the bargaining power is entirely asymmetric. And when there is only one taxi cab on the pavement, that person gets the ability to charge almost anything."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:04.680",
+        "message": "And also if I may interrupt, the problem in India is that the supply of those taxi cabs is also controlled by the government because there are only limited licenses they give out. So that, you know, furthers the scarcity."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:13.960",
+        "message": "Yeah. Same as the New York taxi cabs, which are artificially restricted. Yeah. But I just want to focus on that point that there is market failure in this problem. And that is why there is regulation of taxi cabs. Now, in the limit, the Uber surge pricing can potentially collapse into that same problem. That in the central systems, Uber sees that many customers are walking on a street with its app open. So Uber has a unique ability to see where its users are. And it knows that on that street, there are only three taxi cabs. So you've got a little monopoly. And now why not charge the moon for that? So everything you said is correct, that the price will ration out the users and will allocate the scarce goods to the people who want it the most. The high price will attract more consumers. But we do have a regulatory problem, which is that it is perfectly feasible for Uber to turn into just a classic 19th century fear of a monopolist. And I don't have an answer for how you would solve this problem. But I just want to say that good economists do worry about Uber surge pricing as well. So I have like three"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:24.520",
+        "message": "responses to this. One is, of course, like, you know, when we see a market failure, we often think of the government has to step in. But I think as you know, public choice theory would tell you that government failure is far more endemic and in a sense, I would argue even inevitable because of the way the incentives are aligned. But leaving that broader point aside, you know, when you point out about, you know, your traditional Kali Pili taxi, how it's a monopoly for a moment when you want to go somewhere and he can charge whatever he wants. I don't know if I'd call it a market failure, because the reason that scarcity exists and that monopoly exists for the moment is because the state is interfering in the, you know, market entry."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:00.840",
+        "message": "Even if entry were open, there will always be these dumb luck situations, where, so to use a London analogy, it starts raining. Then suddenly, there is a surge of users of taxis, and there will be a street where there will be two, three taxis. And so there's always a"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:17.720",
+        "message": "little lag, the market takes time to adjust, would you call that a market failure per se,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:21.240",
+        "message": "it would be a market failure if it persists. So if there is a monopoly, where within hundreds of meters of walking distance, I really am down to only one or two producers, and they can essentially"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:33.000",
+        "message": "charge me very high prices, I would call that market power. And my third point is that, you know, the big issue with a monopoly, of course, is that they can charge high prices and expect consumers and so on. And competition keeps prices low and all of that. But a lot of the modern monopolies, monopolies, quote, unquote, that people tend to worry about, like an Amazon, like a Facebook, like even an Uber, are actually not doing that. You know, even if they control the market, you see that the prices are very low, and the consumers are benefiting massively,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:03.720",
+        "message": "like from Amazon, for example. Well, you have to be cautious about that. There is a very plausible scenario that a firm like Amazon or a firm like Uber becomes a monopoly at first with very low prices, drives off the competitors. Then after that, you've got a network effect that the only game in town is Amazon or the only game in town is Uber, and then they would raise prices. So we should look this gift cards in the mouth."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:28.760",
+        "message": "But if that happens, surely then other entrants will come in."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:31.880",
+        "message": "By that time, some of these games will be locked up because their network effects. So the key network effect in these platform economies, like Uber, is that if I'm a driver, and I switch on the Uber app, I've got an order flow coming into that. And if I'm a customer, and I open the Uber app, I will find more taxis. Once you've created this network effect, then both sides tend to come to that platform because they don't have a choice. And that platform can charge supernormal pricing. So there are genuine concerns about these markets. I am not quick to say we know solutions. But I think we know enough to be concerned."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:03.640",
+        "message": "Fair enough. I mean, as of now, I see Uber and Ola and even your, you know, Kalipili is playing outside and there's always video conferencing. So why do you even need to go anywhere? But I'm kidding. Right. So, so to kind of get back to one of the sort of interesting points you made is that if not for state interference, the different ways in which the state keeps zombie firms alive or zombie banks keep zombie firms alive, not just in the public sector, but the private sector. And in fact, I should ask you to elaborate on that, which I will. But one of the effects of that is that downturns are longer that if creative destruction is allowed, downturns would be much shorter and you give specific examples of that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:41.640",
+        "message": "Can you take me through that? So that the great economist Karl Marx taught us that it is in the nature of the market economy that there are booms and busts. Okay, so there are periods of exuberance and a great deal of investment. And then the competition hots up and margins go down and some firms get into trouble. We in India have lived this twice in the period after the early nineties. So let me tell the grand Indian story. The grand Indian story is that in from 93, 94, 95, 96, we had investment boom and a great deal of entry took place. So new firms were born, new capacities were built. By 97, 98, 99, the world started becoming difficult and a lot of firms got into trouble. Okay. And then we played that same story again, one more time. So in 2003, four, five, six, seven, we had the most gigantic investment boom in India's history. And then from 2011 onwards, we've been doing quite badly. Okay. And what's going on there is that there is a surge of entry and then competition hots up. And then what? If you do not think about exit of firms, if you do not think of firms closing down, firms getting sold, firms getting bought, then that misery just drags on for more years. Okay. So what we see in our business cycle research in India, so Radhika Pandey and Ela Patnaik and I have papers on measuring the Indian business cycle. And we are struck by how these things take more time in India. And we've often wondered what is going wrong. And when we compare with countries like the United States, it seems to us that one difference is that when things go wrong in the United States, they get rapidly cleaned up by the bankruptcy court. So people move fast. This isn't working, you get into trouble, you're down on your payments. I would also underline one more interesting feature here. All these things go faster when there is debt. Okay. So imagine I'm an all equity firm. I'm 100% equity. Now I can sustain my own bad behavior for some time. But when I have debt, I've got a Damocles sword on my head, I have to repay the debt. And when times become tough, when I'm unable to produce the cash, then I will fail on one of my debt repayments. And then you just want to go quickly, move it through the bankruptcy court, just go as quickly as you can to the bankruptcy court. Either the firm will be closed down, or it'll be sold to somebody else, very often an existing firm. So market power will develop that some of the survivors will achieve a little more clout in the market, be able to get the price up a little. And then profit rates will come back, investment will come back. So this whole cycle of life is playing out slowly in India, because we are prolonging the business of firm exit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:27.320",
+        "message": "And how does the state contribute to that, for example, is, you know, the NPS problem linked to that in the sense that bank or banks often keep these zombie firms alive by making loans and then servicing those loans and keeping them alive and throwing good money after bad,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:42.440",
+        "message": "and that prolongs the process. So this is very much a problem with our banking regulation. What should happen in banking regulation is, you see a borrower having distress, you must rapidly mark down the value of that asset. Okay, so imagine you gave me a loan of 100, you're supposed to be vigilant, you're the bank, you're supposed to be vigilant, you're supposed to watch me and understand my early signs of distress. Very often, you are my payments bank as well. So you're seeing my cash, you're seeing my revenues, you very much know when my life is not going so well. And of course, there is beautiful information in the accounting data, we can construct models of firm failure using the accounting data. So put it together, it's not difficult for a bank to know when the borrower is in trouble. Now the bank is supposed to make an estimate of what is the prospective market value of that loan, that if you try to take your loan to me and sell it to somebody else, what would that somebody else be willing to pay? What banking regulation has to do is to force banks to recognize these losses. So if the fair value of the loan on the market is going to go down from 100 to 60, then honestly, if I tried to sell this loan, the market would pay me 60, then the bank should show that loss of 40 right now, because you've really lost that money. And you should show it right now. Now, as you will expect, no bank employee wants to do that. So that's what banking regulation is all about. Banking regulation is about forcing bank employees to face up to the difficulties in their book and recognize these losses and take the losses on the chin. Now, we haven't particularly done that. So RBI has long had a history of being kind to banks, of being kind to the borrowers of banks. And so these things just slither on for years and years. So in our calculations, we believe that if the Indian debt crisis and the banking crisis had been dealt with in 2011, 2012, 2013, the cost of equity capital that was required inside Indian banking would have been about 2-3 trillion rupees. Every year of delay has driven up that cost. Today, it would cost 8 or 10 trillion rupees to fix all the banks. Because when you don't solve these things, they just become more and more expensive because you have to put more money after the old money. So these are the sorts of things where a society has to be organized around a philosophy of the market economy. We need all of us to come to grips with these concepts that when there is a loan, there will be a fairly tough bankruptcy code in it. And the bank will recognize these losses fairly quickly and so on. When a bank doesn't work, we will close down a bank. These are all the concepts of a market economy, the discipline, the rigor of a market economy. And I think we're just at the early stages of learning how these institutional things work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:34.120",
+        "message": "And like you said, the incentive of a politician who's always fixed on the short term and always fixed on the next election will always be to kick the can down the road. You know, bureaucrats will have the same inclination. And even bankers, for example, will not want to take the, you know, there is policy paralysis when they're worried that okay, if I give a haircut on this loan, if I take a haircut on this loan, I could be accused of corruption. And all of those factors"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:56.360",
+        "message": "and those different incentives. We need to solve some of these things. So for example, a banker being held responsible when there is a markdown on the loan, we have to build the institutions, the machinery to protect people to find ways of determining what is the size of the damage and so on. But this is the puzzle that we face that how do we create a society where there is creative destruction. All the things we talked about fit under that puzzle that we need to get entrepreneurs and employees used to the idea that firms come and firms go. We need to get banks used to the idea that they will mark down the losses that have occurred and that sometimes banks will go bust. We need a banking regulation capacity that will hawkishly monitor banks and make sure that they do these things correctly. And in return is this very big prize. And that very big prize is that we will finish off with downturns quickly. And it seems to me like a very big prize that it would be a truly great thing for a country that you go through a great investment boom, then there is really tough competition within a short time, maybe one year, two years, you work it out, and then you restart the next big boom. Whereas in India, these things slide"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:10.840",
+        "message": "down for many, many years. So, you know, before we end the episode, I'd also then like you to, I mean, elaborate on GST. You were obviously, as you mentioned, in the early days involved with designing the GST and what eventually got implemented by the Modi government is much more convoluted than people like you would have liked. And your case was that a good GST, a simple GST with one low tax with a good administrative structure would have helped kill off zombie"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:38.760",
+        "message": "firms faster. Explain that process to me. What is happening in India is that we have too many different rates. And it's become complicated, you could be an inefficient firm and take cover in various clauses of the tax code, or you could take cover in tax evasion. So the sophisticated idea is that the low productivity firms of India are hiding in violating regulations, in emitting pollution when that should not be done, and in cheating on taxes. So the deep insight is that if we are able to build a simple clean GST, again, my idea is very clear about 8-10% single rate on single rate on everything, just a universal base, 8%, 10% on everything, a simple tax administration, then a lot of the hassle is taken out. And the room for fudging around is taken out, the room for discretion by the tax authorities taken out. And what that will do is it will uncover the inefficient firms, the zombie firms, the low productivity firms that have been hiding in the woodwork based on their ability to cheat on taxes. So big phenomenon we see in India is that we see large, sophisticated, high technology firms often tend to have a high compliance culture. They meet every pollution regulation, they meet every labour law, they meet every tax requirement. And that's great. We want those kinds of firms to thrive. But those firms don't really make the kind of profit margins they ought to, because they're competing with a low productivity firm that manages to cheat on regulation, to cheat on pollution, to cheat on labour law, to cheat on taxation. So that's the big idea about the connection between GST and zombie firms."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:31.640",
+        "message": "And what you also pointed out was that before the GST came into play, and to some extent, maybe still now, is that you had taxation of transactions, which in public finance called bad taxes. And then what that forces companies to do is it creates an incentive towards vertical integration. The example you gave was that let's say if you are, you know, taxing, you know, when the engine of a car is made, and then when the car is put together, and if you're taxing them separately, then it's in a company's interest to bring it all in house in this vertical integration. Whereas economies advance, the more there is specialization. And, you know, not having not taxing each transaction separately, and a GST basically treats them all as one reduces the incentive for vertical integration, you have more specialization, and everybody benefits."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:18.520",
+        "message": "So this is the old Adam Smith idea, that we each of us specialize, and we get to doing something very well. And that leads to a very nice intuition in a market economy, that a sophisticated economy is one in which we transact more. Okay, so more turnover is the hallmark of a more sophisticated economy. So we are arm's length firms, you are an engine producer, I am a car producer. But we still do a lot of business with each other separately, because I'm buying your engine. Whereas in a less sophisticated economy, we vertically integrate these things into vertically integrated monoliths. And this is a less efficient way of organizing society. So it's a very simple public finance idea that never tax transactions. A transaction tax is always a bad tax. Because that way you are interfering with the very lifeblood of an efficient society, which is many, many people doing many, many trades."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:15.000",
+        "message": "And, you know, to end the episode, a final question, you know, you've worked for a couple of decades now, you know, in public policy, you worked within government, you worked with the Ministry of Finance, do you see the thinking on this changing? Like, obviously, it's a good thing that JET was allowed to close down. But do you broadly see the thinking on this changing that we have a GST, even if it's not a perfect one? We have the IBC, even if it's not being implemented"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:37.480",
+        "message": "perfectly? Do you see the mindset changing? I'm actually a little disappointed. So I started out in India in 1993. And there was a lot of excitement about the market economy. And I felt many people were very self consciously trying to understand what it means to live in a market economy, and to adapt oneself and one's organisation into the concepts and frameworks of a market economy. I think some of that intellectual construct has gone astray. And we are losing sight of the foundations, we are losing a sense of the fundamentals. So I feel, in some ways, we are less equipped in terms of the worldview and the framework today than we were in 1993. And it's a bit of a disappointment that this hasn't quite gone as I had hoped it would go."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:29.320",
+        "message": "This is a policy universe you're talking about?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:31.160",
+        "message": "This is the mind of all of us about how we think about markets, how we think about government, how we think about the role of state."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:38.200",
+        "message": "And it's interesting because 60% of India is born after liberalisation, right? So you would not expect these kind of reflexive worship of the state to sort of be there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:47.960",
+        "message": "I think a reflexive socialism is alive and well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:50.280",
+        "message": "On that extremely hopeful note, Ajay, thank you so much for coming on the show. My pleasure. Advertising is dead. Yep, you heard me right. Advertising is dead."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:04:50.200",
+        "message": "We're all in the content business now. Let's not call it news, TV, radio, etc, etc. It's all content and we're in the middle of this weirdly exciting phase where all the borders and lines that have been drawn over decades has been swept away by this lovely thing called the internet. We're a show where we don't dwell on just the stuff that is now, but rather the wider stuff about advertising, media, content and the whole goddamn circus surrounding it. Tune in every Tuesday for a weekly unboxing of the mystery box we used to call advertising. I'm Varun Duggirala, co-founder and content chief at The Gritch, and this is my new podcast. Advertising is dead."
+    }
+]

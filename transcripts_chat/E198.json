@@ -1,0 +1,1012 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "What does it mean to be a citizen? More specifically, what does it mean to be a citizen in a city? Here are some things that we know about India. 1. India is more urban than we realize, and one day soon, most of India will live in its cities. 2. This is a good thing. It's driven by the voluntary actions of people. 3. All our governance is centralized and nowhere near as local as it should be. 4. Even though our democracy has endured, there is a mismatch between power and accountability at the local level. 5. Citizens in India are largely disempowered or at least feel disempowered, and the state is an imposing presence. All of these raise the question, if our system of governance is broken because of a flaw in our democracy, what can we do to fix it? Can citizens assert themselves and reclaim their rights?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:57.800",
+        "message": "Welcome to The Seen and the Unseen, our weekly podcast on economics, politics, and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:06.600",
+        "message": "Please welcome your host, Amit Verma. Welcome to The Seen and the Unseen. A few months ago in episode 160, I had a stimulating conversation about participatory democracy with the polymath thinker Ashwin Mahesh. That was a hugely popular episode, and though it lasted around two and a half hours, it fell too short. So I'm delighted to have Ashwin back on The Seen and the Unseen to chat about his thoughts on urban governance based on a paper and a presentation by him that will be linked from the show notes. Ashwin is in some ways a perfect guest for the show because I like to digress and take the conversation into unexpected and different directions, and Ashwin's knowledge is both wide and deep. So besides urban governance, we also chatted about the lockdown, how we should think about education in an out-of-the-box way, and the responsibility, helplessness, and incentives of citizens. As tends to happen, the conversation got more and more fun as we went along, and we argued a lot in the last part of the show. I'm sure there'll be much food for thought for everyone listening. Before we get to the conversation though, let's take a quick commercial break. If you enjoy listening to The Seen and the Unseen, you can play a part in keeping the show alive. The Seen and the Unseen has been a labour of love for me. I've enjoyed putting together many stimulating conversations, expanding my brain and my universe, and hopefully yours as well. But while the work has been its own reward, I don't actually make much money off the show. Although The Seen and the Unseen has great numbers, advertisers haven't really woken up to the insane engagement level of podcasts, and I do many, many hours of deep research for each episode, besides all the logistics of producing the show myself \u2013 scheduling guests, booking studios, paying technicians, the travel, and so on. So well, I'm trying a new way of keeping this thing going, and that involves you. My proposition for you is this \u2013 for every episode of The Seen and the Unseen that you enjoy, buy me a cup of coffee, or even a lavish lunch, whatever you feel it's worth. You can do this by heading over to seenunseen.in slash support and contributing an amount of your choice. This is not a subscription. The Seen and the Unseen will continue to be free on all podcast apps and at seenunseen.in. This is just a gesture of appreciation. Help keep this thing going. Seenunseen.in slash support. Ashwin, welcome to The Seen and the Unseen yet again."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:38.200",
+        "message": "Well, my pleasure to be back, Amit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:42.000",
+        "message": "So you know, the episode that we recorded a few months ago, episode 160 on participatory democracy, which will be linked from the show notes, was actually incredibly popular. And you know, people still keep writing in about that. And I did ask you a lot of questions about your personal journey in that episode, which I don't want to make you go through again, because we've already done that and listeners can listen to that. But what I didn't explore in that episode was, you know, while we spoke about your career and your trajectory and how you, you know, got through the various interests and passions that brought you to where you are, we didn't speak one so much about your personal life. And also, I'm interested in knowing, you know, how have you been through this lockdown? What's life been like? Tell me a little bit about family, about home, about what you do in your downtime?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:29.600",
+        "message": "Well, I mean, I guess I'm not that different from millions of other people, both in terms of regular home life and also in terms of how that has been impacted by the pandemic. I have two school going children, and therefore, there's a new rhythm that needs to be established around that. It's fortunate that many of my kids' friends from school live in the community where I live. So, in some sense, there is a semblance of continuity from the school environment. And it's also a small school, it doesn't have very many students. So in that sense, having a subset of kids in your own community, it's a larger subset than it would be for any other school in some way, in percentage terms. And so, I think they're managing okay, but they'd like to be able to go to school once in a while. And the school even, I think, might allow occasional visits by parents just sort of"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:05:41.360",
+        "message": "for kids and parents to remember what the school is like and stuff like that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:45.400",
+        "message": "But you know, on the whole, all of us have to be responsible through this pandemic. And there's not a whole lot anyone seems to be able to do other than wait. It's not always clear what one is waiting for. But in a way, there's a lot of waiting, certainly. Mostly, a combination of things that I do can still be done from home, whether it's for Mapunity, or for India Together, or for any of the other things I'm involved in. Obviously, the work at Lithium required a lot of hands-on work, but I've finally reached the stage where that's probably best done by another set of professional people. I'm thinking more and more about coming back to the public problem-solving things that interest me personally."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:06:32.800",
+        "message": "And in that sense, the pandemic has given me an opportunity to think about how to reconnect"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:36.880",
+        "message": "with some of the things that I haven't done as much of in the last couple of years. A lot of the work in the last couple of years has been around the electric vehicles stuff at Lithium. But I really have been wanting to get back to Mapunity in particular, and also my interest in public interest media. And I think both of those decisions were in some ways accelerated by the time available to think about these sorts of things in a pandemic. And the municipal election is coming up here in Bangalore in, I don't know, in April. That's part of the things we'll talk about, not really clear how soon it will come up. But that's another opportunity to sort of be part of and influence the thinking about governance in the city, public participation, things that have always interested me in the last 10, 15 years. So it's a nice pivotal moment in some ways. I think sort of at some level, the rest of it is, you know, one day at a time, trying to see where all of this is going to lead and just responding to whatever happens in some sense. It's not really clear if tomorrow is going to bring more bad news or some semblance of good news. Vaccines seem to come and go in the news, a little bit like oscillations on a sine curve. So in a way, there's a lot of wait and watch. Some of my family members got COVID and that was not something I was sort of mentally prepared for. And it takes you a while to sort of adjust to concerns like that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:08:21.360",
+        "message": "It's one of those things where you sort of know that things like fatality rates are very"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:25.720",
+        "message": "low, but once you get it or someone close to you gets it, you tend to forget the other 98 or 99% and imagine yourself in the 1 or 2%. And those are anxious things. I've also, just because of the things I get involved in, I've had many, many experiences with people whose need for treatment was acute, immediate, and yet they were not able to access it for a variety of reasons. You know, young women getting thrown out of hospitals at midnight and multiple members of families dying while waiting for care. These are terrible things to go through, even for someone who's not immediately impacted. And I imagine that these are really bad for the families that are experienced with them. What it tells us is that there is a tremendous price that we are paying for two things. Weak governance, not just in India, but around the world, and a really sharp disconnect between the things that ought to matter and the things that seem to matter in political life. Around the world, frankly, you would think this is the kind of problem that ought not to exist. It's a bit like climate change, right? You think that a bunch of sensible people with sufficient decency and foresight ought to be able to anticipate and solve a problem like that. But this whole sensible people with sufficient decency and foresight, it seems like a quest for another planet or something like that. In a way, it's becoming harshly clear to a lot of people that somewhere along the narrative of even democracy that we have built for ourselves, there are very large gaps, and those gaps become apparent at times like this. And there is an important response that is needed to say, how are we going to bridge those gaps? How do we make sure that people in positions of authority are also responsible and actually proactively do the things that we'd like them to do? I think this pandemic really should provoke a lot more of us to asking those questions. Some of us have been fortunate not to have suffered terrible consequences as a result of it, but it's now reached a stage where each of us knows at least several other people who have suffered greatly. And really, that has been the difficult part of the pandemic, just knowing what else is going on and also a sense of helplessness about the whole thing. I can imagine that if people like me who are reasonably well-connected with governance systems feel this way, that for a lot of other people, just shutting it out of their minds entirely seems the only option. And maybe that's what explains so much of the non-compliance with good practices that people don't even want to think about at this point, because it's scary, it's not clear what they should do. It's bizarre. The number of circumstances in which you have to do the right thing is so large that at some point, people will just throw up their hands and say, hell, if it happens, it happens. It is scary. I'm hoping it's not going to be more than, initially I thought it was going to be a three, six, nine month thing, but now it seems every day like it's going to be another three, six or nine months rather than just three, six or nine months. I think we should prepare for coming out of this in a reasonable way only by the summer of next year. The winter could be a difficult time globally. What else can you do? And there are certain parts of the economy, certain types of livelihoods that have been massively impacted. And in India in particular, because we don't have the public systems to support people through these kinds of downturns, a lot of people are vulnerable as a result. And I imagine that at least 50 million people have gone into poverty as a result of the pandemic who previously would not have been thought of as poor people. And it has set back our development journey by at least six to 10 years in pure numerical terms. A lot of that is true around the world. Like I said, at this point, you're reduced to living through it and finding your way back each day at a time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:24.880",
+        "message": "Yeah. The economist, Abhisachi Kaur, I think he posted this graph on Twitter where he showed, you know, given certain assumptions about how much we will grow, how much, you know, COVID has set us back. And I think his calculation was that it will take till 2033 until our economy goes to where it would otherwise have been in a time of normal growth at five and a half. And he was calculating at COVID plus seven, something like that. I was also kind of struck by what you said about people shutting it out because they simply can't understand what's going on. So you shut it out and you're in denial and that leads you to behave in odd ways. Because it strikes me that that is what we do in a sense in life itself. That most people, you know, the very truth of our mortality, for example, or the complexity of the universe, which we can't possibly fathom is so scary that, you know, apart from doing things like inventing religions to build narratives to come to terms with it, we also sort of shut it out. And it seems to me that this is kind of, in a sense, a more localized version of that, that certain things are not in your control. So what do you do? You go in denial about it. I'm going to sort of take a little Chinese box approach to the rest of the episode in the sense that the core of the episode and what I would really like to talk about, obviously, is, you know, urban governance and your ideas on how cities and urban governance should be reformed and all of that. Before I get to that, I also want to talk a bit about map unity and lithium and, you know, briefly discuss that. But before even that, I kind of want to come back to the earlier question of what you do in your downtime, because just, you know, something that I've been thinking about recently also is that these seemingly inconsequential choices that we often make at a personal level of how will I spend my time? Will I read a book? Will I, you know, play a game on my mobile? Will I check Twitter obsessively to see who's trolling me now? Will I watch something on Netflix or will I listen to a podcast and go running? All of these choices are actually far more consequential than we imagine, because over a period of time, they sort of shape our thinking and they shape who we are. And, you know, these seemingly trivial choices make all the difference. I'm curious about one, do you think consciously about, you know, your productivity, for example, and how you spend your day and how you divide your time? And also, what do you do in your downtime to relax? And what are your guilty pleasures? Do you spend three hours every day surfing music videos on YouTube, as some of us do? What's, you know, tell me, give me a sense of what that is like."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:53.640",
+        "message": "Well, you remember from our earlier conversation, my 15 minutes to 20 minutes every day of trying to do a few things that keep a certain rhythm to my life. I still try to do that. And I don't think that gets affected very much by a pandemic, even. It's kind of odd to say that even a pandemic doesn't affect something. But since it's only 15-20 minutes a day, I'm able to do that, definitely. One of the things that has come down is the ability to meet strangers, and I'm trying to be more deliberate about that, especially online. But broadly, what I find is that in some way, not needing to travel as much has actually opened up time to do things that otherwise go in simply commuting or travel. And some things have happened, I think, because I have the additional time. I've been able to think more carefully about education, for example, and it's an interesting time to think about education because the whole education framework has now collapsed as a result of the pandemic. And all our assumptions about the delivery and the governance of education, especially public education, have entirely gone for a toss. And if we are smart about this, we will take the opportunity to reimagine education. But even without that, there's an increasing set of choices that people are starting to make for their own learning, which I think will radically alter the landscape of learning. And that's something that I've been able to spend more time thinking about because of the pandemic. I shut down the office because of the pandemic. It didn't seem like it was worth paying rent to keep up an establishment. I instead rented the neighboring flat, which is actually a much more useful way to spend the same amount of money because it gives you close by additional space to work out of and also have as a personal space. So people at home are not complaining that you're always on the phone or always on the computer and there are enough spaces to do that quietly. So I'm sort of able to have even this conversation with you for more than a couple of hours without worrying that anyone's going to get annoyed about that. So things like that, I think of certain adjustments that people make, educate each of us about"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:18:31.640",
+        "message": "what the alternatives could be, the things that we've previously taken for granted."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:36.600",
+        "message": "You have to go to an office, you have to work certain times of the day, work in certain ways, you have to have face-to-face meetings. All of these things are under tremendous reassessment and scrutiny now. And it seems like at least 60% of what we did previously was probably not as useful as we thought it was. And so you could imagine it being different. I've always been in favor of a six and a half to seven hour workday. And I generally don't think that people can be productive beyond that anyway. Even school days, I think shouldn't be more than four and a half to five hours. I can't imagine that you can send kids to six and seven hours of school and think that you're adding to their learning beyond the first three or four hours. So I think this reconstruction of time for various purposes is really the big thing that I've been toying with during the pandemic. Of late, I've started going out a little bit more and meeting more people and feeling comfortable about that. I also know that in doing that, all of us are taking risks, both for ourselves and unfortunately for others too. There's no way to come out of this without that risk. And some of it is, you can tell yourself it's a calculated risk, but if you don't know the formula, it's difficult to tell what a calculation will lead you to. I feel like we're taking calculated risks without knowing the equation itself, but it is what it is. I've been reading huge stacks of books that have piled up over the years where I would \u2013 and normally when I buy a book, I write down the date on which I buy the book and try to see when I actually get around to reading it. And if those gaps are more than 18 months or 24 months, I slow down the book buying telling myself that I'd better read the ones that I've already bought. I think now I've brought it down to six months or seven months of gap, which presumably that's"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:20:41.880",
+        "message": "because I've been able to read a lot more."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:43.520",
+        "message": "And I have some neighbors who seem to read five times as fast as I do, probably as fast as you do. And so that motivates me to talk to them about what they're reading and read some of those things as well. I've been watching a lot of the TED Talks. For no particular reason, I just kind of randomly pick one and watch that. It's amazing what a variety of topics get covered in TED. Many, many years ago, when I first got introduced to CRISP by one of my friends, it seemed like it was really a platform for ideas, and each of those ideas was a very powerful thing. I think today it's become even more than that. It's not just a platform for ideas. It's even a platform for stances that people take towards many things. And therefore, it sort of lets you think powerfully about each of those as well. You may agree, you may not agree, but I think it's useful to have a forum like that, where you can sort of see things that are stated provocatively and succinctly and ask yourself, what do I think about that? And also, I'm thinking more about Bill Drayton's idea of cognitive empathy, where he says... Bill Drayton started the Ashoka Fellowship, the Social Entrepreneurship Fellowship around the world, and he talks about this idea of not just caring about others, but actively doing something that allows you to feel that your empathy is cognitive as well, rather than merely an acknowledgement of other people's difficulties. And so, you can take problem after problem and ask yourself, what's the difference between mere empathy and cognitive empathy? And how I can be closer to the second one than to the first one? And God knows there are enough problems to work on. So you can say, if I care about public education, what are three things that I ought to be doing"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:22:53.000",
+        "message": "to convince myself that I actually care about this? I think a lot of people... We're seeing this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:59.480",
+        "message": "A lot of people care about a lot of things, but if you probe the extent to which they're acting on what they care about, it doesn't often reflect the extent to which they say they care about it. I don't think that makes them hypocritical. I think it just means that there is still one more step that they need to take. And I've sort of been learning about such deliberate steps and how to take them. So a lot of the day gets filled up in simply saying, how many deliberate steps can I take that I actually don't need to take to continue with my life, but which I think are important to take, interesting to take, things like that. And there are certain things you can't do. You can't go swimming. You can't go whatever, five other things that you would otherwise have done. So that frees up time for stuff like that. I thought about getting an exercise machine at home and then decided that that was probably overkill. And I somehow don't see myself doing that very often, even if I were to get that machine. But be that as it may, I think we've come to a very different imagination of time because almost a year is now going to go by in our lives as a result of the pandemic in ways that we did not anticipate at all. And a year is a very long time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:19.320",
+        "message": "I'm glad you're not getting an exercise machine, because if I could turn my laptop camera right now, I could show you an elliptical in the corner and, you know, there's jeans hanging from the handle and there's a pair of old shoes on the stepper. And that's clearly, you know, not something that's worked for me, at least. I was, you know, also struck by how you spoke about, you know, reduce work hours and we don't really need so many hours. And I just came across this quote today morning, this tweet, in fact, by Naval Ravikant, where he says, and I'll read it out quote, you don't have eight creative problem solving hours in the day. You have to spend your time wisely, a strop quote. And this kind of strikes me because more and more as I try to get more done with my time, I realized that my best hours are when I wake up and I'm fresh in the morning and I absolutely have to maximize that and all of those things. And the reason this quote was even handy for me, and I thought I'd ask you about this, because this again came to mind when you spoke about watching TED Talks, is one of the things I've been, again, thinking about recently is that, look, I might read a lot of books and I might watch a lot of videos and I might get in different amounts of knowledge and insight from elsewhere, but how do I retain it? And especially as I go deeper into middle age, my memory is just horrible and I'll just forget a lot of stuff. And I am very struck, therefore, by this concept of the second brain, which, you know, I think pioneered by someone called Tiago Forte, where the idea is that you use tools and you use apps, so all the knowledge that you're gathering, you kind of collate them in, you know, what he describes as a second brain, which is a collection of apps and tools which helps you keep all of this together. So in fact, what I've recently been doing a lot is using this incredible app called Rome Research, where anytime I watch a TED Talk, for example, which I like, I'll actually take notes from it. And it has nesting, it has bidirectional linking. So it is always there. Earlier, when I took notes on books, for example, for my research or whatever, there would be disconnected word documents and so on and so forth. But here, you know, I've got a master doc, which says, Ashwin Mahesh, and I might have links from the notes from the episode we did together. And I might have further notes from the paper you sent me, the presentation you sent me before we recorded this episode. And it's all there forever. It's linked back and forth. And it's quite kind of wonderful. Do you have, you know, since your thinking is so systemic and clear, do you also have ways of sort of making sure that you sort of retain your knowledge and insights from all the reading that you do and the watching that you do?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:48.440",
+        "message": "Well, I wish I could say yes, but you know, the answer is probably closer to no than yes. What I had tried to do off late, though, is try to change that. And I sort of forced myself into accepting certain things as useful instruments for that change. And I've decided that teaching what I know is a useful instrument for such change. Because in order to teach, I first have to write down what it is that I know. And that sort of gets me into some part of the documentation, organization of what I know, so that I can then subsequently tell it to a few more people."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:27:31.120",
+        "message": "There are schools of public policy, schools of problem solving, you know, professors interested"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:37.360",
+        "message": "in problem solving courses. So I've started collaborating with a few of them, and in 2021, in particular, I plan to teach at least in three different such environments. And hopefully, the act of doing that helps. Also, I've sort of tried to document some things on my website, just because of the diversity of things I get into, sort of just as a way of organizing my thoughts. And also, as a way of repeatedly asking, what are the ideas that inform the actions? Because you can get into a lot of actions without asking yourself what ideas inform"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:17.840",
+        "message": "your actions, or what ideas you're coming to as a result of your actions, or even what"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:23.200",
+        "message": "ideas you appear to be endorsing as a result of your actions. So I actually sort of have spent some time putting that material together on the website. And yeah, I think some discipline in documentation will arise as a result of all this in the next six months, at least. It remains to be seen whether I can sustain that. Sometimes you put the first material together. I taught a course at IAM many years ago called Reinventing Government. After three years, I decided that the course material itself needed reinventing. So in a way, you can take good first steps in any direction. But really, it is quite important to keep taking those second steps and third steps, which make the first step meaningful. Otherwise, you can sort of take lots of journeys of first steps and never get anywhere."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:18.280",
+        "message": "And you mentioned that you were also sort of thinking about education deeply because of the pandemic. And at some level, you know, we can see the surface reasons and the first order reasons for thinking about education, because obviously, instead of going to a school physically, kids are, you know, getting educated on Zoom. But I have, and again, I'd like to know your thoughts on this, because, you know, it struck me for a while that our education system is incredibly outdated in every possible way, not just the obvious ones, that we are stuck with the inertia of the past, that in a sense, you know, economists call about isomorphic mimicry, which is you take a policy from another place, and you try to implement it wherever you are. And it strikes me that there is also a version of that happening across time, where something that worked at one time or that made intuitive sense is completely unsuited to another time. And we simply we just assume that our kids will go to school for 10 years or 12 years or whatever, they will be college, these will be the subjects, these will be the social sciences in their different silos, these will be the whatever and you know, one of the consequences of that not working that being dysfunctional, in a sense, is that part of our jobs prices is that one, of course, there aren't enough jobs, but also that a lot of the people who are getting degrees, including higher education degrees, have no skills, they are in equipped for anything in the real world. And it seems to me that at some level, the pandemic might be an opportunity to really sit down and cast away the inertia of the past and think anew about, you know, everything from the bottom up. What are your sort of thoughts on this? Because you mentioned you've been thinking a lot about this. So you know?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:58.120",
+        "message": "Yeah. So the conclusion, or at least one conclusion I've come to, is that we have failed to ask and answer an important question, and that question is, who should teach? It's an interesting question, if you think about it, who should teach? We'll come to all the other things later, where they should teach, how they should teach, and all of that, but who should teach? It seems logical to say that people who know things should teach, if you don't have anything to teach. So and therefore, what the pandemic has essentially created is a situation where merely knowing things is enough to be allowed to teach. And of course, to some extent, even before the pandemic, MOOCs and Coursera and 20 other things had begun to make that possible. Essentially saying to the formal system that the way in which you decide who should teach is unacceptable to me, because what the formal systems have done is they have connected too many other questions to this question. So if Amit should teach, because he knows, let's say, podcasting. So if Amit should teach podcasting, where should he teach podcasting? If he taught it online in a loosely certified way, that's one thing, but for you to teach podcasting in a quote-unquote recognized institution is much, much harder when you think about it. You might be the king of podcasting, and you're pretty close to it, but the thing is that you wouldn't be allowed to teach this in a formal setting as it stands now, because the setting doesn't permit that anymore. The second thing is that you could turn the question on its head and say, who should you teach? So who should you teach? So let's say that Amit is 16 years old and he wants to be a cricket player, and what should you teach him? Chemistry and mathematics and history or a lot of cricket, and maybe cricket statistics and cricket broadcasting and cricket commentary and cricket sports medicine and things like that. Actually, I think we've gone from the important question to the unimportant ones really quickly, and the unimportant ones are easier for governments to get a grip on, and that's really why they've gone to the unimportant ones. Historically, in fact, if you thought about it, people who knew things taught. That's all it was, there wasn't any blessing for that beyond the fact that they knew things. But with mass education in particular, has come the expectation that there should be controls and filters on who should teach. So certification has become a big part of the teaching, being allowed to teach. But certification, I mean, I remember a friend of mine that I am telling me that in India, we probably have the world's largest gap between certification and learning. Just because someone has a certificate doesn't mean that they actually know anything. You've seen news reports about students taking exams in Bihar, where they're climbing in and out of windows to be able to copy from each other. And you're thinking, surely this isn't anything that any employer will find credible. And so I think what the pandemic has done is it has basically turned the system on its head and said, no one really took you seriously anyway, now they don't even have to take you seriously. But there are people who still say this is just for the elite, maybe 10% of the population can make choices like this, 90% of the population can't make choices that are any different from the conventional ones available from the 1500s or the 1600s. That's probably still true, but new things, when you look at even MOOCs and online education,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:35:15.400",
+        "message": "they weren't very big 10, 15 years ago. But two years ago, I read somewhere that 20% of all degrees being given online, the MOOCs"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:25.160",
+        "message": "were giving out at least that many certificates as 20% of all physical degrees. So in a way, the numbers are growing, the modularity of learning is expanding. That's an important thing, that this tight correlation between your age and the intensity of your learning. So if you were to try to learn basic English at age 11, people would find that odd and ask why haven't you learned it earlier? Or even if you were basic Hindi or basic Kannada, whatever, whatever be your medium of instruction, people would find it odd that you haven't learned it. But if you were to learn basic Russian at age 11 in India, nobody would think that there's"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:36:07.640",
+        "message": "anything wrong."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:08.640",
+        "message": "In fact, you could learn basic Russian at age 61, and nobody would think that there's anything wrong with that. I actually think there's nothing wrong with learning basic physics when you're 61 too, or learning basic mathematics when you're 61 too. But we have a system of learning that has tightly coupled age to learning. And not only that, it has sort of bracketed those ages, all 15-year-olds are in whatever, 10th grade, all 13-year-olds are in 8th grade, so on and so forth, which is a bizarre thing in some way. Education is too important and too personal to the learner to expect that any form of it can result in learning through conformity. The system demands that we abandon conformity, but conformity is the thing that the state likes, the state is comfortable with, and that is the tension that needs to be sorted now. I sort of, especially with Ken Robinson passing away this year, I spent a lot of time reading and watching him, and my sense of it is that we're still not comfortable, and this has parallels with governance in general, we're still not comfortable trusting the school administrator or the school principal in a public school system. We're still thinking that the school administrator and the school principal is just a delivery agent of something that is decided at a much higher level, and no educational institution can become good through that stance. I feel we have to, and it's the same thing that we see with decentralization of other things too, that fundamentally people in a locality are not empowered to be part of decision making in that locality. There is no force on earth that can fundamentally help produce good outcomes despite that, and we keep thinking that state governments and national governments are going to solve hyperlocal problems. They're not going to solve hyperlocal problems. They have even no visibility into those problems, they have no capacity to respond to those problems. A lot of people think that in India the national government is going to solve a lot of problems."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:38:25.080",
+        "message": "The national government doesn't even have the staff to solve 90% of the problems that"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:29.320",
+        "message": "people care about. Even the few schemes that they run are actually implemented by state governments. So in a way, I don't think that we have any capacity for problem solving in administration, in public administration, that can be separated from decentralization, and that is really the problem, that there is a tension between the growing numbers of people moving to cities and the large agglomerations that produces, and the reality that despite such agglomeration, it is decentralized participatory problem solving that is actually going to make even those agglomerations work well. And I find that that is repeatedly true in many, many disciplines. Education is available in a very different way, but it still needs to be personal and child-centered in some way. Skilling is thought of only as sort of an afterthought, that if you fail in formal education, then you go to a vocational program, which is very silly because 90% of the jobs out there are not jobs you would get through formal education anyway. If anything, vocational learning should be the norm, and only those who need more than that should be going to formal learning, but we have the opposite system in many cases. So what I've been reflecting on is how comfortable we have become with the status quo, and why systems of administration struggle to overcome the status quo. There's a very interesting experiment that was a professor at Harvard called Lant Pritchett. You might know Lant."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:40:15.160",
+        "message": "He worked for a while with the Administrative Reforms Commission, too."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:18.400",
+        "message": "There was one interesting thing that he taught some of us, saying, look, if there are 25 things that need to change simultaneously, it's very difficult to figure out which one you should touch first. And so the first exercise you do is to ask yourself, which of these 25 things has the potential to have a domino effect on other things? And you rank them in that order, and then decide which ones to touch and which ones"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:40:45.800",
+        "message": "not to touch. So really, so for a lot of public problems, this is what I've been doing now. So here are 10 things that need to change, and as we talk about urbanization, we'll go"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:53.680",
+        "message": "through 10, 15 things that need to change, but if you could only touch one of them, which one would you touch, right, because you can't really touch 15 of them until you get into government. And I've seen even friends of mine who get into government and even become chief ministers sort of have difficulty in touching 15 things at the same time. So it's not only about power and authority and decision-making rights. It's about actually being able to carry that out in a system that is weak to begin with."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:41:26.000",
+        "message": "State capacity is very low."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:27.560",
+        "message": "We have to accept that. And in a system where the state capacity is low, you can't really pull off all the things that you would like to. The state is nonetheless not comfortable with a greater balance of power between itself and market and society, and in fact, actively puts out the narrative that market and society cannot be trusted. So in such a situation, it seems like what you're going to get is enduring underdevelopment. I mean, look at this election that's going on in Bihar. You have two major formations, each of whom has delivered 15 years of lost in the nation status to that state, and they are the leading contenders for power. It's a very sad thing that somehow we have allowed ourselves to arrive at a situation which is deeply hostile to the public interest. But any step that you would take to correct it, it seems like it can only be effective if 10 other steps are also taken at the same time, and people find the enormity of all that too much, and they just throw up their hands, which perpetuates the problem further."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:42:39.720",
+        "message": "So this is the cycle that you have to overcome, and this is one of the things that I sort of, you know, I'm thinking of this Center for Public Problem Solving, right? So what is the Center for Public Problem Solving, and what is the problem that it's trying to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:52.680",
+        "message": "overcome? It's not actually the employability deficit or the governance deficit or whatever. The problem is not the sectoral thing. The problem is how we have organized problem solving itself, right? If you look at, let's go into organization with a good segue from here. If I were to ask you, how many levels of government are there in the constitution and in the laws?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:20.760",
+        "message": "What would you say? I'll think of, you know, in practical terms, what are the effects that we see, and of course we see the central level and the state level, and after the 74th amendment, which of course we'll discuss in much more detail, maybe, you know, a couple of levels below that, but"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:34.520",
+        "message": "that's as far as my understanding would go. Okay. So most people will say that central, state, and local, right? But there are actually five levels of governance that are in the constitution and in the law. There is the metropolitan planning level, especially for the larger cities, which exists in the law, but not in practice."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:43:55.960",
+        "message": "There is also participatory democracy at the local level, which again exists in the law,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:00.280",
+        "message": "but is very weak at the local level, and participatory democracy in particular, both the planning level and the participatory level, people think of these things as good to have. They're not just good to have, these are must have, and they are required by law. Nobody thinks that the state government is good to have. They accept that the state government is a must have. Nobody thinks that the central government is just good to have. They accept that it's a must have. But there are other things in the law that we simply tell ourselves, these are good to have, but it's all right if we don't have them, or somehow we seem to be able to go forward without having them. If an election was not held to a state assembly on time, that would be quite a decision."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:44:43.400",
+        "message": "But if an election is not held to a local council or a planning body, that seems like"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:49.800",
+        "message": "okay, it'll sort of drift on, it'll be sorted out by the courts. We don't have an elected council now here in Bangalore, for example, and while one set of people are not happy about that, it isn't creating the kind of uproar that the lack of a state government or the lack of a national government would. There have even been court decisions that local administration is just administration and can't even be considered government, which is, these are real challenges, that how we think about the structure of government and how we participate is more or less central to what we'll actually get from it. That we have a very interesting narrative, for example, we think that India is going to become a superpower and then everybody's going to get educated. So it's almost like we expect to arrive at a development outcome before the people of the country become developed, and that's a bizarre notion, but it's quite prevalent that a lot of people subscribe to that, or even if they don't say it explicitly, they seem to believe that's how it's going to happen. So what I think it's worth dwelling on and spending a lot of time thinking about is essentially this idea of how have we organized ourselves as a society? Why have we organized ourselves in this way? Who is it deeply unfair to? In what ways is it inefficient and just unproductive? And why are we doing this to ourselves? We're not doing this to other people, we're doing this to ourselves. There's a reason why the street outside your house looks the way it does. That reason is not some imaginary or actual war with a foreign country, or being struck by an asteroid, or any of those sorts of things. It's something we have done to ourselves, and therefore I think it's important to be deliberate in first stopping to do those things to ourselves, and then starting to do another set of things that can change. And I really think that urbanization provides a phenomenal opportunity to examine that and to actually act in that sphere of influence."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:47:05.640",
+        "message": "And so this has been the fascination for me, that frankly, I got into urbanization as an"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:11.000",
+        "message": "ignoramus. I was a climate scientist, I didn't know anything about the city except that I lived in it."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:47:17.160",
+        "message": "And I've always lived in a big city by a lot, other than nine months when I lived in a small"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:21.480",
+        "message": "town in Virginia. I've always lived in a big city, no city that I've been in had less than a few billion people. And so in a way, you're thinking that you're comfortable with all of this. But at the same time, you're constantly reminded that this isn't the way you would go about doing things in the city, or that you're not happy with many of the outcomes that you see around you. And so you can start with simply no more than that as the motivation to get involved. And for a lot of people today, I think just making things better, whatever they mean by that phrase, making things better, not in a Trumpian way of let's make America great again, but really, actually make things better. A lot of people just get into public issues, primarily with that level of motivation for what they want to do. If we can create a way in which that can be persistent, and metric for continuous improvement, I think you would get a very large number of problem solving people from that you could do lots and lots of things. I actually think that if you did that, even governments would be responsive to that. I know I've worked closely with lots of people in government, both politicians and administrators. There is a genuine understanding, but they don't have enough allies for the things that you and I expect them to do. And so if you were to walk into a government department and offer to work with them to help do their jobs better, a very large number of people would welcome that. But if you walk into those same government departments and said, why the hell aren't you doing your job better, there is a reflexive defensiveness to that. So in a way, you need to be able to do both. You need to be able to go and say, these things aren't good enough. I expect them to be better, but I will also help you make them better. I think if more of us can come to this balance, while on the one hand, expecting governments to do better, but on the other hand, accepting that we also have something to contribute to make that happen, I actually think that within 10 days, everyone in the city could see themselves becoming a stronger part of the life of their own neighborhood, at least, and start to make things better. It's very easy. It's like what I said earlier in the last conversation, how do you meet strangers? Just go out on the street. There are lots of strangers, walk up to one of them and say, hi, it sounds like a really bizarre thing to do, but it actually does get you to meet strangers if you did that. So in a way, you have to be sort of goal oriented in a lot of this stuff."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:07.160",
+        "message": "If any of my listeners want to go out on the street right now and meet strangers, kindly wear a mask at least, you know, I want to dive into the weeds of what you're speaking about in terms of urban governance and citizen participation in that. But before that, I also want to ask you some broad questions about your philosophy towards this whole question of governance in general. But before even that, we'll take a break. But before we go into the break, I also want to, you know, throw up a bunch of thoughts that I had when you were speaking about education, which is a subject that, you know, one day perhaps in a future episode, when we both thought more about it, I'd like to discuss at length. First, at an immediate level, we are recording this on October 30th, and I am actually launching an online podcasting course later today. So, you know, by the time this episode comes out, hopefully many people will have signed up. I also do, of course, run an online writing class, which has had more than 600 students since April, since I started it. And, you know, it's interesting, a few years back, that question which you raised, who should teach? Who should they teach to? And also a meta question that comes above that is who should answer these two questions? And I had a broad sort of startup idea many years ago, which aimed to sort of address this, which was to kind of build a platform where anybody could teach anything to anyone and price it at whatever. And so if a paanwala wanted to teach a five minute thing in Hindi, ki aise shuru karte hai, this is how you handle the government, this is a stock you need, fine. Let everybody try whatever they want at whatever price and then let buyers and sellers discover each other. And thank goodness I never did that because no entrepreneurial thing I do ever works out. And part of where that that impetus came from was I remember looking at the homogeneity of what we are offered in our education, like you pointed out that it makes absolutely no sense that if you are a certain age, you are studying in a certain standard, and you're stuck into that kind of rut. I remember writing a column about I think 11 or 12 years ago about how, you know, after I saw tare zameen par, how if you go out to a supermarket today, I can find 50 varieties of shampoo, 40 flavors of potato chips, you know, I'll eventually find something which suits exactly me, the shampoo that is just right for my, you know, dry keto hair or whatever it is to that specification. But in education, sadly, we are all, you know, made to consume sort of the same thing. So this is, I think, something that we take for granted, it is normal, we don't think about it. You know, your thoughts were pretty sort of stimulating to me. And I'd like, you know, maybe our listeners to also think about why we take it for granted. And, you know, obviously, we see a lot of these online platforms up, but I see this India platforms like by Jews and whatever, and they are essentially just, you know, providing the same format of education, and helping you navigate the same system, only the delivery mechanism is online instead of life. And I'm not sure that that's, you know, very far reaching or goes far enough, I think there is a space for young entrepreneurs to recognize that there is just a big hole in the market in a much broader sense, and most people realize, and maybe do something about solving these big problems. And finally, before we go into the break, you know, Lant Pritchett, who you referred to wrote, you know, one of my favorite papers of the century, called India's flailing state and something, something, something, but that's where I, you know, first heard the term, India's flailing state. And I linked that from the show notes. And no doubt his insights are also, you know, have informed a lot of my thinking about India, certainly. So let's come back and get into the weeds and deeper into this interesting Chinese box. I don't even know if I should call it a Chinese box. Could I get into trouble deeper into this new box with many layers after a brief commercial break? On the scene and the unseen, I often speak about positive sum games. Well, if you want to be surrounded by beauty, and you love fine art, I have a win win proposition for you. Head on over to Indian colors.com Indian colors licenses images of fine art from some of the best contemporary artists in India and adapts them to objects of everyday use like tote bags, pouches and home decor items. You get to surround yourself with the finest modern Indian art at affordable prices and artists get royalties for every product you buy win win game. The Indian colors new ranges in and includes elegant yet comfortable dresses for women and casual shirts for men with standout motifs by artists such as Tanmoy Samanta, Manisha Ghera Baswari, Shruti Nelson, Pradeep Mishra and Jaideep Mehrotra. Stay home, but dress smart. And if you're missing your friends in these lockdown days, worry not, you can show them you're thinking of them by buying gifts for them from Indian colors. Corporate gifting is also available. So head on over to Indian colors.com as colors with an OU and make art a part of your life. And hey, for a 15% discount, use the code unseen. That's right on scene for 15% off at Indian colors.com. Welcome back to the scene in the unseen. I'm chatting with Ashwin Mahesh about urban governance ostensibly, but as tends to happen in my show, when I'm talking to interesting people who think deeply about many things, we've gone into different directions, one of which of course was, you know, education itself. And Ashwin, when we were in the break, you said you wanted to respond to what I had just said before the break. So, you know, go ahead."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:36.880",
+        "message": "You know, Tim Marshall wrote an interesting book called Prisoners of Geography about how a lot of a nation's choices are constrained by geography, terrain in particular, and productivity of land, things like that. But you know, you could extend that sort of thinking to a lot of other things too, that I think even in a city, we are prisoners of our geography, the neighborhoods. So we tend to think of a lot of things as the accidental circumstance of birth in certain families, in certain places and so on and so forth. But it continues through the rest of one's life as well, that there is a sort of prisonership to geography in a lot of things. You live in a nice neighborhood, you have a set of opportunities that come from merely living in a nice neighborhood. In places like America, this has been taken to an extreme. You live in a nice neighborhood, property taxes fund local education, public education in a powerful way. You live in a poor neighborhood, you don't even have the money to teach your kids properly. And so you have these sorts of traps into which we have let ourselves into. And a lot of the planning and the administration and implementation of plans and schemes is not systematic enough about equity in outcomes. We actually have a lot of attention to economy. We have a lot of some attention to ecology, increasingly of it, but we don't really have much attention to equity. There's a lot of lip service to equity. There's a lot of talk about what should be and what should not be, but you wouldn't find a push for equity in actual budgets of governments or actual stances and policies. So in a way, often governments even make the mistake of saying that we speak on behalf of the poor, but it's not clear by what achievement they lay claim to that. You can say that governments have a legitimacy to speak on behalf of the poor, but it's not clear. I mean, they have a very large public school system or a public health system, which is quite abysmal in some way, and probably underserves the poor more than it underserves anybody else because the poor are often turning to those systems, and yet governments have given themselves the legitimacy to speak for the poor after having let them down massively in their own direct lines of opportunity to serve. So in a way, I think there's a lot of us who are just caught in our situations and being deliberate about overcoming that prisonership is important to solve any problem because you are inheriting a lot of things, you're inheriting a past, partly a colonial past and then administrative infrastructure that didn't change very much when you inherited that past and imbalance between state market and society in which it was common during colonial times. This happened a lot, the instruments of the state, what is particularly designed to favor certain market outcomes. So if you inherit that, you're going to get exactly that kind of state even today. And this is, you can call it what you like, you can call it crony capitalism, you can call it just a weak state hostage to particular private interests, you can call it all these things."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:59:25.800",
+        "message": "But in many ways, it's just a continuity of something that existed 100 years ago, a"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:30.320",
+        "message": "bout which we have not thought deeply enough. You asked me earlier, what was my sort of starting point for a lot of these things? I actually think from first principles, I think people have a right to be free. That this right is not something that the state gives you or me, that we have this right, that the mere truth of being born has endowed us with that right, and that governments of any persuasion should not have the right to take that away from us. And also that this term being free has to mean more than physically free, the freedom to think and to act in ways that are consistent with what you think, I mean, of course, subject to not harming others and all those kinds of caveats, but broadly, that it should actually be possible for liberty and freedom to anchor a democratic society. And we shouldn't really have to convince ourselves of that again and again. I think what has happened in the last five years, not just in India, but even globally, is that an increasing number of people, even in democratic societies, have sort of given up on this foundation in some way. You look at what happens in places like Hungary or Poland nowadays, for example, and you wonder, these are people who have suffered for decades under authoritarian rule, and they seem willing to flirt with it again today, just two decades after getting out of, you know, Soviet control in some way. And what it tells you is that public memory is short about a lot of these things, but it also tells you that the responses from people are very situational. They're simply saying yes and no to the set of questions that are put before them. And it's like, often the answers are like having a diet for the left side of your body. You can have a diet for the upper body strength, you can have a diet for lower body strength,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:01:42.920",
+        "message": "but you can't have a diet for the left side of your body."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:45.960",
+        "message": "That doesn't make any sense. Too much of the choices that are presented to us in the political arena are really diets for the one side of our body, and it just is never going to add up. That constantly reminding ourselves what the foundation for participation in public life, for foundation for participating in governance is, that's important. And I think if we did that, we would be more fair to the people around us too. The idea that a young child begging on the street has a right to liberty, has a right to a kind of freedom and opportunity. I think that is, it's a basic decency that I think all of us are capable of mastering. But somewhere along that journey, we have allowed this to deteriorate or just recede even into a mere administrative problem, or even a traffic problem. You find it an annoyance that at a traffic light, you are, quote unquote, disturbed by such things, or that there's a risk of accidents from such things. It's kind of bizarre that such suffering is, it doesn't motivate us to go back to first principles on a lot of things. And we live, I said this earlier too, we live in India today among the largest concentrations of poor people in the history of the planet. You could say it's partly the result of our sheer numbers and all of that stuff, but the numbers are the result of underdevelopment too, in some way, and the lack of women's empowerment in particular. I think in some ways we have to acknowledge where we are and start from that. And you have to start from the sense that people have rights, and those rights are not necessarily the ones that the state has given to them, that some rights they have. You can believe that these are God-given rights, if you were a God-fearing person. You believe that these are social organization rights that are good to have in a democracy. It doesn't matter what you think is the foundation for such rights. It's important to believe that you have those rights, and that not just you, but your friends and your partners and your relatives and your neighbors, they have those rights too. But I think too often we explain away non-adherence to those rights as necessary responses to this problem or that problem. But I actually think that if we were to more feverishly support people's rights, you'd actually get many of the development outcomes for which we claim to be suppressing those"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:04:37.200",
+        "message": "rights."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:38.200",
+        "message": "It's really sad, but fundamentally you can do a lot better by arguments around liberty than you can through arguments of efficiency."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:48.840",
+        "message": "Yeah. In fact, that's one of my bugbears that we tend to behave as if, I mean, the way I look at the state is again, the Lockean view that the state is there to protect our rights and our rights precede the state. The state is an instrument for the protection of our rights and blah, blah, blah. And instead, how we look at it is we behave as if the state is a maibap and these rights are given to us by the state, and therefore they are contingent on circumstances and our behavior and blah, blah, blah. And it just all goes out of bag. This is a sort of a fundamental issue there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:21.920",
+        "message": "It was a simple way to sort of keep reminding yourself of that. The Republic of India, or whatever, India as an independent country existed before there was a government of independent India. So there must obviously have been a time when you had all these rights with or without the government, but it's quite logical to think that people have rights before the state even is born. And in fact, the state is a construction by the people of such a way of working together. But one of the things, if you see the presentation that I sent you, it talks about three ways of re-imagining life. And one of the first things that I say is think like it's 1947. What I mean by that is that we far too often, we think that the things that have been given to us at the founding of the nation are substantially immutable. So in a way, but that's not true at all, that the constitution has had more than 100 amendments. So in a way, we've got to recognize that every generation has both a right and an obligation to imagine the way in which it wants to organize itself, both for its own current welfare and in fairness to future generations. And therefore, re-imagining the law, re-imagining the constitution, re-imagining even social organization is both a right and a responsibility. And unfortunately, we've completely dropped the ball on that and really almost the entirety of our problem with urbanization today is because of this, that we still live in a country whose framework for governance is largely rural. But increasingly the lives of the people are urban and the political and administrative system are 30 to 40 years behind the reality in catching up to this. So I mean, I think a very simple thing that our delimitation of constituencies, our delimitation of constituencies at one level is from 1971, the interstate division of seats in parliament is from 1971, the intrastate delimitation of constituencies is from 2001, 20 years ago. In 20 years, at least 15 more percent has been added to the organization of the country, but that isn't reflected in your state legislatures in any part of the country, except in Delhi, which is almost entirely urban. So if you go to a typical large state, what you have is very disproportionate participation in legislatures by people from rural areas and deep under-representation of urban citizens in some way. And I think this is really the core of the problem with urbanization. We look at areas with very high density of living in very urban areas outside Bangalore or Chennai or Kolkata, and we call them rural areas. I mean, if 10,000 people live in 20 acres of land, there's just no way in the world you can call that a rural area. But because it says in the law that this is a rural area, and nobody's actually taken the step to convert that from a rural area to an urban area, and there's a good political reason for that. The flow of money into the political system is more decentralized in rural areas than it is in urban areas. Therefore, if you are a politician in a panchayat, you would fight like hell to make sure that it does not get converted into a town council. Because your ability to influence things in the urban governance system is a lot weaker than your ability to influence things, for good or bad, in the rural governance system."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:09:24.840",
+        "message": "So you have very large, there are villages outside Bangalore, 25,000 people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:30.040",
+        "message": "There's no way that's a village, but nobody wants to say this is not a village anymore."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:37.160",
+        "message": "So before we get into the weeds and get into detail about all of these things, sort of a couple of larger questions, and the first of them fits very nicely into the frame of Imaginist 1947. Now you were talking about how we take these sort of these structures of government for granted that we've inherited the past, and from that we've inherited these colonial structures and this colonial system of government and all of that. But it also strikes me that it's not just, in this case, not just a question of the inertia of the past, that this is how we've inherited, and so we also inherit certain ways of thinking. What also strikes me is that the way our state and the way our democracy was designed in 1947, to use your frame of Imaginist 1947, makes such outcomes inevitable. Because then what happens is, one, you don't have enough local governance, which is a theme I'm sure we'll talk about much more as we go along, but two, what you also have is, you set up this vicious circle between power and money, where it's a democracy, you've got to win elections. You know, number one, the state has way more power than it should. That makes it attractive. You know, rent seeking is therefore far more aspirational than actually creating value in the real world and making money that way. So you want to be part of the state. What that means is that there is a lust for power. The only way to get to power, the way our democracy is designed, is through spending a lot of money. So, you know, where does the money come from? It comes from, again, crony capitalists who will want an ROI, who will want a return on investment, which is why, you know, India at various times has been pro-business, but it has never been pro-markets, because pro-business and pro-markets, as we know, are completely opposite things that, you know, big money wants to shut down competition so it can continue unimpeded. But that's a different sort of tangent. But so, in a sense, it's not just that we've taken on the baggage of the past, but the design of the state and the design of our democracy in 1947 sort of makes our current outcomes A, inevitable and B, almost immutable, because what do you do about this now? So what are your sort of responses to this?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:11:42.680",
+        "message": "Yeah, so there's a direction and what you're saying is that there's a directionality from"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:11:47.600",
+        "message": "any starting point that inevitably leads only in certain directions. So I mean, take the question of, here's a little thing you can try. Ask anybody. Ask 100 people that you know in the next, whatever, 100 days. What percentage of your tax would you like to give to your local council, and what percentage would you like to give to your state government, and what percentage would you like to give to the national government?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:12:11.960",
+        "message": "I guarantee you that on average, you'll find people saying that at least 20% of their tax"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:16.480",
+        "message": "money should be given to their local council, but in practice, not even 1 or 2% of people's taxes go to their local councils. And this is a kind of an interesting thing, where you have a universal opinion that a higher percentage of one's taxes should go to a local council, and despite the universal acceptance of this view, in a democratic society, it is not done. I mean, think about that. If the point of democracy, representative democracy, is to take people's preferences and incorporate them into law and governance, here you have a situation in which the overwhelming majority of people want something, and the thing that is done is the very opposite of that. So somewhere, it tells you that there's a break in this representativeness of the whole thing."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:13:11.440",
+        "message": "Now, the way to break that is not to convince the guys who are holding on to the money to give up the money."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:16.960",
+        "message": "They're not going to do it. The way to do that, in some ways, even though I don't like these kinds of examples, it is Reagan-esque or Thatcherite in some way, that people with a different imagination of government itself have to get into government to be able to change this."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:13:34.440",
+        "message": "But there's a huge risk attached to that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:36.960",
+        "message": "Once they get into government, their imaginations of government tend to be a little different from what they had before they got into government. There are enough people asking me what happened to Swaraj. So I actually sort of, in some ways, recognize that there is a trap in this, but I also don't see any other way forward, that ultimately, if we're going to get out of this directionality that comes from initially having only a state national government, then having state governments, then having some kind of quasi-local government. And in many states, local councils don't really do much. In Bangalore, the local council doesn't do much. A very large number of things here are done by parastatals, like your bus company, and the water board, and the electricity board, and things like that. And it's a little better in the Western states, Maharashtra and Gujarat. But even generally around the country, local councils are not very powerful in some way. And then, of course, you don't have the planning bodies at all, in any independent way. You don't have the ward councils and the participatory governance at the local level. And these are also things in which I think the courts are partly to blame. The courts are repeatedly acquiesced with punting by the government when asked why they're not doing the things that they're required to do in law. The government can violate almost any right of the people. And when it is challenged in the court, they'll give you some explanation. And the most likely response from the court is, okay, we'll have a new hearing in four weeks. I mean, generally, the most common thing that courts in India say is, we'll have a new hearing in four weeks. And that's really a very sad reality, that especially when the government is a defendant, typically, they can go on saying that for years together. I mean, the 74th Amendment was passed in 1992. Why isn't there a Metapolitan Planning Committee for Bengaluru 28 years later? It can't be that it takes 28 years to implement the Constitution of India. But if you go to the High Court of Karnataka and say, why is this not being implemented? They'll send a notice to the government of Karnataka and the government will send a response and the court will say, let's have a hearing in four weeks. And after a while, the guys who are asking the questions, tell themselves, I can write myself this notice myself without going through the sharing. So in a way, the state is not merely more powerful than market and society. The state, using the resources of market and society, has made itself more resilient to the status quo as well. And that's really the problem. It's only when you get catastrophic things like a pandemic, that all of this stands set up like the emperor's new clothes in some way. So in a way, today, you can see the nakedness of the whole thing. But in quote unquote, normal times, it seems like there's a way to punt everything to the next question. And that's really the problem that you're not going to get solutions if you keep punting"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:45.880",
+        "message": "the question. Yeah. And in fact, speaking about the pandemic sort of opening our eyes, a few months back, just as the sort of lockdowns had begun, I wrote a column about how one of the things that has done is it's kind of made more visceral what we otherwise normalized and took for granted, which is that, you know, the big disaster here is not just a pandemic, but there is also the disaster of the flailing state, as it were, I think I quoted Richard in that column, that, you know, we can speak about the harm that COVID-19 is doing. But 3000 children die in India of starvation every day. And in what way is that also not a disaster that we must tackle? And in what way is that also not a sort of a manmade disaster, as it were, and largely manmade. So I, you know, don't feel bad using that gender specific term. So I had a question for you, which I was actually saving for later, but you brought it up. So I'll kind of ask it now, which is like, first of all, you spoke about people might go into government for Reagan-esque and Thatcher-esque reasons. And I think you almost used those terms in half embarrassment, but I don't think they're bad words at all. But question here is that, you know, you've also spoken a lot in our last episode and otherwise and even later today, I'm sure about how citizens must get involved in the task of governance. You cannot leave it to the state. There is a role for citizens. In fact, you know, there's a mandated space for it, which is made in our constitution, as you pointed out at the start of the episode. Now, my question here is that, to what extent must a citizen become a political animal? Because I see that then there is an added danger in getting entangled in the political process and that then changing, you know, what the citizen got in there for the first place. Like, you know, we've all heard the old saw of power corrupts, but politics also corrodes character, you know, and we spoke a lot about like the Aam Aadmi Party, which you're a part of and what has happened to them in Delhi in our last episode, but leave that aside at a general philosophical level. Does it then become a problem that as citizens, perhaps for good reasons, or perhaps those good reasons are the rationalization for other instincts, but as citizens get more and more involved in government, is it a danger that their incentives changing along the way also changes their behavior and what they got in for?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:06.440",
+        "message": "Of course, there's the danger, but it's, I mean, let's take an analogous thing. Let's say you're reading philosophy, you know, you read all sorts of philosophers and often with very, you could read Kant and you could read Milton and you could read, whatever. There are big differences between philosophical positions and you don't think by and large that reading about all of them could prejudice you towards one of the wrong choices. You accept that reading about all of them is part of an education about whatever stance you eventually come to. You don't decide beforehand that you're going to be utilitarian simply because you've read Milton. You're reading about utilitarianism to understand utilitarianism, you might read about something else to understand that. I think public life is like that, that yes, it comes with the entanglement that you referred to, but the entanglement is part of the education. The entanglement is not part of the stance that you necessarily need to come to. I actually think it's much easier for me to work with people if I understand their different motivations for engaging the same problems that I engage with, with whatever motivation I have. One of the best conversations I've ever had on watershed development in Karnataka was with Basaraj Bommai, who was Water Resources Minister in the BJP government. He really knows his stuff, right? It may be that his political persuasion is very different from mine, but you know, we're talking about water resources development and watershed management. A, you should be able to have that conversation independent of things like that, and second, you should be able to say that even if our political persuasions are different, that's not a reason not to have this conversation. I think Elkia Dhawani said this in, I'm going to say 10 years ago almost, he and Atalji were far closer to the other side of the political spectrum than today's political persons are to other persuasions. They do know each other, but somehow I think we don't really have the continuity of engagement across the political aisle, which is a necessary part, I mean, that's why you have the assembly, right? You don't have an assembly only for those who win the elections. The assembly is a place for both who are in government and for people in opposition, and if we did not accept that there is a health to the process of being opposed and persuaded by others, you wouldn't have the assemblies be the way they are, right? So I think the constitution is quite clear that contestation is part of the health of a democracy. So I don't think we should worry about that, and with all contestation comes the risk that you become attached to the winning side, or you would at least like your side of that contest to win. I think that's normal, and it's not something to be afraid of, and I think what disciplines this is not your victory, but the certainty that after your victory there would be somebody to contest it. So in a way, I wouldn't feel too smug about winning this battle or that. It is a permanent battle, and it's something you have to engage with again and again. Being on the sidelines more or less ensures that you're never going to be on the winning side. I think it's better for people to want to be on the winning side for a few years at a time at least, and in other years to be part of the side that brings health to the overall thing. I think that's a much better stance to take, but the thing I've seen that dissuades people more is that they believe they have to do a lot to be useful in public life. People think, you know, I'm a working professional, or I have a day job, or whatever. I have other commitments that I'm supposed to meet, and at the end of meeting all of those commitments, I have neither the bandwidth nor the mental energy to engage in public issues. The sad part is that a very large part of the things that you are trying to sort of take care of in private life are being done in private life only because the public systems are not good enough to take care of them. If you really had a well-funded and well-run public education system, you probably wouldn't need as much money to send your child to a private school. So in a way, there is a tighter link between what we think of as a public problem and our private life than we actually recognize, that, you know, if your scooter goes over a pothole and you tip over and have an accident, and you're out of action for six weeks, that really is a public problem that has become a private problem. So you can tell yourself that you didn't have the bandwidth to insist on better roads, but six weeks in a hospital is a lot of bandwidth that you didn't want to have either. So in a way, I think these problems are not so distant from each other as people tell themselves they are. I think public and private problems overlap a lot, and by addressing public problems more energetically, we would actually give ourselves more latitude in private life too. So there's a schizophrenia about this too, which is that people who say they don't have the bandwidth for this, they often feel quite empowered about their private lives, that they are achieving this or that in their job, they're buying a house, they're buying a car, they're moving up the promotion ranks in their companies, and yet they sort of tell themselves that they don't really have much to contribute to public life, which is kind of schizophrenic in some sense, that they're not even telling you that they won't do it, they're actually telling you that they can't do it. This word can't is something that they eschew in private life, but it comes out quite readily in public life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:37.200",
+        "message": "Yeah. In fact, from what you're saying, it's a fairly profound point, and it leads me to think that perhaps the apathy of the people comes from the apathetic state, and we don't often see this link that the public problem, the pothole over which our scooter trips and we spend six weeks in hospital, that it's something that our participation could help. And I'll dig a little deeper into that apathy as we kind of get into it. My one final big question before we kind of get into the weeds is I was very curious about the philosophical approach to urban planning in a sense that one of the finest biographies I've read, which I'm sure you must have read as well as the Power Broker by Robert Caro, which was a biography of Robert Moses, a man who planned and built much of New York as it were, and for much of his career, Moses was in opposition with Jane Jacobs. And if I can briefly and perhaps to simply sum up what those opposing schools of thought were, Moses was all about, okay, we should have a master plan for the city and flyover should be here and this is how it should go. And you plan that from the top down, though at a city level, but from the top down and you execute it. And Jacobs's whole point was that look, cities evolve organically, and anything you do coercively to force a particular vision on how a city is growing will harm the city and will harm its inhabitants. Now, I don't necessarily, you know, see a contradiction here when you talk about, you know, planning at a local level, because it does seem to me that, you know, that in this trade off of how much you want to plan from the top down and how much you want to, how much the citizen should be empowered at the local level to have a voice on how the city is actually growing. I think there is probably a sweet meeting point somewhere where these two come together and citizens remain empowered. And at the same time, you can get some planning done. Is there that sweet point? What is your thinking on sort of this being these sort of different ways of thinking about the problem? And does that then, you know, at what scale do you have that sweet point? And at what scale do you say that, no, top down thinking simply doesn't work here?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:52.080",
+        "message": "Well, here's how I would put it, there is a sweet meeting point, but neither Moses nor Jacobs would believe that. And that's important that the sweet meeting point exists because both of them don't believe that. Therefore, we cannot make it the purpose of a Jacobs-Moses conversation to arrive at that meeting point. We actually have to have the confidence that such meeting points arise naturally from the stringent positions of a Moses or a Jacobs. And I think that's important to recognize. And maybe that's part of the difficulty, that fundamentally we're too often trying to ask the question, this is a different kind of who problem. We take a guy who is the mayor of the city, and then you say, okay, how can we make him do ABC? Completely unmindful of the fact that the forces that have brought him to be the mayor of the city have nothing to do with ABC. So in a way, I think you have to accept that good median outcomes are quite often the result of contested positions that are not as close to the median as one might like it to be. I mean, look at Biden's candidacy, it's kind of odd that in a primary process that is replete with extremism, both in the Democratic Party and in the Republican Party, you get two very different sets of candidates. In one process, you get a Donald Trump, who is basically farther right than anybody else in his party. So in fact, he's being dragged left by his own people, ironically. But then you get Joe Biden, who's probably also farther right than his own primary voters, at least."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:29:51.960",
+        "message": "And those primary voters are making a different calculation, that if you put up the wrong"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:54.840",
+        "message": "way, if you put up a Sanders, he might not win the actual election. He might win the primary, but he might not win the actual election. So I think the way people think about this is that they understand that their choices have an immediate stamp of approval for a certain position, but they also understand that the stamp of approval has to be modulated by many, many such stamps from other people. And partly, if we taught democracy better, if we actually taught public problem solving, most kids would know this instinctively. Most kids would continue to care deeply about something and accept that things can still be different, because others also care deeply about something else. But what we have now is a situation in which people care deeply about the thing that they care about, but they have no exposure and understanding of the things that others care about. And so that actually leads to a kind of polarization that is unnecessary. Yesterday, I was talking to somebody who was setting up a new public policy school. And we were talking about, you know, it's all very fine to say I have a graduate program for 60 students that really teaches them hands-on interventions in government. But broadly, I think we have to start with the view that governance is too important to be left to the government. That in a way, you have to say that ordinary people, children, and young adults, and adults all have a role to play in governance, that governance actually begins with self-governance. And if you did not have self-governance, you cannot have even an expectation of governance beyond that. It is only by doing the thing that you can, that you acquire both the capacity and the right to go to somebody in public office and say, if I can do these things myself, what on earth are you doing after being paid to do this? So in a way, I think the minute you accept that you have a role to play in strengthening governance as a citizen, it becomes a lot easier to work with a lot of other people for those same outcomes. And in my experience, I would say that definitely in this city, the people that have actually worked closely with public officials will all tell you that there is a subset of people in public office who want to do the right thing for the right reason. They just don't have enough allies in society to make that happen, that they're actually hoping that more people from society will stand up and say this should be done and that should not be done, because such positions would empower them inside their own organizations."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:32:49.680",
+        "message": "Because if you look at the nitty-gritty, I used to work in BMTC for the longest time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:53.480",
+        "message": "I was a special advisor when we did all those big, thin buses and all of that stuff, and direction orientation of the bus system. And there was one set of people in BMTC who instinctively understood and wanted direction orientation. They believed that it would bring greater efficiencies of performance, and that with fewer buses, you would actually serve more people in certain routes if you deployed them correctly. But there was another set of people that just didn't believe that and were hostile to it. Some of them didn't believe that because they didn't get the mathematics of it, but some of them didn't believe that because they were reluctant to simply concede that someone in a junior position could have an idea that's better than someone in a senior position. So you have to work with that dynamic and take people along in a situation like that. I remember once there was a DTO, I don't know what exactly it stands for, I'm going to say Deputy Transport Officer or something like that, Transportation Officer, something like that, who once told me that the thing that we really appreciated during the years we did all that is that people from outside of BMTC, outside of government even, were willing to come into this office and work with us to make things better. And I've seen that in department after department, even with minister after minister, right? I mean, many ministers, I remember an event last December that the Deputy Chief Minister had organized on Atalji's birthday, I think they celebrated in the party as Good Governance Day. It is also Christmas Day, but they sort of celebrated as Good Governance Day. And there was a collection of, you know, departmental heads from different civic agencies that was called to an event, I'm going to say one of the larger auditoriums in the city, I forget which one, and they were sort of literally just going through, and a few of us were moderators of the different sessions of the event, and I happened to be the moderator on the session on utilities, perhaps with water and power and things like that. And every department, typically, if you go to a department and ask what it's doing, they will make you a very nice presentation of all the inputs that they are providing, and with not nearly as much to show for all the outcomes that you were expecting. And so you have to cut off that conversation very early. And you have to say, look, I have a very simple question, why are you not supplying water to my house? That's the question, right? Why are you not supplying water to half the people in the city? What do you care about my house, right? You have to start with that. And the answer to that question cannot be that BWSSB was established several decades ago and started laying pipelines at a certain pace with a certain budget, and all of that's all BS in some way. Of course, it's true, but it's still BS. And the reason it's BS is there's a rowdy shooter down the street who runs a mafiosi tanker who's able to deliver water to my house. I mean, a guy who is completely not empowered at all by any state apparatus or state machinery is able to do the thing that a fully empowered board for the supply of water is unable to do. Right? That's a pretty big indictment of the system. Forget about what your difficulties are. You are saying that with all the power and resources of a state, you are unable to do the thing that some random guy is able to do literally on the side, outside of the law even. So why is that? And I think by asking that question first, you can take away the needless deflection that comes from saying, here's how our pipeline program is going and here's how our budgets are for this year and so on and so forth. But I think we have to work with an imagination of government that starts from outcomes. To say all children have the right to go to a school and achieve a basic level of proficiency in reading, writing, arithmetic, whatever it is, some five things, right? All children have the right to learn for their careers, the things that truly interest them. If you started from those things, you could ask whether the schools are doing that. And you could also ask what other ways of doing that could be if the schools are not doing that. But if you don't, if you instead say, look, if you go to the BDA, for example, the Development Authority in your city, the DDA, the BDAs, MMDA, CMDA, wherever you are, the DAs will all tell you that they are going to build 50,000 houses this year. And they'll tell you that it's a good thing, they're going to build 50,000 houses this"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:37:49.680",
+        "message": "year."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:50.680",
+        "message": "But if you say, what is the demand for houses in your city this year? And the answer to that question is 750,000. And then they want to tell you they're going to build 50,000 houses. Your obvious next question would be, what is the matter with you? Who is going to build the other 700,000 houses? So I think the problem with our stance to governance, the passive stance of too many people to governance, is that there is a tremendous disconnect between what is done, or what is being done and what is needed to be done. Even the smallest thing can be presented as an example of what is needed to be done. But the fact that it is small only emerges by comparing it with what is needed. And that's what we're not able to do, that this seems like a detail that ordinary people are unable to grasp in any sense, because it is a detail, it is a detail. Unfortunately, we have not allowed ourselves familiarity with details, and we want good outcomes without familiarity with the details. And I'm really sorry about this, but that's not going to happen. Societies that don't grapple with the details cannot have a reasonable expectation of good outcomes. The details are critically important to good outcomes. And so when we tell ourselves that this is a level of detail I can't engage with, it's equivalent to saying, those good outcomes are not that important to me, that I'm willing"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:27.000",
+        "message": "to engage with. So when you were talking about BDA, DDA, all of these different DAs, I was just thanking God there's no PDA, Podcast Development Authority, because I would never get a license from them to do my podcast. It's probably coming. It's probably coming. Right. Yeah. Be scared, Mr. Verma. Be very scared. So, you know, just speaking of our fear of details, and it's what Public Choice Service would call rational ignorance, that, you know, because, you know, your willingness to delve into the details of anything, it will be proportional to that process, that effort being useful to you. And therefore, because most of us can't affect the actions of government, or so we think, we don't delve into details, and that's what they call rational ignorance. But it also strikes me that some of this apathy is actually also logical, because, you know, it's not that people don't want to get involved in governance outside of their everyday lives. I mean, during the pandemic, it's become a meme how housing societies have suddenly sprung into actions. And I've, you know, even in my own housing society, I see, you know, power corrupting and all kinds of crazy things happening. So people do get involved outside of their professions and personal lives. But in local government, I can see why that would not happen, because there is, and Shruti Rajgopalan spoke about it very well in an episode on urban governance, she did a long time back with me, there is this disconnect between power and accountability, that just looking at the example of Mumbai and Maharashtra, for example, that, you know, the people who actually have the power to make Mumbai a better city to live in and bring about great outcomes are not accountable to me, they're more looking at rural votes and all of that, and my vote doesn't matter to them. And my vote would matter to people at a municipal level, the ward councillor or whatever that is, I don't even know what those designations are, or who those people are. And the reason I don't know is that they might be accountable to me and my vote might make a difference, but they have no power to actually do anything. So take me a little bit. So one, is this an accurate summation of a structural problem that we have in our government? And two, give me a historical sense of this, that how has this kind of evolved? I mean, you sent me this excellent white paper called A New Urban India a few days ago before we set up this episode. And that has a lot of background on this, our urban governance legacy, so to say, and then the role that the 74th amendment tried to, the changes it tried to bring about, but we are still far from really getting there. So give me a sense of the history of these structural issues."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:41:56.760",
+        "message": "We'll get to that. Before that, I want to say something short in response to what you asked. Your vote is a kind of voice. If it is the only time you give voice to your voice, then it's not very powerful. But if there are other times too, in which you're giving voice to your voice, then your vote is actually quite a bit more powerful. If you, for example, just as an experiment, even a gedankenexperiment, not even a real one, if you were to say that before the next election, I'm going to write to 200 people that I know that live in my locality and tell them who I'm going to vote for and why. Write wrong. Leave that. If you actually took that step, the guy who thinks your vote is not that important will come to you to influence that communication. And what I'm trying to point out is the vote is a kind of voice, that it is by continuously having that voice that your vote gains the full power that it is vested with. That merely pressing a button on election day is not adequate to gain that full capacity for your voice. So that's something to think about. There's a whole bunch of other things that need to be done. Probably there are four commissions in India that have all failed to do their job. If these four commissions do their job properly, a lot of things can improve really quickly. Two of them don't exist at all, so you can't even blame them for not doing their job because they don't really, quote unquote, even exist. So you can blame somebody else for not even keeping these in existence. The first is the election commission, everybody's legend now, the extent of failure in the election commission. So I won't go into it too much. But the two commissions that matter the most in the Indian urban context are the Municipalization Commission and the Delimitation Commission, and these are both important entities. The Municipalization Commission is supposed to decide when an area has transformed by some measure from being rural to urban, and therefore is not any more governed under the 73rd Amendment of the Constitution, which applies to rural governments, but is instead governed under the 74th Amendment of the Constitution, which applies to urban areas. So municipalization is something that doesn't really exist in a continuous way. States tend to set them up at their whim and fancy, and those commissions often make large numbers of exceptions to the rules for municipalizing an area, so that even if it says that an agglomeration with more than 5,000 residents should be treated as a small town, incorporated town, you will still have scenarios in which there are villages with 25,000 people. And there's no good explanation for why that is, because it's a completely political process of deciding when an area is no longer village-franchised, but is actually a town council at some level. And this also undercounts and under-represents the extent of urbanization in India. I'm sure there are states in India that are more than 60-65% urban, but the broad narrative about urbanization in India is that we are somewhere at around 30-35%. That is probably at least a 15% undercount across the country. And this has implications, because many budgets are divided between rural and urban schemes in ratios that are decided by such classification. So if you decide that one-third of the state is urban, you would give one-third of the budget to urban stock. But if you decide that one-half of the state is urban, one-half of the budget would go to addressing urban problems. So the political class, which is now dominated by rural politics, has a vested interest in slowing down and delaying municipalization itself, because municipalization effectively is a flow of money away from systems that they are familiar with, money and power. So this is one problem, that the municipalization does not happen periodically and predictably. But it is completely subject to the whims and fancies of state governments. The second commission that also should exist in a continuous fashion, but does not again exist in a continuous fashion, is a delimitation commission. A delimitation commission is supposed to say that the population of a certain local governance area, like a municipal council or a village concierge, is changing, and that subdivisions of wards within that municipality have to reflect the most recent distribution of people in that area. And therefore, to give roughly each voter equal voice through their vote in elections. But this too does not exist, the current municipal council, the one whose term just ended in February, its ward boundaries were actually based on the 2001 census, just 20 years ago. So, and you might say that's a legacy of having done it this way in 2010, but we're about to do in 2011, in 2021, we're about to set up a set of boundaries based on the 2011 census. Knowing fully well, the 3 million people have moved to the city, mostly into the outer wards during that time. It's almost like we pretend that this, even the census of India today, does make projections for intervening years, there is a 2011 census and a 2021 census, but it's not like there is no data for 2020. So there's no reason why in 2020, you have to work with 2011 data. But a political system that is comfortable with the past arrangement will always pick the oldest possible data set that it can work with, and for whatever decision that is made"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:48:51.880",
+        "message": "in the present."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:48:52.880",
+        "message": "So you're going to get in every municipality, a huge gap between the change in population driven by urbanization, especially the largest cities, the largest cities are having insane numbers of people. I mean, 800 to 1000 people come to Bangalore every day, net, right? So during the course of your show, about 100 more people are going to become Bangaloreans,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:49:18.640",
+        "message": "right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:19.640",
+        "message": "And if the show were being done in Delhi, that number would be 1000 or 1100 people per day, more than another 30% more. So in a way, we're looking at a situation where very large numbers of people are moving to the larger metropolitan areas, these metropolitan areas continue to be governed through really unwieldy and large municipal councils. I remember one conversation with a municipal commissioner, who was fortunate enough to serve several years as a municipal commissioner, even our current commissioner has actually been in office for quite some time. But I think it's a safe bet that he's moving to more than half or two thirds of the wards in the city, because the nature of the job is such that you can actually traverse, understand and govern a very large city in any meaningful way. But we have not yet become comfortable with small government. I mean, the Thatcherite Reaganist argument is that you need to be comfortable with small government. And their way of talking about small government is that you don't, you know, the government doesn't have too many rights and too much people to enforce those rights. But I'm saying we don't even meet the basic standard of a small government, our governments are not even close enough to the people that we consider physically small. That if you live in a city of 13 million people, represented by a single council, the very act of being organized in that way creates distance between you and the voter and the council, which is actually never going to be helpful. But are you willing to say that municipal councils should not really be more than a million people or 2 million people, that a large metropolitan area like Mumbai or Delhi should have 5, 6, 8, 10 municipalities within them? So I actually think that because we don't ask those questions, we don't get to the answers for those things."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:51:15.880",
+        "message": "It's unfortunate, but that's how it is."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:18.480",
+        "message": "So the municipalization and delimitation slows down and delays the voice of urban citizens. And the very act of delaying the voice of urban citizens puts you in a development deficit. And you're always scrambling to overcome that deficit. And that's really been the history of urbanization across the country again and again and again. The only place, ironically, where they tried to sort of keep pace with this to some extent was Bengal. And you could put that down partly to communist rule, perhaps, that they actually had in the Kolkata metropolitan area, many, many 30-odd municipal councils, whereas everywhere else there are fewer than half a dozen, even today, even in Mumbai. I don't know if there are more than 7 or 8 municipal councils in a very large area. Delhi has four, Bangalore still has one, Hyderabad is talking about making it 7 or 3 or 4. Really, these are areas that could easily have multiple municipal councils and an overarching layer of planning across those municipal councils. If you go to Metro Manila, just as an example, in a developing country, if you go to Metro Manila, you will find 15, 20 cities within what you call Manila. And there is a Metro Manila planning body, which works across all of those. The guy that you call the Mayor of London, I forget what his name is, he's actually not an administrative mayor, he's a planning mayor. The Livingstons and the Boris Johnsons are all planning mayors. They did not actually, except for police and transport for London, they were not really involved in the administration of any of those things. Many other things in the city, those were left to the boroughs of London. And there are 33 boroughs in London. Most people don't realize that there are 33 boroughs and the mayor is just a planning mayor. He's in charge of something called the Greater London Authority, he's not the administrative head of any of the boroughs. So in a way, the Constitution of India does provide for a planning layer across multiple municipalities. And if you thought of this correctly, you could even set this up. And here's another downside of the historical legacy. In every district, you have a Zilla Parishad, it's kind of an interesting thing. A Zilla Parishad in the Panchayati Raj system is the highest tier of a multi-tiered rural governance system. So you have the Gram Panchayat, then you have the Mandal Panchayat, sometimes you have the Taluk Panchayat as well. And then you have a Zilla Parishad at the highest level, which effectively is a representative amalgamation of all the sort of lower panchayats in the city with representation from each of them. You don't even have the equivalent for the urban areas. There is no Zilla Urban Council, there's no District Urban Council, instead what you have is a District Commissioner, who's typically a 27-year-old who passed the IAS exam four"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:54:29.920",
+        "message": "years ago, maybe if you're fortunate he's 31 years old."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:54:33.720",
+        "message": "But what I'm trying to say is that we have completely substituted representative democracy at the district level with mere public administration in urban areas primarily, whereas what you really should have is a Zilla Parishad that is from both the urban and the rural areas together."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:54:56.560",
+        "message": "There's no reason, this is what I mean by saying this is like a diet for the left side of your body. You've got a Zilla Parishad that's somehow supposed to make the village areas better."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:08.040",
+        "message": "While you don't have any system in place for the urban areas at all, you will get a kind of grotesque kind of arm-wrestler out of this, who could easily have his own left side defeat his right side. And that's inevitably what ends up happening, that rather than building oneself up to be overall strong, we imagine some selective strength in a way that is only useful to defeat ourselves again and again. So the structure of government itself is now anti-urban, it's not just standing in the way, it's willfully anti-urban, and we have to understand that, that this is not merely the result of that structure, it's the result of saying we don't really want a transfer of power from rural governance to urban governance, and this is in some sense pacified by the romanticism around villages from the past, dating back to Gandhi's unfortunate comment about villagers. I'm much more of an Ambedkarite in thinking about villagers, but even apart from that, I think it is now important to say people are voting with their feet. So we tend to think of voting as something that happens only at a ballot box, but people vote with their wallets and they vote with their feet too, and the voting with their feet is now telling you what they prefer, but the political system is highly unresponsive to how people vote with their feet, and this is the biggest gap in our response to urbanization today. It is happening, the political system is not recognizing that it is happening, the reason it is not recognizing it, the reasons are political, and because that recognition is left to the very people whose political interests run contrary to reality, you're not going to get this outcome. So this becomes the Chakra view, you can recognize it, you can go into it, but it's not easy to come out of it, and Arjuna is distracted. So you know, you keep sending a poor young warrior to fight lonely battles in these places."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:57:32.280",
+        "message": "Yeah, I love the image of feeding only the left side of the body, and India does seem to be a little bit like an arm wrestler, which is wrestling with itself and, you know, twisting itself into grotesque shapes as it both wins and loses at the same time. Some thoughts from this one, of course, to sort of, you know, mention an interesting paradox, which is you brought up the Reaganite, Thatcherite conception of the small state, and in some senses, India is both too small a state and too big a state, it's too small a state in the sense that we don't even do the basic things properly, which a state should do, like provide the rule of law and so on. And we don't even do those. So you could argue that in those ways, we are too small. But you could also argue that we are too big, because we do a million other things and get our tentacles into a million other pies, predate upon people in different ways. I mean, we are, you know, while we should be a protective state, we are really a parasitic and predatory state. But you know, leaving that aside, moving on, you spoke about the definition of..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:58:31.520",
+        "message": "Before you walk past that line too quickly, I would say, the state is only parasitic towards those who don't engage it. But think of that, the state is not parasitic towards those who engage it. We tend to think that those who engage it are doing it for crony vested purposes. But, okay, let's take that at face value. The quality of the road in front of your house is your vested interest. Let's not pretend that it is not. What is stopping you from engaging the state for that vested interest? And I guarantee you, if you engage the state for that vested interest, it would not ignore"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:59:08.480",
+        "message": "you. My... You know, that's really optimistic. I would say that just as public choice say to speak of rational ignorance, I can also speak of rational apathy. I don't engage with the state about the state of the road outside because I know nothing is going to come of it. So why waste my time? Why not just kind of get on with my life? And whether I'm wrong or right in this belief, I think most people do kind of believe like this. And I think the parasitic and predatory nature of the state is set up in the design of the state where it has too much power, where its incentives are aligned in such a way that it will never give up any of that power, obviously. And you know, it is..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:59:46.080",
+        "message": "I wouldn't call this ignorance, but I would call this inconsistent with the data. Let me put it that way. What I mean by that, what I mean by that is that people who engage with the state would tell you that their experience has been different. Nobody would touch the road in front of my street without my knowledge, in front of my house without my knowledge. The reason is not power. The reason is I know them as people. It's embarrassing for a guy to be doing things in front of your house if he knows you. Believe me on that. Once you get the psychology of that thing in your head, it becomes easy to understand why they're not going to do that. Problems being what they are, the public choice theory being what it is, he still knows you. The day you walk up to him and say, you could at least have told me of this thing, and if it needed coordination with three other departments, I would have helped get that thing done. Once he can ignore you on that, the second time he won't even ignore you, you actually know the guy. You see, it's the same thing. It's like if something is wrong with my best phone connection, with my electricity connection, I usually will not call their helpline. Even though I know there is a helpline, I will call the guy that actually works in my"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:01:10.720",
+        "message": "subdivision. Ashwin, number one, I'd say that you're very privileged to be able to do that. But number two, I'd say that you're speaking at a very local level of engagement. I'd say at a broader level of engagement, for example, consider that 95% of my taxes are just predated. They don't go towards productive things. They go towards building big statues and towards bailing out inefficient public sector banks and so on. They basically count as utterly illegitimate uses of money. I have no way, even if I engage with the state, I have no, there is no hope in hell that the level of that predation will come down. It simply will not."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:01:44.200",
+        "message": "Well, here's what I know for a fact, that it's much easier, that first, that predation is a house of cards. First, it stands on the shoulders of your local elected representative. And the reason you know that for a fact is that even a prime minister of India, I'm not"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:02:07.440",
+        "message": "necessarily talking about only this prime minister, but going back for 20 years of various"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:02:11.440",
+        "message": "urban missions in this country, even a prime minister of India cannot make things happen in your city that your local corporator does not want. On the contrary, that if he wants to do something, even the prime minister cannot stop it. So what I'm trying to tell you is that this house of cards is not built at the top. It's built at the bottom, that any change that you believe is going to happen or should happen is most likely to be made to happen only at the bottom, that the arrangements of power at the top are far too removed from you to be able to influence them. You're correct in assessing that, but nonetheless, they are not as far removed from the foundations within their own parties at the bottom, and the guys at that bottom are not removed from you. You actually know where he lives."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:03:08.320",
+        "message": "Yeah, but you know, the structural problem here, and we'll move on from this, because let's get back to the core issue. But the structural problem here is again, what public choice theorists would call diffuse costs and concentrated benefits. The costs of this predation are diffused among so many people that it is, you know, difficult to sort of mobilize them to kind of, you know, create a strong enough incentive for your local corporator to stand up for you and for local corporators everywhere to stand up for you and for the system to change. My money is going to be used to bail out inefficient public sector banks and to give bad loans to cronies who are too close to the powers that be. No matter what I do, my involvement is not going to change that, Ashwin. I'm a little bit sort of fatalistic about this. But you know, I mean, how it would change is if government was much more local. And as far as, you know, local governance matters, I completely buy your point. And, you know, a lot of the things you said, even in our last episode, sort of gave me tons of insight about that. So I want to kind of explore that further. One the definitional question, which you pointed out, what is a city and what is not a city? What is urban and what is not urban? I did an episode 108 of the scene and the unseen with Ruben Abraham and Pritika Hingorani. And we spoke about that in detail and why it's important. Now in your paper also, you know, you've added a bunch of nuance, which I'd like to quote from that paper to sort of put it out there for my listeners that you speak about. One, of course, we all know that we are becoming more and more urban in the future, isn't the cities and people are voting with their feet. That's a revealed preference. Even people who romanticize the villages do it from their city home. So like, give me a break. Now you point out three different ways, three different patterns in which India is urbanizing. And I'll quote from your paper now, one, the addition of numbers to existing cities, two, the urbanization of older rural settlements, and three, large urban projects situated in panchayat areas isolated from their immediate physical and administrative surroundings. Stop quote. And you point out about how they present different sets of challenges and all of that. But then you say that one, this definitional problem is, you know, we have to get these definitions right, because as you just elaborated upon minutes ago, it makes a difference to the kind of governance that you get. And two, you've also written about why we need a new framework of urban governance. So lay out the vision for this new framework."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:05:36.440",
+        "message": "I want to take the opportunity to criticize one more commission before we forget that. And this is the set of the finance commissions. The finance commissions are doing a terrible job, there's just no other way to sort of, they are supposed to assign pools of public money between different stewards of that money at different levels of government. The finance commissions have no reason to overlook the migration of people from rural to urban areas. So if they wanted to, they could easily make higher allocations for local councils and for urban related problems, number one, but they don't do that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:06:20.440",
+        "message": "And the finance commissions typically tend to behave like agents of the highest body"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:06:24.040",
+        "message": "of the most highest level of government to whom they're making allocations. So the National Finance Commission behaves like it's an extension of the government of India. The State Finance Commission behaves like it's the extension of the state, you know, state government. So a couple of years ago, I was in, you know, I was giving a presentation to the State Finance Commission. And I was actually telling them that you have more powers than you yourself seem to realize that if you wanted to, you could actually respond to the reality out there and make allocations of money commensurate to that reality. But they seem to believe that they had a greater obligation to the state government than they did to local government, number one. The second thing is that state governments, in particular, have been guilty of not setting up certain layers of administration at all, for example, the metropolitan planning body that is required to exist in a large area like Bengaluru, Mumbai, Delhi, by and large, these don't exist, right? Now, the State Finance Commission need not say, since these things don't exist, I'll not make any allocation to them. But that's what they do. They basically endorse the fact that statutory levels of government do not exist, and say there's no point in making allocations of money to them because they do not exist. My argument to that was, if you allocated money to the Metropolitan Planning Committee, you can be sure that it would exist, because people would follow the money, right? Basically, what the Finance Commissions are doing today is a disservice to the organization of the country, and a disservice to the structures of government that are supposed to be in place to respond to that organization. So this is the third commission that has utterly failed, and it was the Election Commission."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:08:18.360",
+        "message": "The Election Commission has failed in another respect, which is that you can't even be sure"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:08:23.440",
+        "message": "that local bodies will have elections on time, right? I mean, frankly, the Election Commission has a very high level of preparedness for holding state and national elections as per a calendar, but has never bothered to speak about the electoral calendar of local government at all, or even the electoral calendar. Now, one could argue that the states take the view that this is an administrative matter within the states, but that doesn't stop the Election Commission, which is quite happy"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:08:50.040",
+        "message": "talking about simultaneous elections to Luxembourg and other states."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:08:53.120",
+        "message": "There's no reason why it can't talk about an actual electoral issue, if it wants to."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:08:57.560",
+        "message": "But I feel, broadly, these four commissions, the Delimitation Commission, the Municipalization"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:09:03.000",
+        "message": "Commission, the Election Commission, and the Finance Commission, but to varying degrees and for varying reasons, have collectively combined to let down, they're more like, no, they're all omissions rather than commissions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:09:16.960",
+        "message": "Yeah. Well said. So, tell me about your sort of the governance framework that we really kind of need. And also, you know, it seems to me that in some ways, the 74th Amendment was, you know, in the early 90s, was a seminal moment in terms of empowering local governments. But in another way, it wasn't because nothing really happened. And, you know, much of what was laid out in it was not carried out. So, you know, give me and give our listeners a sort of a sense of how the thinking towards urban governance has been evolved, evolving and where it has fallen short."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:09:50.600",
+        "message": "The thing to say even about Panchayati Raj is that the imagination of a new direction in law is often related to the political individuals whose imagination it is at birth. So one could argue that Ramakrishna Hegde really cared about Panchayati Raj and that with his passing from the political stage, a large part of the impetus for Panchayati Raj died in Karnataka. One could make that claim. Alternately, you could say that somehow, some bizarre combination of Mani Iyer and Rajiv Gandhi produced the 74th Amendment, which was, in my opinion, very poorly drafted, despite an overall intent that one could find no room for. And even the people who actually worked on it 20 years later had concluded that what we have done with the 74th Amendment in particular is that we have overemphasized representation and under-emphasized leadership, which is why you don't really find people emerging from the bottom rungs of politics in India and rising to larger rungs, higher rungs through actual achievement in public office. There's a lot of parachuting that still happens in higher public offices. And that's partly because the leadership space at the local level is heavily suppressed. In our city, we have a situation where the mayor is changed every year. There's just no practical way in which he or she can ever be a leader, because by the time they figure out what the job is, they're sort of on their way out. And there's not a whole lot of leadership that can emerge in this way. Some other states have direct elections for mayors. I think, in general, it would be a useful practice to have direct elections for mayors and city presidents. But I also think it would be useful for the terms of mayors and city presidents to be"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:11:49.120",
+        "message": "no more than three or four years."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:11:50.880",
+        "message": "We have a situation in which your local corporator and the prime minister have the same term in office. And you have to ask yourself, is that really a good way to do this? I don't think we need corporators to have longer than three years in office, or even two and a half years is probably enough in some way, that you have to have a mechanism for repeatedly taking the pulse of the people and their preference. But somehow, we seem to sort of not get that, that we don't actually think that going back to the people for reaffirmation of their voice and preference is a good thing, that the efficiency argument often runs contrary to the public will, because we tell ourselves in many, many circumstances that it's efficient to ignore the public and do the thing that seems to be right with or without them. And I think this has permeated the entire system."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:12:51.880",
+        "message": "There are lots of officials in particular who will tell you public engagement is a slippery"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:12:58.040",
+        "message": "slope. And you can see these with these master plans, right? The master plan is an interesting document in our cities, for two reasons. Master plans are supposed to be prepared through consultative processes. And invaluably, they're not. They're just sort of put up in some random way for a limited period of time. When BDA put up its master plan the last time, the email address at which they wanted you to respond with suggestions was itself wrong. But no such address actually existed. So they sort of go through the process, almost like a checkbox. But more than that, the master plans are wrong for another reason, that each master plan typically contains within it a set of planning districts for which the planning authorities are supposed to create town planning schemes for the implementation of the plan within each of those planning districts. As far as I know, no planning authorities actually carried out that second step. It's like saying, we're going to have a baby, we're just not going to feed it, right? And that's ridiculous, that if you're not going to feed the baby, you shouldn't be having the baby in the first place, right? It's a harsh comparison, I realize. But really, that's really what it is. We go to great lengths to develop a plan that we say is supposed to produce a certain outcome. But we don't take any of the intermediate steps needed to achieve that outcome. Not only that, no state government feels obliged to fund any part of the plan in its budget. Then if you look at the budget of a state, any state, you will not find a section within it that says, here are the master plans that we have received from the 40 to 60-odd planning authorities in the state, and here is our statutory commitment to the budgets of each of those plans. You will not find that anywhere. So the planning bodies are making a plan that no one is obliged to fund. So what is the point of such a plan that you can make it to the cows come home, and you're not going to get any movement in that direction. So essentially, you have to break that cycle of one arm or branch of the government saying, I have nothing to do with the commitments that are made by another arm or branch of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:15:12.760",
+        "message": "the government. So make this concrete for me, give me a sense of what a plan would contain, and what would be the intermediate step which is not carried out, and who would be responsible for these different stages. Like you've mentioned in the last episode, we did together eloquently about how government tends to work in silos, and they don't coordinate with each other, and so on and so forth. But make it concrete, what specific thing would a plan contain or has a plan contained in the past in your knowledge, and what are the intermediate steps that were not done"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:15:44.000",
+        "message": "and why? So I think a good plan should have three things, it should have a desired outcome, which can be spatial, economical, land use, it can cover, it should be comprehensive across all sectors, it should cover water, waste, energy, jobs, all sorts of things, it should be comprehensive, and it should have end goals in sight for the plan period. The second thing it should have is a set of intermediate plans for where you expect to be along this journey of implementing the plan. I remember a conversation with Vijay Kelkar, almost 20 years ago, I'm going to say, maybe even more. At that time, the government had just passed this Fiscal Responsibility and Budget Management Act, FRBM, I think it was called, and the idea was that they would balance the budget or keep the fiscal deficit under a certain number. And so, I met Dr. Kelkar, I'm going to say, nine months before the election, and he was saying that within the next three quarters, the government's fiscal targets would come in alignment to the FRBM Act, and of course, the very first thing that happened when the next government took power was that they deferred the implementation of the FRBM Act."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:17:06.520",
+        "message": "And the thing that I was pointing out is that if you're going to hit a certain target in"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:17:09.760",
+        "message": "10 months or a year, you ought to be able to get one third of the way in the next three"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:17:14.440",
+        "message": "months and half the way in the next three months and so on and so forth, so that you're"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:17:18.040",
+        "message": "seeing real progress towards an outcome like that. The idea that you're going to come to a planned outcome in 15 years without seeing any of the intermediate steps happen after two years or four years or six years or eight years is ridiculous. But when the plan is not implemented for the first two years, the planning authorities tell themselves, we still have 13 years to implement it, when they're not implemented for four years, they tell themselves, they have 11 years to implement it, and so on and so forth."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:17:42.480",
+        "message": "And then you come to the 11th year, and you have only four years to implement them, you're"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:17:45.200",
+        "message": "still telling yourself the same thing, and that's how you come to the 15th year. And if you look at the outcome in the city, and the actual plan that was made 15 or 20 years ago, they have no correlation to each other. And so what you need is a set of intermediate plans for what you might even call them annual plans that pursuant to a large master plan, here is what needs to happen in each of these years in two directions, one, that you break down the plan into implementable parts along the way. And second, that when the state government quote, unquote, approved the plan, that approval becomes an obligation on the part of the state government to fund each of these annual plans. Otherwise, the approval has no meaning, the state government says I like the plan, and therefore it is approved."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:18:35.960",
+        "message": "But when budget time comes around, they don't feel obliged to fund any part of it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:18:39.920",
+        "message": "So the approval of a plan must be accompanied by a statutory obligation on the state government to fund that. If you don't do these two things together that have intermediate steps for implementation, and assured funding for implementation, you're not going to get the outcome that you're imagining in the plan. But the entire exercise of planning, I was chief guest at the 50th anniversary, I'm going to say anniversary celebrations of the Department of Town and Country Planning, I think DTC is, either I alone or I with somebody else was chief guest at that event. And I pointed out to them that in 50 years, the department had not carried out a single town planning scheme anywhere in the state. And I actually challenged them to say in this year, together, some of you, one of you, subsets of you come up with just one town planning scheme, anywhere in the state, and I will work with you to get it implemented. But nobody in the town and country planning department wants to do that. They're quite happy, color coding the outcome, without getting into the details of how that outcome is going to be achieved. It's like saying, I'm going to send my child to school, they're going to graduate from high school in 12 years. But you know what, the school doesn't teach physics or mathematics or geography or history"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:20:04.040",
+        "message": "or any of those kinds of things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:20:05.880",
+        "message": "And you still keep telling yourself, my child is going to graduate in 12 years, in a school"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:20:09.960",
+        "message": "that doesn't teach any of the subjects on which he's going to be tested in 12 years."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:20:14.000",
+        "message": "That's really what's happened to our plans."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:20:16.300",
+        "message": "And how much of this is because these people in question aren't really accountable. So 12 years later, there are a completely different set of people in charge in the bureaucracy. And the politicians have moved on. And anyway, they are focused only on the short term imperatives of the next elections. So how much of that is because of the way the system is designed itself, like before we kind of talk about before we lament the different ways in which the system doesn't work, how much of this can just be sorted by the domino effects of fixing the design of the system itself. And if it would be sorted by that, what would those fixes be?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:20:53.320",
+        "message": "I think this is a good question, because there is a certain what you might call budgetary distance between the voter and the decision maker. And there is one thing we can do to bridge budgetary distance. I think the ward committees should be funded directly. Just like municipalities have their funding, we should have a mechanism for funding the ward committees directly. So that people in each area become familiar and comfortable with the idea of making decisions about public funds. Today, the everyday experience of the voter, or the every month experience of the voter, is completely disconnected from any decisions about what to do with public funds."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:21:39.760",
+        "message": "And therefore, it becomes difficult for you to understand what's happening with public"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:21:42.920",
+        "message": "money at higher levels, including the fact that they're laying out Punjab, not Punjab, some bank or the other. I forgot the name, some Maharashtra something bank, I remember that, right, with your taxpayer money. So in a way, I think it's useful to have the practice of engagement with public funds and funding the local committees at the citizen level could be a good experiment to get that going. I even proposed this in Delhi government some time ago, that saying, why are we funding only, you know, the MCDs with the different councils of Delhi, North, South, East and"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:22:20.200",
+        "message": "New Delhi Municipal Corporation, you could actually directly fund the ward committees"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:22:24.000",
+        "message": "of each of those councils, and let people in their respective areas also have voice in what projects are done in those areas, it may not be even a lot of money. But I think it is important to directly fund the ward committees. And if you did that, people would get more comfortable with this. And to some extent, the school management committees have a voice now in payments to teachers and things like that. So what you have to do is that you have to create a system for public administration in which there is increasing voter and citizen participation in the management of public funds. So if you see that presentation that I sent you, which I'll send you a PDF of it later, I call it the publicly managed city, right, it's the city, we have to think of the city as a space that is actually managed by the citizens too, not merely lived in by citizens. Citizens are not merely consumers of governance. The fundamental notion of a republic is deeply tied to the idea that citizens are also creators of governance. But this idea that I, Amit Verma, Ashwin Mahesh, is happy being only a consumer, and imagine that if you and I were the only two citizens in the country, and I was happy thinking that you would create all the outcomes I cared about, and you were happy thinking that I would create all the outcomes you cared about, there wouldn't be anybody to create those outcomes."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:23:54.160",
+        "message": "This is really what's happening at a large scale."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:23:56.080",
+        "message": "Everyone tells themselves they're only a consumer of the outcomes that they want. There are not enough people actually going out and creating the outcomes. Or in fact, there are people going out and creating outcomes contrary to what you and I want. And some of it is quite brutal. I don't know if I sort of mentioned this in our earlier conversation, there was an interesting case about 10 years ago here, in which the court had ruled that people in a certain neighborhood needed to be given what they call a kata. In Bangalore, there are two kinds of katas, there are katas for actual legitimate buildings and katas for not-so-legitimate buildings. And these are called A-kata and B-kata, A being more legitimate. And so one set of people had gone and fought for their B-katas to be converted into A-katas. And the high court, after some prolonged hearing, had actually ruled in their favor. And so they went to the municipal corporation in their local neighborhood and said, well, let this thing change from B to A now. And there was a lot of stalling in that. And then there was a big protest outside the zonal office of the municipality, and it became"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:25:05.080",
+        "message": "sort of a big thing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:25:06.080",
+        "message": "And at one point, and at that time I was in government, I was the Deputy Urban Advisor at that time. And somebody called me up and said, you know, can you sort of help? And I said, well, I educated myself a little bit about it. And then a little while later, the zonal commissioner called me and said, can you come here? I said, why do I need to come here? You've got orders from a court telling you what to do. What's the difficulty with doing it? So he said, if you come here, I'll tell you. So I went over there. I was kind of curious too at this point. So I went over there and he said, Ashwin sir, this is the problem. This file on which I need to make the necessary annotation, it has been taken away by the bad guys physically from my office. So it's all very well for a court to say this should be done, but that doesn't contend with the reality that I'm not in physical possession of the file. What do you expect me to do now? So yes, even problems like that can be solved. I'm not going to get into how that got solved. But what I'm trying to tell you is that we imagine a techno managerial solution to problems that are fundamentally social and political. That sometimes the answer to the problem is not in how, it is in who. And the who has legitimacy by behaving like a compelling citizen, by behaving like a citizen who's comfortable with and engaged in politics. Then you can solve some of these problems. And that's why I told you earlier that when you say my one vote has little voice, if you wrote that letter to 200 people, you'd feel very differently about your voice and so would all your elected representatives. So I actually think that there are very many things that we can actually do to magnify our voice. And the fact that so many other people are quiet, in fact, would magnify your voice even more powerfully because you would have the advantage of their silence too."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:27:07.680",
+        "message": "No, in fact, you know, Roger Daltrey and Entwistle and all of the members of the who would be very excited because you just said the answer lies in the who. But sort of jokes apart, you know, before we move on, what happened in that case? How did you solve out that A khata B khata problem?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:27:23.320",
+        "message": "You have to bend some people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:27:26.280",
+        "message": "Okay. I won't, I won't get into the details of how you do that, but clearly concerned citizens can achieve a lot. Let me, let me sort of your document was fascinating and obviously your document, your presentation, all those links will be there in the show notes for the readers to read. But let me kind of try and simplify it for myself to understand what you're getting at in terms of a new kind of governance. And you can tell me if my sort of summation of it is broadly correct. And you've proposed a number of reforms that need to be made, which we can discuss in detail after this. But the gist of what they do effectively is essentially changing the design of the system and the incentives. And there are a number of ways you point out in which that can be done. Number one is that like you earlier pointed out, a very small percentage of our taxes actually go towards local administration. So especially those taxes which are generated locally should go to the local administration. So there is that link and therefore, you know, that builds that much more accountability and that changes the incentives for them to actually perform to, you change the structure of local governance. So a, they are more empowered, of course, which is a whole new ballgame. But also you try to create a empowered mayors, like, you know, back in the day in, in British times, you know, Rajendra Prasad was a mayor of Patna at one point, people like Raj Gopalachari, Nehru himself, Sardar Patel in Ahmedabad all played great roles, either as mayors or as important people in the municipal councils. And to bring that back, we need empowered mayors and yeah, and Subhash Chandra Bose, of course, who was mayor of Kolkata, and Chitranjan Das, I think just before him, and we need to sort of bring that back. And there are various ways of designing that in terms of the power you give to them in terms that you have, they should not be so short, so they have no time to make a difference, but they should not be so long that you're not getting that constant feedback from the public, which a healthy system needs. Secondly, thirdly, you've spoken about the need for how whichever is a body in charge of planning, in a way is breaking past the problem of different governments performing in silos, because it is making these overarching plans and going down into detail. And the fourth point that you point out, which is, you know, an important nuance is that the departments in charge of planning and implementation have to be separate. Otherwise, you have sort of bad incentives, and that can lead to bad outcomes. So these were sort of the interesting key structural reforms that struck me while I was reading your paper. One, is this broadly correct? Two, have I missed out something important that you'd like to elaborate upon?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:30:03.740",
+        "message": "No, I think these are broadly correct. And I sort of pick on some of these things in particular, because they have the potential for domino effects. The minute you say that planning and implementation have to be separated, some of the greater executive authority for implementation will move away from the planning body and close up to the municipalities. The minute you say that locally attributable taxes should accrue to the local municipality, it makes the executive office holders and the local councillors that much more powerful."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:30:30.980",
+        "message": "Because now I remember a conversation in Davangere, a few years ago with the mayor over there, he said, why should I bother with economic development in my area?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:30:38.420",
+        "message": "I'm not going to get any additional taxes to the council as a result of it. So I go and attract a major company to set up over here, create jobs and all of that"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:30:45.820",
+        "message": "stuff."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:30:46.820",
+        "message": "And virtually all of the taxes that that company and its people would pay go elsewhere. Whereas if you were to say that there are two or three locally attributable taxes, which are quite easy, for example, fuel taxes, right? You could easily give a portion of the fuel taxes to the municipalities in which the fuel stations are located. You could easily give a professional tax to the municipalities where the professionals are working. So there are a set of taxes that you can easily identify as originating from the local economy and for which the local council should have the right to a share. If you did that, every city would start to think that it could compete for more public money and begin to imagine its development as decided by monies that are within its control. Today most municipal bodies and panchayats are saying they're basically trying to figure out how much the state and the center are going to give them. And then they make a plan for what they're going to get as largest almost from these"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:31:47.380",
+        "message": "things."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:31:48.380",
+        "message": "And these things are not done fairly, as I said, by the finance commissions. So I actually think it's much better to create a system where our taxes can go more directly to the local councils. And frankly, even between the state and the center, I find this current practice of collection by the center and subsequent distribution to the states very problematic. We're seeing what's happening with GST. You have two contenders for a pool of money in which effectively there is the asymmetry of possession. The center has possession of the money and therefore can afford delay in deciding the transfer of that money to the states. But I actually think that one could easily imagine a reverse system in which the states keep their portion and pass on the rest of the portion to the center. And if you were to set it up that way, perhaps the states would be in a stronger position. I'm just saying that too many of these collaborative systems between levels of government have become captured in the asymmetric power of one level of government."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:32:49.580",
+        "message": "And this is actually reinforced in the political parties where there is a notion that the MLA"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:32:53.500",
+        "message": "is more important than the corporator and the MP is more important than the MLA and so on and so forth. And the hierarchy of parties now reinforces the hierarchies that emanate from governance itself. And which is unfortunate, but also predictable. The hierarchy in the party is in fact derived from the powers that party people get when they are in government. And if government has a hierarchy, it's natural that the party will derive that hierarchy as well. So I think we need to get to a situation where we nearly see different levels of government as each being equally important to the totality of governance, but not that one level of government is inferior or superior to another level of government. They play a distinct and different role, but they're all equally important. You don't expect your local corporator to organize an army. He just can't do that. That's not his, anywhere near his job. There's a central government for that. But you can't expect the central government to have anything to do with cleaning up the streets in your neighborhood either, but which it seems quite willing to do, and not just this government."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:34:01.540",
+        "message": "I mean, I remember when JNU-RM started, and I think we should go back to the history of"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:34:05.860",
+        "message": "central intervention in urban governance. When the Jawaharlal Nehru Urban Renewal Mission was started up, and this was, I'm going to say, in UPA, in the first term of the UPA, it was, at that time, Dr. Singh, who was prime minister, had even committed himself to his prime ministership being judged on administrative performance. And this was thought to be one of the first steps taken in that direction. It was a complete disaster, because the way it actually played out, it was a very nice, but very predictable game. So the center would pass a set of rules and laws saying these things should be done by the municipalities. And if the municipalities do those things, we'll give them some money. The municipalities will write a letter to the center saying, yes, we promise to do those"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:34:52.380",
+        "message": "things, now give the first tranche of the money, and then the center will give the first tranche of the money."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:34:57.100",
+        "message": "And six months later, the center will write to the municipalities to say, what about those things you promised to do? Have you done that?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:35:02.540",
+        "message": "The municipalities will write back saying, well, you know, it's taking us a little time"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:35:06.460",
+        "message": "to get this started, but don't worry, we're on it, but meanwhile, can you give us the"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:35:09.620",
+        "message": "second tranche of money?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:35:10.620",
+        "message": "And the center would say, well, we're not very happy about this whole situation, but here's the second tranche anyway. And then this sort of would go on to the point where 90% of the money would be transferred without any of the actual promises being made. And everybody on both sides of this letter writing knew perfectly well what was happening. It's not that they somehow stumbled into the well in the dark, but they were quite clear that this is where it was going to go, but it was quite willfully done in that way. What it gives you is plausible deniability, but in fact, it was willful blindness more than plausible deniability, that nobody wanted the political system to change in favor of stronger local governments. And so they were trying to merely create flows of money intended to achieve administratively better outcomes without being committed to processes by which citizens could participate in improving those outcomes themselves. Whereas the first thing, if you really cared about urban development, you would simply say, I'm going to set up a delimitation commission that is permanent and is going to delimit all urban constituencies every 10 years and will make sure that all elections to all councils are held without a break. If you did this, you would get a rhythm to urban governance, which now actually exists in Panchayati Raj, more in the villages, far more than in the urban areas. So in a way, I think that the devil is in the details, unfortunately, but that's always going to be true. What we need is a way of responding to that reality by getting citizens to become familiar"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:36:59.140",
+        "message": "and comfortable with the details."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:37:01.500",
+        "message": "The idea that because these are details, it's difficult for citizens to engage them is self defeating. So you have to really ask and answer the question, how do I get ordinary people to be comfortable with the details? And things like funding ward committees are one way of getting people comfortable with the details. In South Africa, they tried another program, it's called a Neighborhood Improvement Partnership of some kind, a city improvement district, we would call it, then you could actually pay more taxes than you were required to pay."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:37:29.260",
+        "message": "I mean, this is a nice story."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:37:31.380",
+        "message": "Imagine that you have to pay a hundred grand in taxes. You were allowed to pay a hundred and ten. Think of that. People would say, well, my taxes are a hundred grand, but I can pay a hundred and five or a hundred and ten. And people would say, well, nobody would do that. But there was an incentive to pay a hundred and five. The incentive was that if you paid a hundred and five or a hundred and ten, twenty-five would be given back to you to spend as you like in your area. Now think about that, but if enough people voted in favor of such a scheme, and there was a threshold, 60% of the people living in a locality had to sign up for this, and once they signed up, they would be obliged to pay a hundred and five, not just, it wouldn't be voluntary anymore. So, and it would be binding on the other 40% who didn't sign up too. So it was quite a powerfully done thing. And that's the other thing, that council resolutions in India don't have the weight of law. Only state and central governments make law. Councils don't make law. Whereas in many other parts of the world, councils can make laws within the local realm. We need to change that as well. But in any case, so they have this scheme, and so people started paying more taxes so that they could get control back of some of those taxes for implementing projects in their own areas. And initially, it was only the well-off neighborhoods that did that. But eventually, it did get to a point where even the poorer neighborhoods began to believe that by contributing a little bit more to the tax kitty, they would actually get outcomes for themselves that were better than what was being delivered by the government of the day. So they began to participate in some schemes too. And these are quite common in Canada. They're common in New Zealand. They're common in a few places where city improvement districts have been thought through in some way. So there are ways of building citizen participation linked to public funds that get lots of people comfortable with how money is used locally. If you think about it, if you live in a community, like I do, I live in a community of about, I'm going to say, 5,000 adults, like 2,000 families, 4,000 to 5,000 adults live in this community. It is still a community that is probably run by 25 people. And you might say 25 out of 5,000 is a really small number. But these 25 people have a reasonable experience of managing money on behalf of a much larger group of people, and therefore are probably even well-placed to understand the use of public funds in the local area in some way. And these are 25 people whose experience would not have existed previously when the communities were not organized like this. So in a way, I think we have to accept that details are an important part of the answer. Not everybody will be able to or willing to engage with the details, but the few who do or the some who do are performing a vital function in keeping alive a connection between the represented and the representative, and that connection has a multiplier effect because one of those 25 lives above me, I know I can go talk to him, even without being one of the 25. So in a way, I think this is why representative systems for money are probably more important than representative systems by themselves, that fundamentally people begin to understand the potential and the power of pooled funds by participating in these kinds of allocations."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:41:05.020",
+        "message": "And there's no reason why we can't do that. It's not like the guys who are currently allocating money are geniuses. No, I'm very taken in by your example of how the incentives of citizens also change when they know that their money is going directly to a local body. And if they feel that they have some control over where that is going, they might begin to care more. Though I'm a little kind of skeptical of the example you pointed out that, oh, if you pay 105 instead of 100, we will give 25 back to you. Because in any case, they should give 25 back to, you know, in any case, your tax money should be used efficiently. Why do you have to give a further incentive to the thieving state to, you know, give you the services that you need?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:41:44.940",
+        "message": "But sort of. Yeah, I thought about that. I thought about that. I actually think that in India, it would not be such a bad thing, because I think local taxation is very low, is very low. The property taxes that we pay in Mumbai, I think it's reasonably high. But elsewhere, the property taxes are pitifully low that we don't even pay in this city. I'm going to say, if you owned a house that was worth a crore of rupees or a building that was worth a crore of rupees, I don't think you would pay more than 7 or 8,000 rupees on average across different neighborhoods as the property tax per year on that building. If you did this in a developed country, an equivalently priced property would attract at least 10 to 20 times the taxation that it attracts here. So you would end up paying at least a lakh in taxes if the same property was in London. But one could argue that that's why London has a far higher level of public services as a result of it. But the broader point is that there's a trap in this as well. Politicians do not want to propose higher taxes on the public whose vote they are seeking. And this is an important thing. I think certain taxes must have regular and routine upticks. You can't have a property tax base that is so low and be trapped in a system where political leaders or political representatives are unwilling to change it for fear that they will not get"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:43:28.780",
+        "message": "elected."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:43:29.780",
+        "message": "In fact, now that there is no elected council, there's a proposal to increase the property taxes because nobody would take the heat for proposing such an increase. And administrators can be blamed for increasing taxes rather than political people having to take that heat. But I actually think that in the process, we have let ourselves down with public funds"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:43:47.700",
+        "message": "quite a bit. No, I think, you know, the broad thing here is that we can talk about the desirability of these systems in an ideal world where you actually have responsive government which uses these taxes well. In the world that we live in, of course, every Indian will resist higher taxes because 99% of the taxes are wasted anyway in a myriad different ways. And we know that, you know, every Indian instinctively understands that it's a predatory state and politics is basically a game of competing mafias fighting to have the monopoly on violence that the state gives them. But leaving that aside, moving on, the other broad question also, sort of one of the things that struck me when you were speaking is about how the sort of hierarchy of importance within the government from the center to the state to the local is mirrored within the parties. And at that point, my instinctive thought, of course, was that, okay, it's like that in India. It's not like that elsewhere. You'll have primaries in the US and all of that and it's a little more bottom up. But I guess the way the party is organized would be driven by the way the spoils of power are organized and how governance is organized. Now we know that there is this centralizing impulse within the Indian polity and within the Indian state, there is an impulse to consolidate its power in every way possible. Now all of these reforms that we're talking about, that more local funds should go to the local body, more, you know, the mayor should be more empowered and should have, you know, falana dhimkana terms and all of that, all of that is dependent on certain people who are in power giving up some of that power and working against their incentives as it were. So two part question, one is how likely are any of these fundamental changes to happen? And the second part is that it seems that even in the absence of these fundamental changes, concerned citizens like yourself and what you're doing in Bengaluru can actually go out there and still make a difference by working hard with local government where, like you pointed out, there are many people who want good outcomes, but don't know how to get it and don't have the support from civil society. But that second level where you can't make the fundamental changes, but you still get involved and do things at a local level seems almost a jogar solution of sorts, right? Because the state isn't working, let's create this additional layer of citizens who will enable the state to do things that the state should have been able to do on its own in the first place, but is not because it is dysfunctional. So what's your response to sort of these two?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:46:11.260",
+        "message": "I don't accept that. And I'll tell you why, that even if I were to be living in a much better functioning city, I would still look to do things more than the government is already doing. So it might lead to outcomes that are even better, but I wouldn't necessarily withdraw from engaging with government simply because I lived in a much better run city. I've lived in some reasonably well run cities, places like Seattle, for example, and I always felt inclined to work with public issues, even in places like that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:46:41.620",
+        "message": "But coming to your first question, there is an opportunity that is emerging because the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:46:46.380",
+        "message": "political class's preference for punting is now catching up to them. So you have to look at the history of what they did in response to urban migration and in response also to non-uniform population growth in states. So you have to remember that the Southern states stabilized their population at least two to three decades earlier than the Northern states. And there was a perception in the 70s in particular that states that were performing well in stabilizing their populations were in fact losing seats in parliament if those seats were distributed on the basis of population alone. So in the 42nd Amendment, I believe, it was frozen that representation of each state in parliament is, even today, frozen on the basis of the 1971 census. And the fact that population growth in UP and Bihar has been massively different from population growth in Kerala or Tamil Nadu does not count for anything, but the states have virtually the same number of seats they have in parliament as they did at that time, number one. And there is something to be argued against that. I understand that it sort of seems to defy the principle of one person, one vote. But in a federal republic, sometimes these compromises are necessary, and it was certainly seen as part of a political compromise. There's no doubt about that. And then came, during NDA 1, the realization that, so when the 42nd Amendment was passed in the 70s, it was agreed that for 30 years, representation in parliament would be on the basis of the 1971 census. And when we got to the 2001 census, the moment of reckoning had arrived. And so you had to sort of say, it might have been somebody else's punt in the past, but it is today's punt. And when that moment of reckoning arrived, a bunch of people, including Karunanidhi, Chandra Bavanayadu, various constituent supporters of NDA in particular, were extremely wary of sort of saying, well, let's now redo the number of seats on the basis of one person, one vote, because that would have meant that the southern states in particular would lose representation in parliament to some degree, if you redid the numbers. And so they came up with one more political compromise, and that was to say, for 25 more years, we will continue to use the 1971 census. But they did make one concession, which is to say that within states, we will redraw the boundaries of constituencies to reflect higher levels of migration from rural to urban areas. And this is why during the arts, you had this re-delimitation exercise, which one part of the country you lived in went through a delimitation of both parliamentary and state constituencies, but nonetheless keeping the overall numbers of those constituencies within a state the same as before. So, you know, Karnataka continues to have 220-odd seats in the legislature and 28 seats in parliament, but those 228-odd seats of 24, 25, whatever that number is, are not the same boundaries as they were previously, and the 28 parliamentary constituencies are also not the same boundaries as they were previously. So what you have is a situation in which the migratory patterns were accommodated in delimitation. But even that is not based on the 2001 census, that migration is accelerating and continuing, but you don't have further delimitation, and this is why I argued for delimitation again. Once you accepted the principle that inside a state, delimitation is permissible, there's no reason not to do it after every census, but the way it's set up is, oh, we'll look at it again in 2026. That doesn't make any sense. If it was worth looking at in 2003, it was surely worth looking at in 2012, and in 2022, without waiting for 2026. I actually believe that internal delimitation within the state should continue to happen after every census. If you did that, the constituencies will be more accurately reflective of trends in migration. So now we're coming to 2026, it's only five, six years away, so you're going to come to a second moment of reckoning, and here and there, those who talk about federalism will already be referring to that. You may have seen that as well, that essentially people are concerned that even this time, there cannot be any loss of representation in the national government compared to what they already have. And I actually think that if the federal argument were to pick up, one could imagine very many different ways of imagining the national government too, because in larger structures, it's not necessarily true that you have to sort of construct them in only one way."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:51:53.540",
+        "message": "If you look at the European Union, for example, the European Union has a rotating presidency."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:51:58.540",
+        "message": "It doesn't seem to have done very much harm to the notion of a union. So one could argue that we are in some ways able to see and learn from other people's experiences. Many countries now have primary elections. Many countries have non-party primaries as well. So in a way, the unfortunate part in India is that because of the English language, we are more familiar with systems of government in the UK and the US. But among the developed countries of the world, these are the two worst examples that you could be following. That in fact, representative democracy is far deeper in the European Union, far deeper even in a Korea or a New Zealand or Australia than in the UK or in the US. The US, in fact, has a system of government in which the loser of the popular vote has a consistently high expectation of becoming the president anyway. It's a bizarre system that you can lose the popular vote by 3 million people and still become the president. The Republican Party has won the popular vote only once in the last 20 years, but they still"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:53:12.820",
+        "message": "see themselves as an equal contender with the Democrats for the office of the president."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:53:17.500",
+        "message": "So the sad part is that the US and the UK are really poor examples. But because virtually all the news that we get in India from abroad tends to be from these two countries, we don't imagine systems of government that are very different. The South Africans, for example, they had their first election only in the 90s, right?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:53:36.300",
+        "message": "But from the very outset, they have proportionate representation."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:53:39.780",
+        "message": "Proportionate representation has made each vote count a lot more than the first-past-the-post system that we have. But the first-past-the-post system is what the UK and the US use, which very few other significant democracies use. Even in the UK, members of the European Parliament were not elected on a first-past-the-post system. They were elected on proportionate basis. So broadly, there are other systems of representative government that are proven to be better. So there's no reason why we can't be learning from those systems instead."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:54:10.060",
+        "message": "Yeah, I mean, in an episode, I think episode 149 that I did with JP Narayan, he made, you know, many of the same points about proportional representation and all that. And you seem to be talking of, you know, 2026 and, you know, as a sort of a potentially pivotal moment in this. But do you see, you know, a different direction emerging in the way that we, you know, practice our democracy, whether it's the changing of the voting system or whether it's, you know, in the level of federalism or whatever? Do you, one, see a fundamental shift happening somewhere, and two, if there is, what do you think will be the political impetus for that shift happening?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:54:49.580",
+        "message": "So, the political, I mean, the proximate political impetus for whatever might happen in 2026 is that if you do not do something, you will revert to the pre-1971 situation, therefore, you must do something."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:55:06.460",
+        "message": "So you don't have the luxury of not doing anything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:55:09.500",
+        "message": "So, the 42nd Amendment and the 84th or 87th, whichever amendment extended it to another 25 years, have sunset clauses. So the sunsetting of those amendments would put you in a pre-1971 situation, which would require delimitation on the basis of the most recent census and apportionment of seats on that basis, which I'm certain would be highly unacceptable to parties across low population growth states. And today, the difference between the low population growth states and the high population growth states is quite stark, even more so than it was in the 70s or the 90s. Today, if you read the vote on the basis of population within states, it's quite likely that Karnataka will lose three or four seats, Tamil Nadu will lose five or six seats, Kerala will lose two or three seats. You would get an across-the-board loss of 15 seats in the national parliament in South India. You might get similar losses of seats in the Northeast. You would essentially get, broadly, a government of North India, with a few others in support in election after election. So I think the same impetus that made people stand up in the 70s and the late 90s against the one person, one vote, continue to exist in regional politics even today. So I expect some sort of compromise from that to emerge, even if we have a dominant political party on one side of the spectrum. And I think, you know, the important thing is for us, both as a people and in a political class, to be able to navigate these kinds of questions responsibly, because they have the potential to become flashpoints as well. And therefore, responsible stewardship of these things is important. And I really, you know, I think NDA1 did a really good job of stewarding this with the compromise that was made on internal delimitation. I just wish it had gone further and made internal delimitation a decadal exercise rather than a one-time exercise. I think there are still enough people with maturity and, you know, genuine regard for the Indian Union to take this transition also in stride. But it requires a lot more people being supporters of such responsible stewardship as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:57:34.020",
+        "message": "So, you know, we've almost, we've hit the three-hour mark. And here's an interesting question to sort of wind down towards the end of this episode, which is, does good governance require good citizens? Because at some level, what you seem to be saying is, and this seems almost directed at me personally, that Amit, you are too apathetic. You can make change. Don't give up hope. You have to get your butt out there and try to get change done and stop complaining about the predatory state and then good things will happen. The state will not only become less predatory, it will do the things that it is supposed to do for you. Now, I am a little skeptical about this because I think that the design of the state should create such incentives which guarantee good governance without every citizen needing to be a good citizen. You know, in much the same way that one often says that you should design a state in such a way with such checks and balances that even if a very bad person comes to power as a head of the state, he can't do much damage because, you know, there are enough safeguards and all built in. Equally, I would say that you should design a state in such a way that you don't necessarily need and require responsive citizens to go out of their way to make sure that the garbage is, you know, picked up from outside the building. It should be in the design of the system and the incentives of the state that it serves you anyway. So does good governance require good citizens?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:58:50.100",
+        "message": "I want to read you a passage from Ken Robinson's book, The Element. My brother, Ian, is a musician. He plays drums, piano, and bass guitar. Years ago, he was in a band in Liverpool that included an extremely talented keyboard player named Charles. After one of their gigs, I told Charles how well I thought he played that night, and then I said, I'd love to be able to play keyboards like that. And he responded, no, you wouldn't."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:59:21.620",
+        "message": "I was taken aback by that, and I insisted that I really would love to be able to play"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:59:25.100",
+        "message": "keyboards like that. No, he said. You mean you like the idea of playing keyboards. If you'd really love to play them the way I'm doing it, you'd be doing it. To play as well as he did, he practiced every day for three or four hours in addition to performing. He'd been doing that since he was seven. You can see where I'm going with this, that a very large number of people have a certain imagination of their agency and willingness, which is fundamentally at odds with what they say they care about. This isn't hypocrisy. So, I want to be careful that I'm not accusing you of being hypocritical in saying that. But this is genuinely a failure to recognize what it takes to become a great keyboard player or as much a great citizen. There isn't an easy way to be a great citizen. And if we are looking for easy ways to become great citizens, then we're doing our country"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:00:26.980",
+        "message": "a disservice. That's actually orthogonal to what I asked because I'm not, you know, how we define a great citizen can sort of differ, like I'm, you know, I don't understand why you have to define a citizen as good or bad because citizens don't exist for the sake of the state. The state exists for the sake of the citizens. So I don't really care if a citizen is good or bad. I care if the state is good or bad. And a lot of that has to do with sort of the design of the state itself. And so I don't even understand that this is not like keyboard playing. I am, therefore I exist. I am a citizen. Good or bad for whom?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:01:01.500",
+        "message": "I don't know, I'm not denying that. What I'm pointing out is the state is a construction of the citizens, that whereas there may have been one construction of it or several constructions of it in the past, it is nonetheless obligatory on our part to reimagine a new construction of it in line with our imagination of what we want it to be today, too. That's really what I'm trying to say, that we don't have to take prior constructions of the state as the only imagination of it possible today. And as much as it is difficult to engage with this really difficult beast in some way, and I think that's the part that I hear quite emotionally from you even, it is difficult. But I don't see any other way. That's all I'm really trying to say. I can't think of any other way that has even the limited potential of, it's sort of like saying you've come to an obstacle, a bunch of woods along your journey, and there's no"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:02:10.500",
+        "message": "way around it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:02:11.500",
+        "message": "It's only through it that you have to go. And it's certainly true that going through it isn't easy, but I don't think there's any path around it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:02:19.740",
+        "message": "No, no. I just want to say that I would love it if 100% of my listeners are in 100% agreement with you and they engage with the state and all of that. I myself am inspired by a lot of what you say. One thing that I'm trying to point out is, though I'm getting a little meta and I'm saying that the locus of the problem is not the citizen's engagement with the state. It is a design of the state, which is also at the same time a disincentive on the citizen engaging with it, which is not therefore a reason for me to give up. It is a reason for, I think, deeper thinking and not imagine that just engagement alone is a solution, which I don't believe it is. I think as much as we engage, and it's obviously a simultaneous process, as much as we engage to get the state to be responsive in the ways that it can actually be responsive to us, I think we also need to think about the broader root causes of the problem and take that seriously and in whatever way we can keep that discourse going."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:03:22.980",
+        "message": "I think we're saying the same thing to each other. This word alone wasn't added by me. I also did not contend that engagement alone is the answer. I think you're certainly right in pointing out that more than engagement is needed. I look at engagement as necessary but not sufficient. So in a way, so I say, look, if it's necessary but not sufficient, let's set about doing the necessary part, and perhaps the sufficient things will also emerge along the way. And maybe I'm just not bright enough to have thought about what the sufficient parts also are. But I also remember something that I said to you the last time we had such a long conversation, which was that I see myself as an inheritor of other people's struggles for a progressive society, that I would not say that someone like Gokhale failed because he did not live to see independence. I wouldn't say that somebody like Jayaprakash Narayan failed because the reimagination of land reform that he advocated didn't happen fully. I think each of us in our lives has a role to play in this larger imagination of the life of the country. And we have to be comfortable with the idea that we're contributing to it. And I've said this to you too. I think your podcast is an important contribution to these conversations. I heard Arvind say a few weeks ago on your show that you haven't really arrived as a public intellectual until you're on this show."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:04:54.580",
+        "message": "Anyway, I sent you my thoughts about that separately. But in any event, I think programs like this are an important part of that journey as well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:05:03.780",
+        "message": "And I really, I think one could say at a much smaller level, is this enough? No. Is this necessary? Yes. I think it's necessary."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:05:13.460",
+        "message": "These are such wise words, Red. I'll happily let you have the last word here. Ashwin, thanks so much for being so generous with your time and insights. I really appreciate you coming on the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:05:21.420",
+        "message": "Okay."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:05:22.420",
+        "message": "You know, I have to say that I really enjoyed this conversation."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:05:26.180",
+        "message": "I was a little bit at the beginning unsure how much of a conversation about urbanization alone we could have for a long period. I think, by and large, I've tended to do the longer episodes on your program, too. Even the last one was quite long. And I can see now we're above the three-hour mark. You should take some liberty to cut out certain things. But it's definitely been a good conversation for me. And sometimes I think these conversations educate me as much as I'm trying to tell my point of view to other people. I want to thank you also for the opportunity to come and have this conversation on your show. And if it disseminates a bunch of ideas that are interesting and important for others to engage with, that's really the thing that I'm trying to do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:06:19.940",
+        "message": "If you enjoyed listening to this episode, check out the show notes where I've linked to Ashwin's site, ashwinmahesh.in, and some of his writing. You can follow Ashwin on Twitter at Ashwin Mahesh. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse past episodes of The Scene in the Unseen at sceneunseen.in. Thank you for listening. Did you enjoy this episode of The Scene in the Unseen? If so, would you like to support the production of the show? You can go over to sceneunseen.in slash support and contribute any amount you like to keep this podcast alive and kicking. Thank you."
+    }
+]

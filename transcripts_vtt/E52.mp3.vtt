@@ -1,0 +1,2123 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.640
+[Amit Varma]: It's been 70 years since India became an independent country and my god what we've
+
+00:00:08.640 --> 00:00:13.440
+[Amit Varma]: had to get through to get here. There were so many challenges that we faced, so many barriers
+
+00:00:13.440 --> 00:00:19.440
+[Amit Varma]: that we needed to overcome to stay one united country. We were divided by language, ethnicity,
+
+00:00:19.440 --> 00:00:27.200
+[Amit Varma]: religion and most of all, perhaps the deepest division of all, by caste. And now 70 years after
+
+00:00:27.200 --> 00:00:37.040
+[Amit Varma]: we became independent, caste remains our greatest shame. Welcome to The Seen and The Unseen,
+
+00:00:37.040 --> 00:00:42.320
+[Unknown]: our weekly podcast on economics, politics and behavioral science. Please welcome your host,
+
+00:00:42.320 --> 00:00:49.120
+[Amit Varma]: Amit Badma. Welcome to The Seen and The Unseen. Before we get into today's episode,
+
+00:00:49.120 --> 00:00:54.080
+[Amit Varma]: a quick note from our sponsor this week. If you are a lover of art and want to get some into your
+
+00:00:54.080 --> 00:00:59.760
+[Amit Varma]: home, head on over to IndianColors.com. Indian Colors is a company that licenses the work of
+
+00:00:59.760 --> 00:01:06.080
+[Amit Varma]: top Indian artists and adapts it into objects of everyday use, including wearable art like stoles
+
+00:01:06.080 --> 00:01:11.840
+[Amit Varma]: and kaftans, home decor like cushion covers and table runners, and accessories like tote bags.
+
+00:01:12.800 --> 00:01:18.160
+[Amit Varma]: This allows art lovers to actually get fine art into their homes at an accessible price.
+
+00:01:18.160 --> 00:01:23.760
+[Amit Varma]: And artists get royalties and sales, just like authors do. The artists whose work you'll find
+
+00:01:23.760 --> 00:01:29.760
+[Amit Varma]: here include luminaries like Dhruvi Acharya, Sameer Mondal, Vasvo x Vaxvo, Brinda Miller,
+
+00:01:29.760 --> 00:01:35.440
+[Amit Varma]: Shruti Nelson, and my favorite, Harin Vakil. Do check it out at IndianColors.com, that's
+
+00:01:35.440 --> 00:01:44.800
+[Amit Varma]: Colors with an OU, and use the code IVM20 for a 20% discount. Remember, IVM20 at IndianColors.com,
+
+00:01:44.800 --> 00:01:52.000
+[Amit Varma]: Colors with an OU. Moving on. Today's episode is about the increasing caste tensions
+
+00:01:52.000 --> 00:01:57.760
+[Amit Varma]: in modern India. When the republic was founded, our founders knew how great this challenge was.
+
+00:01:57.760 --> 00:02:02.800
+[Amit Varma]: Babasaheb Ambedkar drafted the constitution after all. They had enlightened thoughts on what to do
+
+00:02:02.800 --> 00:02:10.240
+[Amit Varma]: about caste. But caste has not only not gone away in modern India, it continues to be a huge cause
+
+00:02:10.240 --> 00:02:16.800
+[Amit Varma]: of social strife. My guest today, Shruti Rajagopalan, is a constitutional economist who
+
+00:02:16.800 --> 00:02:22.640
+[Amit Varma]: teaches economics at Purchase College in the State University of New York, and describes herself as
+
+00:02:22.640 --> 00:02:28.160
+[Amit Varma]: quote, interested in the economic analysis of legal and political institutions, unquote.
+
+00:02:29.040 --> 00:02:33.840
+[Amit Varma]: She has viewed caste conflicts in India through an economic lens, and I find her analysis of caste
+
+00:02:33.840 --> 00:02:37.680
+[Amit Varma]: absolutely fascinating. Here's a conversation we had a few days ago.
+
+00:02:37.680 --> 00:02:43.920
+[Amit Varma]: Shruti, welcome to the scene and the unseen. Hi Amit, thanks for inviting me.
+
+00:02:43.920 --> 00:02:49.440
+[Amit Varma]: Shruti, it's been 70 years since independence. And I think one of the causes of our great shame
+
+00:02:49.440 --> 00:02:54.080
+[Amit Varma]: is that we still haven't solved the biggest problem we started out with, which is caste.
+
+00:02:54.080 --> 00:02:58.240
+[Amit Varma]: We were a country divided by many things. But most of all, I think you'd agree that it was
+
+00:02:58.240 --> 00:03:02.240
+[Amit Varma]: caste that divided us and people came up with different solutions. You know, reservations
+
+00:03:02.240 --> 00:03:06.880
+[Amit Varma]: were supposed to be part of the solution. There were others who believed that as we move towards
+
+00:03:06.880 --> 00:03:13.600
+[Amit Varma]: prosperity, caste distinctions will automatically dissipate, urbanization will help. But more and
+
+00:03:13.600 --> 00:03:18.560
+[Amit Varma]: more we find India is a country divided on lines of identity with caste being the biggest one of
+
+00:03:18.560 --> 00:03:25.920
+[Amit Varma]: them. And, you know, I've heard you talk about the structural reasons behind this from an economist
+
+00:03:25.920 --> 00:03:33.040
+[Guest]: point of view. So that's what I want to talk about today. Yeah, Amit. So I think you started off
+
+00:03:33.040 --> 00:03:38.560
+[Guest]: identifying the problem correctly. India started out as a highly fractionalized society at the
+
+00:03:38.560 --> 00:03:45.760
+[Guest]: birth of the republic along the lines of religion, caste, language, more than anything else. And yet
+
+00:03:45.760 --> 00:03:52.560
+[Guest]: it is the caste fractionalization that has caused more tensions and has sort of been more exacerbated
+
+00:03:52.560 --> 00:03:58.960
+[Guest]: over the last 70 years. And I think a large part of it is because of certain government policies.
+
+00:03:58.960 --> 00:04:04.800
+[Guest]: So just to clarify, caste is not a government-created problem, but the last 70 years of
+
+00:04:04.800 --> 00:04:11.200
+[Guest]: government policy, one with the economic structure of socialism, romanticizing villages and, you
+
+00:04:11.200 --> 00:04:16.320
+[Guest]: know, some more specific stuff that we'll get to in a minute, I think government policies have
+
+00:04:16.320 --> 00:04:24.640
+[Guest]: exacerbated the caste issue rather than solving it. So that's sort of the way I would think about
+
+00:04:24.640 --> 00:04:32.000
+[Guest]: it. You also mentioned that I'm an economist and there is an economic point of view when you think
+
+00:04:32.000 --> 00:04:40.080
+[Guest]: about caste. So let me just, you know, first of all, put it out there that of all the perverse
+
+00:04:40.080 --> 00:04:47.440
+[Guest]: practices we have in India, caste is probably the very worst of them. I think it's appalling the way
+
+00:04:47.440 --> 00:04:56.400
+[Guest]: we treat about 40% of our society. I think there is a high degree of upper caste elitism that is
+
+00:04:56.400 --> 00:05:02.800
+[Guest]: unforgivable and unjust and should just not be accepted in modern day. Now, having said that,
+
+00:05:03.680 --> 00:05:10.000
+[Guest]: and this is not apologizing for caste structures, but just merely explaining it, the caste system
+
+00:05:10.000 --> 00:05:17.200
+[Guest]: has existed for a very long time. So I think first we need to acknowledge that it's not possible
+
+00:05:17.200 --> 00:05:24.560
+[Guest]: to just undo it in a day or even in a couple of decades. It will take a long time to go away.
+
+00:05:25.680 --> 00:05:30.800
+[Guest]: There are different kinds of caste practices that are problematic. The most important being
+
+00:05:30.800 --> 00:05:36.560
+[Guest]: that you must follow the occupation that belongs to your family and you cannot easily switch out
+
+00:05:36.560 --> 00:05:42.960
+[Guest]: of occupations. I think that's one of the worst. And then there are more or less benign versions
+
+00:05:42.960 --> 00:05:50.480
+[Guest]: of it, which is in terms of the kind of food you eat or, you know, marriage endogamy, which
+
+00:05:50.480 --> 00:05:58.240
+[Guest]: is quite an awful idea, but it's also difficult to regulate people and rather wrong to regulate
+
+00:05:58.240 --> 00:06:03.200
+[Guest]: who people marry. So there are certain caste practices that are going to be more entrenched,
+
+00:06:03.200 --> 00:06:07.440
+[Guest]: are going to take longer, are going to be more persistent. And there are certain caste practices,
+
+00:06:07.440 --> 00:06:11.360
+[Guest]: such as those in the labor market, which really should have gone away, which haven't yet gone away.
+
+00:06:11.360 --> 00:06:16.880
+[Guest]: So thinking about this from that point of view, I would first say that if you think about this as
+
+00:06:16.880 --> 00:06:26.160
+[Guest]: any reasonable human being who believes in liberty and justice, a liberal society is where each
+
+00:06:26.160 --> 00:06:32.880
+[Guest]: individual gets to make a choice about the type of individual they wish to become. So the caste
+
+00:06:32.880 --> 00:06:39.440
+[Guest]: system is illiberal at its very core, no matter which way you slice it. The fact that no group
+
+00:06:39.440 --> 00:06:46.880
+[Guest]: is given a choice and some groups are superior to others, and that at birth, your entire life,
+
+00:06:46.880 --> 00:06:52.480
+[Guest]: your habits, your occupation, who you marry, everything is set out for you and you have no
+
+00:06:52.480 --> 00:06:59.920
+[Guest]: choice in those decisions, is a fundamentally illiberal society, right? Now that's the liberty
+
+00:06:59.920 --> 00:07:06.320
+[Guest]: and justice problem. What is the economic problem? If you think about liberal markets,
+
+00:07:06.320 --> 00:07:12.400
+[Guest]: or rather a market economy, the core idea is that resources go to the highest valued use
+
+00:07:12.400 --> 00:07:20.640
+[Guest]: in a functional economy. The caste system shackles human capital, right? So the caste system is an
+
+00:07:20.640 --> 00:07:29.440
+[Guest]: extremely market unfriendly structure, which actually interferes with the functioning of the
+
+00:07:29.440 --> 00:07:36.960
+[Guest]: functioning of the market. Now what do I mean by shackles human capital? Now think of Ambedkar. He
+
+00:07:36.960 --> 00:07:44.240
+[Guest]: was born in the Mahar community within the caste system. He was predestined to follow some menial
+
+00:07:44.240 --> 00:07:50.240
+[Guest]: occupation in the village. The highest he could have risen to, which his family did rise to at
+
+00:07:50.240 --> 00:07:54.640
+[Guest]: that point in time, was to join the British military, which also had its caste segregation
+
+00:07:54.640 --> 00:08:00.720
+[Guest]: problems, but they at least got out of the village parochial caste system. So that's about the best
+
+00:08:00.720 --> 00:08:07.280
+[Guest]: he could have done given those caste structures. And look at what Ambedkar did. His highest valued
+
+00:08:07.280 --> 00:08:15.680
+[Guest]: use was not to be a gopher in the village, in the back streets of a village carrying filth around.
+
+00:08:15.680 --> 00:08:21.600
+[Guest]: His highest valued use is to write the Indian constitution and literally give birth to the
+
+00:08:21.600 --> 00:08:28.240
+[Guest]: republic. Now the caste system interferes in this process. So this is a really big problem. If
+
+00:08:28.240 --> 00:08:34.400
+[Guest]: resources cannot go to their highest valued use, how many Ambedkars are existing in India who are
+
+00:08:34.400 --> 00:08:41.120
+[Guest]: completely invisible, who could make their life better, who could make Indian society so much
+
+00:08:41.120 --> 00:08:48.720
+[Guest]: better and cannot because they are trapped in a particular structure where elites control
+
+00:08:48.720 --> 00:08:54.480
+[Guest]: all their choices. So that is the problem of the caste system, if you think of it from the
+
+00:08:54.480 --> 00:08:59.600
+[Guest]: point of view of human capital in a market economy and the movement of human capital
+
+00:08:59.600 --> 00:09:06.320
+[Amit Varma]: in the market economy. Now that identifies a problem and this problem is something which
+
+00:09:06.320 --> 00:09:11.600
+[Amit Varma]: was identified and prioritized by our founders in a sense. Ambedkar himself was one of the
+
+00:09:11.600 --> 00:09:16.880
+[Amit Varma]: framers of the constitution. What are the mistakes we've made in framing the solutions to this
+
+00:09:16.880 --> 00:09:24.800
+[Guest]: problem? So I would say again, like I mentioned before, government didn't create the caste
+
+00:09:24.800 --> 00:09:30.800
+[Guest]: system, but there are certain economic policies that followed that certainly exacerbated the
+
+00:09:30.800 --> 00:09:38.640
+[Guest]: caste system. And I think I can definitely identify four specific sort of problematic
+
+00:09:38.640 --> 00:09:45.360
+[Guest]: areas with the government. The first two are quite simple and along the lines of what we've
+
+00:09:45.360 --> 00:09:50.480
+[Guest]: been discussing. That is the restrictions that the state places on the movement of physical
+
+00:09:50.480 --> 00:09:55.920
+[Guest]: capital, especially agricultural physical capital in India. And the second is the restrictions on
+
+00:09:55.920 --> 00:10:02.240
+[Guest]: movement of human capital. So let me elaborate on both of them. Now when it comes to physical
+
+00:10:02.240 --> 00:10:09.040
+[Guest]: capital, the idea is that physical capital also goes to its highest valued use and is not trapped
+
+00:10:09.040 --> 00:10:15.040
+[Guest]: in the hands of the human capital, which is also shackled. So for instance, if you think of the
+
+00:10:15.040 --> 00:10:21.680
+[Guest]: existing caste divisions, you know, blacksmith uses blacksmith tools, upper castes have are
+
+00:10:21.680 --> 00:10:29.120
+[Guest]: landowning and engage in farming and so on and so forth, right? Now in a market society, the
+
+00:10:29.120 --> 00:10:34.240
+[Guest]: best person to be a blacksmith should be the person using the blacksmith tools. And the best
+
+00:10:34.240 --> 00:10:41.280
+[Guest]: farmer should have that agricultural land. We don't have that system simply because of the
+
+00:10:41.280 --> 00:10:47.840
+[Guest]: number of restrictions that are imposed on how property will switch hands. So you've already
+
+00:10:47.840 --> 00:10:53.920
+[Guest]: done a couple of podcasts with some of our wonderful friends on the restrictions in
+
+00:10:53.920 --> 00:11:00.800
+[Guest]: agriculture, most importantly on land use in agriculture. Most states don't allow farmers to
+
+00:11:00.800 --> 00:11:07.760
+[Guest]: sell to non-farmers. There is a lot of bureaucracy that is involved in converting land from
+
+00:11:07.760 --> 00:11:15.200
+[Guest]: agricultural use into other uses. This essentially means that the landowning class cannot exit that
+
+00:11:15.200 --> 00:11:21.040
+[Guest]: system very easily, even if they wish to be engaged in some other activity. Now this is
+
+00:11:21.040 --> 00:11:26.400
+[Guest]: obviously mostly upper castes, but caste system does shackle everybody to a certain extent,
+
+00:11:26.400 --> 00:11:32.160
+[Guest]: right? And this is an example of how it might shackle relatively well off upper castes. If you
+
+00:11:32.160 --> 00:11:37.440
+[Guest]: look at the kind of protests that are taking place in India today with the partidars in Gujarat,
+
+00:11:37.440 --> 00:11:44.560
+[Guest]: or Kapus in Andhra Pradesh, one of the really big problems is these are landowning groups,
+
+00:11:45.520 --> 00:11:51.200
+[Guest]: and their land is not as productive anymore. And it's not very easy to exit agriculture
+
+00:11:51.200 --> 00:11:55.280
+[Guest]: the way it was in other countries when they were going through the transition of
+
+00:11:55.280 --> 00:12:00.240
+[Guest]: low agricultural productivity or improvements in agricultural productivity. So then it took fewer
+
+00:12:00.240 --> 00:12:06.560
+[Guest]: people to engage in agriculture. So now we have a situation where even upper castes agitate.
+
+00:12:06.560 --> 00:12:13.040
+[Guest]: Now imagine this also in terms of lower caste groups. If you think of villages and the way
+
+00:12:13.040 --> 00:12:20.080
+[Guest]: villages are built, they are highly segregated, right? No caste group can just earn more money
+
+00:12:20.080 --> 00:12:25.680
+[Guest]: and make a bigger home or a bigger mansion, or try and get access to better public goods and
+
+00:12:25.680 --> 00:12:32.640
+[Guest]: services. This is directly related to how do we zone these areas? How do we manage land use?
+
+00:12:32.640 --> 00:12:37.360
+[Guest]: And how do we easily convert land use from one type of use to another type of use
+
+00:12:37.360 --> 00:12:41.760
+[Guest]: for free movement of physical capital? So sometimes physical capital doesn't have to
+
+00:12:41.760 --> 00:12:48.880
+[Guest]: literally move like tools. It can move in terms of the resource that it provides to society.
+
+00:12:48.880 --> 00:12:53.520
+[Guest]: So the land can stay in the same place and move from agricultural use to something completely
+
+00:12:53.520 --> 00:12:59.680
+[Guest]: different and far more productive. And we don't allow that, making the caste problem worse in
+
+00:12:59.680 --> 00:13:06.400
+[Guest]: the sense that it shackles people to what they were supposed to be at birth, which is determined
+
+00:13:06.400 --> 00:13:12.080
+[Guest]: by caste in India and pretty much nothing else. Now the problem gets worse when you talk about
+
+00:13:12.080 --> 00:13:18.240
+[Guest]: shackling of people's human capital. If you're the son of a farmer and destined to be a farmer,
+
+00:13:18.240 --> 00:13:23.760
+[Guest]: or if you're the son of a potter and destined to be a potter, then the village structure is
+
+00:13:23.760 --> 00:13:31.280
+[Guest]: extremely problematic when it comes to you moving to your highest valued use. There was no
+
+00:13:31.280 --> 00:13:38.400
+[Guest]: constitution to be drafted in Ambedkar's village. Ambedkar had to leave. So now how do we figure
+
+00:13:38.400 --> 00:13:44.480
+[Guest]: out a process by which groups that are not happy, and this is mostly lower caste groups because of
+
+00:13:45.520 --> 00:13:51.200
+[Guest]: decades and centuries of oppression, but also in some cases upper caste groups who are shackled
+
+00:13:51.200 --> 00:13:58.240
+[Guest]: in their particular occupation, how do they leave? You mostly leave in the stages of development that
+
+00:13:58.240 --> 00:14:04.640
+[Guest]: India is in presently. You usually leave when there is industrialization and cities become
+
+00:14:04.640 --> 00:14:10.000
+[Guest]: bigger, towns become bigger, and manufacturing units start demanding more workers. Now what
+
+00:14:10.000 --> 00:14:16.560
+[Guest]: has happened in India with its horrific labor law setup is that India has made it extremely
+
+00:14:16.560 --> 00:14:23.840
+[Guest]: difficult for its entrepreneurs to hire labor and to hire labor formally. So what happens is
+
+00:14:24.400 --> 00:14:29.920
+[Guest]: labor is hired informally. We don't have very good estimates, but we know that the informal
+
+00:14:29.920 --> 00:14:36.080
+[Guest]: share of the labor market is way bigger than the formal share. Some people say twice as big,
+
+00:14:36.080 --> 00:14:41.520
+[Guest]: some people say three times as big. So we know it's a very, very large group. So how do you
+
+00:14:41.520 --> 00:14:48.960
+[Guest]: think about that? People are not easily able to leave their existing job if they can't have an
+
+00:14:48.960 --> 00:14:54.240
+[Guest]: assurance that they will easily get a new job. So if you're a blacksmith in a village or a porter
+
+00:14:54.240 --> 00:15:00.000
+[Guest]: in a village and it's not very productive and your village is a hellhole when it comes to caste
+
+00:15:00.000 --> 00:15:05.120
+[Guest]: structures, it's not easy for you to leave because no one will hire you and no one will hire you
+
+00:15:05.120 --> 00:15:11.920
+[Guest]: because the state has made it extremely difficult to hire people and skill them. This is a really
+
+00:15:11.920 --> 00:15:18.400
+[Guest]: big problem. So labor law reform, when we think about it outside of the caste system, what we
+
+00:15:18.400 --> 00:15:23.120
+[Guest]: mean is that labor should be easily able to move from one kind of unit to another kind of unit.
+
+00:15:23.760 --> 00:15:28.560
+[Guest]: In other words, when an industry is booming and demanding more labor and human capital,
+
+00:15:29.120 --> 00:15:34.080
+[Guest]: it should be able to freely flow to that industry and dying businesses that are not profitable,
+
+00:15:34.080 --> 00:15:38.800
+[Guest]: that are not using resources to their highest value of use, should be allowed to close.
+
+00:15:40.720 --> 00:15:47.280
+[Guest]: That's not the case in India. So labor is not able to move freely. So even without the parochial
+
+00:15:47.280 --> 00:15:52.800
+[Guest]: caste system, we've created a new caste system in India with our existing labor framework
+
+00:15:53.440 --> 00:15:58.080
+[Guest]: because people are stuck in the jobs that they get. It's very difficult to switch jobs and it's
+
+00:15:58.080 --> 00:16:04.880
+[Guest]: very difficult to close industries and start new ones. Now add caste to this problem, you get a
+
+00:16:04.880 --> 00:16:11.680
+[Guest]: particular situation where for each formal job there are 10 people applying for it. So of course
+
+00:16:11.680 --> 00:16:18.080
+[Guest]: the person who is choosing among those applications can discriminate more easily based on his existing
+
+00:16:18.080 --> 00:16:26.080
+[Guest]: caste prejudice. So prejudice is much more easy to exercise when there is artificial shortages that
+
+00:16:26.080 --> 00:16:32.240
+[Guest]: are created. We've created an artificial shortage and now anyone in the formal economy who is doing
+
+00:16:32.240 --> 00:16:37.520
+[Guest]: the choosing can impose all their prejudices in that process. So I just wanted to clarify. So
+
+00:16:37.520 --> 00:16:42.080
+[Amit Varma]: essentially what you're saying is that because there is a scarcity of formal jobs, there is far
+
+00:16:42.080 --> 00:16:46.560
+[Amit Varma]: greater demand for them than the supply and the people who are in power can then will just choose
+
+00:16:46.560 --> 00:16:52.080
+[Guest]: the guy from his village or his caste or whatever. I think that's the second part of what I'm saying.
+
+00:16:52.080 --> 00:16:57.040
+[Guest]: The first part of what I'm saying is that it's very difficult for someone to leave their
+
+00:16:57.040 --> 00:17:04.080
+[Guest]: predestined caste allotted occupation in the first place because it's very difficult to transition
+
+00:17:04.080 --> 00:17:11.040
+[Guest]: from one sector of the economy to other sectors of the economy in India because it is so difficult
+
+00:17:11.040 --> 00:17:15.440
+[Amit Varma]: to hire and fire labor. Yeah, I was getting to that. So one, you have the existing caste
+
+00:17:15.440 --> 00:17:21.280
+[Amit Varma]: imbalances perpetuating themselves and other, you have fewer people like someone trapped as a
+
+00:17:21.280 --> 00:17:25.920
+[Amit Varma]: potter in a village or a blacksmith or whatever, you have fewer of them willing to actually make
+
+00:17:25.920 --> 00:17:29.840
+[Amit Varma]: the move towards cities because most of the jobs available will be informal jobs with no
+
+00:17:29.840 --> 00:17:36.240
+[Amit Varma]: guarantees of security and, you know, less chances of upskilling and so on. Absolutely.
+
+00:17:37.040 --> 00:17:43.680
+[Guest]: And there is a third aspect to that problem. The more informal the labor market, the more you need
+
+00:17:43.680 --> 00:17:49.600
+[Guest]: to rely on pre-existing networks, which in India is mostly based on religion, language and caste.
+
+00:17:49.600 --> 00:17:54.400
+[Guest]: So let's say that a potter is extremely entrepreneurial and actually manages to
+
+00:17:54.400 --> 00:18:00.560
+[Guest]: break out of the parochial village system. When he reaches the city, the only network he can reach
+
+00:18:00.560 --> 00:18:07.040
+[Guest]: out to is the existing caste network because no one else will accept him, right? Now, that is an
+
+00:18:07.040 --> 00:18:12.080
+[Guest]: old problem. But why does he need that network? He needs it to survive because he's part of an
+
+00:18:12.080 --> 00:18:19.360
+[Guest]: extremely uncertain and vulnerable in the informal sector of the economy. He can't get a formal job
+
+00:18:19.360 --> 00:18:25.120
+[Guest]: in the process. The people who look after him are his caste community. So we are sort of
+
+00:18:25.120 --> 00:18:30.720
+[Guest]: perpetuating, because of the informal market structure, we are perpetuating village parochialism
+
+00:18:31.440 --> 00:18:36.800
+[Amit Varma]: and it's sort of entering urban areas. And this is very interesting to me because normally when
+
+00:18:36.800 --> 00:18:41.120
+[Amit Varma]: we talk about these subjects like labor laws, like not being able to sell agricultural land
+
+00:18:41.120 --> 00:18:46.560
+[Amit Varma]: for non-agricultural purposes, we talk of them in the context of how, you know, the lack of
+
+00:18:46.560 --> 00:18:52.160
+[Amit Varma]: economic freedom can get in the way of prosperity, you know, economic freedom leading to prosperity.
+
+00:18:52.160 --> 00:18:57.600
+[Amit Varma]: But what you're pointing out here is that it's not just about economics, they actually exacerbate
+
+00:18:57.600 --> 00:19:04.880
+[Guest]: social divisions by reducing mobility. Absolutely. And to me, honestly, I know that the
+
+00:19:04.880 --> 00:19:10.800
+[Guest]: traditional way to think about caste is hegemonic power structures. And there's a lot of merit in
+
+00:19:10.800 --> 00:19:16.960
+[Guest]: that. And I'm very interested in that literature. But to me, the caste system is entirely about
+
+00:19:16.960 --> 00:19:25.520
+[Guest]: economic freedom. Right. So if you, we have robbed the entire country, especially the most
+
+00:19:25.520 --> 00:19:30.720
+[Guest]: oppressed groups of their economic freedom. So that's how I think about caste. I don't think
+
+00:19:30.720 --> 00:19:37.040
+[Guest]: of it as, oh, there's economic freedom plus plus something else. This is a problem that is caused
+
+00:19:37.040 --> 00:19:42.080
+[Guest]: by robbing people of their economic choices. And it has obviously gotten worse because we have
+
+00:19:42.080 --> 00:19:47.920
+[Guest]: entrenched the practice over centuries. And, you know, those things are very hard to get out of
+
+00:19:47.920 --> 00:19:52.480
+[Amit Varma]: because they persist so much. And in fact, people often sort of
+
+00:19:53.920 --> 00:19:59.200
+[Amit Varma]: give economic freedom a bad name by making fun of trickle down economics. But as I keep pointing
+
+00:19:59.200 --> 00:20:04.320
+[Amit Varma]: out, economic freedom actually leads to trickle up economics. So benefits go first to the bottom.
+
+00:20:04.320 --> 00:20:09.840
+[Amit Varma]: And that's clearly not just in an economic sense in terms of money, but also in a social sense,
+
+00:20:09.840 --> 00:20:14.000
+[Amit Varma]: in terms of empowering people by giving them the mobility to move to a better life.
+
+00:20:14.800 --> 00:20:20.240
+[Guest]: Absolutely. Whether you call this an economic choice, a social choice, a caste choice,
+
+00:20:20.240 --> 00:20:26.240
+[Guest]: the fundamental point is when you restrict either through the caste system or by the government,
+
+00:20:26.240 --> 00:20:31.520
+[Guest]: when you restrict people's choices, you get illiberal societies and oppression.
+
+00:20:31.520 --> 00:20:35.520
+[Guest]: When you remove those restrictions, you get liberal societies and prosperity.
+
+00:20:35.520 --> 00:20:40.320
+[Guest]: We have seen this happen time and again. If you read economic history,
+
+00:20:40.320 --> 00:20:46.000
+[Guest]: there is an additional caste element which makes India a more complex and interesting place.
+
+00:20:46.000 --> 00:20:51.680
+[Guest]: But at the core of it, it is an economic freedom argument. It is a, I, as an individual,
+
+00:20:51.680 --> 00:20:56.160
+[Guest]: should be allowed to make my choices. And the caste system doesn't allow that because it has
+
+00:20:56.160 --> 00:21:02.240
+[Guest]: pre-allotted pretty much my entire life from my occupation to my diet to the girl or the boy I'm
+
+00:21:02.240 --> 00:21:06.800
+[Guest]: going to marry, how many kids I'm going to have, what language they will speak. Everything has
+
+00:21:06.800 --> 00:21:09.920
+[Guest]: been set out for me at birth, and it's impossible to get out of it.
+
+00:21:09.920 --> 00:21:11.680
+[Amit Varma]: So these are your first...
+
+00:21:12.320 --> 00:21:17.840
+[Guest]: I was sort of going to follow you. These were the first two aspects which made the problem worse.
+
+00:21:17.840 --> 00:21:24.240
+[Guest]: I want to address two more, which are a little more complicated. So the third is India has not
+
+00:21:24.240 --> 00:21:31.680
+[Guest]: done a very good job of embracing policies that slowly and organically allow villages to transform
+
+00:21:31.680 --> 00:21:38.800
+[Guest]: themselves. Right? I know in India, there is a lot of romance about villages and village
+
+00:21:38.800 --> 00:21:45.280
+[Guest]: structures. A lot of this nonsense comes from the Gandhian idea of villages as self-sufficient
+
+00:21:45.280 --> 00:21:55.120
+[Guest]: republics. But the reality of it is villages are cesspools of caste prejudice and horror in India.
+
+00:21:55.120 --> 00:22:02.640
+[Guest]: Right? They are segregated. Every village you go to is basically a segregated town based on caste.
+
+00:22:02.640 --> 00:22:09.040
+[Guest]: It looks like it is based on economic prosperity and wealth, but at the core of it, it's caste,
+
+00:22:09.040 --> 00:22:14.320
+[Guest]: because if low caste members actually made the money, no upper caste member would allow them to
+
+00:22:14.320 --> 00:22:20.720
+[Guest]: build a mansion on their street. So villages segregate themselves. Now think of the problems
+
+00:22:20.720 --> 00:22:26.960
+[Guest]: attached to this. All the public goods in a village and quasi-public goods are also segregated
+
+00:22:26.960 --> 00:22:36.640
+[Guest]: in their use. So we, living in cities, we read stories like a Dalit person beaten for using
+
+00:22:36.640 --> 00:22:44.320
+[Guest]: Brahmin wealth or something horrible like that. That's a public good allocation problem. Right?
+
+00:22:44.320 --> 00:22:50.160
+[Guest]: And the public good allocation problem comes out of the fact that villages are segregated units.
+
+00:22:50.160 --> 00:22:57.600
+[Guest]: Now, what do we need to solve this problem? We need to make villages transform out of their
+
+00:22:57.600 --> 00:23:04.720
+[Guest]: current structure into a new structure. The way India is growing, both in terms of population
+
+00:23:04.720 --> 00:23:10.240
+[Guest]: and in terms of economic growth, villages should naturally transform into small towns
+
+00:23:11.200 --> 00:23:15.360
+[Guest]: and then slightly bigger towns and then a small city and then big metropolitan areas.
+
+00:23:16.240 --> 00:23:20.320
+[Guest]: If you think about it, we have the same metropolitan areas in India that we had during
+
+00:23:20.320 --> 00:23:26.640
+[Guest]: colonial regime. They set it up. We don't have too many villages transforming into urban centers.
+
+00:23:26.640 --> 00:23:33.520
+[Guest]: We have pre-existing urban centers transforming into bigger urban centers. Why is that? Because
+
+00:23:33.520 --> 00:23:39.680
+[Guest]: we have put in village governments and levels of village governments which are not easy to transform
+
+00:23:40.560 --> 00:23:45.520
+[Guest]: from one form to another form. So what I was talking about previously when it came to land
+
+00:23:45.520 --> 00:23:50.960
+[Guest]: use restrictions and human capital restrictions, now apply that to public goods restrictions.
+
+00:23:51.840 --> 00:23:57.440
+[Guest]: Right? Local governance is a public good that's provided by the state and the state has made it
+
+00:23:57.440 --> 00:24:02.080
+[Guest]: impossible to transform one kind of governance system into another kind of governance system.
+
+00:24:02.080 --> 00:24:07.840
+[Guest]: Instead, what it's done is it has reinforced an old parochial kind of government which is
+
+00:24:07.840 --> 00:24:15.040
+[Guest]: a panchayati raj institution with a twist of reservations. Right? But that doesn't solve
+
+00:24:15.040 --> 00:24:21.760
+[Guest]: the problem of how public goods are determined and allocated and how we get out of the village
+
+00:24:21.760 --> 00:24:27.520
+[Guest]: segregation system. So there is a heartbreaking piece. I mean, not just heartbreaking, it makes
+
+00:24:27.520 --> 00:24:34.320
+[Guest]: you furious. Have you read a short essay by Ambedkar called No Pune, No Water?
+
+00:24:34.880 --> 00:24:35.600
+[Amit Varma]: No, I haven't.
+
+00:24:36.480 --> 00:24:43.120
+[Guest]: Okay, it will make you upset and very mad. And this is not just because of my love for Ambedkar,
+
+00:24:43.120 --> 00:24:48.240
+[Guest]: but Ambedkar was, as you know, he belonged to the Maha community, which is one of the
+
+00:24:48.240 --> 00:24:55.280
+[Guest]: untouchable groups at the time. He was an exceptional student who went and excelled
+
+00:24:55.280 --> 00:25:00.080
+[Guest]: in his school activities. But there were times when he wasn't allowed to sit inside a classroom.
+
+00:25:00.720 --> 00:25:05.200
+[Guest]: He had to sit outside a classroom and because they would pollute the environment, he had to
+
+00:25:05.200 --> 00:25:11.600
+[Guest]: carry like a gunny bag, you know, those round jute sacks. He would have to carry his own sack
+
+00:25:11.600 --> 00:25:16.640
+[Guest]: and come and sit outside the classroom to learn and leave. One of the bigger problems was access
+
+00:25:16.640 --> 00:25:24.080
+[Guest]: to water. Upper caste won't touch water that is used by lower caste. So there would be a pune
+
+00:25:24.080 --> 00:25:31.280
+[Guest]: who would show up and pour water from about four feet above him so that he does not touch
+
+00:25:31.280 --> 00:25:37.680
+[Guest]: Ambedkar or anyone of that caste. And that's how Ambedkar would get access to water. If the pune
+
+00:25:37.680 --> 00:25:43.600
+[Guest]: didn't show up that day to school, Ambedkar had to go without water that day if he chose to learn.
+
+00:25:44.240 --> 00:25:50.720
+[Guest]: Right? This is horrific. The fact that Ambedkar did what he did is exceptional.
+
+00:25:50.720 --> 00:25:54.240
+[Guest]: We're all grateful he got to write about it and we get to read about it.
+
+00:25:54.240 --> 00:25:59.360
+[Guest]: What is horrific is this carries on till present day times. And according to me,
+
+00:25:59.360 --> 00:26:04.800
+[Guest]: the only way to break out of the system is to leave the village stronghold. In a village,
+
+00:26:04.800 --> 00:26:10.320
+[Guest]: everyone knows everyone. Everyone knows everyone's grandparents, their caste, their, you know,
+
+00:26:11.200 --> 00:26:16.720
+[Guest]: family secrets, occupations. There is a very clear power structure between families which
+
+00:26:16.720 --> 00:26:22.720
+[Guest]: was predetermined by caste. Sometimes the only way to fix that problem is to exit it.
+
+00:26:23.840 --> 00:26:30.320
+[Guest]: Right? And villages don't allow easy exit for two, three reasons. One, the governance structure
+
+00:26:30.320 --> 00:26:36.160
+[Guest]: is not allowed to change. So villages can't transform themselves. And we have too few
+
+00:26:36.160 --> 00:26:43.280
+[Guest]: urban areas which are extremely unkind to strangers when they first show up. So it's very daunting
+
+00:26:43.280 --> 00:26:47.920
+[Guest]: it's very daunting for someone who is being treated like Ambedkar when it comes to
+
+00:26:48.480 --> 00:26:53.200
+[Guest]: water access to leave the village and actually go to the city where you don't know anyone.
+
+00:26:53.200 --> 00:26:57.840
+[Guest]: And cities are not very good areas where strangers can just show up and get a job.
+
+00:26:57.840 --> 00:27:02.400
+[Guest]: Can I interrupt you for a second and ask you to elaborate on,
+
+00:27:03.280 --> 00:27:08.240
+[Amit Varma]: can I ask you to elaborate on what you mean by governance structures not being allowed to change?
+
+00:27:08.240 --> 00:27:16.560
+[Guest]: So mainly panchayati raj institutions, right? What we have done is we have two levels of local
+
+00:27:16.560 --> 00:27:22.080
+[Guest]: government. And if you remember, we did a podcast on one of them, which was the urban local bodies.
+
+00:27:22.080 --> 00:27:25.920
+[Guest]: When we talked about fiscal federalism and their revenue raising authority,
+
+00:27:25.920 --> 00:27:28.960
+[Guest]: their village counterpart is the panchayati raj institution.
+
+00:27:29.840 --> 00:27:34.880
+[Guest]: Now, if you think about this like an economist, the way economic growth takes place,
+
+00:27:34.880 --> 00:27:41.040
+[Guest]: villages should automatically convert themselves into smaller towns, bigger towns, bigger cities,
+
+00:27:41.040 --> 00:27:46.960
+[Guest]: right? Which means panchayati raj institutions should slowly be able to transform into urban
+
+00:27:46.960 --> 00:27:54.640
+[Guest]: local bodies. The 73rd and 74th amendment have no provision to convert a panchayati raj government
+
+00:27:54.640 --> 00:28:00.560
+[Guest]: into an urban government. So does that mean that when a village gets bigger and it reaches
+
+00:28:00.560 --> 00:28:05.840
+[Amit Varma]: town size, it is still by law forced to remain with a structure of governance that is more suitable?
+
+00:28:05.840 --> 00:28:12.480
+[Guest]: Exactly, exactly. And more suitable for a village that Gandhi imagined, not Ambedkar imagined,
+
+00:28:12.480 --> 00:28:19.200
+[Guest]: may I add, right? Low castes have no great romance to do with village structures in a way that high
+
+00:28:19.200 --> 00:28:24.400
+[Guest]: castes do, because low castes can't get water unless the high caste fume shows up. So there's
+
+00:28:24.400 --> 00:28:30.000
+[Guest]: a reason for this romance with village structures. We must point out that it's not the lower castes
+
+00:28:30.000 --> 00:28:34.160
+[Guest]: who have this romance. It's the upper castes who, by the way, don't even live in villages.
+
+00:28:35.040 --> 00:28:41.200
+[Guest]: And now these groups, mostly upper castes, have written into law structures, written into the
+
+00:28:41.200 --> 00:28:47.840
+[Guest]: constitution, structures that cannot easily transform from one kind of governance need
+
+00:28:47.840 --> 00:28:53.680
+[Guest]: to another kind of governance need. In fact, there is no way, there is no provision to change
+
+00:28:53.680 --> 00:28:59.280
+[Guest]: from a panchayati raj institution into an urban local body. They fundamentally do the same thing,
+
+00:28:59.280 --> 00:29:04.960
+[Guest]: which is local governance, but their scope of operation is actually quite different. The way
+
+00:29:04.960 --> 00:29:11.360
+[Guest]: they are elected is quite different. So this is a very big problem. This is not just a problem
+
+00:29:11.360 --> 00:29:15.840
+[Guest]: from a caste point of view. It's a problem from a growth point of view, but it certainly
+
+00:29:15.840 --> 00:29:20.880
+[Guest]: exacerbates the caste problem because it keeps the village structure alive. And I think the
+
+00:29:20.880 --> 00:29:28.240
+[Guest]: Indian village structure just needs to go. There is just nothing valuable in it to protect it.
+
+00:29:28.240 --> 00:29:31.600
+[Amit Varma]: This village structure is the kind of injustice that it has perpetuated.
+
+00:29:31.600 --> 00:29:35.360
+[Amit Varma]: And this village structure you're saying is reflected in the panchayati raj system.
+
+00:29:35.360 --> 00:29:41.120
+[Guest]: That's why it's a problem, right? Yes, absolutely. The only thing that is
+
+00:29:41.120 --> 00:29:46.080
+[Guest]: interesting about the new panchayati raj system versus the old is that the old one was all upper
+
+00:29:46.080 --> 00:29:51.200
+[Guest]: caste men. The new twist to the panchayati raj system is that there are some reservation for
+
+00:29:51.200 --> 00:29:57.440
+[Guest]: lower caste groups and for women. That's literally the only twist, right? But even think about it,
+
+00:29:57.440 --> 00:30:02.080
+[Guest]: even with those reservations and things like that, they keep that segregation alive in a village.
+
+00:30:02.080 --> 00:30:09.520
+[Guest]: The village is too small a structure to forget, right? And what does it need to forget? It needs
+
+00:30:09.520 --> 00:30:15.680
+[Guest]: to forget people's past or what they think is people's predestined future. The village structure
+
+00:30:15.680 --> 00:30:21.760
+[Guest]: in itself is not able to do that. It's too few people, very persistent and entrenched institutions,
+
+00:30:21.760 --> 00:30:27.520
+[Guest]: culturally, linguistically, in terms of caste. You can't get rid of those problems without getting
+
+00:30:27.520 --> 00:30:32.080
+[Guest]: rid of the village structure. So how do we get rid of the village structure? Make it easier for
+
+00:30:32.080 --> 00:30:37.680
+[Guest]: villages to transform or make it easier for people to leave the village. We haven't done either very
+
+00:30:37.680 --> 00:30:44.320
+[Amit Varma]: well. Right. So that's reason number three that our bad policies keep people trapped in villages
+
+00:30:45.760 --> 00:30:50.800
+[Amit Varma]: partly by fixing the structure of government to what is an archaic structure of the panchayati
+
+00:30:50.800 --> 00:30:56.800
+[Amit Varma]: raj which encodes the existing social inequalities within itself.
+
+00:30:57.440 --> 00:31:03.840
+[Guest]: Okay, so the fourth point that I want to get to is a little bit controversial. This is the whole
+
+00:31:03.840 --> 00:31:10.880
+[Guest]: reservation system in India, right? We have what I like to dub constitutionalized caste.
+
+00:31:11.520 --> 00:31:17.120
+[Guest]: And what I mean by that is we have read into constitutional protections and exceptions to
+
+00:31:17.120 --> 00:31:23.760
+[Guest]: constitutional protections, certain reservations or, you know, secured positions for certain caste
+
+00:31:23.760 --> 00:31:30.960
+[Guest]: groups. And that, according to me, has made the caste problem worse. Okay. Now, at the time of
+
+00:31:30.960 --> 00:31:38.800
+[Guest]: independence, there was a need for upliftment of certain castes. We can debate what was the
+
+00:31:38.800 --> 00:31:44.720
+[Guest]: better system of upliftment, but we came down to caste reservations. That is what was chosen.
+
+00:31:44.720 --> 00:31:49.040
+[Guest]: Now, having said that, everyone, including Ambedkar, who was a champion of this,
+
+00:31:49.040 --> 00:31:54.480
+[Guest]: felt that we won't need it for too long, right? There are certain provisions in the constitution
+
+00:31:54.480 --> 00:31:59.040
+[Guest]: that were supposed to lapse. They were sunset clauses that are supposed to lapse every 10
+
+00:31:59.040 --> 00:32:03.600
+[Guest]: years unless it's extended. And every 10 years, there's a constitutional amendment to extend those
+
+00:32:03.600 --> 00:32:11.280
+[Guest]: protections. So what has happened is that unlike what Ambedkar imagined, the caste problem has
+
+00:32:11.280 --> 00:32:18.400
+[Guest]: persisted for 70 years and it has actually gotten worse. So now let me try and unpack this. Now,
+
+00:32:18.400 --> 00:32:24.560
+[Guest]: I fully understand that I speak from a position of privilege when it comes to any kind of, you
+
+00:32:24.560 --> 00:32:31.200
+[Guest]: know, educational protection, caste protection, so on and so forth. But I still want to unpack
+
+00:32:31.200 --> 00:32:37.280
+[Guest]: this a little bit so that we see what the caste reservation system is doing, both to low caste
+
+00:32:37.280 --> 00:32:44.400
+[Guest]: groups and upper caste groups. Now, if you think about reservations, think about it in terms of a
+
+00:32:44.400 --> 00:32:50.320
+[Guest]: size of an existing pie out of which a few slices are pre-allotted to certain groups.
+
+00:32:51.840 --> 00:32:59.120
+[Guest]: Now, most of these are admissions in educational institutions and reservations in government jobs.
+
+00:33:00.000 --> 00:33:06.560
+[Guest]: That is really the core of what's going on. So what does this mean in terms of making caste
+
+00:33:06.560 --> 00:33:12.480
+[Guest]: problems better or worse? Now, if you think of a certain society where the size of the pie is not
+
+00:33:12.480 --> 00:33:17.520
+[Guest]: growing, such as a socialist society, you know, India with its Hindu rate of growth and so on and
+
+00:33:17.520 --> 00:33:26.000
+[Guest]: so forth, if the pie is not growing, more and more people become extremely agitated and start
+
+00:33:26.000 --> 00:33:32.080
+[Guest]: hating the idea of certain groups getting a few slices of the particular pie, right?
+
+00:33:32.080 --> 00:33:37.840
+[Guest]: Now, what happens? Other groups also want that protection. They also want certain slices of the
+
+00:33:37.840 --> 00:33:46.400
+[Guest]: pie completely reserved for them. Unfortunately, unless the size of the pie grows, each additional
+
+00:33:46.400 --> 00:33:51.760
+[Guest]: group that gets that protection or a pre-allotted slice of the pie is going to reduce the allotment
+
+00:33:51.760 --> 00:33:59.040
+[Guest]: of every other group, right? So if there are 20% of the seats pre-allotted to particular groups
+
+00:33:59.040 --> 00:34:06.000
+[Guest]: and more groups want that protection, either we increase the 20% limit or you're encroaching from
+
+00:34:06.000 --> 00:34:12.160
+[Guest]: other groups. Now, what is the problem with this? The problem is, originally, it started out as a
+
+00:34:12.160 --> 00:34:21.600
+[Guest]: protection for the most historically oppressed castes and tribes. As the republic aged, we had
+
+00:34:21.600 --> 00:34:27.360
+[Guest]: included more and more groups and now there are a lot of relatively upper caste groups that have
+
+00:34:27.360 --> 00:34:32.560
+[Guest]: nothing to do with historical oppression that want the same reservation or protection allotted to
+
+00:34:32.560 --> 00:34:39.280
+[Guest]: them, right? An example of this is the partidars or the kapus. They are not historically oppressed,
+
+00:34:39.280 --> 00:34:45.200
+[Guest]: but they feel they have a grouse given the current system where they are educated, land-owning class,
+
+00:34:45.200 --> 00:34:48.960
+[Guest]: but they can't find jobs. So they need some protection, which is government protection.
+
+00:34:49.760 --> 00:34:54.720
+[Guest]: So what do they want? They want the existing number of government jobs to be re-allotted.
+
+00:34:54.720 --> 00:35:01.280
+[Guest]: They want the lines redrawn so that they are included in it, right? Now, this causes a problem
+
+00:35:01.280 --> 00:35:06.320
+[Guest]: with historically oppressed groups because they feel that there are new upper caste groups who
+
+00:35:06.320 --> 00:35:12.640
+[Guest]: are encroaching on what was originally promised to them. This is a very big source of tension
+
+00:35:12.640 --> 00:35:18.560
+[Guest]: in India. So the original classification of scheduled caste, scheduled tribes, and other
+
+00:35:18.560 --> 00:35:26.640
+[Guest]: backward classes has more and more groups being included in it and more groups agitating to be
+
+00:35:26.640 --> 00:35:33.680
+[Guest]: included in it almost on a daily basis. So you see Gujjar agitations, you see kapu agitations.
+
+00:35:33.680 --> 00:35:39.520
+[Guest]: The most recent is the partidar agitation, which has taken a new political twist.
+
+00:35:39.520 --> 00:35:44.400
+[Amit Varma]: There were Jats in Haryana, Marathas in Maharashtra and all the land-owning caste like you pointed
+
+00:35:44.400 --> 00:35:49.680
+[Amit Varma]: out, because the size of the land with each generation shrinks. So now think about this.
+
+00:35:49.680 --> 00:35:55.280
+[Guest]: You have a fixed size of the pie. More and more people want the protection because it gives you
+
+00:35:55.280 --> 00:36:00.560
+[Guest]: a job without doing anything in the government. It promises you certain benefits, promotions,
+
+00:36:00.560 --> 00:36:06.240
+[Guest]: so on and so forth. However, each additional group that gets included in the protection
+
+00:36:06.240 --> 00:36:11.920
+[Guest]: means two things. Existing groups' protection is less valuable and sometimes just less because
+
+00:36:11.920 --> 00:36:18.160
+[Guest]: the pie is not growing. And second is the general category, which is the erstwhile upper caste,
+
+00:36:18.160 --> 00:36:22.640
+[Guest]: right? The non-oppressed groups, rather the oppressors, are not included in this protection
+
+00:36:22.640 --> 00:36:26.880
+[Guest]: and many of them are poor. They're economically poor, even if they aren't socially poor.
+
+00:36:27.440 --> 00:36:35.360
+[Guest]: So now there is new agitations where there is even more hatred or some sense of disagreement
+
+00:36:35.360 --> 00:36:41.600
+[Guest]: between those caste groups and the new caste groups. If you notice, what is happening in India
+
+00:36:41.600 --> 00:36:48.960
+[Guest]: is, before 1950, that is before reservations, I've heard these stories from great-grandparents
+
+00:36:48.960 --> 00:36:53.920
+[Guest]: who just tend to be politically incorrect and extremely prejudiced, but they would talk about
+
+00:36:53.920 --> 00:37:01.440
+[Guest]: certain caste groups as trying to mimic upper caste practices. That is, previously oppressed
+
+00:37:01.440 --> 00:37:07.920
+[Guest]: groups were desperate to exit their situation, right? The Mahars are a great example of exiting
+
+00:37:07.920 --> 00:37:13.040
+[Guest]: the parochial village structure and joining the British army. There were other groups all over
+
+00:37:13.040 --> 00:37:19.680
+[Guest]: India which tried to exit that parochial structure and mimic up, right? I'm using these words in a
+
+00:37:19.680 --> 00:37:24.960
+[Guest]: highly contextual way. They thought they were moving up in the social and the caste ladder.
+
+00:37:24.960 --> 00:37:31.920
+[Guest]: Now, what you see in present-day India is the exact reverse of that. Someone who is born in
+
+00:37:31.920 --> 00:37:37.840
+[Guest]: the lower caste or, you know, previously lower caste, schedule caste, schedule tribes,
+
+00:37:38.880 --> 00:37:45.520
+[Guest]: they want to hold on to that. That identity means everything to them. That identity at the time of
+
+00:37:45.520 --> 00:37:49.040
+[Guest]: birth, if they don't put it on their birth certificate, if they don't have the right last
+
+00:37:49.040 --> 00:37:54.080
+[Guest]: name or they don't have the right social status, they don't have the right social status, they
+
+00:37:54.080 --> 00:37:58.320
+[Guest]: or they don't have their community vouching for their caste, they're not going to get the
+
+00:37:58.320 --> 00:38:04.240
+[Guest]: reservation protection, which means we want to hold on to that caste identity. How do you break
+
+00:38:04.240 --> 00:38:12.560
+[Guest]: down caste? You need individuals to be incentivized to leave their caste identity. What we have done
+
+00:38:12.560 --> 00:38:18.560
+[Guest]: is constitutionalize the problem. We have incentivized groups to hold on stronger than
+
+00:38:18.560 --> 00:38:25.200
+[Guest]: ever before to that caste identity because that is what gets them the benefit. Okay. So now,
+
+00:38:26.160 --> 00:38:32.000
+[Guest]: this is in no way taking away from the fact that Dalit groups have been oppressed and they may
+
+00:38:32.000 --> 00:38:37.680
+[Guest]: feel that there is a particular rightly justified reason why they need greater social protection,
+
+00:38:37.680 --> 00:38:45.680
+[Guest]: so on and so forth. I'm not arguing against how they feel about it. What I'm arguing against is
+
+00:38:45.680 --> 00:38:51.840
+[Guest]: the Ambedkar idea. Ambedkar thought caste would disappear. How does caste disappear? Individuals
+
+00:38:51.840 --> 00:38:56.560
+[Guest]: from different castes decide to shed their caste identity and move on to something else.
+
+00:38:57.200 --> 00:39:04.400
+[Guest]: And the constitution disincentivizes you to do that. It incentivizes people to hold on to that
+
+00:39:04.400 --> 00:39:11.520
+[Guest]: identity and hold on to that community. That I find extremely problematic, right? A liberal market
+
+00:39:11.520 --> 00:39:17.040
+[Guest]: economy will make you want to shed your caste, change your name, move to a new place where
+
+00:39:17.040 --> 00:39:22.480
+[Guest]: the parochial structure doesn't shackle you. What we're doing is the exact reverse of that.
+
+00:39:22.480 --> 00:39:27.920
+[Guest]: Now, this is not to say that certain castes don't have an emotional attachment to their networks or
+
+00:39:27.920 --> 00:39:33.360
+[Guest]: their community, that they don't have any respect for shared history. You may want to hold on to it
+
+00:39:33.360 --> 00:39:41.600
+[Guest]: just because we've just seen a protest which started with a 200 year old battle, right? So,
+
+00:39:42.160 --> 00:39:47.600
+[Guest]: there may be reasons, emotional reasons to hold on to a historical issue or your identity.
+
+00:39:48.160 --> 00:39:53.840
+[Guest]: I'm not talking about those reasons. I'm talking about the practical economic reasons we have
+
+00:39:53.840 --> 00:40:01.520
+[Guest]: managed to disincentivize people to exit their caste at birth, which I think is very, very
+
+00:40:01.520 --> 00:40:07.120
+[Amit Varma]: problematic. And what I've always found perverse, just at a philosophical level, is that if we all
+
+00:40:07.120 --> 00:40:12.720
+[Amit Varma]: agree, as we surely do, that discriminating on the basis of caste is wrong, what are reservations?
+
+00:40:12.720 --> 00:40:17.840
+[Amit Varma]: They are discrimination on the basis of caste. They perpetuate the ill feeling between castes.
+
+00:40:18.480 --> 00:40:24.880
+[Guest]: How can that be a solution? Well, the way we have reservations presently
+
+00:40:24.880 --> 00:40:32.320
+[Guest]: is no solution at all. There are two big problems with it, and a lot of Dalit groups and Dalit
+
+00:40:32.320 --> 00:40:40.160
+[Guest]: scholars also agree. The problem being that it's only the upper cream of Dalit groups who get the
+
+00:40:40.160 --> 00:40:47.360
+[Guest]: benefits. To actually get access or protections from these reservations, you need to have completed
+
+00:40:47.360 --> 00:40:53.760
+[Guest]: school, right? You need to go from K through 12, actually have your higher school certificate to
+
+00:40:53.760 --> 00:41:00.880
+[Guest]: be able to sit for exams or to gain admissions in these elite institutions. Most of the parochial
+
+00:41:00.880 --> 00:41:06.720
+[Guest]: village structure does not allow Dalit children to be educated properly. So what are we talking
+
+00:41:06.720 --> 00:41:14.080
+[Guest]: about? We're now talking about Dalits who managed to exit the parochial system and who can actually
+
+00:41:14.080 --> 00:41:22.160
+[Guest]: get the benefit as opposed to the people it was originally intended for. So let's also acknowledge
+
+00:41:22.160 --> 00:41:28.560
+[Guest]: that there is now a division even within the historically oppressed groups and Dalit communities
+
+00:41:28.560 --> 00:41:35.360
+[Guest]: where a certain portion of that group, which is already well off, is gaining a lot of those
+
+00:41:35.360 --> 00:41:39.920
+[Guest]: benefits while the historically oppressed just remain oppressed for the various reasons that I
+
+00:41:39.920 --> 00:41:44.480
+[Guest]: mentioned, which is the shackling of the physical capital, human capital, village system, so on and
+
+00:41:44.480 --> 00:41:49.600
+[Amit Varma]: so forth. In fact, so the benefits of reservations even for Dalits really go to the privileged
+
+00:41:49.600 --> 00:41:54.240
+[Guest]: outliers among the Dalits to begin with. Absolutely. There's a lot of constitutional
+
+00:41:54.800 --> 00:42:00.320
+[Guest]: jurisprudence on this with respect to how do you treat the creamy layer, which is mainly the well
+
+00:42:00.320 --> 00:42:05.200
+[Guest]: off layer of the group that's already received the privileges or the benefits amongst the other
+
+00:42:05.200 --> 00:42:14.400
+[Guest]: backward castes. So there is a lot of politics and jurisprudence from the highest courts and
+
+00:42:14.400 --> 00:42:20.000
+[Guest]: the Supreme Court on this matter. So this is not a new problem. We know that this problem exists.
+
+00:42:20.000 --> 00:42:25.680
+[Guest]: So the first part of the reservation problem is it actually doesn't go to the people that it was
+
+00:42:25.680 --> 00:42:31.360
+[Guest]: really intended to go to in terms of how Ambedkar thought about the problem. The other framers
+
+00:42:31.360 --> 00:42:38.080
+[Guest]: supported this idea. The second part of it, as you mentioned, is it makes caste tensions worse
+
+00:42:38.080 --> 00:42:44.880
+[Guest]: because it makes everyone hold on to an identity. And then there is only a certain fixed size of the
+
+00:42:44.880 --> 00:42:51.520
+[Guest]: pie. Each group getting a little bigger or smaller size is going to take away from another group or
+
+00:42:51.520 --> 00:42:58.640
+[Guest]: get to another group that causes a lot of tensions. And on this matter, the Dalit groups are
+
+00:42:58.640 --> 00:43:03.280
+[Guest]: absolutely right in the sense that these reservations, whether you believe in them or not,
+
+00:43:03.280 --> 00:43:07.760
+[Guest]: were introduced to uplift the historically oppressed. A lot of the groups asking for
+
+00:43:07.760 --> 00:43:12.320
+[Guest]: these protections today are not historically oppressed. They are just oppressed in the
+
+00:43:12.320 --> 00:43:19.360
+[Guest]: modern socialist system because they can't get jobs. That's their modern day oppression, right?
+
+00:43:19.360 --> 00:43:25.520
+[Guest]: So there is a genuine reason for the kind of tensions that have bubbled up because the
+
+00:43:25.520 --> 00:43:30.880
+[Guest]: original promises made to certain groups, whether you agree with them or not, have not been fulfilled.
+
+00:43:30.880 --> 00:43:35.200
+[Amit Varma]: So before we move on from here, let me just try and sum up the four points you made so far and
+
+00:43:35.200 --> 00:43:41.280
+[Amit Varma]: tell me if that's accurate. The first thing the government did wrong was in setting policies which
+
+00:43:41.280 --> 00:43:49.120
+[Amit Varma]: reduced economic freedom and therefore, number one, it reduced mobility of resources. For example,
+
+00:43:49.120 --> 00:43:52.880
+[Amit Varma]: you can't sell agricultural land for non-agricultural purposes and therefore you're
+
+00:43:52.880 --> 00:43:58.880
+[Amit Varma]: trapped in that sense. Number two, it reduced mobility of labor because, you know, the labor
+
+00:43:58.880 --> 00:44:03.200
+[Amit Varma]: laws meant that there was a very large informal sector and what there was of the formal sector,
+
+00:44:03.200 --> 00:44:09.200
+[Amit Varma]: people would tend to choose from among their, you know, their relatives or their caste, therefore
+
+00:44:10.000 --> 00:44:15.440
+[Amit Varma]: perpetuating the power imbalances that then existed. The third problem was that village
+
+00:44:15.440 --> 00:44:21.120
+[Amit Varma]: governance structures were kept as they are constitutionally, so they weren't allowed to
+
+00:44:21.120 --> 00:44:26.560
+[Amit Varma]: change even if the village grew bigger and could have become a town. And those imbalances, again,
+
+00:44:26.560 --> 00:44:31.840
+[Amit Varma]: in those segregated villages were reflected and ossified within those panchayati raj structures.
+
+00:44:31.840 --> 00:44:35.680
+[Amit Varma]: And the fourth point being that the system of reservations which was laid out with good
+
+00:44:35.680 --> 00:44:43.040
+[Amit Varma]: intentions and championed early on by Ambedkar went wrong in a number of different ways. Number
+
+00:44:43.040 --> 00:44:47.680
+[Amit Varma]: one, the benefits would tend to go to the already privileged people among the castes that they were
+
+00:44:47.680 --> 00:44:54.480
+[Amit Varma]: supposed to go to, to begin with the most oppressed of the lot. Number two, they expanded
+
+00:44:55.040 --> 00:45:00.960
+[Amit Varma]: to include various other castes and sub-castes. Number three, the pie remained fixed but the
+
+00:45:00.960 --> 00:45:06.800
+[Amit Varma]: demand increased whereas the supply didn't and that led to greater conflict. And all of this
+
+00:45:06.800 --> 00:45:12.960
+[Amit Varma]: conflict was framed in terms of caste identity, as castes which would earlier back in the day,
+
+00:45:12.960 --> 00:45:18.400
+[Amit Varma]: they would mimic up, now began to mimic down because of the juicy lollipop of government jobs
+
+00:45:18.400 --> 00:45:23.840
+[Amit Varma]: and government seats in educational institutions. And caste tensions actually became worse because
+
+00:45:23.840 --> 00:45:26.560
+[Amit Varma]: of all this. Is that kind of accurate or have I left something out?
+
+00:45:26.560 --> 00:45:31.440
+[Guest]: That's very accurate. I would just add an element to this which is at the core of it,
+
+00:45:31.440 --> 00:45:38.800
+[Guest]: all four issues you've identified are incentive problems, right? We are disincentivizing groups
+
+00:45:38.800 --> 00:45:44.640
+[Guest]: to leave the village. We are disincentivizing groups to convert certain types of physical
+
+00:45:44.640 --> 00:45:50.080
+[Guest]: capital to other uses or human capital to other uses. And the biggest disincentive that we have
+
+00:45:50.080 --> 00:45:56.880
+[Guest]: in the current system is the incentive for individuals and groups to shed their caste identity
+
+00:45:56.880 --> 00:46:02.800
+[Guest]: to just completely destroy the caste system. We are actually doing the opposite. The incentive
+
+00:46:02.800 --> 00:46:09.040
+[Guest]: is very much to protect their caste identity and to actually make the caste system stronger
+
+00:46:09.040 --> 00:46:15.440
+[Guest]: just in a new political format, right? So I think at the core of all four issues, I want to highlight
+
+00:46:15.440 --> 00:46:22.240
+[Guest]: it is an incentive problem. And that I think there's very little recognition of thinking about
+
+00:46:22.240 --> 00:46:28.400
+[Amit Varma]: the caste problem in that sense. So my follow up question then there is that again, putting your
+
+00:46:28.400 --> 00:46:33.600
+[Amit Varma]: economics hat on, what would you do about this? What is the way out of this terrible mess that we
+
+00:46:33.600 --> 00:46:39.120
+[Guest]: are in? The first thing we need to do is acknowledge that outside any state intervention or state
+
+00:46:39.120 --> 00:46:46.960
+[Guest]: exacerbation, people need to change. And the upper castes and elites in India have just been appalling
+
+00:46:46.960 --> 00:46:52.640
+[Guest]: in the kind of prejudice and bigotry that they have displayed. So it's simple things, which are
+
+00:46:52.640 --> 00:46:57.440
+[Guest]: actually very big things, like making sure that, you know, your household health can use your
+
+00:46:57.440 --> 00:47:05.280
+[Guest]: restroom, or gets access to water, the same water sources you do, even though you live in a fancy,
+
+00:47:05.280 --> 00:47:11.120
+[Guest]: you know, lovely urban flat in Delhi or Bombay. These problems persist, and there's no way out
+
+00:47:11.120 --> 00:47:17.760
+[Guest]: of it except for people to change their minds and correct their behavior. So the question that
+
+00:47:17.760 --> 00:47:22.880
+[Guest]: you're really asking is, what can the state do? Right? We know what people can do, they can become,
+
+00:47:23.760 --> 00:47:30.640
+[Guest]: you know, better behaved. So what can the state do? So again, I would identify four areas where
+
+00:47:30.640 --> 00:47:38.320
+[Guest]: state positive and negative action can, I think, improve the situation. And what I mean by improve
+
+00:47:38.320 --> 00:47:42.480
+[Guest]: the situation is, there's nothing the state can really do to make the caste system go away.
+
+00:47:43.280 --> 00:47:49.840
+[Guest]: What it can do is create better incentives, so that individuals organically leave a particularly
+
+00:47:49.840 --> 00:47:55.280
+[Guest]: parochial system. So let me start with the first point. The first is that the state just needs to
+
+00:47:55.280 --> 00:48:01.840
+[Guest]: get out of the way. When it comes to restrictions on physical and human capital, it needs to
+
+00:48:01.840 --> 00:48:09.200
+[Guest]: liberalize the economy, and that liberalization must start at the lowest, most basic level at
+
+00:48:09.200 --> 00:48:14.800
+[Guest]: the village, and then move up to labor law reforms, which are really more of an urban problem,
+
+00:48:14.800 --> 00:48:20.960
+[Guest]: which also affect the village. So getting out of the way, that is removing or lifting restrictions
+
+00:48:20.960 --> 00:48:27.280
+[Guest]: on agriculture, removing and lifting restrictions on hiring and firing of people in manufacturing
+
+00:48:27.280 --> 00:48:34.480
+[Guest]: units, all those things the state can do, it should do. We know that the socialist,
+
+00:48:35.360 --> 00:48:43.200
+[Guest]: licensing, restrictive economy is making the caste problem worse. So even though removing
+
+00:48:43.200 --> 00:48:49.280
+[Guest]: those restrictions won't lead to the caste system going away overnight, it will not make it worse,
+
+00:48:49.280 --> 00:48:54.240
+[Guest]: right? It will make it easier for people to exit a particular system. So that is the very first
+
+00:48:54.240 --> 00:49:00.720
+[Guest]: thing. Now in this, Amit, you can add a laundry list of all the restrictions that need to be
+
+00:49:00.720 --> 00:49:05.840
+[Guest]: removed. You've actually done a great job without talking about caste on the kind of restrictions
+
+00:49:05.840 --> 00:49:10.880
+[Guest]: that need to be lifted in all your previous episodes. So you know, pick a bouquet of those
+
+00:49:10.880 --> 00:49:15.520
+[Amit Varma]: restrictions. And that's the first thing to do. Basically anything that increases economic freedom
+
+00:49:15.520 --> 00:49:21.600
+[Guest]: and thereby increases social mobility. Exactly, exactly. I couldn't have worded it better.
+
+00:49:22.240 --> 00:49:28.160
+[Guest]: The second point is positive action on the part of the state. And by positive action, I mean,
+
+00:49:28.720 --> 00:49:34.800
+[Guest]: the basic task of the state, which is to provide public goods and services. What are public goods?
+
+00:49:34.800 --> 00:49:42.400
+[Guest]: It's things like sewage, roads, you know, any public amenities. So think about something like
+
+00:49:42.400 --> 00:49:47.200
+[Guest]: sewage. Now sewage is a classic public good in the sense that there's a collective action problem
+
+00:49:47.200 --> 00:49:54.240
+[Guest]: that needs to be overcome. Now think about sewage and the sewage system and the caste politics in
+
+00:49:54.240 --> 00:50:00.240
+[Guest]: India. As you know, there are Dalit groups that were untouchable because they were segregated
+
+00:50:00.240 --> 00:50:07.040
+[Guest]: into an occupation that we now politely call manual scavenging. Manual scavenging is essentially,
+
+00:50:07.040 --> 00:50:14.080
+[Guest]: there were certain groups and this was their job by birth. They were supposed to come and clean out
+
+00:50:14.080 --> 00:50:19.120
+[Guest]: the latrines of the upper caste homes. They were never allowed into the house. I mean, nowhere
+
+00:50:19.120 --> 00:50:23.440
+[Guest]: close to the vicinity of the house. They had to come in through the back door, clean out those
+
+00:50:23.440 --> 00:50:31.840
+[Guest]: latrines, pick up human excreta in their hands, put it on their head and walk to the next home,
+
+00:50:31.840 --> 00:50:37.520
+[Guest]: do the same and then bury it somewhere in a landfill. There was a caste that was told to
+
+00:50:37.520 --> 00:50:44.640
+[Guest]: do this job. It was oppressed. Now, because they dealt with human waste, the upper caste insisted
+
+00:50:44.640 --> 00:50:49.040
+[Guest]: that they can't touch the water source and so on and so forth and they would contaminate it.
+
+00:50:49.600 --> 00:50:54.800
+[Guest]: This obviously persisted, got worse, got more entrenched and they became untouchables,
+
+00:50:54.800 --> 00:50:59.600
+[Guest]: not allowed to live in the village, had to live outside, but provided the most crucial service
+
+00:50:59.600 --> 00:51:05.440
+[Guest]: that you need in a village environment. Now, think about how public goods provisioning can
+
+00:51:05.440 --> 00:51:09.680
+[Guest]: make this problem better. So, I recently read a book, this is a bit of a tangent,
+
+00:51:09.680 --> 00:51:15.600
+[Guest]: but it's crucial to this point, called Where India Goes. It's by Coffee, Diane Coffee and
+
+00:51:15.600 --> 00:51:21.040
+[Guest]: Dean Spears. It's an excellent book. It basically talks about the open defecation problem in India
+
+00:51:21.680 --> 00:51:26.800
+[Guest]: and it talks about how there are many countries that are poorer than India, but that don't
+
+00:51:26.800 --> 00:51:34.560
+[Guest]: defecate in the open because actually latrines are not that difficult to build or access and
+
+00:51:34.560 --> 00:51:39.600
+[Guest]: even low levels of income, one of the first few things people do in countries like Nigeria
+
+00:51:39.600 --> 00:51:44.800
+[Guest]: is that they get access to a latrine. Now, in India, the government has been building latrines
+
+00:51:44.800 --> 00:51:49.600
+[Guest]: for people and they won't use them. They use them as storage units, children's playgrounds,
+
+00:51:49.600 --> 00:51:53.520
+[Guest]: washing areas. They don't use them for their given use. They actually go out in the open.
+
+00:51:53.520 --> 00:51:59.680
+[Guest]: Why is that the case? It's because of caste and ritual purity. Upper caste will not clean out a
+
+00:51:59.680 --> 00:52:06.000
+[Guest]: latrine with their own hands because these are not connected to a sewage system. So, it's not
+
+00:52:06.000 --> 00:52:13.600
+[Guest]: like your bathroom and mine where we just flush and all the unpleasant stuff just goes away.
+
+00:52:13.600 --> 00:52:19.200
+[Guest]: So, you need to manually pump out the latrine or clean it by hand and upper caste just refuse to
+
+00:52:19.200 --> 00:52:24.480
+[Guest]: deal with human excretion, even their own and their own families, which means that they will
+
+00:52:24.480 --> 00:52:30.400
+[Guest]: still continue to go out in the open, which means that now we are persisting a particular
+
+00:52:30.400 --> 00:52:36.480
+[Guest]: occupation of manual scavenging. We made it bigger than ever before because of population growth.
+
+00:52:36.480 --> 00:52:42.080
+[Guest]: In UP, this problem is worse than it was even 20-30 years ago because of the numbers that are
+
+00:52:42.080 --> 00:52:47.920
+[Guest]: at play. And this group has to continue doing this job and it has no choice. And because it
+
+00:52:47.920 --> 00:52:54.640
+[Guest]: deals with human filth, there is even greater oppression, even in modern day, when you have
+
+00:52:54.640 --> 00:53:01.040
+[Guest]: every kind of hygiene access that you can possibly think of, except you don't have it in the
+
+00:53:01.040 --> 00:53:05.600
+[Guest]: villages. So, the book I was talking about was talking about open defecation and how it's
+
+00:53:05.600 --> 00:53:10.960
+[Guest]: increasing infant mortality and killing our children. But the part that I found interesting,
+
+00:53:10.960 --> 00:53:15.200
+[Guest]: even though the book is not suggesting as this kind of magic bullet solution, the part that I
+
+00:53:15.200 --> 00:53:22.240
+[Guest]: find interesting is upper castes will embrace toilets as long as it's connected to a sewage
+
+00:53:22.240 --> 00:53:28.960
+[Guest]: system. They won't transition slowly from open defecation into latrines that need to be pumped
+
+00:53:28.960 --> 00:53:34.400
+[Guest]: or cleaned manually into a sewage system. So, what does the government need to do? Instead of
+
+00:53:34.400 --> 00:53:39.600
+[Guest]: giving subsidies through Swachh Bharat Abhiyan to have toilets everywhere and photo ops,
+
+00:53:39.600 --> 00:53:45.520
+[Guest]: it needs to dig up towns and villages and provide the sewage system. That is very difficult to do.
+
+00:53:46.080 --> 00:53:51.440
+[Guest]: It's not very profitable for anyone to do that. The benefits are very far in the future and all
+
+00:53:51.440 --> 00:53:56.640
+[Guest]: the costs are today because you're going to dig up entire towns today. So, nobody wants to build
+
+00:53:56.640 --> 00:54:02.640
+[Guest]: or increase the capacity of the sewage systems. So, in India, we have no functional sewage system
+
+00:54:02.640 --> 00:54:08.880
+[Guest]: and despite economic growth, we continue to go out in the open and oppress castes into doing
+
+00:54:08.880 --> 00:54:15.120
+[Guest]: terrible jobs and then treating them badly for doing those jobs well. So, this I would highlight
+
+00:54:15.120 --> 00:54:22.480
+[Guest]: as an example of better public goods provisioning like sewage system, like water sources will
+
+00:54:22.480 --> 00:54:29.840
+[Guest]: actually make the caste problem better. It will reduce segregation, it will actually improve the
+
+00:54:29.840 --> 00:54:35.040
+[Guest]: lot of certain groups which are not just historically oppressed but also oppressed in present
+
+00:54:35.040 --> 00:54:40.160
+[Amit Varma]: day. And the very fact that sewage systems haven't been made so far in such large parts of the
+
+00:54:40.160 --> 00:54:44.720
+[Amit Varma]: country also have something to do with structures of local governance and the kind of incentives in
+
+00:54:44.720 --> 00:54:50.080
+[Guest]: play. So, it's like a vicious circle that affects everything. Well, I don't think it's a vicious
+
+00:54:50.080 --> 00:54:54.720
+[Guest]: circle in the sense that one perpetuates the other. I think it's a fundamental problem. If
+
+00:54:54.720 --> 00:55:00.560
+[Guest]: you solve the fundamental problem, all the other problems will automatically start seeing solutions.
+
+00:55:00.560 --> 00:55:07.280
+[Guest]: It's a constitutional problem of giving groups benefits but through reservations even at the
+
+00:55:07.280 --> 00:55:12.320
+[Guest]: local governance level and not giving them responsibilities and revenue raising capacity.
+
+00:55:12.960 --> 00:55:16.800
+[Guest]: I mean, there is a constitutional solution to all these problems. I don't think of it as a
+
+00:55:16.800 --> 00:55:21.840
+[Guest]: vicious circle in that one problem perpetuates the next and then it comes back to the beginning.
+
+00:55:21.840 --> 00:55:26.560
+[Amit Varma]: I meant it as a vicious circle in the sense that our structures of local governance are
+
+00:55:26.560 --> 00:55:30.960
+[Amit Varma]: deeply flawed and yet the only people who can actually do something about it are those
+
+00:55:31.760 --> 00:55:35.840
+[Guest]: who benefit from them. So, how do you get past that? Oh, absolutely. There I do agree with you.
+
+00:55:35.840 --> 00:55:41.200
+[Guest]: Yeah. So, it's very difficult to get past that. The sewage system is a particularly sticky public
+
+00:55:41.200 --> 00:55:47.920
+[Guest]: choice problem because all the benefits are dispersed which is everyone will benefit from
+
+00:55:47.920 --> 00:55:54.240
+[Guest]: a better sewage system. All the costs are concentrated which means your existing
+
+00:55:54.240 --> 00:56:00.800
+[Guest]: corporator or the panchayati raj powers that be will bear the cost because everyone abuses
+
+00:56:00.800 --> 00:56:06.160
+[Guest]: government when they dig everything up, right? It takes years to build a functional sewage system.
+
+00:56:06.160 --> 00:56:10.720
+[Guest]: We know that. So, everyone's abusing people when they're digging up and imposing costs in the
+
+00:56:10.720 --> 00:56:16.560
+[Guest]: present. The benefits are far in the future and extremely dispersed. So, there is a fundamental
+
+00:56:16.560 --> 00:56:22.240
+[Guest]: public choice problem that needs to be overcome. I would actually applaud the prime minister if
+
+00:56:22.240 --> 00:56:30.640
+[Guest]: his Swachh Bharat Abhiyan meant actually building a sewage network underground as opposed to just
+
+00:56:30.640 --> 00:56:34.640
+[Guest]: building a shed with a manual factory. That's what's happening right now. But that doesn't
+
+00:56:34.640 --> 00:56:39.680
+[Amit Varma]: give opportunity for so many photo ops. So, you know, what do you do? Well, I don't want to talk
+
+00:56:39.680 --> 00:56:44.720
+[Guest]: about his incentives so much. It could just be that there are certain people who haven't thought
+
+00:56:44.720 --> 00:56:50.000
+[Guest]: about the problem from a caste lens, right? So, giving everyone the benefit of the doubt and
+
+00:56:50.000 --> 00:56:56.000
+[Guest]: let's assume that they have the best of intentions. We know that latrines don't solve the problem in
+
+00:56:56.000 --> 00:57:01.040
+[Guest]: India without a sewage system connected to it because we have a horrific caste system
+
+00:57:01.680 --> 00:57:06.400
+[Guest]: that is attached to this problem in the villages that just refuses to go away. It's persisting.
+
+00:57:06.400 --> 00:57:10.960
+[Guest]: We talked about why it's persisting. It's not going to disappear when it comes to personal
+
+00:57:10.960 --> 00:57:16.480
+[Guest]: hygiene and Swachh Bharat, right? So, if it persists in all other aspects of life,
+
+00:57:16.480 --> 00:57:22.320
+[Guest]: it's persisting here. So, if we want to solve the problem, we need to deal with the caste
+
+00:57:22.320 --> 00:57:28.560
+[Guest]: aspect of the problem. And even though I don't condone all this ritual purity nonsense of the
+
+00:57:28.560 --> 00:57:34.880
+[Guest]: upper caste, we've got to acknowledge that it exists and find a good policy solution around it
+
+00:57:34.880 --> 00:57:40.080
+[Guest]: so that we can improve on two factors. One is infant mortality and the second is remove
+
+00:57:40.080 --> 00:57:45.520
+[Guest]: oppression of untouchable groups that are still present day treated as untouchables
+
+00:57:45.520 --> 00:57:50.720
+[Guest]: because they do very important functions that are considered menial and filthy and impure.
+
+00:57:50.720 --> 00:57:53.680
+[Amit Varma]: Absolutely. If you can't change their mindset, build them a sewage system.
+
+00:57:54.320 --> 00:57:56.480
+[Amit Varma]: What's your next point on what the government can do?
+
+00:57:57.680 --> 00:58:01.440
+[Guest]: So, the first part was get out of the way. The second is actually do your job,
+
+00:58:01.440 --> 00:58:04.320
+[Guest]: right? Build public goods and services that you were supposed to build.
+
+00:58:04.320 --> 00:58:04.800
+[Guest]: Right.
+
+00:58:04.800 --> 00:58:08.240
+[Guest]: The third one, I want to go a little bit out on a limb here.
+
+00:58:08.960 --> 00:58:12.560
+[Guest]: Now, if you remember when we were talking about the problems of the village system,
+
+00:58:12.560 --> 00:58:18.720
+[Guest]: we talked about how the village system is highly segregated and this segregation extends depending
+
+00:58:18.720 --> 00:58:25.440
+[Guest]: on how bad or awful the village is or how bad the caste problem is. It extends from land use
+
+00:58:26.080 --> 00:58:32.000
+[Guest]: to water use to schooling. So, let's say it's a relatively small village and there are only one
+
+00:58:32.000 --> 00:58:36.800
+[Guest]: or two schools in that village, right? Government schools at the moment and they cater to about 50
+
+00:58:36.800 --> 00:58:41.120
+[Guest]: students each. If there's only one school in the village because of caste problems,
+
+00:58:41.120 --> 00:58:47.120
+[Guest]: lower caste children are forced to sit outside or forced to sit on the floor,
+
+00:58:47.680 --> 00:58:52.320
+[Guest]: not given access to water. The young girls are not allowed to use the same restrooms as
+
+00:58:52.880 --> 00:58:56.640
+[Guest]: the other girls of upper caste. So, there's a personal hygiene issue.
+
+00:58:57.440 --> 00:59:03.120
+[Guest]: These are really big problems. We want to make it easier for children to attend school,
+
+00:59:03.120 --> 00:59:08.480
+[Guest]: not make it harder. One part of the easier is, you know, right to education and all the
+
+00:59:08.480 --> 00:59:13.120
+[Guest]: good intentions of providing free education compulsory, blah, blah, blah. The other part
+
+00:59:13.120 --> 00:59:19.840
+[Guest]: of it is removing all the everyday roadblocks. I mean, a baker is an exceptional human being
+
+00:59:19.840 --> 00:59:25.280
+[Guest]: who was able to get through that kind of caste prejudice and still managed to get an education.
+
+00:59:26.560 --> 00:59:35.600
+[Guest]: Most students might give up. Most parents of young girls may not send their daughters to school
+
+00:59:35.600 --> 00:59:42.880
+[Guest]: if they can't get access to a restroom post-puberty. These are really basic,
+
+00:59:42.880 --> 00:59:48.240
+[Guest]: important problems that we have not found a solution for. So, the third suggestion I'm
+
+00:59:48.240 --> 00:59:55.040
+[Guest]: going to give is the school voucher system. Now, this benefits everybody, but I think it will
+
+00:59:55.040 --> 01:00:00.080
+[Guest]: really empower historically oppressed groups, especially at the village and small town level.
+
+01:00:00.080 --> 01:00:07.440
+[Guest]: What a voucher system does is it empowers the parent and the student as opposed to the school.
+
+01:00:07.440 --> 01:00:11.200
+[Guest]: Now, think about a village structure. The school is going to reflect the power structure of the
+
+01:00:11.200 --> 01:00:16.400
+[Guest]: village. And we know that the historically educated castes are all upper caste. Not to say you can't
+
+01:00:16.400 --> 01:00:24.080
+[Guest]: have a Dalit school teacher. We have many, many, many excellent Dalit school teachers. But there
+
+01:00:24.080 --> 01:00:30.240
+[Guest]: is the same hegemonic structure in the rest of the village will partially limit itself at school.
+
+01:00:30.800 --> 01:00:35.680
+[Guest]: What does that mean? It means if a school is run by awful upper caste elites who oppress lower
+
+01:00:35.680 --> 01:00:42.400
+[Guest]: castes, lower castes are less likely to go down. What is the exit option? None. So, the school
+
+01:00:42.400 --> 01:00:49.360
+[Guest]: voucher system can actually give these students an exit option. If you don't like the fact that
+
+01:00:49.360 --> 01:00:54.960
+[Guest]: a particular school will not allow you to use the restroom, or the peon will pour water from four
+
+01:00:54.960 --> 01:01:02.320
+[Guest]: feet above, or you can't share the same water jug as your upper caste classmates, you can exit the
+
+01:01:02.320 --> 01:01:10.320
+[Guest]: system. The voucher system will empower the poorest, most oppressed groups by giving them
+
+01:01:10.320 --> 01:01:15.840
+[Guest]: the ability to vote with their feet. We don't have that ability right now. So, even though I
+
+01:01:15.840 --> 01:01:21.360
+[Guest]: think we should introduce a school voucher system everywhere, right, not just to solve caste
+
+01:01:21.360 --> 01:01:25.120
+[Guest]: problems in India. This is a problem in urban areas. It's a problem in the United States.
+
+01:01:26.000 --> 01:01:30.080
+[Guest]: So, even though I think the voucher system actually has a lot of benefits in terms of
+
+01:01:30.080 --> 01:01:34.480
+[Guest]: educational outcomes, it empowers students and parents instead of teachers unions,
+
+01:01:34.480 --> 01:01:42.000
+[Guest]: I think it will have a particularly big impact on solving the caste problem or at least mitigating
+
+01:01:42.000 --> 01:01:48.960
+[Guest]: it. Because most low caste students are not able to get an education that will even help them get
+
+01:01:48.960 --> 01:01:54.640
+[Guest]: the reserved jobs. The only way to provide that education is through better schooling,
+
+01:01:54.640 --> 01:01:59.920
+[Guest]: which at present is private schooling or competitive public schooling. That situation
+
+01:01:59.920 --> 01:02:04.320
+[Amit Varma]: is solved only by a voucher system, no other. And, you know, I've been writing about school
+
+01:02:04.320 --> 01:02:08.400
+[Amit Varma]: vouchers for almost 15 years, as you know, and this is the first time I've actually thought
+
+01:02:08.400 --> 01:02:13.040
+[Amit Varma]: about it in the context of caste. You always think about it in the context of economics or
+
+01:02:13.040 --> 01:02:19.920
+[Amit Varma]: education or whatever. But, you know, here it is, could play a part in making society function
+
+01:02:19.920 --> 01:02:25.600
+[Guest]: better. I don't think, I've read all your pieces on school voucher system and I don't think what
+
+01:02:25.600 --> 01:02:32.480
+[Guest]: you're saying is tangential or contradictory to the caste problem. It's just that the caste
+
+01:02:32.480 --> 01:02:38.560
+[Guest]: problem is the core of the problem as it drops people of choices and makes exit very difficult.
+
+01:02:39.120 --> 01:02:43.440
+[Guest]: Right? School voucher solves both of those problems. So it's going to solve those problems,
+
+01:02:43.440 --> 01:02:49.360
+[Guest]: whether there's a caste problem or not. If there is a caste problem, it is even more empowering.
+
+01:02:49.360 --> 01:02:53.200
+[Guest]: I don't think, I think it fits very well with what you've been working on.
+
+01:02:53.200 --> 01:02:58.160
+[Amit Varma]: Absolutely. I mean, school vouchers empower parents with choice and any kind of empowerment,
+
+01:02:58.160 --> 01:03:02.960
+[Amit Varma]: obviously applies to everybody. What's your fourth point on what the government could do?
+
+01:03:03.600 --> 01:03:08.240
+[Guest]: The fourth point is the hardest to solve and it can't be solved. The fourth point is that this
+
+01:03:08.240 --> 01:03:14.320
+[Guest]: kind of constitutionalization of caste needs to go. So part of it was done by the Mandal judgment,
+
+01:03:14.320 --> 01:03:20.160
+[Guest]: which just in brief, what that particular Supreme Court judgment did was it said, look,
+
+01:03:20.160 --> 01:03:25.440
+[Guest]: there are various castes, which are all lobbying for different kinds of benefits,
+
+01:03:25.440 --> 01:03:30.640
+[Guest]: you know, with good and bad reasons. Some were genuinely historically expressed. Some are new
+
+01:03:30.640 --> 01:03:36.960
+[Guest]: groups that are trying to get these benefits. However, all reservation must be capped at 49.5%.
+
+01:03:38.320 --> 01:03:46.080
+[Guest]: So there was a particular number which came to 22.5% for scheduled caste and scheduled tribes,
+
+01:03:46.080 --> 01:03:52.320
+[Guest]: and then 27% for other backward classes. It needs to stop at 49.5%. There will be no more.
+
+01:03:52.320 --> 01:03:59.920
+[Guest]: Now, this is really interesting. This was already, the Mandal judgment read in more than what the
+
+01:03:59.920 --> 01:04:05.200
+[Guest]: original constitution said. The constitution never gave a certain number and it never imposed
+
+01:04:05.200 --> 01:04:11.280
+[Guest]: a particular limit, right? It just told you what groups and what percentages. So what the Mandal
+
+01:04:11.280 --> 01:04:15.600
+[Guest]: judgment did is both expanded the reservation policy and at the same time constrained the
+
+01:04:15.600 --> 01:04:20.960
+[Guest]: government by capping it at 49.5%. Now, what has happened since the Mandal judgment?
+
+01:04:20.960 --> 01:04:27.360
+[Guest]: More and more groups want to be included. They understand that if they are included
+
+01:04:28.000 --> 01:04:34.160
+[Guest]: within the 49.5%, they're going to rob other groups of their privileges. So what are they
+
+01:04:34.160 --> 01:04:38.960
+[Guest]: trying to do? In every state, there is a group lobbying to get an exemption to the Mandal
+
+01:04:38.960 --> 01:04:45.280
+[Guest]: situation by adding their particular reservation policy in a particular constitutional framework
+
+01:04:45.280 --> 01:04:53.920
+[Guest]: called the 9th Schedule. The 9th Schedule, just again very briefly, provides a constitutional
+
+01:04:53.920 --> 01:05:00.000
+[Guest]: vehicle to protect the laws from judicial review, even if it violates the fundamental rights chapter
+
+01:05:00.000 --> 01:05:06.560
+[Guest]: of the constitution. So what that means is, if you want an exception from any of the fundamental
+
+01:05:06.560 --> 01:05:11.600
+[Guest]: rights currently at work, and you usually want an exception because a court has shuttled down,
+
+01:05:11.600 --> 01:05:18.000
+[Guest]: you use the 9th Schedule. I wrote about this extensively for your magazine and
+
+01:05:18.000 --> 01:05:24.080
+[Guest]: Pravati on land reform issues. One interesting thing about the 9th Schedule vehicle is that
+
+01:05:25.360 --> 01:05:31.520
+[Guest]: reservation policy had made an appearance in it. So Tamil Nadu law, the reservation policy
+
+01:05:32.800 --> 01:05:39.840
+[Guest]: completely goes well above 49.5%. I think it went to 69% in the first shot and then
+
+01:05:39.840 --> 01:05:45.440
+[Guest]: somewhere in the 80s after that. So they got an exemption to Tamil Nadu law by adding it to the
+
+01:05:45.440 --> 01:05:50.560
+[Guest]: 9th Schedule. If you read the newspaper and do a quick search for the 9th Schedule, what you will
+
+01:05:50.560 --> 01:05:56.640
+[Guest]: observe is groups like Paridhar, Sapos, Gujarat, Jats, not Gujarat, I think just Jats and Haryana,
+
+01:05:57.200 --> 01:06:03.360
+[Guest]: each one of them is lobbying for legislation to be passed that they know is unconstitutional
+
+01:06:03.360 --> 01:06:07.840
+[Guest]: in the current framework and then lobbying that their state government lobbies the central
+
+01:06:07.840 --> 01:06:12.800
+[Guest]: government to add these to the 9th Schedule using a constitutional amendment to increase
+
+01:06:12.800 --> 01:06:20.000
+[Guest]: the reservation in their state above 49.5%. So what we have done in this complicated story is
+
+01:06:20.720 --> 01:06:26.000
+[Guest]: we have constitutionalized caste. Even when the court says it's unconstitutional,
+
+01:06:26.000 --> 01:06:30.640
+[Guest]: there is a way around the problem. It is to keep fixing and tweaking the rules and the limits.
+
+01:06:30.640 --> 01:06:38.080
+[Guest]: The way the current problem is being solved is if there is a group which becomes a vote bank by
+
+01:06:38.080 --> 01:06:44.000
+[Guest]: unifying like the Paridhars or the Kapus, they unify, they agitate together, they form a vote
+
+01:06:44.000 --> 01:06:48.400
+[Guest]: bank, they try to lobby and get what they want through the caste reservation system.
+
+01:06:48.960 --> 01:06:54.560
+[Guest]: So this is a really big problem. Now when I say this needs to go, I unfortunately don't have a
+
+01:06:54.560 --> 01:06:59.680
+[Guest]: good solution for it. You know, you know a lot of public choice so you know that there's this
+
+01:06:59.680 --> 01:07:05.760
+[Guest]: problem of the transitional gains trap which is we all know that exiting the existing system and
+
+01:07:05.760 --> 01:07:11.600
+[Guest]: going to the new system will be more efficient but making that transition is going to create some
+
+01:07:11.600 --> 01:07:17.280
+[Guest]: winners and losers. All the losers in that transitional system are going to do their best
+
+01:07:17.280 --> 01:07:25.120
+[Guest]: to hold on to their privileges. In fact, given the nature of our democracy and the fact that all our
+
+01:07:25.120 --> 01:07:30.640
+[Amit Varma]: politics is essentially identity politics, this is again a vicious circle. It's pretty much
+
+01:07:30.640 --> 01:07:36.160
+[Guest]: impossible to solve. This is very difficult to solve and I think the only way around it, I don't
+
+01:07:36.160 --> 01:07:41.680
+[Guest]: want to be, I don't want to keep sounding like this free market messiah but liberalizing the
+
+01:07:41.680 --> 01:07:46.880
+[Guest]: economy is the only way. We need to create job opportunities for these groups which are actually
+
+01:07:46.880 --> 01:07:51.680
+[Guest]: better than what the government is promising. That is the only way to get out of this trap.
+
+01:07:51.680 --> 01:07:56.080
+[Guest]: Now there's very little incentive for politicians to do that because how else
+
+01:07:56.080 --> 01:08:00.080
+[Guest]: will they get their votes, right? You want to keep the people uneducated and oppressed so that you
+
+01:08:00.080 --> 01:08:06.160
+[Guest]: can promise them benefits. So there's a disincentive for politicians to fix this problem
+
+01:08:06.160 --> 01:08:11.200
+[Guest]: but liberalizing the economy and creating more jobs is pretty much the only way to go.
+
+01:08:11.200 --> 01:08:16.560
+[Guest]: We've seen that not liberalizing the economy is actually making the problem worse, right? Upper
+
+01:08:16.560 --> 01:08:22.960
+[Guest]: class groups now want protections. So where do you go from there? So the only way around this
+
+01:08:22.960 --> 01:08:27.680
+[Guest]: problem is to create jobs that are better than the reserved ones, right? Like the one you have or the
+
+01:08:27.680 --> 01:08:32.880
+[Guest]: one I have. We have exited the system to a better opportunity. We're not actually looking for the
+
+01:08:32.880 --> 01:08:39.200
+[Guest]: existing opportunity. I completely acknowledge that we're a privileged lot but we need to find
+
+01:08:39.200 --> 01:08:45.360
+[Guest]: a market system that offers everyone those privileges and protections. The only way to do
+
+01:08:45.360 --> 01:08:51.600
+[Guest]: that is to create a larger pie that everyone can share in and the only way to do that is economic
+
+01:08:51.600 --> 01:08:55.520
+[Amit Varma]: growth through liberalization. I couldn't agree with you more. I think if we empower enough
+
+01:08:55.520 --> 01:09:00.000
+[Amit Varma]: individuals and change their incentives to think beyond the caste system then the incentives for
+
+01:09:00.000 --> 01:09:05.040
+[Amit Varma]: politicians in the political marketplace also change. That's really, that's our only hope in
+
+01:09:05.040 --> 01:09:08.880
+[Amit Varma]: the long term. Shruti, thanks so much for your time. I've learned a lot today. It was great
+
+01:09:08.880 --> 01:09:12.480
+[Guest]: having you on the show. Thanks, Amit. It's always great fun speaking with you.
+
+01:09:12.480 --> 01:09:12.980
+[Guest]: Thank you.
+
+01:09:15.120 --> 01:09:20.640
+[Amit Varma]: If you enjoyed this show, head on over to sceneunseen.in for all previous episodes of
+
+01:09:20.640 --> 01:09:25.280
+[Amit Varma]: The Scene and the Unseen which include a few with Shruti as my guest. You can follow Shruti on
+
+01:09:25.280 --> 01:09:33.760
+[Amit Varma]: Twitter at srajgopalan and you can follow me at amitvarma. This podcast is produced in
+
+01:09:33.760 --> 01:09:39.280
+[Amit Varma]: partnership with IVM Podcast and I'd encourage you to check out more podcasts by them by
+
+01:09:39.280 --> 01:09:45.520
+[Amit Varma]: downloading the IVM Podcast app or by following them on Twitter and FB. See you next week.
+
+01:10:09.280 --> 01:10:18.000
+[Unknown]: There she stands, a podcast addict. Outside the bank, having travelled several miles to get in
+
+01:10:18.000 --> 01:10:23.840
+[Unknown]: with other poor souls like her. The journey, though daunting for this youngling, will have
+
+01:10:23.840 --> 01:10:30.240
+[Unknown]: some comfort because she has downloaded her favourite podcast. You can see more of her
+
+01:10:30.240 --> 01:10:37.280
+[Unknown]: species on ivmpodcasts.com, your one-stop destination where you can check out the
+
+01:10:37.280 --> 01:10:46.000
+[Unknown]: coolest Indian podcasts. Happy listening.
+

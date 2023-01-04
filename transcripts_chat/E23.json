@@ -1,0 +1,312 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Welcome to the IBM Podcast Network. I had a strange dream the other night. I dreamed that I died and went to heaven. At least that's what the entry gate said. There was a sign that told me, welcome to heaven. So I went in and there was some sweet music at the start. And I thought, ah, this is going to be wonderful. Maybe there will be unlimited seafood platters here. Maybe there will be slaves in silk harem pants who will hold up grapes above my face as I reclined languorously on a couch. All day long, I will get massages from voluptuous women who keep telling me how slim I am, who giggle at all my bad jokes and flirt with me so endlessly that an accidental non-flirtatious statement seems like downright rudeness. The music will be mellow. The saffron will be yellow. This will be heaven. Instead, imagine my shock and horror when I find that it's really a dark and dingy dungeon. There are cockroaches all over. It smells like the underperformer in the Sulabh Shauchala family. There is ice cold water dripping from the ceiling. There are mosquitoes as big as frogs. There are frogs as big as cats with slimy skin that gives off mild electric shocks when they bump into you. The chairs have spikes on them. And worst of all, the music is Justin Bieber. I am in shock when I see all this. Am I really in heaven? I turn around towards the entrance and I see a babu in a safari suit wearing a badge that says, Undersecretary, Department of Salvation. What's going on? I ask him. Am I really in heaven? Yes, he says. You are. What happened to it? I ask. He replies, We nationalized it. Nationalized it."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:55.160",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:01.560",
+        "message": "Please welcome your host, Amit Badma. Welcome to The Seen and The Unseen. My topic for today is public sector banks. In 1969, Indira Gandhi carried out a big wave of bank nationalizations with immensely noble stated intentions. Were those bank nationalizations good for us? What were their unintended effects? Indeed, are public sector banks structurally flawed in such a way that the very concept makes no sense? To discuss all this and more, I have as my guest on the show, my very good friend, Kumar Anand, an economist based in Mumbai. Welcome to the show, Kumar."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:39.160",
+        "message": "Thank you for having me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:40.560",
+        "message": "Kumar, tell me, in 1969, when Indira Gandhi carried out her wave of bank nationalizations, what were the stated intentions behind the move?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:50.760",
+        "message": "The stated reasons could broadly be categorized into two of them. One was financial inclusion. So, not many people had access to the institutional form of credit. So, the government wanted to make those forms of credit available to people who were otherwise unbanked. And second was directing credit into areas which government thought was necessary, in which areas the credit should go."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:12.560",
+        "message": "So, it was a laudable thinking that, hey, people in rural areas don't have access to bank credit and private banks won't open up there. So, let's nationalize and then we can open up branches anywhere and give credit to people who otherwise wouldn't get it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:25.560",
+        "message": "Exactly. So, in hindsight, when academics have studied this phenomenon, they have said that financial inclusion and directed credit were the two main reasons. But the government's stated objective at that time itself, if you read the ordinance, when these ordinances were promulgated, when these ordinances were promulgated and banks were nationalized, the instrument through which it happened, they have said that we are basically taking these resources so that we can better plan the development of the country. As you know, after independence, what we had done was we adopted a central planning model of development and for that you need a lot of resources. But the problem that India faced, that we had a democracy and private properties. So, you can't do the kind of planning, which, for example, Soviet Russia did. So, you had to do these kind of appropriations."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:16.760",
+        "message": "So, in a sense, it's just as Nehru made the mistake of thinking India needs to be a planned economy and not realizing that economies grow by themselves and the government should just essentially stay out of the way and maintain the rule of law. And Indira took it one step forward by saying that, hey, we need more resources to control and plan the economy. So, we will take it from the private sector."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:36.760",
+        "message": "Yeah, in a way, we were not learning the lessons. So, for example, the planning entire thing started in 1950 and during the time we nationalized, in the decade of 1950, we nationalized transportation, we nationalized mining, we nationalized parts of insurance corporations. But always the reason of not getting the right result from the planning was given that we don't have enough resources. So, you kept on trying to get more and more resources and it was in that same spirit that we nationalized bank in 1969 and then again in 1980."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:08.960",
+        "message": "Now, tell me something, it's one of the interesting things about the nationalizations of 69 and all of the other similar measures that Indira carried out were that despite the economic reasoning given, which you've just laid out, there was also a political backdrop to it. Can you tell me a little bit about that political backdrop?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:28.560",
+        "message": "The little political backdrop could broadly be, I think, framed in terms of that all major political parties and the entire rhetoric at the time was extremely interventionist in nature. So, no matter all the mainstream parties were different shades of, you could say, interventionism."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:46.560",
+        "message": "With the sole exception of Swatantra, which was\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:48.560",
+        "message": "Yeah, which died soon after. So, what they were trying to do is they were trying to outdo each other. So, you want to appear more pro-poor. So, you have to go and take away properties of someone, people who are otherwise rich. So, bankers, insurance, people who run insurance companies, you take away those properties and say that, yes, we are doing it for poor and we are directing resources"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:08.160",
+        "message": "so that in future probably India will develop. Very intuitive, zero-sum thinking, in other words. And the interesting immediate backdrop is that Indira Gandhi was sort of, this is when the Congress kind of broke into two, Congress I and Congress O. For Indira, because the other faction of the Congress was leaders who had lived through the narrow years but kind of learned from the mistakes and were trying for a course correction. The only way for Indira to differentiate herself was to go further leftward. And this kind of pro-poor rhetoric, though these actions of course harm the poor the most, but the rhetoric is pro-poor, was a very good way of setting her brand apart. You know, Garibi Hata, Indira is India and so on. So, tell me something, just going back to the scene objectives. Before we get to the unseen effects, to what extent were even those scene objectives attained?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:00.360",
+        "message": "Well, frankly speaking, not much. And when you nationalize these banks, so as I was mentioning the first tranche was done in 1969 when you nationalized 14 banks and then again in 1980 when you nationalized 6 more. So what you had was majority of the banking was all publicly owned, all owned by the government of India. So you couldn't say that what, you don't have basically a counterfactual. You can't say if there was a private sector bank, what would have happened? Because all banking in India at the time was owned by the government and run by them. So, both the objectives of financial inclusion and directed credit, in hindsight people have studied this. In 2008, I think Planning Commission set up a committee under the chairmanship of Raghuram Rajan and he studied public sector banking in a little bit detail, did some studies on ransom numbers and judged the effectiveness of public sector banking having existed for now about 30-40 years, what were the success. And on both the measures, it turned out that they had not done really well. So just to quickly tell you about a few of them. So take for example financial inclusion. On financial inclusion, the committee found that poor in richly branched urban areas have no more access than in poor in rural areas. So the problem of financial inclusion is not so much about availability of branches"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:24.160",
+        "message": "but rather poverty itself."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:26.160",
+        "message": "Second for example could be that they found that no systematic relationship existed between regional credit disbursement and the presence of public sector bank. Then they also found that in rural areas where private banks are present, they don't discriminate against the poor. So at the end of the day, it's business for them. Rajan in fact has concluded that the kind of environment you want to build is where you compete for the poor. Now when you look at the other objective which was directed credit, in recent years we have seen that private banks have done better than public sector banking in achieving the priority sector lending criteria. Just to give you a quick background, the priority sector lending is something that RBI mandates that every commercial bank in India, private or public, will have to lend 40 rupees out to priority sectors which are agriculture, micro, small and medium enterprises etc. So in those areas, the committee found that the private sector banks have done a much better job than a public sector bank. Then again coming back to the same directed credit, they also found that in terms of loan timing, in times of drought in a district, private banks appear to provide more agricultural loans while public sector banks are still harmful. And when it comes to quality of directed lending, the share of NPAs in the PSL has been higher for public sector banks."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:51.960",
+        "message": "And the greater efficiency and the higher quality that the private banks provide is of course because of the incentives involved which we will come to later. But I just wanted to point out this funny mishearing"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:10:05.960",
+        "message": "that when you spoke about"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:07.960",
+        "message": "the Raghuram Rajan committee, you said they are ransom numbers but let's get to the crux of the matter. Before we even get to the unseen effects, the unseen effects are really a consequence of the incentives in play. How the incentives are different in public sector banks from private sector banks. Can you elaborate a little bit on that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:28.560",
+        "message": "If you think about it, think of any government enterprise. Right now we are discussing public sector banks but that is true for almost any other enterprise. So when you are running an enterprise, what is your objective? If it is a private enterprise, the objective is profit maximization. Now I should forewarn that the government and the public sector banks themselves they know that the profit maximization is not their goal. So their goal is financial inclusion and directed credit and we just saw that they have not been able to successfully achieve this credit. Now the incentive, the way it works for public sector banks they don't have too much of you know, they have complete job security. So no matter what mishap happens their jobs are guaranteed. They don't have any incentive or disincentive because if they do a good job they are not going to get a great pay hike or if they do a bad job"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:25.760",
+        "message": "they are not going to get a rap on the knuckles. So essentially what is true of all governments what is true of public sector banks therefore also is what Friedman mentioned in his four ways of spending so there are four ways in which you can spend money. One, you can spend your own money on yourself when you obviously try to maximize value because you are spending it on yourself but you also want to economize because it is your own money. The other is when you spend your money on someone else when you want to economize but you don't care so much about value because it is going to someone else. The third is when you spend someone else's money on yourself when you want value but you don't really care about economizing because it is someone else's money they will work in a company and send you on a foreign trip and you will be ordering whatever you want in room service because that is taken care of by the company. And the fourth way is when you spend somebody else's money on somebody else where you don't care about value and you don't care about economizing it is not your money you are not spending it on anyone else and that is all of government and to add to that this is the fact that all of government is therefore also tenured and their incentives are not there it is just their incentives revolve around how they can use their power for personal benefit and that is something that is a problem with any public sector enterprise especially public sector banks"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:44.560",
+        "message": "and one reason why they haven't achieved their objectives. In a way you could say that is true, that is correct."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:48.560",
+        "message": "Getting to the crux of the matter the unseen effects can you elaborate on some of the unseen effects"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:54.560",
+        "message": "that come from these perverse incentives? Sure, there are too many but we will limit ourselves to a few of them. First you can directly look at what are the direct costs in terms of so these banks have to regularly go for recapitalization and because it is government owned so the liability lies on the government and government has to finance it that means we taxpayers have to pay for it and some of the data that we had collected some time ago we found that so in about 30 years from 1985-86 onwards till now the amount of money that taxpayers had to pay is 1,47,000 crore for the recapitalization of banks now imagine the direct cost which we incur for maintaining these banks all those alternate uses that these money could have been used for we know that our criminal justice system is so poorly staffed in terms of policemen and the number of judges you can hire so 1,47,000 crore is a lot of money so of course one is the direct cost itself then this also promotes inefficiency in the entire banking system so for example the people who run this"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:14:02.360",
+        "message": "they don't have the skin in the game"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:04.360",
+        "message": "so think of the example like Maruti when it comes to car industry and Bajaj when it comes to scooters so you didn't see much of or BSN or MTNL when it came to telephone so you didn't see much of technological advancement when it was happening when they had sort of almost a monopoly on these sectors so similarly the same is true with banks so for the longest period you didn't see any advancement and even today public sector banks are almost always one step behind the advancement that the private sector banks have done many of the public sector banks they struggle with running or ATMs, internet banking is crashed"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:44.960",
+        "message": "they don't run very efficiently just to take this point forward about inclusion and you mentioned telephones and I'm glad you do so like I grew up in the 80s where we had one government telecom provider which was MTNL and we had one airline which was Air India slash Indian Airlines for domestic and foreign and what you found was now I was from a privileged family we had phones at home but otherwise if you applied for a phone there were 5 year waiting periods massive scarcity not just technology just basic scarcity this guy couldn't dream of flying it was like a very big deal at the time and what happened is the moment the government opened it up because of competition inclusion happened today anybody can buy a phone today your maidservant who comes home has a phone which can do so much more than the most advanced technology of those times and today far more people fly than back in the day it's become much more commonplace and these specific sectors were simply opening it up and today therefore MTNL seems irrelevant Air India seems irrelevant and hopefully won't exist for too long as a government owned company and why doesn't the same logic apply to banking?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:58.760",
+        "message": "Well that is a question which has been unfortunately not even been asked so whether it comes to academicians they think this as a political economy problem this is unsolvable so they just can't touch it Raghuram Rajan committee report it was giving us a recommendation it falls short of suggesting privatization of the banks the most recent example is in 2014 I think it was RBI which constituted a PGNI committee report and I think they are the ones who delve very deeply into the governance of public sector banks and they also almost you know have explicitly said that you know we can't consider almost privatization of banks so their entire set of recommendations is centered around what all they can do"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:44.960",
+        "message": "within the current system So essentially they will identify It has become sort of a holy cow So they will identify the problem correctly and they know what's wrong with it but they just stop short of suggesting the correct solution"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:58.960",
+        "message": "even though they know it Is that because of pressures in the political economy per se? I don't know maybe it could just be that they see this as a holy cow RBI has mandated private sector lending which should achieve the objective of the government so no matter whether you are ICICI bank or State Bank of India you have to give certain amount of credit so in this case 40% and 80% of that goes to agriculture directly to you know the credit response should go into these areas so it should not matter I mean you have already mandated"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:35.560",
+        "message": "so whether it is State Bank of India tomorrow gets privatized as it may if you have the mandate you don't need the public sector banks"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:45.160",
+        "message": "because your purpose is achieved"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:47.160",
+        "message": "and it is achieved better and more efficiently but I am sorry I interrupted you and set you off on this digression so the first two unseen effects you mentioned were"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:59.160",
+        "message": "when banks get recapitalized it basically comes from taxpayers money which is us"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:05.160",
+        "message": "and you mentioned the humongous amount see these figures don't mean a thing to me because I can't comprehend 50,000 crores I can comprehend 50,000 or even 50 crores what is 50,000 crores? I mean if you stacked up 10 rupee coins you would probably get from here to the moon"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:19.760",
+        "message": "I think so probably"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:21.760",
+        "message": "or maybe not whatever"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:23.760",
+        "message": "we leave it to someone else"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:25.760",
+        "message": "if you take a different currency probably Mars even yeah I mean Zimbabwe currency you can just get out of the Milky Way right so the two unseen effects one is the fact that all the recapitalization expenses are basically born by us and you've demonstrated how it has happened through the years 50,000 crores over the last three years and the second is that there's inefficiency because of incentives because the bureaucrats who run the banks have no skin in the game as you put it and therefore they don't really"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:57.360",
+        "message": "I mean why should they do a good job what else? so we have been listening recently rising NPS is a part of that now how does that happen? so imagine a world where you have a monopoly over giving out banking and today almost about 70% of the banking business is run by public sector banks in many areas they are the only banks operating so if you want a loan you have to go to that neighborhood bank which is owned by the government and the guy sitting there at the head of the table who has to sign your loan and award that loan to you he has this arbitrary power and you can't turn to someone else the local moneylender you will go to will probably charge you 40% or maybe even more so you know that in this case you are stuck with that so what this does is well this becomes a case of corruption then so the arbitrary power which is now lying in the hands of monopoly in a way which has been existed for a long time and the incentives the way we discussed in a way breeds corruption it becomes a breeding ground for corruption outside of that when we are talking about NPAs a direct and obvious consequence of all this is the higher NPAs there is no need or incentive for the PSB employee to do a thorough check of a prospective borrower so if I go and want a loan for about a crore rupees to buy a house from an ICCA bank the guy who is going to award me that loan is going to be very thorough with this but if he is going to look into my credit history whether I have paid back loans in the past on time or not now there are agencies which are doing this kind of reporting and background checks for you but not necessarily those kind of incentives exist for public sector bank and therefore you will see that the NPAs for the public sector bank are almost always higher than"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:49.760",
+        "message": "those for private sector banks in fact the opposite incentives exist because often if powerful politicians say give him a loan or give her a loan they don't really have an option but to agree the columnist Vivek Kaul wrote an interesting piece on the site that I edit Pragati.com the name of the piece is called the separation of knowledge and power and he gave some great figures in there now consider these in the SBI their bad loans ratio of the bank when it came to home loans was 0.43% when it came to auto loans it was 0.65% for overall retail loans it was 0.55% but Vivek's piece reveals for large corporates it's 9.67% for mid corporates it's 19.35% for small and medium enterprises it's 7.04% which means 10 to 20 times as much as for auto loans or retail loans and far far more than the NPAs of private sector banks and the reason for this is essentially that politician tells you that you have to give him and another interesting figure he points out is he refers to a specific loan where a public sector bank gave a loan at a debt to equity ratio of 14.6 to 1 while no private sector bank will ever give a similar loan at a debt to equity ratio more than 2 to 1 and this is 14.6 to 1 this specific loan that he talks about which is obviously political pressure and is deeply irresponsible and that is why we have such a massive NPA"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:17.560",
+        "message": "problem in the country today and this brings me to another unseen effect of the ownership of government banks is that it creates an uneven playing field in the market so there is sort of sovereign guarantee which lies behind all these public sector banks which have been created by an almost act of parliament so you won't see even their name appear in the other public sector enterprises so there is a sovereign guarantee which these public sector banks enjoy which a private sector bank does not enjoy so a public sector bank can never go bust that means because they have the taxpayers always standing behind to bail them out"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:54.760",
+        "message": "so essentially if a public sector bank gives a loan to someone for 70,000 crores and that person defaults hey no sweat because the taxpayer pays for it right whereas with the private sector bank the taxpayer doesn't pay for it the bank can go bust it's the bank's responsibility and therefore the incentives are much better"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:12.760",
+        "message": "within the organization to prevent that kind of occurrence so it's a forced market to develop for banking because it depresses the private sector bank's competitiveness to compete and even then you will find it our private sector banks have done excellently well by grabbing almost more than 30% of the market share from the time they were allowed"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:38.360",
+        "message": "to come in and start being in the business with banking but there is an argument that the counterfactual that private sector banks simply didn't exist because what public sector banks also do as you pointed out in our conversation with me earlier is that they create an uneven playing field which stops private sector banks from growing"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:56.960",
+        "message": "exactly then there are some of the other unseen effects of public sector banks are that it depresses the growth in the economy so when the flow of credit is determined arbitrarily by the government or bureaucrat and not by the profitability or viability of a business then the hardened savings which a banking institution is supposed to channelize into other productive users now gets channelized into non-productive users that's why the higher NPAs etc so you see that the otherwise growth of the economy would have been much higher than what we see now which also causes less jobs to be created"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:36.560",
+        "message": "and other related effects exactly, so in a proper free market where everything is just for supply and demand the money would go where the money is needed the most and that is something that the government with its fatal conceit of central planning"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:49.160",
+        "message": "simply cannot manage right, right then another unseen effect is the damage it does to the fiscal consolidation so we have something called FRBM Act Fiscal Responsibility and Budget Management Act where the government of India has put a constraint on itself saying that we will abide by these rules and not spend more than say a certain amount of money in this case being more than 3% of GDP as fiscal deficit so they won't cross that but from the time of financial crisis they have always been breaching that number they have never gotten back to it and sovereign credit rating agencies when they come and rate India they have always reprimanded in a way the government saying that you guys have been very profligate particularly when it comes to banking and not being able to control your NPAs it prevents India from getting a good rating and when you don't get a good rating that means the cost of borrowing for the entire economy goes up so any business when they go out of India try to borrow money the cost of borrowing for it goes up and similarly for India itself the sovereign bonds that the government of India will issue"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:57.360",
+        "message": "it will be able to raise funds at a higher rate from foreign borrowers so the ripple effects of that essentially go far far beyond the tax payers money going into capitalizing these banks going to the whole economy being curtailed as a result of all of this you mentioned the financial crisis so I want to ask you a question here which a lot of people speaking in favor of public sector banks often say that look we didn't suffer so badly from the 2008 financial crisis because so much of our banking"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:28.960",
+        "message": "was public sector and blah blah blah and this is the way the system is so imagine a guy who is living in a jungle of say central India somewhere in it could be Chhattisgarh or Jharkhand when the crisis hit he was not affected at all the same analogy can be used for India so if you are not integrated with the world economy and a crisis is hit and if you don't say that I didn't get hurt because I was able to regulate my banking system very well it's not a very good argument to make but you also lost quite a lot had you been integrated into the global economy you would have been able to have access to these sources of finance you would have been able to make the kind of investments which you were never able to do etc. etc."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:14.160",
+        "message": "so the opportunity cost is very high that way in other words what you are saying is if we were integrated into the world economy the gains from that would have been so much over the years that even if we suffered more in percentage loss terms we would still overall be far better off than what we were"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:29.760",
+        "message": "definitely I mean look at the per capita income of the countries which suffered and per capita income of India even after the crisis they are much better off"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:41.760",
+        "message": "than we are today"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:43.760",
+        "message": "so in a sense it's not a feature it's a bug you could say that yeah but I'll also say that public sector banks are not exactly completely the culprits here they are victims let me explain that a bit so public sector banks have to go through dual regulation so on the one hand RBI regulates them like every other commercial bank private banks while Ministry of Finance also regulates them number two is that the poor pay compared to a private sector bank so which we have discussed briefly in the beginning that there is no way and which cannot be changed without permission from say Ministry of Finance or a finance minister or somewhere at that level you cannot get good talent through which you can probably do a better business then there is external vigilance enforcement through Chief Vigilance Commissioner or CBI which are mandated to look into the workings and the dealings of public sector bank in certain cases public sector banks do RBI inquiries so what happens is that the incentive that the banker has knowing that he is going to be publicly scrutinized from all these various agencies is to play a little more safe and not trying to take kind of risks that otherwise a private banker would do and therefore increase and these are some of the reasons probably through which a public sector bank"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:16.560",
+        "message": "should be on par and play with"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:18.160",
+        "message": "it should be freed up basically and try and let them operate like a private sector bank and that can happen through making them"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:26.160",
+        "message": "like privatizing them so in a sense this is like the flip side of the NPA problem the NPA problem is that you are forced by political pressure to give out loans to people which you know are bad loans that are never coming back and the flip side of that is that when it comes to giving out loans because you know that every action of yours will be scrutinized and whereas with a private sector bank there is a healthy amount of risk that you have to take on with due diligence of course which public sector bank employees because they are not being rated on performance per se just want to cover their asses except when order comes from Netaji Right, exactly Kumar, it's been a pleasure having you on the show"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:05.760",
+        "message": "Thanks so much"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:07.760",
+        "message": "Thank you very much And that's all we have for today I'll see you next week And if you want to hear more of me you can follow me on Twitter at Amit Verma That's A-M-I-T-V-A-R-M-A You can also head on over to my blog IndiaUncut at IndiaUncut.com and if you want to binge listen to past episodes of the seen and the unseen and who can blame you for that head on over to seenunseen.in If you enjoyed listening to the seen and the unseen check out another hit show from Indusworks Media Networks Cyrus Says which is hosted by my old colleague from MTV Cyrus Brocha You can download it on any podcasting network"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:54.960",
+        "message": "Excuse me brother, excuse me Tell me madam What's on the menu? There is seen unseen, podcast, on course free discovery project, empowering series sex facts, IWM likes, simplified, keeping it queer Tings and Destinations, My Neighbour Zuckerberg and The Fan Garage What do you want? Can you repeat it once? I don't repeat Go to IWMpodcast.com and listen to it or download their app www.IWM.com"
+    }
+]

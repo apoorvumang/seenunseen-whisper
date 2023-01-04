@@ -1,0 +1,732 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "The first time I heard about the internet was in the 1990s, when a friend told me about it with great excitement. He said the internet is so amazing, you can just go to this site called Yahoo and search for say Van Morrison, and it will display every single page about Van Morrison. I said, Wow, that's so cool. I love Van Morrison. At that time, if you told me all the ways in which the internet was going to change our lives in the next 25 years, I would have said, No way, that's science fiction. But much of the science fiction of that time is everyday banal reality today. I often think that I'm so lucky to live in these amazing times, all the information in the world at my fingertips. And within a few seconds, I can listen to any song ever recorded, download most of the books that exist and watch any film that I want to. I can connect to my friends around the world and make new ones. This is the most empowering tool in human history. But here's one question."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:59.640",
+        "message": "Is there a flip side? Welcome to the scene and the unseen, our weekly podcast on economics, politics and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:10.480",
+        "message": "Please welcome your host, Amit Badma. Welcome to the scene and the unseen. The topic for today is the future of the internet. And my guests are Nikhil Pawar of Media Nama and Amit Doshi of IVM podcast. IVM podcast, by the way, are my partners in running the scene and the unseen. Nikhil has been worried about the future of the internet for a while. And he suggested the theme of this episode. Amit co-hosts a tech podcast on IVM networks called Shunya One and is one of the most clued in guys I know. We had this conversation a few weeks ago, and it's quite a lively discussion. So listen in. Nikhil and Amit, welcome to the scene and the unseen."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:52.400",
+        "message": "Hello. Good to be here."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:54.400",
+        "message": "Yeah, this is my first time on. So Nikhil, the internet like air, like water, it's something we just take for granted. We assume that it was always thus and always will be a wonderful free place where anyone can say what they want and free exchange of ideas and blah, blah, blah, blah, blah. But you have recently been extremely worried about the direction that the internet is going"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:12.920",
+        "message": "in. Tell us a little bit more about that. Yeah, so you know, the the internet is this massive global space which unites the world. There are potentially no geographical boundaries on the internet. Something that I create or I write can be read by anyone else in the world and vice versa. And we've many of us have grown up with this space, right? So there is, there's a sense that we belong to the internet. And we feel quite often we feel more at home on the internet and people we meet of the internet. You know, growing up when I first started meeting friends off the internet, my, I had my uncle tell me to be careful, etc. and, and text message SMS at that point in time about where I am and who I'm meeting and all of that stuff. We've sort of outgrown that phase now and, you know, today if you land in any country in the world, you probably have people you want to meet or you already know because you've interacted with them on the internet around things that are common. So in that sense, the internet is this global public commons that unites the world. And what's been happening over the last five or six years is that there is this massive, and this is a political thing, there's a massive shift in the concentration of power on the internet and the web seems to be shrinking. And so, you know, our access points to the broader internet are getting more limited and more controlled. And what's also happening is that for the new people who are coming online, for most of them, the browser is just an app on the device. And so therefore, they don't really necessarily get to, you know, experience that, that, you know, some silly blog somewhere that someone's written, because how will they find out that this exists? They don't know what a URL is, they may not know how to type a URL, the URLs are maybe not in their language. And so there is a shift in the way how we access the internet."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:04:05.960",
+        "message": "This is something that's irritated me for so many years, right? I mean, we got to a point where we could get rid of desktop software by getting our browsers on the PCs, being able to do all of our stuff over there, right, our email and all that. And now we went back to the same thing as soon as mobile phones came, where now everything has to be through an app instead of being able to use like an open browser."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:24.440",
+        "message": "And that's actually the challenge, right? So the French regulator ASEP has recently come out with a consultation paper on device neutrality, saying, and you know, I was initially against that idea, because I say that, you know, devices are unregulated, anyone can launch a device. But there is a concentration of power that's taken place there in terms of the app stores. And you know, one of the things that came up recently in India was that the TRAI, which is the Indian telecom regulator, could not launch an SMS spam app on the iPhone, because Apple wouldn't allow certain permissions. So if you think about it, Apple is a regulator that's regulating the Indian telecom regulator. And that's a bizarre situation to be in. So there's, and therefore, the TRAI started pushing back. But really, where we are going with this here is that Apple controls what gets on to the app store in the same way that Google controls what gets on to the Play Store. And between the Play Store and the app store, I think they probably have 99% of the world's"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:05:26.840",
+        "message": "phones. And they're actually not really good actors in this space a lot of times as well. I mean, like, the way that the what happened to Windows Phone, right? In some ways, is entirely because the app store and the Play Store would not play well"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:39.240",
+        "message": "with others."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:05:41.000",
+        "message": "But they don't play well with each other, right? Yeah, with anybody."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:44.400",
+        "message": "So then this is this is a fight between elephants, and the grass is getting crushed. So and that grass, which is getting crushed is the internet, the broader open internet."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:52.200",
+        "message": "So I want to go back to how you started the episode and forgive me if I ask some newbie questions and, you know, seemingly basic things, I just want to kind of see if I'm understanding you correctly, where you pointed out about how the internet is shrinking as a space. Now I get that all the big players are getting much, much bigger, that more people's first exposure to the internet is say through a Facebook, or, you know, through a Google then, instead of just a wild world wide web of sites that we had out there, but at the same time, it's still open, anyone can go out there and start anything, start their own site, start their own app, start their own platform, they might not get much traction, because the way people filter content has changed. And that's kind of been, you know, these large companies are dominating that filtering process where people discover content and so on and so forth."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:42.880",
+        "message": "So I guess the way you need to look at it is that what part of this is harmful for free speech, what part of this is anti competitive in nature, right? And how, for example, filter bubbles impacting our discovery of things. If you look at, let's say, Google search versus discovering something on Facebook, Google search is largely intent based, but I'll take you back to almost 10 years ago, when news cops started complaining about Google search, because Google's algorithm, which is a black box, was defining how news cops content was being consumed. And so we're back to that same battle here. But now it's not just a battle on Google search, but it's also around Facebook and the filter bubbles and the access to content there. So I think another discussion that's probably going to be had, and we're not having it yet, is the neutrality of algorithms, and who controls what the algorithms show us from that perspective, because, you know, there was one experiment, which Facebook did in, I think, 2012, where they started changing the newsfeed to make you happy, to make you happy and sad. And so, you know, is it really neutral is the question? And do we have multiple options in terms of algorithms as well? These are discussions that are going to happen because they change the shape, not just the way we consume content, but they shape how we view the world, they can shape democracies. And I'd like to, you know, go back to where this battle actually started. And so I kind of like to imagine Facebook as a country, and the same way Google as a country and Amazon as a country. And there is this turf war and this land grab that's taking place across the board. So whether you look at, let's say, Amazon doing AWS, which is their hosting service, Google doing Google Cloud. So, you know, different companies are now looking at various industries, subsegments to get into, to get more information and more control in that space. Everyone wants to do commerce as well. And everyone wants to do devices as well. A voice is where the real battle is happening right now in terms of Google Home versus, you know, the Amazon Echo. You might have noticed recently, there was this battle around YouTube being removed,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:09:05.800",
+        "message": "Chromecast, I think. So Amazon Prime is no longer available on Chromecast."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:09.400",
+        "message": "Amazon Prime is no longer available on Chromecast. And there was a reciprocal reaction there. Now, in all of this, because of these battles between these guys, consumers effectively are deprived of that choice."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:22.720",
+        "message": "But you know, I don't understand that it would be a problem, what you're describing, if it was just one big monolithic company taking over clouds and taking over content platforms and so on."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:09:32.880",
+        "message": "But what you seem to have here is a really healthy competition. And I think that's good for the consumer. Well, generally, I would agree with you. And I am pro competition in most places. What I think happens over here is these ecosystems develop lock-in. And when you have lock-in of that nature, it's difficult to move from one to another, right? I set up my entire home to function on a Chromecast and through using all Google services. All of a sudden, I can no longer use Amazon Prime, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:54.960",
+        "message": "Well, I still use it on Chromecast casting my screen."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:09:57.440",
+        "message": "But that is a..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:58.440",
+        "message": "But that's because casting is a protocol, it's not necessarily a, you know, it's... And by the way, there is every possibility that casting in the future may not allow it. You don't know how this is going to function in the future."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:10:11.800",
+        "message": "So there was... And we've seen this happen before. So there was a very... So again, I mean, I brought up Windows Phone earlier, right? But there was a big problem with YouTube on Windows Phone. When Windows Phone wanted a YouTube app, Google wouldn't make it. They made their own, but they use private APIs. And then Google blocked that app. And they blocked the API."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:27.940",
+        "message": "So there's always this kind of fight going on in these platforms. My... See, one prism through which I look at the world, as you know, Nikhil, is the whole issue of what is voluntary and consensual and what is not. And what I see happening here is, and not just in terms of devices and not just in terms of Google versus Facebook, is a question I always ask myself is, where is the coercion? Now, if all these different companies are offering different kinds of products and the consumer can, you know, choose between one and the other, or just take a combination of all of them, why get in the way of that voluntary exchange? Like, when you talk about the algorithm that Facebook would have to make people happy and sad, that yes, when I read about it, it makes me angry that damn, I'm being manipulated and that makes me pissed off. But then my appropriate reaction to that should be to go off Facebook. My point is that if people have signed on voluntarily to Facebook, and if everything is voluntary, and there's no coercion anywhere, then who are we to condescend and get in the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:21.680",
+        "message": "way? No, so this, this particularly impacts you if you're a creator. And see, this is the difference between the internet and traditional platforms like TV and cable, etc. And which is why the internet has no parallel. When you're a creator, your dependency on the distribution platform is very, very high. Now, go back to let's say another six, seven years, and there was a big battle between Hatchet as a book publisher, and Amazon. And Hatchet did not want Amazon to drop Hatchet prices, essentially. And Amazon, therefore, started showing, I think, fewer Hatchet results in searches and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:57.840",
+        "message": "things like that. I was actually a Hatchet author, I mean, I launched in India with my book, and I think it's legitimate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:02.880",
+        "message": "I mean, it's two private parties negotiating. But it's but that's where power comes in, right? And the power of the platform is always going to be greater than the power of the creator. One of the things you have to remember about all all platforms is that they're in the business of maximizing fragmentation, and monetizing the aggregation, right? So when they maximize fragmentation, and we've seen so I did some research on the YouTube ecosystem. And you know, when YouTube initially started, every creator was really, really happy because they got special attention from YouTube and YouTube guys would come and teach them about how to do better and better. And you know, initially, they made a lot of money. As more and more creators started coming on, they started getting less help. And they started making less money. And so therefore, as fragmentation increases, it's the aggregator that holds all the power. And unfortunately, the way markets work is that there is only space for a few large aggregators. And and the network effects that come in really inhibit competition. And therefore, you've seen that with Facebook, for example, there's literally no competition, the social networking space in case of I mean, in case of Amazon, India still has competition in case of Flipkart. But even the and I don't quite agree with them. But they've also been complaining about capital dumping, because they realize now this is a battle about deeper pockets. And then it's going to be a last man standing game."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:29.400",
+        "message": "So let me paraphrase your point."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:30.680",
+        "message": "You've convinced me in the sense that it's what I'm trying to say is that this is a power game. And the content creator is always going to lose in this battle."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:38.680",
+        "message": "Okay, so here's the deal. So what I was originally arguing, and I see the nuance that you added to that what I was originally arguing was that as long as there is competition, you can sell your content to Netflix or Amazon or blah, blah, blah. What you're saying, though, is that say you look at Amazon, they are basically the only bookseller in town, there's no other business network effects kick in. So if a publisher fights with them or doesn't agree to their terms, they don't have a choice. You have a similar kind of monopoly in terms of uploading videos. If you want to make your own home videos and monetize them, and so on, you basically don't have a choice. You have to go to YouTube. So Mike, but at the same time, having said this, it seems problematic to go to a private party like an Amazon or YouTube in these instances, and try to regulate them. And especially when that regulation is done by government, it will always the process will always be corrupted, and there will always be unintended consequences that are also harmful plus it's coercion."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:14:31.040",
+        "message": "So so how do we how do we reconcile at some point doesn't a platform become a public good? I mean, like at some point, you know, I mean, like the fact that YouTube exists as it exists, right? It is a public good. Now, at this point in time, yeah, Google owns it, Google monetize it, all of that. But it is ubiquitous in its usage. It's just so far out there that a certain amount of I hate saying governmental regulation,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:54.680",
+        "message": "but a certain amount of oversight of some nature is necessary. I'll tell you where I agree with you and where I disagree with you, where I agree with you is that when we used to speak of net neutrality earlier, and I might have had this discussion with Nikhil and I committed from a property rights perspective, and the question I would ask is who owns the spectrum, the government of India owns the spectrum. And therefore, whether they should own the spectrum or not is a separate argument. But given that they own the spectrum, they have a right to license it out under whatever terms they want. And when the net neutrality issue broke up, I actually went and looked at their existing contract with telecom providers, which allows them to change the terms in between, as Nikhil and gang were arguing for, right, and to impose these conditions. So coming at it from property rights, I get that, right. But let's say YouTube is someone who is, you know, they're on the internet, they're providing a service, they're not compelling anyone, they're not stopping competitors, who are we to interfere?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:15:50.520",
+        "message": "I don't get that. All right. I know. I find what is tough is it really is tough to kind of figure out, you know, what is the differentiation? How do you make a distinction over here?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:58.680",
+        "message": "That's it's tough. Not really, actually, I mean, look, the conversation is now changing around the fact that every single entity that has over a billion users is being treated as something called a behemoth. And those entities now have the power, not just to, you know, impact creators, but also to shape democracy. And this is exactly why governments are now becoming a lot more conscious of the power of these platforms. Like, I go back to the idea of Facebook as a country. You know, when Zuck visits, he has these are all diplomatic visits, effectively, there's a certain minutes, some talking points that are already defined with the Prime Minister with different ministers. So if you just zoom out and think of Facebook as a country in a virtual world, what you will see is that they have a team that looks at the government policy with the government as a stakeholder. If you're running a page on Facebook, you're effectively, that's essentially the Ministry of Commerce. If you think about it, that looks at those relationships. Their task is to encourage usage of the platform, but also because Facebook's, it's a business, is also to ensure that there is enough monetization that comes in. So there are significant controls that it is able to exert by virtue of its scale and and its network effects. And under those circumstances, I think regulation is bound to happen, because there are negative consequences that are also coming out of it, which are impacting physical countries. So let's look at a couple of them that are that are happening, right. So let's look at the impact of fake news, for example. The US election is very clear that, you know, they had very few advertising controls that allowed the marketing and very tiny, like granular segmentation in terms of targeting individuals with content that they felt would impact the way they vote. I mean, there were also, there are also instances where fake sites have been created, and they're saying you don't need to go and vote. You can just go click here and vote on the website, right. Now, these are real consequences for democracies. And you need controls in place. In the same way, when you look at it, let's take Uber as an example, and the rape case in Delhi. Right. Now, Uber treats itself purely as a platform saying that we are helping discovery of cabs. And they claim to not be accountable for the behavior of the drivers because they're a pure marketplace. But the fact is that they are responsible because they're selecting who gets on the platform, and they need to do their own due diligence. There's another debate when it's coming to around rights of drivers as either employees versus, you know, or just being merchants on Uber's platform. And so, you know, there is what's happening right now, is that there's a gap between the responsibility and the accountability of these platforms. And that exists today because of something called intermediary liability protections. That means that an intermediary, like an ISP, like a Facebook, an Amazon or an Uber, is not liable for the actions of the entities on it. And we had our own case in India around that with essentially Bazi.com, where Avneesh Bajaj was arrested because someone put up a porn CD on sale on Bazi.com. It later became eBay, India. But we brought in those protections as well in India to protect the platforms which are merely mean marketplaces for exchange, right? Now, because of the scale of a lot of these platforms and the impact that they're having, and how they impact even merchants and the power that they have over them, and the fact that they can shape consumer behavior now, countries are looking at regulating them, because they are responsible for some of this behavior of not, let's say, clamping down on fake news, but they're not held accountable because they have these protections. So why I'm worried about the open internet going forward is that these intermediary liability protections, which I support, look like they're going to get chipped away at bit by bit by"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:15.880",
+        "message": "bit. So I want to come back to this and I'll ask you to elaborate on this because it's very interesting and I share the same worries. There's a tangential thought, though, I just want to throw up. It's not an argument. It's just a tangential thought. I've also written op-eds and columns bemoaning, you know, what the whole fake news culture and more than that, what has happened to our political discourse with polarization and echo chambers and so on, all of it enabled by technology. But my point here is that we might be shooting the messenger, because what all of this points to is that human beings have frailties in their psychological needs and the way they think about things, like why fake news dominates so much is that people also need to believe in fake news that once they've given their allegiance to a tribe, they will ignore everything from outside. And you know, just the confirmation bias kicks in and they'll just consume content that is"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:08.960",
+        "message": "tailored to their biases and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:10.880",
+        "message": "For example, you spoke about how Facebook created these pages which said, you don't have to go out and vote, just click here. And the point is, to me, what that indicates is a human frailty. And the fact that technology amplifies these frailties leads to huge problems. But to me, the amplification isn't the problem because technology, the flip side is it also empowers all of us. So the issue here isn't the technology. The issue here is that people are flawed and frail in these ways. And that brings about the philosophical question that if human beings are like this, is it the state's job to save them from themselves? And I would argue that the difficult answer to that is no."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:52.520",
+        "message": "Well, the way I look at it is that, for again, for free speech to sustain, for democracies to sustain, certain amount of paternalism needs to kick in at some point in time. Now, what the threshold for that to kick in is the one that we have to consider. Now, in case of, let's say, let's take the 66-day judgment, which was from 2015. If you're a free speech absolutist, you would say that all speech is kosher. But we have reasonable restrictions there in order to protect people, in order to protect"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:27.240",
+        "message": "democracies."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:28.240",
+        "message": "So I must say I'm an absolutist and I feel there should be those restrictions should not be there. Right. But so, for example, there is a restriction on the incitement to violence. Right. Now, what we fought against was not against incitement to violence. I mean, I'm someone who believes that incitement to violence should not be allowed and people should be put in jail for inciting violence."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:48.000",
+        "message": "But then you're like an accessory to a crime."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:49.480",
+        "message": "It doesn't exactly fall under free speech. Exactly. No, no. So again, if you're an absolutist, it wouldn't be a crime."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:55.760",
+        "message": "No, no. I disagree."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:22:57.760",
+        "message": "I think that's a narrow view of an absolutist. Yeah. I would have. That's an accessory to a crime. Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:02.760",
+        "message": "If you are instigating a crime, you're part of that crime."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:23:04.720",
+        "message": "No, but it is a reasonable restriction that is there in terms of non-free speech. Why does it need to be applied to free speech as opposed to being applied to the violence"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:13.320",
+        "message": "that's been committed? No, no. At least it applies to the violence as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:16.640",
+        "message": "Like the US Supreme Court had a guideline, which was, you know, the phrase clear and present danger. Yeah. That if there is, if you say something and there is clear and present danger, if I remember correctly, if there's clear and present danger and some, its imminent damage will be caused because of that. So, for example, if you stand out there and you say that libertarians are terrible people, I wish they didn't exist. I think that should absolutely be allowed. But if you were to say, there's Amit Verma, he's a libertarian, kill him. That's wrong."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:23:43.960",
+        "message": "That's not necessary. Fire in a crowded theatre, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:45.960",
+        "message": "I mean, like, no, that's, that's actually a different, it's the same kind of thing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:48.960",
+        "message": "I've written a few pieces on that. The fire in a crowded theatre is a terrible example, but let's not go into that. No, no."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:54.960",
+        "message": "But I'm saying that, that, that's not allowed under the Sixth Sense Judgment as well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:58.920",
+        "message": "So paternalism will kick in at some point in time to prevent harm from taking place."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:03.800",
+        "message": "No, I think, I think, I think we're defining paternalism differently though."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:07.240",
+        "message": "No, no. Now, when you go back to, let's say, how these platforms are essentially being governed, the lack of governance there from the platforms themselves is hampering the existence of countries and democracies. Now, if you're going to come at me and say that, that, you know, geographical boundaries shouldn't exist, countries shouldn't exist, that's a, that's a completely different debate. But it is for the protection of the state and for the people in the state, that some"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:32.000",
+        "message": "of this paternalism has to kick in. No, but I don't... From a regulatory perspective. See, I don't call this paternalism. Like, I'll, I'll, I'll define it my way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:37.880",
+        "message": "I think the state... For me, all state action is paternalism."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:39.880",
+        "message": "No, I don't think so. I think the state's legitimate duty, I mean, we can agree to disagree, but I think the state's legitimate duty is to protect the rights of its citizens. So if you stand up and say, there's Amit, he's a libertarian, kill him, then obviously the state, you know, you're being an accessory to a crime or you're causing one to be committed and the state is entirely entitled to protect the rights of Amit the libertarian. Yeah. And I don't consider that paternalism, but paternalism would be to say that if you are to say that libertarians are bad people, and then I protest to the state and I'll say that, please make Nikhil shut up."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:10.160",
+        "message": "We should never be able to say this again. That is wrong. Even the judgment looks at, at advocacy and incitement differently. Right, right. And there's nothing wrong with advocacy, which is what this judgment clearly defines. So, but again, we've moved away from..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:24.120",
+        "message": "Yeah, exactly."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:25:25.120",
+        "message": "These are the minor things we can agree to disagree about, the meaning of words."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:29.240",
+        "message": "Yeah, exactly. I'm just like, where did we go? So, so let's go back to the concentration of power and what that means, because what's happened since 2012-2013 is that these large platforms have become substantially large. So between Tencent, Baidu, Amazon, Google, Apple, Microsoft, Facebook, the world's essentially being carved out amongst these players. Now there's competition that's taking place between them, but each of them has a disproportionate amount of ability to influence the future of countries and indeed the future of the internet. So I think, so what I'm worried about is like, I'm someone who started a site almost 10 years ago with very little money, and now we've been around for 10 years, our ability to do, so for example, advertising as a revenue source has been shrinking substantially because all of it is being aggregated by Facebook and Google. Now this is legitimately one market power, the way I see it. But it's also inhibiting competition. And so therefore, antitrust can't quite kick in because, one, there is no indication of clear harm, but also there is no clear indication that these guys are doing something to inhibit"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:52.160",
+        "message": "There's no nefarious activity."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:56.960",
+        "message": "But at the same time, is that healthy for the space is something which is being debated right now. It's the shrinking of the web, you know, so you're more likely to start a business, an e-commerce site, for example, on an e-commerce service on Amazon, rather than start your own e-commerce portal now, because market power is retained by Amazon and Flipkart,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:20.720",
+        "message": "for that matter."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:21.720",
+        "message": "But here's the dilemma, so that, so that, that fragmentation, which was the internet, and the impact that that had on allowing people to come and have the freedom to create the freedom to build something of their own, is kind of getting lost bit by bit. So I'm worried about where we're going here, because then what happens is, instead of that free open space, which we had, we will now all be subject to the terms and conditions of these platforms, because really, we don't have any other place to play on anymore."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:51.960",
+        "message": "So what are the kind of solutions that you propose, number one, and number two, what are the kind of solutions you're worried about coming from governments or other parties?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:59.800",
+        "message": "So I don't really have a solution right now, I have more of a problem that I'm trying to articulate. Because I'm also someone who wants limited government action and all of this, right? Because I don't want us to lose intermediary liability protections. You know, even if you think about it, net neutrality was exactly that battle, that the ISPs should not shape our internet experience, because they have exclusive access, or exclusive ability to control how we access the internet. And there was a great deal of cartelization in India, which now has been affected, or no longer exists because Jio came in. But I think the best analogy that I heard for ISPs, and I think we need to look at other platforms from that perspective as well, is to think of them as stock exchanges. So like, if a stock exchange starts prioritizing a particular trade, it reduces trust in that stock exchange. In the same way, if an ISP starts prioritizing one source of data versus another, makes it cheaper for you to access one particular source of, let's say, videos versus another, they're shaping your experience, and that reduces trust in the ISP itself. Now, in an open free market situation, you would have a million other ISPs to go to. But that doesn't happen because spectrum is limited, right of way access is limited. We don't have unbundling of the last mile in India. And therefore, these are the controllers of our access in a sense. So let's say if you think about from free speech perspective, you and I are talking face to face. But when we're talking over the internet, there are multiple layers that come in. So one is the it starts with the device, then it goes to the network, which is the ISP, then there are submarine cable providers, then there are platforms to which that data goes. Then again, the same exercise towards the person who's receiving it, right. So all of these players in the middle have the potential for changing how we communicate, whether we're able to speak to each other or not."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:10.520",
+        "message": "I'd say one important thing about free speech, and a lot of people don't get this, like often"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:14.440",
+        "message": "if I block someone on Twitter, they'll be like, you're attacking my free speech."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:17.720",
+        "message": "Well, the truth is that you can say whatever you want, you can choose not to receive, you"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:20.680",
+        "message": "are not entitled to my attention, you're entitled to say whatever you want in your own space. So similarly, in this case, we are not like if you and I want to communicate online, and of course, we are going through all these different intermediaries. But we are not entitled to any platforms. And as long as we have a choice of platforms, it should not matter."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:37.000",
+        "message": "But the point you're making is we don't, we don't, you see, because you will not have 100 million submarine cable providers in the world, right? You will not have, you don't even have, let's say you have about 200 or 168, I think ISPs in India, right? But really, three or four of them own most of the access, right? In the same way, but they compete with each other or other cartels. So I view them as so the smaller ones are too small to compete with the larger ones"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:01.800",
+        "message": "which operate like cartels. And the smaller ones will depend on the larger ones also to a lesser extent."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:05.760",
+        "message": "There is a great deal of dependency between them also, also because when it comes to international bandwidth access, there are only very few gateways. And many of those ISPs also own the gateways. So therefore, you know, what I'm saying is that it's the number of intermediaries in this entire process can change the way we communicate, can prevent us from communicating. And therefore, you need neutrality in their behavior to ensure that free speech is communicated. The other thing is that I don't, and this, this is a, this is something which a lot of people miss, right? And especially libertarians, which is that the internet is not just a market. So one of the things that many people, especially libertarians miss is that the internet is not just a marketplace. It's also a global public commons, right? We don't just sell what we create. There is contribution that's happening to community run spaces, community owned spaces. So if you think about Wikipedia, if you think about GitHub and the code that's created, the ability for us to contribute to each and all of these are also own platforms run by separate organizations. But the ability for us to contribute to each other, you know, this is the space that's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:14.720",
+        "message": "given us the creative commons license, for example. That's the definition of a market, by the way, a market basically is a web of voluntary"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:19.760",
+        "message": "interactions. That's all it is. But you get the gist of what I'm saying, it's not just, it's not just owned by private parties"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:28.520",
+        "message": "in that sense. So tell me something, and this is probably the gist of everything. What do you want the government to do?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:33.300",
+        "message": "And what do you want the government to not do? I don't really have an answer to that question."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:38.560",
+        "message": "Because given a part answer, what do you want, what are you worried that the government might do, which, for example, the government could easily overreach, overregulate and become"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:45.520",
+        "message": "totalitarian. No, no. So this is where I'm sort of caught in a bind saying that, I do believe that we need regulation to ensure neutrality and to ensure that, for example, national interest is protected, citizens are protected, foreign actors can't come in and manipulate elections in our country. At the same time, I'm afraid of overregulation, which might create, put in liability on these intermediaries. You know, so if, if there is liability, then there is no reason to do this business in that sense."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:20.880",
+        "message": "It's a chilling effect."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:21.880",
+        "message": "Then it's not just a chilling effect. If it's just, it's impossible for these businesses to sustain."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:33:27.160",
+        "message": "So I'll give you an example. Sorry? It stops everything, right? It shuts you down."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:31.160",
+        "message": "So think about it this way. If YouTube was held liable for every video that's put up on YouTube, the number of court cases would essentially kill YouTube, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:41.320",
+        "message": "So there are more lawyers than coders. There are more content creators than there are lawyers."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:51.320",
+        "message": "And so therefore each is a case in that sense. And so this is the safe harbor that these intermediaries have gotten, has given us the internet that we have. Like one of the things that's happening amongst the music industry, for example, and this is based on conversations I've had with a bunch of people in the music business over the years in India, is that they want the ISPs to be held liable for piracy, saying that the ISPs are distributors of pirated content and they make money because we download more, etc, etc, etc. If that happens, ISPs would shut down essentially."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:22.880",
+        "message": "And that's absurd. I mean, it's like saying that if someone takes stolen goods on a road, then the person who"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:27.000",
+        "message": "owns the road should be liable. Exactly. But this is still an argument which finds favor with some people in government, with some regulators. And so therefore I worry about opening the gates to government regulation there, right? And what's going to happen as a consequence of that could be disastrous for internet and"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:46.520",
+        "message": "disastrous for users."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:47.760",
+        "message": "So does deregulation work as a solution over here? Again, deregulation also doesn't work because we are currently operating in a deregulated space. And without any regulation, we have, you know, several problems which have cropped up, like for example, fake news, a large amount of hate speech and abuse, a significant amount of privacy violations, the creation of filter bubbles, you know, terrorist outfits, using that anonymity that the internet provides. And I mean, I'm someone who supports anonymity because it gives vulnerable communities a voice. But the same anonymity has also been used, for example, by ISIS handles, right? So there's no right answer to this. We have to find a balance. Because somewhere we have to look at from a harms regulation perspective. So the other part of this entire platform battle that's going on is around data protection and privacy. Because the amount of data that they're collecting, that gives them the ability to, again, create more filter bubbles, target people better, allow advertisers to target people more sharply and yet not control what kind of communication advertising is going there. Because it's going at such a large scale, it's impossible for them to monitor as well. So we've got this beast that we're dealing with right now. And we want the beast because there's great benefit that comes from it. But there's also great harms that come from it. And so somewhere from a deregulation perspective, you know, so, for example, net neutrality is a kind of deregulation because through the regulation of imposing net neutrality, you have a deregulated space on the internet. Right? So, I don't exactly agree, there are laws which govern them. And largely, it allows the freedom to do legal things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:38.040",
+        "message": "I think, moving aside from like these specific issues."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:42.160",
+        "message": "Let me just, there are two other things. One of the things that we still, that is going to come up for discussion is algorithmic neutrality. Because it's the way the algorithms are functioning without regulation, being a black box that is impacting the content that people consume, and has a potential to impact again, has a potential to impact democracies, device neutrality is another one that's going to come up around"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:07.960",
+        "message": "that same issue. So I think trying to enforce some of these neutralities, like telling a company what"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:12.640",
+        "message": "kind of algorithms it can or cannot use is problematic in some senses. By definition, they're going to have bias built in and they're made by humans, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:20.120",
+        "message": "So here's where the intermediary liability comes back to this discussion, right? It's applicable to platforms, and effectively is based on the fact that platforms have no say in what people consume. Now, if an algorithm is controlling what you can consume, effectively, it's no longer a neutral platform. It's an intermediate liability, protections will not be available."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:44.560",
+        "message": "But see, here's the thing, every algorithm, as Amit just said, is, will have some kind"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:49.680",
+        "message": "of bias. You're right, but I buy what he's saying as well, that I mean, like the second you introduce"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:54.400",
+        "message": "the bias into the system, at that point in time, it's no longer neutral. Yeah, but the moment you try to regulate the bias, you introduce another bias into the system. I don't think, I think the important thing here is you let users choose between biases."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:06.320",
+        "message": "That's exactly the solution, right? So if let's say, on Facebook, I had the ability to delete my entire history, right? And start over, right? I don't right now. But I can have a fresh newsfeed with no bias in the system at that point in time, right? That freedom is useful. If I had, let's say, four different algorithms to choose from, or maybe 100 different algorithms to choose from, that again, allows me choice from that perspective."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:33.240",
+        "message": "But to get to that space from here, isn't a better way of doing it, consumer activism, users saying that, hey, no, we don't like these features, we want those, rather than government regulation."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:38:43.360",
+        "message": "I mean, I know you're not suggesting that, but I think the classic problematic in this kind of a situation, right? I mean, like, how is any kind of government action going to be able to define the rules that algorithms need to function under?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:53.520",
+        "message": "I mean, like, how is that even a possibility? So there are discussions that are going on around that, which is around essentially regulating for harms. So if there is demonstrable harm that's coming out from an algorithm, and you can feed a data set to see what's happening there, there is a potential for regulation to go and correct"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:39:14.720",
+        "message": "it. That feels very nebulous to me."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:16.720",
+        "message": "It's a complicated one. And these are early days. What I'm pointing towards is that these things are going to happen in the future. Because this problem is only growing, right, and the US elections is a clear indication, elections in Italy as well. So these are, I mean, we have, in India here, we have a major fake news problem right now. And again, that's again, two internet issues fighting off against each other, right? So one is the problem of fake news. The other is need for privacy. You have end-to-end encryption on WhatsApp, but WhatsApp is where most of the fake news is being distributed. It's the largest media platform in the country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:51.120",
+        "message": "And again, there's a human tendency and hunger for fake news. So in a sense, we're shooting the messenger. But what you're saying is also cautionary in a sense, because I know you'll agree with my principle that whenever you give government any kind of power, you have to assume that it will necessarily be misused. So if you give government the power to regulate Facebook, then assume that if you're a left liberal, assume that Yogi Adityanath will be prime minister and he'll be running, he'll be setting that regulation. And if you are more culturally oriented and not anti-national, then assume that Sonia Gandhi will be somehow in charge and running. You have to assume that the worst person you can think of is in power in the government and give power to the government accordingly and build in enough safeguards to that accordingly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:33.160",
+        "message": "No, so we need the safeguards there. So we need regulation with oversight and safeguards. And of course, it's not a perfect science. We've had issues in every single instance where this has happened. But I think we have, the world is fast reaching a point where doing nothing is not an option."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:48.960",
+        "message": "I think, you know, the problem with India essentially is that a lot of the problems that are caused by government, people can't think of any other solution to them, but more"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:57.920",
+        "message": "government. But this is not just India, right? If you look at... And this is a social problem, but all social problems cannot be solved by government intervention. If you look at Trump's election, for example, and the alleged usage of misinformation, filter bubbles by... and the Russian involvement and all of that... by the Russians, in fact, and the impact that that has had, like I gave you that example of, hey, you can go on the site and vote. You don't need to go to the election booth, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:23.240",
+        "message": "Those things are real problems. But here's my point. See, I find Trump's election very distasteful and disturbing and literally depressing. I was just very sad that day and I was also the same day demonetization happened. So it was a double whammy for all of us believers in liberty. But then the point is, people are entitled to vote as they want, to get whatever news they want, to believe whatever they want. That's the heart of individual freedom. Now, I agree, there's a social problem there, which you've correctly identified, the filter"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:48.440",
+        "message": "bubbles and blah, blah, blah. What you're ignoring there is the issue of bounded rationality and information asymmetry."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:55.400",
+        "message": "Both of these issues are very real. I'm taking those for granted, but I'm saying government intervention leads you to totalitarianism"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:01.680",
+        "message": "in this case. So that's what I'm saying. My point here is, I'm someone who was inherently opposed to the idea of government regulating"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:42:10.760",
+        "message": "a space that means freedom for me."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:14.000",
+        "message": "But I have my senses, this is bound to happen now. This is and because this is, unfortunately, an idea whose time has come because of all the dangers. And it started with the Arab Spring. We've come a long way from the Arab Spring where, you know, it was people on Facebook who got together and that led to a revolution. Here now, it's been a change in government and electing someone is being instigated through these means. So I don't think there's any going back from there, because every single government in"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:47.480",
+        "message": "the world from now on is going to be conscious. So I want to ask you another different follow up question and go deeper into this. But before that, I'd just like to say that, look, a problem which is caused by the large scale voluntary actions of individuals can only, in my view, be solved by the large scale voluntary actions of individuals, whatever form it takes. And it's an unknown, unknown."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:07.480",
+        "message": "We don't know what that is. But then what you're doing is you're ignoring a period of indoctrination, using fake information to make people believe that something is real. Because I mean, if you look at it, we are in an era where there is going to be AI generated"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:23.600",
+        "message": "videos. Absolutely."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:25.600",
+        "message": "And for most people, they will not be able to make out the difference between one and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:27.960",
+        "message": "the other. If you are able to have a podcast where you are attacking net neutrality and saying completely"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:33.240",
+        "message": "the opposite things, AI can do that. But that wouldn't be me. It would be your voice."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:37.000",
+        "message": "Anyway, so the question I want to ask is, like, we are more or less on the same page. These are minor sort of bickerings, which, you know, can, which are the fun things to"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:43:47.800",
+        "message": "talk about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:48.800",
+        "message": "We're pretty much on the same page. But so my question here goes away from the problem itself, to the kind of activism you've done where you did the Save the Internet campaign and so on. And my question is this, can you tell me a little bit about the different interest groups involved and what the interplay between them is, for example, a big company would, contrary to what people think always be against free markets, they'd be looking to consolidate their turf and to prevent newcomers from coming in and they'd be against competition. Similarly, you would have small groups of people with absolutely no voice like you and me who would want competition and want markets to prevail. Similarly, you would have different government bodies operating in their own silos, who would want to explore opportunities for rent seeking. So how do, how does an interplay between the different interest group play out? Like, what are they? And you've actually been part of negotiating with all of these interest groups, right at"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:42.400",
+        "message": "different points in time. So, so the way I looked at that campaign and the way we started it was this idea that we need to first inform people and then give them a voice. And interest groups will align in whichever way they want, but if there are enough people involved and enough people who support net neutrality, people will align in support. So you decided to make it a mass movement? We decided to make it a mass movement from the very beginning because, look, I've taken part in TRI consultations over, I mean, over the last decade on several occasions. I've sat in, I know how the process works and the TRI really has the most open and transparent"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:21.760",
+        "message": "process. What are their interests? What do they want? What are their interests?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:25.760",
+        "message": "What are they fighting for? Tell me. So historically what's happened with the TRI is that, you know, the industry guys, the lobbyists for mobile operators, etc, go and visit them twice a week. They visit different people. They are very organized in terms of they know who to talk to, what about, etc, etc. So if you have someone at a regulator who doesn't necessarily have much information but is not very tech savvy, then these people become a source of that knowledge for them. And of course they do want counterpoints because they want to be neutral in this entire process. They want to be fair in this entire process. But there aren't enough players on the other side that come and speak to them. There's also a credibility issue. So for example, who am I to go and speak, even though I have an opportunity? Every single individual in this country, every citizen can go and speak at a TRI event, at a TRI open house and voice their views on a particular issue. What we did was we ensured that there was enough of a collective voice for citizens in that particular situation because we were battling all the mobile operators which have a tremendous amount of power which the TRI had a great deal of affinity for because they instigated this entire consultation process. We had politicians who really did not have a clue about what net utility is in the beginning and I can't really blame them because most people in this country did not understand what it is about. We had businesses who again didn't have too much of a clue but there was a clear benefit for them in terms of at least the larger players for taking ownership of internet access to their own benefit. So you had the operators which would enable this, you had the businesses that would benefit from it and so utility had no voice in this entire debate and I got this feeling on two particular occasions. One was the TRI open discussion, they had a discussion with industry stakeholders invited on creating a revenue share model between online content creators and service providers and the ISPs. So they wanted a revenue share so if you have advertising running on your site the ISPs would get a revenue share of that advertising. So when I saw that TRI seemed to be open to this discussion that was a warning signal and it felt very lonely in that room to be honest even though there were a few other people who spoke up for net utility but I actually at one point in time stood up and pointed towards the free speech argument saying do you realize what you're trying to do over here and how it's going to impact people and their communication and that this is going to get a constitutional challenge. And the TRI backed off a bit, they're like you know we're just discussing stuff here but really there was too much power in that room going against us. So the idea behind the net utility campaign was that votes beat money and so we went out and got the votes and we so we had we had to fight off fairly significant stakeholders. I don't know if I've answered your question really."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:43.080",
+        "message": "No your journey is fascinating and I think both Amit and I agree."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:46.160",
+        "message": "But I'll tell you where this philosophy is coming from right, there are two core ideas to this and one of them is that all of us have a certain amount of free time and if we love the internet we should be willing to contribute our time and our effort to making it a better space for the generations that are going to follow."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:49:05.880",
+        "message": "Because the internet dies and we'll all have a lot more free time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:15.320",
+        "message": "So the other one, the other idea is this idea of active citizenship that we have to become active citizens and get involved in these regulatory processes because what happens is quite often we delegate that responsibility to our elected representatives or others and that's not working for us right. I mean Barack Obama has this great quote that we cannot solve the problems of our times unless we solve them together. So it's important for us to come together around issues that we really care about and voice our concerns because there are enough elected representatives who will listen to us. Governments will listen to us if we speak up. But the problem quite often is that we feel that someone else will do our job for us."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:56.720",
+        "message": "So it sounds like you overcame two classic public choice problems. Like these are two problems of public choice theory. One is the benefits are concentrated, the costs are diffused. So you'll have these interest groups or these big companies making a lot of money but the costs are so diffused that the people who are bearing the cost right as the citizens they don't even realize what's at stake. That's number one. And number two is that even if you get all the citizens to agree that hey this is a problem, there's what is called the free rider effect where they're willing to let someone else fight the battle for them and they'll post supporting tweets and supporting statuses"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:50:27.760",
+        "message": "but they won't do something themselves."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:29.160",
+        "message": "And you kind of overcame both of these. And the idea was around how do we get people involved. So that's where the tech team came in. Like we put together a team in a matter of 12 days where we had a tech team in Bangalore, we had a legal and policy team in Delhi and this is basically just me calling up friends and saying hey listen this is going down, we need to do something about this. And I'll be honest even at that point in time I did not fully understand how to tackle many arguments around net neutrality. But the thing was that together because we kept debating some of these things we learned along the way. If I didn't have an answer someone else came up with an answer. We crowdsourced a lot of our learning from that perspective and the idea was to give people ownership of this movement. So another core philosophy of the movement was nobody owns the movement therefore everybody owns the movement. Because a lot of these battles fall apart when it comes to taking credit. And I don't have the credit for this. This belongs to everyone who participated. This wasn't\u2026 All I did was go and start asking people for help and trying to give them a reason to get"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:32.280",
+        "message": "involved. This in fact runs up against another behavioural economics funder, diffuse responsibility. That if too many people have the responsibility for something nobody will do it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:40.840",
+        "message": "So this is the opposite of that. And I think that what we're seeing now because even around Aadhaar I'm interacting with a lot of politicians is that there is a growing concern amongst politicians also that they don't necessarily understand tech but they realise the impact that it's having. And they want to help understand it from a user perspective, from a citizen perspective because that's their core constituency. Because historically they've only been visited by interest groups that seek to benefit commercially from all of this. So I think that the more\u2026 And we've got social media platforms now that allow us to communicate to our MPs. I think one of the things that I want to work on over a period of time is to create more platforms for engagement with the policy makers. And that could be offline, that could be online. I mean we've seen campaigns run where, especially in the US, where people call up their representatives. How many of us do that here?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:45.200",
+        "message": "And you've generally seen that MPs are open to these kinds of engagements?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:49.800",
+        "message": "Look we've\u2026 I'm not going to name people, but because we ran the Speak For Me campaign around Aadhaar, one of the things that we saw was that there were about, this is what I've heard, that there were 11 190 notices that were filed in the winter session of Parliament. Because our campaign was around asking MPs to file 190 notices for discussions on Aadhaar in Parliament. And there were over 100 questions asked about Aadhaar in that session alone, which is the largest that I've seen so far. So I think that MPs, if citizens reach out to them, they do react, they do respond. It's just that historically no one responds to them. I mean during the Net Neutrality campaign, some of the MPs got 10s and 15,000 emails from citizens. These are MPs who typically would get 5 or 10 maybe in a month or something like that. When you get that kind of volume, they know that people want to be heard. So they are our representatives. But our democracy, the way it's built, is that there's a big gap between the citizens and the ones we elect. And that's largely possible because the scale and no single voice is loud enough. But it's almost like the creation of interest groups."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:02.040",
+        "message": "So you bridge that gap with the very same technology you denigrate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:05.320",
+        "message": "I know. No, no. But I'm saying, so that's, that's the beauty of all of this. For every single thing that I've talked about today, there are pros and cons. And so the idea is to find a balance."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:15.420",
+        "message": "And the idea is to make sure the pros are more by voluntary action. So I'm going to end by asking both of you two questions, which is, what makes you worried about the future of the internet? And what makes you hopeful about the future of the internet?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:54:27.400",
+        "message": "Amit, shall we start with you? Sure. So I mean, like worried, I guess would be a lot of what Nikhil is talking about. I think that is kind of a concern. Keep your hands off the internet, basically, you know, I mean, like, that would be my preference. But I also understand that there are compulsions around why that can't be 100% kind of maximalist argument. There has to be like some sort of nuance over there. And in terms of optimistic, I'm just, I'm generally very optimistic. I think that we haven't even, it's not even 20 years old, or it's just 20 years old, 25 years old. It's, it's so new. You know, I mean, like in the context of history, I mean, like, we haven't even like scratched the surface of what we're going to get through this. So I mean, like, from an optimistic perspective, I think that just what's going to happen with this stuff is we haven't even seen anything close to what's going to happen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:13.600",
+        "message": "Nikhil. So you don't know what you've lost till it's gone. And so I am extremely worried now about the openness of the internet, and the acts and the controls that are being now used in terms of accessing the internet, the new people who've come on board and have no idea about all the wonderful things that are there on the internet for them to experience just because they have access to only a few apps, and they don't even know how to go to a browser and type in a URL. So I'm worried about how concentration of power is going to impact internet access in the future. What I am very optimistic about is that we're currently dealing with a generation that's grown up with the internet. And they care about the space, they love the space, even though some of them may be signing up from some platforms, but I think most of us have access, we want access, and that's going to continue. So ours is a generation that's going to fight for the internet now. And there are a large number of people who are as idealistic about it. And essentially, this is the second rung that's going to be much better than us in terms of fighting for the values that we want in the internet in a sense. So I think I'm optimistic about that, because I interact with a lot of is I hate to use the word youngsters, because that makes me feel old. But if you are old, what are we? But I do feel very hopeful when I interact with them, because there is genuine love for the internet there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:42.880",
+        "message": "And these are the people who will fight for it in the future. And I think that's a very gratifying and inspiring note to end this episode on. Thank you guys for coming."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:50.160",
+        "message": "Thanks. This is fun."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:53.400",
+        "message": "If you enjoyed listening to the show, you can follow Nikhil on Twitter at Nixon, N-I-X-X-I-N. You can follow Amit Doshi at Doshi Amit. No space. I'd also encourage you to check out the tech podcast that Amit co-hosts, Shunya One, on the IVM podcast app or website. You can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A. For past episodes of The Seen and The Unseen, including an episode I did with Nikhil on Aadhaar, please head over to seenunseen.in. Thank you for listening. If you enjoyed listening to The Seen and The Unseen, check out another hit show from Indus Fox Media Networks, Cyrus Says, which is hosted by my old colleague from MTV, Cyrus Brocha. You can download it on any podcasting network."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:57:52.240",
+        "message": "He bends down to test the warm water for his bath. He comes here to quench his thirst for a hot shower and some podcasts. You can witness how he enjoys having other people talk about cool stuff in his bathroom. Indeed, it helps him with his loneliness. You can find more of his species on ivmpodcast.com, your one-stop destination where you can check out the coolest Indian podcasts. Happy listening!"
+    }
+]

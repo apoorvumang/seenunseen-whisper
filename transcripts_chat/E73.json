@@ -1,0 +1,752 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "I take a shot at answering all these questions and many more. I aim to go beyond the scene and show you all the unseen effects of public policy and private action. I speak to experts on Economics, Political Philosophy, Cognitive Neuroscience and Constitutional Law so that their insights can blow not only my mind, but also yours. The Seen and the Unseen releases every Monday. So do check out the archives and follow the show at seenunseen.in. You can also subscribe to The Seen and the Unseen on whatever podcast app you happen to prefer. And now, let's move on to the show. If Donald Trump saw the way I lived, he would be very worried. Here's what would worry him. My maidservant. There's a maidservant who works at my place, and she comes every morning to wash the dishes and do some household cleaning. We pay her a decent amount, something she's quite happy with, and we get along well. She has no complaints with my wife and me, and we like her work. However, if Donald Trump was my grouchy uncle, and if he was visiting for the weekend, he would have a problem with my maidservant. I can imagine what he would say. He would point out that while we buy the lady's housecleaning services month after month, she buys absolutely nothing from us. In other words, we are running a trade deficit with her. This is unfair, he would say. Either she should start buying things from us, as much as we buy from her, ideally, or we should stop buying her services and do the daily cleaning ourselves. I can totally imagine Trump shouting at me, you are being exploited, Amit. Sad. But Trump would be wrong. Can you see why?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:28.320",
+        "message": "Welcome to the scene and the unseen. Our weekly podcast on economics, politics and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:37.760",
+        "message": "Please welcome your host, Amit Bharma. Welcome to the scene and the unseen. My intro to this episode was inspired by an article Tim Harford wrote in the Financial Times in 2005, titled, A Trade Deficit with a Babysitter. Now, I don't have a baby, so I Indianized it a little bit, and I don't need to tell you why it is absurd to think of a trade deficit with a maidservant as a problem. It is because all trade is a positive sum game. Both parties benefit. We get our housecleaning done at a rate we are happy to pay, our maidservant gets a remuneration for it that she is happy with, otherwise she wouldn't do the job in the first place. Both of us are better off. This is true even of trade between countries. And here's the thing, countries don't really trade with each other. People do. The US has a trade deficit with China, for example. But actually, it doesn't mean that the US as a nation is buying anything from China the nation. Individuals and corporations on both sides are trading with each other, and each trade leaves both parties better off. The value that is created or saved goes back into their respective economies. A trade deficit between countries is no more a bad thing than your trade deficit with your maidservant. And for this reason, protectionism is daft. This is just basic economics. Donald Trump disagrees, because he looks at the world in a zero-sum way. But I won't go into that in detail in this episode, because I already did a pretty exhaustive episode on protectionism a few weeks ago. Episode 59 of the Seen and the Unseen deals with protectionism, and my guest, the economist Anupam Manoor busted 8 common myths about protectionism. Check that out in the archives of the show at seenunseen.in. Today though, I have a guest who will take us into another aspect of trade deficits and Donald Trump's protectionist urge, the monetary aspect. Vivek Kaul is my good friend and a frequent guest on this show, as well as the author of the outstanding Easy Money trilogy, which has just been re-released by HarperCollins. Many of the insights he will now share with us are from that book. But before I start my conversation with him, let's take a quick commercial break. If this happens to be the only podcast you listen to, well, you need to listen to some more. Check out the ones from IVM Podcast, who co-produced this show with me. Go to ivmpodcast.com or download the IVM app, and you'll find a host of great Indian podcasts that cover every subject you could think of. From the magazine I edit, Pragati, at thinkpragati.com, there is the Pragati podcast, hosted by Hamsini Hariharan and Pawan Srinath, there is a brilliant Hindi podcast, Puliyabazi, hosted by Pranay Koteswani and Saurabh Chandra, and apart from these policy podcasts, IVM has shows that cover music, films, finance, sports, sci-fi, tech, and the LGBT community, all under one roof, or rather, all in one app. So download the IVM podcast app today. Welcome to the scene in the unseen, Vivek."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:35.320",
+        "message": "Thanks Amit for having me over."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:36.840",
+        "message": "Vivek, this is going to be a tougher episode for you than usual because I've started this new custom of, from the last episode, of asking my friends personal questions about themselves so that the listeners can get to know them a little better. So tell us a little bit about yourself, what's your background and how did you become a journalist?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:54.760",
+        "message": "Where do I see myself five years from now?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:57.160",
+        "message": "Yeah, and how do you feel? Aap batayenge hain, aapke zahin mein abhi kya chal raha hai, no no, seriously."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:03.080",
+        "message": "So basically, you know, I did an MBA in information systems, and I worked for an IT company, I was a project manager there, for all of 35 days. So the first two weeks, it sort of took me to figure out that I didn't fit in. The next two weeks, it took me to gather the courage to speak to my parents, primarily my father, because he would have to continue, you know, financing me, and at the end of the fifth week, I quit. I just stopped going, in fact, I didn't even quit. And then I tried doing a PhD for three years, and after that, I sort of landed up in journalism. And that was also quite by chance because, you know, DNA had launched in Mumbai and they needed a personal finance editor, and I just landed up and I got the job, even though I didn't know anything about personal finance. So that's how I sort of..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:02.400",
+        "message": "And all the journalism that I've read of you, like I've been reading you for a few years, so perhaps not from when you started, and all of it has been economics journalism."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:09.240",
+        "message": "I mean, what you specifically... Yes, so that economics essentially started once I went, you know, freelance. That was primarily because one is it, you know, allows you to sort of write on a wide array of topics. So you can make more money. Personal finance, what happens is, you know, after you've done it for a couple of years, I mean, you're done, there's nothing more to it. In fact, a couple of years, there's this great story about Scott Adams, the creator of Dilbert. He once decided that he wanted to write a book on personal finance. And then he figured out that all of personal finance could be summarized in 87 words. So he gave up on the idea. So you know, once you know that these are the four or five things you need to generally do in order to manage your finances, after that it is, you're just rehashing, you know, the same thing day in, day out. And you can probably rehash for two to three years, beyond that, it's a little difficult. So you know, by 2007, 2008, I had already started, you know, writing more on economics and management and, you know, personal finance had taken a backseat. And once I went freelance in 2012, economics became the main breadwinner."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:21.560",
+        "message": "And you know, there are plenty of economics journalists in the country, but one sort of niche which you've almost made your own and one reason, in fact, why you're such an excellent guest for the show, and I keep calling you here, is that you like to explain complicated economic fundas in simple language, which your grandmother can understand, or your mother, as you said in an interview recently, was it like that from the beginning, or did you at some point while engaging with your readers?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:45.320",
+        "message": "No, actually, what, see, what happens is, and this is from the benefit of hindsight, you know, when you when you, so I never studied economics, okay, I mean, I've never went, I mean, I've never gone to a, you know, college where, you know, I studied economics, my only exposure to economics was when I was doing my MBA, where, you know, in any standard MBA course, has one subject, you know, one paper on microeconomics, and one paper on macroeconomics. And that is, you know, you don't really learn much there, because, you know, my MBA at the end had 72 subjects. So two out of those 72, you really don't learn anything. So once, so when I first started writing economics, and this was for rediff, actually, and sometime in late 2003, early 2004, when I first started writing economics, it was more of an act of trying to understand things myself, okay. And that sort of state. So you know, what has happened over the years is that,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:54.520",
+        "message": "So in a sense, the older Vivek today is writing for the younger Vivek, who's just learning the subject. Yes, I mean, you could say that, yeah. And since you're self-taught, in a sense, you're an autodidact to use that term in economics. Who are the writers which impressed you the most? And which are the books which you felt were most useful in sort of bringing about quantum leaps in your understanding, for example?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:17.360",
+        "message": "Okay, so you know, my problem is, I don't remember much of what I read. So I mean, I'll sort of some of the books that, in fact, an early book that I read, and I quite liked it, was a textbook by C. Rangarajan and Bakul Dholokia. And they wrote this book in 1979, when Mr. Rangarajan was still teaching at IIM Ahmedabad. And that was just one edition of that book that ever appeared. And you know, for the next 25 years, 30 years, they just kept republishing it. So I learned all the basic economics there, you know, what is GDP, what is fiscal deficit, how is GDP defined, you know, the basic very, you know, what is current account deficit, what is trade deficit, and it was a brilliant book. The tragedy is, I lost my copy, and I've never been able to find it again, because I think it's out of print."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:12.680",
+        "message": "So that was..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:14.760",
+        "message": "So if any of the listeners have an old copy of the book, you can do a good deed to the world. Yes. So that was one book that really sort of, then there have been a lot of, you know, I think Tim Harford writes economics in a very, very approachable way. His books have really been great. Of late, I've been reading Thomas Sowell. I mean, his books are just fantastic, because, you know, what he does is, and what is actually missing from most economics textbooks is that he relates economics to politics, society and everyday life. And there, you know, I mean, I find it very, very funny that, you know, economics actually gets taught in colleges without being related to, you know, the society and the politics"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:05.040",
+        "message": "at large. Thomas Sowell, for me, is one of the finest thinkers of the last century. And even speaking in terms of textbooks, I think his two books, Basic Economics and Applied"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:13.640",
+        "message": "Economics are both fantastic, in the sense that, you know, anyone can pick up and start reading it. There are no graphs, there is no math. Yeah. And it's not that, you know, personally, I don't have a problem with math and graphs,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:12:24.000",
+        "message": "but it does put off a lot of people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:27.680",
+        "message": "And it's just fantastic. In fact, before I came here, I was reading, you know, Basic Economics, and that's a book I sort of keep going back to because it just explains things in a very, very practical sort of way. So, Thomas Sowell, you know, anyone who wants to learn economics and does not want to take a full course or spend two years or three years in college, it's by far the best."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:54.440",
+        "message": "In fact, if I may give a recommendation to my listeners, another textbook, which is really good is Tyler Carvin and Alex Tabarrok's textbook on macroeconomics and microeconomics. And they also have great video courses at Marginal Revolution University. So check that out. Those are just wonderful. Now, on Twitter, I promised your readers and my readers as well, that I would make you reveal something about yourself that no one in the world knows."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:21.080",
+        "message": "This is the first time people will come to know. I mean, it's very difficult to come up with something, you know, which no one in the world"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:28.520",
+        "message": "knows. Okay, let's say maybe your parents or your loved ones might know something, but the world at large would be surprised by this saying, really, Vivek likes wearing lingerie?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:35.680",
+        "message": "You know, something like that. No, I mean, I'm not. So you know, lingerie reminds me of an old story. And this was, I think, sometime 2007 or 2008 or 2009, maybe. And, and my grandfather asked my sister, in a very roundabout manner, which took my sister some time to figure out as to, you know, what did he really mean by what he said. And he basically asked her, kya isko ladkiya pasand nahi hai, which essentially, you know, it was his way of asking whether, you know, I'm gay, so."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:11.080",
+        "message": "Okay, I won't ask you what the answer was, but most eligible bachelor in town, ladies, if you're listening."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:18.080",
+        "message": "No, so the point is, so yeah, so the larger point is, yeah, I mean, so I was just taking, you know, your lingerie point, right? Or, you know, as we Indians call it, lingerie."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:30.240",
+        "message": "That's not a roundabout revelation that I asked for, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:33.240",
+        "message": "I'll give you a sort of, you know, something that I mean, I mean, I have not, I mean, people know this, you know, I am extremely fascinated by crime fiction. I mean, I read practically, you know, I live to read crime fiction. And over the long run, you know, if ever I reach a stage in life where I have some amount of f**k you money, I mean, I want to write a crime fiction book, so, which is an ambition I share as well. Yeah, yeah. So that is, yeah, I guess we can write a crime fiction book. We can, sorry? Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:10.400",
+        "message": "Yeah, we can sit in."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:15:11.400",
+        "message": "No, I mean."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:12.400",
+        "message": "The problem with, you know, the only problem I think is, you know, the plotting etc. is not a problem. The problem is that, you know, in a city like Bombay, Mumbai, or in any city in India, how do you figure out the procedure, part of how, you know, crime gets investigated?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:34.160",
+        "message": "Because, you know, we don't know, I mean, there is nothing really..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:37.520",
+        "message": "But a senior journalist at your level can just get in touch with a cop and say, yeah. It's very difficult, yeah. I mean, so what happens is, so I know someone who was sort of writing a crime fiction book, and so she did approach, you know, some senior police guy in Bombay, and so that guy's condition was that he also, you know, wanted his name on the book."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:59.560",
+        "message": "So it's not so... That's pretty bizarre. Yeah, it's pretty bizarre."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:02.560",
+        "message": "So it's not so straightforward, yeah. She should put his name on the book just to reveal it to the world, this is the guy. Or what one could do is, you know, and there are books like that, I mean, if you read the Scandinavian crime fiction, you know, especially a guy like Henning Mankal, even though his books are, you know, the main character, Kurt Wallander, is a chief inspector, he doesn't really get into a lot of procedures. I mean, there's basic shooting, and you know, this gun, that gun, and you know, this is where the bullet was, and all that's there. But it's more about plotting, and it's more about how Sweden has changed over the years, and the politics, you know, of the country and the weather, and it's just..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:51.840",
+        "message": "So you'd do a Bombay analogue of that, if you were to do something."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:54.600",
+        "message": "In fact, you know, the bizarre thing is, there is no crime fiction set in Bombay. I mean, and this is a city that can give you stories dime a dozen. And this is a city which actually has so many crime reporters. And so many stories."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:08.480",
+        "message": "It's mad. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:10.480",
+        "message": "And it's so... I mean, I mean, actually, crime reporters are by far the best guys, you know, when it comes to writing crime fiction. I guess the problem in India is that a lot of crime reporters, even though they're very good reporters, they can't write, you know, so ultimately, they get the story and someone they tell the story, and there is a guy sitting and the desk guy in the newspaper actually writes out the story. So even though they may have the stories, they don't have the ability to..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:36.400",
+        "message": "And I mean, half of any narrative, like a narrative is really either taking a story forward or revealing character. And I guess a crime reporter would be good at finding out the facts of a story and doing that part of it. But the other half, which is revealing character and going into the depths of human nature..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:49.880",
+        "message": "In fact, a few years back, you know, Indian Express did a fascinating story on a police inspector who has retired, and he cannot let go of a case of a girl who disappeared. Now, this is just it's such an exciting plot point. I mean, you can just start there and then let your imagination flow. I'm already imagining the back cover of your next book. So I mean, I'm just saying, I mean, it's just, I mean, the city has so many stories which"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:22.560",
+        "message": "are not being told. And in a sense, given that you often write about Mr. Modi's economic policies, one could say you're writing crime nonfiction. But just moving on from there, now that you've made this splendid revelation and our respective Twitter followers should be pleased by it, let's move on to the subject at hand. You mentioned Scott Adams earlier, and when we just came to the studio, I saw you reading a book by Adams Outside and Adams, of course, writes a brilliant cartoon strip, Dilbert, but was surprisingly for a lot of people, disappointingly for a lot of people, a big early supporter of Donald Trump."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:54.280",
+        "message": "No, I mean, so, you know, this is a huge misconception that people have. I don't think he was he was a supporter, you know, of either Hillary or Donald Trump. He basically called the election right early enough. And he just, you know, he doubled up and he kept going on and on about how Trump will win."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:16.720",
+        "message": "And that essentially sort of was... People thought, oh, he must be a Trump supporter."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:20.400",
+        "message": "Yeah, I mean, you know, it's like, you know, in India, now people are talking about the fact that in 2019, there is no option, the Tina factor to Modi. But you know, you there is always an option, you and me may not like that option. So I think the situation that Scott Adams was in was very, very similar. I mean, he sort of called the election very early. And he just stood by it and people did not and I mean, the media by large, especially the New York based media, which is liberal did not like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:53.340",
+        "message": "So why I bought Adams up was to seek seamlessly to the subject of Trump, and to the subject of Trump's vision of the world, which is where, in a sense, our talk about today's episode comes from, because it seems that he doesn't understand any of the things that you've written in your book, Easy Money, obviously, but also that his insular view of the world that is immigrants are bad trade with other countries is bad. It's just fundamentally flawed. Now, you know, I've given one basic at the start of this episode, one basic economic point of view about why his fulmination against trade deficits are misguided, because I actually think trade deficits aren't a bad thing at all. I mean, it's just it's trade benefits everybody, both parties, but you've outlined a somewhat deeper monetarist view in your Easy Money trilogy, specifically the third book, the second last chapter, where you deal explicitly with this and you give historical parallels as well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:53.560",
+        "message": "So can you outline some of this? So basically, you know, the first thing we need to realize is as to why is Trump doing what he's doing? I mean, you know, at a superficial level, it seems bizarre, but actually it isn't because he's just catering to his audience. So when Trump's campaign started, his slogan was, make America great again. And the funny thing is that this was not an original slogan at all, because in 1980, Ronald Reagan had run on the slogan, let's make America great again."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:26.400",
+        "message": "So Trump simply just dropped one word. Reagan, of course, a very different kind of leader and he meant very different things"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:32.000",
+        "message": "by it. He was almost the opposite of what Trump is trying to do. So now, you know, why did Trump come up with a slogan like, you know, make America great again? And this essentially, the answer to this question lies in the fact that, you know, during the heydays of the manufacturing boom in the United States, there were factories all over the country and primarily, you know, what is called middle America. And these factories gradually sort of, you know, came to a stop and many white male Americans lost their jobs. Now, Trump is essentially catering to this audience and, you know, when someone loses a job, at least in, you know, developed democracies, they have an unemployment alliance and there are many other facilities which are available. But at the end of the day, it's sort of, you know, not having a proper job hurts you personally. So I just like to quote something, you know, from a book called The Wealth of Humans, written by a gentleman called Ryan Avent. And in this, he says, work is not just the means by which we obtain resources needed to put food on the table. It is also a source of personal identity. It helps give structure to our days and our lives. It offers the possibility of personal fulfillment that comes from being of use to others and is a critical part of the glue that holds society together and smooths its operation. So basically what has happened is, you know, all these Americans who have lost jobs over the years have essentially started to think or rather, you know, have been thinking for a while that it's the Chinese and the other foreign countries which have taken their jobs. So this is essentially the perception that prevails and, you know, perception is reality. And Trump has essentially played on this perception. So when he says that, you know, make America great again, what he essentially meant was that, you know, all these factories which are flourishing, you know, up until the 80s and the 90s will come back and, you know, the average American who's lost his job will find a job all over again. Now, there are a couple of points here which, you know, we need to understand. You know, one is that have, you know, the Americans lost their jobs only due to the Chinese and, you know, other countries like, you know, Bangladesh, Vietnam, Thailand, Indonesia producing goods cheaply than America does? The answer is yes and no. So what has also happened is that the productivity of the American worker has increased over the years. And there's some research carried out by an economist called Michael Hicks, who writes that almost 88% of job losses in manufacturing in America in recent years can be attributed to productivity growth of American factories. Now, in simple terms, what it basically means is that an average American worker is producing more goods while working in a factory than he did in the past, okay. And this is because of advances made in automation and IT. It has also led to the need for fewer factories carrying out manufacturing. Now, one of the data points that Hicks gives is that if the productivity levels of 2000 had prevailed in 2010, US would have required 20.9 million manufacturing workers. Instead, the American factories employed only 12.1 million individuals. So obviously, there is a gap of close to, you know, 9 million jobs. So you know, one reason that why America has lost jobs is because productivity has improved. And obviously, given the fact that, you know, other countries can produce things cheaply than America can, I mean, has had an impact. So Trump has essentially, you know, sort of feeded into this sentiment. And, you know, one of the things that he said early enough was that he'll try and shrink the American trade deficit. Now, what does that mean? You know, trade deficit, a country runs a trade deficit, essentially, when its imports are more than its exports. So what Trump basically wanted to say was that he'll sort of try shrinking American imports. How do you shrink American imports? You shrink American imports by basically encouraging protectionism so that, you know, Americans are not able to import goods from other countries. And that essentially leads to a situation where, you know, the American companies become competitive and they produce goods, which Americans can then buy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:32.000",
+        "message": "Right. And, you know, I wrote a column when Trump was running pointing out that he had one thing in common with a lot of populist demagogues, which is that he tended to come up with simple, easy to understand answers to complex questions, which actually only had complex answers. So for example, his answer to the question of where are the jobs in Middle America going was twofold. One is that your jobs are being shipped out. And the other was that immigrants are coming and taking your job. So therefore, his anti-immigrant and anti-free trade kind of line, both of which are absolutely wrong. I'm going to now ask you to obviously to expand on the trade deficit. But before that, let's take a quick commercial break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:27:13.000",
+        "message": "Hey, it's been a great week on IVM Podcast. If you're not following us on social media, please make sure you are. We are IVM Podcast on Twitter, Facebook and Instagram. This week on Keeping It Queer, Naveen talks to prominent author Devdutt Patnaik to explore queerness as depicted in Indian mythology. On Cyrus Says, Cyrus meets the film critic and writer Rajasthan and the duo quickly descend into a whirlwind of movie references. On LBB, catch a fun event in Delhi happening soon and a contest lined up for you on the LBB I Found Awesome podcast. On Hustle Science, hosts Ranveer and Tejaswin talk to entrepreneur Pranav Marwa from Thinkubate about his journey. Also, if you missed last week, make sure you catch Sahil Kattar on their first episode. That was a great show. On Paisa Vesa, if you missed last week's episode, we had a fun back to school special episode with a bunch of really smart 10 year olds who asked Anupam questions about inflation, taxes and more. Try and listen to as many of these shows as you can. And now on to your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:57.680",
+        "message": "Welcome back to the scene in the unseen. I'm talking trade deficits with Vivek Kaul, that is I'm not talking about my trade deficits with Vivek Kaul because I have none. But America's trade deficit with China."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:09.960",
+        "message": "Yeah, so America runs a trade deficit of around, you know, 552 billion dollars. I mean, that was the trade deficit in 2017. And in 2016, it was around 500 billion. So basically, within a period of one year, it went up by around 10%. Now, what does that mean? It essentially means that the total imports of America are greater than the total exports of America by 552 billion dollars. Now, what does Trump propose to do about it? And so, you know, this is something that Peter Navarro, an economist who served as a policy advisor to Trump's electoral campaign, and I think perhaps continues to be associated with him, I'm not sure of that, because so many people keep, you know, leaving the Trump"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:58.000",
+        "message": "administration and it's not possibly, you know, being in India, it's not possible to keep track of. It's my dream to see you as Trump's senior advisor one day."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:06.400",
+        "message": "Yes. So Trump essentially, so this is something that, you know, Peter Navarro says Trump proposes eliminating America's trade deficit through a combination of increased exports and reduced imports. The idea is to manufacture more stuff in the US, bring down imports and increase exports. In the process, more jobs will be created for America and Americans. And this will make America great again, you know, QED, as you said, simple solutions to"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:29:34.120",
+        "message": "complex problems."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:35.120",
+        "message": "And in fact, his website, this is Donald Trump's website, puts it, he plans to direct the Secretary of Commerce to identify every violation of trade agreements of foreign countries currently using to harm our workers and also direct all appropriate agencies to use every tool under American and international law to end these abuses. So again, you know, simple things that will sort of put tariffs on goods from abroad, you know, and so on and so forth. The problem is that what people don't understand is that if you look at American imports and American exports, they move almost in a parallel line. I mean, even though there is a gap between them, if you were to plot out, you know, the imports and the exports of America over the years, you would get two curves, which are almost moving."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:28.880",
+        "message": "So there's a positive correlation."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:30.800",
+        "message": "In fact, if you were to sort of put it in slightly, you know, complex terms, the curves have a correlation of close to one. Okay. Now, what does that essentially mean? Now, it basically means that dollars earned by the countries which export goods and services to the United States, which is essentially the imports of U.S., are used to buy goods and services being exported by the U.S. So the imports and the exports are very closely linked. So the moment you crack down on American imports, the other countries, the money that they make will come down in the process. So they will have lesser money to buy goods and services being exported by the U.S. So Trump's view of, you know, simplistic view of sort of decreasing imports and increasing exports wouldn't work. Okay. And it would also create a lot of problems globally."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:30.980",
+        "message": "But I would actually assume that that even if dollars won the universal currency of trade, so to say, that same correlation would still be there simply because trade is a positive"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:39.920",
+        "message": "sum game, both sides are benefiting, and therefore, if you cut down on trade, both sides lose"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:45.080",
+        "message": "that value. So even if he stopped buying from the Chinese, they'll have less money to buy from us."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:49.520",
+        "message": "So in any case, there'll be a correlation. So I mean, forget dollar, I mean, you know, even let's say if trade was happening in gold or, you know, currencies convertible into gold, anything, the same, you know, thing would result. Now, you know, other than impacting America, this would also impact the global economy in a big way. And I just like to quote something that an economist named Richard Duncan, you know, has been talking about over the years. What he says is that over the past 35 years, the deficit, which is basically the American trade deficit, has become the driver of global economic growth. Okay. So what will happen if Trump makes it difficult for the United States to import stuff from China and other parts of the world? If the American imports decline, so will its exports, primarily because other countries, as you know, said, we said, won't have the dollars required to import stuff from the US. Also, with both imports, as well as export shrinking, the trade deficit may not reduce,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:57.480",
+        "message": "right? In percentage terms, it might just stay the same."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:01.080",
+        "message": "So even in non percentage terms, I mean, both your, you know, exports and imports fall by the same amount, your trade deficit stays the same, which mind you, I mean, our case"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:11.800",
+        "message": "completely is that the trade deficit doesn't matter. It's not a bad thing. But even if you happen to assume that it does matter, and you're sitting in Trump's shoes, this actually won't affect it at all. So it's ineptitude upon ineptitude, basically."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:24.680",
+        "message": "Now, further a fall in American imports will mean a fall in global demand. And in the process, the global economy will shrink. Now, how will this play out? Now, Duncan essentially says that any attempt to eliminate the American trade deficit could easily cause major problems for the global economy leading to another Great Depression. Things could go particularly bad for China. Now, in 2015, the US ran a trade deficit of $367 billion with China. I think in 2017, the number was close to around $336 billion. So this essentially means a trade deficit of $1 billion per day, roughly. Now, if this deficit is eliminated, you know, the Chinese economy will sort of collapse. If China collapses, economies of China's major trading partners will be severely impacted. When China exports less, it also imports less, largely because it will have fewer dollars to pay for imports. Now, this will lead to the Chinese import of commodities from all over the world falling. This can have a huge impact on commodity exporting countries like Australia and Brazil, to name a few. Now, Duncan also says that this could lead to social instability in China, threatening the rule of the Communist Party, and even military conflict between China and its neighbors and the US, possibly. The response from China could be like the way Japan responded at Pearl Harbor after the United States imposed oil embargo on the country in 1941. So the point is that, you know, the US imports have sort of become, you know, a very important factor in global demand. And if those imports are cracked down on, it will impact global demand everywhere. And once you know that happens, it could lead to political repercussions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:16.400",
+        "message": "Yeah, and you know, I'd also sum it up simply by saying that, once you understand that trade is a positive sum game, and if there's a given state of trade happening between US and China, by cutting it down, you're effectively creating a negative sum game where both sides lose value. And because these are two giant economies, and the whole of the world is so dependent on these two, it's going to have a ripple effect. And it's even simplistic to say that China will be the loser here. If China loses, we all lose, if America loses, we all lose, if Pakistan loses, we all lose. In terms of trade, if anyone is worse off, we are all worse off because the world is"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:53.640",
+        "message": "interlinked."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:54.640",
+        "message": "You're right. So Vivek, before the show started, when I asked you what you do to entertain yourself, you said you spend a lot of time on Donald Trump's Twitter feed. Give me an update what's going on, man."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:05.720",
+        "message": "So you know, talking about tweets, Donald Trump recently sent out two tweets. One was against Canada, and there's another one, which we'll talk about later. So he essentially, you know, in this tweet said, fair trade is now to be called fool trade if it is not reciprocal. According to a Canada release, they make almost $100 billion in trade with the US."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:27.880",
+        "message": "I mean, I don't know what he meant. It was pretty bizarre. I don't think he knew."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:31.400",
+        "message": "He knows what he meant. So what I, you know, once I sort of saw this tweet, I went looking for numbers. And very, very surprisingly, what I found was that the United States runs a trade surplus of 8.4 billion with Canada. What it basically means is that the American exports to Canada are greater than the American imports from Canada."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:54.480",
+        "message": "So therefore, by Trump's logic, which we disagree with, if China is screwing America, America"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:58.800",
+        "message": "is screwing Canada. Canada. Right. And any more than that, you know, when you're running a trade surplus with a country, why are you even complaining?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:05.840",
+        "message": "Right. I mean, if you're running a trade deficit also, why are you even complaining?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:07.840",
+        "message": "No, I mean, that's a different thing. But I'm just talking from, you know, Trump's logic."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:12.200",
+        "message": "If a guy thinks the deficit is bad, why would he think a surplus is also bad?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:15.880",
+        "message": "So, you know, and interestingly, so again, I mean, I looked, once I started looking at"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:21.240",
+        "message": "numbers... I think Justin Trudeau is not macho enough for him. He's too metrosexual. Like, you know, that's why Trump likes Kim, big authoritarian dude."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:29.280",
+        "message": "He's like, he likes these macho guys who will go people executing like that. So there's this photograph going around, I mean, obviously, it's photoshopped, where... All photographs are photoshopped. These days, yes, all photographs are photoshopped. So I mean, so there's this picture going around in which you have Donald Trump marrying Kim. So anyway, so sort of, you know, I started digging, you know, a little more and realized that the United States actually runs a trade deficit with Canada when it comes to goods. The trade deficit is around $17 billion. But when it comes to services, because, you know, America has, you know, big banks and a lot of Canadian tourists actually come to America and spend money. America runs a trade surplus with Canada when it comes to services. And that surplus is around $25.4 billion. And hence, net-net, the overall surplus is around $8.4 billion. So the first question is, why is Trump even, you know, what is he complaining about when you know, the second thing is that obviously, you know, given the fact that on the whole America runs a trade deficit, examples like Canada are there. In fact, if you look at the American trade deficit, China accounts for nearly three fourths"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:50.560",
+        "message": "of it. Wow. Okay."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:53.560",
+        "message": "So it was much less a few years ago. Yes. So it's it's sort of gone up from around 22% in 2000 to around almost 75% now, which is"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:02.280",
+        "message": "a sign of China's growing manufacturing might and you know, which if not for our labor laws and our law, you know, mad regulations, we could have had part of that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:12.560",
+        "message": "Yes. So the larger point here is that, you know, there's no point bullying Canada, right? If you have to bully, bully China."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:21.720",
+        "message": "So he's wasting his time on Canada. I think he must have opened Melania's laptop and found a folder there called Justin."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:28.760",
+        "message": "That must have started him off. I'm sorry. Continue. That was a bad joke. So, so if you look at the American trade with China, America runs a trade deficit of $376 billion when it comes to goods, but it runs a surplus of $40 billion when it comes to services."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:48.920",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:49.920",
+        "message": "So services are for America's doing pretty good. It is, you know, it is by far, you know, the most innovative country in the world. So now the point is, you know, the point that I want to make here is that, you know, most of the global trade happens in terms of dollars. Okay. And I have a number here. I think, let me just look it up. Yes. So this is something from a book called The Scandal of Money, in which George Gilder, who's the author says, today, the dollar handles more than 60% of the world trade, denominates more than half of the market capitalization of world stocks, and partakes in 87% of global currency trades. So given the fact that most, you know, global trade is happening in dollars, countries end up with dollars, right? You know, when they trade, they end up with dollars. And what do they do with these dollars? I mean, when you export, you earn dollars, and then you use those dollars to pay for imports. Beyond that, there is still, you know, countries like China's, because their imports are significantly lower than their exports, they end up with surplus dollars."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:05.720",
+        "message": "What would you do if it was the other way around? Would you buy dollars from the market? Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:10.920",
+        "message": "Basically. Or there would be capital coming in, right, which would take care of, which is why, you know, ultimately, if your current account is negative, your capital account, it has"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:23.880",
+        "message": "to be, has to be in surplus."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:25.480",
+        "message": "Yeah, absolutely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:26.480",
+        "message": "So what does China do with these dollars?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:29.440",
+        "message": "These dollars ultimately find their way, I mean, a lot of them, not all of them, into American are invested in American financial securities, primarily treasury bonds issued by the American government. Now, treasury bonds are essentially government bonds issued by the American government to finance the fiscal deficit. Fiscal deficit is the difference between what a government earns and what it spends."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:51.640",
+        "message": "In fact, that is the deficit people should be worried about."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:54.680",
+        "message": "That's a real problem. So what happens is, and China is not the only country which has these surplus dollars, which find their way into the US, right? There's Japan, there's Brazil, there's India, there is Saudi Arabia, Ireland, a lot of money comes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:13.600",
+        "message": "So what's the consequence of this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:15.280",
+        "message": "What I'm basically trying to say is that, you know, both China and Japan own treasury bonds of more than a trillion dollars. Okay. In case of China, China owns, and this is data as of March 2018, China owned around 1.19 trillion dollars worth of treasury bonds, Japan owned around 1.04 trillion."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:33.800",
+        "message": "So for the benefit of our listeners, just elaborate on this. What are these treasury bonds? How do they function?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:40.160",
+        "message": "So treasury bonds are, as I said, you know, issued by the American government, they are by far the safest financial security in the world. And they're safest because primarily American government borrows in dollars. And if at all there is a problem, it can simply print those dollars and hand it over to the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:59.440",
+        "message": "people who had. So when you buy these US treasury bonds, you're basically lending money to the US at a certain"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:05.640",
+        "message": "rate. So because there is so much demand for US treasury bonds, the American government can get away with offering a very low rate of interest on these bonds. Okay. Now, treasury bonds typically in any country or, you know, government bonds in any country sort of act as a benchmark for the entire interest rate scenario in that country. So if the treasury bonds offer low interest rates, automatically the, you know, the other loan interest rates are also low. And as you know, you know, as we all know, that low interest rates are very, very important of that great American dream. I mean, the American dream is basically nothing but consumerism and it's, it's a euphemistic term for consumerism. So if all these dollars do not find their way back into the US, the interest rates in the US will not be as low as they currently are. So you know, the larger point here is that America has an exorbitant privilege."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:06.720",
+        "message": "What does that mean? So just demystify that if I can stop you for a second. Is it the case that because all this money finds its way back to the US and therefore they have that supply of money to lend that therefore that money is cheap because supply is great relative demand and therefore they can charge low interest rates."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:23.560",
+        "message": "Is that correct? Yes. Yes. So, you know, if Donald Trump starts cracking down on American imports, all these surplus dollars coming back into the US will not come back to the US."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:35.640",
+        "message": "And therefore the interest rates for American citizens get higher."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:38.880",
+        "message": "Interest rates will go up. Exactly. And if interest rates go up, you know, the entire American dream, which I, as I just said, is basically consumerism and nothing else."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:49.040",
+        "message": "Though I have to say I disagree with the word consumerism. It's a bogey term, but we won't get into that argument here."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:54.440",
+        "message": "But I get your point that they'll have less money to spend and it will be a downward spiral. So essentially, you know, so the larger point here is that Donald Trump is basically attacking at the heart of the system that has fueled the American dream. And it's a system which has already been sort of weakened by many other factors."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:15.840",
+        "message": "And he's indirectly making America poor again. Yes."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:19.080",
+        "message": "I mean, that's that's for sure. That's for sure. And so, so this was one tweet that, you know, a man, Donald Trump sent out. The other tweet that he sent out was very interesting. And this he sent out yesterday at 522 p.m. and you know, read it at 523. I didn't. I didn't. Essentially, I was coming out of a meeting and, you know, some random guy on Twitter sort of, you know, tagged me on that tweet."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:46.620",
+        "message": "And that random guy on Twitter is listening right now and saying he's calling me a random"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:49.800",
+        "message": "guy. I mean, I don't remember who he was, but yes, so thank you, random guy, for bringing this to my notice. So what what Mr. Trump tweeted was oil prices are too high. OPEC is at it again. OK. Now OPEC, as you know, is the Organization for Petroleum Exporting Countries. It is an oil cartel, primarily, you know, led by Saudi Arabia. Now, if you attack OPEC, you're basically attacking Saudi Arabia. I mean, there are no two ways about it. So, you know, so basically, you know, we'll we'll need to get into a little bit of history here. And before we do that, you know, there is some basic, some, you know, economics that I need to sort of share here. So OPEC is what economists would call a leading firm model of oligopoly. OK. Now, if you accuse me of using big words, I mean, I know when I first came across this terminology, I was like, you know, why can't they just use at least, you know, oligopoly"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:01.720",
+        "message": "could have been coined a little more. Can I use OPEC in a sentence? Do you know the difference between water and oil? No. Water is transparent, oil is OPEC. Oh, man."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:10.080",
+        "message": "Sorry. So OPEC essentially follows the leading firm model of oligopoly. And that basically means that they cater to a market dominated by a small number of sellers and within those small number of sellers, the largest seller, which in this case happens to be Saudi Arabia, sets the price. OK. So why I sort of went into this is to tell our readers that when you attack OPEC, you're essentially attacking Saudi Arabia. Now, so there is a lot of history."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:44.600",
+        "message": "Trump may not even know that, but never mind."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:47.600",
+        "message": "Let's not go there. So there's a lot of history that we sort of need to discuss with our listeners here. Now, you know, America in the early 20th century fell in love with the automobile and the production sort of went up from around 1.9 million units in 1920 to 4.5 million in 1929. And after that, the Great Depression struck and then the Second World War happened. And during the Second World War, all these automobile factories essentially were converted into arms factories. Now, once the World War started coming to an end, and this was late 1944, early 1945, the Americans realized that, you know, there would be an automobile boom all over again because, you know, people had not bought cars for many years. And what was also happening was that, you know, American cities were expanding, you know, all these suburbs were coming in and there was no, you know, public transport system to cater to these suburbs. So you needed cars. So sometime in 1945, the American president, Franklin Roosevelt, you know, realized this. I mean, obviously, his set of advisors would have told him about it. And he traveled quietly to the USS Quincy, a ship anchored in the Red Sea. Here he met King Ibn Saud of Saudi Arabia, the country which was by then home to the largest oil reserves in the world. And American, you know, so basically America, as I said, had become obsessed with the automobile and due to that, this had led to a swift decline in its oil reserves, even though it was the biggest producer of oil at that point of time. The country needed to secure another source for an assured supply of oil. In return for access to Saudi Arabian oil reserves, King Ibn Saud was promised full American military support to the ruling clan of Al Saud, who still rule, who still rule and the military guarantee is also still there. What had also happened sort of parallelly was that in 1944, the countries, you know, the world had gotten together at Bretton Woods in the state of New Hampshire in the United States and sort of tried to design a new global monetary system. And in this new global monetary system, the American dollar was at the heart. It was the only currency that continued to be convertible into gold, you know. So you could, countries, other countries could convert their, you know, convert US dollars into gold. And I think one ounce of gold was essentially worth $35. So one ounce is around 31.1 grams. So this essentially led to a situation where countries sort of started, you know, till then the trading currency used to be the British pound. Now, countries gradually started moving away from the pound and, you know, graduating towards the dollar primarily because pound was no longer convertible into gold and dollar was. So this essentially led to a situation where the global trade moved towards dollars."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:16.120",
+        "message": "And OPEC also, because people felt more secure, because it was convertible, it was convertible"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:21.040",
+        "message": "into gold. See, paper money as you know, as we sort of discussed in a previous episode is pure paper money is a very recent concept, which is probably as old as, you know, 45, 46 years, I mean, 71 was when the link between gold and paper money broke down completely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:42.200",
+        "message": "And I urge our listeners to go to seen unseen.in where our archives are and check out my episode on easy money with Vivek, which discussed his books in detail and plus the sort of insights he's touching upon right now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:55.440",
+        "message": "So so basically, you know, back then everyone sort of wanted their paper currency to be convertible into gold. So and you know, OPEC was no exception and Saudi Arabia was no exception. I mean, the Saudis love their gold. So oil was bought and sold in dollars. Okay. Now, this is a very important point, which a lot of people don't realize oil continues to be bought and sold in dollars. In fact, you know, over the years, other members of the OPEC, including Iran, have tried to move OPEC away from dollars. I mean, in fact, in the late 70s, you know, few countries wanted to sell oil in a basket of currencies, but Saudi Arabia did not let it happen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:42.400",
+        "message": "So essentially, if India wants to buy oil from Saudi Arabia or slash OPEC, it will have to pay in dollars, and it will have to get those dollars from somewhere."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:50.400",
+        "message": "So when oil is bought and sold in dollars, it essentially forces countries which do not produce enough oil to earn those dollars. How do you earn those dollars? You earn those dollars by exporting whatever you have in terms of dollars, and then you use those dollars to buy this oil. And most countries in the world do not produce enough oil. I mean, like the Indian import dependency in 2017-18 was close to 82%, which basically means that only 18% of the oil consumed in India was produced in India. The rest was imported. And when you import, you pay in dollars. And when you pay in dollars, you need to earn in dollars. So again, you know, this goes back to the..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:38.880",
+        "message": "What's the implication of this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:40.200",
+        "message": "So the implication is this, you know, it goes back to a term that I used, exorbitant privilege. You know, all other countries in the world need to earn these dollars. Saudi Arabia can simply print money, can simply print it. So if oil, let's say, is not sold in terms of dollars, what happens then? Let's say oil is, you know, I mean, they sort of, the Saudi guys come up with, OPEC comes up with its own currency, okay, and says, okay, now we'll only buy and sell oil in this currency."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:12.280",
+        "message": "What happens then? I would name it Kols. No, I mean, whatever."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:15.280",
+        "message": "They may call it Al-Sauds or whatever. Al-Kols. So what happens then? Then the world does not need to trade in dollars. If the world does not need to trade in dollars, the world does not need to export in dollars. If the world does not need to export in dollars, all the surplus dollars do not go back to the US."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:35.080",
+        "message": "Right. And this again affects the interest rates. And so there are, I mean, the point is there are implications, you know, which you cannot"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:41.880",
+        "message": "possibly even think of."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:43.480",
+        "message": "Right. And we are all tied to each other and if you affect this in terms of making trade freer, you increase the virtuous cycle effect of it. And if you actually cut down on free trade, you can make it a vicious cycle where everybody spirals and gets worse."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:59.080",
+        "message": "Yes. So basically, you know, what happens is, and this is again, you know, it all goes back to the title of your show, the seen and the unseen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:07.280",
+        "message": "Exactly. These are all unseen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:09.280",
+        "message": "Because what happens is when we talk economics, especially, you know, political economy, we just tend to look at the seen effects. But there are so many unseen, you know, second order, third order effects that you simply cannot figure out in advance. Right. So, so again, so the larger point here is that, you know, a precedent of, you know, of the only global superpower should not be tweeting like, you know, you and me do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:42.200",
+        "message": "So I don't tweet like that, I'm very offended by that. No, by you and me, I mean, people in general, people in general. So Vivek, just to change the subject, when we were talking on the phone yesterday, I was recording this on a Thursday before the Monday when it's released. And you know, the day when the football World Cup starts. And I told you that, hey, do you know, Spain has just sacked their coach, Lopeta Aguillo, however, his name is pronounced. And you started talking about easy money again."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:09.480",
+        "message": "Iske saath Spain ka kya connection hai? So the connection is that, you know, whatever is happening in the US now, has sort of happened with the Spain, you know, few centuries back in the 15th and the 16th century. So you know, essentially, what happened was that in the early 16th century, Spaniards captured large parts of what is now known as South America, right. And the area had large deposits of silver and gold, right. So these precious metals were sort of transported from Spain, from South America to Spain, and, you know, then they were converted into coins. And these coins were used to buy things, okay. And you know, the story, one of the great stories of this is that in 1545, one of the biggest silver mines was found in a place called Potosi, I hope I'm pronouncing it correctly, which is now in Bolivia. Now Potosi is one of the highest cities in the world and is situated at a height of 4090 meters. And given the altitude that it sits on, it took Spaniards some time to get there. Here a mountain of silver of six miles around its base was discovered. The mountain or the rich hill as it became to be called, generated nearly 45,000 tons of silver between 1556 and 1783, which is like, you know, more than 200 years. But that was the original city on a hill. And most of this newfound silver was shipped to Spain. And in the best years, some 300 tons of silver came in from silver mines in the various parts of South America. Now once this gold and silver started coming in from, you know, from South America, the Spaniards became proficient at spending it rather than engaging themselves in any productive activity. Easy money had spoiled them and they produced very little of their own. Once this happened, everything had to be imported. You know, weapons came from the Dutch, woolens from British, glassware from Italians and so on. Now Thomas Sowell, you know, who we were discussing at the very beginning, makes a very interesting point in Wealth, Poverty and Politics, which is, you know, a great book that he's written. The vast wealth pouring into Spain allowed the Spanish elite to live in luxury and leisure, enjoying the products of other countries purchased with windfall gain in gold and silver. At one point, Spanish imports were nearly twice as large as its exports, with the difference being covered by payments in gold and silver. It was a source of pride, however, that all the world served Spain while Spain served nobody. Now if you sort of compare the situation, you know, something similar is playing out in the US. Now obviously things are not as bad in the US as they were in Spain, but if you look at the ratio of US imports and US exports, and I'm talking about goods here, not services, the ratio is 1.5, which basically means that the US imports 50% more goods than it exports. So, you know, Spain had like, you know, Spain had an unlimited amount of access to gold and silver. Similarly, US has an unlimited access to the dollar, you know, other countries, as we've"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:39.240",
+        "message": "been discussing, need to earn it. They can just spend the money, that will devalue their own currency and cause inflation, blah"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:44.560",
+        "message": "blah blah, but whatever. Yes, but over a period of time, you know, even if they gradually keep printing it, it doesn't make, you know, a rate of inflation of 2-3% a year does not really kill anyone, right? While the unlimited access to gold and silver was Spain's easy money, the dollar is United States' easy money, and given this, it isn't surprising that like Spain, the United States imports much more than it exports. Also, you know, Spain had to face the risk of gold and silver running out, which it eventually did, but the US can keep running its printing press."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:22.760",
+        "message": "So how did that Spanish story play out? I don't know how they'll do at this World Cup, but how did that story play out?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:28.160",
+        "message": "So obviously, you know, after a point of time, you know, the supply of silver sort of started coming down. I mean, it peaked in 1600 and started to fall after that. But the spending habits of people did not change immediately, leading to Spain getting into debts with foreigners and the government defaulted on its loans, you know, in 1607, 1627 and 1647. So that's in a sense a crucial difference in that they ran out of gold, the US as well. Yes, because what happens is, you know, ultimately at that point of time, you know, gold was money and there was no, you know, gold wasn't unlimited. The US can never run out of money, as long as dollar continues to be the international trading, international reserve currency."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:12.600",
+        "message": "So tell me something, how do you see all of this playing out? You cannot... What's your worst case scenario? You cannot predict anything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:19.360",
+        "message": "I mean, you know, there is no worst case scenario, because something like this can continue for years and years. I mean, it can possibly last, you know, even our lifetimes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:31.640",
+        "message": "And we are, you know, sort of in an age of populist demagogues everywhere who are insular in this way. And if you think about it, this is not really a right-left divide, because people on the right typically tend to be for free trade. And in this case, if you look at their policies towards trade, Trump and Bernie Sanders have pretty much identical and identically destructive policies."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:51.440",
+        "message": "In fact, you know, the interesting point is, if not the US dollar, then what? Okay. Now, in 99, when the euro sort of came into the picture, people started to say, okay, now the euro will take on the dollar. But if you look at the situation in Europe, and especially Southern Europe, it's even, you know, more worse than, you know, the situation in the US. In fact, the situation in the US has now started to improve. So how does the euro challenge the dollar? If you look at Japan, I mean, the country has not grown for many, many years. And with the number of old people going up and the population shrinking, whether the country will, you know, what will happen is anybody's guess. So again, the yen cannot take on the dollar. That leaves us with the Chinese Yuan. The Chinese Yuan cannot take on the dollar until China has full capital account convertibility. Now, what do I mean by that? What I mean is that a Chinese guy can sort of take out his money from China and invest it anywhere in the world at any point of time. Now, that is not allowed as of now, because China needs access to all these savings to build all the infrastructure that it is. So if, you know, if money cannot sort of flow in and flow out freely from any country at any point of time, that currency can never be the international reserve currency. You know, major reason why dollar is the international reserve currency is because the US Treasury bond market is extremely liquid. You can bring in money at any point of time, you can take out money at any point of time. So which means they'll continue to have a disproportionately large influence on the world's economy. So what will happen is, my guess is, since you've asked me to sort of paint a futuristic picture, my guess is, and this is already happening, that China will work towards projecting the Yuan as, you know, an international currency. But that is not going to happen, like, you know, in 2022, or in 2025, it will at least take a couple of decades. By then, you know, who knows what else might happen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:05.160",
+        "message": "So, and on that wonderful, hopeful note, Vivek, I hope you enjoy the World Cup."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:09.120",
+        "message": "And thanks so much for coming on the scene and the unseen. The World Cups in 2019, right? Yaar, tu cricket hi dekhta hai kya?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:16.520",
+        "message": "I mean, I don't watch. The US hasn't qualified. So you don't give a shit."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:21.320",
+        "message": "So in fact, if you're talking about football, you know, the four countries which have 50% of the world population, US, India, China and Indonesia, are not playing the World Cup. Immediately boycott the World Cup."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:35.000",
+        "message": "By the way, I went and watched the Hero Cup intercontinental final between India and Kenya and it was quite excellent. Next time you must come with me and fall in love with the beautiful game of football. Yes. If you enjoyed listening to this episode, check out past episodes of the seen and the unseen at seenunseen.in. Vivek has been a guest on many of them where he's revealed many, many lurid secrets and there's only one way to find out what those are. You can follow Vivek on Twitter at call underscore Vivek. And there's another website which might be useful for you. Hop on over to Amazon.in and you can search for Vivek's books, which is an easy money trilogy released recently, re-released by Harper Collins in a really snazzy new edition. And also his book, India's Big Government, which true to its subject is a big book. So do check those out. And you can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:05:27.160",
+        "message": "Enjoy the World Cup. As you can see, we have a podcast listener in his natural habitat. Billions of years of evolution have led him to this point. He's on his way to work and listening to podcasts makes his miserable day better. He will now head to work and use all his knowledge to communicate with other colleagues and possibly future mates. You can find more of his species on ivmpodcasts.com, your one-stop destination where you can check out all the coolest Indian podcasts. Happy listening."
+    }
+]

@@ -1,0 +1,4034 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.920
+[Amit Varma]: Whenever you learn something new, my advice would be before you learn to do it, learn
+
+00:00:10.920 --> 00:00:15.500
+[Amit Varma]: how to think about it. I used to be a chess player in my teens, but I left playing serious
+
+00:00:15.500 --> 00:00:20.540
+[Amit Varma]: chess at 19 because I figured out wisely that I wasn't good enough to make it beyond a
+
+00:00:20.540 --> 00:00:25.380
+[Amit Varma]: certain point. Now I'm almost addicted to online chess today. And looking back at the
+
+00:00:25.380 --> 00:00:31.560
+[Amit Varma]: younger me from 25 years ago, I can see clearly what he did not. The younger me was good at
+
+00:00:31.560 --> 00:00:36.660
+[Amit Varma]: tactics and bad at strategy. I could pull off awesome combinations and sacrifices. I
+
+00:00:36.660 --> 00:00:41.820
+[Amit Varma]: could see a mate in six, but I didn't have good positional understanding of things like
+
+00:00:41.820 --> 00:00:47.220
+[Amit Varma]: how to create a little space advantage now. So I'll have a killer edge 40 moves later.
+
+00:00:47.220 --> 00:00:52.420
+[Amit Varma]: And indeed, one thing that all great chess prodigies have in common is this sort of positional
+
+00:00:52.420 --> 00:00:57.500
+[Amit Varma]: understanding related to this. Some people think that the depth of opening theory means
+
+00:00:57.500 --> 00:01:02.540
+[Amit Varma]: that anyone can mix it up with grandmasters. If they learn enough moves, master the opening
+
+00:01:02.540 --> 00:01:07.300
+[Amit Varma]: theory. But this is simply not true. You can learn all the moves you want, but there will
+
+00:01:07.300 --> 00:01:12.980
+[Amit Varma]: always be unfamiliar situations where you have to apply principles instead of remembering
+
+00:01:12.980 --> 00:01:18.760
+[Amit Varma]: moves. How well you do that is what impacts how good you are. This is a reason top players
+
+00:01:18.760 --> 00:01:24.380
+[Amit Varma]: today like Magnus Carlsen will often play slightly offbeat lines against lesser players.
+
+00:01:24.380 --> 00:01:30.380
+[Amit Varma]: Not because those lines are better, but because they lead to more playable positions. Playable
+
+00:01:30.380 --> 00:01:35.380
+[Amit Varma]: means you need to apply your own brain to the problem and the better player wins. I
+
+00:01:35.380 --> 00:01:40.020
+[Amit Varma]: played poker professionally for a few years and the same applies there. The pedagogy for
+
+00:01:40.020 --> 00:01:46.060
+[Amit Varma]: many young players who go pro is often a version of Indian rote learning. They'll become part
+
+00:01:46.060 --> 00:01:51.220
+[Amit Varma]: of stables and they'll be staked and coached by pros who will teach them what to do in
+
+00:01:51.220 --> 00:01:56.740
+[Amit Varma]: many common situations. For example, at so many big blinds, this is your shoving range,
+
+00:01:56.740 --> 00:02:01.540
+[Amit Varma]: this is your reshove range and so on. They can learn this to an adequate level of granularity
+
+00:02:01.540 --> 00:02:07.420
+[Amit Varma]: to have an edge against recreational players. But when faced with unusual situations, can
+
+00:02:07.420 --> 00:02:12.360
+[Amit Varma]: they think on their feet? Can they apply principles, do the math themselves in their minds and
+
+00:02:12.360 --> 00:02:17.100
+[Amit Varma]: figure out the right answers? I have often found that they can't. They have been taught
+
+00:02:17.100 --> 00:02:21.420
+[Amit Varma]: how to play the game, but they haven't been taught how to think about it. How you play
+
+00:02:21.420 --> 00:02:26.180
+[Amit Varma]: chess and how you play poker has a limited impact on the world. Other fields matter far
+
+00:02:26.180 --> 00:02:31.220
+[Amit Varma]: more public policy. For example, if you are a framer of public policy, you are dealing
+
+00:02:31.220 --> 00:02:36.100
+[Amit Varma]: with a world far more complex than what chess players or poker players encounter. That's
+
+00:02:36.100 --> 00:02:41.220
+[Amit Varma]: all the more reason to have intellectual humility to realize the limits of your knowledge and
+
+00:02:41.220 --> 00:02:46.220
+[Amit Varma]: especially not to fall back reflexively on a bag of tricks you have been taught that
+
+00:02:46.220 --> 00:02:51.860
+[Amit Varma]: may work elsewhere, but may not necessarily work here. This takes hard work and deep thought.
+
+00:02:51.860 --> 00:02:56.500
+[Amit Varma]: It demands hard work and deep thought because every time you get policy wrong in a country
+
+00:02:56.500 --> 00:03:16.580
+[Amit Varma]: like India, millions of people are affected. Welcome to the scene and the unseen. I have
+
+00:03:16.580 --> 00:03:22.220
+[Amit Varma]: often done episodes begged around books by authors, but this episode is based on a fantastic
+
+00:03:22.220 --> 00:03:27.700
+[Amit Varma]: paper written by Shruti Rajgopalan and Alex Tabarrok, premature imitation and India's
+
+00:03:27.700 --> 00:03:33.100
+[Amit Varma]: flailing state. Shruti and Alex are not just my friends, but two of my favorite thinkers.
+
+00:03:33.100 --> 00:03:37.660
+[Amit Varma]: Shruti has been on the scene and the unseen many, many times helping me sharpen and refine
+
+00:03:37.660 --> 00:03:42.740
+[Amit Varma]: my thinking about the world. And Alex co-writes Marginal Revolution, which in my opinion is
+
+00:03:42.740 --> 00:03:47.260
+[Amit Varma]: the best blog of all time period. I've been honored to have Alex on my show before, but
+
+00:03:47.260 --> 00:03:51.740
+[Amit Varma]: that was in the early days when episodes were only 20 minutes long. If you can imagine such
+
+00:03:51.740 --> 00:03:56.620
+[Amit Varma]: a pitiful condition. So I'm looking forward to getting a chance to unwind with him today.
+
+00:03:56.620 --> 00:04:00.700
+[Amit Varma]: Just sitting back and talking about matters other than the subject of this episode, which
+
+00:04:00.700 --> 00:04:05.500
+[Amit Varma]: I have forgotten already. So much have I rambled. Let me take a quick commercial break to compose
+
+00:04:05.500 --> 00:04:23.980
+[Amit Varma]: my scattered thoughts.
+
+00:04:35.500 --> 00:04:39.900
+[Amit Varma]: And I do many, many hours of deep research for each episode, besides all the logistics
+
+00:04:39.900 --> 00:04:46.060
+[Amit Varma]: of producing the show myself. Scheduling guests, booking studios, paying technicians, the travel
+
+00:04:46.060 --> 00:04:51.420
+[Amit Varma]: and so on. So I'm trying a new way of keeping this thing going. And that involves you. My
+
+00:04:51.420 --> 00:04:56.940
+[Amit Varma]: proposition for you is this. For every episode of the scene and the unseen that you enjoy,
+
+00:04:56.940 --> 00:05:02.100
+[Amit Varma]: buy me a cup of coffee or even a lavish lunch, whatever you feel it's worth. You can do this
+
+00:05:02.100 --> 00:05:07.980
+[Amit Varma]: by heading over to seen unseen.in slash support and contributing an amount of your choice.
+
+00:05:07.980 --> 00:05:13.900
+[Amit Varma]: This is not a subscription. The scene and the unseen will continue to be free on all podcast
+
+00:05:13.900 --> 00:05:21.420
+[Amit Varma]: apps and at seen unseen.in. This is just a gesture of appreciation. Help keep this thing going.
+
+00:05:21.420 --> 00:05:23.980
+[Amit Varma]: Seen unseen.in slash support.
+
+00:05:27.340 --> 00:05:29.660
+[Amit Varma]: Shruti and Alex, welcome to the scene and the unseen.
+
+00:05:29.660 --> 00:05:30.700
+[Guest 1]: Great to be here.
+
+00:05:30.700 --> 00:05:31.820
+[Amit Varma]: It's great to be here, Amit.
+
+00:05:31.820 --> 00:05:37.180
+[Amit Varma]: So Alex, you know, I've done a lot of episodes with Shruti where we've spoken about how she's
+
+00:05:37.180 --> 00:05:41.740
+[Amit Varma]: gotten into economics, what influenced her, what books she liked and so on and so forth.
+
+00:05:41.740 --> 00:05:46.780
+[Amit Varma]: We know everything about her. But, you know, when you and I did episodes back in the past,
+
+00:05:46.780 --> 00:05:50.700
+[Amit Varma]: you know, we didn't discuss all that. I'm very curious to know what your journey has been like.
+
+00:05:50.700 --> 00:05:55.180
+[Amit Varma]: How did you become an economist? Who were your big influences and so on?
+
+00:05:55.180 --> 00:06:01.260
+[Guest 2]: Oh, well, I think you'll like this because, as you probably know, the drummer from Rush,
+
+00:06:02.060 --> 00:06:09.900
+[Guest 2]: Neil Peart, died recently. And it was Rush which got me into libertarianism and economics,
+
+00:06:09.900 --> 00:06:16.140
+[Guest 2]: you know, the incited Ayn Rand on one of their albums. And my mother had said,
+
+00:06:16.140 --> 00:06:21.100
+[Guest 2]: this had come up and my mother had said, oh, you'd probably like her. And I think my mother
+
+00:06:21.100 --> 00:06:26.300
+[Guest 2]: regrets saying that. Those are the worst things you possibly could say. Since then,
+
+00:06:26.300 --> 00:06:32.060
+[Guest 2]: I started to read some Ayn Rand. So it was from Rush and from Neil Peart. So I've been
+
+00:06:32.060 --> 00:06:35.980
+[Amit Varma]: thinking a lot about that lately. And how did you kind of get into economics? Was it always
+
+00:06:35.980 --> 00:06:42.780
+[Guest 2]: sort of an interest of yours or you stumbled into it? So I got into free market economics
+
+00:06:42.780 --> 00:06:49.900
+[Guest 2]: to begin with. And Ayn Rand recommended Ludwig von Mises as the greatest economist. So I read
+
+00:06:49.900 --> 00:06:57.100
+[Guest 2]: some Mises. And then that brought me to Rothbard. I read a lot of Murray Rothbard's economics works,
+
+00:06:57.100 --> 00:07:04.220
+[Guest 2]: which were great. This was before university. I went to university with the idea of doing PPE,
+
+00:07:04.220 --> 00:07:11.420
+[Guest 2]: politics, philosophy and economics. And in my first year, I did very, very well in economics
+
+00:07:11.420 --> 00:07:17.660
+[Guest 2]: and not so good in politics and philosophy. So that kind of set my path.
+
+00:07:17.660 --> 00:07:20.540
+[Amit Varma]: And tell me a little bit about, you know, Marginal Revolution, because,
+
+00:07:20.540 --> 00:07:24.060
+[Amit Varma]: you know, I was an early blogger myself. And for anyone who's been into blogging,
+
+00:07:24.060 --> 00:07:28.540
+[Amit Varma]: it is actually, you know, it is sort of the lodestar out there of what a great blog should be.
+
+00:07:28.540 --> 00:07:33.500
+[Amit Varma]: And it's interesting how the age of blogs says, you know, essentially, it's over, blogs died,
+
+00:07:33.500 --> 00:07:37.660
+[Amit Varma]: you know, social media took over all the utilities and the functions that a blog had. But Marginal
+
+00:07:37.660 --> 00:07:41.020
+[Amit Varma]: Revolution is still, you know, culturally very significant as well.
+
+00:07:41.020 --> 00:07:46.140
+[Guest 2]: Yeah. So this was an interesting experiment. I actually said to Tyler, you know, we should
+
+00:07:46.140 --> 00:07:50.940
+[Guest 2]: write a textbook. So this is more than 15 years ago now. And he said, yes, you're right. But first,
+
+00:07:50.940 --> 00:07:55.980
+[Guest 2]: we should write a blog. And I think Tyler, as usual, had the ordering correct, because we began
+
+00:07:55.980 --> 00:08:02.940
+[Guest 2]: the blog. And as an interesting experiment, and within the first day or two of having posted
+
+00:08:02.940 --> 00:08:08.940
+[Guest 2]: something, no, this is before Twitter is no, not even emailing people, people started to respond
+
+00:08:08.940 --> 00:08:14.060
+[Guest 2]: to it. And I said, oh, maybe there's something to this. So we began writing the blog. And
+
+00:08:14.060 --> 00:08:19.580
+[Guest 2]: the constraint of having to write concisely, having to get to the point, I think this really
+
+00:08:19.580 --> 00:08:24.540
+[Guest 2]: makes you a much better writer, writing for a blog. You know, on the blog, when you write,
+
+00:08:24.540 --> 00:08:29.900
+[Guest 2]: your audience is one click away from leaving you. So you have to give them something valuable.
+
+00:08:29.900 --> 00:08:33.420
+[Guest 2]: And I think all of these techniques, which we learned in writing the blog,
+
+00:08:33.420 --> 00:08:38.140
+[Guest 2]: then poured it over into writing our textbook, Modern Principles of Economics.
+
+00:08:38.140 --> 00:08:41.340
+[Amit Varma]: And Shruti, one of the things I realized when I read your paper, and even the papers you've
+
+00:08:41.340 --> 00:08:46.620
+[Amit Varma]: done earlier with Alex and others, is that this was a fun paper to read. You know,
+
+00:08:46.620 --> 00:08:51.180
+[Amit Varma]: it was written in such a way that someone like me, who is not used to reading academic papers,
+
+00:08:51.180 --> 00:08:54.300
+[Amit Varma]: and Shruti is pointing at Alex here, it was written in such a way that someone like me,
+
+00:08:54.300 --> 00:08:58.220
+[Amit Varma]: who was not used to reading academic papers could, you know, just breeze through the whole
+
+00:08:58.220 --> 00:09:01.900
+[Amit Varma]: thing. Is that something that you've consciously put thought towards? I mean, I assume you would
+
+00:09:01.900 --> 00:09:05.980
+[Amit Varma]: say that doing Marginal Revolution and having to write Crispy and Concisely helped with that.
+
+00:09:05.980 --> 00:09:09.820
+[Amit Varma]: What was your process of consciously thinking about how should we write papers? And B,
+
+00:09:09.820 --> 00:09:15.820
+[Amit Varma]: is it a feature or a bug given that, isn't it true that academics are almost expected to write
+
+00:09:15.820 --> 00:09:18.300
+[Amit Varma]: in a certain kind of language as if for other academics?
+
+00:09:18.940 --> 00:09:24.220
+[Guest 2]: Yeah, there's a dangerous line that one doesn't want to cross. But especially when you're writing
+
+00:09:24.220 --> 00:09:28.620
+[Guest 2]: pieces which have some relevance to the real world, pieces which you want to influence people,
+
+00:09:28.620 --> 00:09:34.540
+[Guest 2]: have some policy, it really pays to write well. So Shruti and I did work on that aspect of the
+
+00:09:34.540 --> 00:09:39.820
+[Guest 2]: paper quite a bit to make it readable for a general audience, as well as for, you know,
+
+00:09:39.820 --> 00:09:41.420
+[Guest 2]: policymakers and academics.
+
+00:09:41.980 --> 00:09:46.780
+[Amit Varma]: And sort of a final question for you before we start talking about the paper itself, which is
+
+00:09:46.780 --> 00:09:51.020
+[Amit Varma]: that, you know, having lived in India all my life, there are a lot of things which for me are
+
+00:09:51.020 --> 00:09:55.500
+[Amit Varma]: normalized. Like I say that all of us tend to normalize the extreme coercion of the state,
+
+00:09:55.500 --> 00:10:00.220
+[Amit Varma]: and we don't think it unusual in any way. Now, with an outsider's perspective, when you look
+
+00:10:00.220 --> 00:10:05.740
+[Amit Varma]: at India with the economic lens, with the policy lens, and so on, what are the things that strike
+
+00:10:05.740 --> 00:10:10.620
+[Amit Varma]: you as being very different from what you've otherwise seen? But you're amazed that, you know,
+
+00:10:10.620 --> 00:10:12.940
+[Amit Varma]: people here don't see it as something unusual.
+
+00:10:13.660 --> 00:10:18.780
+[Guest 2]: I'm amazed that Indians do seem to put up with a lot from the state. You know, when I first came,
+
+00:10:18.780 --> 00:10:27.340
+[Guest 2]: it was just after demonetization. And despite the huge costs which demonetization imposes,
+
+00:10:27.340 --> 00:10:32.460
+[Guest 2]: as you well know, on shopkeepers and sellers in the street, and so forth, a lot of people
+
+00:10:32.460 --> 00:10:37.100
+[Guest 2]: just accepted it. You know, they lined up for hours and hours, but did not protest in the
+
+00:10:37.100 --> 00:10:42.220
+[Guest 2]: streets. That was amazing to me, that there were not more people up in arms, that this stupid
+
+00:10:42.220 --> 00:10:50.380
+[Guest 2]: policy, which was so costly to people, especially poorer people, that this did not create a uproar
+
+00:10:50.380 --> 00:10:55.740
+[Guest 2]: and revolution even, you know, the way that you treat poor people, diminish the value of their
+
+00:10:55.740 --> 00:11:02.140
+[Guest 2]: time, you know, making them wait in line at the ATMs. And even today, it's amazing to me that
+
+00:11:02.140 --> 00:11:09.900
+[Guest 2]: you still can't get change, right? So you have even a 500 rupee note, and still that's a problem,
+
+00:11:09.900 --> 00:11:17.500
+[Guest 2]: not to speak of a 2000 rupee note. So even today, the state cannot find its way to supply
+
+00:11:17.500 --> 00:11:22.780
+[Guest 2]: the right denominations in the right quantities to what people want. So that to me is amazing.
+
+00:11:22.780 --> 00:11:28.780
+[Guest 2]: Very similar to this, I am amazed that people put up with so much pollution. You know, everyone
+
+00:11:28.780 --> 00:11:34.700
+[Guest 2]: knows about it, but it just seems to be, well, there's nothing we can do. It's just like climate,
+
+00:11:34.700 --> 00:11:39.180
+[Guest 2]: you know, which is not climate. You know, this is manmade. This is not we're talking. I'm not
+
+00:11:39.180 --> 00:11:45.100
+[Guest 2]: talking about, you know, increasing the temperature of the earth, you know, 1.5 degrees over the next
+
+00:11:45.100 --> 00:11:51.660
+[Guest 2]: 100 years. I'm talking about today in Delhi, you know, the AQI, the pollution level is over 500,
+
+00:11:51.660 --> 00:11:57.740
+[Guest 2]: and it burns your eyes, and it gets into your throat, and it makes it harder to do a podcast,
+
+00:11:57.740 --> 00:12:02.700
+[Guest 2]: and all of these things. And yet people, they're not up in arms about it, as far as I can tell,
+
+00:12:02.700 --> 00:12:08.940
+[Guest 2]: maybe they are behind the scenes. But Indians do seem to take a lot from the state and not expect
+
+00:12:08.940 --> 00:12:13.100
+[Amit Varma]: very much. Yeah, in fact, we're recording this in Delhi on Feb 10. And you've been here for a
+
+00:12:13.100 --> 00:12:18.460
+[Amit Varma]: couple of weeks and have been complaining, among other things of the pollution, and I hear paper
+
+00:12:18.460 --> 00:12:22.860
+[Amit Varma]: straws. Shruti, why does Alex not like paper straws? You don't like paper straws either?
+
+00:12:23.500 --> 00:12:29.580
+[Guest 1]: Okay, so one is a question of preference, right? That paper straws get soggy, and so on, so forth.
+
+00:12:29.580 --> 00:12:34.380
+[Guest 1]: Now, if you don't want to use single use plastic, and in the sense that we don't want to use a
+
+00:12:34.380 --> 00:12:39.580
+[Guest 1]: plastic straw, then you could do with no straw at all. There are many substitutes for that.
+
+00:12:40.140 --> 00:12:46.620
+[Guest 1]: But the thing with paper straws is we see them at all the posh restaurants and cafes in Delhi.
+
+00:12:46.620 --> 00:12:53.980
+[Guest 1]: And to me, it seems like one of the best examples of elite imitation and virtue signaling,
+
+00:12:53.980 --> 00:12:59.420
+[Guest 1]: because the posh people in Delhi are up in arms about plastic straws, but not about air pollution,
+
+00:13:00.140 --> 00:13:07.100
+[Guest 1]: right, which is literally killing their children, like infant morbidity and mortality is up in the
+
+00:13:07.100 --> 00:13:12.860
+[Guest 1]: winter in Delhi, simply because we have no handle on the pollution. But for the elites, the priority
+
+00:13:12.860 --> 00:13:19.340
+[Guest 1]: is not the pollution, or the priority is not one of these big ticket items. But it's something like,
+
+00:13:19.340 --> 00:13:23.340
+[Guest 1]: let's get rid of single use plastic straws, because you know, that's going to do something
+
+00:13:23.340 --> 00:13:28.460
+[Guest 1]: to seals in Alaska, or whatever the logic behind that is. It's even more puzzling that we do this
+
+00:13:28.460 --> 00:13:32.860
+[Guest 1]: in India relative to the United States, because India has a huge plastic recycling industry.
+
+00:13:33.420 --> 00:13:38.460
+[Guest 1]: We recycle garbage for the rest of the world, right? There are shipments that come from
+
+00:13:38.460 --> 00:13:43.820
+[Guest 1]: America and China, and it's processed here. So I would think we also have some kind of a
+
+00:13:43.820 --> 00:13:49.580
+[Guest 1]: comparative advantage in recycling plastic single use or otherwise. So the whole thing is baffling
+
+00:13:49.580 --> 00:13:55.260
+[Guest 1]: to me, not because I don't like the idea of saving the planet one plastic straw at a time,
+
+00:13:55.260 --> 00:14:02.140
+[Guest 1]: that's a lovely thing to do. But because that is simply it cannot be even the top 500 priorities,
+
+00:14:02.140 --> 00:14:07.500
+[Guest 1]: let alone the top priority. And yet, that's the one thing that the elites have managed to lobby
+
+00:14:07.500 --> 00:14:14.860
+[Guest 1]: change for. And every single cafe in India seems to have a paper straw instead of plastic straw,
+
+00:14:14.860 --> 00:14:20.220
+[Guest 1]: like it's just the symptom of what is wrong with this kind of elite imitation and virtue signaling,
+
+00:14:20.220 --> 00:14:22.540
+[Guest 1]: where we're just not paying attention to the big problems.
+
+00:14:22.540 --> 00:14:26.860
+[Amit Varma]: And I guess one way of looking at this is that look, here's a problem that has an easy solution,
+
+00:14:26.860 --> 00:14:31.500
+[Amit Varma]: right? It's easy to find a solution which allows you to posture and, you know, appear concerned
+
+00:14:31.500 --> 00:14:35.500
+[Amit Varma]: about the world and all of that. Now, if we might digress for a while and go to the pollution
+
+00:14:35.500 --> 00:14:39.420
+[Amit Varma]: problem, because that's clearly something you guys have also thought about, I've done episodes on it
+
+00:14:39.420 --> 00:14:45.020
+[Amit Varma]: where Delhi's air pollution, it seems to me is a ludicrously difficult problem to solve, and none
+
+00:14:45.020 --> 00:14:50.780
+[Amit Varma]: of the intuitive solutions such as you know, Arvind Kejriwal's odd even work at any level.
+
+00:14:50.780 --> 00:14:55.260
+[Amit Varma]: And the problem is like, you know, one of the things that exacerbates it in the winter months
+
+00:14:55.260 --> 00:15:01.180
+[Amit Varma]: is of course, farmers in Punjab burning rice stubble. And there's such a cascade of bad
+
+00:15:01.180 --> 00:15:05.660
+[Amit Varma]: incentives at play there. Because first of all, rice should not be grown in Punjab because
+
+00:15:05.660 --> 00:15:10.540
+[Amit Varma]: it's water intensive, Punjab is arid, but you have free electricity for farmers. So therefore,
+
+00:15:10.540 --> 00:15:14.940
+[Amit Varma]: they use tube wells, you have, you know, the government giving fixed prices for rice,
+
+00:15:14.940 --> 00:15:19.820
+[Amit Varma]: and therefore incentivizing farmers in Punjab also to grow rice, all of those come together.
+
+00:15:19.820 --> 00:15:25.900
+[Amit Varma]: And the way the politics plays out is no one's yet given me a satisfactory answer to how do we
+
+00:15:25.900 --> 00:15:31.340
+[Amit Varma]: sort this out? The people in Delhi may want cleaner air. But how do you put pressure on the
+
+00:15:31.340 --> 00:15:35.420
+[Amit Varma]: politicians of Punjab who have to cater to the vote bank that they have?
+
+00:15:36.060 --> 00:15:40.780
+[Guest 2]: Yeah, so I think part of the problem is to think that this is an issue of Punjab versus Delhi. And
+
+00:15:40.780 --> 00:15:45.020
+[Guest 2]: the people in Punjab, of course, are rightly going to say, you know, why should we sacrifice,
+
+00:15:45.020 --> 00:15:51.420
+[Guest 2]: you know, to make their air better. But in fact, the fumes and the smoke which is caused by the
+
+00:15:51.420 --> 00:15:57.580
+[Guest 2]: stubble burning in the Punjab is also killing the children of the Punjab. It's making the infants
+
+00:15:57.580 --> 00:16:03.260
+[Guest 2]: sick, it's making them stunted, it's making the elderly people have more cancer and heart disease
+
+00:16:03.260 --> 00:16:08.860
+[Guest 2]: and emphysema, it's making them harder to breathe as well. So the people in Punjab really need to
+
+00:16:08.860 --> 00:16:12.700
+[Guest 2]: understand, I think that the pollution is affecting them. It's not about saving other
+
+00:16:12.700 --> 00:16:18.700
+[Guest 2]: people, it's about saving their own children and elderly. And I think moreover, as you point out,
+
+00:16:18.700 --> 00:16:25.900
+[Guest 2]: the policy, there's a lot of low hanging fruit, in fact, because stubble burning is not a hugely
+
+00:16:25.900 --> 00:16:33.420
+[Guest 2]: profitable activity. It's not a big value creator for India, or even for the Punjab. So there's a
+
+00:16:33.420 --> 00:16:40.140
+[Guest 2]: lot of ways in which there are win-win solutions here, in which because the pollution is so bad,
+
+00:16:40.140 --> 00:16:44.700
+[Guest 2]: because the costs are so high, and the benefits of something like stubble burning is so low,
+
+00:16:44.700 --> 00:16:49.180
+[Guest 2]: there are to be many, many ways in which everybody can come out better.
+
+00:16:49.180 --> 00:16:54.140
+[Guest 1]: There's an additional aspect to this. I've lived in Delhi most of my childhood years,
+
+00:16:54.140 --> 00:16:58.940
+[Guest 1]: they were always burning crop stubble in Punjab, right? But it was never so bad for Delhi because
+
+00:16:58.940 --> 00:17:04.540
+[Guest 1]: the base level air pollution in Delhi was never so bad that the additional pollution from the
+
+00:17:04.540 --> 00:17:10.620
+[Guest 1]: stubble burning just pushed it beyond the limit. And here Delhi government and its policies are
+
+00:17:10.620 --> 00:17:15.020
+[Guest 1]: to blame too. Basically, the Supreme Court through a series of verdicts on the Delhi
+
+00:17:15.020 --> 00:17:19.820
+[Guest 1]: vehicular pollution, they try to get rid of the worst kind of pollution, which was diesel,
+
+00:17:19.820 --> 00:17:25.980
+[Guest 1]: right? So they banned bus fleet of about 10,000 buses. And they did it in such a weird way,
+
+00:17:25.980 --> 00:17:30.300
+[Guest 1]: because this was done through the Supreme Court, it was done by issuing writs. They basically told
+
+00:17:30.300 --> 00:17:36.140
+[Guest 1]: the Sheela Dixit government of the time that these buses can't run from tomorrow, right? So for a few
+
+00:17:36.140 --> 00:17:42.300
+[Guest 1]: years, just like demonetization, we had this tremendous shock to the transportation system and
+
+00:17:42.300 --> 00:17:47.020
+[Guest 1]: a shortage, which meant that to go anywhere from point A to point B in Delhi, and this is all
+
+00:17:47.020 --> 00:17:53.900
+[Guest 1]: before metro, and you know how large distances are in Delhi, people felt that the only way to
+
+00:17:53.900 --> 00:17:59.900
+[Guest 1]: actually travel is in a car. So even public transport in Delhi, if you notice is Inovas,
+
+00:17:59.900 --> 00:18:04.140
+[Guest 1]: right, they will pick up six or eight people and drive them to school, right? It used to be Maruti
+
+00:18:04.140 --> 00:18:12.060
+[Guest 1]: Omnis, which is kind of like a minivan. So they completely decimated the public transport system.
+
+00:18:12.060 --> 00:18:18.220
+[Guest 1]: And we have 20 Inovas where you could have one bus. And we have 200 cars where you could have
+
+00:18:18.220 --> 00:18:24.380
+[Guest 1]: one bus, right? So Delhi needs to really think about its public transportation system. And the
+
+00:18:24.380 --> 00:18:29.420
+[Guest 1]: metro is not going to do it because the metro only takes you to certain like really important
+
+00:18:29.420 --> 00:18:35.100
+[Guest 1]: major hubs. Everywhere else, Delhi is either too hot or too cold. It's not paved streets,
+
+00:18:35.100 --> 00:18:39.980
+[Guest 1]: it's hard to walk, they put road dividers everywhere, it makes it very pedestrian unfriendly.
+
+00:18:39.980 --> 00:18:43.900
+[Guest 1]: So the only way people can get from point A to point B effectively is in a car,
+
+00:18:44.540 --> 00:18:49.500
+[Guest 1]: right? So either they share the car services, or they have individual cars. But that's not a
+
+00:18:49.500 --> 00:18:55.020
+[Guest 1]: sensible way. And the other bizarre thing is in Delhi, you don't see any buses, or you don't see
+
+00:18:55.020 --> 00:18:59.740
+[Guest 1]: the number of buses per capita one would expect to see in a city like Delhi. You go to Bombay,
+
+00:18:59.740 --> 00:19:04.140
+[Guest 1]: everywhere you can see best buses. You just ask a random person who's been in Delhi for a few weeks,
+
+00:19:04.140 --> 00:19:09.820
+[Guest 1]: what is the public transportation flagship bus look or bus color? Alex, do you have any idea
+
+00:19:09.820 --> 00:19:14.140
+[Guest 1]: how a Delhi bus looks? No, I know. But you know how the Delhi Metro looks. And you know how the
+
+00:19:14.140 --> 00:19:18.460
+[Guest 1]: cars look. And you know, you've taken a tuk tuk, you've taken an e rickshaw. So it's one of those
+
+00:19:18.460 --> 00:19:22.620
+[Guest 1]: bizarre things that in Delhi, we just don't have enough buses. And this is all thanks to the
+
+00:19:22.620 --> 00:19:28.140
+[Guest 1]: Supreme Court and the Delhi High Court, right? So we've managed to completely destroy any kind of
+
+00:19:28.140 --> 00:19:35.100
+[Guest 1]: public transportation policy. And we keep blaming Punjab. So what Alex said for Punjabi saving
+
+00:19:35.100 --> 00:19:40.300
+[Guest 1]: themselves by not burning crop stubble, because very low value activity, I would say the same
+
+00:19:40.300 --> 00:19:47.900
+[Guest 1]: thing to people living in Delhi about using cars, right? We need to lobby and we need to agitate for
+
+00:19:47.900 --> 00:19:54.220
+[Guest 1]: better public transportation system. So today, as Alex pointed out on Feb 10, the air quality is
+
+00:19:54.220 --> 00:19:59.660
+[Guest 1]: 500 or higher. And as far as I know, no crop stubble is being burnt in Punjab and Haryana
+
+00:19:59.660 --> 00:20:05.500
+[Guest 1]: today or last week, and it won't be burnt next week. So we can't just blame Punjab and Haryana.
+
+00:20:05.500 --> 00:20:09.900
+[Guest 1]: Now, they're the worst 10 days of the year. But we have pretty bad air pollution in Delhi,
+
+00:20:09.900 --> 00:20:16.700
+[Guest 1]: where Delhi needs its own set of policies, right to cope with vehicular pollution. Delhi is
+
+00:20:16.700 --> 00:20:20.860
+[Guest 1]: completely de-industrialized again, thanks to the Supreme Court. So we hardly have any industrial
+
+00:20:20.860 --> 00:20:27.420
+[Guest 1]: pollution. So this is just about road construction, metro construction, vehicular pollution that is
+
+00:20:27.420 --> 00:20:32.140
+[Amit Varma]: causing these levels of pollution in Delhi. And these are all you know, transportation,
+
+00:20:32.140 --> 00:20:36.780
+[Amit Varma]: Delhi, these are all great separate episodes. And we shall now get back to the subject at hand,
+
+00:20:36.780 --> 00:20:40.780
+[Amit Varma]: which I was also reminded of when you mentioned metros, because you know, I was at this lit
+
+00:20:40.780 --> 00:20:45.100
+[Amit Varma]: fest yesterday in Nagpur, and they also have a metro there. And one of my friends made the
+
+00:20:45.100 --> 00:20:48.860
+[Amit Varma]: interesting point that, you know, it's almost become fashionable for Indian cities to install
+
+00:20:48.860 --> 00:20:54.540
+[Amit Varma]: metro. But the thing is that while it's great in Delhi and Bombay and cities that really need it,
+
+00:20:54.540 --> 00:20:58.700
+[Amit Varma]: in some cities, it is just not being used. Like in Nagpur, I think for a while, it was like eight
+
+00:20:58.700 --> 00:21:03.660
+[Amit Varma]: hours a day or something and people would just come in, you know, look around. So which gets us
+
+00:21:03.660 --> 00:21:09.420
+[Amit Varma]: to the subject of your paper and the basic premise of your paper, if I can quickly state it briefly
+
+00:21:09.420 --> 00:21:17.020
+[Amit Varma]: before we move on is that what we tend to do in India is that elite policymakers who are trained
+
+00:21:17.020 --> 00:21:21.580
+[Amit Varma]: abroad and you know, who are trained in the policies of other countries, or at least even if
+
+00:21:21.580 --> 00:21:26.940
+[Amit Varma]: they are, you know, trained in India, they follow those intellectual fashions, tend to transplant
+
+00:21:26.940 --> 00:21:33.340
+[Amit Varma]: policies that have worked in the West to India without considering local conditions or local
+
+00:21:33.340 --> 00:21:39.580
+[Amit Varma]: state capacity. That's broadly it. And I'd sort of like to begin by asking you a bit about the
+
+00:21:39.580 --> 00:21:44.220
+[Amit Varma]: flailing state. What is a flailing state? And is India a flailing state?
+
+00:21:44.860 --> 00:21:50.300
+[Guest 2]: Yeah, a flailing state is one which cannot execute its own orders. It's one where the
+
+00:21:50.300 --> 00:21:58.140
+[Guest 2]: head is not connected to the body. So in talking with people in India with the policymakers,
+
+00:21:58.140 --> 00:22:03.740
+[Guest 2]: I'm always extremely impressed. The policymakers here are superb. They understand, they read all
+
+00:22:03.740 --> 00:22:08.860
+[Guest 2]: the journals, they're very familiar with everything, the latest techniques and so forth.
+
+00:22:09.420 --> 00:22:15.740
+[Guest 2]: But in India, the policymakers cannot control what happens in the driver's license bureau.
+
+00:22:15.740 --> 00:22:22.940
+[Guest 2]: So India, Delhi wants, I'm sure, to have people pass the driver's license. And yet we know that
+
+00:22:22.940 --> 00:22:29.340
+[Guest 2]: 30 percent of the people with a driver's license, it's fake. It's a fake license. Either they bribe
+
+00:22:29.340 --> 00:22:34.860
+[Guest 2]: somebody or something like that, or they're not even driving without a license. So India has,
+
+00:22:34.860 --> 00:22:38.860
+[Guest 2]: it knows where it wants to go. The head knows where it wants to do, but it can't get the body
+
+00:22:38.860 --> 00:22:46.380
+[Guest 2]: to do that. And the problem is, is that most of the experts in India and in the West,
+
+00:22:46.380 --> 00:22:51.980
+[Guest 2]: they don't understand that and they don't make policy. In particular, they don't make policy
+
+00:22:51.980 --> 00:22:59.820
+[Guest 2]: with a recognition that what you want may not be what you get. If you want to make policy in India,
+
+00:22:59.820 --> 00:23:05.020
+[Guest 2]: you have to begin with the fact that you can only do a limited number of things.
+
+00:23:05.020 --> 00:23:11.020
+[Guest 2]: And what happens instead is that policymakers in India, they want to have everything that the West
+
+00:23:11.020 --> 00:23:16.060
+[Guest 2]: has. They want to have everything the United States has, including the regulation. So when
+
+00:23:16.060 --> 00:23:22.220
+[Guest 2]: I look at regulation in India, there's no regulation in the United States that is not also
+
+00:23:22.220 --> 00:23:28.540
+[Guest 2]: here in India, right? And the plastic straw thing is an example of that. Whatever it is in the
+
+00:23:28.540 --> 00:23:34.940
+[Guest 2]: United States, whatever we're regulating in the U.S., you also regulate here in India. But India
+
+00:23:34.940 --> 00:23:40.940
+[Guest 2]: does not have the wealth nor the number of government employees. India has far fewer
+
+00:23:40.940 --> 00:23:47.340
+[Guest 2]: government employees than does the United States. In fact, India today is spending on government
+
+00:23:47.340 --> 00:23:52.700
+[Guest 2]: about what the United States spent in, like, 1920. But they're trying to do much more than
+
+00:23:52.700 --> 00:23:58.860
+[Guest 2]: the United States did in 1920. So this is, I think, the main problem is that they're using
+
+00:23:58.860 --> 00:24:05.500
+[Guest 2]: 1920 resources to try and do 2020 regulation. And I think what we need, what India probably
+
+00:24:05.500 --> 00:24:10.940
+[Guest 2]: needs to do is to think, what can we do in 1920 resources? We should probably do 1920 regulation.
+
+00:24:10.940 --> 00:24:16.860
+[Guest 2]: And it would be a lot better if India stuck to what it can do, you know, the basics, you know,
+
+00:24:16.860 --> 00:24:22.620
+[Guest 2]: clean water, clean air, law and order. These are things which the state can accomplish.
+
+00:24:22.620 --> 00:24:26.460
+[Guest 2]: When it tries to do everything else, actually, these three things it can't do.
+
+00:24:27.260 --> 00:24:32.300
+[Guest 1]: My favorite quote on this is from Ed Glazer. I think we say this in the paper too.
+
+00:24:32.300 --> 00:24:36.860
+[Guest 1]: So a country that cannot provide clean water for its citizens should not be in the business
+
+00:24:36.860 --> 00:24:41.500
+[Guest 1]: of regulating film dialogue, right? And that's my favorite quote. I mean, I think the government
+
+00:24:41.500 --> 00:24:45.660
+[Guest 1]: should not be in the business of regulating film dialogue anyway, lest the libertarians of the
+
+00:24:45.660 --> 00:24:50.780
+[Guest 1]: world agitate against the three of us after hearing this. So I'm not in the business of that
+
+00:24:50.780 --> 00:24:54.940
+[Amit Varma]: anyway. But even if you were to believe it should be regulated, it should be regulated,
+
+00:24:54.940 --> 00:25:00.300
+[Guest 1]: the Indian state should not be doing it because it simply can't, right? So you get a whole bunch
+
+00:25:00.300 --> 00:25:06.860
+[Guest 1]: of strange things going on because the state tries to do everything. In the process, it ends
+
+00:25:06.860 --> 00:25:11.820
+[Guest 1]: up doing nothing, right? Or very little. So the government cannot enforce its own traffic
+
+00:25:11.820 --> 00:25:17.900
+[Guest 1]: regulations. You will see all sorts of weird things. I've noticed this in Delhi. They start
+
+00:25:17.900 --> 00:25:24.140
+[Guest 1]: blocking off traffic signals because people don't obey the signals and they cannot afford a cop to
+
+00:25:24.140 --> 00:25:28.940
+[Guest 1]: come and monitor the situation and hand out chalans to actually make people obey traffic
+
+00:25:28.940 --> 00:25:34.060
+[Guest 1]: rules. So in Delhi, people are in such a hurry that they just stop obeying traffic rules. So now
+
+00:25:34.060 --> 00:25:39.740
+[Guest 1]: what's the solution? The signal is blocked off. Important signals all over Delhi have been
+
+00:25:39.740 --> 00:25:45.420
+[Guest 1]: barricaded because we can't get people to use them the right way. So a city that can't get people
+
+00:25:45.420 --> 00:25:50.700
+[Guest 1]: to follow traffic rules, right, that can't enforce contracts, that cannot register the number of
+
+00:25:50.700 --> 00:25:56.620
+[Guest 1]: FIRs that come in every day, it simply should not try to do anything related to anything else.
+
+00:25:56.620 --> 00:26:02.940
+[Guest 1]: So while, forget the plastic straw thing with the paper straw, that just, it's a pet peeve. But
+
+00:26:02.940 --> 00:26:08.540
+[Guest 1]: even if, let's say, banning single-use plastic is a great idea, right? And I think the idea has
+
+00:26:08.540 --> 00:26:13.340
+[Guest 1]: some merit and we need to think about that a little bit more deeply. Even if it's a great idea,
+
+00:26:13.340 --> 00:26:20.700
+[Guest 1]: the Indian state cannot enforce it, right? And so our logic is, we shouldn't do it not because
+
+00:26:20.700 --> 00:26:27.100
+[Guest 1]: it's a bad idea, it's because it can't be done. And you will slowly slip into a scenario where
+
+00:26:27.100 --> 00:26:31.500
+[Guest 1]: you don't enforce the plastic ban, then you don't enforce the next regulation, you don't enforce
+
+00:26:31.500 --> 00:26:36.380
+[Guest 1]: traffic regulation. And before you know it, it's a city full of criminals behaving lawlessly
+
+00:26:36.380 --> 00:26:41.660
+[Guest 2]: because you don't expect the state to enforce its own rules. Let me just underline one point there
+
+00:26:41.660 --> 00:26:47.260
+[Guest 2]: and maybe differ a little bit from Shruti. And that is this, I think the paper straw thing actually
+
+00:26:47.260 --> 00:26:53.100
+[Guest 2]: does tell us something because this is an example of virtue signaling. Now, this virtue signaling,
+
+00:26:53.100 --> 00:26:59.020
+[Guest 2]: the problem is in the US, well, it's just stupid, right? It's just virtue signaling,
+
+00:26:59.020 --> 00:27:05.500
+[Guest 2]: but you can live with it, whatever. But here in India, virtue signaling detracts and takes away
+
+00:27:05.500 --> 00:27:12.700
+[Guest 2]: resources from things which are really important. So the more resources you spend on banning plastic
+
+00:27:12.700 --> 00:27:18.940
+[Guest 2]: straws and plastic bags and things of that nature, the less resources you have to actually providing,
+
+00:27:18.940 --> 00:27:24.380
+[Guest 2]: you know, clean water and traffic signals. So here virtue signaling is a true vice,
+
+00:27:24.380 --> 00:27:27.500
+[Guest 2]: because it takes away from things which are really important.
+
+00:27:27.500 --> 00:27:29.020
+[Guest 1]: Yeah, it has a huge opportunity cost.
+
+00:27:29.020 --> 00:27:30.460
+[Guest 1]: Huge opportunity cost of virtue signaling.
+
+00:27:30.460 --> 00:27:33.420
+[Amit Varma]: Which is also in fact, just thinking a lot through of the public discourse,
+
+00:27:33.420 --> 00:27:39.420
+[Amit Varma]: like so much of the virtue signaling that happens on social media is fine in and of itself,
+
+00:27:39.420 --> 00:27:45.180
+[Amit Varma]: but it takes away so much attentional capacity of people that people just then switch off social
+
+00:27:45.180 --> 00:27:47.500
+[Amit Varma]: media and we could be discussing more important things.
+
+00:27:47.500 --> 00:27:53.340
+[Guest 1]: Yeah, and our virtue signaling is a little bit bizarre. So as you know, the occupational hazard
+
+00:27:53.340 --> 00:27:57.260
+[Guest 1]: of being a professional academic is that you get invited a lot of conferences and
+
+00:27:57.260 --> 00:28:02.860
+[Guest 1]: panels and things like that. I feel like the Indian elite are much more concerned with the
+
+00:28:02.860 --> 00:28:07.980
+[Guest 1]: kind of diversity standards we have in America, as opposed to the kind of diversity standards we
+
+00:28:07.980 --> 00:28:13.180
+[Guest 1]: actually need in India, right? There is a lot of agitation against what they're calling manels.
+
+00:28:13.180 --> 00:28:17.660
+[Guest 1]: I am sure I've been invited to a whole bunch of panels just to make sure they're not manels,
+
+00:28:17.660 --> 00:28:23.500
+[Guest 1]: but I don't need help. I come from a lot of privilege. We have no similar agitation to get
+
+00:28:23.500 --> 00:28:29.180
+[Guest 1]: Dalit voices on panels, for instance, right? Or diversity of thought, right? The rural urban
+
+00:28:29.180 --> 00:28:33.500
+[Guest 1]: divide. We won't pay money to get someone who lives in a village to actually come to Bombay or
+
+00:28:33.500 --> 00:28:39.740
+[Guest 1]: Delhi and be on a panel and hear their voice. But we will make sure that we get LGBTQ representation
+
+00:28:39.740 --> 00:28:44.860
+[Guest 1]: and female representation. But in very large part, that's also it's not that that's not important.
+
+00:28:44.860 --> 00:28:49.660
+[Guest 1]: It's just it's elite imitation of what's happening in the West, because in the West,
+
+00:28:49.660 --> 00:28:54.140
+[Guest 1]: those are the really pressing problems in terms of within the academy. We don't have
+
+00:28:54.140 --> 00:29:00.220
+[Guest 1]: enough female voices and LGBTQ voices, right? In India, the problem's very different, right?
+
+00:29:00.220 --> 00:29:04.380
+[Guest 1]: Depending on which social strata you come from, you could be a very privileged
+
+00:29:04.380 --> 00:29:10.940
+[Guest 1]: female or LGBTQ voice and are sort of oppressed groups are quite different.
+
+00:29:11.740 --> 00:29:16.540
+[Guest 1]: There's no such thing going on in America. America doesn't have Dalit affirmative action yet,
+
+00:29:16.540 --> 00:29:22.460
+[Guest 1]: right? So we're not copying that for India yet. So there is also a slightly more like myopic.
+
+00:29:22.460 --> 00:29:27.180
+[Guest 1]: And if you know, this can take some sinister forms, but it's quite where we are looking and
+
+00:29:27.180 --> 00:29:31.340
+[Guest 1]: who we are listening to is corrupted by this kind of elite imitation.
+
+00:29:31.980 --> 00:29:36.460
+[Amit Varma]: And it also strikes me that this kind of mimicry, elite imitation, whatever you call it,
+
+00:29:36.460 --> 00:29:40.060
+[Amit Varma]: is something that happens. I mean, we'll of course discuss the policy aspects of this,
+
+00:29:40.060 --> 00:29:45.020
+[Amit Varma]: but it happens in all our thinking. For example, even ideologically, what we tend to have done,
+
+00:29:45.020 --> 00:29:49.340
+[Amit Varma]: and what you'll find common among political commentators who write in English and not so
+
+00:29:49.340 --> 00:29:53.500
+[Amit Varma]: much in the other languages is using that whole ideological frame of left and right
+
+00:29:53.500 --> 00:29:57.740
+[Amit Varma]: to talk about Indian politics. And it makes absolutely no sense here. I mean,
+
+00:29:57.740 --> 00:30:01.980
+[Amit Varma]: if you are to use that frame, then all parties are essentially statist and therefore left of
+
+00:30:01.980 --> 00:30:06.460
+[Amit Varma]: center when it comes to economics and kind of right to center because most of them
+
+00:30:06.460 --> 00:30:11.820
+[Amit Varma]: pander to majoritarian sentiments anyway. So the left right framework makes absolutely no sense.
+
+00:30:11.820 --> 00:30:15.660
+[Amit Varma]: And there have been attempts by some thinkers such as Rahul Verma, who I had on the show,
+
+00:30:16.220 --> 00:30:20.620
+[Amit Varma]: Pradeep Chhabber and Rahul Verma, they wrote an excellent book, excellent book about trying to
+
+00:30:20.620 --> 00:30:24.940
+[Amit Varma]: sort of, you know, find a new frame to look at what's actually happening here.
+
+00:30:24.940 --> 00:30:29.020
+[Amit Varma]: But otherwise, so much of our ideological constructs and ways of thinking about the
+
+00:30:29.020 --> 00:30:33.660
+[Amit Varma]: world and especially when you talk about the posturing on Twitter, so much of the posturing
+
+00:30:33.660 --> 00:30:40.060
+[Amit Varma]: on Twitter is actually just replicating attitudes of the West, which may not really be sort of
+
+00:30:40.060 --> 00:30:43.180
+[Amit Varma]: relevant in an Indian context. I would completely agree.
+
+00:30:43.180 --> 00:30:47.180
+[Amit Varma]: Great. So let's get back to sort of the subject of the paper and what seems to sort of hit the
+
+00:30:47.180 --> 00:30:52.060
+[Amit Varma]: nail on the head. And again, I'll quote from your paper here, quote, the Indian state flails because
+
+00:30:52.060 --> 00:30:57.580
+[Amit Varma]: it is simultaneously too large and too small, too large, because the Indian government attempts to
+
+00:30:57.580 --> 00:31:02.860
+[Amit Varma]: legislate and regulate every aspect of citizens lives, and too small, because it lacks the
+
+00:31:02.860 --> 00:31:08.460
+[Amit Varma]: resources and personnel to rule according to its ambitions. Stop quote. And you know,
+
+00:31:08.460 --> 00:31:12.940
+[Amit Varma]: as you were saying, Alex, just I'll quote some figures from your paper to demonstrate what
+
+00:31:12.940 --> 00:31:18.300
+[Amit Varma]: those differences in state capacity are, where you say, quote, India has surprisingly few
+
+00:31:18.300 --> 00:31:24.460
+[Amit Varma]: government workers, about one fifth as many per capita as the United States, the number of police
+
+00:31:24.460 --> 00:31:31.020
+[Amit Varma]: per capita, for example, is only 135 per 100,000, one of the lowest rates in the world and far
+
+00:31:31.020 --> 00:31:38.300
+[Amit Varma]: below the median, which is 318, or mean 333 of police officers per 100,000 capita in the rest
+
+00:31:38.300 --> 00:31:43.340
+[Amit Varma]: of the world. Moreover, a significant number of the police are assigned to VIPs rather than to
+
+00:31:43.340 --> 00:31:48.780
+[Amit Varma]: protecting the public at large. The number of judges per capita 12 per million is far below
+
+00:31:48.780 --> 00:31:54.300
+[Amit Varma]: the US rate 108 per million, which helps to explain India's enormous backlog of 32 million
+
+00:31:54.300 --> 00:31:59.100
+[Amit Varma]: cases, millions of which have been in process for more than a decade. Stop quote. I think I did an
+
+00:31:59.100 --> 00:32:03.180
+[Amit Varma]: episode with Alok Prasanna Kumar, where he mentioned some case that has been going on for
+
+00:32:03.180 --> 00:32:09.420
+[Guest 1]: 300 400 years. There are cases like that. So picking up on the judges thing, that's a good
+
+00:32:09.420 --> 00:32:15.500
+[Guest 1]: example. So judges have to enforce the rules, right, whatever the state has managed to legislate.
+
+00:32:15.500 --> 00:32:20.860
+[Guest 1]: And if you think about it, the state is the biggest litigant before the courts, right anywhere,
+
+00:32:20.860 --> 00:32:25.820
+[Guest 1]: because both for disputes between different levels of government, and also all the criminal
+
+00:32:25.820 --> 00:32:30.620
+[Guest 1]: justice system, one of the parties is the state. So the state is one of the largest litigants,
+
+00:32:30.620 --> 00:32:37.740
+[Guest 1]: right. So in a sense, if we don't have enough judges, right, we're going to have long pendency
+
+00:32:37.740 --> 00:32:43.020
+[Guest 1]: of cases. But that gets exacerbated by the fact that you also have a lot of regulation. So let's
+
+00:32:43.020 --> 00:32:47.900
+[Guest 1]: say we have the capacity to deal with 100 cases a day, and there's some pendency related to that,
+
+00:32:47.900 --> 00:32:53.180
+[Guest 1]: you can make 80 of them on private contract enforcement, right, and 20 of them about some
+
+00:32:53.180 --> 00:32:57.660
+[Guest 1]: kind of regulation that wasn't followed. In India, the proportion is totally off,
+
+00:32:57.660 --> 00:33:02.300
+[Guest 1]: because the more things you regulate, the more it is going to clog up that capacity of 100 cases
+
+00:33:02.300 --> 00:33:08.380
+[Guest 1]: that you can do in a day. So our pendency problems are only going to get worse, not better, even if
+
+00:33:08.380 --> 00:33:14.540
+[Guest 1]: we appointed more judges, unless we significantly roll back the regulatory state in India. And that
+
+00:33:14.540 --> 00:33:20.380
+[Guest 1]: just is not a priority for anyone, right. So when you look at civil servants, state capacity is now
+
+00:33:20.380 --> 00:33:25.180
+[Guest 1]: very fashionable. I've been talking to a lot of people, look at the major books on state capacity
+
+00:33:25.180 --> 00:33:30.540
+[Guest 1]: in India, all of them are talking about personnel problems, right? So that is one half of the
+
+00:33:30.540 --> 00:33:35.820
+[Guest 1]: equation, we need more judges, we need more police, right? The other half of the equation is,
+
+00:33:36.700 --> 00:33:42.140
+[Guest 1]: in some sense, no matter how many judges and police we get, unless we roll back the regulation,
+
+00:33:42.140 --> 00:33:46.940
+[Guest 1]: it's not going to do the job, right? If you continue regulating the way you have the last 70
+
+00:33:46.940 --> 00:33:53.020
+[Guest 1]: years, all of India could be a cop and a judge, and it still won't do the trick. So we need to
+
+00:33:53.020 --> 00:33:59.340
+[Guest 1]: really think about the problem, like, as one of what is clogging the system, and what is addressing
+
+00:33:59.340 --> 00:34:03.820
+[Guest 1]: the clogs in the system. And the personnel and the money is just a small part of the problem.
+
+00:34:03.820 --> 00:34:10.460
+[Guest 2]: And these issues are really matter. So I have a paper with Vaidehi Tandel and Sahil Gandhi
+
+00:34:10.460 --> 00:34:19.180
+[Guest 2]: and Shamika Ravi, where we're looking at building construction in Mumbai. And what we find is that
+
+00:34:19.180 --> 00:34:25.260
+[Guest 2]: construction, on average, is delayed by 30%. The time to construct increases by about 30%,
+
+00:34:25.260 --> 00:34:33.100
+[Guest 2]: which is huge, because of litigation. And so litigation has become so easy with PILs and
+
+00:34:33.100 --> 00:34:38.620
+[Guest 2]: things like that, that you don't even have to win your case, right? If you want to hold up a
+
+00:34:38.620 --> 00:34:43.820
+[Guest 2]: construction project, you just sue, and then it goes to the court, and then it's just delayed.
+
+00:34:43.820 --> 00:34:50.860
+[Guest 2]: And so this gives, actually, a way of creating leverage. So the pendency itself is actually
+
+00:34:50.860 --> 00:34:54.700
+[Guest 2]: what is doing the work, because if the courts were quick, the suit wouldn't work.
+
+00:34:54.700 --> 00:34:58.860
+[Amit Varma]: The delay is a win. They wouldn't file a suit if they didn't know there would be a delay.
+
+00:34:58.860 --> 00:35:03.740
+[Guest 2]: Exactly. The delay is actually has become the threat point. So it's this combination, then,
+
+00:35:03.740 --> 00:35:08.620
+[Guest 2]: when you have all of this regulation, all of these reasons, which you might possibly sue,
+
+00:35:08.620 --> 00:35:14.620
+[Guest 2]: then you have delay, then that actually becomes powerful. And it becomes a way of extracting
+
+00:35:14.620 --> 00:35:19.020
+[Guest 2]: resources from people who are trying to build apartment buildings and things like that,
+
+00:35:19.020 --> 00:35:24.300
+[Guest 2]: which, obviously, Mumbai desperately needs. And both sides are exploiting the delay. Very often,
+
+00:35:24.300 --> 00:35:30.380
+[Guest 1]: even the developers exploit the delay because they know that if there is a genuine case that
+
+00:35:30.380 --> 00:35:36.460
+[Guest 1]: the other party has, they won't have the power to litigate for 15 years, right? They won't be
+
+00:35:36.460 --> 00:35:41.340
+[Guest 1]: able to afford the legal fees. So let's say it's a dispute with a single homeowner who's the next
+
+00:35:41.340 --> 00:35:46.380
+[Guest 1]: door neighbor or something like that. That poor guy cannot afford legal fees for 15 years. They
+
+00:35:46.380 --> 00:35:51.020
+[Guest 1]: can't have their life put on hold for 15 years. But the developer probably has an entire legal
+
+00:35:51.020 --> 00:35:54.860
+[Amit Varma]: team. So it doesn't matter if you're right or wrong. The process is a punishment. Exactly.
+
+00:35:54.860 --> 00:35:59.500
+[Guest 1]: So depending on which side you're on, either side can exploit. I don't want to make it seem like,
+
+00:35:59.500 --> 00:36:04.940
+[Guest 1]: oh, only the poor developers get delayed. They also use the same system to exploit little guys
+
+00:36:04.940 --> 00:36:09.500
+[Guest 1]: when they try to take over land or illegally construct or all of those things. So this is a
+
+00:36:09.500 --> 00:36:14.860
+[Guest 1]: problem no matter which, no matter whose side you're on, in some sense, right? In the case of
+
+00:36:14.860 --> 00:36:19.900
+[Guest 1]: Bombay, the side we must all be on is how to quickly increase housing supply. So in this case,
+
+00:36:19.900 --> 00:36:24.780
+[Guest 1]: it really matters that the developers get delayed by 30% time because, I mean, that is going to
+
+00:36:24.780 --> 00:36:29.580
+[Guest 1]: determine the delivery dates for the additional housing in Mumbai. It's also going to take up
+
+00:36:29.580 --> 00:36:33.820
+[Guest 1]: the cost of additional housing in Mumbai, right? So this is going to have all these cascading
+
+00:36:33.820 --> 00:36:39.660
+[Guest 1]: effects further downstream. We have to really think about capacity from that point of view.
+
+00:36:39.660 --> 00:36:43.420
+[Amit Varma]: And we'll talk about housing regulations a little bit later in the episode as one of the case
+
+00:36:43.420 --> 00:36:47.100
+[Amit Varma]: studies that you've sort of taken on. The phrase that struck me from your paper, which really
+
+00:36:47.100 --> 00:36:51.900
+[Amit Varma]: sums all of this up is regulatory overload, where, you know, the government keeps adding
+
+00:36:51.900 --> 00:36:56.700
+[Amit Varma]: regulations and state capacity and personnel and all of them sort of remain the same or grow really
+
+00:36:56.700 --> 00:37:01.900
+[Amit Varma]: slowly, if at all. And so my question there is that, is it therefore rational for a government
+
+00:37:01.900 --> 00:37:07.020
+[Amit Varma]: servant finding that he is overworked, there are too many regulations that he has to impose on too
+
+00:37:07.020 --> 00:37:12.380
+[Amit Varma]: many people? Is it rational for him to therefore become a rent seeker? Because rent seeking,
+
+00:37:12.380 --> 00:37:17.260
+[Amit Varma]: it strike me then is both more lucrative and easier than actual regulation.
+
+00:37:17.980 --> 00:37:22.860
+[Guest 1]: I have two ways to address this question. First is who is the government actor we're talking about,
+
+00:37:22.860 --> 00:37:27.100
+[Guest 1]: right? So if you think about the highest level bureaucracy, which is framing these rules,
+
+00:37:27.100 --> 00:37:30.860
+[Guest 1]: which is, you know, the Indian Civil Service, secretaries, joint secretaries,
+
+00:37:30.860 --> 00:37:36.380
+[Guest 1]: joint secretaries in the Ministry of Environment, and so on, so forth, they are not the guys who are
+
+00:37:36.380 --> 00:37:42.060
+[Guest 1]: on the ground taking the small bribes, right? So to some extent, it's not like their pockets
+
+00:37:42.060 --> 00:37:46.300
+[Guest 1]: directly get through. If there's any corruption happening at that level, it's a completely
+
+00:37:46.300 --> 00:37:50.860
+[Guest 1]: different game of, you know, thousands of crores going to Swiss bank accounts, coal licenses,
+
+00:37:50.860 --> 00:37:55.500
+[Guest 1]: exactly coal licenses. But our Indian Civil Service, you know, the one that's in Delhi,
+
+00:37:55.500 --> 00:37:59.420
+[Guest 1]: the people we've been talking to, they're actually remarkably corruption free,
+
+00:37:59.420 --> 00:38:05.020
+[Guest 1]: you know, relative to other state actors. And they are the people who are forming most of these rules,
+
+00:38:05.020 --> 00:38:10.380
+[Guest 1]: right? So to some extent, the guy who benefits from it, okay, downstream, the traffic cop who
+
+00:38:10.380 --> 00:38:15.340
+[Guest 1]: benefits from the stupid regulation, he's not the guy in charge of making the regulation. So I want
+
+00:38:15.340 --> 00:38:20.700
+[Guest 1]: to disconnect those two levels. My hunch is, if he asked a traffic cop, do you think we should
+
+00:38:20.700 --> 00:38:25.980
+[Guest 1]: have more regulation? He would say no, even though it benefits him in terms of higher, you know,
+
+00:38:25.980 --> 00:38:30.620
+[Guest 1]: some kind of rents or bribes or something like that. Because on a day to day basis,
+
+00:38:30.620 --> 00:38:36.060
+[Guest 1]: they realize the kind of chaos it creates. They realize how little control they have over their
+
+00:38:36.060 --> 00:38:41.580
+[Guest 1]: own jobs. And they really don't make the rules that they are supposed to enforce. And no one
+
+00:38:41.580 --> 00:38:47.180
+[Guest 1]: has ever asked them on the input of their lived experience at their job on how we frame these
+
+00:38:47.180 --> 00:38:52.460
+[Guest 1]: rules. Similarly, a lot of the Delhi regulation that we just talked about in terms of transportation
+
+00:38:52.460 --> 00:38:58.220
+[Guest 1]: or de-industrialization, it's all made by Supreme Court judges, right? They live in Lachchan's Delhi,
+
+00:38:58.220 --> 00:39:04.300
+[Guest 1]: they drive around India Gate Circle, which is now functioning really well, thanks to so many judges,
+
+00:39:04.300 --> 00:39:08.700
+[Guest 1]: you know, navigating that space, they go to Bhagwan Das Road, anything that's a problem
+
+00:39:08.700 --> 00:39:14.860
+[Guest 1]: between these two ends, they're aware of it. But they simply do not engage with regular folks,
+
+00:39:14.860 --> 00:39:20.780
+[Guest 1]: the guy at the licensing office, the guy who's a traffic cop, the guy who is going to enforce the
+
+00:39:20.780 --> 00:39:25.740
+[Guest 1]: Essential Commodities Act, who's the price controls inspector, labor inspector, no one
+
+00:39:25.740 --> 00:39:30.700
+[Guest 1]: seems to ask these people what to do, right? So I'd agree with you that rent seeking has led to
+
+00:39:30.700 --> 00:39:36.460
+[Guest 1]: this whole thing. If the price controls inspector was the guy writing the Essential Commodities Act,
+
+00:39:36.460 --> 00:39:40.060
+[Amit Varma]: but that's simply not the case. No, I'm arguing the other way. I'm not saying rent seeking has
+
+00:39:40.060 --> 00:39:45.420
+[Amit Varma]: led to this. I'm saying this has led to rent seeking as a natural and inevitable consequence
+
+00:39:45.420 --> 00:39:50.380
+[Amit Varma]: of very low state capacity having to deal with too many regulations. Like an example of this
+
+00:39:50.380 --> 00:39:55.340
+[Amit Varma]: came in Delhi, where there was news a few days ago that it takes something like 40 to 45 licenses,
+
+00:39:55.340 --> 00:40:01.420
+[Amit Varma]: documents, not licenses, 40 to 45 documents to open a business and 19 to get a gun, which means
+
+00:40:01.420 --> 00:40:06.060
+[Amit Varma]: if you want to start an assassination agency and have 20 documents, you will get a legal gun,
+
+00:40:06.060 --> 00:40:10.940
+[Amit Varma]: but you'll be in the informal sector, kindly forgive bad joke. And another sort of instance
+
+00:40:10.940 --> 00:40:15.180
+[Amit Varma]: of over regulation is I had done an episode on restaurant regulations a while back with Madhu
+
+00:40:15.180 --> 00:40:19.580
+[Amit Varma]: Menon a couple of years back, where he pointed out that when he was running a restaurant,
+
+00:40:19.580 --> 00:40:25.100
+[Amit Varma]: the excise department had a regulation that he could only have one entrance to the restaurant,
+
+00:40:25.100 --> 00:40:29.420
+[Amit Varma]: so they could monitor the inflow and outflow of liquor. But the fire safety department quite
+
+00:40:29.420 --> 00:40:34.060
+[Amit Varma]: correctly mandated that there should be multiple entrances. So no matter what the guy does,
+
+00:40:34.060 --> 00:40:38.940
+[Amit Varma]: he is breaking the law, and there will be bribes and there will be rent seeking all across. But
+
+00:40:38.940 --> 00:40:43.260
+[Amit Varma]: like you pointed out, we have to disconnect the people who are benefiting from taking the bribes
+
+00:40:43.260 --> 00:40:49.420
+[Amit Varma]: inspectors on the ground from the policymakers. Why do the policymakers then like is it just
+
+00:40:49.420 --> 00:40:52.940
+[Amit Varma]: the easiest thing to do put one more regulation to solve the problem?
+
+00:40:52.940 --> 00:40:57.180
+[Guest 2]: I think that's what they're familiar with. Right. So again, they go to all of the international
+
+00:40:57.180 --> 00:41:02.220
+[Guest 2]: conferences, and they talk about best practices and the way to do things. And they come up with
+
+00:41:02.220 --> 00:41:07.340
+[Guest 2]: a list of things to do. And you know, we need public education, we need this, we need that we
+
+00:41:07.340 --> 00:41:12.140
+[Guest 2]: need this, and then they pass these laws. And then they can say to their friends, you know, in the
+
+00:41:12.140 --> 00:41:17.660
+[Guest 2]: liberal sort of community, look at what we've done, you know, we pass this law, equal rights
+
+00:41:17.660 --> 00:41:22.940
+[Guest 2]: for women, the same wages for women, you know, all of this kinds of things. Even though this has no
+
+00:41:22.940 --> 00:41:28.220
+[Guest 2]: bearing whatsoever, on the actual situation in India, they can point to a law and say, see,
+
+00:41:28.220 --> 00:41:33.260
+[Guest 2]: we're just as advanced as you, we have the same law as you do. So I think that's part of it.
+
+00:41:33.260 --> 00:41:37.340
+[Guest 2]: I'm going back to what you said earlier, I'd also like to point out that perhaps the worst
+
+00:41:37.340 --> 00:41:44.860
+[Guest 2]: combination is to have honest bureaucrats and over regulation, right? These are the two things
+
+00:41:44.860 --> 00:41:50.140
+[Guest 2]: that go worse together, it may actually be the case. And sometimes it is the case that when you
+
+00:41:50.140 --> 00:41:55.900
+[Guest 2]: have all of this excess regulation, which cannot possibly be implemented, for some of the reasons
+
+00:41:55.900 --> 00:42:00.620
+[Guest 2]: that you said some of it is contradictory, and some of it, it just takes too many resources,
+
+00:42:00.620 --> 00:42:06.780
+[Guest 2]: it may actually the bribes, the petty bribes, which is the oil which makes the system flow.
+
+00:42:06.780 --> 00:42:11.260
+[Guest 2]: You know, unfortunately, what that means is that it is very difficult to get out of the system,
+
+00:42:11.260 --> 00:42:17.100
+[Guest 2]: because people do benefit from the bribes. But the bribes, at least in some cases,
+
+00:42:17.100 --> 00:42:21.980
+[Guest 2]: have some positive aspects in that they let business actually get done. If every business
+
+00:42:21.980 --> 00:42:26.700
+[Guest 2]: had to go through those 42 regulations, India would have far fewer jobs and businesses than
+
+00:42:26.700 --> 00:42:33.260
+[Amit Varma]: they do today. So thank God for end seeking in a sense, because well, thank God for good
+
+00:42:33.260 --> 00:42:37.980
+[Guest 1]: corruption that greases the wheels and helps us overcome the problem of bad regulation.
+
+00:42:37.980 --> 00:42:41.740
+[Amit Varma]: So it's a problem, in a sense, you would say created by the state and
+
+00:42:41.740 --> 00:42:44.460
+[Amit Varma]: solved by society through the mechanism of bribing.
+
+00:42:44.460 --> 00:42:47.340
+[Guest 1]: Yes. But that also makes criminals out of everybody.
+
+00:42:47.340 --> 00:42:47.820
+[Amit Varma]: Exactly.
+
+00:42:47.820 --> 00:42:53.420
+[Guest 1]: And it also gives state actors high moral ground when they want to put in more draconian regulation
+
+00:42:53.420 --> 00:42:57.740
+[Guest 1]: and stupid things like demonetization. Going back to the head of our conversation,
+
+00:42:57.740 --> 00:43:03.740
+[Guest 1]: demonetization, I have a feeling people tolerated it, because they were so tired of the corruption,
+
+00:43:03.740 --> 00:43:09.020
+[Guest 1]: right? And people hoarding black money, and rich people exploiting the system in a particular way.
+
+00:43:09.020 --> 00:43:10.540
+[Amit Varma]: So they bought the rhetoric that this will end.
+
+00:43:10.540 --> 00:43:14.380
+[Guest 1]: Exactly. So they bought the rhetoric that, you know, it's true that we are suffering,
+
+00:43:14.380 --> 00:43:18.860
+[Guest 1]: but the rich must be suffering so much more than us, right? And they really need to be punished
+
+00:43:18.860 --> 00:43:22.700
+[Guest 1]: for this kind of tax evasion and starving the state of funds and things like that.
+
+00:43:22.700 --> 00:43:28.860
+[Guest 1]: But that's also because the regular person doesn't understand political economy the same way
+
+00:43:28.860 --> 00:43:33.580
+[Guest 1]: we do once we read economics textbooks and we read case studies of how these things work out.
+
+00:43:33.580 --> 00:43:37.180
+[Guest 1]: And they're not expected to know these things, right? They're regular people,
+
+00:43:37.180 --> 00:43:41.500
+[Guest 1]: they're businessmen and farmers and, you know, housewives, they're just going about their daily
+
+00:43:41.500 --> 00:43:46.620
+[Guest 1]: life. So they can't even be expected to know this in some sense. But it's because we have made
+
+00:43:46.620 --> 00:43:52.140
+[Guest 1]: criminals of everyone that it gives people the high moral ground to make worse regulation,
+
+00:43:52.140 --> 00:43:55.580
+[Guest 1]: which just keeps adding to this problem in a bizarre way.
+
+00:43:55.580 --> 00:44:00.860
+[Guest 2]: And when everyone has been made a criminal, then when it comes to laws, which you actually do want,
+
+00:44:00.860 --> 00:44:06.940
+[Guest 2]: you know, like traffic laws, like driver's licenses, like preventing pollution and low
+
+00:44:06.940 --> 00:44:11.660
+[Guest 2]: cost double burning and things like that, then the state can't do what is actually its job.
+
+00:44:11.660 --> 00:44:18.780
+[Guest 2]: So it's, again, this virtue signaling, this premature imitation, this overregulation,
+
+00:44:18.780 --> 00:44:24.300
+[Guest 2]: which makes it difficult to do the things which actually need to be done. So low state capacity
+
+00:44:24.300 --> 00:44:32.300
+[Guest 2]: means that the state can't even do the night watchman jobs, which even most libertarians
+
+00:44:32.300 --> 00:44:33.980
+[Amit Varma]: would think that the state should do.
+
+00:44:33.980 --> 00:44:38.220
+[Amit Varma]: Exactly. I mean, what, you know, all of us keep arguing is that India needs a strong
+
+00:44:38.220 --> 00:44:41.900
+[Amit Varma]: state that does a few things well, rather than a weak state, which gets in the way.
+
+00:44:41.900 --> 00:44:46.780
+[Guest 1]: Yeah. And, you know, the only way that can happen is if each cop and, you know,
+
+00:44:46.780 --> 00:44:51.580
+[Guest 1]: sort of licensing inspector thought to themselves and said, Oh, I have 10 tasks,
+
+00:44:51.580 --> 00:44:55.420
+[Guest 1]: I should prioritize the most important, which is the night watchman state.
+
+00:44:55.420 --> 00:44:59.100
+[Guest 1]: I think that is a very tall ask of any state actor.
+
+00:44:59.100 --> 00:45:01.740
+[Amit Varma]: You have to reduce his job to what is essential.
+
+00:45:01.740 --> 00:45:06.060
+[Guest 1]: Exactly. And actually, you got to get rid of most of those jobs. I don't know why we have
+
+00:45:06.060 --> 00:45:09.820
+[Guest 1]: an essential commodities act. I don't know why we have a labor inspection system.
+
+00:45:09.820 --> 00:45:15.260
+[Guest 1]: Right? These things simply shouldn't exist. And the second bizarre thing about the elite
+
+00:45:15.260 --> 00:45:21.660
+[Guest 1]: about the elite imitation part is not that Americans or people in Europe, those academics
+
+00:45:21.660 --> 00:45:26.700
+[Guest 1]: don't care about transportation, vehicular pollution. It's that they've solved the problem.
+
+00:45:27.500 --> 00:45:31.340
+[Guest 1]: Right? So when you go to one of those conferences, they're only talking about
+
+00:45:31.340 --> 00:45:35.340
+[Guest 1]: single use plastic ban, because that's the problem they haven't solved yet.
+
+00:45:35.340 --> 00:45:40.220
+[Guest 1]: They've already solved the problem of congestion pricing. They already have an excellent bus fleet,
+
+00:45:40.220 --> 00:45:45.500
+[Guest 1]: they already have the highest level of regulation that you need on diesel vehicles or any kind of
+
+00:45:45.500 --> 00:45:49.740
+[Guest 1]: vehicle and the particulate matter that comes out of it. So they're not talking about those
+
+00:45:49.740 --> 00:45:55.020
+[Guest 1]: problems, not because they're not important. It's just they fix it. We are not talking about those
+
+00:45:55.020 --> 00:46:00.460
+[Guest 1]: problems, because they have fixed it. Right? That's the nature of the elite imitation,
+
+00:46:00.460 --> 00:46:04.220
+[Guest 1]: which is which makes the whole thing very strange. So we need to have a conversation
+
+00:46:04.220 --> 00:46:08.780
+[Guest 1]: just about transportation policy. Right? And then maybe 50 years later, we can talk about
+
+00:46:08.780 --> 00:46:13.340
+[Amit Varma]: single use plastic ban. Once we fix that problem. We'll talk more about our current
+
+00:46:13.340 --> 00:46:40.780
+[Amit Varma]: big problem of elite imitation. After we take a quick commercial break.
+
+00:46:44.300 --> 00:46:49.900
+[Amit Varma]: Home decor items and much more. This makes art accessible to many more people and artists get
+
+00:46:49.900 --> 00:46:55.660
+[Amit Varma]: royalties on every item you buy. Indian Colors now has a new range of products out there.
+
+00:46:55.660 --> 00:47:01.020
+[Amit Varma]: Elegant summer dresses and men's evening shirts with unique motifs by artists like Tanmay Samanta,
+
+00:47:01.020 --> 00:47:06.300
+[Amit Varma]: Manisha Ghera, Baswani, Shruti Nelson, Pradeep Mishra, Harin Vakil and Jaideep Mehrotra.
+
+00:47:06.300 --> 00:47:10.300
+[Amit Varma]: Why should you not look classy even if you're stuck at home during the lockdown?
+
+00:47:10.300 --> 00:47:16.300
+[Amit Varma]: There's also a new range of those iconic Indian Colors stoles, as well as home decor accessories
+
+00:47:16.300 --> 00:47:20.860
+[Amit Varma]: like tissue paper holders, cushion covers, coasters, and more. And if you're missing your
+
+00:47:20.860 --> 00:47:25.740
+[Amit Varma]: friends in these lockdown days, worry not. You can show them you're thinking of them by buying
+
+00:47:25.740 --> 00:47:31.260
+[Amit Varma]: gifts for them from Indian Colors. Corporate gifting is also available. So head on over
+
+00:47:31.260 --> 00:47:37.020
+[Amit Varma]: to IndianColors.com. That's colors with an OU and make art a part of your life.
+
+00:47:37.020 --> 00:47:42.620
+[Amit Varma]: Welcome back to the scene in the unseen. I'm chatting with my elite policymaker,
+
+00:47:42.620 --> 00:47:47.100
+[Amit Varma]: friend Shruti Rajgopalan and Alex Tabarrok about what is wrong with the elites. Now it's
+
+00:47:47.100 --> 00:47:52.220
+[Amit Varma]: commonly said by a lot of people with some justification that it is finally the elites
+
+00:47:52.220 --> 00:47:57.260
+[Amit Varma]: who drive policy and this is not necessarily a bad thing because the elites do have the training and
+
+00:47:57.260 --> 00:48:01.420
+[Amit Varma]: the understanding and the commitment to actually drive policy because you know, normal people
+
+00:48:01.420 --> 00:48:06.380
+[Amit Varma]: because of rational ignorance because they need to get on with their daily lives are not incentivized
+
+00:48:06.380 --> 00:48:11.900
+[Amit Varma]: to actually learn economics and understand how policy works. So eventually, all nations at the
+
+00:48:11.900 --> 00:48:15.740
+[Amit Varma]: level of policy and at the level of the founding principles are going to be driven by elites in a
+
+00:48:15.740 --> 00:48:21.020
+[Amit Varma]: sense, even our constitution was made by elites. And I shall come back to that question later of
+
+00:48:21.020 --> 00:48:26.060
+[Amit Varma]: whether that was an example of elite imitation. But in your paper, you've you point out that
+
+00:48:26.060 --> 00:48:30.460
+[Amit Varma]: there is a grave danger to this as well. Can you elaborate on that a little bit?
+
+00:48:30.460 --> 00:48:37.020
+[Guest 2]: Yeah, let me give an example. I was in Bangalore and I needed some medicine. And so there was a
+
+00:48:37.020 --> 00:48:42.780
+[Guest 2]: sort of a hospital nearby with a pharmacy and I went to the pharmacy. And I was quite amazed
+
+00:48:42.780 --> 00:48:48.220
+[Guest 2]: because I mean, it looked just like Kaiser just it looked just like at home. Okay, I was very
+
+00:48:48.220 --> 00:48:53.740
+[Guest 2]: comfortable because I walked in. And yet, and I was comfortable because all of the signs were in
+
+00:48:53.740 --> 00:49:00.700
+[Guest 2]: English. And I got the medicine and the explanation for how to use the medicine is all in English.
+
+00:49:00.700 --> 00:49:06.300
+[Guest 2]: And this is not because of me personally, you know, the white guy. This is just the way the
+
+00:49:06.300 --> 00:49:12.540
+[Guest 2]: hospital works. And I can guarantee you, I mean, I'm sure this was an elite hospital in some sense,
+
+00:49:12.540 --> 00:49:17.740
+[Guest 2]: but I can guarantee you just by listening to the people there that not all of the patients spoke
+
+00:49:17.740 --> 00:49:23.500
+[Guest 2]: English. So this was something which was amazing to me in that the elites, you know, and I don't
+
+00:49:23.500 --> 00:49:29.580
+[Guest 2]: want to criticize the doctors. I'm sure the doctors spend time communicating in their native
+
+00:49:29.580 --> 00:49:36.540
+[Guest 2]: tongue to some of the patients as best as they can. But the system itself was totally geared
+
+00:49:36.540 --> 00:49:43.900
+[Guest 2]: to English speaking, not to speaking in native tongue. And that to me was an example of premature
+
+00:49:43.900 --> 00:49:49.020
+[Guest 2]: and elite imitation, which I think has very negative consequences.
+
+00:49:49.020 --> 00:49:55.900
+[Guest 1]: Yeah, and English is the 44th most fluent language spoken in India. So there are 43 languages,
+
+00:49:56.460 --> 00:49:58.540
+[Guest 1]: which have higher fluency levels.
+
+00:49:59.660 --> 00:50:00.220
+[Amit Varma]: Measured how?
+
+00:50:00.940 --> 00:50:06.780
+[Guest 1]: I think this is the IHDS survey. I think we cite this in the paper, I can look it up and tell you.
+
+00:50:06.780 --> 00:50:10.780
+[Guest 1]: But this is basically how many people speak a language in India, like the,
+
+00:50:11.660 --> 00:50:17.820
+[Guest 1]: in terms of population, and then how fluent they say they are in the survey questions, right? So
+
+00:50:17.820 --> 00:50:25.100
+[Guest 1]: I'm a native level English speaker, right? I'm a native level Hindi speaker. But my reading skills
+
+00:50:25.100 --> 00:50:29.100
+[Guest 1]: in Hindi are a little bit rusty, because it's been a while since I've been exposed to reading
+
+00:50:29.100 --> 00:50:34.700
+[Guest 1]: books in Hindi, right, simply by virtue of living in the United States for so long. Now, if you can
+
+00:50:34.700 --> 00:50:39.340
+[Guest 1]: speak English, but your fluency levels are really in Hindi, and now I'm talking only about the
+
+00:50:39.340 --> 00:50:43.980
+[Guest 1]: literate population of India, which is also not the entire population. You can't understand
+
+00:50:43.980 --> 00:50:45.180
+[Guest 1]: medical terminology.
+
+00:50:45.180 --> 00:50:48.860
+[Guest 1]: It's actually an effort to read a sign in English. You have to decipher it.
+
+00:50:48.860 --> 00:50:52.220
+[Guest 1]: And you know, signs are easy, because you get used to them, you go to the same places over
+
+00:50:52.220 --> 00:50:56.940
+[Guest 1]: and over again. Medicines, as Alex points out, is a really big problem. You're usually taking
+
+00:50:56.940 --> 00:51:00.700
+[Guest 1]: medicines when you're not feeling too well, someone else might be administering them to you,
+
+00:51:01.260 --> 00:51:07.100
+[Guest 1]: right? At that point in time, if you don't understand what the directions are to take
+
+00:51:07.100 --> 00:51:11.900
+[Guest 1]: the medicine, unless they're explained to you, or they're texted to you in another language,
+
+00:51:11.900 --> 00:51:15.900
+[Guest 1]: it's a really big problem. So in a sense, the Indian elites have colonized their own people,
+
+00:51:16.860 --> 00:51:21.580
+[Guest 1]: using a language that the elites are comfortable with, that most of India is simply not comfortable
+
+00:51:21.580 --> 00:51:22.060
+[Guest 2]: with.
+
+00:51:22.060 --> 00:51:23.900
+[Guest 1]: You were saying about your grandmother?
+
+00:51:23.900 --> 00:51:29.260
+[Guest 1]: Yeah, my grandmother, I mean, she knew a few words in English, right? But she was not
+
+00:51:29.260 --> 00:51:33.660
+[Guest 1]: anywhere close to a, even a fluent English speaker, forget native English speaker,
+
+00:51:34.380 --> 00:51:38.700
+[Guest 1]: she couldn't go to the doctor alone. And this is not unique to my grandmother, right?
+
+00:51:38.700 --> 00:51:43.740
+[Guest 1]: Someone has to take most grandmothers to the doctor, not because they're loving and polite,
+
+00:51:43.740 --> 00:51:48.220
+[Guest 1]: but because there's a very high chance that they won't understand the instructions,
+
+00:51:48.220 --> 00:51:53.580
+[Guest 1]: unless the doctor makes an effort to explain it to them in their native tongue, right?
+
+00:51:53.580 --> 00:51:57.980
+[Guest 1]: Which is not always the case, right? Now, imagine this at higher and higher levels. Now,
+
+00:51:57.980 --> 00:52:02.700
+[Guest 1]: this may be just a question of, you know, some written material on an antibiotics box
+
+00:52:02.700 --> 00:52:05.500
+[Guest 1]: or something like that. And you can get a neighbor to help you with it.
+
+00:52:05.500 --> 00:52:10.700
+[Guest 1]: What about information like surgery, right? You go to a hospital, doctors give you a whole
+
+00:52:10.700 --> 00:52:15.900
+[Guest 1]: lot of information, right? The doctors are not using their native tongue, because they're part
+
+00:52:15.900 --> 00:52:21.580
+[Guest 1]: of the elite. And the people who are receiving that information may simply not be able to process
+
+00:52:21.580 --> 00:52:25.580
+[Guest 1]: it, not because they're stupid, not because they're not smart, or they can't run their own
+
+00:52:25.580 --> 00:52:31.900
+[Guest 1]: lives. But because we have imposed this bizarre language on them. It's the same thing with forms,
+
+00:52:31.900 --> 00:52:37.820
+[Guest 1]: right? You go anywhere in India, and you fill any form, it's English, and now increasingly Hindi,
+
+00:52:37.820 --> 00:52:42.780
+[Guest 1]: there's a big push for Hindi. But we don't see too many forms in native languages. And if it's
+
+00:52:42.780 --> 00:52:46.860
+[Guest 1]: in a native language, it's usually only the one language, right, the dominant language of the
+
+00:52:46.860 --> 00:52:53.260
+[Guest 1]: state. But in India, as we know, even the minority language in any state is like 12 million people
+
+00:52:53.260 --> 00:52:59.260
+[Guest 1]: speak that language, right? So we effectively exclude 12 million people from being able to
+
+00:52:59.260 --> 00:53:05.020
+[Guest 1]: successfully fill a form out easily. So this just happens over and over again, wherever you go.
+
+00:53:05.020 --> 00:53:11.180
+[Guest 1]: The legal system is entirely in English, right? The higher level courts are in English. So this
+
+00:53:11.180 --> 00:53:17.260
+[Guest 1]: has some really big problems in terms of access, right? Access to pretty much anything. That's why
+
+00:53:17.260 --> 00:53:22.060
+[Guest 1]: learning English has such a big premium in India. We always thought it's about jobs, right? And I'm
+
+00:53:22.060 --> 00:53:28.620
+[Guest 1]: sure that's a very large part of it. But it's also about just navigating sophisticated systems,
+
+00:53:28.620 --> 00:53:32.700
+[Guest 1]: which you need in terms of medical care, you need in terms of being able to fill out a form
+
+00:53:32.700 --> 00:53:38.140
+[Guest 1]: effectively for all the paperwork. We are not able to do it in India without additional human
+
+00:53:38.140 --> 00:53:44.060
+[Guest 2]: interface. I want to make the point, I mean, it's great that lots of Indians speak English. I mean,
+
+00:53:44.060 --> 00:53:49.820
+[Guest 2]: it is a strength of the country that so many people are willing to learn multiple languages.
+
+00:53:49.820 --> 00:53:55.740
+[Guest 2]: I mean, this is a positive thing. And it's a powerful thing that enables Indians to reach out
+
+00:53:55.740 --> 00:54:00.780
+[Guest 2]: and get the best scientific literature and so forth. But, you know, it's often been said that
+
+00:54:00.780 --> 00:54:07.020
+[Guest 2]: India is more like, you should think about India like Europe, right, as a collection of countries.
+
+00:54:07.020 --> 00:54:12.780
+[Guest 2]: And yet in Europe, you know, there would be no situation in which in Germany, you know,
+
+00:54:12.780 --> 00:54:17.740
+[Guest 2]: you would find all of the instructions in French, right? Or, you know, in Italy,
+
+00:54:18.300 --> 00:54:23.100
+[Guest 2]: you would find everything, you know, written in German. This just does not happen, right?
+
+00:54:23.100 --> 00:54:30.300
+[Guest 2]: And so this is another example of a situation where the elites operate in a different world
+
+00:54:30.300 --> 00:54:36.860
+[Guest 2]: and make assumptions which are imposed over all of India. So if India truly is like Europe,
+
+00:54:36.860 --> 00:54:43.900
+[Guest 2]: and it is, then the state ought to be paying much more attention to speaking to the populace
+
+00:54:43.900 --> 00:54:48.780
+[Amit Varma]: in the language which they understand. This is, it seems to me to be kind of a muddy problem in
+
+00:54:48.780 --> 00:54:53.660
+[Amit Varma]: the sense that yeah, obviously, I completely agree with you. And by your point that, you know, much
+
+00:54:53.660 --> 00:54:57.580
+[Amit Varma]: as in Indian homes, you will find the kitchen is often the grottiest room because the men are
+
+00:54:57.580 --> 00:55:01.340
+[Amit Varma]: making the decisions and they don't spend too much time in the kitchen. So similarly, elites
+
+00:55:01.340 --> 00:55:05.660
+[Amit Varma]: are comfortable in English. So they are imposing English on the country. I get that. But at the
+
+00:55:05.660 --> 00:55:11.420
+[Amit Varma]: same time, there is also that imperative after independence that we are a country with so many
+
+00:55:11.420 --> 00:55:16.060
+[Amit Varma]: linguistic divides. And you know, you would have started a civil war if you tried to impose Hindi
+
+00:55:16.060 --> 00:55:21.340
+[Amit Varma]: on Tamil Nadu. And English was a functional language everywhere. So why not go with it?
+
+00:55:21.340 --> 00:55:25.740
+[Amit Varma]: And it strikes me that is different from the analogy of Europe, because in Europe,
+
+00:55:25.740 --> 00:55:30.780
+[Amit Varma]: they're all independent nation states. While here you've got to and obviously, our elites also did
+
+00:55:30.780 --> 00:55:36.140
+[Amit Varma]: have a vision where you know, they pay tribute to federalism only in name, it was they were basically
+
+00:55:36.140 --> 00:55:41.420
+[Amit Varma]: governing from the center. And therefore, as a functional language, it would seem to me that
+
+00:55:41.420 --> 00:55:46.540
+[Amit Varma]: English was, you know, just the obvious rational choice, which then leads to what is both a vicious
+
+00:55:46.540 --> 00:55:50.780
+[Amit Varma]: circle and a virtuous circle. It's a virtuous circle in the sense that if you learn English,
+
+00:55:50.780 --> 00:55:55.340
+[Amit Varma]: you get ahead in life, and so on and so forth. It's a vicious circle for those left out of it,
+
+00:55:55.340 --> 00:56:00.380
+[Amit Varma]: that you're deepening social and economic inequalities to those who do not have access
+
+00:56:00.380 --> 00:56:05.740
+[Amit Varma]: to English and to English education. And I don't know what's the way out of this, because it seems
+
+00:56:05.740 --> 00:56:10.780
+[Amit Varma]: to me that if you regulate it, you know, if you regulate local governance in multiple languages,
+
+00:56:10.780 --> 00:56:14.300
+[Amit Varma]: you run into the same problems of state capacity, which we've been speaking about.
+
+00:56:14.300 --> 00:56:18.860
+[Guest 1]: So I would say two things. One, I love the linguistic diversity of India, I wouldn't
+
+00:56:18.860 --> 00:56:24.220
+[Guest 1]: change it. I also like that the official language is English if for no other reason than self serving,
+
+00:56:24.220 --> 00:56:27.980
+[Guest 1]: because it helps me navigate everything. So I understand the problems that you know,
+
+00:56:27.980 --> 00:56:31.900
+[Guest 1]: India had this high degree of linguistic fractionalization. So you needed some
+
+00:56:32.540 --> 00:56:37.020
+[Guest 1]: common language that no one would dispute and English ended up being that language. So that's
+
+00:56:37.020 --> 00:56:43.580
+[Guest 1]: fine. My issue is more in terms of lack of user sensitivity, right? We're not thinking about
+
+00:56:44.140 --> 00:56:49.980
+[Guest 1]: who is actually using these documents. If we mandate ISI standards, and a written set of
+
+00:56:49.980 --> 00:56:56.220
+[Guest 1]: instructions for how to use an iron, we are not thinking about can the person buying the iron
+
+00:56:56.220 --> 00:57:02.620
+[Guest 1]: actually read the instructions, right? Anytime we buy any of these Chinese electronic gadgets that
+
+00:57:02.620 --> 00:57:07.660
+[Guest 1]: I use in America, it's like a really long piece of paper that's folded in, it's got a tiny set
+
+00:57:07.660 --> 00:57:11.580
+[Guest 1]: of instructions, but it's in at least 16 different languages, because the Chinese are making and
+
+00:57:11.580 --> 00:57:16.060
+[Guest 1]: exporting to the world. They're cognizant of that, because they think like an entrepreneur.
+
+00:57:16.940 --> 00:57:19.260
+[Guest 1]: And they care that the user can actually read the instructions.
+
+00:57:19.260 --> 00:57:20.380
+[Amit Varma]: And they're responding to incentives.
+
+00:57:20.380 --> 00:57:24.940
+[Guest 1]: And they're responding to incentives, which you know, so what I mean by we've colonized our own
+
+00:57:24.940 --> 00:57:30.380
+[Guest 1]: people in a foreign language is not that I think English is bad medium. It's simply that we haven't
+
+00:57:30.380 --> 00:57:37.020
+[Guest 1]: made any effort to understand, if it helps the people it's supposed to help, right? We have all
+
+00:57:37.020 --> 00:57:41.900
+[Guest 1]: this staggering amount of information that we want to give on medical boxes and medical forms.
+
+00:57:41.900 --> 00:57:45.340
+[Guest 1]: And we don't think for a second about who's actually going to read those medical forms,
+
+00:57:45.340 --> 00:57:50.380
+[Guest 1]: right? We don't think about do we have translation services. Now, every pharmacist,
+
+00:57:50.380 --> 00:57:56.140
+[Guest 1]: every hospital compounder doctor we know acts as a mini translation service. So you and I who've
+
+00:57:56.140 --> 00:58:00.620
+[Guest 1]: navigated the system, we know that the kind doctors immediately switch to another language
+
+00:58:00.620 --> 00:58:06.460
+[Guest 1]: and things like that. But what I mean is the state has not put in any effort on how we design a
+
+00:58:06.460 --> 00:58:13.420
+[Guest 1]: system. Keeping in mind citizens, we design systems keeping in mind bureaucrats, right?
+
+00:58:13.420 --> 00:58:18.060
+[Guest 1]: So that's kind of my problem with English as the official language. It is not that costly,
+
+00:58:18.060 --> 00:58:25.020
+[Guest 1]: especially given current technology levels to have all court cases and judgments translations
+
+00:58:25.020 --> 00:58:29.820
+[Guest 1]: made available in multiple languages. We simply don't do it. I don't know why, right? So only if
+
+00:58:29.820 --> 00:58:35.340
+[Guest 1]: you know English, you can get access to all the Supreme Court important judgments, some of the
+
+00:58:35.340 --> 00:58:40.540
+[Guest 1]: most important things that govern state and citizen relations. The same thing for the budget,
+
+00:58:40.540 --> 00:58:44.460
+[Guest 1]: right? Only in the last two or three years have we had the budget speech in Hindi. We don't
+
+00:58:44.460 --> 00:58:51.260
+[Guest 1]: translate to other languages. What we do is the local regional language news channel will do a
+
+00:58:51.260 --> 00:58:55.740
+[Guest 1]: translation of some sort of what the finance minister said in Parliament. And that's how
+
+00:58:55.740 --> 00:59:01.100
+[Guest 1]: they inform that, you know, speakers of that language. But we don't have language translation
+
+00:59:01.100 --> 00:59:06.700
+[Guest 1]: easily available. I'm just saying government should make documents at the very least available
+
+00:59:06.700 --> 00:59:10.700
+[Guest 1]: in languages that people speak. And I'm not talking about languages that you know,
+
+00:59:10.700 --> 00:59:15.420
+[Guest 1]: small minority speaks, I'm talking about languages that 30, 40, 50 million people speak,
+
+00:59:15.420 --> 00:59:22.460
+[Guest 1]: so it will eventually pay for itself. But it also is a symptom of how the state thinks about
+
+00:59:22.460 --> 00:59:28.940
+[Guest 1]: its people as subjects, and not as citizens or like users of public services. And that,
+
+00:59:28.940 --> 00:59:32.700
+[Guest 1]: to me is the most disturbing thing about this entire language issue.
+
+00:59:32.700 --> 00:59:37.740
+[Amit Varma]: Very well said. You say in your paper, quote, we identify three characteristics of the Indian
+
+00:59:37.740 --> 00:59:42.940
+[Amit Varma]: elite, especially of those formulating policy, language, caste and education at institutions
+
+00:59:42.940 --> 00:59:47.180
+[Amit Varma]: outside of India, stop quote. And the reason you point this out is obviously because all of these
+
+00:59:47.180 --> 00:59:52.220
+[Amit Varma]: are factors in the kind of elite imitation that eventually gets us into a spot. So can you
+
+00:59:52.220 --> 00:59:58.140
+[Guest 2]: elaborate a bit on this? Let me take the least controversial one, and I'll let Trudy do the
+
+00:59:58.140 --> 01:00:05.180
+[Guest 2]: more controversial ones, but the education of the elites outside of India. Now, in part, this is a,
+
+01:00:05.180 --> 01:00:12.140
+[Guest 2]: to me as an outsider is a remarkably positive element in that it's amazing that someone like
+
+01:00:12.140 --> 01:00:20.620
+[Guest 2]: Raghuram Rajan could come into India, become the head of the RBI, and then leave and go back,
+
+01:00:21.500 --> 01:00:25.020
+[Guest 2]: you know, to teach at Chicago or Harvard or wherever he is now.
+
+01:00:25.020 --> 01:00:29.020
+[Amit Varma]: And get to so many people, Arvind Panagari, Arvind Subramanian, blah, blah, blah, blah.
+
+01:00:29.020 --> 01:00:35.500
+[Guest 2]: Arvind Subramanian Exactly. There's many, many examples of this. So in one sense, it's remarkably positive
+
+01:00:35.500 --> 01:00:42.380
+[Guest 2]: that it shows something about the confidence of India that they could accept as someone,
+
+01:00:42.380 --> 01:00:48.140
+[Guest 2]: as Indian could come in for a few years and advise the government. That is something which
+
+01:00:48.140 --> 01:00:52.540
+[Guest 2]: you would never see, I think, in the United States, right? Somebody who lives somewhere else
+
+01:00:52.540 --> 01:00:59.980
+[Guest 2]: to come into the United States, it just wouldn't happen. And I do applaud Indians for that,
+
+01:00:59.980 --> 01:01:09.020
+[Guest 2]: because I think it's positive. On the other hand, it's clearly also the case that this biases policy
+
+01:01:10.140 --> 01:01:17.500
+[Guest 2]: in ways where the head policymakers are thinking about an audience back home. They know they're
+
+01:01:17.500 --> 01:01:23.100
+[Guest 2]: not going to be here that long. They know this is not a permanent position. They do not live in the
+
+01:01:23.100 --> 01:01:28.780
+[Guest 2]: country. They don't even live in, you know, a colony in Delhi like some of the Supreme Court
+
+01:01:28.780 --> 01:01:35.180
+[Guest 2]: judges Shruti was mentioning. They at least live and see the country where some of the
+
+01:01:35.740 --> 01:01:41.340
+[Guest 2]: policymakers who helicopter in for a few years, they're not even that close. So I do think that
+
+01:01:41.340 --> 01:01:49.660
+[Guest 2]: it biases policy. And that's that's important. And it's reflected throughout a lot of the
+
+01:01:49.660 --> 01:01:57.420
+[Guest 1]: Indian elite. I would add a few things to this. So one is, again, every system is going to produce
+
+01:01:57.420 --> 01:02:03.980
+[Guest 1]: a particular type of elite, right? And every system has structural reasons why very similar
+
+01:02:03.980 --> 01:02:10.220
+[Guest 1]: looking people end up in the elite. So in America, we have this huge debate going on about how white
+
+01:02:10.220 --> 01:02:15.660
+[Guest 1]: men have a particular kind of privilege. If you have multi generations of, you know, college
+
+01:02:15.660 --> 01:02:20.940
+[Guest 1]: education in your family, you have a particular kind of privilege, a huge row all over the US
+
+01:02:20.940 --> 01:02:26.460
+[Guest 1]: with Ivy League schools is how if your parents have been to that school, you get some preferential
+
+01:02:26.460 --> 01:02:31.180
+[Guest 1]: treatment to go to those Ivy League schools, and so on, so forth. So every country, every society
+
+01:02:31.180 --> 01:02:38.540
+[Guest 1]: is going to have some structure of privilege. The kind of privilege that has taken place in India,
+
+01:02:38.540 --> 01:02:45.100
+[Guest 1]: right, is that typically, upper caste people manage to capture really important areas,
+
+01:02:45.660 --> 01:02:50.300
+[Guest 1]: virtually in any sector of society, right? So whether you talk about business,
+
+01:02:50.300 --> 01:02:54.220
+[Guest 1]: whether you talk about academics, whether you talk about teaching at the school,
+
+01:02:54.220 --> 01:03:00.540
+[Guest 1]: whatever it is, it is, I mean, blindingly obvious, no one has to make big arguments
+
+01:03:00.540 --> 01:03:05.900
+[Amit Varma]: to make the case that it is, you know, and let someone misunderstand what you obviously mean is
+
+01:03:05.900 --> 01:03:11.660
+[Amit Varma]: that it is a structure which has these inequities built in. It is not necessary that there is some
+
+01:03:11.660 --> 01:03:17.180
+[Amit Varma]: person at the top who is discriminating and out of you know, all the candidates choosing only the
+
+01:03:17.180 --> 01:03:21.340
+[Amit Varma]: upper caste guys. The problem is that out of all the candidates he will get there will mainly be
+
+01:03:21.340 --> 01:03:25.180
+[Guest 1]: upper caste. Yes, and all the people doing the choosing will be upper caste, all the people
+
+01:03:25.180 --> 01:03:29.260
+[Guest 1]: applying will be upper caste, what you get is a panel full of upper caste. And this perpetuates
+
+01:03:29.260 --> 01:03:34.540
+[Guest 1]: itself. So it has perpetuated itself. It's appalling in India that we have, we pay very
+
+01:03:34.540 --> 01:03:40.700
+[Guest 1]: little attention to diversity in every area of life other than reservation of government jobs.
+
+01:03:40.700 --> 01:03:45.500
+[Guest 1]: That's the only area where you know, there is a constitutional mandate, we've paid some attention
+
+01:03:45.500 --> 01:03:51.420
+[Guest 1]: to it. Every other area, the moment you talk about any kind of structural inequality, the moment you
+
+01:03:51.420 --> 01:03:57.420
+[Guest 1]: talk about taking representation seriously, you encourage private companies to have, you know,
+
+01:03:57.420 --> 01:04:01.340
+[Guest 1]: affirmative action to have greater representation, they'll say no, those people can go get government
+
+01:04:01.340 --> 01:04:06.460
+[Guest 1]: jobs, right. So it's become a very strange system where we don't have representation across the
+
+01:04:06.460 --> 01:04:12.780
+[Guest 1]: board. Now. So in India, we know what the elite looks like. The elite typically is upper caste
+
+01:04:12.780 --> 01:04:18.220
+[Guest 1]: more often than not Brahmin, but certainly upper caste. The elite also speak English,
+
+01:04:18.220 --> 01:04:24.780
+[Guest 1]: right? Probably multi generationally, they speak English, not just their own generation. And third,
+
+01:04:25.660 --> 01:04:30.700
+[Guest 1]: they have access to highest quality education, right? Sometimes it's the highest quality
+
+01:04:30.700 --> 01:04:36.860
+[Guest 1]: education in India, like IITs, and or IIMs, you know, all the elite schools. And very often,
+
+01:04:36.860 --> 01:04:41.420
+[Guest 1]: if they come from a particular kind of privilege, they're able to go abroad and get, you know, a
+
+01:04:41.420 --> 01:04:46.460
+[Guest 1]: PhD or a business degree or whatever it is abroad. Now, this has been going on for more than 100
+
+01:04:46.460 --> 01:04:52.540
+[Guest 1]: years, right? The last set of local elites we produced who were just purely local were people
+
+01:04:52.540 --> 01:04:59.180
+[Guest 1]: like Dadabhai Naoroji, who were completely educated in India. So everyone, starting with Nehru, a lot
+
+01:04:59.180 --> 01:05:04.380
+[Guest 1]: of the people who wrote the constitution, they were all elite. Now, speaking of the elite problem,
+
+01:05:04.380 --> 01:05:09.180
+[Guest 1]: why is this an issue? So Ambedkar famously said that only people who haven't lived in villages,
+
+01:05:09.180 --> 01:05:14.620
+[Guest 1]: romanticize villages, because the people who romanticize villages and don't want urbanization
+
+01:05:14.620 --> 01:05:20.700
+[Guest 1]: and want rural development, are all these upper caste people who like the idea of farming and
+
+01:05:20.700 --> 01:05:25.420
+[Guest 1]: sarson ke khet and you know, all these lovely things and a village community life, which is
+
+01:05:25.420 --> 01:05:31.740
+[Guest 1]: slower and not polluted. They don't know village politics at all. They don't know how bad the caste
+
+01:05:31.740 --> 01:05:36.300
+[Amit Varma]: oppression is in villages. In fact, I'd say that, you know, this part of Gandhi's ideology was also
+
+01:05:36.300 --> 01:05:41.500
+[Amit Varma]: isomorphic mimicry. He got it from Ruskin and Tolstoy, all of those foreign thinkers who idealized
+
+01:05:41.500 --> 01:05:46.860
+[Guest 1]: villages. And Ambedkar pointed out that Gandhi had never lived in a village. You know, he was
+
+01:05:46.860 --> 01:05:51.500
+[Guest 1]: born and raised in Porbandar, which was a really important port city. And born to privilege. Born
+
+01:05:51.500 --> 01:05:56.380
+[Amit Varma]: in an important family, went abroad, did all of that. Exactly. But romanticize villages, right?
+
+01:05:56.380 --> 01:06:01.260
+[Guest 1]: And not this is not because Gandhi's a bad person or ill intention. This is just simply not having
+
+01:06:01.260 --> 01:06:06.460
+[Guest 1]: the experience of been in a village and going through caste oppression. Ambedkar, on the other
+
+01:06:06.460 --> 01:06:13.180
+[Guest 1]: hand, is not allowed to sit inside the classroom, because he's Dalit, right? He's not given water
+
+01:06:13.180 --> 01:06:19.420
+[Guest 1]: that that the other students can get access to because so Ambedkar is very well versed with what
+
+01:06:19.420 --> 01:06:24.940
+[Guest 1]: actually happens in a village, especially if you're lower caste and how structural inequity
+
+01:06:24.940 --> 01:06:31.340
+[Guest 1]: in a village can cannot go away easily, right? So in that sense, if you think about who is making
+
+01:06:31.340 --> 01:06:36.940
+[Guest 1]: policy, it suddenly becomes very important what their experiences, right? The farther away they
+
+01:06:36.940 --> 01:06:42.300
+[Guest 1]: are from the median Indian, right, is a really big problem. And the kind of elites we're talking
+
+01:06:42.300 --> 01:06:48.300
+[Guest 1]: about are really far away from the median Indian. A second level problem is now if we say that the
+
+01:06:48.300 --> 01:06:52.380
+[Guest 1]: most important mandate of government, if you take things like Gandhi's talisman seriously,
+
+01:06:52.940 --> 01:06:56.940
+[Guest 1]: is the oppressed Indian, they are not in the same universe as the oppressed Indian,
+
+01:06:56.940 --> 01:07:01.340
+[Guest 1]: they've probably never met people from villages, they've never seriously interacted with them,
+
+01:07:01.340 --> 01:07:05.900
+[Guest 1]: not because they're not good people, it just simply hasn't happened. Right. So to some extent,
+
+01:07:05.900 --> 01:07:11.180
+[Guest 1]: the Indian elite are caste blind, not because caste doesn't exist in India, but because they
+
+01:07:11.180 --> 01:07:15.740
+[Guest 1]: haven't encountered it. Or they haven't encountered it viscerally in a lived way.
+
+01:07:15.740 --> 01:07:18.860
+[Guest 1]: They might, you know, be intellectually able to sort of talk about it.
+
+01:07:18.860 --> 01:07:23.260
+[Guest 1]: Yeah. So Akhil Katyal, who's one of our favorite poets, both Amit and mine,
+
+01:07:23.260 --> 01:07:28.220
+[Guest 1]: has a lovely poem, again, I won't dare to quote it exactly. But he talks about how a little boy
+
+01:07:28.220 --> 01:07:33.820
+[Guest 1]: about eight years old goes and asks his mother, Mama, what's our caste? And she says, if you
+
+01:07:33.820 --> 01:07:39.660
+[Guest 1]: don't know at age eight, it must be upper caste. It must be upper. It must be upper. It's a beautiful
+
+01:07:39.660 --> 01:07:46.540
+[Guest 1]: poem. Yeah, so we're caste blind, because it never came up, because we're at the top of the pyramid,
+
+01:07:46.540 --> 01:07:51.260
+[Guest 1]: so it doesn't come up. Right. So it really, I don't want to make caste a big issue in terms of
+
+01:07:51.260 --> 01:07:56.780
+[Guest 1]: how it informs your economic policy. I'm sure any one of any caste could make excellent economic
+
+01:07:56.780 --> 01:08:04.540
+[Guest 1]: policy. But, or bad economic, or bad economic policy, right? So the identity matters, because
+
+01:08:04.540 --> 01:08:10.540
+[Guest 1]: the experience matters, and it matters who you're having the conversation with. Now, we have the
+
+01:08:10.540 --> 01:08:15.740
+[Guest 1]: most number of elites in finance and economics, because it requires a particular kind of technical
+
+01:08:15.740 --> 01:08:20.540
+[Guest 1]: training. Right. And we have some of the best schools, it used to be everyone came back from
+
+01:08:20.540 --> 01:08:26.060
+[Guest 1]: the LSE and Oxford and Cambridge, you know, this sort of like Manmohan Singh's generation, IG Patel,
+
+01:08:26.060 --> 01:08:32.060
+[Guest 1]: you know, that group of chief economic advisors and finance ministers. We know there's been a
+
+01:08:32.060 --> 01:08:38.380
+[Guest 1]: shift to American universities for Indians, you know, the latest crop of advisors, whether it is
+
+01:08:38.380 --> 01:08:43.660
+[Guest 1]: Arvind Subramaniam, Arvind Panagaria, Raghuram Rajan, they're all trained in America. So I mean,
+
+01:08:43.660 --> 01:08:47.980
+[Amit Varma]: the current local crop is trained in India and defenders of demonetization and frankly,
+
+01:08:47.980 --> 01:08:52.780
+[Amit Varma]: bad economists, which is why they are in the positions they are, but let's not go there.
+
+01:08:52.780 --> 01:08:58.860
+[Guest 1]: So there is this element of people who have had a particular kind of privilege their whole life,
+
+01:08:58.860 --> 01:09:03.820
+[Guest 1]: and they tend to make policies of a particular kind, right? Now, I'm not saying that the
+
+01:09:03.820 --> 01:09:08.300
+[Guest 1]: governor of RBI is not thinking about interest rates the right way, because they're elite,
+
+01:09:08.300 --> 01:09:15.340
+[Guest 1]: right? That's not the argument. It is that we may not think about demonetization, ATMs, how people
+
+01:09:15.340 --> 01:09:21.820
+[Guest 1]: use cash in an economy, what kind of denominations we need to make change when we go to take an
+
+01:09:21.820 --> 01:09:27.180
+[Guest 1]: auto rickshaw, those things don't seem to be a priority for the highest level of the RBI,
+
+01:09:27.180 --> 01:09:33.260
+[Guest 1]: right? And that part, we need a lot of people at the RBI who are cognizant of how people are
+
+01:09:33.260 --> 01:09:37.740
+[Guest 1]: actually using cash in an economy. One of the biggest reasons for the cash crunch post
+
+01:09:37.740 --> 01:09:43.260
+[Guest 1]: demonetization was that the new currency that the government introduced was a different size than
+
+01:09:43.260 --> 01:09:46.620
+[Guest 1]: the old currency. So the ATMs wouldn't recognize it, right?
+
+01:09:46.620 --> 01:09:47.580
+[Amit Varma]: Classic example of
+
+01:09:47.580 --> 01:09:52.700
+[Guest 1]: This is a classic example. I mean, this is complete state failure. It's moronic. I mean,
+
+01:09:52.700 --> 01:09:57.660
+[Guest 1]: I can't believe that people who are so highly educated actually did execute this policy. But
+
+01:09:57.660 --> 01:10:03.100
+[Guest 1]: this is also because at some level, the people at the RBI are not the people who are standing in
+
+01:10:03.100 --> 01:10:07.900
+[Guest 1]: line and trying to get cash and trying to make change. They use credit cards, they're the 1%
+
+01:10:07.900 --> 01:10:13.340
+[Guest 1]: in India, who are doing credit cards, and they're more worried about cybersecurity and can we get
+
+01:10:13.340 --> 01:10:19.660
+[Guest 1]: OTPs, rather than can we get change. So that is where this kind of elitism and privilege really
+
+01:10:19.660 --> 01:10:24.780
+[Guest 1]: starts mattering, even with an economic policy. Now you go beyond that, right? Now you talk about
+
+01:10:24.780 --> 01:10:30.460
+[Guest 1]: regulation. Now you talk about provision of public goods and services, right? Raghuram Rajan's latest
+
+01:10:30.460 --> 01:10:35.740
+[Guest 1]: book has a huge section on how we need to think of the community, right? So this is the third
+
+01:10:35.740 --> 01:10:39.820
+[Guest 1]: pillar, right? So we need to bring back the focus on the community. There's a lot of focus on
+
+01:10:39.820 --> 01:10:44.380
+[Guest 1]: markets and a lot of focus on the state. We need to think about community seriously and preserving
+
+01:10:45.100 --> 01:10:48.940
+[Guest 1]: the great things about community. But there are also some terrible things about Indian
+
+01:10:48.940 --> 01:10:55.100
+[Guest 1]: community, right? You live in a village, they never forget who you are, who your grandfather was,
+
+01:10:55.100 --> 01:10:59.500
+[Guest 1]: who married whom, what caste you are, did anyone marry out of caste in that particular village?
+
+01:10:59.500 --> 01:11:04.780
+[Guest 1]: It's awful. So I think we need more urbanization in India. If you ask any person who lives in a
+
+01:11:04.780 --> 01:11:09.180
+[Guest 1]: village, they would want more urbanization in India. But if you asked elites who are thinking
+
+01:11:09.180 --> 01:11:14.140
+[Guest 1]: about an American problem, where we need to bring the focus back to the community, because there
+
+01:11:14.140 --> 01:11:19.900
+[Guest 1]: are entire communities which are in crisis because of opioid addiction or something like that.
+
+01:11:19.900 --> 01:11:24.780
+[Guest 1]: It's not clear to me that that applies one on one to India. And this is not to criticize Raghuram
+
+01:11:24.780 --> 01:11:30.060
+[Guest 1]: Rajan. He's a fantastic thinker. I mean, he's a genius. He's the one who predicted the financial
+
+01:11:30.060 --> 01:11:36.140
+[Guest 1]: crisis before pretty much anyone else did. But on some of these margins, if someone read Raghuram
+
+01:11:36.140 --> 01:11:40.700
+[Guest 1]: Rajan's book and just imported it to India, it would not work at all. It would not work.
+
+01:11:40.700 --> 01:11:46.140
+[Amit Varma]: Moving on, you've kind of, you know, described how Indian elites are likely to be English speakers,
+
+01:11:46.140 --> 01:11:50.060
+[Amit Varma]: even if they haven't been trained abroad, though many of them have the formative influences are
+
+01:11:50.060 --> 01:11:55.660
+[Amit Varma]: likely to be from abroad, not as much lived experiences within the Indian this thing and
+
+01:11:55.660 --> 01:11:59.980
+[Amit Varma]: you've given four examples. And I'll, you know, ask you to briefly take us through them four
+
+01:11:59.980 --> 01:12:08.220
+[Amit Varma]: examples of recent policies or recent packages of policies, which sort of indicate this sort
+
+01:12:08.220 --> 01:12:14.140
+[Amit Varma]: of transplantation of ideas that have worked in the West, but bound to fail in India for,
+
+01:12:14.140 --> 01:12:19.260
+[Amit Varma]: you know, reasons of local conditions. Shall we start with maternity leave?
+
+01:12:19.260 --> 01:12:25.740
+[Guest 1]: Well, India has one of the best maternity leave policies anywhere in the world. Right? I think
+
+01:12:25.740 --> 01:12:31.180
+[Guest 1]: we're almost as good as Sweden and Denmark in terms of how generous the leave is. Right? Now,
+
+01:12:31.180 --> 01:12:35.980
+[Guest 1]: there are a few things. This obviously only applies to the formal sector. Right? The second
+
+01:12:35.980 --> 01:12:41.660
+[Guest 1]: is Indian female labor force participation is at an all time low, right? It's always been low.
+
+01:12:41.660 --> 01:12:45.420
+[Guest 1]: It is particularly low right now for a whole number of reasons. You have a couple of great
+
+01:12:45.420 --> 01:12:51.180
+[Amit Varma]: episodes on why so few women with Namita Bhandari and multiple guests, right? And this has something
+
+01:12:51.180 --> 01:12:56.460
+[Guest 1]: to do with both the current jobs crisis, where preference is given for the male member of the
+
+01:12:56.460 --> 01:13:02.780
+[Guest 1]: family to take the job as opposed to the female member. Second in India, for a lot of a very large
+
+01:13:02.780 --> 01:13:08.940
+[Guest 1]: part of India, working women is an inferior good, in the sense that as income levels go up,
+
+01:13:09.820 --> 01:13:14.780
+[Guest 1]: you drop out of the labor force, right? This is for most of the country. So I'm again,
+
+01:13:14.780 --> 01:13:20.140
+[Guest 1]: one of a very small minority of privileged people that would consider that women should work
+
+01:13:20.140 --> 01:13:26.620
+[Guest 1]: because women are equal and so on so forth. For most of India, right? Men and the families think
+
+01:13:26.620 --> 01:13:32.060
+[Guest 1]: that the women should work only if it's a dire economic situation. So as soon as the family
+
+01:13:32.060 --> 01:13:36.380
+[Guest 1]: or household income starts going up, you know, the women are asked to stay back.
+
+01:13:36.380 --> 01:13:40.220
+[Amit Varma]: Which is one of the explanations for the bizarre fact that as India has grown,
+
+01:13:40.220 --> 01:13:42.540
+[Amit Varma]: our participation of women in the workforce has gone down.
+
+01:13:42.540 --> 01:13:46.860
+[Guest 1]: Exactly, right? So that's so female labor force participation is fairly low.
+
+01:13:47.420 --> 01:13:51.340
+[Guest 1]: Now, the second part of female labor force participation is a lot of it is in the
+
+01:13:51.340 --> 01:13:57.100
+[Guest 1]: informal sector, right? Most of India operates in the informal sector. We don't have precise
+
+01:13:57.100 --> 01:14:04.140
+[Guest 1]: numbers, but estimates put it anywhere like 50 to 70% of the labor force is engaged in the informal
+
+01:14:04.140 --> 01:14:08.860
+[Guest 1]: sector, even if they are not themselves vulnerable as informal labor, right? So that's the second
+
+01:14:08.860 --> 01:14:14.940
+[Guest 1]: level problem. So we've passed the law, which is first world and first trade, absolutely,
+
+01:14:14.940 --> 01:14:20.860
+[Guest 1]: right? And as a young woman myself, and everyone I know who has had children, and I understand the
+
+01:14:20.860 --> 01:14:26.060
+[Guest 1]: struggles of, you know, very little maternity leave, and what a luxury that is, it seems like
+
+01:14:26.060 --> 01:14:33.100
+[Guest 1]: a great idea, right? But it's going to benefit, maybe a few 1000 women at best, right? But it's
+
+01:14:33.100 --> 01:14:38.140
+[Guest 1]: also going to take up state resources in terms of thinking about the law, drafting the law,
+
+01:14:38.140 --> 01:14:43.500
+[Guest 1]: enforcing the law, right? Who are the kinds of firms who are likely to give this kind of
+
+01:14:43.500 --> 01:14:48.940
+[Guest 1]: maternity leave, they're going to be the top end firms, right? This is like the law firms or the
+
+01:14:48.940 --> 01:14:55.340
+[Guest 1]: top end businesses who are likely to just through social change and peer pressure, very likely to
+
+01:14:55.340 --> 01:15:00.220
+[Guest 1]: adopt good maternity leave policies, because otherwise they would lose these women who are
+
+01:15:00.220 --> 01:15:05.900
+[Guest 1]: so gifted, operating at the highest level of the Indian economy, right? Any firm lower than that,
+
+01:15:06.780 --> 01:15:11.740
+[Guest 1]: either the law doesn't apply to or it won't be enforced, which means it doesn't matter, right?
+
+01:15:11.740 --> 01:15:16.380
+[Guest 2]: And to the extent that it is enforced, it just raises costs raises the cost of hiring women
+
+01:15:16.380 --> 01:15:21.420
+[Guest 2]: can even backfire and make it more costly to hire women. So you hire fewer women.
+
+01:15:21.420 --> 01:15:25.580
+[Amit Varma]: In fact, when I was editing Pragati, I'd, you know, published a paper, I think by Devika Kher,
+
+01:15:25.580 --> 01:15:30.860
+[Amit Varma]: I don't remember who, an article about how this has actually affected the employment of women,
+
+01:15:30.860 --> 01:15:35.820
+[Amit Varma]: because firms are now incentivized to hire men instead of women when there are equivalent
+
+01:15:35.820 --> 01:15:39.340
+[Amit Varma]: candidates. So the incentives are terrible, which is what the coercive power of the state can
+
+01:15:39.340 --> 01:15:43.740
+[Amit Varma]: sometimes do with these unintended consequences. And you quoted Anthony Allard's great phrase,
+
+01:15:43.740 --> 01:15:48.460
+[Guest 2]: phantom legislation. Yes, yeah, exactly. I mean, it's a phantom legislation. And again,
+
+01:15:48.460 --> 01:15:52.300
+[Amit Varma]: it's another example of virtue signaling. And phantom legislation, just to define it being
+
+01:15:52.300 --> 01:15:56.700
+[Amit Varma]: the passing of laws, which do not have, and most probably cannot have the desired effect.
+
+01:15:56.700 --> 01:16:02.780
+[Guest 2]: Yeah, it's laws which are on the books and which you can point to your friends. And so when this
+
+01:16:02.780 --> 01:16:07.740
+[Guest 2]: law was passed, the Labor Minister, you know, very proudly said, you know, we have a maternity
+
+01:16:07.740 --> 01:16:12.860
+[Guest 2]: leave law, you know, as good as that in Sweden. And yet, when you think about that, that's a bizarre,
+
+01:16:12.860 --> 01:16:21.980
+[Guest 2]: that's a bizarre thing to be proud of. You know, India does not need and probably should not have
+
+01:16:22.620 --> 01:16:28.940
+[Guest 2]: the same laws as Sweden does. I mean, that is, if India adopted all the laws of Sweden,
+
+01:16:28.940 --> 01:16:35.980
+[Guest 2]: it would be a complete disaster. So this is kind of a bizarre thing to be proud of. And
+
+01:16:35.980 --> 01:16:41.900
+[Guest 2]: as Shruti points out, it doesn't apply to most women. And most women have problems,
+
+01:16:41.900 --> 01:16:48.460
+[Guest 2]: which are far, far greater than maternity leave. I mean, you know, let's talk about,
+
+01:16:48.460 --> 01:16:53.820
+[Guest 2]: you know, violence against women, or let's talk about, you know, getting basic health care. How
+
+01:16:53.820 --> 01:16:59.500
+[Guest 2]: about how far you have to walk to get water? That's an issue which affects women. How far do
+
+01:16:59.500 --> 01:17:05.420
+[Guest 2]: you have to walk to get water? Not maternity leave. I mean, the idea that this is something
+
+01:17:05.420 --> 01:17:12.940
+[Guest 2]: which one should broadcast to the world, when a millions of people are walking huge distances in
+
+01:17:12.940 --> 01:17:19.020
+[Guest 2]: unbearable heat to get water for their families. There's such a huge disconnect between the law
+
+01:17:19.020 --> 01:17:23.260
+[Guest 2]: that you pass and are proud of and tell your friends in the liberal community, in the
+
+01:17:23.260 --> 01:17:28.780
+[Guest 2]: international community, and the reality on the ground is just bizarre. So this probably came
+
+01:17:28.780 --> 01:17:34.620
+[Guest 1]: about, I mean, if I were to hazard a guess, because elite policymakers saw their friends
+
+01:17:34.620 --> 01:17:39.660
+[Guest 1]: who are probably women like me, right, at my age, they're working at law firms, they're working at
+
+01:17:39.660 --> 01:17:44.860
+[Guest 1]: the top blue chip firms in India. And they got, you know, very little maternity leave, and they
+
+01:17:44.860 --> 01:17:49.820
+[Guest 1]: didn't have much negotiating power. And they said, we must fix this with a law. That's probably what
+
+01:17:49.820 --> 01:17:56.460
+[Guest 1]: happened. But the reality is, in India, one of two things happen. If the families have a certain
+
+01:17:56.460 --> 01:18:02.540
+[Guest 1]: income level, the moment a woman is pregnant, there is no question that she would work at all,
+
+01:18:02.540 --> 01:18:07.900
+[Guest 1]: right? It's just out of question. And if a woman is of a certain income level where she can't afford
+
+01:18:08.460 --> 01:18:13.740
+[Guest 1]: this luxury of taking time off, when she's pregnant, she's pretty much working till the
+
+01:18:13.740 --> 01:18:18.860
+[Guest 1]: day the baby is born. And you can just see this if you look at all the domestic help,
+
+01:18:18.860 --> 01:18:25.820
+[Guest 1]: right? Most domestic help in India works until maybe the last week or so before the baby is
+
+01:18:25.820 --> 01:18:31.820
+[Guest 1]: delivered. Right? And domestic work is not easy work. I hope that the people employing them go
+
+01:18:31.820 --> 01:18:36.540
+[Guest 1]: easy on them in the last few months. And I'm sure there's some social system that looks after,
+
+01:18:37.180 --> 01:18:42.540
+[Guest 1]: you know, pregnant women in its own bizarre way. But it simply doesn't apply to those women,
+
+01:18:42.540 --> 01:18:50.780
+[Guest 1]: right? So we're not helping anyone, except a few 1000 women who already have a lot of privilege,
+
+01:18:51.580 --> 01:18:56.700
+[Guest 1]: and a fair amount of leverage in terms of being able to negotiate greater amounts of leave and
+
+01:18:56.700 --> 01:19:01.660
+[Guest 1]: things like that. And that's not a bad aim in itself. I'm not saying we should help no women,
+
+01:19:01.660 --> 01:19:06.700
+[Guest 1]: it's just that it does clog up state capacity, right? Those are the women who will file suit
+
+01:19:06.700 --> 01:19:12.620
+[Guest 1]: in a court, and it were this rule not to be followed or not to be enforced. Right? This
+
+01:19:12.620 --> 01:19:17.420
+[Guest 1]: took up time in terms of drafting the policy, framing the policy, passing it in Parliament,
+
+01:19:17.420 --> 01:19:22.700
+[Guest 1]: having debate and discussion on how to enforce it, creating like an enforcement mechanism.
+
+01:19:22.700 --> 01:19:26.940
+[Guest 1]: All of this took up state capacity. And the argument is not that it's it's not a good thing
+
+01:19:26.940 --> 01:19:36.220
+[Guest 1]: to have, it's that we have far greater problems, right to solve for most of our women. And I think
+
+01:19:36.220 --> 01:19:42.220
+[Guest 1]: those are the things like every government needs to prioritize. And this screws up the priority
+
+01:19:42.220 --> 01:19:46.860
+[Amit Varma]: scheme. And again, I'd like to sort of emphasize, you know, people often give this common response
+
+01:19:46.860 --> 01:19:51.580
+[Amit Varma]: that, you know, we should do everything. It's not either or we should do them all. And the point is
+
+01:19:51.580 --> 01:19:57.420
+[Amit Varma]: wake up, that's not possible. Our state capacity is incredibly limited. Everything you do is at
+
+01:19:57.420 --> 01:20:02.460
+[Amit Varma]: the cost of something else. And therefore, like you said, Shruti, we have to prioritize on whether
+
+01:20:02.460 --> 01:20:07.500
+[Amit Varma]: we want to do things which the elites feel good about, or whether we want to actually go down and
+
+01:20:07.500 --> 01:20:11.900
+[Amit Varma]: examine the real problems of the country and do something about that. Yeah, you have to prioritize.
+
+01:20:11.900 --> 01:20:16.860
+[Guest 2]: And not only that, but I think you have to learn state capacity is not something which you simply
+
+01:20:16.860 --> 01:20:22.380
+[Guest 2]: have or don't have. It's something which builds, which develops over time. So when people see that
+
+01:20:22.380 --> 01:20:27.980
+[Guest 2]: the state is successful, then the state could be more successful in the future. So when you have
+
+01:20:27.980 --> 01:20:33.340
+[Guest 2]: that the state is failing or flailing on all grounds, then people don't pay attention to it.
+
+01:20:33.340 --> 01:20:38.220
+[Guest 2]: And it becomes very difficult for the state to be successful, even at the few things it should
+
+01:20:38.220 --> 01:20:43.660
+[Guest 2]: be doing. So state capacity is something which needs to build over time. And the way you do that
+
+01:20:43.660 --> 01:20:48.460
+[Guest 2]: is you start with the most important things and you actually do those things and enforce those
+
+01:20:48.460 --> 01:20:54.220
+[Guest 2]: things and do those things seriously, as India can. I mean, India has done this with its voting
+
+01:20:54.220 --> 01:21:00.860
+[Guest 2]: system, its democratic system. Where India decides this is important, this is a priority, it can and
+
+01:21:00.860 --> 01:21:06.140
+[Guest 2]: it does. We're talking about the Delhi Metro, which by the way, is great. I mean, the Delhi
+
+01:21:06.140 --> 01:21:11.740
+[Guest 2]: Metro actually, it does work. I like it. It's a good thing that it can be done. But there are
+
+01:21:11.740 --> 01:21:18.060
+[Guest 2]: limited resources, there are always trade-offs, you can't do everything. So you need to prioritize
+
+01:21:18.060 --> 01:21:24.300
+[Guest 2]: and then people begin to respect the state and then the state can grow and do these other things.
+
+01:21:24.300 --> 01:21:26.220
+[Guest 1]: SHIKRITI TRIPATHI Yeah. And this is where
+
+01:21:26.220 --> 01:21:32.060
+[Guest 1]: one reason we talk so much about the characteristics of elites is that their priorities are determined
+
+01:21:32.060 --> 01:21:37.900
+[Guest 1]: by where they are looking to, which tends to be the West, right? And this is where representation
+
+01:21:37.900 --> 01:21:44.140
+[Guest 1]: matters, not because you and I as Savarnas can speak about caste, it's the only thing we are
+
+01:21:44.140 --> 01:21:50.700
+[Guest 1]: saying about caste is we need more representation of all castes while we are making this kind of
+
+01:21:50.700 --> 01:21:55.580
+[Guest 1]: policy. We need more representation of people who speak languages that are different from English,
+
+01:21:55.580 --> 01:22:00.780
+[Guest 1]: while we are making these policies. Same for women. I don't think anyone asked any survey of
+
+01:22:00.780 --> 01:22:06.380
+[Guest 1]: the median women in India, if maternity leave is a big problem. And they would have said maternity
+
+01:22:06.380 --> 01:22:13.100
+[Guest 1]: leave what? Right? So that's what we mean by the elites look outwards, not because they're bad
+
+01:22:13.100 --> 01:22:18.300
+[Guest 1]: people, because that's the world they inhibit. And that world that they inhibit is fantasy,
+
+01:22:18.300 --> 01:22:22.940
+[Guest 1]: as far as most of India is concerned. Most of India just lives in a completely different space.
+
+01:22:22.940 --> 01:22:27.980
+[Guest 1]: And we have had made no effort to get greater representation of what it means to live in that
+
+01:22:27.980 --> 01:22:33.260
+[Amit Varma]: space. Right? So we have only about 40 minutes left. So I suspect I am the only podcaster who
+
+01:22:33.260 --> 01:22:39.260
+[Amit Varma]: will say only about 40 minutes left. But we have only about 40 minutes left. So what I will sort of
+
+01:22:39.260 --> 01:22:45.260
+[Amit Varma]: try to do here is, let's go over your three other case studies in about five to seven minutes each.
+
+01:22:45.260 --> 01:22:50.060
+[Amit Varma]: So we can then discuss the larger sort of questions at hand and kind of wrap it up. Now,
+
+01:22:50.060 --> 01:22:54.700
+[Amit Varma]: housing regulation is something you speak about in your paper. We've all had multiple episodes on
+
+01:22:54.700 --> 01:23:00.300
+[Amit Varma]: this. It was from you, Alex, that when we did an episode on FSI together that I learned that great
+
+01:23:00.300 --> 01:23:05.180
+[Amit Varma]: phrase that where you said that Bombay should stop reclaiming the sea, we should reclaim the sky
+
+01:23:05.180 --> 01:23:10.300
+[Amit Varma]: and build upwards, which was very eloquent. And, and from Shruti, I got sort of that
+
+01:23:10.300 --> 01:23:14.780
+[Amit Varma]: amazing TIL moment in the episode on 12 dream reforms, where you pointed out that
+
+01:23:14.780 --> 01:23:18.940
+[Amit Varma]: one of the most powerful forms of mass transport is the elevator.
+
+01:23:18.940 --> 01:23:21.900
+[Guest 1]: I got that from Tim Harford. I can't take credit for that.
+
+01:23:21.900 --> 01:23:28.460
+[Amit Varma]: Yeah. So Tim Harford, Bastia Prize winners for the win. And we shall. So tell me a little bit
+
+01:23:28.460 --> 01:23:32.860
+[Amit Varma]: about how so many of our housing regulations, you know, designed in an earlier colonial era,
+
+01:23:32.860 --> 01:23:35.740
+[Guest 2]: where people are elites are sprawling bungalows around that.
+
+01:23:35.740 --> 01:23:40.860
+[Guest 2]: Yeah. So the regulations date to the colonial era, where the British wanted to recreate
+
+01:23:40.860 --> 01:23:47.020
+[Guest 2]: New England, that is the old England, you know, and have these bungalows. And in the bungalow,
+
+01:23:47.020 --> 01:23:53.500
+[Guest 2]: you have a nice garden and you have, you know, a big distance between the driveway and the street
+
+01:23:53.500 --> 01:23:59.580
+[Guest 2]: and the front door and so forth, and space for your car, right? This became later, it's car,
+
+01:23:59.580 --> 01:24:03.740
+[Guest 2]: important to have space for car. But when you think about what India really needs,
+
+01:24:03.740 --> 01:24:08.380
+[Guest 2]: most Indians don't have cars, they have motorcycles or they have bikes or something like that.
+
+01:24:08.380 --> 01:24:15.580
+[Guest 2]: So every use of space, which you put to cars, which you put to lawns, which you put to having
+
+01:24:15.580 --> 01:24:20.940
+[Guest 2]: a big distance between the front door of the house and the street, all that means is you're
+
+01:24:20.940 --> 01:24:27.420
+[Guest 2]: raising the cost of housing. That land is expensive. If you use land for a lawn, that is
+
+01:24:28.140 --> 01:24:33.660
+[Guest 2]: land which is not being used to actually house people. So all of these regulations,
+
+01:24:33.660 --> 01:24:41.020
+[Guest 2]: which were designed to create a English bungalow style living, don't apply to the way that Indians
+
+01:24:41.020 --> 01:24:48.140
+[Guest 2]: actually live. And this means raises the cost of providing housing for real Indians and means that,
+
+01:24:48.140 --> 01:24:57.100
+[Guest 2]: ironically, the only truly free market in housing in India is the slums. And the slums in that sense
+
+01:24:57.100 --> 01:25:04.700
+[Guest 2]: actually work quite well. The slums are not ideal, but they are an amazing response to terrible
+
+01:25:04.700 --> 01:25:10.860
+[Guest 2]: regulation. So the government, you know, could go and provide housing, so-called affordable housing,
+
+01:25:10.860 --> 01:25:16.220
+[Guest 2]: but where do they put it? They put it where land is cheap outside the city and where it's very
+
+01:25:16.220 --> 01:25:20.860
+[Guest 2]: difficult to get to work. And so people respond and say, no, I'd actually prefer to live in the
+
+01:25:20.860 --> 01:25:26.620
+[Guest 2]: slums, which are closer to where work is. So the slums are actually responsive to people's real
+
+01:25:26.620 --> 01:25:32.300
+[Guest 2]: needs. The problem is that they're not provided with government services like water and electricity
+
+01:25:32.300 --> 01:25:38.780
+[Guest 2]: and sewage. So this is another case where we have premature imitation. We have regulations in order
+
+01:25:38.780 --> 01:25:44.460
+[Guest 2]: to create British style bungalow living. And at the same time, the state fails on its primary
+
+01:25:44.460 --> 01:25:52.060
+[Guest 2]: duties. You know, as I said, sewage, electricity and water. So this is the big disconnect.
+
+01:25:52.060 --> 01:25:58.940
+[Amit Varma]: No, and it also strikes me that, you know, slums are an excellent example of society's solution to
+
+01:25:58.940 --> 01:26:03.180
+[Amit Varma]: a problem created by the state, you know, and they are demonized. And for example, you know,
+
+01:26:03.180 --> 01:26:07.420
+[Amit Varma]: the informal sector is demonized. The informal sector is also society's solution to a problem
+
+01:26:07.420 --> 01:26:10.620
+[Amit Varma]: created by the state and they're unfairly demonized. I had an episode on slums a long
+
+01:26:10.620 --> 01:26:15.820
+[Amit Varma]: time back with Pawan Srinath where he pointed out that slums are so essential to cities because they
+
+01:26:15.820 --> 01:26:22.060
+[Amit Varma]: allow a cheap entry point for migration into cities, which people often forget.
+
+01:26:22.060 --> 01:26:26.140
+[Guest 1]: Yeah. And you know, the second aspect of the kind of housing regulation we have and
+
+01:26:26.140 --> 01:26:31.580
+[Guest 1]: Alain Berto's Order Without Design, it's a great, great book. Doesn't just talk about this happening
+
+01:26:31.580 --> 01:26:35.820
+[Guest 1]: in India, but all over the world, everywhere regulators from New York City, you know,
+
+01:26:35.820 --> 01:26:41.820
+[Guest 1]: further down. The regulators tend to be elite and they think about how people should live
+
+01:26:42.460 --> 01:26:48.860
+[Guest 1]: and not how people actually live. So they think in terms of, you know, any civilized person should
+
+01:26:48.860 --> 01:26:54.940
+[Guest 1]: have so many square meters of living space, which means the smallest size one bedroom you can make
+
+01:26:54.940 --> 01:27:00.300
+[Guest 1]: is X number of square meters, right? The smallest two bedroom you make for a family is X number of
+
+01:27:00.300 --> 01:27:05.900
+[Guest 1]: square meters. Most Indian families don't give a separate, you know, set of bedrooms to their kids,
+
+01:27:06.700 --> 01:27:12.460
+[Guest 1]: right? Most Indian families at particular income groups, there's one room and everything happens
+
+01:27:12.460 --> 01:27:16.620
+[Guest 1]: in that one room and in the evening when all sort of your living room activities are done,
+
+01:27:16.620 --> 01:27:21.500
+[Guest 1]: you pull out the gada, you spread it and now it's the bedroom for the night, right? This is how a
+
+01:27:21.500 --> 01:27:26.780
+[Guest 1]: lot of us grew up. This is how most of Bombay functions, right? Even at higher levels of income.
+
+01:27:26.780 --> 01:27:32.060
+[Guest 1]: So a regulator coming in and telling people how they should live and how they should use their
+
+01:27:32.060 --> 01:27:38.060
+[Guest 1]: space is really bizarre as opposed to asking, how do people actually use their space, right? How do
+
+01:27:38.060 --> 01:27:44.380
+[Guest 1]: you use that extra space outside, which is the gap between the building and the road? And in Bombay,
+
+01:27:44.380 --> 01:27:48.860
+[Guest 1]: they've lent it out to panvalas, they've lent it out to people who do the ironing right inside the
+
+01:27:48.860 --> 01:27:53.900
+[Guest 1]: society gate. This is because that space is valuable. It needs to be used. We put it there
+
+01:27:53.900 --> 01:27:59.820
+[Guest 1]: as empty space only because of bad regulation, right? So these are things to consider in terms
+
+01:27:59.820 --> 01:28:05.900
+[Guest 1]: of regulators, thinking about how people actually live as opposed to how we want them to live. Now,
+
+01:28:05.900 --> 01:28:11.180
+[Guest 1]: nobody wants to live in a slum, but if you go to a slum, it will tell us a lot about what people
+
+01:28:11.180 --> 01:28:17.340
+[Guest 1]: prioritize. They prioritize distance from work, even over having sewage, right? They prioritize
+
+01:28:17.340 --> 01:28:22.060
+[Guest 1]: that their kids can go to a good school nearby and that the mother can drop the kids off at school,
+
+01:28:22.060 --> 01:28:27.340
+[Guest 1]: go do her work, pick up the kids from school and come back home. Same problems mothers have in
+
+01:28:27.340 --> 01:28:32.620
+[Guest 1]: Arlington and Fairfax, where Alex and I live, right? Same kind of issues that mothers have in
+
+01:28:32.620 --> 01:28:38.060
+[Guest 1]: slums. That's why distance really matters. So they're willing to give up piped water delivery
+
+01:28:38.620 --> 01:28:43.900
+[Guest 1]: in exchange for that. And the only reason those poor people are forced to make that trade-off
+
+01:28:43.900 --> 01:28:50.220
+[Guest 1]: is because we haven't provided for regulation, which will allow for really tiny, small living
+
+01:28:50.220 --> 01:28:56.060
+[Guest 1]: spaces, which are, you know, regulated, right, formal sector spaces, because we think that's
+
+01:28:56.060 --> 01:29:00.540
+[Amit Varma]: too small for a human to inhabit. You know, my listeners often ask me for book recommendations.
+
+01:29:00.540 --> 01:29:04.780
+[Amit Varma]: And, you know, what you just said reminds me of two masterpieces I'll recommend. One is a book
+
+01:29:04.780 --> 01:29:10.060
+[Amit Varma]: called The Power Broker by Robert Caro about Robert Moses, a man who built New York, which is
+
+01:29:10.060 --> 01:29:15.340
+[Amit Varma]: a magnificent biography, not just of a man, but of the corrosive influence of power on individuals
+
+01:29:15.340 --> 01:29:20.220
+[Amit Varma]: and also of a city. And Moses did everything exactly wrong, you know, top down planning,
+
+01:29:20.220 --> 01:29:24.940
+[Amit Varma]: coercive state power, and so on. And the other book is a lady who opposed him, Jane Jacobs,
+
+01:29:24.940 --> 01:29:28.780
+[Amit Varma]: who wrote this incredible book called The Death and Life of Great American Cities,
+
+01:29:28.780 --> 01:29:35.260
+[Amit Varma]: which argues for and makes a case for allowing cities to organically evolve. And, you know,
+
+01:29:35.260 --> 01:29:40.620
+[Amit Varma]: within their own local constraints and expressing its own local character, which are both
+
+01:29:40.620 --> 01:29:44.860
+[Guest 1]: masterpieces. Speaking of Jane Jacobs, I think Alain Bertaud's book is perfect to complete that
+
+01:29:44.860 --> 01:29:49.660
+[Guest 1]: trilogy. He's an actual masterpiece as well. All linked from the show notes. One of the things he
+
+01:29:49.660 --> 01:29:54.780
+[Guest 1]: talks about in the book specifically about Mumbai is about how we haven't created circumstances
+
+01:29:54.780 --> 01:29:58.780
+[Guest 1]: where you can easily change land use from one kind of use to another kind of use, which is
+
+01:29:58.780 --> 01:30:05.980
+[Guest 1]: critical to a city, right? So we have had mill land in the center of the city, right? Thousands
+
+01:30:05.980 --> 01:30:10.700
+[Guest 1]: of acres of mill land completely tied up. And now what do you have in those mill lands? You have,
+
+01:30:10.700 --> 01:30:16.540
+[Guest 1]: you know, posh cafes with paper straws is what you have on mill land these days, because we simply
+
+01:30:16.540 --> 01:30:22.300
+[Guest 1]: did not convert the land use from industrial to commercial and then commercial to residential or
+
+01:30:22.300 --> 01:30:28.140
+[Guest 1]: some form of that, which means now the center of Mumbai is no longer valuable, right? All the
+
+01:30:28.140 --> 01:30:32.860
+[Guest 1]: business hubs are either in the south end of Mumbai, or a little bit further north near,
+
+01:30:32.860 --> 01:30:38.460
+[Guest 1]: you know, BKC. Because, and this is a direct consequence of not allowing,
+
+01:30:38.460 --> 01:30:43.740
+[Guest 1]: right, Verley and those neighboring areas, which had lots of mills, to properly change land use
+
+01:30:43.740 --> 01:30:48.860
+[Guest 1]: when the mill shut down. So this is a really big problem when the government says we must have
+
+01:30:48.860 --> 01:30:54.140
+[Guest 1]: industrial use in the middle of Bombay, which is the most valuable real estate, perhaps anywhere
+
+01:30:54.140 --> 01:30:59.340
+[Guest 1]: in the world. So we have bad regulation, right? And we have bad regulation, because they once
+
+01:30:59.340 --> 01:31:05.340
+[Guest 1]: again read books by people like Robert Moses, on, you know, stratifying cities, the way Moses
+
+01:31:05.340 --> 01:31:09.020
+[Guest 1]: think they're supposed to look, as opposed to how cities actually operate. And of course,
+
+01:31:09.020 --> 01:31:12.540
+[Amit Varma]: there's an engineering mindset at play as well, where you want to design everything,
+
+01:31:12.540 --> 01:31:16.460
+[Amit Varma]: not realizing some things are too complex to be designed. The next example is...
+
+01:31:16.460 --> 01:31:20.700
+[Guest 1]: One last thing, speaking of elite imitation, the person one we must really read on Indian
+
+01:31:20.700 --> 01:31:25.980
+[Guest 1]: housing regulation is Bimal Patel. Yeah, right. Yeah. So in typical elite imitation format,
+
+01:31:25.980 --> 01:31:30.380
+[Guest 1]: we've talked about Jane Jacobs, and we've talked about Elian Bhatto. But the person who actually
+
+01:31:30.380 --> 01:31:36.060
+[Guest 1]: dissects Indian housing policy, what are the rules, the way they actually are written in India,
+
+01:31:36.060 --> 01:31:40.380
+[Guest 1]: and the way they actually work, and the unintended consequences of that, that is Bimal Patel. And,
+
+01:31:40.380 --> 01:31:42.780
+[Guest 1]: you know, all his fantastic work. We cite a bunch of it in the paper.
+
+01:31:42.780 --> 01:31:50.540
+[Guest 2]: This is making win-win solutions actually work in Amitabh. So he is an extremely important person
+
+01:31:50.540 --> 01:31:57.740
+[Guest 2]: in the Indian context, who is finding ways, bringing the farmers in, bringing the industrialists,
+
+01:31:57.740 --> 01:32:02.940
+[Guest 2]: the developers in, and making sure that everybody gets a piece of the pie. And that is actually the
+
+01:32:02.940 --> 01:32:07.980
+[Guest 2]: way for India to develop. Because another, you know, very closely related problem is the ridiculous
+
+01:32:09.100 --> 01:32:16.540
+[Guest 2]: difficulty it is for farmers to sell their land to non-farm use. You know, we perhaps do this in
+
+01:32:16.540 --> 01:32:20.940
+[Guest 2]: order to, quote, protect the farmers, right? Another example of the elites thinking that they
+
+01:32:20.940 --> 01:32:26.060
+[Guest 2]: must protect the farmers. But in fact, the land is some of the farmers' most valuable assets.
+
+01:32:26.060 --> 01:32:33.420
+[Guest 2]: And if you can't turn it into a developable land, you are destroying the value of that asset.
+
+01:32:33.420 --> 01:32:36.380
+[Amit Varma]: This is what Hanan wrote this auto called debt capital, though again,
+
+01:32:36.380 --> 01:32:40.780
+[Amit Varma]: I'm showing elite imitation by even citing this auto. But yeah, conceptually,
+
+01:32:40.780 --> 01:32:44.860
+[Amit Varma]: that's extremely useful. Let's kind of move on to open defecation, which is a third case study,
+
+01:32:44.860 --> 01:32:49.340
+[Amit Varma]: which of course we have, you know, Shruti and I have done a long episode on Swachh Bharat,
+
+01:32:49.340 --> 01:32:53.500
+[Amit Varma]: and I'd encourage you to listen to that. Do you want to quickly sum up in just a couple of lines
+
+01:32:53.500 --> 01:32:58.940
+[Guest 1]: what? Yeah, we need to focus on waste management solutions and not on toilets, right? Toilet is
+
+01:32:58.940 --> 01:33:05.500
+[Guest 1]: just one step. It's the last mile step in how we think about waste management in India. Now,
+
+01:33:05.500 --> 01:33:09.980
+[Guest 1]: because of the way we are culturally and in particular, because of caste relations and
+
+01:33:09.980 --> 01:33:17.260
+[Guest 1]: ritual purity, most Indian caste groups, the Savarnas, and even a large number of the Dalit
+
+01:33:17.260 --> 01:33:24.780
+[Guest 1]: groups refuse to have anything to do with human excreta and feces, right? So if you create a
+
+01:33:24.780 --> 01:33:30.540
+[Guest 1]: system where people have to use toilets and then manually empty them or empty them using a vacuum
+
+01:33:30.540 --> 01:33:36.940
+[Guest 1]: or in any way have to deal with it, it is going to have a very big consequence on caste. Most
+
+01:33:36.940 --> 01:33:42.620
+[Guest 1]: upper caste people simply won't adopt it. And the more number of people that adopted there's a huge
+
+01:33:42.620 --> 01:33:50.380
+[Guest 1]: aspect of oppression because it re-enables or revitalizes this awful practice of manual scavenging
+
+01:33:50.380 --> 01:33:56.300
+[Guest 1]: and things like that that we outlawed a long time ago. So we have created a Swachh Bharat Abhiyan
+
+01:33:56.300 --> 01:34:01.660
+[Guest 1]: which translates to cleaner India, right? We want a cleaner India, but we're only talking about
+
+01:34:01.660 --> 01:34:08.220
+[Guest 1]: cleaner India in terms of toilet, right? So what we did was the entire focus was on building toilets
+
+01:34:08.220 --> 01:34:13.660
+[Guest 1]: and delivering toilets to every household without understanding how they actually go about their
+
+01:34:13.660 --> 01:34:16.700
+[Guest 1]: business, right? So do they want to use...
+
+01:34:16.700 --> 01:34:20.620
+[Guest 2]: The elites sort of naturally think that the problem of open defecation is that there aren't
+
+01:34:20.620 --> 01:34:27.180
+[Guest 2]: enough toilets because who would possibly want to defecate in the open if they had a toilet?
+
+01:34:27.180 --> 01:34:29.100
+[Guest 2]: But in fact, that's not the case.
+
+01:34:29.100 --> 01:34:36.060
+[Guest 1]: Because elites, for elites, toilets come in a great package deal included with excellent sewage
+
+01:34:36.060 --> 01:34:42.700
+[Guest 1]: solution and piped water, right? So when I think of a toilet, I'm thinking of a package deal.
+
+01:34:42.700 --> 01:34:46.780
+[Guest 1]: The kind of toilet that Swachh Bharat Abhiyan is giving out is just the toilet.
+
+01:34:46.780 --> 01:34:49.740
+[Amit Varma]: It doesn't come with piped water. It doesn't come with sewage.
+
+01:34:49.740 --> 01:34:53.420
+[Amit Varma]: That's why I think of it as an excellent illustration of, you know, how some governments
+
+01:34:53.420 --> 01:34:58.140
+[Amit Varma]: focus more on optics than actual governance. So the toilet is great optics. It's what you see,
+
+01:34:58.140 --> 01:35:02.700
+[Amit Varma]: but you need a drainage system below that. And what you pointed out in your paper and in the
+
+01:35:02.700 --> 01:35:08.220
+[Amit Varma]: episode that we did, is that if you don't have the drainage system, then people either have to
+
+01:35:08.220 --> 01:35:12.780
+[Amit Varma]: clean it themselves, which they consider a quote unquote, Dalit activity, and they don't want to
+
+01:35:12.780 --> 01:35:18.220
+[Amit Varma]: do it. Or they have to actually get a Dalit into the house to do it. And therefore, even beyond
+
+01:35:18.220 --> 01:35:23.340
+[Amit Varma]: this issue of caste and ritual cleansing, there are all kinds of cultural issues for why people
+
+01:35:24.780 --> 01:35:30.460
+[Amit Varma]: prefer open defecation. And and therefore it, you know, this is a classic example of what sounds
+
+01:35:30.460 --> 01:35:34.620
+[Amit Varma]: like a great policy to the elites, but hey, think a little deeper, literally.
+
+01:35:34.620 --> 01:35:40.060
+[Guest 2]: Yeah, no, I will say that, even though the policy might not have been, you know,
+
+01:35:40.060 --> 01:35:45.020
+[Guest 2]: exactly perfect for the problem was a very good thing that Modi pointed attention to this problem.
+
+01:35:45.020 --> 01:35:49.980
+[Guest 2]: Yeah, because it's a serious problem. It's one which in another country might have been
+
+01:35:49.980 --> 01:35:52.540
+[Guest 2]: hidden away, right? Nobody wants to talk about it. Nobody wants to talk about it,
+
+01:35:52.540 --> 01:35:57.900
+[Guest 2]: but he talked about it. So I got to give him credit for talking about defecation. I mean,
+
+01:35:57.900 --> 01:36:03.420
+[Guest 2]: this is something which is not comfortable to bring up, but he made it a priority. And I think
+
+01:36:03.420 --> 01:36:09.500
+[Guest 2]: overall, it's probably done some good because we have to also remember that open defecation kills
+
+01:36:09.500 --> 01:36:15.100
+[Guest 2]: people because it creates a huge amount of bacteria in the environment. It kills children.
+
+01:36:15.100 --> 01:36:19.980
+[Guest 2]: It stunts children. It creates, you know, the possibilities for cholera and things of that
+
+01:36:19.980 --> 01:36:26.380
+[Guest 2]: nature. So I do think that even though the solution was not exactly pointing to the right
+
+01:36:26.380 --> 01:36:30.780
+[Guest 2]: issues, just talking about it was a very big deal. Just to sort of drive that home. I had the
+
+01:36:30.780 --> 01:36:35.020
+[Amit Varma]: Congress politician, the very fine economist Salman Sohz on my show. And at the end, I threw
+
+01:36:35.020 --> 01:36:39.020
+[Amit Varma]: him what I thought was a googly that why don't you say something good about Mr. Modi. And he said
+
+01:36:39.020 --> 01:36:46.140
+[Amit Varma]: precisely this. He said that a man in a position of that much influence can really change the minds
+
+01:36:46.140 --> 01:36:50.860
+[Amit Varma]: of a lot of people on issues. So just by talking about Swachh Bharat, even if you don't actually
+
+01:36:50.860 --> 01:36:55.500
+[Amit Varma]: make that kind of difference on the ground because of implementation issues, or your policy is badly
+
+01:36:55.500 --> 01:37:02.380
+[Guest 1]: designed, can make a difference to the culture. And of course, I want to point out one thing,
+
+01:37:03.580 --> 01:37:11.020
+[Guest 1]: which is related to the elite imitation. They tied up the outcome of Swachh Bharat
+
+01:37:11.020 --> 01:37:17.740
+[Guest 1]: to delivering toilets, right. So on October 2, on the 150th birth anniversary of Gandhi,
+
+01:37:17.740 --> 01:37:22.940
+[Guest 1]: Modi had set a target that, you know, by 2019, India will be open defecation free,
+
+01:37:22.940 --> 01:37:27.180
+[Guest 1]: and they declared India open defecation free, when in fact, India is nowhere close to open
+
+01:37:27.180 --> 01:37:32.460
+[Guest 1]: defecation free. It's definitely improved, as Alex pointed out. But the reason that the government
+
+01:37:32.460 --> 01:37:37.420
+[Guest 1]: has declared it so, it's because they met the target of how many toilets needed to be given
+
+01:37:37.420 --> 01:37:40.860
+[Guest 1]: to how many households. And they said, Oh, we've solved the problem, right?
+
+01:37:40.860 --> 01:37:41.740
+[Guest 1]: Mission accomplished.
+
+01:37:41.740 --> 01:37:42.300
+[Guest 1]: Mission accomplished.
+
+01:37:43.660 --> 01:37:52.700
+[Guest 1]: Exactly. So now, it's a bizarre thing, where we have conflated input with outcomes,
+
+01:37:52.700 --> 01:37:57.980
+[Guest 1]: right. And this is another virtue of, you know, in other places, had we given people toilets,
+
+01:37:57.980 --> 01:38:02.540
+[Guest 1]: they would have used them, right, either because the sewage and the water exists,
+
+01:38:02.540 --> 01:38:07.420
+[Guest 1]: or because none of this caste and ritual purity nonsense, you know, none of that exists,
+
+01:38:07.420 --> 01:38:12.460
+[Guest 1]: right. But here we have those problems. So if you conflate the input with the outcome,
+
+01:38:12.460 --> 01:38:14.300
+[Guest 1]: then you are going to get a lot of shit.
+
+01:38:14.300 --> 01:38:17.260
+[Amit Varma]: In fact, conflating input with outcome is exactly what you know,
+
+01:38:17.260 --> 01:38:21.900
+[Amit Varma]: ails our education system. And your fourth case was, you know, about the Right to Education Act,
+
+01:38:21.900 --> 01:38:25.900
+[Amit Varma]: which was a massive disaster. I've had episodes on that. And you've written about it very well
+
+01:38:25.900 --> 01:38:29.980
+[Amit Varma]: in your paper, which I will encourage all my listeners to go and read because we are moving
+
+01:38:29.980 --> 01:38:35.820
+[Amit Varma]: on from that. And I'd rather like to sort of come to your conclusion, which is that limited state
+
+01:38:35.820 --> 01:38:42.140
+[Amit Varma]: capacity calls for presumptive laissez faire. And I'll quote from your paper. Imagine, for example,
+
+01:38:42.140 --> 01:38:46.620
+[Amit Varma]: that US government spending had to be cut by a factor of 10. Would it make sense to cut all
+
+01:38:46.620 --> 01:38:52.140
+[Amit Varma]: programs by 90%? Unlikely. Some programs and policies are of great value, but others should
+
+01:38:52.140 --> 01:38:57.660
+[Amit Varma]: be undertaken only when state capacity and GDP per capita are higher. And then he gives Edward
+
+01:38:57.660 --> 01:39:03.740
+[Amit Varma]: laser quote, which you gave earlier. And then you guys say, a US government funded at one 10th,
+
+01:39:03.740 --> 01:39:08.460
+[Amit Varma]: the current level would optimally do many fewer things. So why doesn't the Indian government do
+
+01:39:08.460 --> 01:39:12.940
+[Amit Varma]: many fewer things? Stop good. You know, a lot of people will instinctively react to this saying
+
+01:39:12.940 --> 01:39:16.620
+[Amit Varma]: that, hey, we need the government because the market doesn't do all of these things properly.
+
+01:39:16.620 --> 01:39:20.540
+[Amit Varma]: But the issue there is that usually a the government is creating problems, which then
+
+01:39:20.540 --> 01:39:25.740
+[Amit Varma]: society comes and find this own solutions to the market like slums, like informal markets,
+
+01:39:25.740 --> 01:39:30.860
+[Amit Varma]: and be people are very keen to spot market failure, not realizing that government failure
+
+01:39:30.860 --> 01:39:35.500
+[Amit Varma]: is actually ubiquitous and in India inevitable because of the problems you pointed out, right?
+
+01:39:35.500 --> 01:39:40.540
+[Guest 1]: So our argument towards a presumptive laissez faire is very much in the Indian context,
+
+01:39:40.540 --> 01:39:45.500
+[Guest 1]: right? Because we regulate everything to death. So this is not saying that the government should
+
+01:39:45.500 --> 01:39:51.020
+[Guest 1]: not provide clean water, clean air should not have traffic signals or not solve air pollution,
+
+01:39:51.020 --> 01:39:55.660
+[Amit Varma]: those are the things that matter. Exactly. So you know, air pollution is a classic market
+
+01:39:55.660 --> 01:39:59.580
+[Guest 1]: externality, it is difficult to bring about collective action. So we need some good regulation
+
+01:39:59.580 --> 01:40:04.060
+[Guest 1]: to address that problem, right? So we're not saying that the government should not do any of
+
+01:40:04.060 --> 01:40:08.700
+[Guest 1]: that. In fact, we're saying the exact reverse. We're saying that for the government to be able
+
+01:40:08.700 --> 01:40:13.180
+[Guest 1]: to do that successfully, it should stop doing a lot of other things that it does,
+
+01:40:13.740 --> 01:40:18.540
+[Guest 1]: because of one of two reasons, either because that regulation is stupid and useless, which is
+
+01:40:18.540 --> 01:40:22.940
+[Guest 1]: most of our paternalist, you know, sort of redistributive regulation, which is anyway not
+
+01:40:22.940 --> 01:40:29.260
+[Guest 1]: followed. Or two, even if it's a good idea to have that regulation, it is too soon. And we cannot
+
+01:40:29.260 --> 01:40:34.780
+[Guest 1]: execute it well, we simply can't do it. So why not wait until India gets richer and has better
+
+01:40:34.780 --> 01:40:41.020
+[Guest 1]: state capacity, and then do those activities. So our focus on the night watchman state right with
+
+01:40:41.020 --> 01:40:46.060
+[Guest 1]: the presumptive laissez faire is not for an ideological reason, though that might also be
+
+01:40:46.060 --> 01:40:51.500
+[Guest 1]: true. But it's for a different reason, which is that we can't do more than the night watchman
+
+01:40:51.500 --> 01:40:56.700
+[Guest 1]: state with the current levels of Indian capacity. So we should really stop doing everything else
+
+01:40:56.700 --> 01:41:01.260
+[Guest 1]: and prioritize and at least get that done. So in a sense, we are libertarian by circumstance,
+
+01:41:01.260 --> 01:41:05.340
+[Guest 1]: not by belief. We should be by necessity. Yes, this is Kaushik Basu, right? India is full of
+
+01:41:05.340 --> 01:41:09.660
+[Guest 1]: libertarians by necessity, not libertarians by choice. I think there's a different problem with
+
+01:41:09.660 --> 01:41:13.500
+[Guest 2]: that. But we'll talk about that at another time. Exactly. And it's presumptive laissez faire,
+
+01:41:13.500 --> 01:41:18.060
+[Guest 2]: it's not necessarily laissez faire. You have to think about what we have now, which is presumptive
+
+01:41:18.060 --> 01:41:23.660
+[Guest 2]: statism. You know, the presumption among Indian policy elites is that they should have everything
+
+01:41:23.660 --> 01:41:28.060
+[Guest 2]: which the United States have. And there's two problems with that. One is the United States
+
+01:41:28.060 --> 01:41:34.220
+[Guest 2]: should have more laissez faire. That's problem number one. We're far too regulated in the U.S.,
+
+01:41:34.220 --> 01:41:38.460
+[Guest 2]: including many of the same problems and housing regulation and so forth. So that's problem number
+
+01:41:38.460 --> 01:41:44.860
+[Guest 2]: one. Problem number two is even if the U.S. had perfect regulation for a country of its GDP per
+
+01:41:44.860 --> 01:41:52.540
+[Guest 2]: capita, that does not translate into India, which has much lower GDP per capita. And it's not about,
+
+01:41:52.540 --> 01:41:56.860
+[Guest 2]: you know, the U.S. is great and India is not or something like that, because
+
+01:41:56.860 --> 01:42:02.460
+[Guest 2]: if the U.S. had lower GDP per capita, it should regulate less, too. And in fact,
+
+01:42:02.460 --> 01:42:08.220
+[Guest 2]: when the U.S. had lower GDP per capita, it did regulate a lot less. You could even argue that
+
+01:42:08.220 --> 01:42:13.820
+[Amit Varma]: some of that, you know, regulating less led to their higher GDP per capita. Absolutely. Absolutely.
+
+01:42:13.820 --> 01:42:19.820
+[Guest 2]: There may be a development path. And I think part of the problem is, is that people look around and
+
+01:42:19.820 --> 01:42:26.300
+[Guest 2]: they think, oh, we can skip the laissez faire period. We don't have to do what every other
+
+01:42:26.300 --> 01:42:31.580
+[Guest 2]: country did to become rich. So the countries which became rich all had kind of this laissez faire
+
+01:42:31.580 --> 01:42:37.420
+[Guest 2]: period, you know, Great Britain and the United States and Canada and so forth. And if you look
+
+01:42:37.420 --> 01:42:42.780
+[Guest 2]: around and you say, oh, well, we could just skip that and go straight to having, you know, middle
+
+01:42:42.780 --> 01:42:48.940
+[Guest 2]: of the road, mixed economy regulation, that I think is a mistake. There's a learning period.
+
+01:42:48.940 --> 01:42:54.700
+[Guest 2]: And laissez faire is part of the learning. You know, you need to get your police officers to
+
+01:42:54.700 --> 01:43:01.580
+[Guest 2]: be able to enforce a 50 rupee fine before they're able to enforce a 500 rupee fine.
+
+01:43:01.580 --> 01:43:08.060
+[Guest 2]: So first start small. That may be much better. And if you try and do the 500 rupee fine right away,
+
+01:43:08.700 --> 01:43:13.180
+[Guest 2]: then it's going to be subject to bribery. It's not going to work. Then the police officer is
+
+01:43:13.180 --> 01:43:17.820
+[Guest 2]: going to say, do you want the 500 rupee fine or do you want to pay me 100 now? And I'll forget
+
+01:43:17.820 --> 01:43:25.020
+[Guest 2]: about it. So that's the type of thing which when you entice the police officer with a possibility
+
+01:43:25.020 --> 01:43:30.460
+[Guest 2]: of having the income much higher than their wages, then you're naturally going to create a system of
+
+01:43:30.460 --> 01:43:36.300
+[Guest 2]: corruption. If instead you keep the fines low and just for, you know, the worst offenses,
+
+01:43:36.940 --> 01:43:42.700
+[Guest 2]: then the police officer is not tempted into corruption. So you need the whole laissez
+
+01:43:42.700 --> 01:43:48.220
+[Guest 2]: faire process is a learning process in which you develop state capacity.
+
+01:43:48.220 --> 01:43:53.580
+[Guest 1]: And the 500 rupee fine is also symptomatic of weak state capacity. What we've done is,
+
+01:43:53.580 --> 01:43:59.820
+[Guest 1]: as we know, right, there is a for any kind of punishment or any activity that one that the
+
+01:43:59.820 --> 01:44:04.300
+[Guest 1]: state wants one to avoid. There's the question of the probability of getting caught and the
+
+01:44:04.300 --> 01:44:09.900
+[Guest 1]: penalty of that particular action. Right now in India, we keep increasing the penalties
+
+01:44:09.900 --> 01:44:14.300
+[Guest 1]: because the probability of getting caught and prosecuted is very low. Right. And why is the
+
+01:44:14.300 --> 01:44:18.380
+[Guest 1]: probability of getting caught and prosecuted very low? Because we have very low state capacity.
+
+01:44:18.380 --> 01:44:23.740
+[Guest 1]: So we keep increasing the number of years of punishment, pretty much every activity from
+
+01:44:23.740 --> 01:44:29.660
+[Guest 1]: pulling the chain in a train, the emergency chain. Right. Everything has six months or more
+
+01:44:29.660 --> 01:44:34.940
+[Guest 1]: of imprisonment as a penalty. Everything has really high fines. So we are actually
+
+01:44:34.940 --> 01:44:41.820
+[Guest 1]: incentivizing all our state actors at the lower levels of governance to turn criminal because we
+
+01:44:41.820 --> 01:44:47.980
+[Guest 1]: haven't appropriately thought about how we optimize limited state capacity. And then when we
+
+01:44:47.980 --> 01:44:53.180
+[Guest 1]: substitute limited or weak state capacity with these other big fines, we have this huge problem,
+
+01:44:53.180 --> 01:44:59.580
+[Guest 1]: which is skipping the development step when it comes to state enforcement of basic things.
+
+01:44:59.580 --> 01:45:05.820
+[Guest 2]: And when you have a 50 rupee fine or a 10 rupee fine, that can be enforced pretty equally.
+
+01:45:05.820 --> 01:45:09.740
+[Guest 2]: When you have a 500 rupee fine, that is never going to be enforced equally at this stage.
+
+01:45:09.740 --> 01:45:14.860
+[Amit Varma]: Forget a 500 rupee fine where I live in Mumbai in the seven bungalows area, there is now
+
+01:45:14.860 --> 01:45:19.900
+[Amit Varma]: a new local fine that has come up, which is 20,000 rupees for cars which are parked wrongly.
+
+01:45:19.900 --> 01:45:23.660
+[Amit Varma]: The result, of course, is that no one I guarantee you will ever pay that fine.
+
+01:45:23.660 --> 01:45:26.540
+[Amit Varma]: Yeah, but you know, but the rent seeking is great.
+
+01:45:26.540 --> 01:45:30.700
+[Amit Varma]: 20,000 rupees is a down payment for some of these cars. What are they talking about?
+
+01:45:30.700 --> 01:45:34.860
+[Amit Varma]: Ludicrous. It's some mad figure like that. I forget the exact number. It happened to a friend
+
+01:45:34.860 --> 01:45:38.300
+[Amit Varma]: and I was like, and she was like, oh, I paid a thousand buck bribe. Earlier,
+
+01:45:38.300 --> 01:45:40.460
+[Amit Varma]: it would have been a 200 buck bribe for her, you know.
+
+01:45:41.260 --> 01:45:45.420
+[Guest 1]: Yeah, so the only thing we're doing is we are making the system more corrupt
+
+01:45:45.420 --> 01:45:46.460
+[Amit Varma]: and more geared towards rent seeking.
+
+01:45:46.460 --> 01:45:51.020
+[Amit Varma]: And you're also incentivizing cops, look at these lucrative rent seeking opportunity
+
+01:45:51.020 --> 01:45:54.940
+[Amit Varma]: instead of doing the kind of policing you would actually like them to do.
+
+01:45:54.940 --> 01:45:59.500
+[Amit Varma]: So I have a couple of questions here. One is that I'm trying to imagine myself in a
+
+01:45:59.500 --> 01:46:04.300
+[Amit Varma]: policymaker's position where I have limited resources and even my own intellectual bandwidth
+
+01:46:04.300 --> 01:46:10.860
+[Amit Varma]: is limited. Now, given the complexity of the actual world, isn't this kind of elite imitation
+
+01:46:10.860 --> 01:46:16.220
+[Amit Varma]: rational, as designing something new from scratch will always, A, it will require me
+
+01:46:16.220 --> 01:46:21.500
+[Amit Varma]: to absorb a lot of local knowledge, two, it will bring its own set of unintended consequences.
+
+01:46:21.500 --> 01:46:25.020
+[Amit Varma]: And I can simply cover my ass by using a policy that
+
+01:46:25.020 --> 01:46:28.700
+[Amit Varma]: allows me to posture successfully that I'm doing something about the problem.
+
+01:46:29.260 --> 01:46:35.180
+[Guest 1]: Yes, I mean, it is rational in the sense that we respond to incentives. And as an academic or as
+
+01:46:35.180 --> 01:46:40.140
+[Guest 1]: an elite policymaker with the IAS, my best incentives might be to think about single
+
+01:46:40.140 --> 01:46:44.540
+[Guest 1]: use plastic ban because that'll get me invited to a nice conference, you know, speaking to
+
+01:46:44.540 --> 01:46:48.780
+[Guest 1]: other environmentalists who share my ideas and you know, things like that. So in that sense,
+
+01:46:48.780 --> 01:46:53.820
+[Guest 1]: it's rational that, you know, the means and ends are pretty, pretty tight, and it makes
+
+01:46:53.820 --> 01:47:00.940
+[Guest 1]: sense for them to do it. It is irrational, in that they are expecting completely different
+
+01:47:00.940 --> 01:47:07.100
+[Guest 1]: results, which have nothing to do with the logic of their actions, right? So expecting India to be
+
+01:47:07.100 --> 01:47:12.220
+[Guest 1]: open defecation free, because we distributed a bunch of toilets, that is completely irrational,
+
+01:47:12.220 --> 01:47:17.020
+[Guest 1]: because, you know, you can do it for your own personal reasons, but then don't expect
+
+01:47:17.020 --> 01:47:20.140
+[Guest 1]: the policy outcome. So that's what I would say about the...
+
+01:47:20.140 --> 01:47:24.460
+[Amit Varma]: But often there's a mismatch between the rewards that policymakers get in the actual policy
+
+01:47:24.460 --> 01:47:28.220
+[Amit Varma]: outcomes, right? Because a policy outcome may happen years down the line, they've moved on
+
+01:47:28.220 --> 01:47:32.860
+[Amit Varma]: to some other department, you know, yesterday's education secretary will be tomorrow's transport
+
+01:47:32.860 --> 01:47:37.740
+[Amit Varma]: secretary. So, you know, why not just do the safe thing, not do anything drastic,
+
+01:47:37.740 --> 01:47:42.220
+[Amit Varma]: take the least effort possible, and you can posture and get invited to conferences.
+
+01:47:42.220 --> 01:47:46.780
+[Guest 1]: Yes, and no. You know, when I meet IAS officers, they also tend to deeply care.
+
+01:47:46.780 --> 01:47:51.180
+[Guest 1]: Now, we have to remember, these are career civil servants, right? They've gone from department to
+
+01:47:51.180 --> 01:47:54.860
+[Guest 1]: department looking at different kinds of problems. They've served at the district magistrate level,
+
+01:47:54.860 --> 01:47:59.420
+[Guest 1]: they've seen some of the ground reality, even though a very, very long time ago,
+
+01:47:59.420 --> 01:48:05.660
+[Guest 1]: it might not be the relevant reality of today. But they really seem to care that policies that
+
+01:48:05.660 --> 01:48:11.660
+[Guest 1]: they work on do have the intended result. And I also see a lot of frustration among elites
+
+01:48:11.660 --> 01:48:17.340
+[Guest 1]: Indian policymakers, when the policies that they do care about don't have the intended outcome,
+
+01:48:17.340 --> 01:48:22.780
+[Guest 1]: right? So, I would ascribe the best of public spirited intentions to them,
+
+01:48:22.780 --> 01:48:25.820
+[Guest 1]: and say that we still have this problem of elite imitation.
+
+01:48:25.820 --> 01:48:30.540
+[Amit Varma]: No, and actually, our government services filled with talented, really smart, well meaning people,
+
+01:48:30.540 --> 01:48:34.860
+[Amit Varma]: I have to tell you this, I was we are recording this on Feb 10, I was at the Witherba Lit Fest
+
+01:48:35.740 --> 01:48:40.700
+[Amit Varma]: yesterday in Nagpur, and there's an income tax training academy there. And a couple of students
+
+01:48:40.700 --> 01:48:45.420
+[Amit Varma]: from that academy came and they asked me some great questions, quoting from my episodes. And
+
+01:48:45.420 --> 01:48:49.100
+[Amit Varma]: then finally, they said they were big fans, and they made me sign on a piece of paper,
+
+01:48:49.100 --> 01:48:50.780
+[Amit Varma]: the words taxation is theft.
+
+01:48:51.340 --> 01:48:53.340
+[Guest 1]: Please don't name them and get them fired.
+
+01:48:53.340 --> 01:48:58.380
+[Amit Varma]: Absolutely not. Indoctrinate the deep state. Now, my final question actually moves away.
+
+01:48:58.380 --> 01:49:03.660
+[Guest 2]: Let me just answer a brief point on that issue. And that is this, you know, in many places in the
+
+01:49:03.660 --> 01:49:11.100
+[Guest 2]: world, in the US and places in particular, we have a not invented here mindset, which means that if
+
+01:49:11.100 --> 01:49:17.580
+[Guest 2]: it wasn't invented here, it must be no good. But actually, India often has my experiences, if it
+
+01:49:17.580 --> 01:49:25.340
+[Guest 2]: was not invented here, if it was invented here, it's no good. And often, I think India tries to
+
+01:49:25.340 --> 01:49:31.980
+[Guest 2]: import too much, a little bit of a invented here is good would be I think, a pro mindset.
+
+01:49:31.980 --> 01:49:36.700
+[Amit Varma]: No, and there's a little bit of like, for example, the free rider effect there in the sense that why
+
+01:49:36.700 --> 01:49:41.340
+[Amit Varma]: do all the hard work and research, why not free ride on the sort of findings of others?
+
+01:49:41.340 --> 01:49:45.740
+[Guest 1]: Oh, yeah, free riding reminds me of something fantastic I read in Ajay Shah's book,
+
+01:49:45.740 --> 01:49:51.340
+[Guest 1]: and Vijay Kelkar's book, and we had a chat about it. And one of the points that they discuss is
+
+01:49:51.340 --> 01:49:57.580
+[Guest 1]: to relieve certain areas of Indian state capacity to do other things better, India should just free
+
+01:49:57.580 --> 01:50:03.500
+[Guest 1]: ride on the regulatory capacity of other countries. So if something is FDA approved, India should just
+
+01:50:03.500 --> 01:50:07.980
+[Amit Varma]: adopt it. No other questions asked. Because they overregulate madly. So if they've approved it,
+
+01:50:07.980 --> 01:50:13.020
+[Guest 1]: it's fine. Exactly. So they overregulate, you know, maybe it's not optimal, or, you know,
+
+01:50:13.020 --> 01:50:17.500
+[Guest 1]: efficient in the market sense. But it's efficient for India to adopt it because it frees up an
+
+01:50:17.500 --> 01:50:22.540
+[Guest 1]: enormous amount of food safety regulation in you know, in terms of how much of the budget goes
+
+01:50:22.540 --> 01:50:27.020
+[Guest 1]: towards it, in terms of how many officers are employed towards it. So according to me, and even
+
+01:50:27.020 --> 01:50:33.020
+[Guest 1]: I wrote about this, I think state capacity freed is state capacity built. Right. So in that sense,
+
+01:50:33.020 --> 01:50:38.620
+[Guest 1]: any area where we can free ride on state capacity of first world, Alex has made a similar argument
+
+01:50:38.620 --> 01:50:45.420
+[Guest 1]: on visas, where he says that, you know, if 182 countries can go to Germany without a visa,
+
+01:50:45.420 --> 01:50:50.380
+[Guest 1]: it should be good enough for India, right? What's the problem? So you just let them come to India,
+
+01:50:50.380 --> 01:50:55.020
+[Guest 1]: same as before. Now you can have additional visa requirements if someone needs a work permit or
+
+01:50:55.020 --> 01:50:59.340
+[Guest 1]: longer stays and things like that, or, you know, to move towards permanent residency, and so on,
+
+01:50:59.340 --> 01:51:07.500
+[Guest 1]: so forth. But just to visit India, the kind of requirements you have, you must fulfill to get
+
+01:51:07.500 --> 01:51:14.300
+[Guest 1]: the visa is quite annoying. And the typical first world rich elite traveler couldn't be bothered
+
+01:51:14.300 --> 01:51:20.220
+[Guest 1]: with filling forms in triplicate and providing the birthplace of mother and father, you know,
+
+01:51:20.220 --> 01:51:24.620
+[Guest 1]: bank statements and all of those things. If they have an American or Canadian or German or you
+
+01:51:24.620 --> 01:51:31.340
+[Guest 1]: know, any one of those 180 passports should be good for us. And that will really boost tourism.
+
+01:51:31.340 --> 01:51:36.780
+[Guest 1]: So in the in this sense, we could actually free up a lot of Indian state capacity by free riding.
+
+01:51:37.500 --> 01:51:41.100
+[Amit Varma]: Right, and you have five minutes left, because you have to take a metro to Noida before you
+
+01:51:41.100 --> 01:51:46.940
+[Amit Varma]: catch a flight later in the evening. So not so elite after all, but however, catching a flight
+
+01:51:46.940 --> 01:51:51.340
+[Amit Varma]: later in the evening to back to the US. So very, very, very elite. I mean, two hours is like way
+
+01:51:51.340 --> 01:51:55.820
+[Amit Varma]: too short for a podcast, I almost feel like what it's only good for soundbites. But there was one
+
+01:51:55.820 --> 01:52:00.620
+[Amit Varma]: thing I would have asked you to elaborate on a little longer. And I will quickly ask your comments
+
+01:52:00.620 --> 01:52:05.820
+[Amit Varma]: on that, which is since you're an expert on it, on that subject called the Constitution, that,
+
+01:52:05.820 --> 01:52:08.620
+[Amit Varma]: you know, what's the Constitution and example of elite imitation?
+
+01:52:09.500 --> 01:52:17.740
+[Guest 1]: Ah, yes and no. To some extent it is, because until then, all the constitutions were not written
+
+01:52:17.740 --> 01:52:23.420
+[Guest 1]: for a context like India, right? So India is not a country subcontinent had enormous amount of
+
+01:52:23.420 --> 01:52:29.020
+[Guest 1]: ethnic, caste and linguistic fractionalization. But we try to bring it under one umbrella.
+
+01:52:29.020 --> 01:52:36.620
+[Guest 1]: And we try to, as far as possible, create systems, right, like a parliamentary system,
+
+01:52:36.620 --> 01:52:41.500
+[Guest 1]: separation of powers, you know, judicial review, these are just systems that were in some sense
+
+01:52:41.500 --> 01:52:47.580
+[Guest 1]: alien to India, right? So we created, you know, the idea of checks and balances of three different
+
+01:52:47.580 --> 01:52:51.900
+[Guest 1]: branches of government, Westminster procedure, when it comes to parliamentary procedure,
+
+01:52:51.900 --> 01:52:59.340
+[Guest 1]: all of this in some sense is colonial heritage or elite imitation, right? But the constitutional
+
+01:52:59.340 --> 01:53:05.660
+[Guest 1]: framers were not just elites, right? They represented pretty much every aspect of Indian
+
+01:53:05.660 --> 01:53:09.340
+[Guest 1]: life, though not in the proportions that I think were ideal, right? They weren't a perfect
+
+01:53:09.340 --> 01:53:14.940
+[Guest 1]: representation in terms of the census. But they had all kinds of representation in terms of
+
+01:53:14.940 --> 01:53:19.820
+[Guest 1]: different ideologies, like you had people from Hindu Mahasabha, you also had people who were,
+
+01:53:19.820 --> 01:53:25.500
+[Guest 1]: you know, atheist communists, right? So Indian, if you look at the oath to take office in India,
+
+01:53:25.500 --> 01:53:30.540
+[Guest 1]: an atheist can also take the oath of office to any government position, because you don't have
+
+01:53:30.540 --> 01:53:36.300
+[Guest 1]: to take the oath to whatever God you believe in, right? That's a really odd thing about Indian
+
+01:53:36.300 --> 01:53:40.460
+[Amit Varma]: constitutional framing. This is music to my ears as an atheist. But also, I don't believe in the
+
+01:53:40.460 --> 01:53:45.340
+[Amit Varma]: false religion of government. So I don't think I would be taking that oath. But fair enough.
+
+01:53:45.340 --> 01:53:52.300
+[Guest 2]: But some elite imitation can be good. And I admire most about, you know, the Indian founders and
+
+01:53:52.300 --> 01:53:59.820
+[Guest 2]: Nehru and Bekar and Gandhi is they did imitate, you know, free speech issues, the secularism,
+
+01:53:59.820 --> 01:54:06.780
+[Guest 2]: openness to all religions, and so forth. It's very, very, very impressive. And that is something
+
+01:54:06.780 --> 01:54:10.300
+[Amit Varma]: which I think they got right. I mean, you could even argue that in some cases, elite imitation
+
+01:54:10.300 --> 01:54:15.420
+[Amit Varma]: is required, because the argument would be that we were and are in many ways a very illiberal
+
+01:54:15.420 --> 01:54:21.820
+[Amit Varma]: society, then and the Constitution by imposing that kind of liberalism, paradoxically, might
+
+01:54:21.820 --> 01:54:27.740
+[Amit Varma]: also play a part in, ironically, in allowing that illiberalism to gain political dominance,
+
+01:54:27.740 --> 01:54:32.300
+[Guest 1]: but that's a different matter. I have something to add here, there was elite imitation,
+
+01:54:32.300 --> 01:54:37.500
+[Guest 1]: but the elites of the time did not sound and look like the elites of today. Right? All the people
+
+01:54:37.500 --> 01:54:42.540
+[Guest 1]: were talking about Gandhi, Nehru, Ambedkar, they spoke multiple languages. They read and wrote in
+
+01:54:42.540 --> 01:54:48.780
+[Guest 1]: their regional language. In fact, the Constituent Assembly debates are mind blowing. In the sort of
+
+01:54:48.780 --> 01:54:54.780
+[Guest 1]: diversity. So Ambedkar might have made fantastic speeches in English, but he also spoke Gujarati
+
+01:54:54.780 --> 01:54:59.900
+[Guest 1]: and he could also convey everything he wanted to convey in Gujarati pretty much at the same if not
+
+01:54:59.900 --> 01:55:07.100
+[Guest 1]: a higher standard of eloquence, right? Same with Gandhi, right? Nehru was excellent in Hindi. So
+
+01:55:07.100 --> 01:55:14.140
+[Guest 1]: this is not today's Indian elite, right? So today's Indian elite is not speaking and communicating in
+
+01:55:14.140 --> 01:55:18.700
+[Guest 1]: three different languages. They did not grow up, they don't go back to their ancestral village,
+
+01:55:18.700 --> 01:55:23.020
+[Guest 1]: you know, so on and so forth. So I do want to say that even though there was elite imitation,
+
+01:55:23.020 --> 01:55:29.580
+[Guest 1]: the Indian constitutional framers were deeply rooted in Indian culture, right? They had been
+
+01:55:29.580 --> 01:55:34.220
+[Guest 1]: through the beats of the Indian system. Now, yes, Gandhi didn't live in a village. And you know,
+
+01:55:34.220 --> 01:55:39.180
+[Guest 1]: he grew up in cities, Ambedkar had more village experience. So you might have diversity like that.
+
+01:55:39.180 --> 01:55:44.300
+[Guest 1]: You also had princes and kings, right, who had spent their summers, you know, hanging out in
+
+01:55:44.300 --> 01:55:49.820
+[Guest 1]: London, and who had been to Eton and, you know, well versed with the British liberal tradition
+
+01:55:49.820 --> 01:55:55.900
+[Guest 1]: and the Magna Carta. So you have all sorts of people. But you also have people from backward
+
+01:55:55.900 --> 01:56:01.580
+[Guest 1]: castes, right? You also have tribal representation, though as not in as many, like not the numbers that
+
+01:56:01.580 --> 01:56:06.540
+[Guest 1]: one would like. So the Indian constitutional framers might have been the elites of their time.
+
+01:56:06.540 --> 01:56:13.740
+[Guest 1]: But the elites of our time are not a patch on them, right? So just in terms of lived experience,
+
+01:56:13.740 --> 01:56:18.060
+[Guest 1]: language, and how rooted they were in Indian culture, so they only borrowed the very best,
+
+01:56:18.060 --> 01:56:23.580
+[Guest 1]: and they knew how to distinguish that. But at the same time, I mean, everyone does
+
+01:56:23.580 --> 01:56:28.300
+[Guest 1]: what they can do. The only thing I would say to the Indian elites of today, and I would include
+
+01:56:28.300 --> 01:56:35.420
+[Guest 1]: myself in this category, is we need to pay more attention to who the median Indian is.
+
+01:56:35.420 --> 01:56:40.380
+[Amit Varma]: And we need in general, more intellectual humility, I think. Alex, let me end by asking you
+
+01:56:40.380 --> 01:56:45.420
+[Amit Varma]: the last question, which is that you're someone who has spent a fair amount of time in India.
+
+01:56:45.420 --> 01:56:49.660
+[Amit Varma]: Now, you know, you spent a few months in Mumbai, when we last recorded the episodes we did. Now,
+
+01:56:49.660 --> 01:56:54.620
+[Amit Varma]: you've been here for a while teaching a course on public choice theory. What is it about the
+
+01:56:54.620 --> 01:56:59.420
+[Amit Varma]: Indian policy environment or the Indian economic environment that sort of excites you? Which is,
+
+01:56:59.420 --> 01:57:04.460
+[Amit Varma]: you know, what is exciting about it? What is scary about it? Looking from the outside and also from
+
+01:57:04.460 --> 01:57:09.660
+[Amit Varma]: the inside, in a sense that what has been happening over the last few years? What gives you hope and
+
+01:57:09.660 --> 01:57:14.540
+[Guest 2]: what gives you despair? So I think what's interesting and exciting about India is that
+
+01:57:14.540 --> 01:57:20.780
+[Guest 2]: many decisions are being made today, which are going to influence future generations. India has,
+
+01:57:20.780 --> 01:57:27.020
+[Guest 2]: you know, multiple paths, and which path is taken today? Think about urbanization. When you lay down
+
+01:57:27.020 --> 01:57:33.340
+[Guest 2]: the bones of a city, those byways, they will remain there for the next hundreds of years.
+
+01:57:33.340 --> 01:57:38.940
+[Guest 2]: You know, like London today, you can still see London from hundreds of years ago. So these
+
+01:57:38.940 --> 01:57:45.580
+[Guest 2]: decisions, you only urbanize once, okay? A country only urbanizes once. And we're seeing that in
+
+01:57:45.580 --> 01:57:51.180
+[Guest 2]: India today. We're seeing lots and lots of policy decisions, which can have a tremendous influence
+
+01:57:51.180 --> 01:57:57.260
+[Guest 2]: on millions and millions of people's lives. So I think India is an amazing place to think about
+
+01:57:57.260 --> 01:58:03.260
+[Guest 2]: policy, because there's so many possibilities which are open to it. The United States,
+
+01:58:03.260 --> 01:58:09.900
+[Guest 2]: in contrast, is fixed. It's like the Titanic, or like an oil tanker. Maybe it's the Titanic,
+
+01:58:09.900 --> 01:58:14.060
+[Guest 2]: we don't know yet. But whether it's an oil tanker or the Titanic, it's hard to move,
+
+01:58:14.060 --> 01:58:19.420
+[Guest 2]: it's hard to change. Well, so many more possibilities seem open to India. India can
+
+01:58:19.420 --> 01:58:25.020
+[Guest 2]: be so much different, so much more. And that this is happening now, I think makes India very exciting
+
+01:58:25.020 --> 01:58:29.900
+[Amit Varma]: to a person interested in policy. You just lifted my mood up with that note of hope.
+
+01:58:29.900 --> 01:58:35.180
+[Amit Varma]: Guys, thanks so much for coming on the show. Great to be here. Thank you.
+
+01:58:59.900 --> 01:59:01.180
+[Amit Varma]: Thank you for listening.
+

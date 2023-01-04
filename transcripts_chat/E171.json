@@ -1,0 +1,622 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Programs like Make in India and Skill India may be very popular in the country today, but the truth of the matter is that economic growth usually happens in spite of the government and not because of it. Society solves its own problems and markets are the mechanism by which that happens. Back in the day, if you were a young entrepreneur who wanted to start a business, you would have to maybe put your own savings into it or try and take a loan from a bank or convince elders in your community to help you out. There was friction in all of this. It was hard to reach scale and completely wild ideas that had a 1% chance of changing the world, but a 99% chance of failing would never get through. But over the last few decades, we have seen the rise of venture capital and angel investing with rich people pooling their money to fund new businesses or successful businessmen with lived experience, offering their own money and guidance to early stage companies. The utility of this is obvious. In a nutshell, it is rational for me to give 10 rupees each to 10 companies if one of them makes 110 rupees, even if all the others fail. This makes moonshot ideas more likely to get funded and failure does not carry a stigma with it anymore. And indeed, so many of the giant companies that dominate the world today, like Google and Amazon and Facebook, have depended on just this kind of funding model to reach their present heights. Of course, many big mistakes have been made by people with money, and some of SoftBank's multi-billion misadventures come to mind, as do much hyped unicorns that seem more like a Ponzi scheme than a legit business. But this is the beauty of capitalism. There is space to make mistakes, and many companies and venture funds will indeed crash and fail, just as many won't. And in the end, society will be better off."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:59.200",
+        "message": "Welcome to the scene and the unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Verma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:11.040",
+        "message": "Welcome to the scene and the unseen. The topic of today's episode is the startup ecosystem in India. And my guest is my friend, Mohit Satyanand. Mohit's been on the show before in a very popular episode from last year about two economic crisis of 2007 and 2019. We discussed his personal journey at some length in that episode, but not so much his journey as an early stage investor and mentor to young companies, which is a significant part of how he spends his time these days. Given his background understanding of the economy, and indeed our society, I've always found his insights on our startup ecosystem to be sharp and illuminating. So this conversation was overdue. Before we get to it, though, let's take a quick commercial break. If you enjoy listening to the scene and the unseen, you can play a part in keeping the show alive. The scene and the unseen has been a labor of love. I've enjoyed putting together many stimulating conversations, expanding my brain and my universe, and hopefully yours as well. But while the work has been its own reward, I don't actually make much money off the show. Although the scene and the unseen has great numbers, advertisers haven't really woken up to the insane engagement level of podcasts. I do many, many hours of deep research for each episode, besides all the logistics of producing the show myself, scheduling guests, booking studios, paying technicians, the travel and so on. So well, I'm trying a new way of keeping this thing going. And that involves you. My proposition for you is this. For every episode of the scene and the unseen that you enjoy, buy me a cup of coffee, or even a lavish lunch, whatever you feel it's worth. You can do this by heading over to seen unseen.in slash support and contributing an amount of your choice. This is not a subscription. The scene and the unseen will continue to be free on all podcast apps and at seen unseen.in. This is just a gesture of appreciation. Help keep the scene going. Seen unseen.in slash support. Mohit, welcome to the scene and the unseen. Thanks so much. Mohit, in the last episode we did together, we spoke a lot about your journey through life in general, and we covered a vast sweep of time. I mean, before I come to journey of your last five years as an early stage investor and mentor and so on, you were once an entrepreneur yourself decades ago. Tell me a bit about that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:35.960",
+        "message": "Wow. My journey to entrepreneurship began in a way which was sort of in between being an employee and an entrepreneur. So a very dear school and college friend of mine who joined the family business on finishing college was very unhappy that I was going off to Bombay to work in a multinational. The multinational was Hindustan Lever, partly because you treasured your friends and you wanted them to live close to you. And partly because he thought that I could do more for him and his family business than I could for Hindustan Lever. And he was absolutely right. I was very reluctant because family business in the 70s was almost a pejorative. It was assumed that it would be corrupt, that black money would be generated, that these were greedy people and so on and so forth. So it was not a leap that I was willing to make quite apart from the fact that it had the word family associated with it and I didn't see myself getting involved with all kinds of peculiar and difficult relations. But four years later, my friend, whose name was also Mohit, came to Bombay and said, let's have a drink. And I immediately knew that this was more than just a drink. And about half an hour later, he couldn't contain himself and said, look, I have an offer for you. There's no family left in the family business. It's just me. And I know that you don't want to get involved with what we do. So why don't you come and start something new for me? And this is the amount of money I have available. I said, yes, on the spot. No questions about what, how much money, what he would pay me. In fact, he was taken aback and said, don't you want to know how much I'm going to pay you? I'm sure you'll pay me well, not an issue. And he actually said, I will ensure that there's no interference between the existing ecosystem, the company I run, and what you do. You're on your own. And I spent a very interesting year and a half or two looking at various areas. It was a completely open. Here in Delhi, in 81. And to cut a long story short, we ended up setting up India's first successful packaged snack. It's interesting, actually, that we should be recording this now in February 2020, because that journey, which began with the launch of this product cracks in 1984, has for us, both for Mohit and me, just ended because they sold the company at a valuation of 1250 crores to an American private equity firm. So now it's very interesting, actually, and I'm perhaps preempting some of the questions that you're going to ask to contrast 1981-84 with 2014-20. Because in that particular case, I got a salary. I was to get a share of the profits, as in when the company made profits, but I was primarily an employee. You didn't own a piece of the company. No, I didn't own a piece of the company. There was no company. In fact, it was a division of the existing company. Today, a bright and lucky young man, Mohit 2.0, would say, I want to set up a new company manufacturing space-age snacks. And he wouldn't go to somebody with a project and say, will you invest the money? He would get the idea rolling, and he would go out to a bunch of angels like me and say, I've got this business. I've got this idea. Do you want 10 or 20% of it? You need to put two crores down, which means that 35 years later when that exit took place, he would own 80% of the company, not none of it like I did. That's a sea change, where it's the idea that's powerful and the money that's less powerful. So the startup ecosystem has completely flipped the model. The money is not the constraint any longer. It's the idea and the ability to see the idea through that becomes the winner."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:22.080",
+        "message": "And just thinking aloud from what you said, that your friend told you, okay, start something new for me. I have so much money. I won't interfere. And you said, okay. And there was no idea at that point. There was just the entrepreneurial urge. How common is it for you to find entrepreneurs who are driven, for example, by this entrepreneurial urge and the idea comes later? Like, I guess there are two ways of doing it. One is there is a problem that you want to solve and you have an idea on how to solve it. And then you become"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:50.220",
+        "message": "an entrepreneur. I don't know the answer to that question. I mean, because there's always a selection bias and I'm meeting people who already have an idea to, you know, I'm not meeting people who say, you know, I want to do something. What should I do? They don't come to me. They come to me because they know that I'm in the ecosystem. I am willing to"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:07.960",
+        "message": "back good ideas or early stage. So they would not tell you that the process of their arriving at the idea was right. And so you've kind of spoken about how the ecosystem back then was so different between 81 and now. When did the change start happening? Is this something that started happening with the dot com boom when there were so many new startups and you know, the boom happened, much more money floating around? When did the model start to change?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:35.520",
+        "message": "I guess the seed was really planted then. But the momentum is really sort of less than a decade old. Numbers are not that easily available. But even in the last five years that I've been part of this ecosystem, what I've seen it mushrooming in terms of the number of startups that are funded, the number of platforms that exist to promote them, the number of incubators, the number of angels, all of that, I would say, point zero is really"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:11.200",
+        "message": "sort of 2010. That's when this whole thing starts going. And you weren't an entrepreneur for a long time, you sort of moved on, you did other things, you weren't sort of an informal entrepreneur in the sense, you started up things that you weren't starting up for money, like you were very involved in the music scene, you started up teamwork, you know, sense."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:30.320",
+        "message": "Well, you know, yeah, there are different kinds of entrepreneurship, there's social entrepreneurship. And I think one of the great joys of my life was the fact that I started working with street children. And in some ways, that's one of the toughest things that I did, working with street kids. And it was a startup, it was a startup in a very hostile environment, both physically, and in terms of the establishment, the police, the Juvenile Justice Act, etc, etc. But we made a lot of headway there, it became a pattern for me, that I worked on it for four or five years, and then handed it over to other people. It saw some rebranding, you could call it sort of mergers and acquisitions, without money being involved. It's now called the Salaam Balak Trust. It works with something like 5000 kids, has seven residential centers. So, you know, I read somewhere very recently, and unfortunately, I can't attribute it, which says that entrepreneurship is like a cry to the environment. I exist, you need to recognize me. And the way you recognize me is for what I do. I would never have been able to articulate this about myself, because I don't see myself as being aggressive or needing to prove myself. But there may be something there. But as far as I'm concerned, it was a need that existed out there. And I was answering that need. So it was coming from a place of compassion, not from a place of aggression or the need to prove myself. The other thing that you alluded to, which was working with musicians, it came from a very funny place, which was that because I'd already started teamwork, and I also had this background of working in theater, and managing an extremely prolific theater group, which was the theater action group with Barry John. My sister and her friends were amateur musicians, good musicians, but amateur. And we arranged this really successful concert for them. There were 500 people. It was just one of those things that you felt really good about. And we had a lunch the next day to celebrate. And my sister said to me very, very woefully, she said, you know, it's such a shame. Because of your ability, we've had two or three such wonderful concerts. And there are so many really talented full time musicians out there, and they don't get a platform. And so I said, do something about it. And she said, it's very easy to say do something about it. I said, then we'll do something about it. So it literally began as that. So again, it wasn't coming from this place of, you know, I exist, and therefore, the world must recognize me came from a somewhat different place, it became from the desire to do something to address a need which you knew you had the ability. And so Friends of Music was born, it became a very, very successful movement. A lot of bands, I would say, even if they weren't created by it, they were certainly formed by it. I know that success has many fathers. So I don't want to claim success for bands like Indian Ocean or Parikrama or musicians like Mohit Chauhan, but they all came of age there, had many concerts over there and played a role. And meanwhile, we also started teamwork, which now is best recognized for the Jaipur Literature Festival, but that's not why it came about. It came about partly because my partner Sanjoy and I both wanted to spend more time in theater, specifically, and the performing arts in general, knew that that couldn't exist with a full time job, a full time corporate job, but also knew that theater and supporting the arts didn't put money on the table. And therefore, you needed to find some commercial activity. And so teamwork was born. To do a little bit of work in festivals, in producing films, we experimented a lot with what would work with us in this broad media area and so on. So again, it wasn't from this point of, I exist and therefore I must do something great. So what I'm really saying is that the drive for entrepreneurship can come from many different places. In our case, and in all the things that I did, it didn't come from, I can do something, I will do it, it came from, there's an obvious need over there. And I think I can do something about it. And so I guess what I'm saying is I'm not the archetypal entrepreneur, who has this driving need to create something to become rich, to become well known. But I'm an entrepreneur, nevertheless. So there are different kinds, I think, of entrepreneurs, you can't stab them all with an archetypal description."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:18.360",
+        "message": "KK. No, and that's a very interesting sort of line you quoted, because it would, like I would typically assume that in any field, entrepreneurship as much as any other, that sort of self aggrandizement, that need to cry, I exist, would actually be a bug and not a feature. But in this case, what it seems is that entrepreneurs, if they feel that urge, are finding a place for themselves in the world by fixing a hole in the universe, in"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:44.560",
+        "message": "terms of... MG That's a very good way of putting it, Amit. It doesn't cover all entrepreneurship, because I think some entrepreneurs, in fact, the ones who are best known today, actually expand the universe. They don't just plug a hole, they expand it. Take Elon Musk, for example. He's expanding the universe. Or certainly he's expanding our definition of the world we live in. Because, for example, it may not work. You talked about moonshot. He's gone one step further. He said, I want to have a Mars shot. So the world will include Mars. May or may not work. But there you are."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:26.640",
+        "message": "You need people to think like that, because that's the only way we actually progress. I was saving a couple of questions for later. But since we are on the subject of what drives entrepreneurs and entrepreneurship, I'll sort of ask them now. And my first question there is, is delusion or being self delusional, a key quality, a necessary quality for an entrepreneur? Like, for example, I think it's a necessary quality for any artist. Because when you start out your journey, you are actually very bad at whatever it is you want to spend the rest of your life doing. And if you knew how bad you were, you would not bother. However, because you're delusional about your own abilities, you keep doing it. And in a sense, you actually fake it till you make it. And just by iterating and doing it and learning, you become better at it. So is it the case that every entrepreneur must be delusional about the differences business can make?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:18.320",
+        "message": "No, Amit, I don't think so. I don't agree. I have now, you know, I've invested in about 30 startups. And out of those, I've interacted quite deeply with roughly half of the entrepreneurs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:35.120",
+        "message": "And And by quite deeply, of course, you mean you provide mentorship and all?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:38.680",
+        "message": "Not to all of them, but at varying levels. And I wouldn't call any of them delusional. Though I did mean it in a good way, mind you. No, no, no, I fully take that. But what I'm saying is that, at least in terms of what they reveal of their personalities, which I would say is a fair amount. I don't really find any of them to be overambitious or thinking about 10 years from now. That may be a bug. Because maybe, I mean, Elon Musk clearly thinks that way. And people talk very extensively about the reality distortion field that Steve Jobs commanded. So that means that people interact with him, probably thought that he was delusional. I don't know. But I've never"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:32.840",
+        "message": "actually met somebody like that. And my next question is, is humility a key quality of an entrepreneur? Because on the one hand, it must seem that if you want to fix a hole in the universe or expand it, so to say, you must have a lot of self belief. But at the same time, it strikes me that you also have the ability to learn and adapt and not let short term failure become an ego issue."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:55.320",
+        "message": "And you know, keep learning in that sense. I think humility is, is key. Knowing what your limitations are, is key. And not so much for the business itself, as for your own life. Because I think entrepreneurs, qua human beings, not qua the organizations that they seek to grow, can suffer very badly if they persevere in something well after it's become obvious, objectively, that it's not going to work. So I think when we talk about qualities such as humility, we don't look for binary. You know, you can't say he's humble and he's arrogant. I think you've got to find the right balance. If you're too humble, and you accept failure too soon, then by definition, you can start up is going to fold. So you know, I've seen, I've seen two startups and sort of parallel situations, one in which the entrepreneur folded, all of us who put money into it, exited with a complete write off. The other, where I think the situation was even more dire, in terms of cash availability, lack of business, etc, etc. But this young man was absolutely determined to make a success of it. It seemed almost willful. And yet, the last extra three months that he asked for, which I finally agreed personally to fund, the rest of the investors had just mentally written off the money that they'd made. It was just his tenacity that made me bet the last four and a half lakhs on him, which was a personal loan, you know, here you go. A lakh of rupees a month to support your salaries and 50,000 rupees a month for your personal expenditure, three months, and that's it. And three years later, today, that company has attracted funding from a US impact fund, and is now looking for VCs to put money into it. Depending on whose figure you believe that company is worth something like 30 to 40 crores today. And literally three years ago, the bank balance was 27,000 rupees. So here we're talking, not exactly about the question you asked of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:44.720",
+        "message": "humility. But it also actually pleasing to the self delusional bit that sometimes you are in such a corner that it would be rational for some to give up. Yeah, but you you just"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:55.720",
+        "message": "drive yourself and say no way. So it's, I think one of the most difficult things to do as an angel investor, somebody who evaluates ideas, companies, founders for whether to put money down, is to say, this mix of personal characteristics predict a higher rate of success. It's one needs to do it. But sometimes one gets very surprised. Let's go back to your"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:29.160",
+        "message": "sort of journey. Now, it's not as you mentioned in our personal conversations, as if you went straight from becoming an entrepreneur, and you make a lot of money, and then you decide to become an investor, your journey's been slightly different from that. Tell me a bit more about how you came to investing? Like, why did you decide to sort of become an angel"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:49.200",
+        "message": "stage investor and mentor? Yeah. So what's missing in between is, is my journey as an investor in public markets. So that I always dabbled a little bit in stock markets. But in 2003, and by that time, I was not actively running any of the three businesses that I helped to start up and which survived. I also invested in a fourth, which went bankrupt. I wasn't running any of these. I had by then taken a decision not to have an executive function anywhere. And I had a little bit of money, not a lot. But by then my father who had a small portfolio, he was a reasonably successful executive. He was into his 80s and had lost interest. And so I was asked by my mother to clean up his financial affairs. So I looked at that. I realized that I was getting entranced by the numbers and by my understanding of both the economy and how companies run. It turned out to also be a very fortuitous time because 2003 was sort of rock bottom for the Indian stock market and economy in terms of recovering from the dotcom bust of 2000. And the one thing that caught my eye as somebody who followed macroeconomics a little bit was that interest rates had never been so low in the history of independent India as they were in 2003. And I said, we're now looking at a boom in investing and therefore in equity markets. It turned out to be spot on because it took a while for that bull market phase to develop steam. But by 2005, it was full blown. 2007, 2008, of course, we saw it crash. But those were great years to get into this ecosystem wholeheartedly. And I was managing not the small sum of money that I had, but also my father's slightly larger sum of money. And despite the crash of 2007, 2008, which I partly anticipated because of my interest in macroeconomics, the period 2003 to 2015 was extraordinarily successful for me as an investor in terms of the kind of returns that I get. You know, that's very objective. There's the amount of money you had at the beginning, there's what you had at the end, there's the kind of percentage return you made, this is what the Nifty or any other index did, and you outperformed it consistently. So this was very objective. But in 2000, and it was actually Diwali 2014, when I did a cursory kind of review, and I recognized two or three things. The first is that this is done well. The second is that with a little bit of luck, I now have enough money that even if I don't manage this portfolio actively, that my needs for the rest of my life will get taken care of. The third was that you know what, I'm a little bored, because this almost seems too easy. I was sort of doing it without a lot of passion. There were sectors I understood, I knew how to invest in them, and so on. But there was also a different realization, which was that the world was changing. And I started off actually by looking at sectors which I knew well, and asking myself, am I missing something? And I said that if I look at the FMCG, the consumer goods sector, which is what I understand best, I can't invest in the leading confectionery brand in India, because that's Cadbury's, and that's privately owned by a multinational. I can't invest in the leading soft drinks companies in this country, Coke and Pepsi, because they're privately owned abroad. I can't invest in the leading ice cream manufacturer in this country, because it's a cooperative, Amul. I can't at that time invest in the leading aviation company in the country, Indigo, which was at that time privately owned. And this came as a bit of a shock to me. But you know, there are huge sectors of the economy where I can't invest, because of the nature of ownership. And this suddenly led me to a different allied tangential path of thinking. What about 20 years from now, when I'm approaching 80? Are there similarly going to be huge sectors of a changing economy, which are close to me? And the answer was obvious. Yes, they are going to be. Because a whole new sector of the economy, anything which was digital, anything which had to do with stuff transacted over the telephone, was being funded by a different ecosystem, an ecosystem of startup funding, startups then getting supplemented by angel funding, the angels getting supplemented or supplanted by VCs, the VCs getting likewise supplemented or supplanted by private equity. And if ever those companies came to market, it would be 20 years down the line or 15 years down the line, by which time they would be fully priced. Because those would then be half a billion $1 billion companies, well known brand names, and you wouldn't be able to buy them at a discount. It's more difficult to make money from businesses which are well recognized and brand leaders than from investing in businesses before they are well known. This was a very deep realization for me, that if I want my portfolio to be representative of the world in 2035, when I'm hitting 80, then I have to do something about it. Now, when I put these two thoughts together, which is that I have enough money, and therefore I can move to higher risk investments, and that if I don't do that, I run the risk of omission, which is of not investing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:55.680",
+        "message": "What millennials would call FOMO, fear of missing out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:59.000",
+        "message": "Right. So that's when I decided to get into startup investing. And so it was purely an asset allocation incentive. It had nothing to do with how entrepreneurs fare, the change in the ecosystem. These are all post-factorializations. But for me, it was driven purely by two things. One is, I need to get into something new, because I'm a bit bored of what I've been doing for 12 or 15 years. And secondly, in order for my portfolio to respond to changes in the economy, I need to understand this ecosystem. And that's why I got in."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:42.360",
+        "message": "And it also strikes me that your money would have more social utility being invested in startups which are attempting to fix holes in the universe and expand them rather than existing big companies and so on. Now, I know that's not that wasn't a motivation for you. But it leads me to my next question about why are startups important?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:02.360",
+        "message": "Well, it was partly a motivation. It was it was in the sense that I'd had this conversation very, very often with a very dear friend of mine from Delhi School of Economics, who's more of a socialist than I was. And said, you know, this is like, this is like a fixed pie. This is a zero sum game. The stock market is zero sum game. What are you doing by investing in in the stock market? And I know that it's not, you know, it's not a zero sum game. And if you're selling a stock, you're selling it for a very good reason. I'm buying it. It's for a very good reason. It's not zero sum, because you're selling it for to meet your objectives, which are different from mine."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:48.840",
+        "message": "It's a positive sum game. And the economy needs them. I have four listeners who want to episode length elaboration on this. I had an old episode on the importance of finance with a good friend, Ajay Shah, which I'll link from the show notes. But yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:01.200",
+        "message": "So nevertheless, even though at a philosophical or intellectual level, I knew that there is value to being a participant in the listed space. There was a feeling that even if I end up owning one percent of a startup, probably has a little more social value than investing point zero one percent in a Hindustan lever or a reliance or whatever. So it was part of it, but it wasn't a major driver. Having said that, five years later, I look at it very differently. And I think there's huge social value to investing in startups at many, many, many levels. So let me try and enunciate it. And it's an enunciation that I've never done before. So that's the advantage of this kind of conversation. So I think firstly, it incentivizes pools of capital that may have otherwise not gone into promoting entrepreneurship. What I'm saying is that when I become sort of the locus around which other investors participate, I ask myself the question, this five lakhs that this friend of mine is putting into this company, because I've spent time understanding it and believe that it has a future. What would that five lakhs have done? I don't think it would have sparked entrepreneurship. I don't think it would have sparked a new. So I think that is even if you look at it from the point of view of mobilization of capital, and we work largely in a capitalist system, it's a new way of mobilizing capital. And without overstating the case, I sometimes believe that when the history of startup investing gets written and elaborated 40, 50 years from now, there will actually be people who say that this was as important a development in the economic system as the joint stock company, as the company with limited liability, because that also had a very powerful, it became a very powerful engine. It allowed for risk taking without the risk of bankruptcy or personal bankruptcy. The risk was limited to the capital that you put in, and it created a whole movement, a mushrooming of entrepreneurship. I think this is as significant a development. We don't see it yet, but we're beginning to see it. We see the results of it. We see the dominant companies like Google and Amazon and how exactly. So Peter Thiel in his book, which I was just reading, says that the 12 leading tech companies in the world were all funded through this ecosystem of startup and VC. And together they're worth $2 trillion. That's roughly the size of India's GDP. And I just urge the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:15.000",
+        "message": "listeners to not just think of the sum of money. I mean, $2 trillion is such an abstract"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:19.000",
+        "message": "number. I was coming to the fact that when you order food, you do it on Sumatra or Swiggy,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:25.200",
+        "message": "which are funded like that. And like so much in our lives, like everything we do in our smartphones, everything we do on our laptops, the way we communicate, the way we think,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:35.720",
+        "message": "the way we consume information, everything has changed. It's all changed. So the first is the mobilisation of capital, you know, as an economist, or in my hat as an economist, that's one way in which I like to look at it. The second, which is probably even more significant at a societal level, is the fact that it stimulates entrepreneurship. And people who couldn't have been entrepreneurs, and this goes back to 1984, when I became an intrapreneur, not an entrepreneur, who couldn't have been entrepreneurs. And this is the opposite side of the same thing, the mobilisation of these fresh pools of capital. The young people who have an idea, now say that there's an ecosystem to tap into, in order to give them a first stab at making that idea possible. Because the banks are not going to give money to them, they would never have given it. Because banks work on likelihood of success, they're not calibrated to look at a very skewed curve."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:42.320",
+        "message": "And even if they recognise a hole in the universe, they will not recognise the possibility of expanding it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:47.360",
+        "message": "Correct, correct. But you know, I think it's in the structure of banks, the way they look at money and so on. They're not geared to high risk. Their governance systems are not geared to high risk, they're geared to short returns. And that's their mandate. And I'm not faulting them for it. They're part of a different legacy system of bandaging money. So I think that's the most powerful, that this incentivises and attracts a whole host of young people who could not otherwise have considered entrepreneurship. Related to that, but not entirely directly, and therefore I would map it as a third vector, is the fact that it encourages people to come up with ideas. And fourthly, which you sort of mentioned when we began, and again, all of these are interrelated, and yet I think they need to be listed separately, is that it de-stigmatises failure. Because in an earlier era, 20 or 30 years ago, a failed entrepreneur was considered a disaster. It's just one more thing, you know, you did one more thing, it didn't work, and then you're on to the next. In fact, I've just experienced that at a very personal level. A company I invested in, it folded, it got bought over at a fairly discounted price from somebody else. I'm to get some money back. It hasn't yet come, but I already have a deck from that entrepreneur saying, this is my new enterprise, and will you fund it? Which is both funny, slightly tragic, because hey, you're already on to something, I haven't even got my money back from what you last did. But there's no stigma. She's out there with a new idea, and people will back her."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:43.840",
+        "message": "And perhaps it's a feature that you tried and failed because you tried and learned,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:47.440",
+        "message": "you know? I don't think we've yet got there where it's a feature. In Silicon Valley, they say it's a feature, not a bug. I think we're somewhere in between. It's not yet a feature,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:58.880",
+        "message": "but it's no longer a bug. So I don't know if you know this about me, this predates our association, but I am a failed entrepreneur twice in the year 2000. Okay, so very briefly, because our listeners may find it amusing. And it also brings me to my next question, which is in the year 2000, I got up with the guy who ran MagnaSound at the time, and one of the senior executives, and I went to them with an idea for digital music. And the vision I sold them was that CDs, which we now listen to, which we then listen to, which were then ubiquitous CDs and cassettes, will one day be obsolete, everything will be digital music. So the idea I came up with was for something we then call Sonic Town, you can Google it, you will find nothing because this is 2000. And the idea was that we will get rights of songs from companies, sell them for the equivalent of 50 rupees each, 60 rupees each, a dollar, and one 10th of a CD at the time, which then cost 500. And also simultaneously, we will allow bands to make their what would today be called social media pages, profiles, where people can comment and all that. So a combination of iTunes and MySpace, one of my partners went to the US spoke to record companies, I think one of the big ones gave us in principle said, yeah, okay, 70,000 songs, you can take and sell them for this much each a dollar each. And we were all set up, then we went to New York, we made a presentation to a room full of venture capitalists. And they were all gung ho about it and said, you are right, this is a future, you are a visionary. And then the NASDAQ crash happened. So nothing happened, it completely went timing. And that that brings me to my next question. I won't mention my second venture just yet, maybe some future episode, which failed within a few months as well. How important is the role of luck in the success of startups, like we had search engines before Google, and obviously, they built a better mousetrap, you had social media before Facebook, and whatever worked with Facebook, as opposed to Orkut or MySpace almost seems to have been happenstance. You look at Facebook in the early days, it's not as if Zuckerberg had a mission, it just evolved into something like that. You know, I look at the success of many of these companies. And it seems that they were just in the right place at the right time, not too early, not too late, at the right place to have access to the kind of networks and funds. And therefore, it seems that a lot of companies which have become big, like even the Ubers and OU's of today, those guys just in a sense not to take away anything from their drive and their enterprise, but in a sense, they kind of got lucky because similar ideas float around often, you know,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:34.080",
+        "message": "come up at the same time, and I wouldn't attribute that much to luck. I clearly luck or probability or whatever has a huge role in life. And when I look at my own life, I like to attribute everything to luck. In that timing is luck. It's very important. But I think what's also important is your ability as an entrepreneur to listen to what's happening around you. And to respond to signals, which may be very dim for everybody else at that point in time. But somehow, you pick out that one signal and say, this is an important signal. And then, in terms of your interaction with that signal, which is what you do as an entrepreneur, you're able to amplify that signal and make it more and more and more powerful. That's what you do as an entrepreneur. And that's clearly not luck. That is, I mean, I don't mean to say it's all luck. Obviously,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:48.800",
+        "message": "it isn't. But at the same time, I think most people in the supplies, not just to entrepreneurs, but to everyone, underplay the role of luck in their lives, they attribute too much of their success to their good qualities, and often too much of their failures to themselves, when I think you should not be so disheartened by failure, or become so arrogant and confident by success and the role of luck is larger than we but I don't mean to say that luck is everything,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:15.200",
+        "message": "of course. Yeah, I think this is a very long philosophical discussion, not restricted to the startup space. But as someone who has learned to develop a lot of respect for young entrepreneurs and not so young ones who are steaming ahead with what they set out to do, or something different from what they set out to do, but nevertheless successful."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:42.480",
+        "message": "No, and when I say luck playing a part, I also mean bad luck, in which young, thoughtful people who identify the right idea, and they do all the right things, but it doesn't work out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:55.760",
+        "message": "You know, I used to think that a lot, certainly about myself, that I got lucky with many things that I did. But when I look at the young entrepreneurs that I work with, I like to attribute a lot of what they do not to luck, but just to grit, to intelligence, to dynamism, to ambition, to extraordinary skill sets of analysis, and enormous amounts of reading and going out and meeting people, and the determination to make things happen. So, if the environment around you is not conducive to something, then none of these work. But having a dipstick for that environment, and whether the idea that you're going to put is going to flourish there, is that luck? Or is it the discrimination and the ability to gauge what's going around? It's a bit of both. But I would put more emphasis on your entrepreneurial instinct to pick out what is going to flourish in that particular soil."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:20.560",
+        "message": "And I guess just thinking aloud, it would actually be rational for you to ignore luck completely, because you can't control it. You control the controllables, which sort of then brings me to my next question that when you when you're deciding to fund something, what are your heuristics for deciding I should do this? Is it the idea? Is it the people? And if it is the people, as I would imagine it largely is, what are the qualities that you're then looking for?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:47.360",
+        "message": "Yeah. So, clearly it's got to be both. So, the idea is the first screen. And if I think it's a bad idea, then the meeting is over, right? But you can get the same idea from five different people. And if we look at mature businesses around us, we've seen that, you know. In the 80s, I remember counting that there were 500 television manufacturers in India. Now, there are about five. So, it's clearly not the idea. But yes, the idea has got to have the potential for success. It should not be an idea that's already seen a lot of traction in the marketplace. So, you need to be early, as the way I look at it. There's no point funding the 99th snack food company or the 31st. But not too early as I was. Yeah, not too early. But actually, in this space, I think because of the nature of the beast, I think too early is better than too late. Thirdly, it's got to make some sense to me. I can say, look, I know that there's a lot of scope for software that improves the functioning of businesses. But as somebody who's not run a big business or run any business for the last 20, 25 years, I don't know what's happening over there. And you might be the best guy since Oracle or Microsoft Business, but I'm in no position to gauge. And so, I won't take a call on that. But that's only the first screen. Then much more important is the founder or founders. And so, what do I look for there? The first is passion. They've got to really want to do this. Because unless you're incredibly lucky, so I'm going back on what I'm saying. But you know, unless everything works right for you, you're going to run into deep shit in the first five years. And the only thing that enables you to jump that ditch, that shit creek is going to be your passion. Otherwise, you're going to say, I don't want to get my hands dirty. I've got an MBA and IIT, I can get a job at 50 lakhs a year, let me go back and do it, you know. And so, the only guy who's going to say, look, I'm going to try and jump this ditch. And if I don't succeed, I'm going to fall into it and I'm going to swim through it. So, that guy's got to have passion. Just sticking with that ditch analogy for a moment. Sometimes actually, you don't need to jump that ditch. Maybe you can just walk downstream and there's a lovely clear stream on which a boat is available. So, you do something else which is related. So, I want the person to have passion, but I also want them not to be too dogged, but also adaptable. And the word we use for startups is pivot. So, often business have to pivot. They start off in one area, they end up looking at the same broad business, but from a different perspective. So, can you pivot? Or are you so determined, this is what I've got to do and I'm going to do this without stopping and scanning the environment? Perhaps there's a better way of working with the assets that I now have in terms of my experience of the sector, the people who are working for me, my understanding of it. Maybe this idea that I had was relevant three years ago when I formulated my business plans, but the environment has changed and I need to. So, is the entrepreneur willing to pivot? So, are they that kind of person who's willing to alter their perception of reality because reality has changed or their earlier perception was not sharp enough? These to some extent you can assess. What I'm finding increasingly, perhaps it was not part of my metric in terms of evaluating entrepreneurs, is their ability to A, attract and B, lead a team. And a lot of entrepreneurs are, don't make good team leaders. So, their own analytical, business, ambition, etc., etc., can do what 50 people can't. But when they need 100 people, then they need 50 others. And can they hold that team together? Can they communicate the idea well? Can they build a team spirit, align everybody in the same direction, not dominate them, allow people to grow, etc., etc., etc.? As a company goes from startup mode to a company which now has a product, it has traction, you need all of these functions getting staffed. Do you have the ability to convert this startup into a maturing organization? These are things that I've now started thinking about because I've seen some of the businesses that I invested in falling at that level. But now it's a 50 crore business. It's valued at 300 or 400 crores, but it's not being able to attract and or retain talent. There's always friction at the system. There are gaps. Money is not the gap. You have the money to hire people, but you're not being able to get a team together. And I'm realizing that if I don't want to exit a company in year four or year five, but want to be with it for 7, 8, 10 years, then I need to start looking for this already at an early stage. Is this person capable of becoming a leader, which is different from being a good startup entrepreneur?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:23.840",
+        "message": "And given that there's no easy demonstration of that, like you can gauge someone's passion and you can gauge their doggedness. But if there are two people to begin with, you cannot gauge their leadership. So have you developed some kind of a radar for it or some sense of..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:37.360",
+        "message": "I haven't. But I think the very fact that I've started thinking about it and perhaps now we'll look for insights from the businesses that have done well and demonstrated that ability as against those that haven't and look back at my earlier experiences in more mature companies. I think that hopefully I'll have a better heuristic a couple of years down the line. You've got to look for it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:04.160",
+        "message": "And for you, is integrity a factor in the sense that, you know, will you appreciate that guy who's being... It's not a factor. It's a binary."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:14.640",
+        "message": "If I have the slightest suspicion that it doesn't exist, you will talk to the person."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:19.440",
+        "message": "And does it reflect in how the person then presents their business plans? Like, for example, they'll show you projections and if they're bullshitting too much, are you just going to say"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:28.480",
+        "message": "no, forget it? Is it part of the... The way I function, I never look at business plans because at an early stage, those plans are irrelevant. For someone who's just has this most early stage company is just an idea. So that person says, you know, by year three, I'll be selling 27,200 whodunits at an average of $1.83 per... That's bullshit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:59.040",
+        "message": "So I don't even look at it. But is that a bug? If someone bullshits or will you excuse them and say, okay, that's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:05.200",
+        "message": "part of the pitch that these people have been... That kind of thing. No, that's... I don't see that as an integrity issue. It's just become a part of the package. It's a hygiene thing. You have to do it. They think they have to do it. I never look at it. And I make it clear, I'm not looking at this stuff. Six, eight months, a year down the line, once money has come in and you're starting to get traction, now I turn the other way. I say, you have to have a plan. And there I'm a firm subscriber to the Lao Tzu, I think it was, who said, planning is everything, plans are nothing. So plan doesn't mean anything. I don't expect that plan to come through for a two year..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:52.160",
+        "message": "But the process of thinking about it clarifies your..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:55.040",
+        "message": "What are the levers that you need to work on? What is it that you can move around? Which is an early predictor of what is going to work and what doesn't work? You've got to arrive at those. And you can only do it by that mechanism of creating a plan and analyzing what are the inputs that go into it and what they're going to lead to. So that's not an integrity issue for me. But integrity issues can manifest in many different ways."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:32.960",
+        "message": "And might take you by surprise when you can't do anything about it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:35.040",
+        "message": "They can take you by surprise. They can take you by surprise. But if you've been in business, you've taken risks all your life, in hiring people, in people, in signing contracts and buying land and negotiating factories and mergers and acquisitions. I think you develop something of a nose for it. You know, I won't say I never made a mistake in trusting somebody. But by and large, I believe that by and large people are trustworthy. But I'll give you one example. Somebody came to me wanting to work in the, already had some products in the food space. And there was this energy bar that said 20 grams of protein. And because I understand food really well, the moment I looked at it, I said, can't be this bar is not enough to have 20 grams of protein in it. And so I looked at it carefully and there was an asterisk at the end. And then to find what the asterisk was signaling to, you had to look at the back of the pack and it said per 100 grams. Oh, and the back was? And the back was like 20 grams, let's say. So I actually had only four grams of protein in. As far as I was concerned, that meeting was over. Now, legally speaking, what he was doing, I don't know whether it was correct or incorrect. I presume it was correct. He was not making a false claim in a court of law. It's not a false claim because he's saying it is per 100 grams. But the signal to the consumer is wrong."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:30.320",
+        "message": "As far as I'm concerned, that's over. It's not a lie, but it's misleading."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:35.520",
+        "message": "It's misleading. It's an intent to mislead. And as far as I'm concerned, I will not have anything to do with that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:42.640",
+        "message": "Because if he behaves with his consumer that way, he'll behave with his investor that way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:46.240",
+        "message": "Whatever, it doesn't matter. It's all the same thing. Either you're a person who believes in being honest or you're not. And it's actually more difficult to be dishonest with the investor than it is with the consumer. But it doesn't matter to me. It's a person I won't be able to look in the eye. I can't look a dishonest person in the eye. It's a little peculiar, you know, but I actually can't. Because the owner should be on him to not be. Yeah, but that's me. You know, that's me. It's there's an intimacy in looking into people's eyes and you don't want to be intimate with somebody who's clearly young. And he knows this is a willful attempt to mislead. And often startups are led by two people. And so I guess somewhere at some subliminal level, I'm also looking for the honesty of interaction between the two of them and not as an exercise in detective background work, but just by the nature of who I am and the fact that these are people who's typically whose parents would be younger than me. So there is this sort of avuncular sense. It's a fairly strong drive for me as a human being. The first thing I do with people is to try and understand where they're coming from, who they are, understand something about their lives and so on. And in that, a certain honesty is almost enforced. You know, when I sit down and talk to you about what life was like as a student or as your parents son or what you did in your last job or whatever it is, false notes are so easy to pick up because this is not a canned presentation you're making. You know, this is not about this deck that you've spent several months over and have presented to eight other people. And as I said, I'm not doing it to uncover this. But when I reflect on the question that you asked me and I look back, I think it is very easy to pick up false notes if you are a people oriented person. And if I'm not comfortable talking to that person just at a human level, I have no desire, I have no need to, right? Because that 10 or 15 or 20 lakhs that I'm going to invest in this person's business is not going to make, at the individual level, it's not going to make any difference to my life. I don't want to have to meet this person again. So I think on that score, I've been quite lucky that I've, in fact, it's really interesting. The only organization where there was a breakdown of issues of integrity and so on and so forth was between two co-founders. And I had not met the other guy. Ah, so you had no way to gauge. I had no way of gauging it. And when things came to a head and I had to, I first tried to broker a rapprochement between them. It didn't work. I then tried to, I became the investor director, trying to bring this company back together on behalf of the others. When it didn't work, then I tried to divide up work into silos for them. And that didn't work because they wouldn't speak to each other. And that meant that I would have to become the de facto managing director, which was not the intention. And then they left it to me to decide who would get the business. And then it was very easy because one person had misrepresented reality. So, so that's, I mean, I'm them. I'm not saying that there aren't going to be other cases in the future, but in the last five years, it's quite telling that the only case where I found that our founder was willfully misrepresenting was a founder whom I'd never met."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:14.000",
+        "message": "Now, is this a unique ability at judging people or is it sheer good luck? We'll leave it for others to decide and we'll take a quick commercial break. And after we come back, more insights from your journey into what is the startup ecosystem like today, and, you know, how does this whole business of investing work after a short commercial break, if you're listening to the scene in the unseen, it means you like listening to a selfish gene by Richard Dawkins. This is a landmark book of popular science writing that explains how natural selection functions through the medium of genes. It's an eye-opening book, and if you're not familiar with the subject, the world will never look the same after you're done with this. So do check it out on Storytel, The Selfish Gene by Richard Dawkins. Download the Storytel app or visit Storytel.com. Remember that's Storytel with a single L. Storytel.com. Welcome back to the Seen and the Unseen, I'm chatting with Mohit Satyanand about the startup ecosystem. Now, when you decided that, you know, for all the reasons you described, that, okay, you want to now get into investing in mentoring, which I'll ask you more about later, startups yourself, what are the specific areas you were looking at, specific problems you wanted to solve, specific sectors that you thought, I'm familiar with these, so let me look at these. How did the whole process begin? How do you get yourself known to potential entrepreneurs? Do you also build a network of investors? What was that whole process like?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:28.920",
+        "message": "Yeah. So, you know, by nature, I'm not a very systematic person, I tend to take all of life pretty much on the fly. But I did start with one thought, which is that as with the arts, if you get into something new, you've got to pay your dues, which means getting punched badly and making mistakes and so on and so forth. And I also realized that by and large, the startup ecosystem is populated by people who are much younger than me, and at some sort of subconscious level, the realization that I mustn't let my ego come into this in any which way, you know, and there are people who've been functioning in this ecosystem for a few years, they know a lot more about it than I do. And I shouldn't be that uncle who knows nothing but pretends he knows everything. So I think for me, that was a very, very important starting point at the level of the self. And so I tried to find out who were the people operating in the startup ecosystem in Delhi. And let me get to know them and made it very clear from moment one, I know nothing about this. I'm here to learn. I'm going to ask really naive questions, please educate me, whether it was a 23 year old who had a startup or a 40 year old who had made investments, it was all from the same starting point. I know nothing. I'm here to learn. You've referred often to mentoring, this was not part of the plan at all, zero. It was, I'm going to make investments, those investments are typically going to be 1% of the equity in a company that doesn't entitle me to a board seat. These are people working in areas about which I know nothing. So this was not even part of the plan. By definition from where we began, I was looking at investing in areas which are the future of the economy. And therefore, the starting point is I don't know anything about them. And therefore, let me not restrict what I get into, I'm willing to invest in anything. I learn along the way. So one thing that I've always had immodesty about is my ability to learn. My willingness and my ability to learn. I learn something, it'll be above the median. And you know, there's this very simplistic maxim in investing, which is that you don't have to be right 100% of the time, as long as you're right 51% of the time, you'll make money on average."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:29.440",
+        "message": "So... Or even if you're right 1% of the time, and you get more than a hundredfold."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:34.400",
+        "message": "My point only was that, you know, I think that I'll be able to learn enough about this ecosystem in a couple of years, that I won't fund those 15 businesses out of every 20, which don't make money. I'd have at least one or two out of the five that make a lot of money. And along the way, I'm going to make these mistakes, I'm going to lose money. I'm not... I actually went into it without thinking too hard. So what I did, and this was very important from a numbers point of view, because if there's anybody listening to it, who's listening to this podcast from the viewpoint of, hey, can I get into this ecosystem too? I think it's important to look at the numbers. And so what I said was that I am going to put between 5 and 10% of my total financial net worth into this ecosystem, not more. And because even if I make a complete loss on all of this money, it's not going to affect my retirement plans. And number two, that I'm going to divide this into 20 startups, because you can't predict whether the startup that you put money in is going to be one of those which becomes 100x, becomes a Google or whatever it is. And so you've got to spread the odds. And statistics tells us that small samples, anything below 30 is a small sample. The way I worked the numbers, 30 didn't... 30 seemed too ambitious, both in terms of money as well as in terms of two years of investing, I thought that was too much. So I kept it at 20. And I was well prepared for the fact that the bulk of those 20 would take place in year two, because it would take me a year to understand the whole ecosystem and so on. And I took one shortcut along the way, which was that I aligned myself with an informal network, a couple of guys who are much younger than me, but I liked them. They were smart. They'd already made a few investments. So there were certain theses that I could sort of bounce my thoughts of, learn from, et cetera, et cetera. They were already plugged into the system. They were getting what in the ecosystem is called deal flow, which means that young people were sending decks to them and saying, will you fund this? So to start with, I was riding this deal flow. Because the system was growing so rapidly, and there are always a hundred potential startups for every angel investor, word gets around very fast, and the external ecosystem, let's say LinkedIn, Facebook, Twitter, they all feed into this. So the moment I'd funded two or three startups riding piggyback on this, the word is out there. I'm not putting the word out there. The social media system is putting the word out there that this is a guy who's investing. And then because I carry those labels somewhere, people dig those labels out. They're not on my Twitter handle, they're not on my Facebook, but people want to ferret them out. And they say that this is a guy who built a successful snack food brand. This is a guy who founded a company which now runs the Jaipur Literature Festival. So these tags were associated. And so the deal flow started, people started coming. I started at one stage when I was really active. And before the system got a little more formalized, and I'll explain that a little bit, I was getting between 20 and 30 decks every week. So because the whole startup ecosystem was, in a sense, very early then, it was growing extraordinarily rapidly, 2015, 16, 17, I was at an inflection point. And so it became like this tsunami. Getting deal flow was the least of my problems."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:06.440",
+        "message": "But filtering from them, that's your personal choice."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:10.880",
+        "message": "And what I also learned very rapidly is, I think this is part of every journey. So these two guys on whom I wrote piggyback in the early stages, and the first five deals I did, three or four were with them. And I think I imbued them with a lot more savvy and qualities than they had. I'm not downplaying what they have, but I gradually learned that they do have their shortcomings. Their hits and misses are the same as anybody else's, and therefore I mustn't blindly follow them. I have to also now start exercising my own judgment. And so I started picking only one in five or ten that they sent to me. The second thing that started happening, and which has shaped my participation in this ecosystem hugely, is that in that interaction that I would have with young entrepreneurs, which is only from the point of view of my having to decide whether to invest in them and their idea or not, that some of them would say, you know, we really enjoyed meeting you. When we come back again, I would say, yeah. And so it's they who thrust mentorship on me rather than the other way around. And even now, when people come to me and ask me to invest in them, I make it very clear to them that my investment doesn't carry any conditionalities on it. If I make that investment call, I'm making it. I'm not saying I need a board seat, I'm not saying I need to be an advisor, I'm not saying I need to be a mentor. Yes, I would like to be kept informed, but that's standard hygiene. That you must do in any case. And ironically then, that role of mentorship, which was thrust upon me, which was not part of my design, has in some senses become for me, the defining and the most valuable feature of being part of this ecosystem that was purely accidental."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:48.520",
+        "message": "And when you say valuable and defining, you mean also for yourself, not just for the people"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:53.720",
+        "message": "you're mentoring. I'm talking only about myself. That's for them to come on a podcast and tell you how much it meant to them. But defining for me, because at several levels. The first level is that that ongoing interaction helps you to understand the whole process of building a new business afresh. These were things that I did 20 and 30 and 40 years ago. And I'll never be, I'll never do it again. And the entire environment in which they function is completely different from what it was in the 80s and 90s."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:42.280",
+        "message": "And so in a sense, you're being forced to put yourself in the brain of the entrepreneur."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:45.760",
+        "message": "Yeah, I'm in a different environment, in a different ecosystem. So I'm learning in a way that I would never otherwise have been able to learn if I was"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:53.120",
+        "message": "just learning entrepreneurship without actually being an entrepreneur."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:56.840",
+        "message": "Right. So that's extraordinarily valuable, but that's at the meta level. The second thing is that I am learning about a whole new range of businesses, operating factors within that business, which I wouldn't have understood as well if I was just an investor. I would just see the quarterly numbers or the annual numbers, but not really what went inside them. So it's enriching my understanding of business. Thirdly, very valuable, is building very, very, very deep relationships with young people. Because otherwise we all tend to, at least in my generation, all our relationships tend to be with people of the same age, the same social background as you went to. And I see that when I go to parties with people I grew up with. Parties within two or three years of each other, they all went to the same schools and colleges."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:00.280",
+        "message": "They all did more or less the same thing. And in your case, because you're active in theater and all that, you are in any case with young people all the time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:06.720",
+        "message": "Yeah, but now I'm interacting with, and this is where the social fabric has changed hugely. None of my friends from the 60s, 70s, 80s, 90s, etc. are people who grew up in small towns. They're all people who grew up in Delhi, or Bombay, or Calcutta, or Chennai, maybe Pune, like you. But today, if I look at the social, at the entrepreneurs I work with, somebody grew up in Dhanbad, and somebody grew up in Agra, and somebody grew up in an Air Force station in Jaipur, etc., etc., etc. And I'm being able to develop relationships with these people, which are not just business relationships, because that's not the way I work or live. The relationships become very, very rich ones. So I've developed incredible relations with these people. Not only at an instrumental level, what it's also doing gradually, and as I said, I've not developed those heuristics at a formal level, but what it's also gradually doing me, doing is informing my understanding of what it takes to actually be a successful operational entrepreneur. And to go back to the question you earlier asked, it's somewhere building up that profile of what is it that is going to make this person able to successfully create a business out of this idea. And that comes from working with them on a weekly, monthly, quarterly basis. And lastly, you know, that very, very amorphous sense of giving back, you know, that because of my experience as a business person, not the most extraordinarily successful one, but despite that, you know, I'm not a Bill Gates or Nandan Malikani or whatever, but despite that, I, besides them, I can actually see the value of the time that I'm spending with them come back. And I can literally see this is what I've put into the business. And this is what it's resulting in. So there is that element of giving back, but as I said, I don't want to overstress that, because the other rewards are very substantial in any case."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:51.360",
+        "message": "And I would then guess that your mentorship doesn't, like, what form does it take? For example, I would guess it's not in the form of micro things like this is a specific problem we have, what should we do, where you might choose to sort of take a backseat because you know the environment as little as them or less than them. But it would be more in the form of here is how you think about this situation, or, you"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:14.520",
+        "message": "know, how does that work? It can be anything. So, you know, I think it needs to work within a structure, as all organizations do. And that's something that I'm very particular about. There needs to be a framework within which this relationship functions. That's the absolute base minimum, which means that there's got to be a monthly meeting. And that monthly meeting has got to have an agenda. And there's got to be certain minimum numbers and points to be covered. That's like a base point. But if it stops at that, then it's not really mentorship. The mentorship happens when, and as I said, I don't force it. It happens when somebody rings you up and says, you know, I need to come and see you, I'm having a problem with this particular employee, or I'm not being able to see how we need to rethink our brand strategy, or how aggressively should we spend the money that came in in the last round? Or you know, this is what a potential customer is asking for. It means are dropping our price to our other customer, compared to other customers by 25%. Should we do it? What is the impact of this going to be on our overall pricing structure? These are questions that are easier to answer when you've faced similar issues 20 times in the past, you know, and sometimes it can get as detailed and as specific as you've said, you know, but that's not structured. What I always tell people is, throw as much as you want to at me, unlikely that it's going to be so much that I'll say, hey, this is too much. A lot of it happens by happenstance, you know, I've gone into an office for a meeting, there are five packs on the table, and I just pick it up, and I'm looking at it. It's not part of my role or the way the interaction is structured for me to say, hey, you need to send every product label to me. That's creating too much load on me. But I pick it up and I say, you know what, this is simply not aesthetic. And how is the product design ecosystem working? Who's doing it? Who's overseeing it? What is the nature of the designer? And then saying, this is not going to work. This can't be done internally. You need a design shop to do it. And you need to look at their track record and you, perhaps if you want to send me a link to the work they do and let me take a call on whether I think their quality is good enough or not. So I think it's a willingness to engage with everything and yet not to demand that everything clears you. So there's a little bit of, there's a little bit of happenstance in it. There's a lot of randomness to it, but what happens if you engage frequently with not just the entrepreneur, but then as time goes on with the larger team is as in any relationship that you pick up cues really fast. Your ability to pick up cues about what I'm saying and thinking much higher than you have with the person you met for the first time because of the depth of our engagement. And if you are having a problem and you bounce it off me, my ability to find the appropriate response because there's no objective best response in most situations. The response is the appropriate one, appropriate to you as a person, the other people and or institutions involved in that is what makes it appropriate. Now, my ability to find that is conditional or determined not just by my intellect or experience, but also by my understanding of you. And that comes from the time and the trust and the intimacy with which we work together."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:17.440",
+        "message": "Can you illustrate that difference between an objective response and an appropriate response?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:22.880",
+        "message": "Sure. So how aggressively should you grow a business? There's no appropriate response to it. I mean, there's no objective response to it. You can say that, you know, there's a lot of competition coming in. And therefore we have to grow extremely rapidly. But the appropriate response depends on your team. How prepared are they for a phase of rapid growth? How much stress can you handle? Can you work 18 hour days or not? Some people can, some people can't. Can you handle stress? So in the same situation, I might give a different answer to two entrepreneurs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:12.400",
+        "message": "Makes sense. Moving on, let's, let's talk about, and again, I'll ask a very layman question here, because my knowledge of this is sort of very old. As the startup ecosystem has evolved and where it is today, what are sort of the different stages of startup funding? Like you are an angel investor, you're taking the initial idea and, you know, you're trying to grow that from scratch. What are the different stages of startup funding? How do those different stages interact with each other? How do those different stages influence each other? Like how many angel investors are investing to actually grow a profitable business and how many of them are just looking at an exit down the line?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:28:51.840",
+        "message": "How does all of that work? Yeah, we could spend a few episodes on this, but to put it very simply, the first stage is what we call family and friends. So you know, you have an idea and you want to play with it and you, you take your savings and perhaps some money from your dad or your brother or whatever it is, and you sort of play around with this and maybe have a prototype of your product or service out in the market and start refining your understanding of what it is that you want to do and is there a market out there and so on. So this is sort of the family and friends stage and broad ballpark, you would have invested between 10 lakhs and a crore at this stage. A crore is really the extreme, typically less than 50 lakhs and now you feel convinced enough that I can, there's enough meat over here for me to take this to an angel investor or group of angel investors and I now need a crore or two to grow this business. The median is now actually in the last four or five years, I've seen this whole ecosystem becoming almost formulaic. So you know, the medians are quite well defined. So when you now bring this to the level of angel or seed funding, that's already the second stage and you would typically look at raising between one and a half and four to five crores. The median number would be two, two and a half crores at this stage and at each stage you typically dilute your shareholding or then the cumulative shareholding by 20%. So that means that you're saying, in effect, I want you guys to put two crores in, meaning a bunch of angels and at the end of that you will have 20%."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:15.160",
+        "message": "So you're valuing the company at 10 crores."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:31:17.320",
+        "message": "Correct. So valuing the company at 10 crores, let's say you raise two and a half crores, the company is now 12 and a half crores, you have 80%, the angels have 20%. The next is what would be called the A-series, which is when the first bunch of institutional investors come in. There could be something in between, which we would call it pre-series A, but then you have the A-series. At the A-series, median would be 80 to 100 crores valuation for the company."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:46.880",
+        "message": "It could be lower, but you know, as a median number. So if you give away 20%, you're getting about 20 crores."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:31:52.240",
+        "message": "Absolutely right, absolutely right. Now what happens to the angel investors at this stage? At this stage, it's, it can go either way, one, it can go one of three ways. And none of them are mutually exclusive. You can have a situation where the angel investors get an option to put more money into the business to either protect themselves from dilution or actually increase their share. That's becoming increasingly rare, actually, but that option does sometimes exist. The second is that the status quo for the angels. So they get diluted by a little bit, but they don't mind. And the VCs who come in the early stage, they're still early stage by their definition. They come in and they put 20 crores in and they give the option to some angels to exit. And typically when they do that, that's at a discount to the price at which they're investing. Because they say our primary function is to provide growth capital to the company, not to give an exit to somebody else. So if we are valuing the company at a hundred crores, you want to exit, we will value your shares at 80 crores. So you exit. What they're sometimes a little more accepting about is the startup guy taking some money out. Because by now he's spent four or five years growing the business. He's typically taken away a lower salary than he would at that level if he was working for someone else. So this is time for him to take a little nest egg out, a crore or two crores, which is okay if the company is now valued at a hundred crores, for him to say, you know, I have 60% of the company, which is now valued at 60 crores. Can I take five crores out of the company?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:58.800",
+        "message": "It's quite normal. But what that would mean for the investor is that it's five crores less actually going into the company's fund."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:06.400",
+        "message": "They see it as a different, you know, they find a different pocket to take the money out of. So it's not a big deal. So my interaction with the ecosystem really stops there at a series A."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:22.920",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:23.920",
+        "message": "So these are the three options."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:24.920",
+        "message": "Right. You can invest further. You can sell out. Which is called a re-up."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:34:28.920",
+        "message": "So you just protect yourself. You can re-up, you can exit, or you can stay put."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:33.000",
+        "message": "And staying put would mean if you have 20% of the company, you lose 20% of that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:37.640",
+        "message": "Correct. Yeah. Correct. As a group. As a group. So let's stay with this for a while because the other question is that you asked was how many angel investors, you know, so typically again, just to stay with the number, typically there'll be 20 angels. So that two crores or two and a half crores would be divided among 20 people. It wouldn't be even, it's not like everybody's put in 10 lakhs. It would range typically from today it's more or less uniformly a minimum ticket is five lakhs. There's no maximum. Typically what happens is, is there's one large investor who's a lead investor. Who's put 20 to 50 lakhs in. It's also not necessary that the largest investor is the lead investor because what's beginning to happen is that there are some people who are getting sort of tagged as good lead investors who are willing to play an active role, who have put some effort into interacting with the entrepreneur, ascertaining that he's a good bet, willing to answer questions that have some sort of brand attached to them. So that person may actually be the second largest investor as has happened to me in a couple of cases where somebody else has put 40 or 50 lakhs in and said, but I don't want to be the lead investor. I've said, okay, I'm willing to put 20 lakhs in and I'm willing to be a lead investor. So broad numbers, five to 10 lakhs each, 2025 angel investors to two and a half crores, 10 crore valuation. Next round you're talking about between 50 and 100 crores and you've still got 20 investors, maybe four or five less because the company offers, the VCs offer an out, not everybody takes it because a lot of people believe, rightly so, that in the last two years since we invested here, we've seen two or three other companies that we've invested in go to zero. So let's ride the winning bets and not exit them rather than exiting the winning bets. So that's fine. By the time it comes to the series B, you can rule out the first option as an angel investor, which is of investing more. A, the ticket size are too large, B, by now the institutional investors want to clean up the capital table. So you will get an exit. Odds are you'll get an exit, but certainly the first option doesn't exist of re-upping."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:15.800",
+        "message": "So it's only one of two options. And what does the median size go to now? We've gone from 10 crores to 100 crores in series A. 200 plus. 200 plus. 200, 250."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:26.200",
+        "message": "Yeah, 200, 250. And by now the nature of the VCs is also beginning to change. You're looking at bigger players, a lot of them foreign rather than domestic. And the size of checks is now not really in crores of rupees, but in millions of dollars. So now you're talking 5 million, 10 million size of checks coming into the ecosystem. I think that by and large, the risk reward ratio is not changing because the odds that this company, which has grown 20x in the last 4 or 5 years, to grow again 20x is very low. And for someone like me who's entering into this to get into a very early stage of risk reward, that's then catering to a different part of my risk reward portfolio. I need then, at that stage, to reconsider this investment, not as being part of my seed investment. It's in a different pocket. It's a more mature investment. So unless I'm really involved with the business, really convinced about it, I've known it from inside, I think from a purely risk reward ratio, by then it's time for me to get out. I have seen a couple of BNC investments where for some reason the entering capital didn't make that offer. So I'm still in there. But by the time you then get to larger VCs and then finally you go to PE players, that's a part of the ecosystem that I don't have much personal knowledge of, I know it more"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:32.520",
+        "message": "from the outside. But how many rounds are there? We've reached A, B, you said would be 200 crores plus. What is C? What is D?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:39.640",
+        "message": "Where does this go? Well, you go, you know, if the company keeps growing and you end up like a flip card with the valuation of 18 billion and 1 billion coming in, that's probably series H by then. It's academic as far as I'm concerned."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:55.680",
+        "message": "And on the other hand, how much of, you know, what is now happening with all these different series funds? Like, you know, there are two motivations for investing in the stock market. One is you look for value and you try to make money and you look at the fundamentals of companies and so on. The other is you write the sentiment and you look for the greater fool. You know, you're not necessarily looking for inherent value in the business per se. What you're looking at is, that's the stock market, but that's the stock market. Exactly. And does a similar sort of logic invest in the venture fund, for example, in the case that as an early stage investor, and I'm not talking about you per se, but in general, would there be motivations for people to say that, to invest in areas which are hot because they know that, for example, series A, series B will happen?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:42.640",
+        "message": "There is fashion wherever there are humans, there's fashion. Whether it's in theater or cinema or clothes or music, whatever, there's fashion, there are trends. People are going to ride those trends. There is what you talked about earlier, FOMO, and I think we all have it. Anybody who's been in the investment space does have FOMO. It's very difficult to be completely objective about yourself, but I think if anything else I tend to veer in the opposite direction, which is the moment something starts getting popular, I want to get out of it. It's just, it's something very hardwired."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:30.120",
+        "message": "Are you unusual in that regard? Possibly. Because are there many more, to use Chuck Prince's phrase, are there many more people"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:41:36.880",
+        "message": "who are dancing while the music plays? Yeah, yeah, sure, sure, sure, sure, sure, that's true. But I think that if you compare the startup space to the stock market space, the percentage is much lower. Because unlike the stock markets where there are many more intermediaries and the bulk of people are investing through mutual funds, advisors, ULIPS, et cetera, et cetera, because they doubt their own ability to write those checks, the startup space is populated by people who are writing their own checks. And they're also typically people who have more intimate understanding of business. The average person has functioned at a fairly responsible level for 10 or 15 years. So the nature of the people who write checks into the startup space is different. They have deeper understanding. They have deeper understanding. Yes, there are trends, you know. So e-commerce was a trend, and then fintech was a trend, and then foodtech was a trend. And whenever something starts trending, then you have very high failure rates. So you have to be aware of that and stay away from entering trends before they become."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:59.160",
+        "message": "High failure rates because many people then get attracted to the trend and many more people come in. And of course, Durgeon's law applies here. So you tell me, you're functioning in a particular regulatory environment. What role does the Indian state play in this? Like, you know, would the regulatory environment be a factor for you that should I invest in this company or not? First, let's see what sector is it in. Yeah, clearly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:24.320",
+        "message": "Clearly. First, I want to make the statement that one of the things that's really attractive about the startup space is that a lot of them enter into space where there is no regulatory environment. Because it's so new. Because it's so new. So you look at e-commerce. They're now trying to create a regulatory environment. There wasn't a regulatory environment, and that's fantastic. Now if you look at EdTech, which is an area where I desperately want to make good investments. Because that's one area where I can actually say that my desire to invest over there is driven by the dismal state of education in our country and not just by the desire for a return. The two, of course, do and should converge. But there I can say that I want to invest there because I think that the existing educational system is completely broken. The extensive rules that we've talked about often in our personal conversations and in writing that both of us have done about the maze of regulations that governs the education system. It doesn't exist out there in EdTech. And therefore, it's a great place to experiment in. But on the other side, somebody came to me with a proposal for investing in drones. I think drones are fantastic because I could already see 20 ways in which they would be useful to us as individuals and to society, whether it's mapping of lands or it's delivery of medicines or entertainment or shooting weddings from a different area or perspective."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:22.800",
+        "message": "You can think of 20 uses. In fact, at dinner last night, your friend VK Madhavan was telling us about how the government of Odisha use drones to map exactly who stays where in a particular slum colony."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:45:36.560",
+        "message": "So they can then assign services and even in some cases, property rights accordingly, which is so mind blowing. Yeah, it's mind blowing. But I also saw that there would be an entire welter of regulatory issues that these guys would have to deal with. And therefore, as a business, you would get into times when you're burning capital just to survive while you can't move forward because there's a file sitting on somebody's desk in the Director General of Civil Aviation. And so though I saw that this is a very promising area to get into, I didn't want to get into an area where the regulation is not clear, but it is going to apply. You can have an area where there is no regulation, but it's not important enough for the government to create regulation in a hurry. But in drones, it was just my sense that this is immediately an area on which the government"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:36.200",
+        "message": "is going to clamp down. So it's not just what the quality of the idea or the services, it's also what environment will it function in."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:46:42.760",
+        "message": "Absolutely. Absolutely. So regulation is certainly something that you need to keep in mind when you look at anything in any nation, and certainly in India, where the ability to create fresh regulation is both extremely dilatory, extremely unpredictable, and inevitably very constricting. So if I see that's going to be an issue, I'm sorry, I'm not interested."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:11.640",
+        "message": "And how has the startup ecosystem changed in the last five years, not just in terms of the ecosystem itself growing in its own way as it is, but also in terms of interactions with the state? For example, you had that sort of an issue where I think investments by angel investors"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:29.640",
+        "message": "were going to be taxed. Right. That's something that I have some experience of. So firstly, the ecosystem has grown massively in terms of numbers. Secondly, I don't know the numbers because we as a nation are not very good in terms of tracking statistics, whether it be GDP or the number of toilets that were actually built under Swachh Bharat, or the number of startups, but it's grown enormously. And I think there's worldwide agreement on the fact that ours is the third largest startup ecosystem in the world, behind the US and China. And that's extraordinary. That's absolutely extraordinary. It's also grown in the sense that now there are people looking to service different parts of that ecosystem, which is always a good symptom. So there, for example, I had a meeting yesterday with a young man who is a charter accountant and a CFA and wants to tailor the services that he offers only to startups. That means that here's the assessment of somebody that this ecosystem is large enough for specialists"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:48:45.360",
+        "message": "and finance companies. And this is a revealed preference, it's not signalling."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:48:49.880",
+        "message": "Absolutely right, absolutely right. Every month or so, I meet somebody who wants to become an incubator or somebody who does early grooming and a hygiene check for startups and prepares them for the stage where they come to an angel investor like me. The third sign is, which is something that I'm fairly engaged with, is platforms, formalized platforms where, for example, one of the companies that I'm currently in the process of helping to raise funds as the lead investor. So their fundraise, or raise as it's called, is now live on a platform. And so the way it's working is that I've done, you know, I've had a couple of interactions with this person. I've liked the product. I've liked the guy. I've liked the deck. I've tried to understand the market. And now it's on a platform. And that platform is a fairly organized company, which itself has investors behind it. So you can see how rich it's already. So there's a company which has been financed by seed investing, which has now become a platform for seed investors. I think they do like something that features something like 70, 80 deals a year on that platform. And it's now got fairly sophisticated. So now, if we had signal in this room, I would show you, here's this company, 10 crore valuation. So it falls exactly into the median numbers that we were talking about. This targeted two and a half crores, lead investor, Mohit Satyanand. You click on that, it shows you a profile of Mohit Satyanand, this is what he's done in the past. This is the number of companies he's led, this is what happened to those companies. And it says, as of this morning, it said 81 lakhs committed. And each person who commits, now their mugshot comes in as well. And that's a live bar. So it was 81 lakhs when I woke up this morning. And just before we came into this recording, it was 96 lakhs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:11.160",
+        "message": "So they're moving towards their target of two and a half. So you're buying shares into an angel investing fund, so to say, or an angel investment, online."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:21.920",
+        "message": "Your committee online. Your committee. Your committee online."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:24.920",
+        "message": "Then of course, all the rest of it happens."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:27.360",
+        "message": "So now there are these platforms emerging. And so the platforms began emerging five, seven years ago, but they've become richer. They've taken on board a lot of feedback. So it's much clearer now, what is the role of a lead investor? And what they're now trying to do is to make these lead investors into brands, as it were. So if I'm successful, one day I'll be a brand. I'm already, as far as they're concerned, I'm a brand. I'm this lead investor who's led four or five investments, two or three of which have been extraordinarily successful. We still have invested behind them. So now I've become a flag bearer for other people to sort of stand in my, what they call, syndicate. And now they've started defining other things. So for example, I'm going to put in two or three years of effort in shepherding this company, hopefully to the next stage, where it's valued at a hundred crores. I need to be rewarded for that beyond the 20 lakhs of family money that I've put in. And so that too is now formalized. And it says that all the people who invest behind him, when they get an exit, 15% of the upside that they make. So if they've invested five lakhs and that's now worth a crore, I get 15% of that 95, which is called the carry. So you can see that in four or five years, it's already become a very, very mature ecosystem with syndicates and lead investors and investor directors and so on and so forth."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:12.400",
+        "message": "And what about an issue which, you know, has been in the news for a couple of years about"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:53:18.320",
+        "message": "the angel tax? What is this angel tax? Yeah, it's, I think it's now largely resolved. And this is something where I must publicly acknowledge the role of one person. And I'm not saying that he was solely responsible, but that was my point of interaction, which is Amitabh Ganth, who is the CEO of Niti Aayog. And so almost exactly a year ago at Jaipur Literature Festival 2019, where he was a guest, and he was talking about make in India and so on and so forth. I was, I have to say a little sarcastic with him. And I said, you know, Amitabh, you're making all these statements on stage. But the fact is that here are these startups, and they're getting screwed with this angel tax. Yeah, it's the angel tax. Yeah. So actually, it was not an angel tax. Okay. It was a tax which was brought in by the last government for a completely different reason. But when it came inappropriately to be applied to startups, it got called the angel tax. Now, that tax was in order, I think it was a reasonably well conceived tax. It was in order to staunch the ecosystems that have been set up to launder money to convert black money into white and vice versa. So you had shell companies. And so I would subscribe to this shell company at the rate of 50,000 rupees a share. And then two years later, I would be told that the value of the share is only one rupee. And so my money has gone down the drain. But actually, I needed some cash. And so that cash was paid back to me. So these became these shell companies. And obviously, on this other side was somebody who wanted to do the opposite and the shell company made a transaction fee from both sides. So what the tax did, and I've forgotten the exact number of the income tax act under which it came into being, what it said was that where the income tax officer believes that there is some misrepresentation of the underlying value, he or she can look at the existing assets of that shell company and determine that the amount paid for the shares of that company was inappropriate. And therefore say that it's completely irrational that you should pay 50,000 rupees a share for a company which has no assets. And that entire amount is going to be taxed. I think it was well-intentioned. It was addressing a clear tax dodge. Unfortunately, the same thing, the same logic applied to a startup almost works. Because it says, you have no assets, you just have an idea. And I'm putting a value of 10 crores on it. So if you look at just the numbers, there's a logic to saying that if that penal tax is applicable on that shell company, unfortunately, I have to say most of them in Calcutta. But I don't want to tar all Calcutta businesses with that brush. Then why shouldn't it be applicable to your idea of sound nation or sound cloud or whatever it is? Now, my point and that of everybody in the ecosystem was that surely an income tax officer can distinguish a shell company from a startup. Perhaps this was naive. But it was clear that this was being misused across the board. So what Amitabh Khan said at that stage was that we need this to be certified by third party. Is this a startup? Because it can't be to the discretion of the income tax officer and Niti Aayog or the Ministry of Industry or make in India or whatever have no mandate to dictate to the income tax department what they do. And so what they did was to create this DPI certification for what is a startup. Now, it's unfortunate that you have to now create a new department, a new paperwork for a startup to prove that it is a startup. And it's unnecessary fiction for a startup. It's unnecessary fiction. But the fact is that it's worked. And those two or three startups where I'd invested, which were being sent notices and we were all being asked to furnish all kinds of details as angel investors and so on, their cases got sorted out, they got withdrawn. And over the last eight, nine months, I have not heard of any such case. So I have to say that it's worked. And Amitabh Kant came to Jaipur Literature Festival this year."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:36.320",
+        "message": "I did a panel with him, and I linked that from the show notes, because it's the most enjoyable conversation. We shall not say anything more about it, but kindly watch it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:58:46.160",
+        "message": "But I started by thanking him for that, for that initiative, because it really worked."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:52.920",
+        "message": "Who said Amitabh Kant? He did. So, you know, before we wind up, you've been doing this for five years, but of course, you have a lifetime of experience behind it, which has fed into angel investing. At the same time, it's not as if you are, you know, sitting at an elevated level and putting your money. You're also because of your mentorship, you're also deeply involved, you're also learning entrepreneurship while you're doing it. So I'll ask you two questions, and you can take whichever one first. One is, what is your advice to young entrepreneurs today? And like, what learnings would you have, which you think that they should know, they need to know before they get into it? And two, what is your advice for other people like you, who would wish to invest?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:59:35.040",
+        "message": "How should they go about it? For both of them, my first and overriding advice is, do it. Okay. No, absolutely, absolutely. To young people, I would say, this is the time to dream. And there's never been a moment in the history of mankind, of capitalism, of entrepreneurship, which is so supportive of new ideas. And so rich with possibilities. So rich with possibilities, never, never, never. Will it last? I think it will. But that's irrelevant. For you as a young entrepreneur today, it exists. It never existed before. Go out and do it. That's number one. Number two, I have to say this, despite not being perhaps the most impartial person, but find a mentor. And I'm saying this not because of my experience as a mentor. I'm saying this because the evidence from Silicon Valley, where of course the system was in a sense created and where it's the richest and has the most number of hits and successes and so on, that academic studies have shown that startups with an entrepreneur, with a mentor, do significantly better than those without. So there's something to be learned from fuddy old duddies like me. So that's the second, get a mentor. And the third, which is related to the first is, as we discussed, there's no stigma to failure. Coming to the second, which is people who want to invest in startups, absolutely, firstly, do it. Secondly, don't ever make the mistake of saying, let me try one or two and see if they work. Because all the data from all around the world shows that three or four or five out of 10 are going to fail and you're going to get no money back. And the way probability works is that for at least three or four or five people, if they only invest in two, they're going to fail. And therefore, you're going to be out of it. You need to have a program which says, I'm going to invest over the next two or three years in 10 or 15 or 20."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:02:06.600",
+        "message": "In fact, we discussed this in the episode that we did together on poker and investing that volume is key."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:02:12.320",
+        "message": "Volume is key. And I would say that 20 to 30 is sort of the minimum threshold. Not as if to say that, you know, you pick any 20 and throw money at them. You obviously exercise discretion, judgment, interaction, understanding, experience, interacting with other people. But irrespective of all of that, you could be on the wrong side of the probability distribution and end up with the first three or four all failing. And in fact, the odds are higher because you haven't yet sharpened your intuition. So the odds of the first three or four being failure are much higher than the odds of the next three or four being failures. So if you've decided to get into this, put aside a pool of capital that you're willing to put at risk and say that if the first one fails, that's fine. That's to be expected. If the second one fails, that's to be expected. But I'm in this for a minimum of 10 or 15."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:03:14.960",
+        "message": "And don't give up till then. These are very wise words for anything in life. Don't give up. So, Mohit, I always learn a hell of a lot whenever I chat with you. And even though I'm not neither a budding entrepreneur, nor do I have any money to invest, this has been very illuminating for me. Thanks. Thanks. Thank you so much for coming on the show. Thanks so much, Amit. If you enjoyed listening to this episode, you can follow Mohit on Twitter at Mohit Satyanand, all one word. You can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse past episodes of The Scene and the Unseen at sceneunseen.in and thingpragati.com. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:04:21.680",
+        "message": "Bye. Bye."
+    }
+]

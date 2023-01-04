@@ -1,0 +1,302 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Welcome to the IBM Podcast Network. One day, a physicist, a philosopher and an economist walk into a bar, they down a few pegs and then decide to play a game. The philosopher has an idea. He says, let's ask each other the most difficult, unanswerable question from our respective fields. Whoever asks the toughest question gets the rest of his drinks free. The other two men agree. Both of them seem confident. The physicist is the first to go. He asks, what was there before the beginning of time? The other two men nod thoughtfully and go bottoms up with their tequila shots. Then it's the philosopher's turn. He asks, what is the meaning of life? This surely has to be the winner. What could be tougher than this? What is the meaning of life? All three men look very sad. Then finally, the economist has a start. His question is this. Why don't real estate prices in Mumbai crash when demand has gone down so much? The physicist and the philosopher look at each other in bewilderment and disappointment. They know the game is over. The economist gets free drinks all the rest of that evening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:20.860",
+        "message": "Welcome to The Seen and the Unseen, our weekly podcast on economics, politics, and behavioural science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:33.020",
+        "message": "Welcome to The Seen and the Unseen. On this episode, I intend to ponder the question, why don't Mumbai's real estate prices fall? This is one of the most expensive cities in the world and usually prices are a function of supply and demand. If demand falls, prices should fall. Now, demand certainly has fallen here over the last few years. Less and less people are buying flats, inventory is lying empty, and yet the prices just won't fall. There's no straightforward answer for this. It's clearly the unseen effect of something. But what? In today's episode, we're going to try and solve this mystery by working backwards from this unseen effect. And the economic detective who is going to help me do this is my good friend Vivek Kaul, a columnist at Equity Master and the author of four very fine books. Vivek, welcome to the show. Thanks for having me, Amit. So Vivek, one of the subjects in which you've written about repeatedly over the years is real estate. And it's something that baffles me. I have a lot of sort of newbie questions on it, which I'm hoping you can shed some enlightenment. Now, real estate prices in our cities, especially in Bombay, where I live, have just shot up over the last decade and a half. And the interesting thing that's happening over the last couple of years is that even though the economy isn't doing that great per se, and a lot of inventory is not selling now, you would imagine that when inventory doesn't sell, the prices come down at some point. But that's not happening. And real estate in Bombay essentially remains out of reach for middle class people like"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:03.860",
+        "message": "me. So I mean, you know, it's not just real estate in Bombay, which remains out of reach. I mean, real estate in a lot of other cities. Absolutely. I mean, even, you know, the towns in Uttar Pradesh, like Kanpur, or the city that I grew up in, Ranchi, real estate prices are, you know, have reached crazy levels, when you compare it to the income in that particular city, you know, I mean, I remember a few years back, I had done this very basic calculation around the weighted average price of a flat in a given city, divided by the average income that an individual was making in that city. And I got some crazy numbers. So I think for Bombay, it was some 70 years income, which was required. Wow."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:51.900",
+        "message": "And put that into perspective, what should it be? What is it in like, say, New York, London?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:55.420",
+        "message": "Probably, I mean, I mean, New York and London are, I mean, would be high because of would be high, but they wouldn't be so high, I mean, but on an average, in the West, they say that around five to six years income, it should be good enough to buy a house in Bombay was"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:12.780",
+        "message": "70 years."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:13.780",
+        "message": "It was 70 years. So I mean, I remember the the average weighted average price of a flat was around 1.34 crore. And the per capita income as per the state GDP numbers came to around 1.97 lakh or something like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:30.740",
+        "message": "It was crazy. I mean, I need a drink after the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:34.020",
+        "message": "And in fact, interestingly, for Bangalore, I got an even higher number of some 81 years, which I had to discard because I found it a little unbelievable that, you know, the ratio would be greater in Bangalore than in Bombay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:47.740",
+        "message": "A lot more expats coming back with more money to spend."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:50.340",
+        "message": "No, not really. Basically, the per capita income was a lot lower, which was the yes, because see Bangalore also I guess what happens is a lot of the smaller towns around Bangalore got counted into, you know, calculating the average income of Bangalore and their incomes were not as high as. So that's not exactly a reliable figure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:12.820",
+        "message": "It was not a very high. But why is it so high? Like Bombay at 70, while Western cities are at five or six? How?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:19.380",
+        "message": "Why? How is it possible? I mean, the simple answer is that one is that the supply is not at the right prices. And even though the sales have collapsed, I mean, if you look at the last, I mean, there was one survey which was done recently, which took the data for around 42 Indian cities into account. And they said that the home sales had fallen by around 41 percent, but prices haven't. Now, recently, the National Housing Bank released the Residex Index, I mean, it's a real estate index, which they've had for some time, but they sort of updated it and re-released it. And now it has a lot more data than it had in the past. And that threw up some very interesting numbers. Now, between March 2016 and March 2017, the median return on real estate in 49 Indian cities was 2.8 percent. If you took out, there was one city, Vizag, which had given a return of 24 percent in the last one year. So if you took that out, the median return was 2.55 percent. What that tells you is, actually, I would like to highlight another point here. So the data in this index starts from June 2013. So if you look at the median return per year between June 2013 and March 2017 on investing in real estate in India across 49 cities, it was 4.3 percent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:54.700",
+        "message": "So demystify this for me. What is the median return and what should it be and why does it matter?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:59.140",
+        "message": "So median return is essentially, you know, if you have a long series of data, it's the middle point. It's not the average wherein you add it and divide it. So this is the middle point of the data. So 4.3 percent per year return over a four-year period, which isn't huge. So what that tells you is that even though the real estate prices are not falling, they haven't risen at the same rate as they were in the past. And also, you know, this also tells you that, you know, the notion that people have in their head that real estate will always go up isn't really correct. In fact, if you look at prices over the last one year, in 13 out of the 49 cities, prices have actually gone down. Also, you know, at 4.3 percent return or 2.55 percent return, I mean, it's not worth investing"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:53.660",
+        "message": "in real estate. It's a waste of capital."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:55.660",
+        "message": "It's a waste of because there are so many other, you know, costs attached to it. I mean, you have to pay maintenance charges. I mean, building maintenance charges these days are absolutely crazy. Then you have to pay a property tax every year. If you've bought a home on a loan, you have to pay interest on it. I mean, obviously, you get a tax benefit as well. The rental yields are, you know, 2 percent. I mean, so if you were to sort of use a ballpark figure, investing in real estate makes sense if the returns are at least 10 percent per year. And in the sample that, you know, in the data for 49 cities that NHB put out, only three cities over the last four years have given returns of greater than 10 percent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:42.660",
+        "message": "Which are those?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:43.700",
+        "message": "So I think one was Vizag and I don't remember the other two. One was Vizag, Meerut, I think, and there's a third one."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:54.220",
+        "message": "I think I'm going to relocate to Vizag and start a podcast called the Vizag Bulletin and you will always be welcome as a guest. So this is what I can't wrap my head around, like while ago you said that one of the problems is that supply hasn't reached its real price and its real price, as we all know, is whatever supply and demand it should be. So if demand falls by, say, 42 percent, like a figure you mentioned in one of the contexts, you would expect the prices to therefore adjust accordingly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:21.580",
+        "message": "And that simply isn't happening and I can't wrap my head around it. Why isn't it happening? There are multiple reasons for it. I mean, one is, obviously, you know, the builders don't want to sell at a lower price. And so if they don't want to sell at a lower price, they are effectively selling at zero"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:37.340",
+        "message": "then because they're not selling at all for the moment."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:39.220",
+        "message": "Yes, but then see the entire game is now, you know, they're basically waiting for the market to sort of recover. Now what has also happened is that, you know, liquidity in the form of private equity money from abroad has come in. So what they typically they tend to do is that when they do a deal with a private equity investor, they cut prices specifically for him. So this guy buys, let's say, a portion of the project at a lower price and he's happy to sit on it for prices to go up, you know, in four, five, six years' time or whatever his investment horizon is. And at the end of it, if, you know, whatever the prices are, he would be, you know, he would sell. So a liquidity in that form has come in."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:25.580",
+        "message": "The second thing\u2026 So, sorry to interrupt, but just to clarify that. So what it basically means is that the cost that the builder invests in building a particular property, acquiring the land, etc., etc., he recoups that through these early sales and therefore the pressure on him to sell the rest of the apartments and so on is not high."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:44.260",
+        "message": "He can just afford to wait. Yes. But the other thing that, you know, needs to be sort of taken into account here is, and I mean, I've been writing this for many years now, is that India's income tax laws up until February 1st, 2017, when Arun Jaitley made his latest budget speech, essentially encouraged people to speculate in real estate. Now what happens is when you buy your first home, which is, and you live in it, which in income tax terms is called a self-occupied house, the deduction that you get on your taxable income for paying home loan interest is limited to Rs. 2 lakhs or rather was limited to Rs. 2 lakhs, whereas if you buy a second, third, fourth, fifth, sixth, tenth, whatever, xth number of home and you finance it using a home loan, the entire interest that you paid on that home loan was available as a deduction against your taxable income to the condition that you added a notional rent to your taxable income if you were not renting that house out. Now, you would know that the rental yields are like abysmal, you know, 1-2 percent, whereas EMIs are huge. So that essentially ensured that a lot of corporate crowd, you know, senior level corporate crowd essentially brought down their, you know, taxable income and paid very little tax. By investing in real estate. By investing in real estate. And at the same time they created an asset, right. Now in this budget, Arun Jaitley made a very, you know, sensible sort of change and wherein he limited the tax deduction to Rs. 2 lakhs across all home loans. So this essentially takes the speculation that was happening at the corporate level in order to avoid tax out of the window. Now what happened was, for a lot of these guys, you know, who have a second, third home, it just did not make, they were not bothered about the fact whether prices went up or not. They were just bothered about the fact that their taxable income was coming down dramatically"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:56.660",
+        "message": "and they were paying very low tax on it. So in a sense it was a glitch in the system which helped the rich who already had houses and could afford more houses at the expense of the poor and the middle class who might have been saving up to buy a house. But hey, the prices never came down."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:09.060",
+        "message": "Yes. So a lot of these, you know, if you go to, I mean, I mean, I talked to my MBA batchmates and a lot of them, you know, have two, three homes. They don't require it. It's just that, you know, it was essentially a tax dodge that was on for a very long time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:26.260",
+        "message": "And this is now over. So was this a big enough factor that you expect this to happen?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:29.300",
+        "message": "It wasn't a very big factor, but it was a factor nonetheless. You know, the bigger factor is essentially, you know, people have this huge belief that real estate prices don't go down."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:42.900",
+        "message": "I mean, that is a very big factor. Then there are\u2026 Which was there in the US and 15 years ago. Then there is black money."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:49.220",
+        "message": "I mean, for a very long time, black money, a lot of black money found its way into real estate. And the way it works is very, very interesting. You know, what happens is you sort of buy your, you know, you get some black money from somewhere and you buy a house. Now when you sell that house, you get a bigger amount of black money back, right? So then what do you do with it? Then you go looking for, you know, a cheaper location where you can buy, let's say you had bought one, you know, house with that black money. Now you go buy two homes with that black money, right, in a cheaper location. So black money essentially leads to the multiplication of black money in real estate. And this is a chain which is very difficult to break. And what has also happened is, I mean, you know, to answer your specific question as to why sales have fallen and prices haven't. Now you know, look at a guy who's already, you know, invested, you know, who probably has three, four homes or whatever. And he's invested a lot of his black money in it. Now even if, let's say he were to sell those homes right now, he decides to sell them, and he sells them at whatever the market price is, and I mean, whatever the buyer is willing to pay. Even if, you know, he's even willing to take a loss, okay, loss as in he's willing to take a price which is lower than what he expected in the past, not a loss. Now he gets the money back, a lot of it is black money, now what will he do with that black money? You know, he can go buy, you know, more real estate, but that isn't giving him the kind of returns that it was in the past. So for him, the best decision is to stay put. So if, you know, he doesn't sell, so if there are no distressed sales, the prices will not come down. I mean, there need to be an enough number of distressed sales wherein people need liquidity."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:44.420",
+        "message": "So in a sense, when people have large amounts of black money, A, they get trapped into real estate because that is practically the only efficient vehicle for their black money. And B, because black money within real estate tends to increase in the ways that you pointed out, it becomes a spiral and this prevents demand from going down as much as it otherwise might. Now, regardless of that, overall demand has sort of gone down and prices haven't gone down. And the reason you gave for that, of course, is that builders having recouped their initial investment are willing to wait it out and they're just going to\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:16.700",
+        "message": "See, it's also another factor that you need to take into account is the fact that every builder is essentially, not every builder, but most big builders are essentially fronts"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:27.780",
+        "message": "for politicians. So that's what I was getting to. So my question there was that I can imagine this being a good rationale for one builder or two builders or whatever, but in a competitive marketplace, some builder or the other will say ki nahi main bech deta ho and then that turns the whole market, but does a competitive"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:43.020",
+        "message": "marketplace exist? It's a competitive market because, you know, if you look at it, there are way too many builders, but there are hardly any pan-India builders. Forget pan-India builders, there are no builders who work across a particular state or even a particular city. I mean, if you look at the city of Mumbai, it is clearly divided among builders. You know, you have one builder who is, you know, who operates in only in Goregaon or you have one builder who operates only in Navi Mumbai."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:11.220",
+        "message": "So explain this to me."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:12.220",
+        "message": "Why is this so? Well, it's primarily because the rules and regulations that govern real estate are so complicated that you essentially as a builder cannot operate if you do not have a politician, you know, blessing you and a politician's influence cannot go all across India. So he has an influence in a certain place and which is where the builder thrives."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:36.660",
+        "message": "So every local politician who's big in a certain area will give his patronage to a local builder"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:42.820",
+        "message": "and then it will be a symbiotic relationship between them, power and money. Which is how it is. I mean, if you look at, I mean, this is, I mean, probably not true everywhere, but it is true at a lot of places."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:54.580",
+        "message": "So tell me this, when you have a situation like this where the price isn't coming down despite demand falling so much, as they say, something's got to give some time. So what?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:04.420",
+        "message": "That's the million dollar question, you know, I've been writing for five years, six years now that prices will fall, prices will fall. Even music's going on, people are dancing. It's nothing like that's happened. I mean, even though, in fact, I mean, one thing that I would like to state here is that, I mean, on one count, I've been right as to that investment in real estate hasn't made sense for the last five, six years. And I mean, I have been totally right on that count. Now, obviously, prices haven't fallen and people who actually need homes to live in have been unable to buy homes. I mean, that is also a factor that needs to be considered here. And that's a very, you know, that's a major factor, because, you know, what typically happens is people become desperate to buy a home when the child starts to go to school."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:54.540",
+        "message": "Because till then it is easy, you know, you can probably move from flat to flat, and it's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:58.820",
+        "message": "not as difficult, but the moment you get a child, you know, you obviously want a stable school life for him, you want him to have friends, right? That is, and you know, it's, and then people become desperate. And that desperation, essentially, then manifests, you know, itself into situations where builders are not ready to cut prices. And I mean, then there are a lot of other factors from, you know, FSI, and FSI rent control. I mean, there are various things. All that is also there. And the fact that, you know, the government owns a lot of land in a lot of Indian cities, living in the middle of a lot of Indian cities, and so that sort of creates a, I mean, even though land is really not an issue, because India is a huge, big country, and we can always keep expanding. I mean, if you look at the city of Delhi, the way it is expanded on all sides is unbelievable. So if anyone says that there's no land and all, I mean, that's basically bullshit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:56.500",
+        "message": "Except in Mumbai. It's true for Mumbai."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:58.500",
+        "message": "And in Mumbai, there is artificial shortage also because of low FSI. And the fact that the entire eastern front of the city is not, you know, the Mumbai Port"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:10.940",
+        "message": "Trust. One thing that's unique to Indian cities, for example, is that the army often has a lot of land, even in the middle of cities like the Pune Cantonment, and the Navy Nagar over here, Bangalore."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:22.820",
+        "message": "And this is really not the case with any other country in the world."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:24.780",
+        "message": "And I mean, this was probably needed when the British ruled India and all that. But now it's not. Now it's not. And all that land is a huge opportunity cost. And if, A, if you free up that land, B, if you increase FSI, like to give a sense of that, FSI in Bombay, you know, in our big cities is between one and four. And like in New York, it's 15, in Shanghai, it's 13. In fact, when the Empire State Building was built, I believe it was 25. And there's no reason why FSI can't be much more than a lot of those government land."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:51.020",
+        "message": "So what happens if you increase FSI, then, you know, how do state level politicians make"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:56.820",
+        "message": "money?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:58.140",
+        "message": "That's an interesting political economic question. In fact, then there is there is also the case of change in land usage, wherein, you know, what happens is that a farmer cannot sell his land to an industrialist. An industrialist cannot buy land from a farmer. So you need the government in between."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:16.420",
+        "message": "In fact, the government is the politician. In fact, a few episodes ago, I did an episode on the right to property with Shruti Rajagopalan. And she brought exactly this out that one of the reasons Robert Wadra made so much money"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:27.620",
+        "message": "was by using the, you know, the change in land usage. He managed to acquire land at very cheap as agricultural land, and then he's changed immediately the value shoots up. I mean, he also made a lot of money because he got financed from DLF, I mean, exactly"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:42.860",
+        "message": "for all this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:43.860",
+        "message": "So it was almost like he got, I mean, he got an industry loan."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:46.780",
+        "message": "So I have a feeling that he has no issues finding a place to stay in this country. Vivek, thanks so much. It was great having you on the show. I learned a lot."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:55.260",
+        "message": "Thanks for having me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:56.260",
+        "message": "To follow Vivek on Twitter, do go over to at call underscore Vivek. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. All my writings are archived at IndiaUncut.com. If you enjoyed this episode, you can subscribe to the Seen and the Unseen on iTunes, Stitcher or any podcast app of your choice. All our back episodes are available at SeenUnseen.in. If you enjoyed listening to the Seen and the Unseen, check out another great show by IVM Podcasts, Made in India, hosted by my friend May Thomas, where every week she profiles"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:22:39.740",
+        "message": "up-and-coming independent Indian bands. See you next time."
+    }
+]

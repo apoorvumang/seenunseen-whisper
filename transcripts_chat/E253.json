@@ -1,0 +1,1402 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "This episode of The Seen and The Unseen is brought to you by Intel. There is this old cartoon that I remember from time to time. It features two wolves and a lamb arguing about what to have for dinner. Guess what the wolves want? When they can't reach a consensus for which lamb would agree to be eaten, one of the wolves says, let's vote and go by what the majority wants. Remember, two wolves, one lamb. And this is why a democracy needs to be about much more than just voting. You need to have a vote, but you need to protect the lamb. In theory, our constitution does this. Though my constant lament is that it protects the state from the individual more than the other way around. In theory also, our institutions and processes do this. Our parliament, after all, is there to help keep a check on the government in power, to keep it accountable, to help it do its job well. But is it like that in practice? I'm pessimistic about some of these questions, but my guest today is an optimist. More than that, while I am an armchair pessimist, he is an on-the-ground optimist. He gets up in the morning every day looking forward to how he can make our democracy function better."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:13.000",
+        "message": "And I think I might become a bit of an optimist myself because of people like M.R. Madhavan."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:34.000",
+        "message": "Welcome to The Scene and The Unseen. My guest today is M.R. Madhavan, who left a thriving corporate career a decade and a half ago to set up PRS Legislative Research which aims to make our legislators better informed about issues that face India. If you think about it, this was a gap in the market. Our legislators come to parliament after they have become experts in the art of winning elections. But for no fault of their own, they may not know much about governance or the complex policy issues that they suddenly have to vote on. Madhavan and his PRS co-founder C.V. Madhukar decided to fill this gap by creating research that would educate parliamentarians and help them make good decisions. To their delight, they found that there was a market for this and many parliamentarians wanted to learn. Since they started in 2005, they have also come up with other initiatives such as the LAMP Fellowship that strengthen our democracy. I was delighted when Madhavan agreed to join me on the show and I wanted to pick his brains on subjects that I have been thinking about and exploring on this podcast for a long, long time. I love this conversation and I hope you do as well. Before we get there though, let's take a quick commercial break. It is not just part of the backbone of the World Wide Web, it also helps specific businesses in specific ways. Intel's Wipro platform, powered by the powerful 11th Gen core processors, helps businesses remotely manage their workforce, helps them scale, keeps them secure and enables them to up-level themselves. Whatever they do, with Intel Wipro by their side, they don't need to worry about technology. Intel is that unseen force that powers their growth and that powers so much that we take for granted. The 11th Gen Intel Wipro platform is built for business, wherever business happens. Madhavan, welcome to The Scene and The Unseen. Thanks, thanks for having me. There's so much I want to talk to you about and some of those like constitutionalism and the state of our republic are subjects that I have continuously explored in this episode with other guests to the point that some of my questions will actually seem a clich\u00e9 to my listeners. But, you know, before we get to those heavy subjects, you know, this is the first time we've met. I want to start off by getting to know you a little better. So tell me about your life. You know, where were you born? Where did you grow up?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:16.000",
+        "message": "Okay. Early life, fairly boring. So I'll just keep it very short. My dad was a mid-level bureaucrat, not an IAS. And I grew up in Delhi. A bit in, he decided to retire and go back to his hometown. So a bit of the schooling in Palghar. Then the usual thing that people of my age did in those days, if you were good in maths, you tried for engineering. So I went to an IIT, did four years of IIT, largely played bridge there, decided not to continue engineering. So default option, go and do an MBA. So I went to IMCal, did my MBA, worked for a year, thought that I wanted to get into academics. At some time, I had missed the usual deadlines for applying to the US. And one of my professors at IMCal was calling me. So went back to IMCal, did a PhD, mainly in operations, but my secondary was finance. And in fact, I had got some good advice. This is mid-90s. There was none of these logistics companies and Uber and all this stuff. So the advice was that you might like doing quantitative methods and operations, but there are no jobs. So do something which is related to either marketing or finance, because finally you need to make a living. So that was my secondary. Finished that, landed up in Bombay because jobs are in Bombay. Got a job with a company called ICICI Securities, or it was called ISEC then, in the market side. Started in equities, equity research. At that time, ISEC was a joint venture between ICICI and JP Morgan. The joint venture broke. The JP Morgan took away the debt team largely. And I was looking at banking and the economy, so they moved me to the interest rate side. So I was doing interest rate research there. So I was in ISEC for about four and a half years. Then I moved to Bank of America in Bombay. Similar stuff, interest rates and currency. Moved to Singapore in early 2004. Was there for a year doing Southeast Asian currencies. And that was the professional part. Parallelly what happened was, in 96, which is when I joined ISEC, I met a person called Madhukar, who was flatmates with a colleague of mine. And Madhukar had started in ISEC. He had moved to ICICI. So we used to hang out. And Madhukar had started volunteering with Pratham and started full time. I used to hang out with the Pratham gang. I guess you know Pratham."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:07:00.000",
+        "message": "Of course, the education."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:01.000",
+        "message": "One of the largest ones. They were very small then. And of course, we were in touch. We used to share a flat for a while. Then I was doing my banking career and Madhukar decided to move full time into the education, not-for-profit space. And he moved to Premji Foundation. And he was pushing for the, they were actually trying to get the right to education constitution amendment done. When they discovered that MPs have no research support at all. Because they were trying to talk to MPs and many of them didn't know. So Madhukar came up with this idea of PRS and he was bouncing it off me. And of course, I mean, anybody, I mean, I'm an MBA, right? So anybody asks advice on anything, I mean, I will give some random gyan. So I was doing that. Over a period of time, I got intrigued. I got interested. And I had moved to Singapore. Madhukar had moved to the U.S. to do a one-year course at the Kennedy School. And then he was at the World Bank. And I had done a visit to the U.S. as part of my job at Bank M. And I had met him. He was at Harvard then. I'd come back. Then one day I thought, OK, this sounds very interesting. This sounds worthwhile. I was also getting a bit, by that time, I was getting intellectually bored. It was otherwise the job was good. I had got enough variety. But I was doing more versions of similar things. So I had done in because I cannot complain that in those almost ten, nine and a half years, I'd actually started with equities. I'd done power sector, banking sector, then interest rates, Indian interest rates, then Indian currency markets, then moved to Singapore, three other countries. Reasonable amount. But at the end of the day, if you had woken me at 3 a.m. and asked me, OK, what is the M3 growth of Indonesia in 1973? I probably would have told you and gone back to sleep because that's what I'm doing. I thought, OK, this seems interesting and it seems something worthwhile trying out. So I called him up from Singapore to U.S. Is the plan still on? Madhukar said, of course, yes. I said, would you like me to join you? He said, are you serious? I said, yeah. He said, OK, that'll be great. So soon after I left my job, I came back to India. Madhukar had finished. He came back to India and that's how we started off PRS. So that's the in a way the PRS thinking and bouncing of the idea started. I don't exactly remember when, but must be 2002 to 2003 sort of a thing. There were some emails which I can't find now because I used to use Hotmail then and my account is dead. So I can't get those emails. But so I don't know the dates, but it was around that time. And 2005 September is when we formally started in the sense the day the daily going into office started September 2005."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:13.000",
+        "message": "Awesome. And even I had a Hotmail account which no longer exists. It's like an artifact. So I moved house recently and we were unpacking everything and we decided this time. Bombay, you know, houses are small. So we decided we don't want clutter and we'll discard whatever we don't use. But I realized that it can be difficult. Like I found this first the Nokia first Nokia mobile phone I had with just buttons, obviously not a smartphone. And my heart would not let me kind of let it go, you know, so these artifacts kind of stay with us. Which year did you pass out from IIT Madras by the way? 90, 1990. That's fascinating. That means we were actually on the campus at the same time in the sense I visited Madigra your festival. Yes, in I think 89-90. I was in my first year of junior college then."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:58.000",
+        "message": "I would have been there definitely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:00.000",
+        "message": "Yeah, so we would have kind of I remember taking part in a few things. So and by the way, what was the M3 growth of Indonesia in 1973?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:07.000",
+        "message": "It's 16 years since I decided I'm not going to remember that. So I don't know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:13.000",
+        "message": "No, I'm just kidding. So I want to go back a little bit to that sort of world that there was then. Because, you know, there's a nice video of you online where you talk about the pre-liberalization years and how it was so dominated by scarcity. And that scarcity is a scarcity, not just of goods and services, but also in a sense of the intellectual stimulation we get. Like in terms of the books available to us, you basically read whatever you can, right? In terms of music, you know, just putting together a mixtape of new music could be such an achievement and so on and so forth. Tell me a little bit about the texture of your life outside of these biographical details, engineer, MBA and all. Which, by the way, in those days to do an IIT, IIM combination meant that you were really super smart. That's how we looked at it back then."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:12:00.000",
+        "message": "It was default. Today it's way more common."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:02.000",
+        "message": "It was default. It's default today. But I don't, you know, at that time, I remember it as, you know, like you almost used to resent those guys. What do they think? But tell me a little bit about, you know, the texture of your life in the 80s growing up, what would you do in your free time? Like today, people don't think of me, you know, people think of me time as something that you have to make for yourself."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:22.000",
+        "message": "Because otherwise we're looking into our smartphones and we're surrounded by things. We had a lot of boredom, right? It was nice. I mean, now I think back, I think it was good that there was a lot of boredom. But I used to read a lot. Of course, I used to reread a lot simply because I didn't have new books. And we used to trade starting with Amar Chaitra Kathas because that's the only thing. In most of the kids around me, many of them did not read much. So on a trade, I could get only Amar Chaitra Kathas and not better books. But I think at least, I mean, you are, I guess, just you said, just said that you are in first year. So you're just a few years younger than me. I'm 47."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:00.000",
+        "message": "So I'm almost 48. Similar."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:02.000",
+        "message": "So 80s and I guess till mid 90s, we all had this, in India, the only a few books available."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:13:10.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:11.000",
+        "message": "So read. Luckily, my school, very interestingly, had a very decent library. It was a small school in Delhi, RK Puram, Ramja school. But the library was excellent. I don't know how that happened. I was there in 11th and 12th. They had the full Alistair Maclean. They had all the P.G. Woodhouse's. So the standard, I mean, we all had the same books, right? We had the same books. And even during mugging up for my JEE, I managed to read about two novels a week. And it was only, it was fiction. I mean, I didn't read. At those days, other than textbooks, you didn't read, I mean, I didn't read nonfiction. But a lot of those and the librarian, librarians, I think, like kids who read. So officially the school had one library period a week when you go to get an issue. But I could walk in any time and get a new book. So we have seen you yesterday. So a lot of reading. I think that's actually the main predominant thing. And otherwise doing, I mean, errands, right? I mean, you had to go once in 15 days to the Russian shop, stand in a queue and carry that rice, 15 kgs or 10 kgs, whatever they used to give us back home."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:25.000",
+        "message": "What's your world to MITI life? Like, I know this is a very personal question and I would not answer it, but what did you daydream of?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:32.000",
+        "message": "I don't even know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:33.000",
+        "message": "I don't think I did much."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:35.000",
+        "message": "Life was much about, I mean, I just went with the flow. I mean, as you could see, even in my pre-PRS days, more or less, it was like, okay, you are good at maths and sciences. I mean, which is like, I was fortunate to have whatever those genes or talents or whatever. And which meant you ended up mugging up writing some exam. So you go with the flow. I went to the IIT with the flow. Didn't like engineering too much. Ended up essentially four years bunking classes and playing bridge. And then decided, okay, and what are the default options in 1990? At least in IIT Madras, about 60 or 70% of my class went to the US for a master's. And those days, MS meant you got scholarship, right? Today, I believe you don't. Those days, everyone, I mean, nobody had money. So you went for a master's. The remaining went for MBA. A few guys who did not get either took up a job with the idea that they'll apply next year. I mean, okay, we weren't lucky this year. Nobody wanted to go for a job. So the flow was that I got into an IIM in the first attempt. I was lucky enough to do so. And I would actually attribute, I mean, having seen others and people who didn't get in also, there is, in all these things, there is some amount of talent, there's some amount of hard work, and there is a reasonable amount of luck. So I would also attribute a bunch of it to luck. But I got in. So as you could see, it was like, I was just going with the flow."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:08.000",
+        "message": "One thing that fascinates me, and when I talk to guests of Our Vintage, what I enjoy exploring is how their views of the world evolved. Because one, there is red paucity where we're all essentially reading the same books, right? Like the Woodhouses, and like you mentioned, the Alastair Maclean's."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:23.000",
+        "message": "Sydney Sheldon. Yeah. I don't even know why."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:26.000",
+        "message": "Today, I would not read a Sydney Sheldon because other things are available."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:31.000",
+        "message": "But if only, you know, I still remember a vacation when I was marooned in an uncle's house. Because I had, this was after my 10th standard. So I was 15. And I had got some bad eczema and it had got infected. So we were on a vacation. So I was at their house when everyone else had gone off to meet some other uncle for lunch or something. And I was, I was otherwise, I didn't have a fever or anything. So I was limping around. I was at home. And I was at their place for five days. The only books available there. I mean, it's hilarious if I think back. And I read those. There are two sets of books. Because someone had visited and left them there. There was a set of Mills and Boones. So 15-year-old boy reading Mills and Boones. I never read them before. And there was Bhavan's journal. Okay. So between Mills and Boones and Bhavan's journal, I think I covered the spiritual spectra. So I read those. I mean, I could, I have read the first 20, 15 or 20 pages of James Joy Ulysses many, many times. Because I could never get past them. But that book was at home."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:43.000",
+        "message": "So every vacation, come back and try to read it. Yeah. I mean, and that's also luck that if you find James Joyce at home, is it Ulysses, which is so hard to read? Or Dubliners, which is such a great and beautiful book. And it's very weird that, like you mentioned, that if you had to choose. Like, it almost seems arbitrary what books were available to us. Like, My Calf has been a bestseller."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:03.000",
+        "message": "Hitler's book has been a bestseller in India for decades. I have tried reading it. It's unreadable. It's unreadable."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:09.000",
+        "message": "I mean, I dropped it. Yeah, but why is it a bestseller? And there's some accidents of happenstance there and so on. But the question I was coming at is, how does one arrive at a view of the world? Like, when I think of my teenage years and young adulthood and all of that, with so little exposure, you know. And I was a son of a civil servant. So for me, the state having the role that it does, that you look to it as a solution of all your problems. You don't question it in any way. You are, you know, naturally distrustful of markets, which, of course, weren't even really there in the 80s and so on and so forth. And it took me a long, long time to actually get into adulthood, refine my view of the world, think deeper about things, have the access to books that, on all sides of the argument, which would help me kind of think these things through. What was your view of the world during those years? Like, in the sense that at a later point in time, when, you know, 96, you started having those dialogues, you said with Madhukar. And by 2005, you've set up PRS. And these are clearly things that matter to you, that what is wrong in this country, what can one do? But are there threads of that before as well? Like, when do you start thinking about these things? And when you do, who are the writers or thinkers who really influence you? Like, I'm guessing Burke is one of them because you refer to him often in your talks. But not too much. In that context only."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:35.000",
+        "message": "No, Burke, I mean, I have seen, I have not read much of Burke. I have read, like, very limited amount. I have not read any of his books, couple of these things. And I have come across them only post PRS. Right, right. So, I read a lot of newspapers. I mean, not a lot. It's interesting. My father had very weak eyes. So, one of my jobs from the time I was a kid, I think by the time I was eight or nine, was to read out the newspaper headlines to him. And if he wanted any story, he'll say, okay, read this, I'll read out the story. That was part of my job. Good part of that. And very funnily, he was not interested in sports at all or in business. So, we used to read the newspaper pages, stop after the editorial page. Because then the business page comes and the sports page comes. And I was interested in sports because of, I mean, I was young, I had brothers, I had an uncle who was interested. I remember the very first cricket series that I can think of. I've seen slightly before, but what I remember is the 77 series when we used to wake up at 5 a.m. When India went to Australia, and I still remember Gavaskar scored, I think, zeroes or single digits in the first innings, in the first three matches and a century in the second innings. And we lost the first two matches narrowly. We won the next two with a fairly large margin. The first two matches, I don't remember the sequence, one was by two wickets, one was by 16 runs. Wow. So, third and fourth, I think one was in innings and one was some 200 runs, I mean, it was fairly clear victories. And the fifth match was a close one, which we lost. And of course, it was a weekend Australia team because they had, there was a Kerry Packer."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:25.000",
+        "message": "World Series."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:26.000",
+        "message": "Yeah, and it was Bob Simpson leading and Thompson was there. Lily wasn't, Thompson was there. So, that is an early memory. I was what, eight or something. So, I used to follow cricket, I used to read everything in the sports pages, including some sonnet club playing some other club or something else in Delhi. It'll come in a small thing in the newspaper. So, news was always there. Of course, when I went to Madras, the newspaper then was Hindu. And the Hindu crossword is a nice thing to do. So, we used to do that every morning. What else? I actually, I mean, I can't even pinpoint, but always been fascinated, interested in politics, partly because my father was. And at home, there was a lot of discussion, though he worked for the government. He didn't like the government. I don't think he was a pro-market or something like that. But he was always, I think there was some, he was a rebel in some sense, though not outwardly. So, I guess some of that might have been an influence. I don't know. So, the thing that you need the system, but always be suspicious and skeptical of the system. You need the system to work, but don't trust things to work because people will do various things. And of course, we had, I mean, I don't know how familiar you are with Delhi. So, we were initially in RK Puram. And then we had been rudely kicked out of RK Puram and moved to Janakpuri because he had bought a flat because he thought post-retirement he wanted one. And Indira Gandhi imposed the emergency and said, any government servant who has a house in Delhi has to move out of government accommodation. Wow. So, we moved to some, and that time in Janakpuri, there was nothing. So, we were thrown out. So, all those, I guess, like what's going on sort of a thing, right? So, I don't know. I mean, I actually don't know what are these influences. Of course, hanging out with Madhukar, I was going to Pratham. I was seeing what these guys were doing, Madhav and gang. So, one of the things that has that influenced part of the decision was the idea that if I am getting into this space, I want to do a reasonably scale impact. Otherwise, it's no fun. I mean, more than anything else. And even today, I'm not belittling the smaller ones because all those matter. But if you're interested in scale impact, I can think only of two models, frankly, I mean, variations of two models. One is a low cost replicable system, which is what Pratham had started off with. They were trying to do Balwadis, which was preschools in Bombay. Then they were running in the first three years, they were running, I think, some 4000 of them. So they are like a small, even in a slum, a room or a Mandir or a Masjid or something, you need a 10 by 10 space. And the local kids come. And these are three or four year old kids before they go to school. The idea was that these kids have never, I mean, the parents have not gone to school, many of them. So they're not used to that concept. And when they are five or five and a half and they get to school, they can't sit in a place for four hours. They're not used to it. They're running around in the slum. So you get them habituated to at least learning something. And they trained what is called ninth class pass, essentially 10th class fail, local, typically young women. And they would be doing what people like us do in nursery school, which is singing songs, learning ABC with songs or one, two, three with songs. So you get some basic thing you're playing around, essentially. It's a play school plus. Now, this was a cheap model. This was replicable. Or if I think in a different space, which I am very, I mean, even in our generation, 1990s, early 90s, the PC revolution, I mean, I end up at phone at home and getting a, making a phone call was not easy. But when they opened it up to the markets and they said, OK, PCO, that's a scalable, replicable, sustainable model for those days. Of course, I mean, that has become obsolete because of better technology and cheaper technology. But it did its job. Or if I think about, let's say, access to toilets. A brilliant model. It is sustainable. They charge a nominal amount, which people can afford, and it can be set up. I mean, you get access to a clean loo. And I'm sure that enough poor people, I mean, not very, very poor, but somewhere in the poverty range who want a clean loo, but they actually used to defecate in the open, in urban places, simply because they didn't have a choice. They were given the choice at a reasonable price. So, that's one model. The second thing is the state doing it because state has scale, the government has scale. So, again, Sholam Chachalai versus, let's say, Swachh Bharat. Even education. Finally, it has to be government schools. I mean, there are what? I'm just making my guesses. There are about 2 crore kids per year in the younger age group. So, if you're saying 10 years of schooling, I'm not even saying 12. You're talking about something like 18 to 20 crore kids. It has to be the government system. Nobody else can do it. And incidentally, if you look at the budgets, the union budget plus state budgets together is, I think, about two and a half lakh crore per annum spent on school education. Just think of the two and a half lakh crore per annum. The richest philanthropists in India. I mean, that's more than the net worth. I mean, this every year. And this is our money. This is the tax money. So, if there is an impact to be done, it has to be done through these. And if you can bring in, and I'm sticking to education. If you have seen the ASER reports, year after year after year, they tell you that 50 percent of kids in class five can't read class two stuff. This was the first ASER report. This now, I mean, 50 plus minus, somewhere between 45 and 55. That number hasn't changed. If you can get that two and a half lakh crore of our money to be a bit more efficient and improve this target. Just think of the impact that makes. No individual can do that sort of impact. Individuals can do impact at the margin. But I would say the individual impact has to leverage the state scale to get the real impact. That would be my thinking. So, some of these things. And of course, when we looked at parliament, we said, OK, all these policies. Finally, the buck stops at parliament, not at the government. The buck stops at parliament. Because they are the people who are supposed to oversee the work of the government. Are they capable of doing it in terms of do they have the systems and processes and support systems which enables them to do it well? If not, can we strengthen those and remove at least that bottleneck and see what happens? That may not be a sufficient condition, but that is definitely a necessary condition. So, let's get that in. So, that was the thinking."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:16.000",
+        "message": "So, I have a number of broad questions which occur to me. And the first of those, of course, you mentioned is education. And I completely agree with you that if you are going to do something at scale in that particular field, only the state can do it. There's no option to that. And therefore, we have to make that as efficient as possible. But orthogonally, there is also a situation where the state doesn't allow private entrepreneurs to function at all in this field. You know, my position on education, and I've had episodes on this with Karthik Muralidharan and others, and my position has always been that let the state do what it is doing to get its act together on government schools. But, you know, remove the restrictions, let private schools exist. As it happens, private schools exist in a very underground, jugadu kind of way. And, you know, various studies have shown that poor parents will often, you know, living in slums, will often prefer to send their kid to like a budget private school rather than a free government school. Kind of voting with their feet. And there's another sort of sideways suggestion there that you do school vouchers where the government keeps spending. But it's the parents who are empowered with the choice of which school their child goes to, which, you know, brings about a kind of accountability in schools. And I'm sure you would broadly agree with these propositions. But my question is that what it requires to make these things happen is really a change in the default mindset people have. That the state will do everything and anything outside that should be looked upon with suspicion. Which was really the 70s, 80s kind of default mindset which still kind of persists today. So, at one level, you can, you know, give rich analysis, you know, to MPs and politicians and so on. And, again, you've been at pains to point out that very wisely you don't actually make policy suggestions per se. You just give all the information and the knowledge so they can take an informed decision. But do you sense that there is any change at all in this default kind of mindset of, you know, the state controlling everything?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:13.000",
+        "message": "Yes. I mean, I'll give you a concrete example. Air India got sold. Yeah, yeah, finally. Okay. I mean, it had no reason to exist for the last 15 years at least. But finally, it got sold. Okay. I don't see any reason for today. Okay. Like, I live in Delhi. I know lots of people in Delhi who owns an MTNL mobile."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:36.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:37.000",
+        "message": "Why does that exist? Okay. So, if you allowed only market forces, they would have shut down long back like many other mobile companies did. If you want, I mean, the only reason for having something like that is if they are good and efficient and they prevent a market monopoly or a duopoly. Okay. You want competition. Government provides one more. But sector after sector, we have seen that governments are not, that is not the strength of governments. And it's not just in India. It's the nature of government of businesses. Right. I mean, so there are some, so there are place, there is a space for government and there isn't. So even when you're talking about education, take higher education. Okay. In general, in most fields, the most preferred option is a government college. Engineering. If you want to go to law, you go to NLS Bangalore, right? Or whatever. I mean, you're not taking a private law school ahead of that. If a kid had a choice of every law school, the kid will go to NLS Bangalore. If the kid wanted to learn medicine and every choice will go to Ames Delhi. If you want, I mean, you'll go to DU or whatever, right? I mean, one of the DU better colleges or Bombay or whatever. So, you're not going to a private college as your first choice in most higher education. You're going to a government college. So, the government actually has done a better job than this private sector in higher education. And there have been private engineering colleges for a long time. It's not, at least, I'm not talking about the liberal arts colleges, which have sprung up more recently, but medical and engineering started even when I went, I was taking my 12th class exams. So, the state has done well there. So, I would agree with you that there's no reason to clamp down on private sector, even in school things. You just, I mean, if you improve your quality and the kids start coming to you, you won the market game. Why should you force somebody to come to you? I mean, let the market decide that. But I don't see, I mean, politically, among the politicians, I actually don't see that much of suspicion of private spaces."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:07.000",
+        "message": "Yeah, that's good to know. I mean, one response to buy these sort of the chosen institutes in higher education, and I'm thinking out loud, you know, people will go to NLS or Ames rather than anything else, is that there are still many restrictions and many of these private engineering colleges and all these fly-by-night colleges that spring up are often kind of rather shady. But if you look in recent years, you had like ISB, you know, coming up, which is quite excellent,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:33.000",
+        "message": "which is good, Ashoka for the liberal arts. Today, if a kid gets into, let's say, IIM Ahmedabad and ISB, where will that kid go?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:40.000",
+        "message": "I think they'll go to IIM Ahmedabad because of received wisdom. But actually, there are plenty of people, perhaps many of them from ISB who say that ISB is a step above."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:49.000",
+        "message": "Maybe, I'm not pulling it down, but at least IIM Ahmedabad is equal to ISB in people's perception."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:54.000",
+        "message": "Absolutely."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:55.000",
+        "message": "I mean, it's not like, okay, it is not like, let us say, in Delhi context, getting into a DPS or a modern school versus your local Delhi government school. Yeah, yeah. It's not, I mean, they are roughly similar."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:11.000",
+        "message": "You're right by that entirely. Here's the next broad sort of question I have that when it comes to the space of ideas, I've kind of believed in recent years that there's no point going to the supply end of the political marketplace. You go to the demand end of the political marketplace and change the incentives. That if you just go to politicians and bureaucrats and sell them policies, which, of course, to clarify, is not what you're doing. So, you know, it's a broader question I'm asking. But to attack the supply end and say that we'll get better decisions if we work on the politicians and bureaucrats. And I feel that there, if change happens, it depends a little bit on luck. It happens at a glacial pace, like with Air India. I'm glad it's happened. It's not just the little that has happened. Whereas my sense is that the demand end is a problem. Like Andrew Breitbart once said that politics is downstream of culture. And if you just sort of change the culture first, like Gandhi, in fact, wanted to do. You know, if you kind of change the culture first, then the incentives of politicians change completely. And the incentives of bureaucrats even change completely because of what the politicians want. And then real change can happen. Is that something you've thought about?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:21.000",
+        "message": "So having worked fairly, I mean, at various levels, closely, not so closely, etc. With a wide range of politicians across every political party, both at center and states. I'm coming from that. And I've been doing this for 16 years now. I still don't understand what are the incentives that drive them. It's a very. So, I mean, I, of course, as you know, had a markets background for eight years. So it was all 10 years. It was always OK. Incentives drive people's behavior. Well, I don't really think that is a complete answer. Of course, there is the drive to some extent. For example, if I if you actually characterize a politician in that thing, it is OK. What are his objectives? I do in the next election. And what do we need for that? I need two things. I need to get the party to give me a ticket. And I need after that people to vote me. And that's the only thing I'm bothered about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:18.000",
+        "message": "In the middle, there's also I need to raise money for the next elections and."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:22.000",
+        "message": "Yeah, money and all that. We do every Wednesday when parliament in session and every Thursday, we do sessions for MPs, which is open to every MP and only two MPs so that there is Chetan House rules are maintained. Wednesdays, we get an expert to come and talk to them on a subject. And Thursdays, we look at bills which are coming up over the next week or the next month. And we discuss them in great detail. Actually, the discussion goes like, OK, look at this. There is an issue and a problem with this. The way this has been defined, because if you read this definition, this definition and this class together, there's actually a contradiction. There's a problem. So we need to fix this. Otherwise, you'll have a law which will later land up in court. And let's at least, I'm not saying what you ought to do or what the law ought to have, but the law at least should not have an ambiguity. I mean, we are all agreed on that. Right. So that sort of a discussion happens. Clause by clause, we go through it. Wednesdays, we get in someone to come and talk. And why would, OK, my classic example is about 10 years ago, when Abhijit Banerjee was not so famous then, because it was before his Nobel, so people in the field knew him well. But I mean, he was not a household name in India. He was visiting Delhi. He comes to India, right. And we had requested him to come and do one of these. And he did. Why would, on a December, cold December morning, about 20 MPs take out an hour of their time, which is a precious resource, which means they are not meeting constituents, which means they are not signing some letters, getting admission to a hospital or a school or something like that for somebody and meeting them and winning votes. We are spending an hour sitting in a room, listening to a professor of MIT, explaining why, I mean, and my request to Abhijit was to say that, to explain how do we understand why some policies work and why they don't, which is essentially what their core work is, right away. They use RCT and other methodologies, but behind that, why are they doing it? So how do you even know? Okay, we have pulled out a policy. Is this policy working or not? People sit and listen. We have had many in the recent past. I mean, we do it every time. Why do they take that time out? Nobody in the party cares. The boss in the party is not going to give them an extra probability of getting the ticket. Nobody in the constituency knows. In fact, they might say, why are you wasting your time there rather than fixing my road, which is anyway not their job. So why do they do? I think at somewhere, I mean, my own, this thing interacting one-on-ones many times, is they want to do the right thing. The question is, what is the right thing? Of course, it's driven by your ideology. I mean, what you think is the right thing and what I think is the right thing may be different. So we don't get into that. We explain, if you do X, Y, Z, let's say if you do X, the natural consequence of that is A, because that's what both logic and empirical evidence and what people elsewhere have done leads to. If you do Y, the consequence is B. Whether A is desirable or B is desirable is a political choice. I am not in that game. That's your job. People voted for you. You are the politician. No, but I can say X leads to A and Y leads to B. You choose whether you want A or B and therefore you choose whether you should take the X or Y path. That's the way we think. And that works. And they're appreciative. And in fact, these meetings which we have is all party. We have MPs across parties. And the discussion is very civil because there's no camera on. Nobody's going to talk about it outside. It's actually better than and much more civil than the conversation I have with longtime friends nowadays, which now many times gets into very or anything on. I am not on social media, but anything which I believe is on social media."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:27.000",
+        "message": "Yeah, one has to, you know, re-evaluate all kinds of relationships because, you know, just the polarization of these times changes so many equations. So I have a question from here that politicians, it seems to me, are forced when they succeed, forced when they succeed to inhabit two worlds. The first world is a world of electoral politics, which only requires them to win elections. And they excel at that just by the selection effect that if they've actually become a minister or an MP, obviously they've excelled at that. That's why they're there. They are great at that. And that's a business that demands building public opinion, managing the internal politics within the party so that you get a ticket, managing money, managing money. And when you get money to run for elections, there are quid pro quos involved and ROI has to be guaranteed and all that is there, which leads us to the cynical view of politics that politicians will just play this first game that I've just described and look at the next election and whatever they do is with an eye on either increasing votes or increasing money or making sure the party gives them a ticket like you correctly said. Now there is a second game that begins. This is a first game. They've excelled. They're there. The second game is the game of governance. Right. And this is a completely different game. And this is a game they're beginners at. For a first time MP or a first time politician, this is a game they're learning from scratch while the other game they've pretty much mastered by the time they come here. Now it strikes me that, you know, for anyone to excel at any two fields to find that conjunction, first of all, is just statistically rare and unlikely that someone who has a mindset to excel at game one, which is electoral politics, will also have the mindset to excel at game two, which is governance. And the interesting thing about our modern times increasingly is that it seems to me that elections are determined not by the quality of the governance you might have done, but the quality of the narratives you build. So there is actually even this disconnect that they may not even feel that the second game matters at all. So you've mentioned that you had Dr. Banerjee come and speak to these guys and 20 people showed up. Well, there are 420 MPs in parliament. But I buy your point that I mean, obviously, you interact with them more than anyone I know. So you'd have a better handle on this, which is why this next question that I guess at some level, a certain presumably large percentage of them would have the desire to learn governance and the interest to figure out what's going on. A large percentage of that percentage would put in the work and some percentage of that percentage would actually have the capacity and the prior learning in terms of being good readers and having exposure to a world of ideas to actually kind of make sense of it. I don't know any of this and you know all of this. So tell me a little bit about this second game and how politicians treat it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:22.000",
+        "message": "Actually, this is the third game also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:24.000",
+        "message": "Tell me about the third game. Let me complicate it for you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:26.000",
+        "message": "Yeah, please do, please do. I would actually say there are three skill sets at various levels. I'm talking about the ministers. So first you have to win an election. That's a particular skill, which I mean, somebody like me will have zero ability. The only time I have stood for an election was for the library secretary of my hostel of 180 people, which I lost. And I knew all of them for three years and I lost. That's my only electoral foray. And I have tremendous respect for people who win an election with an electorate of 15 lakh people. How do you manage that? I have tremendous respect for this. Second, they get elected. Now they are legislators. Okay. You have to understand, let us say, the insolvency and bankruptcy code. What are the nuances there? Then you have to go and see something completely different. Let's say something on education. How do you regulate higher education? Okay. Or as you could see in all newspapers today. Yesterday, the Standing Committee on Finance was hearing people on cryptocurrencies. Now, I mean, frankly, despite my finance background and supposedly an engineering degree, I don't understand this whole thing yet. I haven't put in my time on it, but I don't really understand what it is. But if you want to decide how to regulate, whether to regulate, not to regulate, you have to understand what that animal is. So that is the second skill set. Now, let's say you become a minister. There's a completely different third skill set, which is you're a manager now. It's an administrative skill, which is very different from the intellectual ability to understand how the system works. I mean, if I take, let's say, a university example, a brilliant professor and a researcher may not be a good dean or vice chancellor. I mean, that's a different skill set."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:46:37.000",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:38.000",
+        "message": "So you need three different skill sets. If you're a minister, if you're an MP, you need two because you don't need that. You need the administrative to the extent you are managed, but that is part of the first itself, that is managing a constituency and your winning elections. So it's actually a very difficult task to find capable ministers because they, if you don't, you need all three. That's the issue. Of course, we, fortunately in our system, we can bypass number one for some of them by getting them through Rajya Sabha. So you have two and three you can manage, but most of the better guys have done all three. I mean, I don't know the name names, but you all know there are people who have been excellent ministers who have come through the Lok Sabha route."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:24.000",
+        "message": "Since these are words of praise, why don't you actually take names? I'm very curious. Or you feel others will feel offended."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:30.000",
+        "message": "Let me not go recent times. Yeah, yeah, yeah. Because then it, because I don't want to get into, in this polarized world, into all sorts."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:37.000",
+        "message": "Taking sides, appearance of taking sides. I get that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:40.000",
+        "message": "But let me think, let me somebody like Yashwant Sinha. Okay. He won the election. Okay. He, I would say as a finance minister, he transformed the indirect tax system. I mean, GST was a later thing. GST of course did it, but he cut the number of tax slabs. He is the person who actually did the initial FRBM part of which said that essentially I have, there is a lot of pressure on me as the finance minister to spend. So let the legislation tie my hands on how much I can spend because that's dangerous. Of course it was passed by Chidambaram because it didn't get passed in this time fully. I think it was passed in 2005 or was it 2003? I don't know, but I remember the first paper when it came because I was in the interest rate market. I saw that. I said, wow, I am seeing an interest rate rally because the government cuts its borrowings. And I remember writing a note that time. So I remember definitely it was him. Okay. So, and he of course was running a ministry. So there's somebody like him and I'm sure there are people in the past enough. And I mean, I don't want to go to current people because then it becomes, it takes a political change, whatever you say in today's world."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:48:58.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:59.000",
+        "message": "So I just want to avoid that. That's why I'm going back 20 years. And he's effectively, I mean, though he, I think he tweets, et cetera, but he's effectively retired from active politics from what I know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:09.000",
+        "message": "Indeed. And in fact, some people say that when he was finance minister under Chandrasekhar just before that government fell, he actually came up with a plan that he also wanted to liberalize before, you know."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:19.000",
+        "message": "Perhaps. Or even the reason I did not take the name of Manmohan Singh, the finance minister is because he was Rajya Sabha, but otherwise he excelled in two and three. He excelled in two and three. We are talking today, I think. Yeah. Or PRS would not have existed if 1991 liberalization hadn't happened and would have given me the confidence to actually quit a job and do things like that. And even the career trajectories we had were thanks to 91. So, I mean, I am deeply grateful to the Narsimha Rao, Manmohan Singh for transforming at least my life. I don't know what others."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:54.000",
+        "message": "No, no, absolutely. So they were there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:56.000",
+        "message": "So, but he was Rajya Sabha."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:49:58.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:59.000",
+        "message": "So he didn't get the, in the three categories, he didn't make the first one. He made second and third, which is he understands things, nuances, very complex things. And he could also run the finance ministry and later the government. And running a government, I think people in the private sector don't understand the real complexity of running the government, which is way, way more complex than the most complex conglomerate you can think of. Can you elaborate on that a bit? Well, if I'm running a conglomerate, I don't, or running a company, I'm the CEO, I have to get a buy-in, but I can also easily sack people. I can get in new people and I am doing a limited market thing. Here, the number of different stakeholders and pressures that I have to handle and any decision, the impact it has, not just the first order, but second, third, fourth, fifth order. How do I even comprehend that and play for that? I mean, on anything, you don't know what are the unplanned consequences and you have to be careful about it. Because policy has way more complications and consequences than a business decision. Worst case in a business decision, that company will go down. Here, you take down the country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:17.000",
+        "message": "So, let's look at the Air India decision as an example, where it seems to me that it would really require skill number two at some level to really understand why this is a good thing to do. But skill number three, mainly to get it through that massive sort of government system."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:36.000",
+        "message": "The vested interests which are holding that back. Yeah, you need to get that done."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:41.000",
+        "message": "Yeah, and that can take years or never happen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:44.000",
+        "message": "Why did they not do it all these years? I mean, because you could see right from 2014, when this prime minister came in, that at least Air India was intellectually an easy decision for. Low hanging fruit. Low hanging and I think, at least I'm guessing, of course, I don't know. I'm guessing that ideologically, you won't have an issue with it. I mean, it would be part of the thing that he thinks should be done. Yeah. That's what I'm guessing from the other actions. I mean, obviously, I've never met him, so I have no idea. But looking at the other things he has done, I think this would fit in with his worldview, by and large, not an issue. And he's easily the most powerful prime minister in terms of ability to take decisions and get them done. Since perhaps Rajiv Gandhi, right, I mean, the first clean, clear majority and first person who has full control over his party. He took him so much time to do it. So it's not an easy thing to do."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:52:51.000",
+        "message": "Yeah, I mean. People underestimate that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:53.000",
+        "message": "People say, why didn't he do it? Yeah. There must be some reason. It's not that he's incapable, it is more likely that you don't understand the complexities he's facing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:06.000",
+        "message": "So, you know, many listeners would listen to this and wonder, he is a prime minister. He is Modiji. He did demonetization overnight, which was such a disaster. You know, if he gives an order, what stops it from actually being carried out? And I understand the answer is deeply complex, but this is a question people would have, demonetization toh kiya, isme kya hai? So can you kind of elaborate a little bit on the sort of this labyrinthine kind of opaque, deep state, as it were?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:38.000",
+        "message": "I actually don't know the full answers. I can only take some guesses. For example, if I were a bureaucrat and I am entitled to, let's say, economic laws or business laws, I probably get a free upgrade every time I travel that. Why would I get, why would I?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:53.000",
+        "message": "Okay, as small as that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:53:54.000",
+        "message": "Why would I not take that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:56.000",
+        "message": "It hurts me. I'm guessing, but there'll be somebody like that. And there'll be many other things and they're also ideologically. What happens to all those Air India employees? It's a big question. Right? I mean, you know, it depends upon the way you look at it. One way to look at it is that anyway, in the top 2% or 1% of the country's population, can this money be used to the bottom 5% rather than the top 2%? That's a good way of putting it. One way of thinking that. But another way of thinking that is, well, can I afford to hurt these guys? One of the benefits or fortunate parts of being in some place like a PRS is the variety of issues that I get to look at and the variety of people that I get to talk to, which is great fun, or the way we have nicely defined our domain is anything that comes to Parliament, which means everything. Right? So I'm not restricted to, let's say, education or health or sanitation or banking or insurance or something like that. So if you talk to any of these people, health sector, they will say India should set 6% on health. When I talk to the education guys, they will say 6%. You talk to the guys who are working on defence, they will say China is there, Pakistan is there, we shouldn't spend X percent. You add them up. Okay. You'll get a number. Tax to GDP is what? 15, 16, 17%. Say fiscal deficit, add. Okay, no, no, we shouldn't do fiscal deficit. It's bad. But add a generous sum. Let's say, country does a fiscal deficit of 10%, which is a risky part. Still, you are at 27%, 25, 27%, and you add these, it will be like 40%. So the example I give, and for everything, again, I think the best way to think of the world is through the eyes of cricket. Yes. Should you play Ashwin? Yes, of course. Who do you drop? There are only 11 spots. So if you say you have to play Ashwin, it is a meaningless statement unless you say, replace X by Ashwin."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:56:02.000",
+        "message": "Then I'm willing to drop Ashwin."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:04.000",
+        "message": "But should I drop this? No, you need that guy. No, then who will we play instead of somebody, right? So same thing. If you are saying you have to increase for health, tell me what you should reduce for. Otherwise, it's a non-starter because the resources are limited. I mean, I don't think people get the, people think government has unlimited resources. So same thing, if you are spending, so Air India, my contention would have been that if they had paid, they got some, whatever, a few thousand crore. But let's say they paid 10,000 crore for somebody to take Air India off their hands. It would have been worth it because Air India is bleeding 5,000 per year. So instead of minus 5,000, in two years, minus 10,000, you're paying minus 10,000."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:53.000",
+        "message": "Third year onwards, your payback period is two years. Which makes a good business decision."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:58.000",
+        "message": "The money you don't spend is a notional profit from giving Air India. It is because that 5,000 could have been spent, let's say, in sanitation or education or health or defense or wherever else."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:07.000",
+        "message": "Where the government needs to spend, right? So I have a story which seems unrelated to this, but I think it's related and I'll tell you why. It's a story about Leo Tolstoy and a chicken. Now, in the last years of his life, Tolstoy became militantly vegetarian. You can, in fact, say that he was like one of the original virtue signalers before Twitter. But militantly vegetarian and Gandhi, in fact, was very influenced by him in certain ways. So one day, one of Tolstoy's aunts, an old lady, because obviously he was also fairly advanced by this time. An old lady said, I'm coming home for dinner. So he said, you're welcome. So she said, I would like to eat chicken. I know you don't eat animals, but I want chicken. So he said, OK, no problem, you'll get your chicken. So she lands up there and when they go to the dinner table, she finds that Tolstoy has put a live chicken on the chair. Right. And for me, this is sort of a wonderful metaphor for and I'm non-veg, by the way, so I'm not advocating for vegetarianism. But this is a wonderful metaphor of how in most people's minds there is a disconnect between the chicken on the plate and the chicken on the chair. Right. And it's almost a necessary disconnect in some ways. It's a scene in the unseen. Similarly, when it comes to government, I often say that India's biggest religion is not Hinduism. It's the religion of government where we look at the government as a solution to every problem. And we assume there is no cost to government action. And what you just said, you know, is such a good way of thinking about it that we've got to understand that to everything the government does, there is a cost. And at some level, even beyond this issue of scarce resources and choosing what we spend on, even before that, at a meta level, there is a moral cost. That government exists at the extent of a certain necessary violence to, you know, to have a state. And we never take any of that into account. We just say ki nahi, we should spend so much, spend that much. And I thought I should say, you know, this Tolstoy's chicken came to mind. So I thought I should share that. Let's get back to the meta question, but to the start of our republic, right? Where, you know, you've spoken in the past and I've had many episodes on the constitution where we speak about how, you know, it's not just important to be a democracy in a sense of having elections and all of that. But you also need to be a republic. You need a constitution, which is a set of rules and that constrains the actions of governments, not people, constrains the actions of the state. Now, what strikes to me, what strikes me as a fundamental paradox and something that I think even Ambedkar realized and Gandhi realized is that the constitution, though it is nowhere near as liberal as I would like it to be, is much more liberal than society. And therefore, we have essentially a bunch of elites and at that time unelected elites who impose a liberal constitution on an illiberal society. So the first question, which is an abstract question, which, you know, we don't have to go into if you don't want to. The first question is, can that imposition be liberal? Is there a better way of doing it? But the second question, and this is a danger that Ambedkar was aware of because he said that the constitution is no more than a topsoil, that everything beneath is completely different. And their hope, of course, at that time was from the topsoil, these values could kind of penetrate below, which, of course, did not happen. And what we see today, in a sense, in my cynical eyes, and I tend to be more cynical than others, so you might feel differently, but in my cynical eyes, in a sense, I think politics has caught up with society. And perhaps that experiment was always doomed to failure if you did not also, you know, impose those kind of or rather introduce those kind of values into society itself and, you know, make it a bottom up thing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:53.000",
+        "message": "What are your thoughts on this? Fairly complex one. So I'll just start off with saying that you're asking me this question in 2021, which is 71 years since 1950 and 74 years since 1947. The very fact that you can ask me this question and you're going to put it in public and we are not having a closed door conversation, which nobody knows about, is a sign of its success. And the reason I'm saying this is, and this is something that I have read and actually, I mean, I don't even know how do you find these things, but there's this, what's the name of the book? Ashutosh Varshney's book called, I think Battles Half Won or something like that. I think it's Battles Half Won. I'm not, it is Ashutosh Varshney's book where he quotes a study where they have looked at some over 200 odd regimes and seen what are the determinants of who will stay democratic and who won't. And India is the biggest, by far the biggest outlier. And another very interesting thing that study puts out is, so if you look at World War II as a cutoff point, because the world, Asia, Africa, were largely colonies of European powers till then. And World War II was a break point. India was one of the early ones to get decolonized and a bunch of people in the next 20 years, almost everyone got decolonized. How many countries out of that have stayed democratic? I'm just using, say, regular elections. We missed one by one year. But after elections, second this thing, if the elections are broadly free and fair, and if the incumbent loses, hands over power, which to our credit, Indira Gandhi did. I don't know whether she had a choice, but the fact is she did. She didn't call in the army. I don't know whether they would have listened to her, but she handed over power peacefully and went off. So, I'm no admirer of her, by the way. But at least this one action was, I mean, I don't even know what happened. But how many countries have managed not to have an army police rule and a democratic, can you guess, of the set that became independent post? So, I'm not talking about, let's say, the Western democracies like the UK or the US or, I mean, I would even call Australia and New Zealand as Western or Japan, which was never a colony. I'm not talking about them. Guess how many countries? The number must be really small. That would be. According to this study and the book, there are seven. India is one of them. And I remember the other six and I'll tell you. So, it is Belize, Jamaica, Mauritius, Papua New Guinea, Solomon Islands and Vanuatu. None of which has a population of even one crore. We are 150 times larger than the second largest. I guess they are way more homogeneous if a population of a few lakh like Jamaica or something than a complex country like India. So, we have pulled off a miracle. Let's not demean that. And all our cynicism about what's happening at the same time, we should not get complacent because it's a perennial project to keep this running. I mean, democracies, you could see by its very nature, the liberal order, which says that everyone has a right to say whatever is on their minds as long as they are not causing physical violence to you and therefore can convince other peoples of their opinion versus the other order, which says that somebody who speaks what they don't like will be shut up. You are under way greater threat because you are saying that those guys should also be around at all times. And you want to keep that and you want to survive. If you lose the battle for ideas once, you can't get it back. Whereas those guys, if they lose the battle in the next election, they'll win the battle again. But they won't have a next election. So, it is a perennial project and we have done a great job. I mean, so that's what I would say. Now, coming back to your first question about, yes, of course, it was a bunch of elites who put on a liberal thing, which was way more liberal than what society did. But society has moved. I mean, we still have a lot of issues. But, you know, I would say broadly moved in that direction in which they envisioned India to be for one biggest achievement. We are one country. We are not balkanized into 25 countries. We still are one country. You did not require a visa to come from Bombay to Delhi. You just took a flight, I guess, and came over. All of us have, I would say, multiple identities, the way we think of ourselves. So somebody might think he's a Maharashtrian or a Kannadiga or a Malayali or a Tam, but everybody, most people in India think of themselves also as Indians. And I don't know whether that was true in 1920s and 30s. I mean, you're probably your caste first or religion first or region first or something rather than Indian. So that is a huge achievement that the country as a whole has achieved. So I'm actually that way, fairly optimistic. So when you are at every point of time. Last, I mean, I don't know, ever since I can think of as an adult, the current situation has seemed bleak."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:06:55.000",
+        "message": "But if 10 years later you look back, you think, well, it wasn't that bad."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:01.000",
+        "message": "I think, I mean, a lot of things that are being said today are, again, with a bit of exaggeration in all sides."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:11.000",
+        "message": "By your counterpoint, like it plays back to that old statement about whatever you say of India, the opposite is also true. And I remember in episode 149 of the show, I had a long, deep conversation with J.P. Narayan. And when I referred to India as an illiberal society, he pointed out that from another point of view, it's also a deeply liberal society in the sense that if you look at our food, our culture, our languages, it's just so much assimilation coming in. So I buy that point. And as far as the constitution itself is concerned, I think Rohit De's book, People's Constitution, shows about how there's so much lived reality. Constitution is part of the lived reality of people as well and so on. As far as, you know, I agree that it is almost a miraculous achievement that we remained a democracy and we should not take it for granted and assume that, you know, with the benefit of hindsight that it was inevitable. It absolutely wasn't. It is incredible. But I wonder how much of it is down to sort of inertia, you know, just no one really going as far as to cause the friction that causes such rapid change and also happenstance. Like you mentioned Indira, like sure, she lost the election and she gave over power, but we all know that Sanjay Gandhi didn't won the elections. She called the elections because she wanted, you know, she wanted the foreign press to think better of her and she genuinely believed she would win. So it might well have been the case that had Sanjay had his way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:32.000",
+        "message": "But she handed over power when she lost. She did. But she didn't rig the elections. Sure, but we may not have had the elections. Sanjay didn't want to. See, put it this way, I think emergency was the darkest period in our post 1950 history."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:47.000",
+        "message": "So, I mean, as I told you, I'm not an admirer of Indira at all. In fact, I think even the period before that when she was PM because of her economic policies were a really dark period."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:57.000",
+        "message": "That I have a slightly different opinion in the sense, I mean, I'm not particularly in favor of those economic policies, but they went through a formal proper process. And at the end of the day, you take right choices, you take wrong choices, but you have the constitutional sanction to take."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:18.000",
+        "message": "Yeah, I mean, they weren't authoritarian impositions, but they were disastrous in their consequences."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:23.000",
+        "message": "I agree with that, but whatever they were, but the very idea of the emergency is seriously problematic. But she did that. Sorry, I think I interrupted you and I lost my thought."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:09:37.000",
+        "message": "No, no, you didn't interrupt me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:39.000",
+        "message": "You were sort of responding to my point about Indira and you were sort of stating that she did give up power. And there are, I guess, all these, you know, always multiple ways to look at something."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:50.000",
+        "message": "Sorry, just one point, which was saying that you think it's inertia. Well, it's a possibility. The way my counter is simple. Okay. If you see culturally, okay. Assuming India is a common culture, which I actually, I don't think historically it was, it was too different. But probably our Punjab and the Pakistani Punjab have way more common culture than our Punjab and say Tamil Nadu. Okay. But Pakistan had army coup in 1955 or 50. We didn't. Okay. But so if it's the inertia. Okay. And what and the loss of democracy. I'm just looking at culturally India, Pakistan, Bangladesh, and I would contend even Sri Lanka to some extent are not very different. I mean, at least all of us like cricket. So, we had a different path politically in the democratic this thing than the others. So, that's why I'm actually saying that it's an incredible achievement already. But the question is 75 years, are we going to do 75 years more of that or not?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:11:02.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:11:03.000",
+        "message": "Because it, and remember, I mean, when did, okay, US, what's the start of US? I would say 1790 or something. Not 1776 was the declaration of independence. I think early 17, what, 82 or something is when the Brits were defeated. The constitution was written in 1789, 1790. At 70 years, which is our age now, they were fighting a civil war. We are not."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:29.000",
+        "message": "Well, who knows after the delimitation exercise, but."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:11:33.000",
+        "message": "No, it's not a proper civil war with two armies fighting each other, people dying on the battlefield. I mean, that's a different level happening there. They went through that before they forced the nation. We have managed to do it without doing that. Yeah. That's itself an achievement."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:52.000",
+        "message": "That's a great achievement. And whatever people think of this regime, and I am, of course, an outspoken opponent. But the point is they won elections fair and square, you know, and they kind of mastered that game one, as it were, which is."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:07.000",
+        "message": "They have done elections and policies. You can always argue various ways. And there are, I mean, even the severest critics of them on the policy front will say things like insolvency, bankruptcy code is a great reform. And that's true of every government. Every government, if you have an ideology, which I deliberately don't because I need, I mean, professionally, I should not have one. But if you have an ideology with every government, you'll find a mix of things where you like some and you don't like. Because the governments are also managing multiple stakeholders and multiple ideology. And they're not going to do exactly what you want them to do because they are managing lots of contradictions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:51.000",
+        "message": "In fact, one of the sad signs of our discourse is that it's become so tribal in the sense that if you are with one party, you will think that 100% of the things they do are correct. And if you're against a party, you'll think 100% of the things they do are wrong, which is crazy, which cannot possibly be true. That is stupidity. Yeah, that's kind of a sign of the times. Let's take a quick commercial break now. And on the other side, we'll continue our fascinating discussion. I have so much I want to talk to you about. which aims to help people up level themselves by reading more. A few months ago, I signed up for one of their programs called the Daily Reader. Every day for six months, they sent me a long form article to read. The subjects covered went from machine learning to mythology to mental models and marmalade. This helped me build a habit of reading. At the end of every day, I understood the world a little better than I did before. So if you want to build your reading habit, head on over to CTQ Compounds and check out their Daily Reader. New batches start every month. They also have a great program called Future Stack, which helps you stay up to date with ideas, skills, and mental models that will help you stay relevant in the future. Future Stack batches start every Saturday. Also, check out their Social Capital Compound, which helps you master social media. What's more, you get a discount of a whopping 2,500 rupees, 2,500 if you use the discount code UNSEEN. So head on over to CTQ Compounds at ctqcompounds.com and use the code UNSEEN. Uplevel yourself. One, I'm glad we have the constitution. We do. Like you pointed out, it might be a big factor for why we've kind of stayed together as one nation instead of getting balkanized. Why we haven't had the army takeover and so on and so forth. But at the same time, there are deep flaws with it, both at the time of inception and through the years. For example, at inception, if you know, if one just looks at Article 19 and earlier, we referred to free speech. And it's true that you and I are able to have this conversation right now. But it is also true that throughout the country, the state at least has the tools to clamp down on dissent. Because the caveats in the constitution to free speech are those vague abstract terms like public order, decency, and so on and so forth. Which constitute such limits on free speech that I sometimes think that we are just being lip service to free speech. It's not there. Which are also the reason why laws like 295A, 153A, the Sedition Law haven't been struck down. The Sedition Law was declared unconstitutional in 1950 and Nehru brought it back with the First Amendment. Because he wanted to keep the communists under control at that time. So this is my sort of first misgiving about the constitution that it's heavy, bulky document that takes a lot from everywhere. Right from its size, you can make out it doesn't have the clarity of, say, the American Constitution, which you can carry in your pocket. And the other misgiving is, I'll hark back to this old cartoon which once came where, you know, a guy goes to a bookshop and he says, Parliament Bookshop, and he says, can I buy a copy of the constitution? And the guy says, sorry, sir, we don't sell periodicals. And it's just been amended so many times. One of those amendments famously, you know, turning the right to property from a fundamental right to a legal right or basically not a right at all. And it's been amended so many times at the whims and mercies of those in charge, that you begin to feel that, you know, yeh sab dikhawa hai in a sense, you know, I've heard you speak and I completely agree about the centrality of the constitution to our republic. But I feel dismayed when I think of all this. What are your thoughts?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:19.000",
+        "message": "Two points, which you said, one is, it's a bulky document, whereas the American one you can carry in your pocket. And the second is that it's relatively easy to amend and has been amended over a hundred times. On the first, I think there's just a cliche which is incorrect. If I'm living in a state of whatever, Ohio or California or New York or whatever, I have to look at the constitution of the United States of America plus the constitution of that state, which is fairly large. OK, so we have only one for all 28 states plus the Union. If you add the 28 constitution or 50 constitutions plus one there, it'll be, my guess, I have not read them. I've seen only the main one, much, much larger. OK, so I actually end in a sense, if it had been as bare-boned as the American one, my guess is it would not have served its purpose. And it needed to put in a lot of details at that time in our history. And remember, when you're thinking of a constitution, at the time it was written, what was the background? The primary thought of the American constitution, the guys who wrote it, was that they were essentially rich landholders, slave owners, largely. And they were threatened by the fact that the mad king George III will come back and take over. So the entire constitution is to protect their interests. That's the way it is designed. And you read the Federalist Papers, which is brilliant. I mean, I recommend that to everyone. Absolutely. It actually is the first detailed in a language that I know, which is modern English, exposition of thinking behind separation of powers, etc. I mean, I'm sure others may have written, but this is the one I have read. So this was their thinking and that was the background. In India, these people were thinking about social reform, economic reform. The Americans weren't. American constitution was conservative. It was keeping the current elite in power, continue to stay in power. Our purpose was very, very different. So it needed, I mean, things like directive principles would never find place in any of those. Right. So that's one. The second thing that you talked about, I would actually call it the strength of the constitution. Which is, do you know what's the average life of a constitution in the last maybe 50, 100 years?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:00.000",
+        "message": "How long do constitutions last? Since you've asked me, I'm sure the number is very low."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:04.000",
+        "message": "I have read this in a paper. So it's in that book edited by, it's a handbook on the constitution edited by Madhav Khosla, Pratap Bhanumetha and Sudeep Bose. It says 15 years, maybe 15, 16. We have done 70. And despite all our contradictions, all the pressures, we are the only, I said we stated democracy, we state that also we are possibly the most diverse nation on earth. We are Europe or we are Africa. We are not France or Germany. Right. And we have stayed. And I think this is part of the thing is the flexibility it afforded, which helped manage the contradictions. I'll just start at the very beginning. Nineteen early fifties, there was this movement in Andhra Pradesh that we need a state for the Telugus, separate from Madras province. And you know Nehru wasn't for it. He was afraid of balkanization. If these interests are allowed to go, then everybody will want and the country will split up. That was his genuine worry. And this was just a few years after the country had split on religious lines. They wanted to split on linguistic lines. But then 1956, which is pretty soon after, there's this major amendment to the constitution, which created linguistic states."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:21:33.000",
+        "message": "And in hindsight of 60 years, 65 years, well, it was it has worked."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:41.000",
+        "message": "So it allowed that sort of flexibility. We have even, I would say, gone back on sovereign promises like the Privy Purses and the titles. Now you can look at it two ways and I'll tell you my bias. One way is that these were sovereign guarantees given by the sovereign state of India to the princely states to join. So in a way, it was a treaty between two sovereigns. And we are unilaterally backing out of our side of the bargain because we are more powerful now than way, way more powerful. And we have the power to kick them now. So it's not the right thing to do. But my bias on the other side, which is that do you want two classes or multiple classes of citizens in a democratic republic? OK, just look at Malaysia, for example. They have those 13, I think 12 or 13 of those kings and those they take turns. And one of the princes runs over somebody in a car and he's immune to prosecution. Not that a powerful person in India running over a car is not immune to prosecution, but legally that person is not immune to prosecution. Whereas in Malaysia, legally that person has immunity. OK, do you want that? I would or whatever different class of persons. My bias is no. At least on paper, in theory, I want all people to be equal. Of course, power structures will never make that, but power structures also say that there is a theoretical possibility for anyone to climb that ladder. But there is no theoretical possibility for me. I mean, there is a theoretical possibility for me becoming the prime minister of India, but I cannot become the prince of XYZ state. I wasn't born to it. So we actually did that. And that was in 1970s. We went back. So the flexibility has allowed us to progress also in many, many ways. So I would say we needed that. And while doing and very interesting thing was the 1973 Kesavananda Bharti judgment. Again, my bias is towards the judgment because one argument can be OK, the literal word of the Constitution and not just literal word. Ambedkar actually said, et cetera, is that we are making the Constitution for our times. Times will change. People should be able to amend it. That's why the amendment is not a very high bar. The U.S. has had what, 27 amendments? And out of which ignore the first 10 because they were in the first two years. So they effectively had 17 amendments in 130 years. We have crossed a century long back. Of course, they don't have a Sachin Tendulkar. We have one. So we know how to score centuries. We made it amendable, but this one limited the scope of what to the extent that parliament can amend. And let me give you a hypothetical scenario, which is that there is somebody who is a fairly powerful prime minister with both houses of parliament, huge majority. Today, we don't have that yet. But I would say the last one was Rajiv Gandhi. And before that, Indira had, before that, Nehru had. They were the people who had more than two thirds majority in both houses and also had their party had more than 50 percent of the states and they were completely in control to the extent one can be over the party system. Suppose one of them says, OK, Indira says in 1976 emergency that amend the constitution constitutionally. This is a monarchy and Sanjay Gandhi will succeed me. OK, if you did not have the basic structure doctrine, this would be constitutionally valid. Would I want that? No. So I think limiting the power of parliament to change the constitution was also a good thing. So what it has evolved into, not originally, is that it is not too difficult to amend, but there are limits to the amendment. I think we have reached a reasonable bargain. That can always be some better thing, which I don't know about. But I have no problems with that. And again, to me, finally, it is the outcomes which test theory, which is that we have stayed together. We are one country. We are a democracy. We haven't done too badly, and even on social reform and economic reform, we have actually done fairly, I would say, very well. You know, a few years ago, and I have that quiz. I can redo it at some time. Just one burst of enthusiasm. Just before Independence Day, I just created about 35 questions, which are multiple choice. And I sent it to some friends. People got excited. So I just put it on to a couple of my WhatsApp groups and was surprised. It was a quiz on India's economy and India's social, this thing. For example, what was the infant mortality rate at that year? What's it now? How much it has moved? Which is a sign of, let's say, the HDI or the economy itself. How much is it? How many cars did we make? Then how many do we make now? What is the food gain production? What is it now? What are the railway lines? What is it now? On most parameters, we are second to China. But we are second. China is, of course, the biggest outlier in the history of mankind. And we have stated democracy throughout. So we are actually not done badly. So as you can see, I'm quite an optimist."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:37.000",
+        "message": "You're an optimist. So I'll give four quick counterpoints to different things you said and move on, which is not to say I don't agree with you. I agree with you, but just to sort of throw these notes out there also. One, I did an episode with Madhav Khosla about his excellent book, which came out, where he spoke about how part of the purpose of the constitution was pedagogic, that you want these values to kind of spread. So you have to spell it out much more in terms of processes. So there are no ambiguities. So in the actual sort of when theory becomes practice, it's easier for that. And I understand a transformative urge. My question is that on this one matter, on many matters, I disagree with Gandhi strongly, but on this one matter, I kind of agree with him that the transformative urge could not really work top down. It had to happen in a more organic way. You could not change India from the top down. And I believe we haven't. I believe, in fact, we've, you know, politics has reached where society is now. And another counterpoint is when you speak of outcomes. I mean, there are no counterfactuals. So we cannot possibly, you know, we could have been worse, but we could have been better. And I would say that many of our social problems have not been solved."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:28:50.000",
+        "message": "That's a counterfactual. Look across the Western border. That's a counterfactual. That is one counterfactual. There are many possible counterfactuals. I agree we could have been worse."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:00.000",
+        "message": "But I also think we could have been better. And much of what we tried to reform in society from the top down, to my mind, has failed and might have created further divisions. I don't know if that works. I'd also kind of disagree. I mean, I understand your nuanced point of view on the Privy Purses and all of that. But my sense is that you spoke about two ways of looking at it. And I find the first way actually slightly more convincing because it addresses the means. While the second one seems to say that, A, that the end justifies the means, which I believe should never drive something that you do. And secondly, it seems to imply that they were treated as a separate class, which I don't think is really true. I mean, I read a calculation recently about had they continued the Privy Purses, it would have been such a small percentage that it wouldn't have mattered."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:49.000",
+        "message": "It's not the money. Money is irrelevant. They carried the title. You have to call them Maharaj. I mean, to me, I don't want to call anybody Maharaj. They have a right to be called His Highness."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:00.000",
+        "message": "See, if I don't call someone His Highness, I can go to jail."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:03.000",
+        "message": "I mean, there is a, people will end up calling. I mean, that creates a, there's a feudal structure, which is maintained within a democracy. Because as you said, society hasn't moved yet. So you're actually breaking that societal link to the old feudal structure by taking one power away."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:21.000",
+        "message": "So I read in a recent profile of Jyotir Aditya Sindia that when he travels to his native place, everyone calls him Maharaj. You haven't changed society."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:30.000",
+        "message": "No, but will they call his son and his grandson? Probably not. It takes time. So, but if you had this, they would call them also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:36.000",
+        "message": "Sure. But my issue really there is with the means. Because, you know, we made them a promise. We broke the promise. And my sense actually, and I know many people will disagree with this, but that what Patel and Menon did so extremely well, in the years between 47 and 50, was a kind of fast track colonization. Where what the British took hundreds of years to do over a period of time, they did in three years, part of it was through coercion. And part of it was through promises that they broke later. And I understand that we should celebrate that we are one great United Nation today. And I love this country and I love that aspect of it. But it gives me pause that this is how we got here."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:31:16.000",
+        "message": "Yes, definitely. I mean, I also, in general, and in my professional work, always say means matter. And I mean, that finally, if you follow the right means, on average, you will reach better outcomes than if you don't. Because if you, in fact, I wrote against, publicly wrote against the Aadhaar bill being passed as a money bill. And I actually wrote in that, that I'm not talking about whether Aadhaar is good or not. That's not my point. My point is that it's not a money bill. And if you think Aadhaar is an important thing and let it get passed, whatever, tomorrow, something you don't like will be passed as a money bill. Because you open the way for it and you created a precedent. OK, so I agree with you on that. So I don't like that fact. But on the other side, and, you know, interestingly, we had broken the promises right back in 1956 in a very nice way. Part of the thing was that these several of these princely state heads, the kings or princes, whatever they were called, they were promised the governorships of where they were called. So, in fact, the constitution had two different words. The princely states cobbled together became a state of India or whatever. They were called Raj Brahmukhs. And the British India, which became a state of India, like Uttar Pradesh, United Provinces, had a governor. Nicely, in the Seventh Amendment, we just kicked out the Raj Brahmukhs. Essentially, what we did was we recast the states. Now, the new state has to have a new governor. Part of the new state is not part of what this chap used to be. So we gently, we just, the amendment did, OK, no more Raj Brahmukhs, it's a governor. And then the centre appoints the governor. So we have gone back on some of those promises, which, I mean, in general, I would agree with you. But there are larger objectives where you may have to occasionally break the law to hold the state together. OK."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:33:25.000",
+        "message": "I mean, otherwise you lose the state."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:27.000",
+        "message": "I mean, it is like, let's say, if I go back to Mahabharata, the Pandavas were the biggest cheats, right? I mean, right from the way they killed Bhishma to Dronacharya. I mean, every major warrior on the other side was killed through deceit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:43.000",
+        "message": "And I don't think that's justifiable."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:45.000",
+        "message": "Maybe not. No, but if they wanted to win the war, there's no other way."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:49.000",
+        "message": "So I'm not saying morality."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:51.000",
+        "message": "You also have to win the war."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:52.000",
+        "message": "Rationality and instrumentality, I get that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:33:54.000",
+        "message": "You have to win the war, otherwise you've lost everything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:57.000",
+        "message": "So to win the war, you put on the cloak of morality, but you occasionally cheat."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:02.000",
+        "message": "The one tiny thing I'd add to that, I agree with you. I get what you're saying exactly. I won't argue with any of it. But the one tiny thing that when you say we, when you use the word we, that we had to hold together."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:14.000",
+        "message": "I mean the Indian state. Correct. Because I wasn't even born then. Yeah, exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:19.000",
+        "message": "And that's a distinction I want to make that I will not use we for that. I will say the Indian state wanted to hold together and it's\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:26.000",
+        "message": "I'm saying we as in we Indians. Yeah, yeah. Possibly as in we Indians needed to do that. I mean, I'm thinking of us all as one community of people as Indians."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:34:36.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:37.000",
+        "message": "And of course, the people we stabbed in the back were also Indians."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:34:40.000",
+        "message": "Yes."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:41.000",
+        "message": "But I'm not counting them in we. So maybe I'm being inconsistent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:44.000",
+        "message": "That's a very thorny subject. The fourth thing I wanted to kind of talk about was\u2026 I totally buy what you're saying again about the founding of the American state and the imperatives of the elites kind of keeping the position. But what the American Constitution did by the time it gained its first stable form after the initial bunch of amendments was that it was a brilliant set of rules devised from first principles which protected every individual. Like you have also, you know, in the past\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:35:12.000",
+        "message": "Every white man. Every white man."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:35:14.000",
+        "message": "Yeah, sure enough. But whatever. I mean, that principle later got expanded to whatever. But as what I'm pointing out is that the Indian state is not animated by a set of first principles that it has held firm to. And even when we talk about like the basic doctrine and the 1973 judgment, it strikes me is that who determines what the basic doctrine is. On one hand, if you say that with changing times, the Constitution can change and values can change, then you could argue why shouldn't that basic structure change. On the other hand, you can argue that if there is a set of values that is so important that it should never change, then it should drive everything else, which is also not the case. Because I have a deep unease with some of these changes. Like, for example, when people last year during the CAA protest, one of the most heartening things was common people across the country waving the preamble, which is so important and beautiful. But what gave me a moment of unease there was that it was Indira Gandhi's amendment of the preamble and not the original Ambedkar version. And to me, that's a problem because that included the word socialist. And Indira introduced this clause in the Constitution that any political party has to declare that it is socialist. In fact, the Swatantra party fought against this. SV Raju and all that fought against this because they said what the hell. And, you know, socialism is toxic and kept our country poor for decades. And you can argue about that. But to insist that everybody must pled allegiance to a particular ideology, whatever it is, seems to me to just be so wrong. And so I don't know if that's considered part of the basic structure or not. But I think that's kind of one of the dangers and one of the misgivings I have that those animating principles of the US Constitution, like they're so clear on free speech that everything that follows from there is clear. You can't really go wrong."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:06.000",
+        "message": "Not exactly. A lot of it depends upon the way the courts have interpreted it over centuries in the US or decades in our case. So there is a societal evolution along with that the courts go with the times. And, for example, US, there are certain debates they have, which I find quite weird, like the biggest one, abortion rights. I don't even understand that. Or the gun rights. I don't understand that. So it's beyond my ability to actually understand what's going on. So every society has its own problems. The grass looks greener on the other side. So coming back to this thing about, I would say, the core principles are primarily in the preamble. And frankly, socialism, yes, she added it. Is it such a big deal? Well, if you were a very textual idealist, yes, it's a big deal. On a practical sense, irrelevant. Irrelevant. It is like, I mean, I can be a Hindu and an atheist. I can be a Hindu and a Vaishnava. I can be a Hindu and a Shaivite. I can be an Indian, extremely libertarian pro-market and a socialist. Okay."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:38:25.000",
+        "message": "So it means nothing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:28.000",
+        "message": "So if it just added some, okay, somebody a pat on the back and move on. If words don't mean anything, then the constitution doesn't mean anything. A word like socialist in the Indian context, the Supreme Court has actually interpreted it because there is a case. It said, so that was a nice part, right? I mean, I don't know whether you know about the Supreme Court. So there was a case to the Supreme Court to remove the word socialist from the constitution. That is basic. They also said socialist, you can interpret in any way."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:38:58.000",
+        "message": "So in a way, legally in India, socialist means nothing"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:03.000",
+        "message": "because the authority which interprets what socialist means has said so."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:10.000",
+        "message": "I guess that's fair enough. I mean, I know many people who think socialist means working for society, which is actually..."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:39:16.000",
+        "message": "They said working for society. In effect, it's the opposite."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:20.000",
+        "message": "But let's, I mean, nobody really bothers about it, so it's fine."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:25.000",
+        "message": "Fair enough. So let's now come to PRS. Let's start talking about the Indian Parliament because there's kind of so much to talk about. So let's first go back to your biographical journey for a moment before coming to Parliament and talking about how Parliament functions and what it is and all of that. So when you decided to start PRS, one, what were the early misconceptions you had about your venture which got corrected? Because whenever we start something, we see the world in a particular way and very soon we are mugged by reality as it were and we realize things are kind of different and, you know, move along those paths. So what were the early days of PRS like? Like what was your early vision and how was that modified? And were there things which gave you reason to pause and say, is this going to work out? And were there reasons in the initial days which gave you hope and said, yes, I'm so glad I did this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:18.000",
+        "message": "OK, in a way, it was relatively easy for me because I didn't have too many preconceptions. I didn't know much about it. OK, so it was, as I said, Madhukar was the original ideator behind. He was a good friend. I thought it would be fun doing something like this. And I told Madhukar when we started that I am willing to put two years. We have no idea whether MPs will use our stuff. Nobody has done this before. Personally, the number of MPs I met before PRS is zero. I'd never met an MP in my life, like most people of our class. Why would you meet an MP? I was working in the finance industry in Bombay. There's no reason for me to meet a member of parliament. The one person whom I had met who happened to be a member of parliament, which was Dr. Bimal Jalan, he was a nominated member, he was an RBI governor, and in my interest rate, when my boss had a meeting with him, he had tagged along to that meeting. So I had been in a room with him in a small, us and him meeting. That's the only MP I'd ever met in my life. So I said, you don't know what this is. Let's say at the end of two years, if nobody uses, I have a reasonable enough CV that somebody will give me a job. So I don't have worries and I have no liabilities. I'd never taken a loan in my life. So that gives me the freedom to do things. If I'm not using that freedom, then I'm wasting that freedom. So let me go on an adventure. That was the idea. Skillsets, I had been writing research on interest rates, currencies, economy, etc. In an extremely competitive market, because you're all writing for some hedge fund guys and there are multiple people. So why should somebody read your research? So that hones you and people train you how to write in a manner which is sharp and focused and which people will read and understand. So I had that skill set. Domain knowledge is zero. I didn't write a bill or an act in my life before. So I said, OK, so I jumped into it. There's only actually one word which will capture what I did. I think it's called foolhardy. OK, it was a foolhardy venture. OK, but the idea was, let's see what happens. So we wrote our first brief, which was so we OK, before that, we know we want to start this. Madhukar had done it. He was in the US. He had come back on a trip and he had met a bunch of people. And one of the very good advice he had got from someone earlier who knew the Indian system was that don't try to set up something independent initially. Find a good think tank or any research organization which can host you. Because otherwise you will be spending your time trying to get your income tax exemption and ATG and this and that. And you might have an initial grant. But by the time you get these and started, your time is over. So find somebody to get the proof of concept out. Start working and see whether it works, then figure out. So he met a number of people. One of them happened to be Pratap Bhanu Mehta, who was then at the Center for Policy Research and CPR. And something clicked and CPR was up. And in hindsight, we were there for seven years. That was a very important move. So we got we started off as a project of CPR, which meant we had the umbrella to work under. Pratap was there, which was great and very important thing about CPR, which still is today, is that unlike many other think tanks, for example, CCS. CCS has a very clear house view. We couldn't have been there because certain parties will not want that particular outlook. CPR doesn't have any ideology. It's a bunch of different people with possibly opposite ideologies working under the same roof. It's like a university in that sense. So that we needed that shelter. They were a well-known, well-regarded think tank in Delhi. They were located in Chanakya Puri, which always helps because you're like pretty close by to because you're going to meet MPs. You're a 10 minute drive away. You're not a 50 minute drive away for everything. So CPR worked out well. It gave us a good intellectual place to work out of. There's lots of things happen there. So you also meet lots of other people. Other interesting people are working there. They're holding events. Of course, at that time, CPR, I mean, Pratap started building it back. It had gone down. But it was a great place to work with. So we started at CPR. We wrote our first brief. Pratap's suggestion was that do something on it. So he said write to education draft bill was out. And Madhukar had worked in that field for years. So he said, OK, work somewhere where you have some domain knowledge and you know people. So he wrote the first brief. We sent it out to every MP. We printed it, put it in envelopes, Delhi address on top and just sent it to MPs with a cover letter. We wrote the second one, which was on the pension fund bill. I had some domain background and new people I could talk to, sent it out. Then some people started calling us. Because everything had a cover letter that we are doing this. And if you want on this or any other issue in Parliament, let us know. So over a period of the next six months, we are also trying to meet MPs etc. About 60-70 MPs have started reaching out to us. And of two years, the number at was 100. So I said, OK, there is a market for this. Because you don't even know whether they want it or not. People want, people are looking for research content. If we can provide them in a format which they can use, which they can understand, which they can appreciate. And they are calling us for briefings. So on deliberately our briefs, we put an upper page limit of six pages, which includes a cover summary page, which has only 10 bullets. Outstanding. We said, if I send a 50-page note, people will say, yes, it is good. I will read it with the intention of reading it. They'll keep it on the desk. Then multiple other things will pile on. If it is two pages, if you get something which is two pages, you won't put it on the site. You'll say, oh, two pages, let me just glance through it before I file it away or keep it. So six pages included a maximum of two pages of what's in the bill. And three pages, including all references and citations of our analysis. So typically two, two and a half something and half page or one page for that. And everything that's written, if there's any number cited, any argument made, this is a citation about the source. So you can verify the credibility of what you're saying. And we don't take a view. So people coming back. By the time 2009 election happened, we had over 200 people reaching out to us. OK. 225 or something, if I remember correctly. Elections happened. So February 2009, we had about 225 people reaching out to us, current MPs. May 2005, this had come down to 100 odd because 100 of them vanished. But then, by then, word of mouth between them and our work had started getting appreciation. So we built back. So every election cycle, we have built back up to 400 plus MPs. I'm talking about 700, not 525. Lok Sabha plus Rajya Sabha. The numbers are, there are 790 or 788 now. 245 Rajya Sabha and 543 Lok Sabha. Then there were 545 because there are two Anglo-Indians. We're no longer there. Out of it, roughly, let's say 90 are ministers, 80-90. Ministers go on a different trip because they have their own thing. So my potential audience is 700. Out of 700, we are reaching out to more than half. When I say reaching out, we sent everybody, how many are calling me? What is the pull, not the push? Push is 790, pull is 400 type. That's been there. Of course, there's a variation, high and low. How many? So the market feedback, it's worth doing simply because what is the resource they are spending on this? They're spending time, which is their most valuable resource. If they're spending time doing this and they are reaching out to us, probably we are doing something that they find useful. Otherwise, they won't do it. That is my market feedback. And therefore, it's worth doing. So that's how it started. So that was the starting part. Then as we started, the original idea, in fact, our original node said legislation because the idea was that even a minor change in a bill can have a large scale effect. I can give you the easiest example for people to understand. The many easiest example, simplest example is there was an amendment about a couple of, I mean, during the NDA, I don't know what to call it, NDA 1, 2, whatever, essentially 2014 to 19 NDA, not counting the Vajpayee NDA. During this government, there was an amendment to the Forest Act where they clarify that bamboo is not a tree, but a grass."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:49:56.000",
+        "message": "That's all, simple one."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:58.000",
+        "message": "What that meant was you can't cut a tree in India without prior permission. You can't cut grass, which essentially revitalized the bamboo products industry. Now you can grow bamboo. Bamboo has a lot of bamboo products. I can do that. One line. Or let me say, I'm not saying whether it's a good thing or a bad thing because there's an ideology involved, but I'll say it's a high impact thing, good or bad. The Right to Education Act has that one clause which says all private schools have to reserve 25% of their seats for economically weaker sections. This is one line. Impact is high. So laws make, and sometimes just a comma or a, in fact, there's a famous judgment, which in the US interpretation, which is if you Google, you should find, I don't remember exactly what it was, it was about something about a trucker, but the Oxford comma made the difference. Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:03.000",
+        "message": "Okay."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:04.000",
+        "message": "So that comma or the lack of a comma made the codes interpreted in a different way and makes an impact. So even a comma or a full stop or a semicolon makes a difference. So we said, okay, we need to make sure that our laws are well thought out and clearly written. That is our purpose because that will have an impact. As we started doing and working, MPs started coming to us and asking us for other things. So there is this discussion happening on, let's say, price rise. I want to speak on that. Do you have any material? So we write a note and give it to them. So we started getting requests on other things being discussed in Parliament. We started getting requests on budgets. I need to speak on the budget. The party has asked me to speak. Have you done an analysis? So over a period of time, we evolved our work to say that what is driving us? Actually, the driver is not Parliament. Parliament is an instrument. The driver is that if we want lives of citizens of this country to be better, I'm loosely defining the word better because it has many other things, but this thing, we need better thought out and written laws and government to be held to account, budgets to be done, which are all Parliament's job. We need Parliament to work more effectively or if Parliament works more effectively, then people will have, I mean, it serves citizens better. And the final target is citizens. And finally, why do I care about this MP or that MP? They are the root to the citizen. So we should therefore support MPs with research on all the things that come up in Parliament. We started doing that. Parallelly, what happened was MPs started pushing us individually at one-on-one meetings. Somebody will say Parliament still has reasonable systems. There's a good library. Parliament is an excellent library. There are standing committees, which by and large work. But my state is in a bad shape. Can you do something for my state legislature? We were a team, at that time our research team was a grand total of three people, including me. 28 states, three or four people. Sorry, can't do. But over a period of time, we realized that if we go back to what is our core purpose, citizens, and if you look at the Constitution, back to the Constitution, and you look at the seventh schedule, many things that affect people directly are either state list or concurrent list, which means implementation by states more or less. And if you're not looking at state legislatures, we are fooling ourselves by saying we are doing this. So we need to do it. It's a question of timing. Should we do it this year, next year, two years down the line? But we should be doing it. That was the decision we took. We took that in 2000. We had started late 2005, 2008, we said, OK, we need to do this. And by 2011 or something, we started reaching out slowly. Now we are working across many, many states. Again, most state legislatures are in a bad shape. And there's no point as of now having people there. If a state legislature meets for 25 days a year, and if there is a PRS person sitting in that state capital, what does that person do for the remaining 340 days of the year or 330 days of the year? So we have only one office in Delhi. What we do is when the legislature meets, people travel there. I mean, there's a four-day session. So you just go and park in a hotel for those four days and come back. It is way more efficient than having an office there. So we are working across states. We are working here. So again, similar stuff in states."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:55:19.000",
+        "message": "You know, one of the big restrictions, it seems to me here, is the structure of parliament in the sense that the anti-defection law of the 1980s, and I had an episode on this way back, essentially means that you can run parliament from the top down with an Excel sheet. Because basically what the anti-defection law is, it forces members of parliament to vote not according to their individual conscience, but whatever is a party line. You're given a whip, you got to vote. So let's say that in that game too, where parliamentarians educate themselves about everything that is at stake, if they come to a different conclusion from their party, they can actually do nothing about it, you know, even if they come to a different conclusion. So how frustrating has this been for you? And what is the flip side of this? Because obviously you're getting a lot done. So what are the processes through which that happens?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:56:10.000",
+        "message": "Absolutely. I completely agree. In fact, if there is one thing of which I am an evangelist, it is that the anti-defection law should go. I've written about it many, many times. I mean, give me an opportunity to talk about Indian cricket team. I'll bring in the anti-defection somewhere and talk about it for five minutes. So when I was talking to you, I was thinking, it was in the back of the mind, how do I bring that in if you did not bring that in? One has to bring it in, it's central. I knew you would, so I waited. That's my pet theme in any case. I think anti-defection is completely, and the Supreme Court erred on that, basic structure, incorrect. I'll tell you why in multiple ways. It's not just in one way. First thing, what is the, how do you think of a legislator or an elected representative? Broadly, there are two ways in which people have conceived the role of, let's say an MP. When I say an MP, I mean an MLA also in this, right? One is the Burke thing, where the Burke made that very famous speech, which I would actually recommend people to read because it's all of four pages. I'll link it in the show notes. It's a five minute read, where he talks to the electors of Bristol after the election, which he says that you effectively, he says that my job is to exercise my judgment for the betterment of the whole country and not be your agent to do what you want me to do. And he also goes on to say that I am betraying you if you don't exercise my judgment because that is my job. I mean, think of it like, let's say that I am the CEO of a publicly registered company. I'm not asking the shareholder to take, tell me what to do every time. I am exercising my judgment to do things. A good CEO is exercising his or her judgment to do things which will benefit the shareholder and not act as the direct agents asking them every time, right? Or the board does."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:13.000",
+        "message": "In fact, there's a quote from Burke which says this as well from that letter, where he writes, your representative owes you not his industry only, but his judgment. Exactly. And he betrays instead of serving you if he sacrifices it to your opinion. Stop quote. Thereby giving that nuance that the job of a citizen in a democracy is not just to elect someone who will do what you want him to do, but to elect people of good judgment, whose judgment you trust."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:58:39.000",
+        "message": "Absolutely. I mean, this is, this is the quote that I was, I mean, I couldn't remember the exact quote, but this is what I tried to paraphrase. Okay. That's one notion. The second notion, which is that is effectively people are elected and he's supposed to further their, he or she is to further their interests, because that is what, because you are the representative. So you are representing them. So I am in a constituency. There's something coming up. This is good or bad for the constituency. I will react or vote in a way which benefits the people I am representing. There's a second notion, which is generally the delegate concept. Agreed. I mean, I'm not, my own bias is towards the first, but let's take the second for what. It's also a notion worth considering and people, I mean, I have respect for that position. What we have done is we have made the MP a delegate of the party leadership, neither of the constituency nor of his or her own judgment. We have just converted that. So we have completely taken away the concept of a representative. Now comes the second rank, which is that. How does a good democracy work? Okay. Let's take for, for all its flaws, the US is a reasonably good democracy because it is sustained 200 years and we have all, and also because it makes good TV. So we have all watched it. So we are familiar with it. I mean, there may be many other good ones, but we don't have the familiarity. So when there is a presidential, there's a debate for the president of the US or the primaries and there is some senator there, people ask and very often ask, there was this Iraq vote. How did you vote? Why did you vote on this? There's some other vote. What is right? So your actions in parliament, the voter is evaluating and using that to decide whether you need another chance. And in fact, that is the core of representative democracy, that you are answerable to the electorate every five years. And if you have not performed, you will be kicked out. Once you bring in the anti-defection law, how am I answerable to my electorate? Because I did not have the freedom to do what I thought was right, or I didn't have the freedom to even do what they thought was right. I can only do what the boss says. So that it goes. I think the anti-defection law also, I'm telling you different angles, completely misjudges the concept of a political party. Now, I mean, a political party has a few crore people. There is no way that everyone has the same opinion on everything. And you can't have a crore political parties. So the way parties are is, again, I'm not necessarily talking India. I'm talking, let's say, more mature democracies where they've evolved over a long period. Again, let's take the US. You have a broad idea what the Democrat Party stands for. You have a broad idea what the Republicans stand for. Now, you are a citizen. You're not really involved in politics. But for whatever reasons, whatever has shaped you and your interest and what you grew up with, you have an inclination towards this ideology or that ideology. And you go with those guys, whichever you have. Maybe instead of two, you may have three, four, five. You can't have a hundred. But you may be a Democrat. There are a hundred things. You agree with them on 70, you disagree with them on 30, which is true within the party's senators, or they say. But what the anti-democrats assumes is that on everything, I agree with everyone else in the party, right? Because we are all voting. I'll just take a favorite example. I've used this before. There is this vote on FDI in retail during the UPA days. And I'm deliberately going 10 years back so that we don't get into current politics. FDI in retail. The UPA proposed, wanted to open it up. The BJP opposed it. The Congress had, I think, 206 members. There's UPA too. And BJP had 116 members or something like that. I can't believe that all the 206 MPs of the Congress in Lok Sabha thought FDI in retail was good and each of the 116 the BJP thought FDI is bad. But that's how they voted. There was actually a vote, recorded vote on this. That's how they voted. So, anti-defection law actually makes, enforces MPs to be dishonest about their beliefs. And it infantilizes them. Infantilizes them. Okay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:03:36.000",
+        "message": "Since I'm listing out the different ways, let me list you one."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:03:37.000",
+        "message": "Please list out all of them. Yeah. I don't think I'll list all of them because there may be more which I have not thought"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:03:42.000",
+        "message": "of. Let me think of one more. Again, I'm going to the basics of what an MP and party stand for. Right? Conceptual basics. What is the primary job of an MP? And let's get back to, there's a nice speech by Ambedkar in the Constituent Assembly when he introduces the draft constitution. I think it is 1948 November or something like that. I think. I don't know the exact date. But that's the introduction of the constitution. When he's explaining the structure of the constitution as they have introduced. And in that, he discusses the presidential versus the parliamentary forms. And he says, both are there. Both are there around the world. The presidential system provides more stability because they were that guy for four years. The parliamentary system provides the word uses is greater responsibility. We can use the word accountability. There's a modern usage of the word accountability, which possibly was. And he goes on to explain saying that every day, the government has to be responsible to parliament, which is maintained through questions, motions, debates, including the no confidence motion. The conception is that you are accountable to every MP. Now, obviously, the government of the day in India in Lok Sabha is the person who has won a majority in Lok Sabha after that. So there is a what the anti-deficit law has converted this into is day one. There is an election, if there is any. And you choose a leader. For five years, you can't hold that person accountable at all. Right. So you have taken away the absolute basis of what a parliamentary democracy is about. So I think there are enough reasons for the Supreme Court to have fairly easily struck this down on basic structure because it completely changes the nature of parliamentary representative democracy. It actually changes the nature. And if that if a representative democracy is part of the basic structure, which I presume it is, and we are not a monarchy, then or we are not an elected five year elected monarchy or autocracy, whatever. In that case, anti-defection law should have no place. And incidentally, this is something that when I was researching about five, six years ago, I wrote a book chapter and at that time I was looking and I don't think things should have changed much. I discovered that there are only five other countries, great democracies, which share this feature, where if an MP votes against the party whip, the MP loses his or her seat. And the other five, I remember the names."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:06:32.000",
+        "message": "Pakistan, Sierra Leone, Bangladesh, Guyana, and I forget the fifth."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:06:36.000",
+        "message": "Oh, you read it by something that I wrote?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:06:39.000",
+        "message": "Yeah, yeah, I got it from you. Zimbabwe."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:06:42.000",
+        "message": "Yeah. This was the Robert Mugabe Zimbabwe."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:06:44.000",
+        "message": "Yeah, yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:06:45.000",
+        "message": "Not that I don't know what it is now, but we share, I mean, these are the five countries we share this great concept with. So, that's, so there is no, we should not have that at all. Now to your second part of the question, which was that if this is there, then what's the whole point of having a parliament? What are, what is PRS doing? Why are we bothering to talk to MPs? Why are we not just talking to, let us say, the leader of the BJP and the leader of the Congress and the leader of the Trinamool and the leader of the DMK or whatever, right?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:07:21.000",
+        "message": "I mean, the rest are irrelevant because of a peace issue."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:07:24.000",
+        "message": "Well, parties are not monoliths, despite all this. And I can give you examples again. There is an interesting bill called the Seeds Bill, which was brought in in 2004, introduced in Rajya Sabha. It was there for a very long time. The UPI brought it in. They could not pass it. They could not pass it because there was a lot of resistance by Congress MPs against it. So, party leader also has to manage internal party dynamics. Then there are things like standing committees, which change things. Then speeches in parliament do have a long term impact. So, what happens if the government has brought in a bill for a final vote in parliament? It will almost certainly pass. That's because they bring it only if they have already done the groundwork through back channels to ensure there is enough support. But that groundwork is in that a lot of work goes in. So, I can give you many examples where bills have been amended, suggestions made by standing committees, and the government has found them reasonable and taken them on board. So, there is a lot. And even in many other issues, what MPs say do have a large impact. So, these are the sort of direct things where other than improving the quality of discourse, which is a much more fuzzy thing, there is even a lot of direct impact, including budgets. How do you look at budgets? Where should you allocate? What is the money? People are interested in that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:09:03.000",
+        "message": "I'm very curious, what role does say something like question hour play in this? Like one of the sort of benefits of the whole program that you run and helping parliamentarians manage this game too, is that even if they cannot actually vote the way they want to necessarily, they can still have an impact in terms of asking questions to ministers, some which the ministers have time to prepare for, some which they don't when there are supplementary questions, burning questions on the issues of the day. How much of an impact does this have? Because while this is incredibly useful, what I have realized is that most of the country doesn't actually tune in to watch this or follow this at all. And it's not reported. And none of that really happens. So, if it's like happening effectively in a sealed chamber, I mean, obviously it's not, anyone can follow it. But if it's effectively in a sealed chamber, then is it just a kind of a charade or does it have a real impact? And can you give examples of real impact that you have seen coming out from your research?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:10:01.000",
+        "message": "Okay. There are two different things. One is, we as a policy do not draft questions for MPs because that takes a position and we don't take a position. But if an MP asks us, let's say, I want to raise this issue, can you give me background research? We'll do that. And what we do with MPs is very clear in the sense it's only research. So, if today, even on a bill, if a BJP MP asks or a Congress MP asks or a Trinamool MP asks or a Shiv Sena MP asks, they get the same material. I'm not customizing for the MPs politics or ideology. So, if one MP asks you, you will give that not only to them, but to everybody? No, no. So, there are some standard products which everybody gets. But if one MP asks, that person gets it. But let's say four days later or one week later, another MP asks. Same thing may be updated for some extra information."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:10:55.000",
+        "message": "I mean, next year, somebody asks."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:10:58.000",
+        "message": "You obviously take out the old research note, look at it, see how correct it is. If something has happened, update it and give that. So, I'm not customizing. I'm not bothered. In fact, I'm not bothered what that MP's politics is or ideologies. It's the same note everybody gets. Questions themselves. And this is a very good question that you asked. But why does this even matter? Forget this. Why does a speech in Lok Sabha matter? At the end of the speech, if they're on a bill, let's say there is four hours of people speaking. End of it, everybody knows that the government has a majority. Government has judiciary whip."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:11:38.000",
+        "message": "They're going to win the bill."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:11:41.000",
+        "message": "So, is the rest of it just like a four-hour thing where you're just watching Sholay or listening to a podcast or, I mean, entertainment or information?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:11:51.000",
+        "message": "I would love parliamentarians to listen to my podcast while they're there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:11:54.000",
+        "message": "So, is it just to the core thing about what the outcome is, which is a bill becoming an act? It is completely irrelevant. So, why do they even, okay, why do people even bother to prepare for it? Why do they waste their time preparing for it? And there can be multiple pressures. But one of the things I think is always there and it works. Yes. Peer pressure, peer appreciation, peer criticism. Every MP, like all of us, want to look, I mean, to do things, partly to be seen as doing things also, also to do things sincerely. I mean, why are there so many people who are doing things when nobody's watching, doing"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:12:41.000",
+        "message": "it diligently? Like they say, character is what you do when no one's watching."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:12:45.000",
+        "message": "So, many of them do that. They also get rewarded. So, if you are seen as very diligent, you might become an MOS or something because the party boss is watching you. So, you might actually get tangible rewards in terms of you'll get a ticket again, you will get appreciation from others. In fact, I remember this was on one of the bills during UPA time again. It was a BJP MP and he had worked very hard on that bill because he was the lead speaker. In fact, he wanted to meet us and we had a two hour long meeting going through the entire bill. And that person's eyes were red because he had not slept the whole, I mean, not because the person was drinking, but because the person had not slept the whole night, was preparing very hard. Next day, he gave a very good speech. And then he called us, after the speech, he actually called and said, thanks for helping me understand the issues. Pranabda said, well spoke, said, and Pranabda was the leader of the house from the Congress. And this guy is a BJP MP, but a pat on the back from Pranab Mukherjee, who was a respected parliamentarian, means a lot to that person. I'm sure in the Indian cricket team, if there is a newbie, at the end of the day, if Kohli taps and says, well done boy, I mean, that guy will be out, regardless of what he scored, would be up there. I mean, you like that, I mean, the person you look up to telling you that you've done a good job. So, it's like that. So, that also drives. So, multiple things do. Okay. The questionnaire itself does have a lot of impact. Again, the minister doesn't want to be caught, embarrassed, doesn't want to be caught on court. So, they have to prepare. They work very hard to anticipate and the ministry works very hard to anticipate the supplementary questions so that they have a good answer, because you don't want public embarrassment."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:14:49.000",
+        "message": "Just to make it clear to the listener, the difference between the main question and the supplementary question is they have 10 days to prepare for the main question as given in advance. But when supplementary questions are asked based on the answer, they have to think on"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:15:02.000",
+        "message": "their feet. It's a surprise quiz. Just, just think of it as a home assignment versus a surprise quiz in your class. Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:15:10.000",
+        "message": "Yeah. So, it's a home assignment immediately followed by a surprise quiz. And does it matter?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:15:14.920",
+        "message": "Does it make a tangible difference? It does. It does shape government policy very often. Even sometimes like, let's say, let me take a simple example. There's something that the constituency needs. Okay, it could even be something like a railway line has a level crossing and you need a flyover there, which makes a big difference to the people of my constituency. And I asked the Minister of Railways, because that person controls this in that time, that is there a plan to build this, etc, etc, etc, that might trigger off. So the person can't say, no, you'll never get it. Person will say, yes, we are looking into it. We'll do it. And that might trigger off some files moving, which creates that. I'm just taking a very simple constituency type. Of course, policy type questions also come very often. And those are way more complex, some very often, but they can even trigger policy. People ask me, and I'll, before you ask me, I'll ask the question myself and answer it because that's, I mean, I like to set the question paper for myself."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:16:24.000",
+        "message": "Excellent."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:16:25.000",
+        "message": "Go ahead. So there is this concept of private member bill. Let me explain that because I'm sure many of our listeners don't know this intricacies. I had no clue before 2005 when I started PRS. So what most of the acts that you see in force, they originate as a bill. They're introduced by a minister. And then it goes to the parliamentary process. And if it's passed by both houses, presidents assent, it becomes an act. Now, any member of parliament can propose a bill. And if it's proposed by the government, a minister introduces on behalf of the government because it's a collective responsibility of the cabinet. But if I'm a non-minister, MP, which means I'm called a private member, and I introduce a bill, that also, in theory, has the same importance as any other bill. In practice, the last private member bill that became law was 1970. There were 14 of them. It was the government as well, which is very different from, let's say, the UK, because they also, we follow the Westminster model. UK, every year, about five or six private member bills become law. They take them way more seriously. Here, we don't that much, but still, they have an impact. I'll give you an example. 2015, if I remember correctly, maybe off by a year or so, there was a private member bill on rights for transgender persons introduced by Tiruchi Shiva of the DMK. That bill, he was a Rajya Sabha member, came to Rajya Sabha. Typically, what happens is, these are on alternate Fridays afternoon. After the discussion, typically, the minister says that, we will take action on this, please withdraw your bill. And default position, usually, is the MP was introduced, withdraws the bill, and says the government will go forward. Tiruchi Shiva said, no, I want a vote. Wow. He has a right to a vote."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:18:35.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:18:36.000",
+        "message": "I said, no, no, I want a vote. Now, how can any government issue, any party issue a whip, which says we don't want to protect the rights of transgender persons politically, how can you even do that? Regardless of what's there in the bill. And the time for moving amendments was over."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:18:57.000",
+        "message": "Because you have to give that earlier. Because nobody expected the eventuality of him insisting on it. Wow."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:19:04.000",
+        "message": "So, nobody bothered to do the homework. If this were to become law, there are these four provisions, which are problematic. Let us make them correct and pass law. Because, obviously, there are issues. So, now it comes to the vote. They scrambled. And nobody could vote against. So, it passed Rajya Sabha. Now, it comes to Lok Sabha. Now, the rule is that, which, okay, there are lots of private member bills. Which one will be discussed in the house? That's usually lottery. But, if one house has passed a bill, that jumps the queue in the other house. Because it has already been deemed to be important by one of the houses. And since a member of parliament cannot enter the chamber of the other house, unless the person is a minister. So, you find a couple of others to sponsor your bill in that house. So, two or three MPs there decided to sponsor this bill. This is Trichy Sabha's bill, but they are sponsoring it in Lok Sabha. And it was listed. The government is in a bind now. The government said, we will do something. They actually postponed a bit by the earlier bill, which was being discussed in Lok Sabha. They continued discussing for a few more weeks. So, they postponed it. But this had to come. The day this was listed, that morning, the government introduced its own bill. Right of Transgender Persons Bill. And then they said that we have our own bill. Let's take both these together and let a committee look into it. And finally, what happened? The government bill got passed. Nevertheless, there is now an act that has the protection for transgender rights, etc. There is an act. I would give Mr. Shiva the credit for pushing, getting this done because he actually pulled the trigger."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:20:59.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:21:00.000",
+        "message": "So, when people say, how does it matter? It does. It signals. It pushes. It signals intention. And even questions, they signal intentions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:21:10.000",
+        "message": "So, since you like cricket, this reminds me of\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:21:13.000",
+        "message": "Only Test Cricket. Only Test Cricket. T20, I don't watch."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:21:17.000",
+        "message": "I think I managed to convince Ram Guha on my episode with him that they are two different sports."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:21:21.000",
+        "message": "So, one should not judge them against each other. Fair enough."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:21:24.000",
+        "message": "So, in 1996, Lalit Modi had the idea for a league system, though involving one-day matches, because in those days T20 was not a popular format, for something that looked very IPL-like. And I remember Mr. Bindra in 2003 gave me an interview when I was in Cricket Info where he spoke about this at length. But it was on the back burner. And then the ICL, Zee came up with the ICL. And that spurred the BCCI into acting on Modi's idea. And then the IPL happened and the ICL went. So, when you spoke of, you know, this bill happening kinda like that, independent member comes in. You used the phrase, there are lots of private bills. Why are there lots of private bills when the last one that got through was 1970?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:22:05.000",
+        "message": "Because like Trichy Shiva's thing, people want to signal intentions."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:22:09.000",
+        "message": "Wow."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:22:10.000",
+        "message": "They put in a lot of work. Because writing a bill takes effort. Do you work with that also? We don't. In terms of the background? We don't. We don't. We don't. Okay, I'll tell you where we do and where we don't. We run a different program where we just run the program. We don't get into the details called the Lamb Fellowship."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:22:26.000",
+        "message": "I don't know whether you've heard of that. Yeah, of course. Of course."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:22:29.000",
+        "message": "I had one of your alumni, Shivam Shankar Singh on my show recently. Oh, yeah, yeah. Shivam was there. Yeah. So, the Lamb Fellows, they work with the MP and they take positions. They draft questions. They do that. But there's a very clear wall that I don't know what bill they are working on or what questions they are. So, the reporting to us, we do, obviously, we need to monitor the program we run. It is like, how many questions did you do in the lesson? Not what questions. And of course, when something happens and it's introduced, the guy comes and says, array, I did this, shows. And we say, okay, good, shows. That sort of a thing. But we are not involved in any way in drafting these because that means we are taking a position. Drafting, you're taking a position."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:23:08.000",
+        "message": "We can't. My next question, and this is something you referred to in the break, and you referred to during the conversation as well, when you said that we make sure it's six pages, the first page is a cover page, two pages of what the bill actually is, two and a half, three pages of whatever, including the footnotes. And I found it really impressive because one of the problems people have is that even if you have the sincere intent that you want to absorb knowledge, either you put it off or you skim, which is exactly why you said that you didn't want more pages or less pages. And you want them to take it seriously, but also actually read the full thing. In the break, we were talking about writing values. And I kind of realized that independently and most probably before me, you have started teaching a lot of the values that I talk about in my writing course, like what I call the Naniji test in my writing course is the mum test for you. And language is really important because one of the problems with people writing policy is this dull, academic, jargony language full of abstract terms that just make the eyes glaze over and you can't possibly read it. And your writing needs to be functional because you're talking to people who are really busy. And even if they want it, you've got to make sure it's as clear as possible. So how did you, like when you started PRS, when you started writing these briefs, did you already come with a set of values that you evolved over time? You know, what was that process like where you arrive at your sort of handbook for writing these? And tell me a little bit more about that as well. Because I think many, many people have a problem with being able to communicate complex subjects in simple language."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:24:46.000",
+        "message": "My background helped in the sense I was working for Bank of America before that for ISEC. And actually learned the writing in ICICI securities. OK, this is the first job. First job is where you got taught. So I am writing, let's say, a report. I was for some time a banking sector analyst. So I'm writing a report on State Bank of India stock. That's my job. I'm sitting in ISEC and writing. There's a guy sitting in Deutsche Bank and writing. There's a guy sitting in some other brokerage, Anand Rati and writing. There's someone else writing in CSSA and writing. Some 30 of us are writing. Who's our target audience? The fund manager or the, right? And that person has 30 reports. Why would that person read my report? And if that person doesn't read my report, OK, and many people don't read my reports, I lose my job. Why should my boss pay me a salary if nobody's reading my report? That feedback comes back. So it's a matter of survival, right? So we are taught to write in a way that a busy person will still read what you write. So I had that background. That's why I write short. So in fact, one of the lessons that there's a person called Andrew McCormack. He was a JP Morgan guy. He was my first. He was the head of sales training and research when I joined ICSS securities, an Englishman, because JP Morgan. So he used to say, and that is something that I internalized, is that there are two ways of making an argument. A, B, C, D, therefore E. E because A, B, C, D. He says write E because A, B, C, D. Get their attention. Because otherwise, by the time you reach your conclusion, people have stopped reading you. And he used to say, you have to write boom, boom, boom, boom, five bullets. So it's short. People notice all five. If you write large ones, nobody reads. So I said, OK, busy audience, hedge fund manager, busy audience, member of parliament. Same thing, different subject. But same, in a way, there's some commonality. So one should write for this. That was the idea when we started. So how do you actually have a larger team when people also internalize that? Some of that is that as we got a team, I was editing other people's. I found that the Indian education system is particularly bad and not just Indian. Even the American education system in some of these areas, they write convoluted long sentences. And how do you make people, how do you actually industrialize, if I may use the word, simple writing? Because there are, let's say, six analysts, seven analysts. I want to make, I'm lazy, basically. I want to make my job easy. So how do I make my editing job easier when they give it to me? Put in rules. So there's a second rule that we put in. 15 word. So any sentence, I said, if there's a sentence greater than 15 words, I'm not going to read it. So I won't edit the document. You better break it up into two sentences and bring it back to me. Because you can't write a complex sentence with 15 words. So we brought in some of these ideas of writing. And by the way, all our research works are freely available to everybody on the website. And the reason is simple. Part of our role, as we see it, is also that people of India should know what's happening in Parliament, should know what bills are coming up, should be able to understand the nuances, because that's how there's a greater public awareness and public debate. So if you want to look at a complex subject and you want to see what you have done, look at the first report on the Insolvency and Bankruptcy Code. It's a complex one. Or look at the similar one which was not passed. FRDI bill, which is the insolvency bill for the financial guys. It was financial, I don't remember the full name, something. FRDI bill. Okay. How do you regulate banks, the risk of a bank going under? How do you regulate that? How do you manage that? That is what that bill is doing. And we have written, summarized the bill in two pages. Or even we had, because it's more current, we have a brief on the website on the draft cryptocurrency bill. Wow. First question is, what is cryptocurrency? What is a Bitcoin? So we are trying to explain that. And all in one and a half pages or two pages, because that's the space we have."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:29:29.000",
+        "message": "Yeah, I mean, I feel like I've met such a kindred soul because all of this is stuff that I tell my students as well. For example, that whole structural thing of ABCDE would start with E instead. And one of my pet peeves about op-eds or opinion pieces is that initially you don't know what the stance of the person is. You are taken for granted as if that person is entitled to you reading the full thing to figure it out, which really irritates me. And another thing I tell participants of my course is that the full stop is your best friend. And for a lot of writing, like opinion writing, op-ed writing, writing for large audiences, it really is. Though obviously the caveat there is if you're writing fiction or personal essays or whatever, sometimes your sentences need to be long. It's a good thing you're building that slow rhythm, but not in this kind of writing. I completely agree with all of that. And I was going to ask if all of this is accessible to the public and you've just answered that question. So I'll give the link from the show notes. The other element of what you pointed out is that what I have found and what I keep telling my students is that if you force yourself to write in a clear way, you are forcing yourself to think in a clear way. It helps your thinking because, you know, if you haven't thought through a subject properly, you can still get by by using jargon and vague abstract terms and all of that. But if you're going to explain it to your naniji or to your mum in your case, I mean, we have these different tests, then you are forced to use clear, simple language. And you're forced to really understand the subject well enough. And I also don't understand cryptocurrency. So I'm going to read this and see if that kind of helps me. Let's, you know, go back to the subject of Parliament, which is so incredibly important. You know, of course, you've spoken all about the anti-defection bill, but do you feel that one inherent limitation and what you can achieve through Parliament, even if the anti-defection law was to go, it's just a structure of our republic where so much power is so centralized. And as you correctly pointed out earlier, a lot of what affects people's life is really local. Right. And the MP doesn't have much to do with that. And it's really local. And therefore, you know, and I mean, obviously, you affect what you can and things scale better when they're happening in that. I mean, the system is what it is and you have to work within that. But, you know, does that also, you know, become a limitation?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:31:48.000",
+        "message": "Yes, to some extent. So this is the dilemma. There are multiple problems here. One is we are a very large country in the sense we have one, whatever, 1.4 billion, 140 crore people. So the size of a central assembly like Parliament, like Lok Sabha, you can't have 3,000 people. Because an assembly of 3,000 people is meaningless. Then you'll be like the Chinese guy who will be once in five days a year or something rubber stamping. You can't have that. So you'll have a limit, maybe 500 become 600, 700. But it can't be much more than that. And divide that by this number. You have a constituency size of 20 lakh. So that we have to live with that. The answer to that is to actually have Parliament just certain things. And states are much smaller. The largest state is still very large, which is UP. But the second largest state is Maharashtra, which is about 10 crore, still very large, still larger than the United Kingdom or France or Germany. It is actually even Maharashtra is large."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:32:58.000",
+        "message": "The suburb where I live, Warsaw is larger than Iceland in population."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:33:02.000",
+        "message": "Yeah, would be. Yesterday I was checking out because the Netherlands has imposed a lockdown because they had, I think, 13,000 or 15,000 cases of COVID. So they just put, so when I said I just Googled, I mean, so to the word, the first search result for credibility that has population of Netherlands. And it is less than Delhi."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:33:26.000",
+        "message": "It is half of Delhi."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:33:27.000",
+        "message": "So the Netherlands is half of Delhi, roughly, or slightly more than half of Delhi, 60 percent. So I was just checking out or something like that. So we are a very populous country. So the thing is to move that and even move further down to the extent we can to the municipalities and panchayats and all that. Of course, the other problem is nobody willingly gives out power. Will Parliament give to the states? Will states further give down? Yes. But that can happen. I mean, there are strange things that have happened in this country, which I don't understand why they happened. Because again, if you go back to incentives and people work Western interests, these things should not have happened by that logic. My favorite example is the Right to Information Act."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:34:10.000",
+        "message": "Why did that get passed?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:34:12.000",
+        "message": "I don't know. The people in power had the opposite incentives."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:34:16.000",
+        "message": "Everyone had the opposite incentive. They don't want to be accountable."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:34:19.000",
+        "message": "Yeah. Until it passed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:34:21.000",
+        "message": "But it passed. So that's what keeps me, that's why I said I'm an optimist. Things happen. Why did it pass? I don't know. I don't understand things, but they have happened. So just because I don't understand the rational doesn't mean that there is not something else going on. It's just that I don't understand it. Maybe something is going on. Maybe my whatever framework is not good enough to capture that. But the fact is it happened."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:34:50.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:34:51.000",
+        "message": "You can't deny that. So things happen, which seem to go against all the rational that my framework gives me. One way to actually rethink the way we work as a country. Again, I don't know. Like I said, I don't understand why things happen. I'm an optimist that sometimes this might happen, though, again, incentives wise, it should not happen. If you think of concurrent list subjects, and if I go back to the original conception, there are three lists, right, in the constitution. The union list, which is primarily things where you need uniformity across the country. Like banking is uniform because, again, I want, whether I have a bank account in Delhi or in Bombay or in Calcutta or in Hyderabad, I should be able to comfortably interact. It should be a common law and I should have one RBI and non-multiple RBIs. There will be chaos. So banking should be. I should need to have the same currency. Not everybody is showing. Defense. And there are many of them. In fact, the list is much larger, but there are some obvious ones. There are some things which are definitely local, which is state list. And what is a concurrent list? I would think of it as you need a certain level of uniformity, but you need a lot of tailoring. So in a concurrent list subject, when parliament makes law, it should make law which is reasonably skeletal. It should be a law. So you can't move outside this, but within this, you play around. So in fact, I had made this argument when we were invited by the standing committee in the first, when the land acquisition bill was done in 2013. I think we went in 2011 or 12 at that time. In the committee, I made the argument that this is a concurrent list subject. I don't know what it is, but I can easily say that. What works in Kerala is unlikely to work in Uttar Pradesh and vice versa, because they are very different local scenarios or in Mizoram or in Punjab. If you have one law up to the final detail, which is same for Punjab and Mizoram and Uttar Pradesh and Kerala, something is going to fail. It won't work. So you make the skeletal and let the state assemblies on that put on the more details. That is one way to think of it. We don't do it because again, which government at the center doesn't want to dot all the i's and cross all the t's and say, okay, I have done the perfect law. Every government will do that. That's the problem. Which civil servant is going to say that I don't know everything."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:37:38.000",
+        "message": "So four final questions for you, unless digressions occur. And digressions sometimes occur, but I've taken a lot of your time. So my fourth last question, I don't know if there'll even be a word for it. Like penultimate is second last. What would fourth last be? Quadruple ultimate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:37:54.000",
+        "message": "I don't know. I mean, in India, we anyway you say second last. So penultimate is like, I don't think most people understand."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:38:02.000",
+        "message": "Fourth last."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:38:03.000",
+        "message": "Like get down at the second last bus stop is an instruction I have got. And I've not figured out how do I find out which is the second last until I go to the last."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:38:11.000",
+        "message": "Yeah. Also, you mentioned earlier the importance of a comma here, the importance of a hyphen comes into play. Because when I say this is my fourth last question, there has to be a hyphen between the fourth and the last. If that hyphen was not there, it would mean that I am deceiving you. That I have told you I'm asking a last question. And after doing it three times before, I am asking you a fourth last question. But I'm not doing that. I'm asking you a fourth last question. What a silly digression. So, you know, you've spoken like a link to this talk of yours you gave, which is very, I think you might consider it common knowledge. But I think it's a lot of people don't really understand the nuts and bolts of how parliament works and should work. And you've spoken about the three key roles of parliament, which is making laws, oversight of government, financial sanction and oversight. All of which, obviously, your work really kind of helps with. But what is also happening, what you also pointed to is one, the increased number of disruptions and two, that parliament sits less and less. And of course, I'm sure the anti-defection law in the sense that all this doesn't really matter may play a part in that. But parliament is just sitting much less than it used to, much less days of the year. And within those days, there are constant disruptions happening by opposition members or whatever, which every party has done when it is in opposition. And Arun Jaitley, in fact, you've pointed out famously defended it in this piece he wrote in 2012. And then he was on the, the shoe was on the other side very soon. So, you know, just looking at that, I mean, in theory, yeah, these are the things parliament should do. And these are, this is how our democracy runs. This is our machine. So, I see the design of the machine and it's intricate and beautiful and whatever flaws there are, are minor and it's a magnificent conception. But then I look at the working of the machine, aur yaha pe lever toota hua hai, screws are missing, rat is cracks, scurrying around inside. So, you know, and I guess at a meta level, it can be made better because parliament itself and politicians themselves can reform the system. And you're giving them the knowledge and the information that can help them arrive at that. But what is your sense? Does it sometimes sort of fill you with despair at why am I even doing this? Or are your kind of successes good enough to say that no, no, it's worth it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:40:24.000",
+        "message": "There are, of course, times of extreme frustration. I mean, you, let's say we have worked hard on a bill, put in two months of research, gone and briefed MPs. They are interested, they have called us, they have spent their time on it. And then there's disruption. And in 30 seconds, the bill is invalid in parliament without any debate. Happens. It's frustrating. But there are also times when you can see that all this work has actually come to fruition. And there is something happening with that. So that keeps us on. And the very fact that there are enough MPs. And again, when I say MPs, I'm actually, we are increasingly doing work with MLAs also. Enough of them who are actually keen makes it worthwhile. I mean, I'll just give you an example of MLAs, for example, we did a workshop. This was actually our first physical workshop since. I mean, the last one was in February, January or February, February 2020. We did one or Gannett, I think. And then obviously everything shut down. We did a workshop in September this year when things had opened up in Delhi. For MLAs from the northeastern states focusing on issues that they are interested in, etc. We had to actually close, we had to say, OK, enough. Because in a workshop, in a room when you're doing, and especially we wanted, given now, we also wanted to make sure that we are not crowding people. And this was in the early September. So some distancing, etc. So we said we want about 30, 35 people. I mean, that's a large enough group. We don't want 70 people in. And we had 35. We actually had to turn away people saying that, yes, we understand. We'll do a second one. We'll definitely, we don't want to not serve you. But we can't do it today because there are people, we just first come first serve and others come before you. So there is and they are sitting for two full days listening to issues, understanding things, understanding how budgets are done, understanding what is the look is policy and things like that. Why are they spending two days away from the constituency, sitting in a conference room in Delhi, coming all the way? And coming at both their time and their cost, right? I mean, they are paying for their travel and stay and all that. Why are they doing that? There's something going on. Therefore, if what we do helps. Like in any group and that goes for any organization, any type of organization, there is also always a distribution of sincere people, average people and slackers. And the system moves forward when you move people from the right, whatever, one extreme towards the better extreme, right? And the guys at the sincere and hardworking actually become more efficient. So our thing is, OK, there are certain set of people that we can't do much about. I mean, they are not interested. But if there are people who are keen and interested and they don't have the tools, to give you a cricket example, because we seem to love it. If you send Virat Kohli into bat with a hockey stick, will he score the century? So you need to give him the bat. But if Virat Kohli is not interested in scoring that century, give him the best bat, he can't do anything. If he doesn't have the skill set or the intent, he can't. Assuming that he has that, he needs the equipment. What we are doing is trying to improve the equipment. We can't do more than that. But I can see that that helps and that's what keeps us going."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:44:11.000",
+        "message": "So a digressive question before I get to my last three questions. One thing that researchers have interestingly found and Adam Grant writes about it in his recent book, Think Again, is how a common quality to leaders everywhere across industry and whatever the surveys have shown, is not things like intelligence or education or all of those, but their humility and eagerness to learn. So do you find that this correlates well with those sort of legislators that you work with who are at the sincere end, that what may matter is not necessarily your native intelligence or any of those things, but your intentionality that you can come there without any education, but you want to do it and you're open to ideas. You're not stuck in an ideology."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:44:55.000",
+        "message": "Most of them are open because most of them are humble enough to say that they don't know, especially the technical. So we are not going and telling them how to win an election because they're experts in that. They know that they are not experts in, let us say, electricity regulation. So they don't have any ego in understanding that or even things. And the interesting thing is that they know a lot because they have a lot of on-ground experience. I'll just give you an example. Land acquisition. We had been working on that for over 10 years. I started actually looking at it first time when the first bill came in in 2007. Finally, it was passed in 2013. Then the NDA1 brought in an amendment in 2014, which didn't get passed, but we wrote a brief on that, we went to the committee, and there were MPs who were interested in it. So one of those MPs came to our office and wanted to understand it in detail. Then while we were explaining, this MP says that, you know, if you want to acquire land for a road highway, it's not too difficult to get it as long as you pay a reasonable price. But railway line is very difficult to acquire land. So I said, why? And then once he says it, you kick yourself as in, why didn't you think of it? Which is that, if it's a road, it connects to the nearest town. So I'm not giving all my land, right? I'm giving a portion of my land because it's a linear project. The remaining land value goes up. I have better connectivity. I gain. If it's a railway line cutting through my farm, I can't go take my tractor from this side to that side of the farm. I have to drive five kilometers to reach that level crossing"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:46:34.000",
+        "message": "or a flyover and cut across. Wow. And that line doesn't give me any advantage."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:46:40.000",
+        "message": "Some train passing through, it doesn't even stop anywhere nearby. Wow. So I have no benefits. I get hurt. So regardless, even if you pay me good market value, it hurts me."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:46:52.000",
+        "message": "Now this, the MP knows, because of the constituency, they will protest on certain things. Sitting here and talking to people, I don't know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:47:01.000",
+        "message": "I would not have been able to guess this had you just told me."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:47:04.000",
+        "message": "But once I tell you, you say, why didn't I think of it? It's obvious, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:47:10.000",
+        "message": "So they have a huge amount of practical on-ground knowledge and they're generally humble. And see, that is the one set of people"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:47:21.000",
+        "message": "who have to get validation once every five years. They go get kicked by the constituents every five years. That keeps the humility on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:47:31.000",
+        "message": "Third last question, finally, I won't digress further. It strikes me that one of the things you do, and this could be as important a public service as what you set out to do, is that you're not just building policies and spreading ideas, you're also building people and enabling this ecosystem of people who think deeply about these things. You know, it's been more than 16 years, 16 years and two months, I guess, since BRS was formed. So tell me a little bit about this, because throughout this time, you must have worked with many, many young people who've gone off into different directions and done things. You know, even through the LAM fellowship, you've given that invaluable experience to people who understand the system better. What is your feeling about this? Because if I was in your place, damn, I would be so proud. So what do you see happening here? Like people will often bemoan young people, perhaps because they've only experienced vocal young people on Twitter, and say, nahi yaar, yeh generation aisa hai, waisa hai. But it strikes me that many of the people I interact with today are just incredible, great work ethic, work hard, humility, all of that. What's your experience building your, the troops of Madhavan, as it were, if I can\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:48:43.000",
+        "message": "Oh, not at all. No, actually, young people keep me very, again, keep me young, let me put it that way. So like the median age in my office today is I think 25 or 20, they're less than half my age. And there are people who have joined now whose parents are younger than me. Wow. Because I'm 53, it just means that I am old. So, and they keep me going, actually. Other than that, again, I would say when people say generalized things, that's always a distribution. And of course, when I'm hiring for either PRS or LAM, it's my attempt to take the right end of the distribution because that's what I want to hire. So maybe I am not talking about a typical young person."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:49:34.000",
+        "message": "I have a selection bias."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:49:37.000",
+        "message": "But both in terms of sincerity and in terms of idealism, they are way more idealistic than I could think I was at that age. And I think a bunch of it is also that the country has moved both economically too, where you can effort to do that. I mean, you're reasonably well off. There are also opportunities. When I was 21, maybe there was no chance. I mean, I needed to get a job which was paying me fairly decently. Not that we pay very badly at that time. But I mean, you can live on it comfortably. But you need to want to build a career here. And in those days, if anybody had said like I said, I followed the usual path of engineer and MBA. Why? Because you get a job. I didn't know anything about engineering when I went in for engineering, right? But I knew that if I finish an engineering degree, a job is assured. Whereas if I do something else, I don't know whether I'll get a job or not. So that was a predominant concern of those days. Today, what you are doing"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:50:46.000",
+        "message": "would have been fairly inconceivable in 1990."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:50:50.000",
+        "message": "You would not even have thought of this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:50:52.000",
+        "message": "So the country has moved. Country has evolved. And that has opened up opportunities. That I think has given the courage for lots of younger people to experiment and come. So they do. The good thing, and you're right about that. I am very proud of them. There are people, so there are two types of young people, which we have had. So we get a lot of undergrads, even we hire them. And we know that. And in fact, I kick them out at a particular point of time and say, okay, now it's time you go and do something else. Because you need to grow. But many of them have done interesting things later. And of course, I think it's 400 Lampfellows every year. It's about 50 of them. We have done 10 batches, first batch was small. So it's more than 450 Lampfellows still now. And we did a count about a year, year and a half back about what are they doing now. About 60% of them were in the politics slash policy space. Okay. I'll just explain to you what I mean by this. Politics, I mean, they are working directly with an MP, a minister, an MLA, a party, or even with something like Prashant Kishore's outfit, or ABM of the BJP side. And one of these, which is direct politics. Policy, when I say it means a think tank, or even in a corporate policy group, or in an activist group in the policy, parsing the policy side. I mean, that's what I'm calling policy. So 60% are about that. 20% are studying because they came after an undergrad, they've gone for a master's, and many of them are in the top schools around the world. So we have had, I mean, if you think of the US, these Lampfellows are there in, I mean, name it, Harvard, Yale, Stanford, NYU. If you look East, in US, in India, they've gone for management. They've gone to the IIMs, ISB, places like the top places. So they're actually getting a top rung second digit, whatever second degree before they decide what they want to do. So, and many of them are also, I think we are changing the way they look at politics and politicians. Because there is this inherent cynicism, and not just India, about politicians. And I'm not saying they are the best people in the world. There is a lot of corruption. I mean, there will be enough moral bankruptcy. Anyway. But, what people don't appreciate, is the complexity that politicians live with. And the pressure that push them towards some of this. They are not necessarily bad people. But they live in an extremely complex environment. And they need to, and if you don't behave in a particular way in that environment, you die. Die in the sense your career is finished. So you need to manage that, like anyone else. People don't understand that. And people don't understand that many of them are trying to do, what they think is good for society. Now we may, I mean, for example, the present government, I'm reasonably sure that, I mean, you may differ with thinking what they, you may think that what they're doing is not good. But, I'm sure they think, what they are doing, is good for the country. So that is a difference of opinion on the ideology. But there's no intent issue. They want to do good. What they believe is good, may be different from what you believe is good."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:54:41.000",
+        "message": "This is a classic example of the seen and the unseen, in the sense that, you know, all of these kids who are, you know, working with you and going on to all these different things, will one day run the country, hopefully. And that'll have a massive social impact. But I'll move from the social to the personal for a moment. I find it fascinating how, what people choose to do, can shape who they are, can change them. And I see a lot of this in my own life, and I've written about this as well. And it's interesting to me how, you shift from, you know, your corporate career to doing PRS. And when you do something like this, you're always playing the long game."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:55:18.000",
+        "message": "You know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:55:19.000",
+        "message": "you're always, you're just focused on the process. You can't look at immediate results of things. There might be periods of time where nothing is happening, where you wonder, is it worth it? But I guess you train yourself to be process oriented, and say that I'm just going to keep on doing this, and have faith in the long run, in the long game. And I would imagine that, this would have to change you as a person, in terms of getting more tear off, having more patience, being less impatient, even being less material, all of these things. So when you sort of, if I might ask you to reflect, you know, do you think you're a different person now, than you would have been, had you continued in banking, or continued in your corporate career? And if so, what are those differences?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:56:01.000",
+        "message": "I actually don't know, to be frank. Because, perhaps I'm more patient, I don't know, but people who work with me, probably will disagree with me. Because, I mean, one's own evaluation of oneself, will be very different from what others think of you. I don't think I have had a significant, I mean, obviously, my income in banking, would have been a multiple of what I get now. But, all that would have, I have not changed my lifestyle. It was never very expensive, even when I was earning a lot of money. I'm comfortable with a particular set of lifestyle. I have not changed it. All it would have mattered is, my bank balance would have been different. How does that, but, my, the way I look at it is, the only value of a bank balance, is the amount it goes down by, which means you're spending. If you're not spending it, what's the point of having that number, in an account somewhere?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:56:52.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:56:53.000",
+        "message": "Value of money is, when you spend it. And, if I have more than what I need to spend, then the remaining is irrelevant. So, I don't think, it has changed me materially, in any particular way. Oh, because I continue doing that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:57:08.000",
+        "message": "So,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:57:09.000",
+        "message": "I actually don't know."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:57:10.000",
+        "message": "Fair enough."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:57:11.000",
+        "message": "So, it has definitely helped me appreciate, the, that the world is way, way more complex than what I would have thought. Because, and it has also helped me, I mean, or rather I would say, enabled me, meet a much larger, cross section of people. For example, I guess what you do, one of the pleasures, and I share that pleasure, is the fact that, I get to meet interesting people. Absolutely. I get to meet a lot of interesting people, which I would not have done. So, my old banking circle, there are a lot of interesting people, but I can continue to meet them, and I can continue to meet others, I would not have met them there. So, it's a larger and wider circle."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:57:53.000",
+        "message": "Yeah, that's wonderful, and you're spot on about, you know, that being one of the perks of what I do as well. My final question, and this won't, this doesn't need reflection, it's not a difficult question, but it's a question I ask my guests at the end of every show, because my listeners love to read. Contrary to, you know, the impression people have, that people don't read today, people have short attention spans. I've realized doing this show, that's really not true. There's in fact, even a meme where, people will post books, they discovered on the show, as seen unseen bookshelves, and all that on Twitter. So, I'm going to ask you to recommend books, which either mean a lot to you, or you read recently, and were impressed by, or that you love so much, that you just want to stand on a stool, and tell people, you have to read this, please read this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:58:35.000",
+        "message": "I do read a lot of pulp fiction, or whatever, junk."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:58:40.000",
+        "message": "I would not call any writing junk."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:58:43.000",
+        "message": "I won't call it that,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:58:44.000",
+        "message": "people call it that, because I read that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:58:46.000",
+        "message": "So, I did a binge reading, last month, I think I spent a lot of time on it, on, I don't know whether you have read, Lee Child,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:58:56.000",
+        "message": "and Jack Reacher. Yeah, yeah, of course. I think the new book is out. No, I haven't read the new one,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:59:00.000",
+        "message": "but there is a, another guy I discovered last month, but he's been writing for a few years, Mark Greeney. The character is Cotland Gentry, the gray man is the first book. So, he is about five foot seven, or something, and he has incredible ability, to just merge into the background, and when people are following him, it's like CIA type. But he makes Jack Reacher, look like a nobody. So, he's like a super, super hero. He's like Rajinikanth, plus Mithun Chakraborty. Okay. So, I write, so, good fun. I mean, I like reading this. I, of course, my comfort reading, when I'm, generally, a bit down, and I want, before going to sleep, something which will, get me a smile, and I go back to sleep, is re-read a PJ Wodehouse. Yeah."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:59:47.000",
+        "message": "PJ Wodehouse."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:59:48.000",
+        "message": "Anytime, go back, PJ Wodehouse is the all-time, repeat favorite."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:59:52.000",
+        "message": "It's comfort food for our generation,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:59:54.000",
+        "message": "I think. Yeah, and you just keep laughing, and then, I mean, and even if I re-read, I spot things, which I missed the last time,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:00:02.000",
+        "message": "in his wordplay."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:00:03.000",
+        "message": "Sometimes, I mean, I forget. So, he's remarkable. So, PJ Wodehouse, of course, and then, a lot of, last year, a couple of years back, one of the better, science fiction books, that I enjoyed reading. I actually, used to read science fiction, a lot, then I, I don't like the,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:00:23.000",
+        "message": "science fantasy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:00:24.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:00:25.000",
+        "message": "I like the more,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:00:26.000",
+        "message": "fiction types. So, I mean, the Asimov,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:00:30.000",
+        "message": "Clarke genre,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:00:31.000",
+        "message": "rather than the more, fantasy genre. This, the three-body problem,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:00:35.000",
+        "message": "trilogy. So, you don't Lee,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:00:38.000",
+        "message": "however you pronounce it. Yeah, I don't know how to pronounce it. Yeah. So, Asimov plus Clarke. I recently read, another science fiction, which was nice. It was called Hail Mary. Somebody, gifted to me. It's a recent book. And, so, Hail Mary, that I actually read, very recently. That's a nice one. Fiction, if you want a slightly more, sentimental variety, maybe not sentimental. I like that, Gentleman in Moscow, which came out, a year, a couple of years ago, Immortals. Then, I read, the later book, recent one, which is nice, still, it's again, one of those types, which is called,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:01:16.000",
+        "message": "The Lincoln Highway."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:01:17.000",
+        "message": "I do read, some, enough non-fiction also. So, a bunch of them. So, I would, I would say, I read anything that I get my hands on. Actually, I don't do that. I came across, a rather, I figured out a new formula, for reading, which is, as we had discussed earlier, when we are growing up, the resource constraint, was books we read. Now, my resource constraint, is time."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:01:40.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:01:41.000",
+        "message": "So, even if I manage, let's say, one and a half books a week, or two books a week, which is like, if it's non-fiction, it takes a long time, if it's fiction, I just finish it off, in a couple of days, right? So, I can average, about 75 to 100 books a year, maybe. Then, the remaining, part of my life, I have maybe 2,000 books left, maybe 1,500 left, best case scenario."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:02:03.000",
+        "message": "There's so many things to read."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:02:04.000",
+        "message": "So, you want to be discerning. No, and also, if I start reading, my financial,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:02:10.000",
+        "message": "this thing, stop loss."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:02:12.000",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:02:13.000",
+        "message": "I mean,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:02:14.000",
+        "message": "just because I bought the book, doesn't mean I have to read it. Sunk cost fallacy. Yeah,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:02:18.000",
+        "message": "sunk cost. So, cut it out, and get to the next one. So,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:02:23.000",
+        "message": "I have a recommendation for you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:02:24.000",
+        "message": "If you enjoyed The Three-Body Problem, it was translated by this guy called Ken Liu. Yes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:02:28.000",
+        "message": "And he's got this great book of short stories called Paper Menagerie. I read that. That was nice. That was very nice. That's wonderful. Awesome."
+    },
+    {
+        "speaker": "Guest",
+        "time": "03:02:36.000",
+        "message": "So, Madhavan, thank you for listening"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:02:39.000",
+        "message": "and for having me here. Thank you."
+    }
+]

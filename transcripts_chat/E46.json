@@ -1,0 +1,467 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "There was a time when we all agreed on what the facts were. We all got our news of the world from certain trusted sources. We may have considered some of them biased, but they were part of a broad consensus on the truth. They all said the earth was round, and we had no reason to believe otherwise. Today, though, the media is fragmented and there is no consensus on the truth anymore. The earth is round, and it's also flat, cubical, rectangular, and shaped like a lotus. News today has become a game of supplying what people want to believe, and we all live in our own alternate realities. What are we to do?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:47.440",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics, and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:54.720",
+        "message": "Please welcome your host, Amit Bhadma. Welcome to The Seen and The Unseen. In today's episode, I want to discuss the state of the media, and my guest today is a man I consider the sharpest media commentator in India, a veteran editor, legendary journalist, and my close friend, Prem Panikkar. I recorded this conversation with Prem on the sidelines of the Bangalore Literature Festival a few weeks ago, so without much further ado, here we go. Hi, Prem."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:01:25.720",
+        "message": "Welcome to The Seen and The Unseen. Thanks for having me on, Amit. You know, I'm not being paid to say this. Seen and The Unseen is my favorite podcast because there's a lot of issues that should be looked at in depth and detail, particularly crucial now when the media has time for neither depth nor detail. And this is just about the only place you get it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:47.360",
+        "message": "So thank you very much. That's very kind of you to say that. And I, you know, I give the credit to all the guests I get on the show, who are usually people with deep insight of the subjects, and I can't think of a better example of that than you. Like today, what I really want to talk about and something I've been both concerned deeply about and saddened deeply by is the state of the media in India. You know, we've both been a part of media for a long time. You've been a journalist since the early 90s. And you've written a lot of piercing essays about what is going wrong with us today. So, you know, starting from what the media was like back when you started, and what it has become today, what's your journey been like?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:31.520",
+        "message": "Well, the thing is that back when I started, which was 89, actually, with the Indian Post, you didn't have you had a very clear idea of what any and the caveat here is we're talking of the English language media, because the language media is a whole other animal altogether and probably outside the scope of the time that we have. You had a very clear sense of direction simply because you didn't have too many disruptors that were constantly shifting the goalposts on you without your, you know, without your even knowing it. I think the seminal moment in this entire thing was when the internet happened. And even back in the early days, you were a part of this, you know, this, when the internet first came to India, you basically had media organizations shoveling their stuff onto onto the net as almost a hygiene element. And you had very few standalone media houses that did not have a print or television equivalent, American for that you were part of, was a highly niche product with a with a very loyal sticky audience reader for the generalist. And even then, things were very clear, you knew who you were speaking to, you knew what your core competence was, and you knew who your audience was. What has happened now is that this explosion in multiple directions has diffused the landscape to such an extent that the goalposts are no longer visible. It's not even a question of shifting goalposts. I think the media and you know what, the first thing that that it feels like to me right now is the climax of Ridley Scott's Thelma and Lewis. You've got two people who for you know, prompted by internal fault lines, and external stresses, drive up a road knowing that it leads to a dead end to a cliff top. And having got there, there's no place else to go, you just put pedal to the metal and drive straight off the cliff knowing what the ending is, but you do it anyway."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:32.800",
+        "message": "So I'll ask you to then elaborate that when you say shifting goalposts, can you specify what you mean by that? What were the goalposts back then? And in what way have they been shifting constantly?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:44.520",
+        "message": "Right. So think about the early days of the internet. Think about Crick Info's core belief or one line mission statement or think about Rediff, which I was part of. The idea was very simply this, that there is an entire audience, connected audience outside of India, who have very little access to information on India, and who want that information. It is not just the Indians living abroad, but also people in the US and elsewhere across Europe and stuff like that, who were curious about the so called new India that was emerging. And who had I mean, the only option was you wait for the newspapers to be airlifted and buy it two days later. So your one line mission statement was, what is happening in India right here right now. Keep people informed. It was a fact based storytelling. It looked at the major stories of the day, it looked at why it was important, and you just had to worry about informing people. Even when the paradigm changed, and the Indian audience started growing in numbers, there was still that comfort zone of all you told yourself was, for the Indian audience, you need to take them beyond the papers that they read with their morning coffee. And you need to bring them up to speed on all that has happened so far and also look at yesterday's news and elaborate, give them context, give them nuance and stuff like that. These are goalposts that as journalists, we are trained to identify and to meet. What happened subsequently is as there was this initial efflorescence of sites coming on to the web, and it has a very low entry threshold. At some point, the Excel jockeys came into the picture, and what they started focusing on was page views and unique users and you know, all of that. If you remember that sequence, initially, we were all told to chase page views. And we started gaming the system."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:37.520",
+        "message": "We both know how... Especially with the disgusting pagination that a lot of the sites had."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:42.680",
+        "message": "Pagination was one. We took a PTI report, which was about 300 words and split it into 10 slides. That was one. We architected our pages in such a way that one page view was actually 10 different page views because we loaded various elements separately. That was another way that we gamed the system. We started this whole slideshow business simply in order to garner page views. And so we started chasing page views. At no point did we step back and say, wait, why are we chasing these page views? How is this going to translate either into journalistic sense or even into economic sense? What are we going to do with the page views?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:19.360",
+        "message": "Nobody knew that. It's not improving the user experience, but making it worse in the long run that cannot work. It cannot work."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:26.440",
+        "message": "So at some point, we actually discovered that it wasn't working. The readers were unhappy over the fact that they can see gaming when they experience it. And the advertisers said, look, I mean, you guys are just generating page views. It means nothing to us. So then it became unique users. How do we find audiences? Now it's become time spent. And every time we find that a metric that has been identified by the number crunchers, we chase it for an endless period of time. And then we find that it makes no sense whatsoever. And then somebody comes up with this bright idea of chasing another metric. And ultimately, we have moved from being journalists to being Excel jockeys, who our first job in the morning, literally, and I know this from both the last days that I was in Rediff and also after working in Yahoo. The first thing I had to do was look at the numbers of the previous 24 hours and see, did we meet our targets? Journalism is not about meeting targets. It's about informing people. And somehow we have shifted from a core purpose, the purpose for which we got into this profession, the purpose for which we are trained. And we've gotten into something that A, we don't know how to do, B, we don't know why we're doing it. And C, we don't know what the end goal is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:41.800",
+        "message": "And it seems to me that, you know, back in the day, it was sort of different because the way the broadsheet economy worked was that like, if you got the Times of India every morning at home, it just came by itself. It isn't that you had to attract the reader every day. It was going to him, you had the reader, he was a captive audience. And equally, everything was bundled together. So even if you read only the sports pages, you're still getting the whole paper. While today, what has happened is that, you know, a guy is not going to a website necessarily by default. Often, a lot of people consume news only through social media and following Facebook links and Twitter links, which therefore gain that much in importance and clickbait becomes important. How do you make someone click there? And also, you've sort of compartmentalized everything down to the level of the individual article. And that whole concept of a bundled offering is really not there to that extent. And I wouldn't even argue that's a bad thing. In some ways, it's a good thing, because it empowers the readers, it empowers producers of news. But it also changes the way journalism is done, because it shifts the focus of the journalist from just doing a consistent good job in creating quality journalism to actually just trying to get clicks, which can result in going for the lowest common denominator."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:59.000",
+        "message": "Correct. But to slightly disagree with your point about it's not necessarily a bad thing that the bundling of news no longer exists. Consider what is happening today. Somebody either because he saw a link on social media or whatever, clicks on a story, which could be carried by the Hindustan Times or Times of India or whatever it is. He sees that story in isolation. And he promptly reacts to that story. We get the usual stuff about this is biased, this is slanted, this is done by a prostitute. But we both worked in newspapers, we know how we put a newspaper together, there is a cohesion from the news that we carry top of the page on the first page, all the way through to the op-ed pages. There is a sequential thinking that goes into the choices that we make about what we're carrying and stuff like that. So there is a context to why we think this news is important. There is an explanation of why this is important. Here we're seeing, as you as you pointed out, we're seeing bits of news in isolation from multiple sources."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:58.920",
+        "message": "There is no overall context. But I think, I mean, I've never worked in a broadsheet newspaper, I've written columns for many of them. But one of the things I've noted, and correct me if I'm wrong, is that they work in silos anyways."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:10.200",
+        "message": "So the pages don't communicate with each other. But what I also do remember from working in broadsheets, and I did, was that there was always the editor and the managing editor who had the spreadsheet of the 26, I mean, 24 or 28 or whatever number of pages it was. And there was a constant filling in of these things and the shuffling around of things as and you know how news happens as the day progresses, things, the priorities change. And there was constantly a track on how these shifting priorities were impacting other sections of the paper. There was a uniformity of thought. Now what you have is an editorial newsroom where the emphasis is simply on, we live in the age of the internet, we cannot afford to be to be seen as dated, therefore, something has to keep going up every couple of minutes, otherwise, we look stagnant. And we'll drive away the audience and that is where you get the kind of batched stuff like breaking news, Rajnath Singh to hold a press conference. I mean, the press conference may or may not lead to news, but the fact that he's going to address the media is hardly news, forget about breaking news."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:13.460",
+        "message": "And in a sense, I'm just, you know, just thinking aloud here, it's led from one kind of tyranny to another. Earlier, you had the tyranny of the news cycle, where, you know, if something broke today, people would know about it only the next day. And an opinion piece would probably happen the day after that, and so on. And you were dependent on the news cycle, and internet publishing, and especially putting the tools of publishing in the hands of anybody, which was a great thing in many ways, enabled you to break past the tyranny of the news cycle in the sense that, you know, when after the 2003 tsunami, when I was going down the coast of Tamil Nadu, you know, I was practically live blogging from there, I didn't have to wait to submit something to a paper, I didn't have to write something which fit a particular format of a 700 word piece or whatever. But we move from that tyranny, the tyranny of the news cycle to the tyranny of the immediate, where there is this hunger, like you just said, of just getting things out there to just keep getting clips, keep getting clicks, you know, just..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:09.560",
+        "message": "Yeah, it's true. And it has its good side, which is that, like you pointed out with your blog during the tsunami, or the kind of work that was done online and on social media during the Chennai floods of a couple of years back, or 26-11, if you want to go even further back in time. Or even the Bombay cloudburst, you know, the kind of work that Peter Griffin did, for example, our friend. Exactly. What that permitted us to do is information that needed to get to people, got to them in time, not the next day, nobody had to wait for the next day to find out which areas were stressed and what the problem was and stuff like that. But the problem is that these kind of events that require immediacy, and both detail and, you know, to use, say, the favourite phrase of Gideon, a mile wide and inch deep coverage, it was logical, that is what is required. But here the tyranny really is that it is expected on a daily, hourly basis. And there is nothing happening that demands it. So you manufacture stuff, just to fill that need or that, you know, to feed the beast"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:14.600",
+        "message": "of immediacy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:15.600",
+        "message": "Boy falls into a well. Yeah, boy falls into a well, boy fell into a well, it's okay. I mean, Radhnath Singh leaves home to reach the press conference is a bit of a reach, you know, like, I mean, let's not. And in the process, what we have done is we've undercut ourselves, because we have trivialised news to such an extent that the audience is pissed off, and that is in turn translating or reflecting back on us. Credibility is short to bits. I mean, if I were to write a piece saying that Radhnath Singh is going to hold a press conference this afternoon, I wouldn't expect anybody to read me much after that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:51.440",
+        "message": "And also what happens is that when you sensationalise the trivial, nothing can be sensational anymore. Yeah, you know, we become numb and inured. You see something, someone shouting on TV, you don't pay attention because people are"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:03.240",
+        "message": "shouting on TV all the time. Correct. And also, I mean, a book that I know that you've read, Boorstin talked about this in 1961, when he talked in the book, The Image, he talked about the fact that the media, which desperately needs events to play up, has started being complicit in and now actively engaged in creating pseudo events, which was the phrase that he used for it, simply in order to find stuff to fill up its pages. He was talking at a time when there was just cable television and print. And now you have the internet, which is a far hungrier and far more gigantic beast. So this entire thing has escalated to a process where nobody in a media house, starting with the CEO, all the way down to the trainee journalist who joined yesterday, has any idea why we're doing the things we're doing and what the end goal is. And the economy of the media is stressed. We all know that. We know we're heading for a disaster. We don't know how to, how to just reverse the car and drive back down the cliff."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:03.900",
+        "message": "And would it then be fair to say that mainstream journalism has moved from news gathering and putting together opinion to event management? And by event, I don't merely mean that you manufacture a fake event and report it, but that you build a narrative around every damn thing because and you build as sensational a narrative as you can, and that is the event per se. And your whole time goes into sort of building those pseudo events, those pseudo narratives, so to say."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:29.560",
+        "message": "So you can just keep pumping the sensation. Absolutely. Because, I mean, to cite a recent instance, when you were there at the Bangalore Lit Fest, so was I, right? I was doing a panel that had Rahul Dravid on it. Rahul Dravid, as you know, rarely speaks in public. He's gun shy of, you know, conversation, but he agreed to come for this. And he was brilliantly articulate. He spoke with a lot of nuance and a lot of depth and detail and stuff like that. And then next day, I was looking at the coverage in the newspapers, and they picked out this one sentence that Rahul said in a wider context, and that became 800 word stories."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:10.200",
+        "message": "Because it gave the headline."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:11.200",
+        "message": "It gave the headline and the headline gave you an opportunity to rant. And all, even the context that Rahul meticulously supplied, because it did not fit into the narrative, because it would have desensationalized what he had said in the first place, was conveniently ignored. The people who wrote about it in some veteran writers just decided that that was not relevant. So yeah, you're right, we, today, if we are putting up something, we first think of the headline and we think of whether this headline is going to attract people to click on this thing, and will it play on social media? And how can we sharpen it and stuff like that, instead of thinking of is this first question that we used to ask ourselves in the newsroom? Is this even worth writing about?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:55.800",
+        "message": "That question has been forgotten. So is this partly, like, the journalist there is a good friend of mine and a veteran reporter, and I admire his work. And I think some of the blame here might also then have to go to audiences which have a short attention span, and they're craving the sensationalism, and they don't have the appetite for nuance and detail. And therefore, reporters who are catering to that marketplace, therefore find themselves forced to go down those same roads, where they'll watch an event, and they don't really care what the broader points being made are, or they don't want to go too deep, their brain is just on the lookout for headline."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:33.680",
+        "message": "But two things to that, one is, I might be catering to a perceived need. But at what point do I, as a sentient human being, ask myself, am I committing suicide here? At some point, I would assume that either as an individual or as an organization, you really need to think about that thing. The larger point is, again, to refer to that particular episode, the work, something like 500 to 600 people attending that particular session, and sitting on stage, what struck me was the the kind of applause that Rahul was getting, when he actually provided nuance and context. For instance, he was asked, I asked him, why don't you write a book? And he said, Look, if I'm writing something, it has to be honest, there are some things that I cannot talk about, and therefore, I'd far rather not write. It got applause, it is not a headline."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:30.020",
+        "message": "But it was exactly the kind of thing. And we could argue it's there's a bit of a selection bias there, because a sort of audience which would turn up to a lit fest would obviously be a little more demanding."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:38.640",
+        "message": "Fair enough. But then are we chasing the wrong audience? Look, I can understand this entire clickbait, headlining and all the rest of it, if it was translating into at least an economic goal. Let's face it. I mean, the days of the philanthropic publisher no longer exist. Media is a business, it has to be, it has to survive on its own ability to make money. Now, if you're saying that all of this work that you're doing is resulting in a good bottom line and a healthy bottom line, then I can swallow my reservations and say, okay, fine, you know, at least for the sake of survival and for thriving, you need to do and maybe we'll subsidize some good journalism with this precisely. But what is actually happening? No media houses making money, every single one is stressed, they're trying all sorts of things, including now, for instance, your money making opportunities have become to cite one example, external event management. You have the conclaves and the thing and all that, and that in turn puts you at the mercy of the headliners you need. One instance, if you remember, the Times of India was about to do a major headline event, which had both Narendra Modi and Amit Shah headlining it. Two days before that, Vineet Jain posts something that is vaguely disrespectful, let's say of demonetization, or one of those things. And the next thing you know, both the headliners wait till the last minute and then pull out and put the event at risk. What happens and and imagine now the pressure on the Times of India management, they know that their bottom line is their bottom line is at risk, right? So the more you chase after something that you cannot monetize, the more you are at the mercy of people who will then come and bail you out. And so now you've added an external stress point to this entire thing, and you have not gained anything, which is what I keep going back to, I'll, I'll swallow my objections about clickbait, I'll swallow my reservations about some of this sensational journalism. And frankly, I mean, we've all been guilty of it at some point or the other, we've hyped things and we've, you know, exaggerated all my posts about cows, your posts about cows, my posts about maybe some fairly ordinary tests in retrospect, which at that time, for me, I mean, I was right in the middle of it. And I thought it was the greatest thing that ever been seen. All of that would at least be palatable. If at the end of the day, like you said, there was some money coming into the equation and that money could then fund some good journalism. But look at the cycle that we're on a website is started, there is a flurry of excitement, they say that they have backers and they have this, that and the other, they hire a lot of journalists. The journalists are put on the job of churning out content at incredible rapidity. A good writer who takes time to marinate and to come up with a thoughtful take on something is actually told, no, we need five posts from you plus we need 10 social media interventions plus we need 10 other things. The guy has no time to think. He writes the most obvious, which is by definition, what is most obvious to the audience, either you're not giving them anything new. You chase this metric. End of the day, you find you're not making money. Two years down the line, the next wave starts, which is layoffs. All the journalists are back out in the field looking for jobs, which don't exist, by the way, and lesser staff doing more work. So your quality deteriorates. And you see that playing out in website after website after website today."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:05.600",
+        "message": "So that is my question. If no one in the media is making money, is it possible for the media to be making money? Do people really care about it? I mean, you know, let me again draw a contrast between how we consume news in the eighties and nineties and how we do it today. Then you were a captive audience, you got whatever newspapers you got, you had whatever channels you had and so on and so forth. And also, and I'll come back to this later, it's a separate thread, but there was a broad consensus on the facts. You might say that papers had this bias or that bias or whatever, but broadly, more or less, everybody agreed what the world was like, and there were no deep disagreements with that, which is a separate point I want to come back to later. But what we sort of have today is that not only a media sources and the way people get their information and entertainment and knowledge of which media is only a small part, a very fragmented. So are people's attention spans. There is a sort of a lot fighting for your attention. And are we at a transitional phase where the media as it is, does not resemble the media which would optimally exist if it were catering to people's preferences?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:15.800",
+        "message": "So here's the thing. Every single time this conversation comes up, we treat it as a binary, we say, then people read, today people don't read. But then you're the editor of a site that concentrates on depth and detail and nuance. And you know that it's not that you don't have an audience, it is that your audience cannot be measured in the hundreds of millions. It can be measured in the hundreds of thousands. But that is equally important."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:40.520",
+        "message": "These hundreds of thousands of people who want nuance. It's a long tail. And in India, every niche is a big niche."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:46.080",
+        "message": "So not to be scoffed at. So if the focus was on that, and if the awareness was that, look, there is an audience that does clickbait, and there is an audience that wants depth and detail, then you can find that sweet spot that you're referring to. And it may not necessarily be one at the expense of the other."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:04.360",
+        "message": "My point is that no one's making money."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:05.960",
+        "message": "So aren't we all getting it wrong? So the moneymaking part of it is the other part. If your focus is entirely on page views and audience acquisition, you haven't found a way of monetizing that audience for one fundamental reason. The audience is shifting from print to online, there is almost a zero, you know, disagreement about that fact. Print at least in the English thing is stagnant or slipping. The audience increasing online, however, has not been matched by a corresponding movement of your advertising dollars, right? And on the internet, additional tripwire is that of the advertising dollars that are flowing to the internet, your lunch is basically being eaten by Google and Facebook, which in the advanced markets account for 70% of all the advertising dollars that are being spent. That is true of the UK, that is true of the US. So your big source of your big platforms are basically not merely your platforms, they are cannibals that are taking away your revenue. So increasingly, more and more sites are fighting for less and less share of a very small pie to begin with. Can you make money? Yes, because one of the things that the media has forgotten, or the media probably never knew in the first place, because there used to be this Chinese wall between those who wanted to sponsor content and the creators of that content. And there was a reason for that wall to be in existence. But my argument is that it's probably time to break through that wall if you're not going to find philanthropic supporters of the media, people who have money and say, look, it is in my interest and in the country's interest for there to be a good independent media source and I will back it, which animal clearly does not exist today. Then you need to start thinking elsewhere and you need to start saying, look, there are brands that are happy to spend money on creating content. Now if I create content that is very obviously advertorial content, it's not going to work. But if I create, if I use the brand's money to create content that will be enriching for the audience, then there's no reason why this won't work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:25.840",
+        "message": "I mean, look, that's sort of another name for sponsorship, in a sense, or advertising."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:30.360",
+        "message": "But news has always been sponsored."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:32.360",
+        "message": "Sure. So I'm saying it's that's not really a new concept per se."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:36.400",
+        "message": "It isn't. But it's a concept that hasn't been explored is my point. It has not been explored to the extent that it is possible to explore. Look, I mean, your ideas are your IPR and I keep getting accused of giving them away. So I'll do that one more time. So we keep talking of this new India. What do we know of this new India? I mean, you drove through the tsunami affected areas. You must have realized and one of the big learnings for you at that time and from what I remember of your blog, you were constantly struck by the things you were seeing that you didn't know, even the things that should have been obvious."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:11.160",
+        "message": "The things that were unknown, unknowns for me, really, I had no idea they could exist."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:14.920",
+        "message": "Precisely. And imagine that on an all India scale, right? So why don't we have something called, let's say the rediscovery of India, where what we're doing is putting four cars in the four corners of the country, we're staffing them with people who can see and who can absorb and who can listen and let them meander through the country. Let them blog as they go. Let there be a photographer slash videographer who's also telling visual stories, taking you there, showing you what's going on. And let them take six months exploring this India and creating an online archive of what this new India is like. I'm not saying just look at the major tourist attractions. I'm saying look at what is happening on the ground, good, bad and indifferent. Record that. Now you have a project that you can take to an automotive manufacturer for sponsorship. You can take it to a smartphone manufacturer because nowadays nobody bothers about whether the phone can make and receive calls and messages. It's always about the visual ability, the photographs and the videos and stuff. You can go to the tourism ministry because you're covering the whole of the country. You can go to the hospitality industry because these guys are occasionally going to be thing and you have natural sponsors, multiple sponsors for something like this. And it is compelling content. It is sticky content and it enhances any media house in this country that you can think about. But here's the irony. I first proposed this to Yahoo on January 10, 2010. I've since talked about it to at least three other editors and to two major branding houses. Nobody has even touched this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:50.240",
+        "message": "And I can sort of imagine why, because while this is something that I would follow avidly and read avidly, it still seems somewhat niche to me to begin with, and especially in these days where you look at the kind of content people are consuming and there's nothing sensational about this. This is something that as a reader or a consumer, you have to immerse yourself in. But going back to your earlier point about, you know, where is the money? It seems to me that the industry is ripe for disruption and I don't know where it's going to come from. For the simple reason that everyone who spends time reading a news article online is actually spending money because time is money. There is an opportunity cost to that and they are spending their time voluntarily and willingly and they would probably not mind even paying. But where is a mechanism to capture that is a question and advertising therefore seems to me to be a really clumsy tool to transfer some of the money that the reader is willing to pay for a piece that he values reading. And I mean, I know that Ken is doing a very interesting subscription kind of effort, which, you know, and they're a good magazine and I hope it works out. But there is something missing here in the marketplace, which some genius really needs"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:03.920",
+        "message": "to come out. Yeah. And what is missing is the last mile thinking. Earlier we talked about how the chase for page views became the chase for unique users. And all of these come from the brands. They come from the sponsors. The sponsors are the ones who said at some point, we're no longer interested in page views. We want to know how many readers you have, how many unique users you have. The same sponsors then came back and said, we're not even interested in the number of users. We want to know how much time an individual user spends on your site. Because like you said, time is money. Somebody is investing his time on the site. The longer he spends there, the more of an opportunity I have to sell him something was the thinking. But they haven't figured out how to convert my ability to attract a reader and hold a reader to his ability to sell him something when that's going on. And that is because even though the sponsors are still thinking in terms of conventional branding, put a logo and a short message, at best get a click through to some fulfillment site and stuff like that, which might work for an Amazon, because it is about fulfillment. It's immediate. It's instinctive. So you can have those kinds of sites doing that. But for the broad mass of advertisers, the last mile thinking still remains missing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:20.280",
+        "message": "I think this economic puzzle is something that you and I are probably too old to figure out. It'll need some real innovator thinker to come out and disrupt that. I want to, you know, shift the subject to the nature of media itself. Like, you know, like I mentioned earlier, back in the day, every the mainstream media was a gatekeeper of information and news. That's where you got it all from. And maybe they were biased once in a while and all of that. But broadly, there was a consensus on what the facts are. And there was a consensus on what the world is like. Now I want to refer back to another book, which I know is a favorite of yours and has been a deep influence on me, Walter Lipman's Public Opinion, which was published in 1922. And I'd really urge all the listeners of the show, if they care about the subject, to read that book. And it's published in 1922. The first chapter of the book is called, if I remember correctly, the world as it is in the world inside our heads. And it makes a very valuable point that the world as it is, is a beast that no one really knows. We just carry a world inside our heads, and because of media, the world inside our heads, because you know, when you had all your information filtered through mainstream media, you went through the same education system, the world inside everyone's head was very, very similar. And what has happened now with the internet, and which I think is a huge net positive and a great empowering effect. So I'm not criticizing it and don't get me wrong, but what has happened now is that on the internet, discourse has become very polarized, and it's become possible to find all kinds of people you could not have for geographical reasons, who might share your worldviews, or your fetishes, or your love for conspiracy theories, or your proclivities or inclinations, and therefore then form echo chambers, where people share broadly the same worldview, but they're impervious to anything that challenges that. And as discourse gets more and more polarized, you have an ecosystem of these echo chambers, and it's incredibly hard to break through them. And there's a confirmation bias in play, they will believe what they want to believe, they will consume what feeds into their existing preferences. And what that's done is that it's dispersed the number of sources of news and information, like I would argue that WhatsApp today with this million dispersed content creators is way more influential than any broadsheet could possibly be. And then the question then comes is that in this environment, what is journalism?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:51.880",
+        "message": "So you're totally bang on about calling WhatsApp the strongest possible vector for the spread of information, which also includes misinformation, deliberate disinformation, the whole lot, which which then puts an added burden on journalism, because how the hell do you combat that? There is no intersect between the media, I mean, you or I could start a WhatsApp group, but then again, fairly soon, what will happen is it will fill with like minded people. It will be a bubble of our own what purpose, it doesn't serve a purpose. But here's the deal, though, if you look at the last three and a half years, and I refer to this, because I recently wrote a piece arguing this precise case, we now are talking about how is the narrative changing? Look, WhatsApp groups have only grown in size, the groups that are fanboys, for instance, of the present regime have proliferated, all of that is moving in one direction. And yet, people have started even within those groups started perceiving a certain dissonance, a certain criticism of the government that they're no longer able to refute. You can see signs of that, for instance, in the decrease in actual trolling, because somebody or the others figured out at the establishment level that this is actually now proving counterproductive. You can see that in people who earlier just dismissed you now reaching out and saying, can you talk about that a little bit more? Because that doesn't compute with what I have in my head. The thing that has happened is because of one or two important events that have led to pointed nuanced criticism, a little bit of this bubble is breaking, or at least there is a slight drip drip of fact and information into these little bubbles. Our problem is that if we are looking for an instant solution, it's not going to happen. All that has happened is that it has put journalism in this place where against the odds, against the run of both economics and what is called media management, good sense, we are having to fight harder and harder to create the sort of impact we could create much more easily a decade ago, a couple of decades ago. So the point is not that we cannot break through. The point is that it has become an incredibly arduous process. And that has put an additional stress on newsrooms, which neither have the ability, the resources or the appetite for that kind of ongoing struggle. I mean, I'll turn the question right back to you. Why would you do a Pragati? It is basically an attempt. If it is to create a bubble, I'm sure that, you know, none of the people, none of you guys who are involved in it, and I know you all, would even be attempting this because how easy is it for us to create a bubble if we won't, why take all this trouble? What we're doing now is trying to get across, trying to break past the binaries that now govern our thinking and try and find a middle ground of just get back to fact, get back to proper analysis. And hopefully the trickle down effect will, I mean, we will attract the fence sitters and it's constantly forgotten in this media binary that ultimately the largest audience is those guys in the middle, who are neither this way nor that. These two bubbles are fine. They're going to exist and they've existed pretty much as long as there has been a media."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:16.040",
+        "message": "I think there are multiple bubbles, not just two. And I think, you know, Pragati, of course, to briefly address that was set up because the discourse was so polarized and we thought we should create a bipartisan site which does dispassionate analysis of public policy without either attacking or supporting parties or people. My impassioned editorials are a different matter, but broadly all our other content is, looks at policy dispassionately and tries to speak to everyone without compromising anywhere. But, you know, to get back to the kind of positive feedback where you now say the tide might be turning, I'd say that one, I mean, I hate to be cynical about this, but I'd say that one, the people we know, it's a very self-selected kind of group and, you know, in purely economic terms, I'd look more at revealed preferences. How do people actually act? And the UP election was actually an eye opener for me because demonetization was devastated the economy. We all know that there is no disputing that now, despite the efforts of useful idiots in various places, it devastated the economy. And yet many people in UP itself, many people who lost jobs, whose businesses shut down, who were deeply hurt by it, nevertheless voted for Modi ji. And therefore there was a disconnect between, to use Lipman's phrases, the world as it is and the world in our heads, where what happens in the real world may not really matter. You may be one of those 1 million people who is coming into the workforce and there's no job for you because the economy has been mishandled so badly. And yet you become a Hindutva warrior fighting against Love Jihad, because that's the narrative that is inside your head. And that narrative cannot be fought through facts. So the problem isn't that there is fake news and we need to fight it with facts. The problem is that facts are incapable of fighting those kinds of narratives and, you know, which I don't have any answers to, but how do you respond to that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:07.680",
+        "message": "One of the things is, and I know you've read the book as well, and so have I, Prashant's wonderful book on how the BJP's election machinery, it's a, it's a must read for political analysis in general, and to understand the BJP's worldview in particular, you use the word narrative. And for me, all the post-UP narrative talked about this miracle of look, Modi devastated everybody's lives in practice, but he was still able to sell this whole thing of I am a poor man doing it on behalf of the poor man and against the rich man. He sold that whole story. And it worked wonderfully well, along with all the other sub stories of Love Jihad and, you know, the Muslim oppression and all of that. My point is, even at that point, for the people who are actually affected and ultimately look the voter is going to make up his mind on the basis of whether his life has gotten better or worse. He doesn't give a damn for all the macro stuff that we keep talking about and obsessing over."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:08.520",
+        "message": "His thing is, am I living better today than I was? I actually disagree, even if you're living worse, you know, it's almost political ideology has almost become like a religion, even if the circumstances get worse, they will still"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:18.440",
+        "message": "vote in the same way. Right. But my argument is, you need to allow some time between a policy and its results percolating before you interpret a particular election as being influenced for or against by that particular policy. And UP happened too close to demonetization for there to be an alternate narrative. What I'm looking forward to is the five or probably six elections that have to happen between say, December of this year, and December of next year. Because now you've had time for demonetization to actually play out on the ground. You've had time for the buzz around this being an anti-rich move. I mean, if it is an anti-rich move, where is all the wealth that's come back from black money? It clearly hasn't. And therefore, the civil society, which should have benefited from that, because you have excess money, you can pump it back into your, you know, societal interventions. None of those things are materializing. Now I want to see and which is why I said, yeah, I will agree with the basic premise that demonetization and the UP election played out exactly the opposite of what pretty much all the punditry thought it would. You thought it would have a major impact, it did, but it had the impact in the opposite"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:31.560",
+        "message": "direction to what we assume."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:32.560",
+        "message": "If at all there is that causation, I mean, the causation correlation is not in the first place 100% clear. But as these serial elections play off, that would probably be a better time to step back and analyze whether a narrative that is sold in the heat of the moment survives contact with reality. And which is why I think it is still important, despite the feeling that you're Sisyphus rolling this rock constantly up the hill, you still need to keep doing this, because what is your alternative? Are you going to cede the ground entirely? Because you're saying, look, I mean, I work from morning 8 o'clock till midnight 12, and nobody listens. They live in their own bubbles. I agree with the concept that Lippmann wrote about and that you're talking, even in the halcyon days of the media, we still lived inside our own worlds."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:22.200",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:23.200",
+        "message": "I mean, that's that's human nature. Yeah, exactly. Our worlds were very similar, though, mostly. Yeah. And as you pointed out, this was written in 1922, and it was relevant then. But you also pointed out that at that point, at least the world inside our head was based on a similar set of facts to the world externally, because the media, pretty much like you said, there is a consensus on what fact is. That consensus breaking down today is what is causing a lot of the dissonance. But then I would think it is doubly imperative for the media to go right back to first principles and say, important news will be fact. The rest of it, the noise, the opinion, yeah, rant away for all you want. And it's great fun. And sometimes a well argued rant from the left or the right actually shapes your own thinking. But that is for, or that is not for the vast majority of people who just want to consume some news, some fact and move on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:20.040",
+        "message": "I think the other, again, thinking aloud, the other interesting thing that strikes me here is that the people have their own hierarchies of facts. There are different kinds of facts which are in conflict with each other. So you might, for example, there might be the fact that, okay, GST is hard to comply with. But there is also a fact competing with the tension that, oh, there are very few jobs and you know, the othering of the Muslims, for example, you're competing with people who are not like you for the same sort of resources and in a very poor country with so many things, including jobs are so scarce. And there is a whole universe of facts in different, coming from different directions. And the common guy will have therefore have his hierarchy of what facts matter to him and what facts don't. And in a sense, does that make every journalist who claims allegiance to facts also an activist and a crusader of sorts, because he is necessarily propagating a foregrounding of facts according to his hierarchy of facts."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:23.560",
+        "message": "It does, but it always has. I think that's, that's pretty much been how the media has always functioned. So nothing much has changed over there. And I still would argue that it is easier to account for bias if, as you say, the individual reporter, the individual media house looked at facts and yeah, it'll look at it from its filters. We know, for instance, that the Indian Express will always almost invariably look at something from an anti-establishment filter and the Times of India will look at it from a pro-establishment"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:54.160",
+        "message": "filter and stuff."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:55.160",
+        "message": "All my columns against demonetization, many of them came in the Times. So there are counter-intuitive arguments on both sides. There are some stories in the Indian Express that could have been written by a PR consultant, for instance. But broadly speaking, or at least put it this way, that we as readers assume certain stances and certain biases in the media houses, and we then look for the commonalities and we say, okay, these seem to be facts that pretty much everybody's agreed on and stuff like that. Which still brings me back to the thing that I keep talking over and over again in J School talks and when I meet friends from the media and all that, isn't that doubly important then to get back to facts and cut this crap out that is not, at least I can understand if it's putting money on your thing and good luck to you, it is not. So what are you doing this for? And to your point about people who have a predefined set of facts in their head and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:49.840",
+        "message": "who are unwilling to break past. I wouldn't say predefined set of facts, I'd say a hierarchy of facts. Some facts matter more than others. So to someone, it may matter more that, you know, that Muslims in his neighborhood are marrying Hindu girls, and that may matter more to him than, for example, how the economy is doing. And I'm simplifying massively, because it's like far more complex than that, but people live within their own social realities. And some facts may matter more than other facts. So in a sense, sometimes I worry that when, you know, we talk against coercion and imposition, for example, I mean, you're not a libertarian like me, but those things, we can agree on that. Both of us are against coercion and imposition. But at the same time, we try to impose these values of, you know, imposition being a bad thing on society at large, which is, you know, almost like a paradox. But anyway, that's leaving that aside."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:46.160",
+        "message": "No, I just, the point that you started this, I was thinking of a personal anecdote, when I got back to writing about politics, and that pretty much was after Gauri Lankesh, when I realized that not enough people were openly speaking out, I'm not saying you should take a take up a sword and start, you know, chopping up the right wing, but at least address the issues of the day and stuff like which is when I started writing again on politics, particularly on my blog. And then I would probably put a link on my Twitter stream."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:15.960",
+        "message": "And by the way, a few of those links are beneath the page of this podcast episode."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:20.360",
+        "message": "So please do follow them and check them out. Thank you. And one of the funny things that happened was, I had this constant pushback, both on Twitter and on my blog, and a couple of comments saying, yeah, you talk about all this. But let's see you talk about you know, how your home state of Kerala has become a killing ground and Hindus are being massacred in large numbers and stuff. Now, like any other consumer of news, I had seen these headline stories of BJP worker hacked to death and Arun Jaitley is visiting this that and the other and it occurred to me, that I hadn't tried to see what the dots were forget about connecting them. All I did was a basic Google search for the last 10 years. And I just listed all the incidents that were recorded, both in the Malayalam press and in the English press of killings. And then I found an India spend article which showed that the killings matched each other. There's one dead CPM worker for every dead BJP worker. So it is not a case of one party doing the killing and the other party just being the killed. All I did was just list this particular thing saying, look, enough people are talking about the BJP being the ones killed. Here is a list of all the violence that happened in the last two years against CPM members. The same guy who accused me of completely ignoring the Kerala thing, he, the first comment that he posted on that blog, and later on Twitter, because I didn't respond to the blog comment, I didn't see it was, can you tell me how you found these facts? Because I didn't think of it this way. It took a hell of a long time to put that together. But one mind change somewhere. And that's kind of the job of the media. And if one mind is, it's not even that the mind is changed, but at least he is not thinking in that one set fashion anymore. I would take that as a win."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:06.840",
+        "message": "I would take that as worth the three or four hours. I just ignore all water bowlery, because my sense is that, you know, focus on the argument,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:12.760",
+        "message": "don't shift the attention to the person. But in this case, I mean, the reason why I followed it, because it raised the question"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:18.440",
+        "message": "in my own head, not about whether I was ignoring things that related to my home. Is he right? Does he have a point?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:24.160",
+        "message": "Yeah. What was exactly happening? And that worked. So somewhere along the way, I think, if we say that there is a dissonance in the audience about what is fact anymore, then I think it is doubly important for us to then identify"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:50:35.480",
+        "message": "that, yeah, to identify that fact and put it up in a way that you can't dispute."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:40.000",
+        "message": "And just do the best we can. I mean, I always worry about this sense of, you know, journalism as a calling with its own values and so on that both of us have and journalism as a profession and it's part of a business and it needs to make a profit and, you know, and that conflict is always"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:54.840",
+        "message": "something we try to navigate in our own ways. Actually, I've never felt that conflict for me. I mean, journalism is something that I want to do, because I love meeting people, I love understanding what's going on and I love writing about it. But it's also a profession I'm in because I know that I've made a good living out of"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:51:09.480",
+        "message": "it. Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:11.480",
+        "message": "If it wasn't, if I was still being paid the 250 bucks that I got in the beginning, I'd have been out of here ages ago, because at the end of the day, you have to pay your rent. Exactly. And I don't see what is wrong with getting a proper wage for a proper job."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:21.400",
+        "message": "And when they go together, that's great when, you know, the calling and the profession go"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:24.120",
+        "message": "together and there's no conflict and that's great. But it is. And it's like you could flip the argument to any other profession. I mean, medical profession is supposed to be a calling. It's supposed to be about saving lives, but you try walking out of a doctor's thing without"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:36.440",
+        "message": "paying for it and see how far you get. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:39.120",
+        "message": "So, you know, the incentives have to be right. They have to be properly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:41.760",
+        "message": "That's, that's the way human nature is. I want to end with, in my usual systematic way, four questions, which I won't ask all of them at the same time. I'll go one by one. When you joined journalism, or when you first wanted to join journalism, when you got that spark as a young person, why did you have that spark?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:59.040",
+        "message": "What did you expect from it? There was an internal and an external thing. The external drive was that, you know, Moor Market, which used to be famed for second hand books in Tamil Nadu, used to be a haunt for first my father and then I developed the habit as well. Dad used to buy books. I was intrigued by some of these magazines that you could find. Ancient copies of Esquire and so I'd never heard of these. And unlike today, we don't have a reference point. So it was a random copy of the New Yorker, a random copy of Esquire, in fact, random copies of newspapers sometimes. And this was my first exposure to something that was not called the Hindu, which is the paper that for some reason, ubiquitous Chennai paper, Chennai paper, because your parents tell you that you read the Hindu in order to improve your English, which is probably the worst advice that they can, could have given at that time, but all that apart. And when I read it, I looked at things that I vaguely heard about here and there and the way it was read out and all that, it fascinated me. And then I compared it with what I was getting in the domestic press. And I was like, look, there is so much more that can be done. And coincidentally, around the same time, I found myself at a party where there was this editor Aditi Dey, who was then with the Indian Express back in Chennai. And she saw some, I mean, we were arguing about something or the other and my usual passionate mid-twenties, explosive sort of language and all that. And she suddenly tapped me on the shoulder and said, listen, why don't you write this as an essay for me? I tried doing that. I love the process of thinking through something and testing it for stresses at various points in the argument and finding some kind of answer. Somebody once said that I write to figure out what I'm thinking. I found that process then. And this kind of hooked me into it. And I pretty much I think at that point, you know, when in 70s India, if you're a college dropout with no marketable skills you did, I realized this is what I wanted to do. And you know what, after all this, I don't look back at those 29 years as a journalist, another three years as a freelancer, occasionally getting gigs with even the slightest tinge of regret. It wasn't worth it because of, you know, the kind of things that you're exposed to and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:24.680",
+        "message": "the kind of. And it was as much personal self-discovery is, you know, exactly right. My second question then is that if you were 18 years old today, would you want to be a journalist? And if so, why?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:39.280",
+        "message": "Yes. And I keep getting this question in the colleges that I speak in. One of the thing is, you know, today when you speak in a college, the questions are all pessimistic. The last time I spoke at a journalism college, for instance, the first question that I got was in this era of declining media credibility, how do I ensure that at least my personal credibility is built and protected? It's a startling question to get from a 19 or 20 year old kid. But that's..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:09.960",
+        "message": "Who, by the way, are way smarter than we were when we were 18 or 19, so you know, that alone"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:14.560",
+        "message": "should give you some hope. Yeah. The answer I constantly make is, yeah, if I was in your position right now and I had to make this choice all over again, I would still choose journalism because everything that you're seeing and hearing and every development that you see around you, it reinforces the thought that nothing can be more important in a democracy than the job of providing accurate information. It is dichotomous for us to constantly talk of this as the age of information, the era of data, the era of information and all of that and say, look, is there any value to providing information in the first place? We have not been able to monetize this thing. That's a whole other argument. And like you said, hopefully there's some 20 year old somewhere who's working on that and will crack it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:03.080",
+        "message": "Who will get his idea at the end of this podcast."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:04.600",
+        "message": "But I cannot think, in fact, if I thought of whether it was more important for me to be a journalist in the same 90s as opposed to today, I would say today, it's it's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:14.160",
+        "message": "So you'd say that then you were driven by the need for personal self-discovery and what it did to you. And today you'd be driven more by that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:22.920",
+        "message": "This is required. This is an awareness of what happens if this didn't happen. What happens if we didn't do what we do or the larger media universe didn't do what it ideally should. The dangers are far more obvious now than they they were to me, at least at that point"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:37.720",
+        "message": "in time. So I'll ask you my last two questions together and you're probably expecting it. One, what makes you hopeful about the future of media and the future of India?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:47.720",
+        "message": "And two, what worries you? What worries me? I'll take that first is the is the general if it's still talking about the media, what worries me is the general it's not cluelessness. I speak to editors and I realize they know precisely what the flashpoints are, precisely what the fault lines are, precisely what they need to do to address it, precisely what they need to do for their own and organizational credibilities. And then they rationalize not doing it very systematically. And I listen to them talk and I'm thinking to myself, you know what he's saying is wrong. And in a private off record conversation is still trying to justify the indefensible. And that worries the hell out of me. Because if these are the people who are the thought leaders and these are the people who are shaping this industry. And if they have gotten to a point where they've just given up and now are looking only for self justification, then we have a major problem. If there is at least the internal awareness and the willingness to recognize that something is going wrong and we need to think of solutions, like you said earlier, the two of us in this podcast are not going to solve the media's economic problems, but we at least need to understand that the economic problem is fundamental to the larger problem. If that is not happening, yeah, that makes me despair. What makes me hopeful for this business or this industry in particular is again to go back to the fact that I've lately spent a lot of time either teaching or lecturing at colleges and stuff like that. And I would think this is the last possible or the worst possible moment in time for a young, hopeful, smart graduate to get into a postgraduate course on journalism. But the numbers keep growing. I'm astonished when I go, for instance, to an ACGA and find that there are 300 students in the digital media stream. And they are young, they're enthusiastic, they're not saying, you know, let's just get in there and be Rajeev Sardesai or Arnab Goswami. The questions they ask and the kind of things that they want to know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:51.440",
+        "message": "They really want to figure it out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:52.600",
+        "message": "Yeah, they want to figure it out. They want to say, how do we tell good stories is one of the most common questions we get. And if this generation is still thinking that way, at least not all the 300 may make it to a position of influence, but enough of them will actually be doing the kind of work they want to do. And hopefully they will break through some of the stuff. And I'll also point you at this other phenomenon, which doesn't get noticed enough, that a lot of the bright young journalists who came after us, the next generation journalists, take the Priyanka Dubey's or the Snigdha Poonam's and people like that, they seem completely comfortable moving out of the mainstream media space, going and doing the kind of stories they want, and then going to the media and saying, look, I'm doing the story, do you want it or no, and they're getting published, and they're doing brilliant work. So on the one hand, in the existing system, there are enough people saying, look, I mean, I don't want to be part of this mass marketing of bullshit. I want to do the stories that matter, or the stories that should matter. And then there is the next generation saying, I want to be part of this business. And I want to know how to do it right. And I want to know how to do it with credibility and quality. And that, for me, makes me slightly hopeful."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:03.080",
+        "message": "Okay, again, it's the optimist in me speaking, but... It's a great note of hope to end on, you know, old fogies like us have more questions than answers. And here's hoping that the young people studying journalism today in more than just a formal sense, come up with some of those answers, which we desperately need."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:19.320",
+        "message": "Prem, it's been an honor to have you on the show. Pleasure, man."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:22.120",
+        "message": "Thank you so much. If you enjoy listening to the show, do follow Prem on Twitter at Prem Panicker. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. And to browse past episodes of The Scene and the Unseen, head on over to sceneunseen.in. If you're in the mood for more podcasting fun, check out this new show presented by Spartan Poker called Mera Kaam Poker, which is hosted by Azeem Banatwala and Peter Abraham. The show captures the fun side of poker and is a must listen for everyone. And hey, it's not only the fun side, I used to be a poker professional and I've been on a past episode of Mera Kaam Poker talking strategy. You want to kill the game and make a lot of money? Listen to that episode at least. Episodes are out on the IVM podcast website, the IVM podcast app, or wherever you listen to podcasts."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:01:20.160",
+        "message": "Excuse me, bhaiya. Excuse me. Bole, madam. Menu mein kya hai? Menu mein Scene Unseen hai, Podcast hai, On Course hai, Cyrus Says hai, Marry in India, Rediscovery Project, Empowering Series, Sex Wax hai, IVM Likes hai, Simplified hai, Keeping It Queer hai, Things and Destinations hai, My Neighbour Zuckerberg hai, and The Fan Garage hai. Aapko kya chahiye hai? Ek baar repeat kar denge kya? Repeat-repeat nahi karta hum. Aap jaao ivmpodcast.com pe aur suno yeh sab, ya phir download karo unka app, sab aapki thumliyon pe."
+    }
+]

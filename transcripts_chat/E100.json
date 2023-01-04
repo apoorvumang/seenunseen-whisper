@@ -1,0 +1,1692 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "The driving theme of my life is procrastination. In fact, my epitaph could be, Here lies a man who waited and waited, and now the wait is over. I find it hard to get things started, or to keep them going once I do get them started. It was different with the seen and the unseen. When Amit Doshi, who runs I.V.M. podcast, came to me and asked if I wanted to do a podcast with him, I said no. I didn't listen to podcasts, I didn't understand why other people listen to podcasts, I wasn't interested. But he persisted, and I mentioned an idea I had for a TV interview show I wanted to do one day, called the seen and the unseen. He said, hey, let's do a podcast instead. And I figured, yeah, television wasn't happening anytime soon, so why not, let's jump into this. We did one episode, then another, and another. And here we are now, 100 episodes. The basic principle that got me here, take one step, and then just keep putting one foot in front of the other. There's a life lesson in there that I need to learn from."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:28.000",
+        "message": "Welcome to the seen and the unseen, our weekly podcast on economics, politics, and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:34.000",
+        "message": "Please welcome your host, Amit Badma. Welcome to the seen and the unseen. How does one celebrate a 100th episode? I like to keep celebrations low-key. I don't like to celebrate my birthday and so on. But I thought the least I can do for my 100th episode is get a special guest on the show. Not some celebrity superstar or a big public intellectual, but someone with whom I can always reliably have conversations that are special, at least for me. My guest today is my good friend, Shruti Rajgopalan, who teaches economics at Purchase College in New York, but happens to be here in Mumbai now. So this is actually going to be a face-to-face conversation, unlike the Skype conversations we usually have. I think this is her 8th appearance on the show, and quite apart from the fact that she is so brilliant and insightful. I think it might be because she is the one person I know whose views are closest to mine. We agree with each other on most things, which leads to two possible reasons for why I like having her on the show. One, she validates my sparkling insights. Two, she confirms my biases. I'm inclined to think it's a former, but that could just be my bias. Before we start shooting the breeze though, a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India, and adapts them into objects of everyday use. These include wearable art, like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vasvo x Vasvo, Brinda Miller, Dilip Sharma, Shruti Nelson, and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to IndianColors.com. That's colors with an O-U. And if you want a 20% discount, apply the code IVM20. That's I-V-M for IVM Podcast. IVM20 for a 20% discount at IndianColors.com."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:20.000",
+        "message": "Yeah, I know what you mean. There's a slight, like maybe half a second delay, and sometimes we've spoken over each other just for half a sentence. I'll do my best to do the same in the studio."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:30.000",
+        "message": "Right. So you made a list of kind of, you know, the impressions that have stayed with you over a hundred episodes, or the last 99 episodes of the seen and the unseen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:39.000",
+        "message": "So first, I must congratulate you. What works, what doesn't work? Well, I don't know about that. I don't think of these things very critically in terms, I'm not judging every guest and every person. I usually think of it as, you know, some kind of a learning exercise that usually most of your guests have an insight that I wouldn't have thought of. And even if the insight is, you know, very straightforward, and it's a simple idea, they bring in a particular amount of context to the area of the world that they're speaking about, which I learn a lot from. So I usually think of this in a sort of professorial way of how do you more critically engage with ideas. I'm not very critical about the guests. I'm my favorite guest on your show. No, I'm kidding. I have a few favorites. I really loved Gunwant Patil. I think he was amazing. What I loved about his show was he has recognized the first principles of liberty and markets, but not the way I did, coming from books from Adam Smith and Frederick Hayek and Frederick Bastiat and so on. It's sort of like farming. He's sort of homegrown, you know. He just, through experience, he's figured out that state coercion has really led to the misery of farmers. And instead of treating the symptoms the way most of the elites want to treat just the loans or just the subsidies, he has really thought about the core problem, which is that farmers are denied choice. And he was so eloquent about it. He is by far my most favorite guest."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:14.000",
+        "message": "No, and you know, it's interesting. I remember WhatsApping you at the time in great excitement. Our good friend, Barun Mitra, had organized his farmer's conference in Deolali in Nasik, which had a bunch of these Shedkari Sangatana leaders who'd worked with Sharad Joshi. And he wanted Bharat to meet India, in his words. So he took a bunch of English-speaking Bombay people along, me being one of them. And the fascinating thing I realized there was, you know, I always had the impression, which I now realize to be mistaken, that our ideas, being so counterintuitive, will necessarily be the ideas of the elite. And when I got there, I realized that, my God, that, you know, the way we view the world, many of these farmer leaders, like Gunwant Patil ji, Manvendra Kachole ji, and a bunch of, you know, really fine, deep thinkers, the way we view the world is pretty common, in the sense we've arrived at the same place, but in different ways. I've arrived at there by finding these ideas in books, thinking, ha, this makes sense, and then applying them to the real world, and over a period of time, they kind of get validated. These guys don't care about the books. These guys have seen, you know, life playing out and affecting them, and from that, they've come to these, what we would call libertarian conclusions, that, you know, they've reached Hayak without reaching Hayak, they've reached Friedman without reading Friedman, which is just, which was incredibly fascinating, and that was the one Hindi episode I did, because I just wanted him to be comfortable,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:36.000",
+        "message": "and what did you think of my Hindi? Your Hindi is terrible."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:07:40.000",
+        "message": "Okay, don't say that. I grew up in Delhi, so I have high standards."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:44.000",
+        "message": "Gunwan ji's Hindi is excellent."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:07:47.000",
+        "message": "Obviously."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:48.000",
+        "message": "So I really enjoyed that episode. I know for some of your listeners, the Hindi language bar might have been a bit difficult, but I was very comfortable listening to him, and in fact, the thing that both of us picked up on, which is that they think of these ideas in a non-academic way, I think that might be more productive than the way we think about it, because we think about it in a particular box, parts dependent on the literature that we have read, and then what we have read, we try to apply to the real world that we see in front of us. Theirs are just so naturally intuitive and seamless, I think the way they communicate those ideas might just be a tad better than what we are trying to do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:26.000",
+        "message": "That's the one big thing I got from the episode. Yeah, it's pretty mind-blowing also, because, you know, I got so much feedback after that episode, saying that, wow, this has completely opened my mind, I didn't know these were the problems, and I was thinking that, okay, for like 15 years, I've been writing columns about exactly these problems, but yeah, it's completely different when he says it in his voice, in his language, and he contextualizes it in his own personal experience and pain, and that reaches out and makes a difference."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:53.000",
+        "message": "Yeah, and he was a very natural guest, like all the emotion was right there, his frustrations with the government, his frustrations when he was describing BT cotton, and how he was so thrilled that they did it on the sly, and then it became so big that they couldn't quite ban it, and so he was a very natural sort of, so I really loved him, I loved Gunwanji."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:14.000",
+        "message": "That was episode 86, and before you tell me your other favorites, I got to tell you that your first episode with me was Right to Property, right?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:09:20.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:21.000",
+        "message": "And that was a transitional episode for me, in the sense that before that, my impression was I have to hook people onto the show, and I'd been told that the data shows that about 20-minute interviews are the way to go, and that's your sweet spot, and people don't like to listen to more than that, and I used to aim for 20 minutes, which is mind-blowing to think of it now. I even had a 10-minute episode with Mohit Satyanand. I remember. Which is a miniature masterpiece, but it's a miniature. And then my episode with you on Right to Property went for an hour, and I thought, what a nice conversation this was, you know, and why am I doing 20 minutes? And then as I became a regular podcast listener myself, and started binging on other interview shows like Sam Harris and so on, I realized that, hey, most people who listen to podcasts regularly listen at double speed. So if you have a 20-minute show, by the time you've put on your shoes to go jogging outside, the 10 minutes are gone. That's double speed. It's all over. And the kind of podcast I would crave to listen to would be two-hour conversations, three-hour conversations, like Sam Harris sometimes, Joe Rogan, or Dan Carlin's Great Hardcore History podcast, and I thought I need to do more of those, and we reached a stage where now I aim for a minimum of an hour, otherwise I feel like it wasn't rewarding enough. And..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:32.000",
+        "message": "My podcast listening habits are similar. So I listen to the podcast on the subway when I'm walking the dog or in the car, and I thought I was the exception, that I like really long conversations. I remember when we did the Right to Property, I even said, should we break at some point? Do we need to re-record something? And later my husband pointed out to me the same thing that you said, that it's double speed, and he said traffic is so bad in most places that it's not like you're getting anywhere from point A to point B in 10 minutes. So most people are stuck in a car or some kind of mass public transit for at least 40, 45 minutes, and that seems to be an unexpected boon for podcasters."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:13.000",
+        "message": "Traffic is our killer app."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:16.000",
+        "message": "Or our friend."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:17.000",
+        "message": "Traffic is our friend."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:20.000",
+        "message": "So what are the other episodes which... So, you know, I mean, some personally, like I think the one you did with Vishwanath,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:27.000",
+        "message": "the Zen Rain Man episode on... Vishwanath Sikandar, yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:30.000",
+        "message": "Yeah, he was really great. I don't know very much about water conservation in India. I know in general about common pool resource problems, right? The tragedy of commons that we keep talking about. So the stuff that he spoke about both academically resonated with me and also like I've grown up in India, right? We've all had the days when your mother said take half a bucket of water and you're done. So it just resonated with me, but the types of ideas he talked about, again, were just so ground up, no pun intended, and so sort of counterintuitive but very practical. And his general theme that we need to keep it local and involve local communities, I think that is an underappreciated idea in India. We want Sarkar to do everything and Sarkar usually means some centralized power. And even in politics, we usually look to who is the prime minister and not who is your municipal corporator or something like that. So I think that episode really hooked me on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:33.000",
+        "message": "Yeah, how was the chatting with him? It was great. Our mutual friend Gautam John put me on to him and Gautam said you've got to speak to him and obviously I take Gautam. I mean, if Gautam is recommending someone, then that person is good. So I requested an interview, fixed it up, he got there, I didn't know what to expect. So that was one of those episodes which surprised me in the depth of insight that he came up with and which surprised a lot of people because it's always continuously got great feedback since then. And yeah, that was really good. I mean, sometimes what happens is that you have a guest from whom you expect a lot and things just don't work out. Maybe sometimes you can't get into that easy conversational flow that you crave during a conversation like this and that doesn't happen and sometimes they don't open up enough and the stars don't align. And sometimes you have a guest you have like no expectations from at all"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:20.000",
+        "message": "and boom, you end up with something that's kind of soul-marketing. Yeah, he was really, I mean, he was so great. And you know, the simple idea, we don't think of water that way, but water is renewable. It replenishes every day. So the things that he's talking about are not even long-term, you know, we need to do this over a period of 10 years or 20 years. You'll see the results quite quickly. So even from the start of his ideas to when we get better water resources for the local community, I think it was very valuable. I really hope his ideas get a bigger market and can convert into action"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:55.000",
+        "message": "in more places. Which is something you were kind of pointing out earlier when we were having lunch before this and you were having phool kopi short shared over Calcutta, which the chef had to make specially for us because it's off-menu. And you were pointing out that the episodes which kind of resonated with you were the ones with that single big idea"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:11.000",
+        "message": "which can actually make a difference. Yeah, I really, I mean, this one I'm biased because Alex Tabarrok is one of my former professors and a co-author and, you know, you've met him. He's just one of the most brilliant economists"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:24.000",
+        "message": "and insightful people. Such a lovely man, yeah. Very lovely and generous."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:27.000",
+        "message": "Yes, and also very lovely and generous, but also like just one of the best insightful economists that I have met. I use his and Tyler Cowen's book in my principal's class. It's full of gems like this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:39.000",
+        "message": "Your reference was FSI episode. Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:42.000",
+        "message": "He did two."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:43.000",
+        "message": "He did one on rent control and one on FSI."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:45.000",
+        "message": "I think rent control, we've all been hammering away at it. And if you live in Mumbai, it's really hard to be a fan of rent control. With the FSI episode, what I really loved about it, and this you see in a lot of Alex's work, it's, I mean, after all, their site is called Marginal Revolution, a small step to change the world, right? So it's a small idea which could completely change many things. It can change the architecture of Bombay, right? We live tall instead of live broad, right? We live in smaller clusters. We think of distance very differently. We may start walking to work instead of taking a car to work, right? Prices may drop, so there's more mixed living in the sense that, you know, the person who comes to drive my car, the person who comes to do the housekeeping at home doesn't have to travel an hour in a local train to come and work in our homes or something like that. So, you know, it becomes more affordable. And then, you know, cities, as a landscape, they generate ideas. Cities are basically labor markets and they're innovation markets. What kind of ideas can be generated if you're not spending all our time in individual silos and cars on the road and instead spending it in communities, spending it in public areas, spending it walking around, spending it listening to podcasts and in closer proximity with other people? I think there's also a huge equalizing factor. If you look at cities like Hong Kong and New York, which are tall as opposed to sprawled out, everyone at every income level has to interact with each other. I go to the Metropolitan Opera, which is a fairly elite sort of interest, even in New York. And the moment the opera is over, everyone is walking out to the same subway. And there is something very lovely about that in that we genuinely, despite our income and class differences, we can genuinely interact with each other, make eye contact when we're in the same subway compartment and things like that. So a simple thing like changing the FSI can have very long-term consequences on the kind of spontaneous order"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:53.000",
+        "message": "that emerges for the lack of a better word. I'll just sum it up for my listeners by saying FSI basically is how tall you're allowed to make your buildings. And Bombay has a very low FSI of around 1. And a lot of cities around the world have FSIs of 15, 25, 30, and so on, like New York and Hong Kong. And Alex's point can be summed up in just three words. Reclaim the sky. You know, we are restricted by how much land we have access to. Don't think of reclaiming the sea or reclaiming land. Reclaim the sky. Just build upwards. And all the typical objections fall apart, which he sort of addresses in that great episode, which was one of the early 20-minute episodes. And now I look back on that and I'm thinking that, damn it, you know, Alex Tabarrok came with me and sat where you are sitting twice. And I spoke to him for 20 minutes each."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:40.000",
+        "message": "What a waste."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:41.000",
+        "message": "I'm sure he'll give you more time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:43.000",
+        "message": "He's an incredibly lovely and generous person. So the FSI was one of those ideas. You know, another one of them was the television price controls episode"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:52.000",
+        "message": "that you did with Ashok Malik."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:54.000",
+        "message": "And, you know, we all complain about how terrible television is. Like, it just caters to the lowest common denominator. We all complain about how terrible news channels are, right, on TV. And it's just this screaming match with even the screen, the amount of information and the number of tickers going on. It's like my stress levels increase the moment I watch television. And the quality is pretty poor. There is no real analysis. There's no insight. It's a screaming match. There's a lot of misrepresentation of facts. And Ashok Malik basically told us that it's not cultural. It's a problem of licensing and price controls. And the same way it produces poor quality food or poor quality apartments in Mumbai, it is producing poor quality television."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:40.000",
+        "message": "And Ashok's point fundamentally to sum it up was that, look, it's very easy to blame private operators, right? Hey, television is so bad. It's not the state's fault. But actually what happens... See, my Hindi is so good. But actually what happens is that the state carries out price controls in terms of they have sold these licenses at such exorbitant amounts and therefore stopped people coming into the market that the guys who've paid so much money for these licenses have no option but to cater to the lowest common denominator, which is why you'll see Arnab and variations of Arnab on all the news channels. It's a screaming match. And you don't have space for cultivating niches or going into nuance. Or subscription television. Yeah, because once you pay that kind of money, you don't have a choice. It's a structural problem created by the state. So don't blame your bad television on Republic TV. Republic TV is a symptom."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:29.000",
+        "message": "I think that's... Another symptom is that you're listening to this"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:19:33.000",
+        "message": "as a podcast and not on radio."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:35.000",
+        "message": "This could be a lovely radio show, but radio stations only want to play Bollywood music because, again, that's the largest market that you can have."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:42.000",
+        "message": "And that's the point Amit Doshi actually keeps making, where he says that if you look at New York,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:46.000",
+        "message": "you have so many dozens of FM stations. Excellent radio."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:49.000",
+        "message": "Because it's cheap. So you can cater to every niche, you can cater to every taste, you can experiment. Over here, you have a few licenses sold for many whatever it is, tens, hundreds of crores. You have to recover that money. You have no option. You have to go lowest common."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:00.000",
+        "message": "Yeah. And the lowest common here is, you know, jokes and Bollywood."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:20:05.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:06.000",
+        "message": "With a few traffic updates thrown in or sprinkled in, right? And it's the same old, same old, right? The Gabbar's voice. And yesterday I was thinking, the number of RD Burman riffs, like we don't even have new music on these radio shows, right? The number of times like some RD Burman riffs plays on radio, this is all because that is what is instantly recognizable. You're sitting in the car most of the times when you're listening to the radio. And you want people to tune in, which means they have to have either celebrity interviews or something like this. And your show could be wonderful on radio. Like it could get this fantastic market if it could be broadcast over radio waves, but it simply cannot be done. And the problem is exactly the same as what Ashok Malik discussed with television."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:49.000",
+        "message": "I actually think it's better this way in the sense that, you know, the future of television, for example, is not appointment viewing, it's streaming, it's on-demand viewing. And similarly, so what Netflix is to Star Plus, I would say that IBM podcasts or podcasts in general are to FM radio."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:08.000",
+        "message": "Fair enough, but I'm an economist. All cost is opportunity cost. You could have been a radio show host 15 years ago, and we could have had a huge market of people who are educated in policy. Which never happened. And not just you, there could have been multiple variations"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:22.000",
+        "message": "of this kind of show,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:23.000",
+        "message": "which never happened. And we had to wait for one, technology to help us decentralize the medium. And two, we had to wait for something like Jio, which has put data on every phone. Otherwise it would have only been a rich man's play thing, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:38.000",
+        "message": "Cell phone and data connection. And I could actually have made some money."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:41.000",
+        "message": "And you could have made some money. I did offer to buy lunch."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:45.000",
+        "message": "You did offer to buy lunch but we cannot have our guests buying our host lunch."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:49.000",
+        "message": "We are very feminist on this show. So we also offer to buy lunch."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:54.000",
+        "message": "You offered, but the offer was declined. When I come to New York next, perhaps as a starving refugee, you can buy me a meal at the time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:01.000",
+        "message": "I don't think Trump's government"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:22:03.000",
+        "message": "is taking in refugees."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:05.000",
+        "message": "You might be able to come in as a podcaster. You might have better luck with that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:10.000",
+        "message": "Starving podcaster. Make podcasting great again."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:13.000",
+        "message": "Then a couple of other episodes. Since you mentioned starving podcaster, one idea which I think can have a big impact is the dhanwapsi idea that Rajesh Jain talked about, right? I mean, the idea is pretty simple. It is a direct transfer of public wealth, but we keep saying this is our wealth. These are public sources, but they are not controlled by us. They're controlled by representation of us, which is the government. So they really become the play thing of those few people in power, whether it is Indian forests, Indian mines, Indian roads, Indian land. I mean, we're in Mumbai. Half of the town part of Mumbai, the southern part of Mumbai, is state land, right? Whether it's the port or whether it's all these LIC buildings and all these old buildings. And that's a lot of locked up value which the state has no business holding on to. And Rajesh Jain's simple idea is we need the state to divest this wealth and put it in a fund and transfer it one time to every single family in India. And it has to be equal. It has to be non-discriminatory. And it is really the people's wealth and people will know how to spend it better."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:28.000",
+        "message": "Right? That was an interesting episode in the sense my episode with Rajesh was two hours long. My longest so far, but hopefully I'll have many more which are much longer. But that was two hours long and everybody said it was too short. I wanted more of it, which is uniformly. And the thing is, you know, like I've told Rajesh and if he's listening to this, I know he won't mind my saying it, but I don't really think his specific short-term plans or what he's doing with Dhanwapsya are going to work at all. It's like almost a fool's dream. But where I appreciate what he's... I used it as a phrase, I'm not calling him a fool. Far from that. But what is important about the venture, nevertheless, is to make that conceptual breakthrough. Because most people just think that all the wealth that they have is the wealth that they have, you know. If they're poor, they're poor. But what Rajesh is trying to get across to you is that, look, our public wealth is so much that every individual is actually worth, you know, 50 lakhs or even more than that. And all of that is being wasted. And it's time to give some of it back to the people instead of just lying around. Especially in a poor country like ours, where, you know, poverty is still a problem we are trying to tackle 71 years later. So just conceptually in terms of realizing that the government is not a separate, mybop entity and what it has is what it has. Realizing that, no, the government is your servant and what we call public wealth is actually our wealth. It's our debt capital, so to say."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:49.000",
+        "message": "No, I'm with you on that. I am in the business of ideas and not so much implementation. So I think about it in terms of the value of ideas and not how quickly this can turn into action necessarily. And there are ideas for whom the time may not have come yet, which are not popular enough. But nevertheless, I think this is something worth thinking about. And even if Dhan Vapasi by itself doesn't happen, the change in mindset that this is our wealth, they simply control it and we need to take back the control, I think that idea is very powerful. Right? Whether we redistribute 15 lakhs or 50 lakhs or whatever the number is or how it is done and whether it's an entitlement or a transfer, those are things, you know, which are less interesting. But I think that a simple idea is so powerful that this is really our wealth and it must be returned to us in some way. It's been taken away from us. I don't think Indians think that way. Right? It's usually government's wealth and we are clearly not participants in the government because they only think of citizens come elections. Absolutely. Another big idea, I think, which has a huge impact and India really needs is the episode that you did with Parth Shah. He's another old friend, a common friend of ours and I think what Parth is doing with the right to education and school choice is extremely valuable and I think the two-fold idea, you know, one that the right to education is simply driving out the private market because it's trying to... The Right to Education Act essentially defines all education goods as inputs. Right? What is a good school? A good school is one which has a playground, which has bathrooms, which has windows of this size and which has a midday meal and, you know, so on and so forth. According to me, a good school is one where the children learn"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:43.000",
+        "message": "and I have read"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:44.000",
+        "message": "the Right to Education Act and there's not a single learning outcome mentioned in the schedule. Right? So this mindset that you can have a good school only if it checks off all these boxes and it looks like a good school. Right? And this is, again, typically a problem of elites making policy. They go to Norway or Sweden or wherever and see what good schools look like and then they turn it into policy. The trouble is a lot of great learning takes place in tiny budget schools which cannot afford windows sometimes, which cannot afford, you know, a good teacher-student ratio or cannot afford a good student-to-bathroom ratio and so on and so forth. And they are providing a better service. We know that for a fact because poor parents are willing to pay a few thousand rupees in these budget private schools rather than send their children to a free school. I mean, that is damning evidence. I don't know what could convince people more that our public education system is failing. So I think Part's episode on how the right to education is really denying education and how we need to bring in school choice, which is another one of the themes you have spoken about for more than a decade. I think that's a very powerful episode. I think there is an entire generation which has been lost and I think more generations will be lost unless we fix that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:03.000",
+        "message": "I think, again, there's a conceptual shift at the heart of what Part and people like Amit Chandra who also came on the show"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:09.000",
+        "message": "talk about. Amit's podcast was excellent,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:11.000",
+        "message": "another one of my favorites. Yeah, that was excellent and this sort of conceptual breakthrough they're trying to get at is that, look, the quality of education and the choices that is involved in where the kid goes to school should not be determined by a Maibab state but by the parents because they have the best incentives. Every parent wants his kid to get the best possible education because they want to get a better life, right? And one school vouchers, which I'm no longer convinced about despite being an advocate at one point, but I think there is, anyway, that's a different subject, but they're certainly better than the current system and what school vouchers do is they empower the parents and it's the parents who have the power of sending the kid wherever they want rather than the state. It's interesting because the episode I did with Parth was in my 20-minute format."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:58.000",
+        "message": "Yeah. So it was really short."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:00.000",
+        "message": "Yeah, it was short. It was crisp. He was great. Very insightful. Didn't get a chance to go too deep."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:29:06.000",
+        "message": "And the episode"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:07.000",
+        "message": "I did with Amit Chandra was more than an hour and that was great and he's been an activist. He's got boots on the ground. He's, you know, he's been an activist for education. He's someone who's actually got skin in the game. He liaises with politicians and all of that and tries to make a difference"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:21.000",
+        "message": "in the world. And the episode, again, when I was telling you in the beginning, it brought in so much context about how schools actually function which I don't have as an academic who's only reading the Right to Education Act or the literature and Amit's episode helps you very vividly imagine what these schools look like, what these students go through, what the parents go through and, you know,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:29:45.000",
+        "message": "he made a fantastic"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:46.000",
+        "message": "bootleggers and Baptists point which is the rich schools are the ones who are actually trying to shut down private schools because they're direct competition for being in violation of the right to education. Right? So it's the teachers' unions and the richer schools or richer private schools which are threatening the poorer private schools and the budget schools and I think that was a fantastic insight that came out in that episode."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:07.000",
+        "message": "Which shows how sometimes the capitalist is the biggest enemy of free markets, cronyism, Zindabad."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:13.000",
+        "message": "Well, it's bad incentives."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:15.000",
+        "message": "Exactly. We have empowered"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:17.000",
+        "message": "better budget schools or richer school entrepreneurs with a terrible tool called the Right to Education Act and now we are upset that they are using it. Yeah."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:26.000",
+        "message": "So the problem is"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:27.000",
+        "message": "with the regulation, they would have just competed in the market. The very same people would have competed in the market as they were before the Right to Education Act instead of shutting down their competition. They would have made"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:40.000",
+        "message": "their product better. Right. Let's take a quick commercial break and we'll come back after the break not just to talk about the seen and the unseen but also to talk about what we have seen, what were the broad kind of trends that took place, what feelings do we have about it and also looking ahead at 2019 which is just"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:58.000",
+        "message": "a few days from now. Thank you everyone for sending in emails and voice notes talking about their favorite moments from the show. We really appreciate that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:02.000",
+        "message": "And with that, let's continue with the show. Welcome back to the seen and the unseen. I'm sitting here with my most frequent guest so much so that"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:10.000",
+        "message": "she's got frequent guest points now, Shruti Rajgopalan."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:13.000",
+        "message": "I think when he said frequent, he meant favorite."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:16.000",
+        "message": "Favorite too."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:17.000",
+        "message": "That's why"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:18.000",
+        "message": "revealed preferences."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:19.000",
+        "message": "That is true. Frequent is equal to favorite. Yeah, or no one else at this point that I have some really exciting episodes lined up. Next week is Steven Pinker on why the world is getting better. It's because 2018 is finally getting over. And apart from that, I have Rebecca Goldstein, the philosopher on why philosophy is relevant to modern life. I have Gyan Prakash on the emergency of 1975 and why it wasn't merely an aberration but written in the DNA of the Indian state. Fantastic episode which I really enjoyed. And finally, Tyler Cowen of Marginal Revolution talking about his new book of moral philosophy Stubborn Attachments. Again, he was very generous, gave me an hour to speak to me. Lovely episode. All those coming up, any of them, Shruti, could have been"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:09.000",
+        "message": "my hundredth episode. I'm flattered. Yeah. I think at zero price, it's pretty easy to be anybody's favorite."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:15.000",
+        "message": "What is zero price? I don't understand it. Explain your economic"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:18.000",
+        "message": "funda to me. I'm not charging high enough."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:33:21.000",
+        "message": "Okay. So when you provide"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:23.000",
+        "message": "something for free,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:24.000",
+        "message": "there seems to be a very large market for it. Opportunity cost. Nothing is free. No such thing as a free lunch."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:33:31.000",
+        "message": "I said zero price."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:32.000",
+        "message": "So, no, of all these, I am, I mean, I'm excited for all the episodes that you're talking about. And I, of the lot,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:42.000",
+        "message": "I've only read Stubborn Attachments and I mean,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:45.000",
+        "message": "the book is self-recommending. What did you think of Stubborn Attachments? I thought it was a really long view on things, which is something we don't get to do on a daily basis as academic economists, right? Not in the classroom, not outside. It's not like academic publishing has lent itself very well to these big long-term ideas. And I think only when you think long the way Tyler has attempted to wrestle with the big ideas in his book, that you get into questions of ethics and also what are the trade-offs you're willing to make in the long run. Right? And one great insight is that we must not compromise long-run economic growth because that seems to take care of a lot of other things. So if there are trade-offs to be made, then, you know, we really need to think about long-run economic growth on the plus side"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:35.000",
+        "message": "of that trade-off. Are you a consequentialist? I'm a consequentialist. Right. We even discussed it at some point in time and I amend what I said in the intro. We don't agree on everything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:46.000",
+        "message": "See?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:47.000",
+        "message": "I think that's refreshing. That's refreshing. So, I mean, you know, one thing that I point out to people whenever, like, you often see that people will get infatuated with this new thinker or this new public intellectual and they'll quote all his works and they'll go crazy and they'll post like 10 posts on YouTube about that person and the way I look at it is that there isn't a single thinker in the world with whom I agree in total. You name anyone, all my favorites, I have no other admiration. And so, therefore, whenever someone tells me about someone who's an intellectual hero of theirs, my question always is, okay,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:28.000",
+        "message": "tell me where you disagree with them because otherwise it's religious faith. Where do I disagree? Not too many"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:38.000",
+        "message": "places."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:39.000",
+        "message": "I might disagree in terms of details. Right? So, for instance,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:44.000",
+        "message": "right now\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:45.000",
+        "message": "I didn't actually agree with him. Yeah. Because Tyler is an intellectual"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:51.000",
+        "message": "hero. But let's not get into this since this was a rhetorical point. He's an intellectual hero of mine also in the sense that every time I read him, I feel like my brain cells"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:03.000",
+        "message": "are getting activated and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:05.000",
+        "message": "I'm getting smarter. But a lot of places I can't quite agree. I wouldn't say disagree"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:13.000",
+        "message": "because disagreement also means it's not so much disagreement but that my ideas may not fit particularly"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:36:21.000",
+        "message": "well in that"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:22.000",
+        "message": "framework of thinking. Right? Or I might be"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:36:26.000",
+        "message": "trying to solve"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:27.000",
+        "message": "a completely different problem than what is being solved. This is not just about Tyler's book but just more generally about the people one likes to read and is inspired by. But I agree with you. Right? Or in terms of point of view, I think we have a very rich point of view because we've grown up in India. It's a fundamentally entangled system. Right? We look at problems which are much more naughty and therefore much"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:01.000",
+        "message": "more delicious and interesting to solve. By naughty you meant K-N-O-T-T-Y."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:07.000",
+        "message": "A bunch of listeners are wondering what is she talking about? Yeah."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:13.000",
+        "message": "It's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:14.000",
+        "message": "K-N-O-T-T-Y."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:15.000",
+        "message": "So yeah, I"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:16.000",
+        "message": "think the problems here are much more interesting and we have sort of grown up with it. We take a lot for granted. One thing I'm really surprised by in India is actually that"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:29.000",
+        "message": "crime rates are"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:30.000",
+        "message": "so low. India genuinely makes me believe in the goodness of other people. Even such low state capacity and such poor enforcement of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:40.000",
+        "message": "law. Right? It's"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:43.000",
+        "message": "emergent order."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:45.000",
+        "message": "In the sense that with India I've always felt that there is no rule of law per se."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:53.000",
+        "message": "It's not because of the rule of law enforced by the state that we are largely a law-abiding society. This is society regulating itself. Well it's a society regulating itself but when was that the first time that India"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:38:17.000",
+        "message": "was"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:18.000",
+        "message": "a law abiding society? I don't know. I don't know. I don't"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:38:30.000",
+        "message": "know."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:31.000",
+        "message": "I don't know. I don't know. I don't know. I"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:41.000",
+        "message": "don't know. I don't know. I have no clue. I don't know. I don't know. I don't know. But I really don't know. I don't know. I respect their consent and this applies to all your personal relationships. So the way you behave to the world and relate to the world, you are broadly libertarian. But then when you extrapolate it to an abstract level, you start thinking like an engineer and you want to put different things in place."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:22.480",
+        "message": "Well, one is that and also I have very routinely heard people say, but I am good, what about the other people who need to be controlled, right? So we impose this, you know, that others are necessarily different from me. This goes back to the school choice issue, right? I've heard so many Delhi elite policy types talk about, but poor people don't know better."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:41.260",
+        "message": "Right, which is just shocking."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:42.260",
+        "message": "They don't know where to send their children to school. It's very condescending and patronizing. Poor people know much more than us about the world, I think, because they navigate a very different world, which is much, much more difficult. But most importantly, they know about themselves, which is knowledge that we cannot have. That knowledge is so subjective and so contextual. It is not possible to replicate that. I'll tell you an interesting story. I read this in Dean Carlin's book. So Dean Carlin is an economist and a policy person who wrote this book with a co-author. The name is slipping my mind. The book is called More Than Good Intentions, right? And he's basically talking about all the randomized control trials and other kinds of research that they've conducted in developing areas and some of the broad lessons that they've learned. There's a lovely story. I think it's about a flower seller. I think her name is Vijaya in the book. And they talk about how, you know, they go to Vijaya and they explain this whole micro credit thing. And Vijaya's daily routine is as follows. She goes in the market, you know, she wakes up in the market at four in the morning. She'll go to the wholesale flower mandi. Before that, she will stop on the way to the money lender and she will borrow money on daily interest, which as you and I know, can be extremely, it's a very expensive way of raising money. So she will borrow money in the morning. She will go to the mandi. She will buy the flowers. She will sell the flowers through the day. Whatever additional money she makes, she will stop back. You know, the money lender's right there. She'll go back. She will pay it back. And with the remaining money, she will, you know, buy her daily groceries and so on. And they did the math for her. They sat down, they explained everything and they said, you know, we will give you some micro credit. But if you don't borrow every day, you save X percent in daily compounding interest, which is very expensive way to do business. And before the end of the week, you will be putting away 50 rupees. By the end of three weeks, you will have 150 rupees. And then that is enough for you to buy the flowers in the mandi on a daily basis. So they laid it all out for her. And she said, all that's fine, but I can't keep any money at home because my husband's a drunk. And the only way he can be disciplined is because he knows that the money lender's guys will be after us if you don't pay the money lender back. So we think that she needs to optimize on how she does her flower business. But she's optimizing on three problems. How to run her house, how to control her husband's alcoholism, and how to run a successful small, you know, sort of, I don't know if you can call this a business, but a small entrepreneurial venture of selling flowers daily outside the temple. And we simply don't know what her optimizing function is, to use a typical economist term, right? If you don't know what it is that they're trying to optimize, how can you tell them how to do it? And that's why a lot of these patronizing people who sort of typically say, but they don't know better. You know, even if I had looked at Vijay, I'd be like, yeah, that's a terribly silly way taking money on daily interest. And my first assumption would have also been, maybe she doesn't know that there are other alternatives, right? That's our natural inclination. All of us who have access to modern credit, we all have credit cards, we just paid for our lunch with credit card and so on. So that would be our natural inclination. Our natural inclination is never to think that there is something about their circumstances that they know so much more about that we can't possibly fathom. And they must be doing what is best for themselves. And this is not to say that we shouldn't have financial literacy or education programs and so on, but they need to be the ones who apply the tools of financial literacy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:24.440",
+        "message": "We cannot do it for them. Yeah. You empower them with the knowledge and don't stand in judgment and say, oh, what are they doing? That is, I get it. It's a very poignant story though."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:32.880",
+        "message": "I mean, what is a way out for Vijaya then? Well, I think socially we need to change. I mean, one major problem for Vijaya, presumably, I don't know much about her life, but presumably she can't get rid of her husband, which would be one way of solving the problem, right? Another way is we need to have a better credit system, which is more competitive at that level so that money lenders are not charging daily interest rates, right? If we had banking penetration at that level, if we had more microcredit associations and organizations who gave credit to women, which we've had, right? We've had this in Ahmedabad, we've had this with SEWA, we've had this in Bangladesh, right? He even won the Nobel Peace Prize for the microcredit work that he did in Bangladesh, Eunice. So there are ways to make this happen to make this particular problem less of a problem. But I think what is happening with Vijaya is a lifelong problem of having her choices taken away from her, right? I'm not sure how much of a hand she had in whether she gets to choose whether she marries or not, or who she marries or not. I don't know if she had much control over whether she can get educated or not. I don't know if her family skilled her in anything except household work, right? So I really don't know enough about her life to actually think of every single thing that has gone wrong that could have had some intervention and been fixed for this to not be a problem."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:01.640",
+        "message": "Which also speaks to, you know, no matter, I mean, obviously, you and I both, I'm sure agree with Pinker. The fact is that the world is so much better and we're moving in the right direction, but, oh man, this shows you what a long way we still have to go."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:12.120",
+        "message": "Well, I absolutely agree with Pinker, but also we need to recognize that the distribution hasn't been even, right? Some of us are at the top end of the ladder of the gains from this distribution. I mean, me in particular, I'm a post-colonial, close to post-liberalization child of India, right? So I was there when liberalization happened. I remember going from two types of chocolate in the store to potentially 20 types of chocolate in the store in a matter of a few years."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:39.560",
+        "message": "So I have really reaped the benefit. Sugar is poison. I had to put that in there. Please don't have chocolate, except 95% dark, sorry, carry on. As Amit said, there are many things we disagree on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:52.520",
+        "message": "This is one of them. So I do like dark chocolate though. Just you know, a hint for future podcast freebies."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:01.000",
+        "message": "I just bought you lunch. That's my quota for the year over. The year is almost over."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:04.240",
+        "message": "It's almost over. So maybe in January. So I have particularly, I think, benefited from this, right? So you know, post-colonial, because you know, I've had many generations of English speakers in the family, which made it very easy for me to get a PhD in economics in an English speaking country in the United States. And you know, these things are terribly part dependent. I think it would have been hard to learn a new language and then go on to do my PhD in that particular subject. So I think I really benefited from that, from liberalization, particularly because, you know, all of us, all of our incomes got raised and all of our choices became better. And you know, especially with access to internet and the ability to actually find out about simple things, universities, the kind of people you want to work with, what we were reading at the time. I like to tell the story, my first copy of the road to serfdom was ordered by mail, like"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:47:00.560",
+        "message": "snail mail, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:01.920",
+        "message": "To fill out the copy and put in a banker's check, was $25 banker's check to the publisher."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:08.680",
+        "message": "Which year was this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:09.920",
+        "message": "This was a while ago, must have been early 2000s or late 90s, something like early 2000s. And University of Chicago Press was the publisher in question and the bookstore that I'm talking about helped me do it. They showed me the form and I filled it out and I sent it. And now the world has just changed. I mean, I can get any book that you tell me about in a matter of seconds. So I think some of us have really benefited. We were already educated enough or we came from wonderful families. We have never had financial insecurity in our lives. I mean, at least I haven't a genuine financial insecurity. So health insecurity, right? So we have benefited from how wonderful the world is more than some of the others. So I think while I agree with the overall thesis that the world is far better, far safer, everything, I don't think that applies equally to everybody."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:01.920",
+        "message": "I think it's gotten better at different velocities for different kinds of people. So the velocity for someone in Vijaya's position, for example, is far less, but it is still"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:12.600",
+        "message": "moving in the right direction. Absolutely. I'll definitely agree with that. But I'm not sure how much the internet revolution has already helped Vijaya. It no doubt will in the future. If not anything, it will increase the size of her market. So there will be some benefits that come or accrue to everyone, even if they're not directly participating in that economy. So if I take my grandfather to the temple, now that I'm wealthier, I'm more likely to buy more expensive flowers or more flowers and so on and so forth. So I think just participating in this kind of modern world economy benefits Vijaya and that's lovely. And yeah, I think, I think the rate at which we are able to partake in the gains or catapult ourselves to the next level, or the rate at which opportunities open up, right, those are all different."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:03.120",
+        "message": "Absolutely. And, you know, if our economy had been open from the start, or if it even opened up much"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:07.480",
+        "message": "more than it did in 91, which would be true for a lot more people, better off."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:12.720",
+        "message": "Absolutely. Yeah. So we should really be talking about what happened in 2018, if our listeners still want to go through that drudge, and what we're looking forward to in 2019. But before that, is there something on your list you've left out?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:26.520",
+        "message": "Yeah, no, I mean, I was just thinking about what are the things that surprised me about the 100 episodes. And one of the things was the couple of episodes you did on cricket. I'm not really a cricket person, I actually call myself a cricket widow. Because my husband Nandu watches a lot of cricket and he watches test matches, which he really enjoys, which go on sort of forever, for weeks and weeks, and so I think one of the great disappointments in his life is that I'm not that excited about cricket. But I was genuinely surprised when I heard both those episodes, probably because they were about so much more than cricket itself or cricket technique. And also, they were from cricket commentators or writers and not cricketers themselves."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:08.440",
+        "message": "That kind of put me to sleep. One episode was with Gideon Haye and Prem Panekar, Prem being a very good friend of Boshruti and mine, hi Prem, if you're listening."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:16.920",
+        "message": "And the other one was with Harsha Bhogle. Yeah, I thought both were wonderful. I think Gideon and Prem's was more about the money in cricket and the financial aspect, which also Harsha touched upon. But Harsha sort of placed the game in a particular context of the history of India in the last 50 years and connected it to all the big events of post-colonialism, post-liberalization, how the game has taken off, and also how being integrated to the modern world of cricket where money plays a big role changes how dispensable the cricketers are and how they behave on and off the field and how viewers think about them and what our relationship is with individuals and the team. I thought it was really great, both the episodes were really great and very insightful. I was very surprised personally, because when I saw that episode, I was like, oh-ho, now"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:51:08.800",
+        "message": "I have to hear this too."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:11.480",
+        "message": "So this was, yeah, so I think those were some of the surprises. I mean, while I've learned something from every episode, pretty much, and a lot of the friends, you know, people you've had on the show are friends of ours in common or we've known or we've come across in some professional or personal capacity, but, you know, these were some of the highlights. I'm sorry if I missed anyone out."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:31.800",
+        "message": "I'm sure I'm going to get a few messages and tweets. Yeah. Thanks a lot. Everyone who she's missed out, who's been a guest on the show and hasn't been mentioned already. Please know that I love you, but there are listeners here who don't quite feel the same"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:43.320",
+        "message": "way."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:44.320",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:45.320",
+        "message": "I think I have to mention Vivek, my nemesis."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:46.320",
+        "message": "No, I'm kidding."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:51:47.320",
+        "message": "No, I'm kidding. I love Vivek."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:49.320",
+        "message": "I've really enjoyed episodes with him, to be honest."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:52.320",
+        "message": "Vivek Kaul, which I'm sure all your listeners are familiar with, who I'm sure all your listeners are familiar with. Who I hope is listening to this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:59.000",
+        "message": "Yeah. He's wonderful. He has this incredible ability to just simplify what seems like a really big problem. You know, especially because I think most people just go to sleep when they hear about a financial problem or a financial scandal, and he has this incredible ability to simplify and make it accessible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:16.640",
+        "message": "And simplify not in a negative sense of make it simplistic, but in a good sense of make it easy to understand. So now you get it. And then, yeah. And then once you get it, you get it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:25.280",
+        "message": "Yeah. The moment Vivek says it, it seems obvious, which I think is a great skill. It's a fantastic skill. So I've really enjoyed Vivek's episode. I have even been a guest with him once, while we discovered, yes, actually, I must say, I sort of elbowed myself into that episode. I heard that they were doing one that day about our famous prime minister's famous words on pakodanomics, and I sort of elbowed my way in because I thought Vivek was getting ahead in the competition of not favorite, but frequent guest, apparently, right? So yeah, Vivek's episodes I have really enjoyed. I think, you know, the last one I think was ILNFS. And that was, again, an area I didn't know that much about. And just, you know, Vivek's ability to take a lot of information, which may or may not be out there, as he as he pointed out, there's so this opacity in how these NBFCs function. So his ability to take all that information and simplify and just sort of get to the root"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:29.560",
+        "message": "of the problem is quite amazing. In fact, I'll tell my, I'll get my listeners into a secret and I don't know if you know this. I wonder if I've told you. He said Vivek and I once got together and we said we'll do a joint podcast in Hindi."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:53:41.960",
+        "message": "And we called it..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:42.960",
+        "message": "And your Hindi wasn't good enough? My Hindi is amazing. And we called it Fande Wali Baat. So every episode was like five minutes long. And Vivek and I would talk about a funda from cognitive psychology, but related to normal life. For example, you talk about the Sankhya's fallacy. But you speak about how that is why people stay in bad marriages or why if you walk into a bad movie, you're like, oh, I've already paid so much, I might as well finish and blah, blah, blah. And we recorded like nine episodes of that as a pilot."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:10.040",
+        "message": "You did? I didn't know you recorded it. I knew it was an idea."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:13.400",
+        "message": "No, we recorded nine episodes as a pilot and we thought it sounded great. But it really went nowhere. And so if there are any..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:18.440",
+        "message": "Why have I been denied of hearing these nine episodes?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:20.720",
+        "message": "If there are sponsors out there who are willing to put money behind this, kindly get in touch the brilliant Vivek Kaul and the barely possible Amit Verma."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:30.200",
+        "message": "Well, I'm hoping Vivek did the Hindi speaking."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:34.040",
+        "message": "We both did. My Hindi is very good. You are defaming me. Verma only name."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:38.040",
+        "message": "Let's talk for two minutes in Hindi. Come on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:40.040",
+        "message": "Come on. What do you want to talk about?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:42.040",
+        "message": "I want to talk about 2018."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:43.040",
+        "message": "But what do you call 2018 in Hindi? 2018. Absolutely. In 2018, for you... For me... I think we'll switch to English. Let's switch back to English."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:56.040",
+        "message": "But why do you keep saying 2018 was a bad year?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:54:57.040",
+        "message": "I mean, it might have been, but I want to know why you think it was so terrible."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:58.040",
+        "message": "Actually, 2018 was a very good year for me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:59.040",
+        "message": "I lost 15 kgs. I didn't mean personally. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:02.040",
+        "message": "I mean, I don't know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:03.040",
+        "message": "It was more of the same year. It was more of Trump, more of Modi, more of Pappu being Pappu, which is what I will continue calling him. And we can discuss that also. But it was just in the sense that I don't think in all of the ways that we bemoan what has happened in the last three or four years, the world didn't really get much better. We should perhaps be thankful that Modi didn't unleash another demonetization kind of monstrous blunder on us. But, well, there's always 2019 for that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:37.800",
+        "message": "I'll tell you why I think 2018 was an interesting year. I mean, you and I have always had this view that, you know, it's not about the individuals. It's about the political rules of the game and the incentives. So you and I are not partisan at all. I mean, we've rarely... We've discussed a lot of politics, but we never discuss it from a partisan point of view, which is what most people talk about when they talk about politics, you know, in most contexts. And I think in 2018, the penny might have dropped for many people that Modi is also going to be more of the same. And this is not because there's something peculiar about him or something similar about him to other dictators slash prime ministers that we've had. It's just simply the incentives are terrible. The incentives lead one to rely more on centralization and more on control and more on statism. And that's what we got. And I think the penny might have dropped for many people this year that this was never about Modi being able to change our lives dramatically."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:36.000",
+        "message": "I think that penny should have dropped in 2014. And also the thing is, it irritates me when people keep talking about him as right wing neoliberal because whatever his social tendencies might be on economics, he's statist, he's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:46.960",
+        "message": "hardcore left wing. And his social tendencies are also not very liberal."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:51.480",
+        "message": "Exactly. So he's the worst of both possible worlds. I'll tell you my biggest disappointment this year is one, there was a laudable effort to recast Rahul Gandhi as someone who's got progressive ideas, who knows what he's talking about, and all of that, and who's not as stupid as he seems to be, and which is fine. But the problem there is that a lot of the ways in which they've recast themselves is for me a step back, in the sense that there is a soft Hindutva, where instead of, you know, just speaking of individual rights, and so on, as they should finally do, despite not having done it for seven decades, he goes to Kedarnath and when, you know, there was this fuss where the BJP accused him of eating chicken. And instead of just mocking them, as he should have, he said, No, I had shudh veg and defended himself. And so this coating of the soft Hindutva vote, then getting into all of these populist areas, like now farm loan waivers have become the rega. And I understand that farm loan waivers might even be a necessary anesthetic. But there are deeper structural issues that you have to take on. And those structural issues were actually caused by the Congress, but forget the past. But Modi's done absolutely nothing about them. Despite blaming Nehru for everything, he hasn't actually reversed anything Nehru did. So what are you blaming him for?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:11.440",
+        "message": "Yeah. And no, you're absolutely right. I mean, Modi has been a continuation, you know, as Arun Shourie famously put, he's Congress"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:17.120",
+        "message": "plus cow. Yeah. Right. Actually, Congress is now Congress plus cow."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:21.120",
+        "message": "You know something, I am not so sure about that. I'm not sure how much of the soft Hindutva peddling was just campaign, sort of, you know, people are following you, the media is following you, you're pandering in a particular way. I don't know how much of that is going to translate to policy. To be honest, I don't see Congress constituencies doing much of that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:38.680",
+        "message": "I could be wrong as I have been in the past. But when you talk about policy, for example, people said that, you know, people keep trying to, I guess, because of the understandable reason that they're anti Modi and something has to be done, which I agree with, they keep trying to recast Rahul Gandhi as someone who's actually not very stupid, which I think is silly, because, you know, the evidence is out there on YouTube. And even when he's been asked questions this year in press conferences, he's been lauded for about Indira Gandhi's policies, he's defended bank nationalizations, he's defended the nonsense he did. He even said in a press conference recently, just three or four months ago, that the Congress was not involved in 1984. Now, I think what a lot of Congress supporters don't realize is that when I call him stupid, I'm giving him the benefit of the doubt. It's Hanlon's razor, never attribute to malice what can be adequately explained by stupidity. Because if he's not stupid, he's an asshole."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:28.740",
+        "message": "These are the two options. Well, I'll tell you the peculiar thing about Rahul Gandhi. You know, we all have family members who have really bizarre views, right? They've just been fortunate enough that they haven't been Prime Minister. So we all have had the crazy Hindutva uncle or the crazy controlling aunt or, you know, the crazy cousin who might have done something terrible. Now, the problem is, all of these are Rahul Gandhi's immediate relatives, right? And I can understand the personal problem of trying to distance yourself from a grandfather who's beloved by hundreds of millions and your grandmother and your uncle, who's quite frankly a monster, you know, at least based on the policies, I can understand."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:10.800",
+        "message": "Sorry for interrupting. They brought out a tweet recently on Sanjay Gandhi's birth anniversary."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:15.040",
+        "message": "I was horrified by that. Hailing him as a visionary leader who cared for the poor. Yeah. So this is my thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:20.320",
+        "message": "Is this the alternative to Modi you're putting forward?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:21.320",
+        "message": "Yeah. So my thing is, you know, I think what Congress has relied on in the past is the huge shadow that is cast by Nehru and then Indira Gandhi, Rajiv Gandhi and Sonia Gandhi, right? And I think the fundamental misunderstanding with Rahul Gandhi is, I don't think he's stupid or malicious. I think it's a lack of recognition that Congress can do without the past mistakes, that people will actually vote for Congress, even if you distance yourself from the follies of your family members for which you didn't contribute at all."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:55.000",
+        "message": "I mean, he wasn't even around for most of this time. I would say it would be... I would respect him more. It would be horrible to blame someone for the mistakes of his ancestors. My issue with Rahul Gandhi is not whose son or grandson he is."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:06.620",
+        "message": "My issue with him is that he keeps defending those mistakes. Exactly. I'm saying he needs to distance himself politically from them. Personally, your equation you have with your crazy uncle who forced sterilization upon millions is a whole different question, right? You might have been your favorite uncle despite all of it. But I think politically, I don't think he's recognized that he needs to distance himself and actually come out with a clean platform of what it is that he stands for."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:32.000",
+        "message": "And also, you know, I think a lot of Congress supporters behave as if history began in 2014."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:38.320",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:39.320",
+        "message": "And the thing is, it's very easy to appear virtuous when you are in opposition. The reason Modi is where he is, is because this party ruined this country and kept us poor for 70 years."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:49.860",
+        "message": "That much is a fact. And that's why the rhetoric Modi gives when he blames Nehru and Indira Gandhi is so powerful."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:55.320",
+        "message": "Yes, but that rhetoric is kind of idiotic now, because for five years, Modi has himself done nothing to reverse any of that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:01.920",
+        "message": "In fact, he's done more of the same."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:04.920",
+        "message": "So I am losing my patience with the, oh, but 70 years they have done this and everything is Nehru's fault, which is rhetoric, which, you know, would have resonated in 2014. But it doesn't. And you see a lot of these young people who've come to political consciousness after 2014, behaving as if the Congress is this great virtuous party."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:24.560",
+        "message": "Yeah, we need to read more history. We need to. Wait, you know, your episode with Gyan Prakash should solve that problem."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:31.680",
+        "message": "My episode with Gyan Prakash should solve some of that problem, certainly. And none of this is to defend Modi in any way. You know, Modi's just been a horrible Prime Minister. Definitely worse since Indira Gandhi."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:42.760",
+        "message": "Whether he is..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:43.760",
+        "message": "Maybe worse."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:44.760",
+        "message": "Maybe worse because..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:45.760",
+        "message": "She only demonetized 10,000 rupee notes. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:48.680",
+        "message": "But if you leave aside demon, she did call the emergency ban nationalization."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:51.960",
+        "message": "I mean, economic policies alone, even if you leave emergency aside..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:54.720",
+        "message": "Were really terrible. In fact, a lot of the farm loan waiver problem, I think you had an episode with this with Kumar Anand and this with Kumar Anand also on public sector banks, right? With Kumar and Vivek, I think those two did a... Yeah. And those were great, but the farm loan waiver problem is, as you said, it's just treating the symptom. It is not treating the actual problem. So you've done a bunch of episodes on the farming problem, right? With Pawan, with Karthik Shashidharan, with Kumar, right? And basic... and Gunwant Patil, of course, our favorite one. Basically, each one of those episodes talked about how farmers are shackled, right? Whether it is they don't have access to futures market, which is what Karthik talked about, or they don't have access to any markets, which is what Kumar talked about, right? We've denied them markets and inputs. We've denied them market and outputs. And they don't have access to the latest innovation or to global technology, as Gunwant Patil pointed out. We've basically made sure that our farmers remain poor and they have no choice but to remain poor. And when our farmers are poor and unproductive, as I pointed out in the right to property episode, we haven't even given them the exit option of exiting farming, because their most"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:03.200",
+        "message": "valuable asset is depressed, because they can only sell it to farmers. Another thing I discussed with Vivek and why things are coming to a head now is that all the agitations you see recently from the Jats in Haryana, the Patidas, the Kapus in Andhra"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:16.400",
+        "message": "Pradesh, the Kapus, I believe, and the Marathas here, they're all landowning cars."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:21.200",
+        "message": "And one of the reasons they're agitating is because with every generation, a farmer's land gets divided among his descendants, and they have a smaller and smaller parcel. And it's completely unsustainable now, they don't have an exit. And this is also one reason why, you know, while I would certainly like, I want Modi to lose 2019. But the bottom line is that, you know, a change at the top of politics is not going to make a difference to the country because we are screwed, our jobs crisis on which I had a couple of episodes is, you know, is reaching horrendously bad proportions. The agricultural crisis is crazy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:55.160",
+        "message": "Plus, there is this cow genie that has been let out of the bottle. And they're related, yeah. And they're related. So I think the farmer's distress, I mean, farm loan waiver, just moves the guillotine away, right? Sort of. Like right now, they have this extreme problem of having to pay back loans when they don't have the money. And that solves that problem immediately. But it doesn't solve anything long term. And frankly, as Gunman Patilji pointed out, they don't want the waivers, they want empowerment, they want access to markets, they want to control their own choices. Right now, they can't choose anything. They essentially have to keep doing what their great grandparents did, because that's how the regulatory system is set up. And the modern world is simply not productive on such a small plot of land, doing what the great grandparents did with a few subsidies and waivers here and there thrown in. It's not really going to make them rich."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:49.440",
+        "message": "It's horrendous. It's so depressing. But we do have some positive. I mean, last year wasn't all bad."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:55.040",
+        "message": "There was some very good news, especially when it comes to gender, for example. Yeah, I think I mean, before minority rights in general, including gender, but I think the I'll start with decriminalization of 377. I mean, that is incredibly positive. This is something I mean, you have written a lot about the victimless crimes, right? What are consensual relationships among adults which are being regulated for no reason and horribly so criminalized in India? And you know, I mean, you've had episodes where, you know, we've had first person accounts of how the police harass you, right? How people try to extort you by trying to out your sexuality or try to get money out"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:40.800",
+        "message": "of you. There was a column called the Matunga racket many, many years ago about this. So just go to IndiaUncut.com and search for the Matunga racket and you'll come across"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:49.200",
+        "message": "it. And so in general, I think the idea that so many more people are liberated and can discuss their own sexuality. I mean, if they wish to be private about it, that's, of course, their choice. But now they don't have to worry about state coercion. They don't have to worry about, you know, jail time and things like that. And they don't have to worry about things like the Matunga racket where people are extorting money from them because something is, you know, makes them a criminal in the eyes of the law. So I think that is a huge step forward."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:22.200",
+        "message": "Like I read an episode about being gay in India with Navin Arora, who's a stand up comedian and who's also runs a show for IVM podcast called Keeping It Queer."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:31.360",
+        "message": "He was amazing. I really loved him. And his first person account, it was just so poignant the way he talked about coming out to his family, his experiences, it just like really brought tears to my eyes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:44.080",
+        "message": "You know what was the most heartening thing is that when 377 was abolished, it was almost as if its time had come. And all I heard, and obviously there's a selection bias from the kind of people I follow and all that. But all I heard was people very glad that it's been abolished. 25 years back, I don't think that's all I would have heard. 25 years back, you know, there would have been a lot more noise against it. And now it was like, okay, everyone's accepted it was an anachronism and it's got to go. And that's also a sign of how a society's norms evolve over time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:16.760",
+        "message": "Something Matt Ridley spoke about. Matt Ridley spoke about it. I was about to mention."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:08:19.760",
+        "message": "And law must follow society. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:23.200",
+        "message": "Otherwise, if you're imposing something, I mean, in an ideal world, I would have liked the constitution to include the third gender and sexual orientation, but it's really difficult because social norms were different then and they may not even thought about it. It certainly didn't come up, you know, LGBTQ rights didn't come up in Constituent Assembly debates. And this is the natural way in which we have evolved. Our minds have opened up. We are much more cognizant of both the third gender and also gender fluidity and also, you know, different sexual orientation. And all of these three things, we see more of it in society around us because, you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:58.400",
+        "message": "so much migration. And I've actually argued that the constitution need not even have mentioned LGBTQ per se. If you just protect individual rights strongly enough, then all minorities, if those rights are strong enough, all minorities get protected, all genders get protected, but sadly our constitution"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:13.680",
+        "message": "doesn't do that. No. And also, you know, the Indian Penal Code did have this crazy Victorian morality, which"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:19.200",
+        "message": "could have been struck down if it was unconstitutional, but it wasn't unconstitutional."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:23.360",
+        "message": "Well, it was struck down first and then it was reversed. And you know, there's also a crazy history to how it happened. I am so glad that the Supreme Court did the right thing. It's also, you know, I mean, these are small things, just the peace of mind for people who have a different orientation, their ability to hold someone's hand. I mean, there's no way we can value these things as economists, right? These are just really big milestones for regular folks in India. And I'm so thrilled it's happened. And all the people we know who belong to the LGBTQ community, we are relatively elite. You know, we have not known too many people who've been extorted or who've been harassed by the police or molested even, you know, out of fear of being outed and so on. But this obviously, you know, the more powerless you are in India, that usually translates into the less money you have, the more you face these things. So I think this judgment brings about equality, not just between the different genders and different sexual orientation, but it also reduces the gap between people who are elite and powerful and could have led these lives anyway, even with 377, which was a terrible law versus, you know, poorer folks or people who don't have that kind of safety and security in the environment that they inhabit. So I think it's just a really wonderful thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:48.400",
+        "message": "Couldn't agree with you more. And plus there were other judgments, it was a triple talaq judgment, for example, which some have described as the right decision for the wrong reasons, but whatever, it's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:56.800",
+        "message": "the right decision. Yes and no. You know, in the sense that if I just took my pure principle, you know, textbook kind of opinion, I would say there are different kinds of contracts and they can have clauses for different kinds of dissolution of contract, right? So if I contract with you that if I say, you know, sugar, sugar, sugar three times and you kick me out of the studio, it ought to be okay. I'm surprised you didn't already actually, but it ought to be okay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:27.840",
+        "message": "Just don't say sugar again, you're triggering me."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:11:30.800",
+        "message": "Sugar again? Oh God. So, but that is not the, that doesn't take into account the social context, right? Because that assumes that these women that we're talking about got into the contract of their own volition and gave their genuine consent, which we know that the way marriage works in India is not always the case, right? So yes, technically it's a contract and technically one should be able to decide the terms on which you dissolve the contract and triple talaq is as good as any, right? But that is not the case in India. Most of these women did not choose who they were married to. The circumstances are such that they don't have much control or much choice and they are denied consent all the time in small and big things. And I think removing triple talaq just goes a long way towards mitigating one kind of problem for Muslim women who are trapped in a particular social context."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:26.680",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:27.680",
+        "message": "I agree with you. So I think, yeah, I mean, it may have been for the wrong reasons and it may not be something I generally think is a problem, but it is a problem in India and it is definitely a move in the right direction. And I think, I mean, speaking of the triple talaq, this has been a great year for sort of like gender awakening and gender rights, right? Not just minority rights. I think it's been amazing. You have done a great job, I must say. I have congratulated you privately in the past, but you have had so many women come and actually talk about whether it's, you know, gender, female workforce participation or whether it's the Me Too movement. I think you've really pushed the envelope and you were one of the early ones to wake"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:12.560",
+        "message": "up to what was happening. So that is awesome. Not really."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:15.560",
+        "message": "I was just lucky I knew these people and they agreed to come on the show. You're not lucky you know these people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:18.840",
+        "message": "You've cultivated these relationships with very smart women. Listen, but you don't congratulate someone for doing something which should just be completely par for the course. I mean, this is a burning issue at the time and if you're doing a podcast, you have to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:30.320",
+        "message": "call these people. Well, I'll tell you what I'm congratulating you for in particular. Most of the times when I spoke, you know, men would ask women, sometimes they would ask me, what should they do? I would say, just listen, right? Let's start by listening because I think even though we're in the same room, half the times we inhabit slightly different worlds, whether we're in the same bus compartment, same restaurant, we just use physical space and we navigate it differently. And most men are simply not aware of it. Not because they are stupid or oblivious, but because they are not walking in our shoes, however uncomfortable they might be. So I think that was one wonderful thing. You brought on these wonderful guests and you gave them a chance and a platform to express the kind of problems. I love the show that you did with Nikita and Supriya. I'm a big fan of their work. Both of theirs. I've read a lot of their writing. I think Nikita's story."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:25.320",
+        "message": "Nikita did a couple of really good feature stories for the next caravan issue after that"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:29.120",
+        "message": "if you read them. Yeah, the Pachauri one, right? It was fantastic. The Pachauri one, not the Pachauri one. Oh, after that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:34.120",
+        "message": "Right after I recorded with them, after the episode was out, the next month, I think Caravan"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:37.560",
+        "message": "did a Me Too issue where they had four stories and she wrote two of them."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:14:41.600",
+        "message": "Yes, I read that one."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:43.440",
+        "message": "And yeah, so her insight, you know, her insight is twofold, right? One is her experience as a young female journalist. It's a world that is difficult to navigate. And the other is her experience covering, you know, both people who have been harassed and the harassers, right? She had a very unique perspective. It was, I think, a fantastic episode. I think the episode that you did with the very, very incredibly bright young women of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:11.800",
+        "message": "Takshashila Institution and Pragati. The Matrix of Empowerment. The Matrix of Empowerment. I think that's episode 90. I really liked that episode and I like both the Me Too episodes, even the one I did with you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:21.360",
+        "message": "I thought you were great. Even the one you did with me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:23.360",
+        "message": "Even, even. Oh God, I'm getting into trouble now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:26.360",
+        "message": "No, I had a lot of fun doing that. It's another one of those things where the time for something like that had come and it had just been bubbling for a long time. And I think you and I in particular just discussed the incentives part of it, but I also liked listening to the social context that so many of your other guests talked about, especially the metrics of female empowerment. I think that was a really great episode because these things are hard to measure. You can't just measure it as, you know, how much money the women are making or how much distribution they have in, you know, household income or household wealth and so on. It's so many small, you know, one lovely thing that you mentioned in your episode with Vikram Doctor."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:05.880",
+        "message": "I really loved that episode. That's a great episode. He was amazing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:08.880",
+        "message": "And you, you guys were talking about, you know, the banana flower, which in Tamil we call vaarappu. Right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:14.480",
+        "message": "I'm not even going to try to say that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:15.480",
+        "message": "I do a fair bit of South Indian cooking. I'm very fond of that food. This is one thing I'm not touching, simply because as you mentioned, it is so labor intensive and I could not be bothered. Right. And he talked about using steel utensils instead of brass ones and so on. And these are all metrics of how women have more space and more of a voice in the power structure of families."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:38.520",
+        "message": "And they can say no. No, it's very interesting. I mean, Vikram's point there was that the rise of stainless steel utensils in India, which over a period of 10 years, that whole revolution happened where everything was stainless steel was a sign of the empowerment of women."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:50.440",
+        "message": "I agree with him."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:51.800",
+        "message": "And now I think non-stick. Yeah, and it's interesting, this email group that we're both part of, which I started, Lucretius, there was a discussion about what do you get in the US, which you don't get here, which I refer to in my next episode as well, oddly enough. And in the UK, you get all the cleaning liquids in the household fluids that you get are far better than the ones you get in India. Because the women are using it themselves as opposed to having the maids use them. Exactly. And over here, the household help uses them."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:19.320",
+        "message": "So you don't give much attention to them. I completely agree."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:22.160",
+        "message": "And I've heard that a similar explanation given for why Indian kitchens are so lousy, like so small compared to in proportion to the rest of the house. They don't even have a fan."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:30.920",
+        "message": "Yeah, don't even have a fan."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:31.920",
+        "message": "You know, typically, let alone air conditioning. My kitchen has a fan. But because the men don't cook and the men make all the decisions. So it's either the domestic workers or is the wives who are a sort of domestic workers in so many Indian households, you know, who don't have agency and who are not."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:45.080",
+        "message": "I must say I've revolutionized my parents' household. We broke it open and made it an open kitchen so that she can get my mom, who does a lot of cooking. She really enjoys cooking. She's a wonderful cook, has access to air conditioning while she's in the kitchen and she's not slaving away far away from us. So that I completely agree with you. I think, you know, this is funny you mentioned, what do you get in the US which you don't get in India? I was recently having this conversation in Bangalore with a few of our common friends, everything in the sense that I get better banana chips in the US than I get in Delhi. Better banana chips? Yeah. And this is a major problem. I love bananas. I love banana chips. You can't get a decent banana chip in Delhi. And the reason is India has not become one single market yet."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:18:29.480",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:30.480",
+        "message": "I find it hard to believe that Delhi people have such a terrible taste palette or we can't find some people with a good enough taste palette out of the 18 million in the greater NCR region that they would actually like banana chips."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:40.720",
+        "message": "Given all the pollution, can your tongues taste anything yet?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:43.200",
+        "message": "Yes, actually they can. I will attest to it. I was there last week. So, but the problem is that it is so costly to ship banana chips from Kerala or Tamil Nadu to Delhi that at that price point, there is very little demand, right? We haven't become one market. It's baffling to me. I get Bhakarwadi in New York. In fact, you know, not in Delhi."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:05.820",
+        "message": "In Meehir Sharma's book Restart, I think he has an anecdote. I forget the two cities involved. I think it's Bangalore and Chennai, but two cities like that in neighboring states. And to send goods from one city to the other, it's cheaper to do it via France than directly. But that was part of the friction GST was supposed to solve."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:21.760",
+        "message": "Yeah. And I think it solved a little bit of it, but not exactly. One, because, you know, some of the checkpoints have opened up, but all of them haven't opened up. And the second, you know, I mean, you've had some wonderful GST episodes with Didi, with Vivek, Kaul and even me, but we've all touched on the same thing, right? I'm so sorry. Don't keep bringing it up now, now for the next five years, you're going to keep saying"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:44.640",
+        "message": "even."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:19:45.640",
+        "message": "Are you sure you want me on your show? Even me? Are we in business for the next five years?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:48.640",
+        "message": "I don't know if I'm in business, but if I am, you're coming on my show. No, no, I'm going to come back for the 500th episode."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:53.840",
+        "message": "That's my hope. Oh my God, I have to live till then."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:57.440",
+        "message": "I think with your sugar-free diet, you might just make it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:00.920",
+        "message": "That's true. But you know, who knows what chocolate cravings can do in the middle of the night."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:05.200",
+        "message": "But going back to the episodes that you did on GST, I think we all talked about the same thing, which is the crazy number of classifications are adding a lot of friction, right? And on a daily basis, people are trying to figure out, you know, Vivek talked about his Kit Kat, a biscuit or a chocolate, right? I talked about a few other examples like that. So it's the same problem over and over again. And I don't think we've become a single market, far from it. I mean, if we were a single market, I should be able to get banana chips in Delhi, which I don't, right? And I can get the same banana chips in New York, because at that price point, there are enough New Yorkers or enough Indians in New York who are willing to pay for it, right? Same for the very typical chivda that you get in Pune or the bhakarwadi that you get. I can get all of this in New York."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:54.140",
+        "message": "It's not easy to get. In fact, one of the insights that came on this thread that we started on this group was that a lot of the stuff that you get in the US and not here is very specialized neat stuff. So if you're a DJ, there'll be a particular kind of console which you have to get there and you don't get here. But all the mainstream stuff which you get there, you get here also, except perhaps banana"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:11.560",
+        "message": "chips. No, what I mean is, it's not like you don't get banana chips in Delhi, it's that you don't get the same kind of banana chips that you get in Kerala, which I don't have a good reason. I mean, other than that, we are not one single market, or that the market has too many frictions, right? And I think that is another, I mean, since we're talking about 2018, I think that's a huge missed opportunity of 2018, which is GST made such a mess of things and didn't quite do what it was supposed to do, which was one country, one tax, one market, right? And it's still one country, thankfully, right? I don't think it's one tax or one market, right? It's about five different rates and lots of classifications and nowhere close to a single market. And to sort of, you know, unentangle a lot of other regulatory barriers to get closer to that. So I know that, you know, my banana chips is sort of a first world problem and, you"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:02.960",
+        "message": "know, to hell with me and my banana chips."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:04.960",
+        "message": "Check your banana chip privilege. But there are a lot of things like this. And I mean, think of it from the point of view of someone who's making banana chips in Calicut, he's denied access to my market. And I would have maybe bought a lot of banana chips, and maybe there are lots of people like me. But I've really denied him his prosperity, right? Because the size of the market, as Adam Smith said, determines the degree of specialization, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:31.360",
+        "message": "It's too bad we've already done the caricature for this episode. Otherwise we would have had a packet of banana chips, which anyway, moving on from banana chips, you know, at this point, since it's my hundredth episode, I should and thanks for thanking myself for reminding me that there are many people who work hard behind the scenes to make the scene in the unseen a success. So I'll quickly give a shout out to them before we continue, which is Amit Doshi of IVM first came to me and his creative director, Thomas also sat together with me and we worked pretty hard. And initially we did like five or six pilots, which was a disaster because we were not looking at it as a straight up interview show. It was like a produced thing where I'll talk about something and there'll be soundbites from various people. And I remember you also gave soundbites and it was a disaster. And then one day I decided to hell with it, I'm just going to sit and talk with someone and that's the episode we'll put that. And that kind of worked much better. I have had three producers in the time that I've been here, first day was Joshua Thomas, who's now moved on and is heading the Indian Express podcast team, wonderful guy, who's also played the guitar a couple of times where I've tried out these little spoken word things in the intros, extremely embarrassing now that I think about it. My next, my second producer was a gentleman named Abbas Momin, who's in the studio now, who at some point got bored and decided that I am not producing the show anymore. I would rather produce Cyrus Says. And he left me for Cyrus Says, at which point I'm funnier than Cyrus Says, if inadvertently, at which point my next producer was Swati Bakshi, who recently left to pursue further studies abroad and Abbas is now back reluctantly, though he tries to smile now and then. All the illustrations that you see are done by Aleka Gupta, very quiet, unassuming person who just, you know, I'll give illustration ideas and she'll pick one of the ideas and she'll execute and it doesn't even need to come back to me to see it because she does such such an amazing job. So I'm a big fan of that. Vijay Doifode has been my editor for all 100 episodes and he is just incredible. And now, of course, it's a straight up easy editing job. But at one point I would talk about dream sequences in my intros and there would be"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:24:47.440",
+        "message": "sound effects and all that and Vijay was... Which I believe Twitter sort of trolled you for and caused you to can it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:24:53.640",
+        "message": "Yeah, they, let us just say the listener feedback was not very good, but I heard it and every once in a while some random guy will pop up and say that, yeah, I really like those dream sequences, bring them back. And I am like that, you know, it's very difficult for me to get people to like what I do, you know. I'm not going to mess with that again. So those dream sequences and those spoken word poems with guitar in the background are all gone."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:18.960",
+        "message": "Our loss. Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:20.960",
+        "message": "And my various sound engineers like Tejesh Sringarpure, like my good friend Mayur here sitting here, who's given me much investment advice in the past, yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:30.720",
+        "message": "And Mayur also plays the guitar among other things. Mayur also plays the guitar?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:34.200",
+        "message": "You never told me that, bro. He's a full-time musician. He warned you not to tell me because I'll make you play. Yeah. Okay. I'm going to revive some spoken word plus guitar thing at some point in the future. Moving on. You should thank your guests. That's actually a given and yeah, obviously, I mean, this show is, I mean, you know, a lot of people honestly have been so generous with their time just to come and sit with me and talk to me, not just the stars like Harsha Bhogle, obviously, who are like, you know, at a different level and it's so sweet of them to come and talk, but absolutely everyone. Opportunity costs, like you say."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:10.440",
+        "message": "So I don't know what the hell to get out of it. One big thing you bring to the table other than your radio looks and, you know, I think, you know, really incredibly smart people and you have found a way to listen to them, right? So you have expertise in a whole bunch of areas more than most people do, but you've managed to find people who have very specific expertise and bring them on and actually help them showcase what it is that they do. I think that's quite cool."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:40.920",
+        "message": "That's a continuing effort and we'll keep trying in good faith to make it work. So if you don't like the odd episode, what to do, ask for a refund."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:53.760",
+        "message": "You know, for all our cribbing about the government, the refund might be like a government system in this case."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:58.920",
+        "message": "Yeah, I got to tell you, you know, so what happened is, as you know, I'm going to Hong Kong tonight. We're recording this on the 21st. I'm going to Hong Kong for a week tonight. And last Friday I suddenly realized that my passport had expired and I was like, oh shit, what do I do now?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:27:12.080",
+        "message": "How do I get it done?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:13.320",
+        "message": "Yeah. So now I did not know about this Satkal thing. The last this had happened to me, my father, who was then a working IAS officer in the late nineties, had used major government pull in the central government and I got it within a week. And I thought, damn it, I don't have that kind of pull anymore because the old man has retired. So what's going to happen to me? So I went online, I did an application. I got an appointment the next morning. I went the next morning, gave the application. Within 23 hours, the passport was in my hand and I was like, goodbye libertarian days. Government works. Yeah. This is the future. Of course, you're outsourced to TCS and all that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:48.160",
+        "message": "But no, but even before they had, I've got a Satkal passport and you know, there are"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:52.440",
+        "message": "some areas in which credit must be given when it's due. Credit must be given. And it's kind of sad that we should feel so happy and ecstatic and overjoyed at the government"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:28:01.600",
+        "message": "doing something that, hey, it's supposed to do. When anyone does something that they're supposed to do, I feel quite happy. Yeah. Right. No, I mean, my Ola cab didn't show up on time today. It took a really long time because Chembur is a bit complicated and he apparently got lost and so on and so forth. So when anyone does anything, you know, without creating uncertainty or confusion, it's pretty"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:21.600",
+        "message": "nice. Which is actually great because I think too many of us feel too entitled. And this has happened to me also that I feel entitled to efficiency, that somewhere I am getting bad service and I will think that, damn it, I work so hard, I'm so efficient, which is not true, but whatever. I work so hard. I'm so efficient. Why can't I expect the same back when I'm paying for it? But I think we should all be a little less entitled and we'll be happier."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:28:46.480",
+        "message": "I've learned gratitude living in America, to be very honest, which is also something we've spoken about in the past. Which is in fact a point that Kumar brought up. I mean, I guess because I don't know exactly where the roots of this come from. I haven't thought about it deeply enough, but I feel like when you grow up in a particular, you know, economic and social strata in India, you're sort of born with everything and you're very privileged. And like you said, you know, your parents used to get you into the right school or to get you a passport when the facility wasn't there and so on. And because things have been handed to you, you tend to feel like, oh, this should have"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:23.520",
+        "message": "happened. And I'll share it with my listeners. And I wonder what people think about that, you know, leave Twitter comments if you have any insights into this. But so my friend Kumar Anand had sort of shared this insight with me that one of his friends who was visiting from the US, Andrew Humphries, in fact, whom you know, yeah, so I think Andrew made the point to him that, you know, that Indians don't seem to feel much gratitude. Like whenever Andrew would be served at a restaurant or, you know, an auto driver would take him somewhere and he'd be like, thank you, and he'd mean it. But Indians, if they say thank you at all, say it in a very pro forma way. And I don't know if this is a Protestant value or a Judeo Christian value or whatever it is, but people in the West just seem to say thank you and mean thank you, feel the gratitude more than people here do. And we were trying to figure out why could that be? I mean, is it is it a cultural thing? Is it because Indians have, you know, grown up in this zero sum environment where everyone is just going grab what you can, or?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:19.480",
+        "message": "I think that's part of it. I think a very large part of it is the caste system. You know, we're all, I mean, if you go by the rules of the caste system, we're born"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:30:29.780",
+        "message": "into the jobs we're supposed to be doing. And it is our dharma to do it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:34.480",
+        "message": "So why should you be thanked for it? Right? So if the sweeper is sweeping well, that's what he was supposed to do."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:30:39.440",
+        "message": "Why was he born a sweeper?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:41.020",
+        "message": "Because he must have done something bad in his past life. So he was born in the low caste as a sweeper. And we have this whole mythology built around why every person has their place in society and they're doing what they're supposed to do. And if they are not doing what they're supposed to do, they're not following their dharma. And you know, then God's wrath will be upon them and they will be born as a snail or something, you know, something terrible. So the idea that people genuinely are doing you something, which is, you know, they're being good to you, and you acknowledge that that is something wonderful, that was not something that they were supposed to do anyway. I think culturally is a little bit lacking in us."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:16.720",
+        "message": "In fact, if that's the case, and that tells us that there's something very toxic about our culture."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:31:21.160",
+        "message": "I think it's very toxic. You know, when I was talking about this just a couple of days ago, I can't remember with whom, with Pranay Kothasthani, another common friend and a wonderful guest on your show. I was in Bangalore with him, we were having breakfast at MTR, a meal I thoroughly enjoyed. We were talking about how there seems to be division of labor, right? Lots of people working at MTR, but the division of labor is not the market division of labor. Person who takes your order is different from the person who serves you, and is different from the person who cleans the table. And it's not because there is so much business that they need to divide. It's because the person who takes your order will not touch the dirty dishes. Wow. Right? There is a deep caste element to this, which is in front of us all the time, which we just don't notice because we're so accustomed to it, right? And because we're fortunate enough to be on the right side of that divide, so we can ignore that and pretend it doesn't exist. There's a lovely Akhil Katyal poem on that, actually, which I can't remember the exact verse, but it talks about how a young person doesn't know his caste and he's 12 years old,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:31.120",
+        "message": "and someone says to him, then you must be upper caste, if you don't know your caste by the time you're 12. That's a beautiful poem. I had retweeted that. I'm giving a kudos to the Times of India for running his poems every Sunday on the Sunday Times of India, which is so fashionable to shit on the Times of India, but they do good"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:46.240",
+        "message": "things. No, they do some."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:48.240",
+        "message": "I mean, you have a column in there. I have a column in there. All my anti-Modi columns have come in the Times of India and yet those guys are, you know, harangued for being whatever. I think times really subsist in different silos and the silos act independently and they do their own thing. And the Sunday Times of India is an awesome silo."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:04.400",
+        "message": "Yeah, it really is. I mean, I have read the Times of India most of my life in India because of the RK Lakshman"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:10.120",
+        "message": "cartoon. Yeah. Right. Shout out to my editor Neelam. And moving on to happier things as it's getting time to wind up and we're running out of studio time. What books have you read this year, which you really enjoyed?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:22.400",
+        "message": "I've read a bunch of books. I don't think I read as much as you. The last book I read, which was really fantastic was, it just came out, I think early December it was released. It's called Order Without Design. It's by Alain Bertot. I'm not sure if I'm saying his name right. He's at the Marion Institute at NYU. And he has a lot of experience in urban planning and policymaking. And he's basically talked about how cities are emergent orders and how we think we can design cities top down, but it never works and usually has terrible consequences. I am really trimming the inside of his book into a couple of sentences. His book has great stories. It talks about the mill land, which was locked away, you know, because of industrial use and, you know, prime Mumbai sort of real estate. He talks about Beijing. He talks about cities in Indonesia. He talks about New York. He talks about a lot of cities. He has such fantastic insight. And I had the opportunity of interacting with him a couple of times. And his basic idea is that we need urban planning to sort of delineate what is a public space and what is a private space. And that's where the job of the planner ends, in a sense. They shouldn't dictate what one must do with a private space, right? This can only be a restaurant. This can only be an art studio. This can only be a residence. That is a really bad idea. And it also hampers cities from functioning the way they should function, which is as in, you know, enormous labor markets and innovation markets. So that book is really lovely. It provides a lot of context, very insightful. Another book, though it came out last year, but I must mention that I've had a new appreciation for it this year with all the elections, is Milan Vaishnav's When Crime Pays. I think it's an extraordinary book. It basically talks about the nexus between criminality and politics, how Indians manage to elect criminals and not criminals, you know, who are criminals like Gandhi and Nehru were for protests or civil disobedience because of criminals. They have kidnapping, you know, extortion, murder cases against them. And his idea is that, you know, it's more beneficial because of the way campaign finance is set up for political parties to have criminals because criminals come with their own funding and elections are an incredibly costly business. And the second part of it is individual citizens vote for criminals because they can get things done because of state capacity being so low. You actually want to vote for the local dada or the local goon because they will be able to get you your Tadkal passport or, you know, get something fixed or get you your ration card and so on and so forth. Right. They are the problem solvers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:13.000",
+        "message": "Absolutely."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:36:14.000",
+        "message": "So that book, exactly that book, I think, though it came out last year, I mean, it's going to have relevance for a long time, but I think it was really this year's set of elections really highlighted that book again. What about you?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:29.040",
+        "message": "What are the books that you read? Well, when you were speaking about, you know, Order Without Design, that kind of reminded me of a very old book, which I read this year, The Power Broker by Robert Caro."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:36:37.320",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:38.320",
+        "message": "Now, The Power Broker is a biography of a man called Robert Moses, who in a sense built modern New York over a period of 30 or 40 years, starting from the late 1920s. And Caro's book was commissioned, if I remember correctly, in around 64, he was supposed to write it in a year. Instead, he took 12 years to write it. And it was more than a million words. They eventually had to cut it down to 750,000 or something, which included an entire book"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:05.880",
+        "message": "length section on the great Jane Jacobs. Oh, wow. She's fantastic."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:09.680",
+        "message": "She wrote that all time classic, The Death and Life of Great American Cities. And in the process of writing that book and doing all the things that she did, ran up against Robert Moses. Yes. And I found The Power Broker an absolutely mind blowing book because it wasn't just a biography of this one man. It was also a biography of a city of New York City. It was a chronicle of a philosophy in top down design, which is that kind of high modernist planning where you plan everything and there is a restaurant and there is this and we need bridges and demolish all these neighborhoods because we need to do this there and so on and so forth. With Jane Jacobs fought against arguing for the organic growth of cities. And it's also a fascinating character study of how power corrupts, of how someone who starts out as an idealistic young man wanting to make a difference can become this absolute immoral monster by the end of it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:07.520",
+        "message": "And Robert Moses is alive and well in New York City in the sense that it is being regulated more and more heavily in terms of land use with each passing year. I live in not just a landmarked building, but a landmarked neighborhood. So the door of my building is about a hundred pounds. I had shoulder surgery last year and I asked them, I said, why is this door like this? A lot of like elderly people in the building, why can't we just change it or fix it? And they said, we can't touch it. It's landmarked. So, you know, the show, The Marvelous Mrs. Maisel, one of the outdoor shots is of my building. Right. And my building is in no way exceptional. It's quite ordinary. It's from a particular time, the early 1900s. And there are plenty of those buildings, all of the neighborhood, and they are all landmarked, which basically means that you can't change anything. It's a privilege of the elite to enjoy historical landmarks. These are not even that great. And it prevents incumbents and future innovators from building new and better buildings. And this is a sort of like Moses thinking versus like Jacob's or Hayekian thinking. And you're absolutely right. So yeah, I mean, Order Without Design also has a lot of Jacob's insights."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:20.800",
+        "message": "I'm looking forward to reading that book and I have some really great guests lined up. I don't want to jinx it by naming them, but people I'm very excited about. So if those work out, we shall see. And of course, you shall always be a recurring presence on my show, I hope."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:38.680",
+        "message": "Yes, I would love to. And here's to many more hundreds of episodes in the future. And congratulations to you and the whole IVM team."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:47.720",
+        "message": "Thank you. And I don't know when you say many more hundreds of shows, I'm thinking is that a blessing or a curse?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:53.160",
+        "message": "What are you doing? Shut up. And to all the listeners, you can continue your labor of love."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:59.280",
+        "message": "All right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:00.280",
+        "message": "If that's where you put it, thank you so much. Thank you for having me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:40:04.840",
+        "message": "If you enjoyed listening to this episode, do head on over to Twitter where you can follow and troll Shruti at S Rajagopalan, S Rajagopalan, I hope you can spell that. And you can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse all 100 episodes of The Scene in the Unseen at sceneunseen.in and thinkpragati.com. Thank you for listening and hope you keep listening for a hundred more."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:40:31.280",
+        "message": "Well, thank you for listening. Family businesses get a bad rap. At one time they were looked down on for getting rich, for being too ambitious. Today they're still looked down on, but for not being ambitious enough, not agile enough, not modern enough, too traditional in their mindset. The biggest brands and business houses in the country started out as humble family businesses. It's the way India has done business. Join Sonu Basin in conversation with stalwarts of Indian family businesses on the Inheritance Podcast series by Bloomberg Quint. Discuss the highs and lows, the needs and pressure points of building a business legacy that spans generations. Hello, everybody. We have a brand new daily podcast we're working on with Bloomberg Quint. All you need to know provides the top news on business, markets, and the economy so that you can stay ahead of the curve. Tune in every morning on BloombergQuint.com, the IBM podcast app, or wherever you get your podcasts from."
+    }
+]

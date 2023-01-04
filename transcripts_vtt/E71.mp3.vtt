@@ -1,0 +1,1196 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+[Unknown]: IVM
+
+00:00:04.560 --> 00:00:05.900
+[Amit Varma]: Did you know that
+
+00:00:05.900 --> 00:00:12.800
+[Amit Varma]: Parsis in Mumbai instead of being left at the Tower of Silence after they die are now cremated and why because a cow fell sick
+
+00:00:12.800 --> 00:00:14.240
+[Amit Varma]: in the early 1990s
+
+00:00:14.240 --> 00:00:20.640
+[Amit Varma]: Did you know that the smog in Delhi is caused by something that farmers in Punjab do and that there's no way to stop them?
+
+00:00:20.680 --> 00:00:24.960
+[Amit Varma]: Did you know that there wasn't one gas tragedy in Bhopal but three?
+
+00:00:24.960 --> 00:00:32.300
+[Amit Varma]: One of them was seen but two were unseen. Did you know that many well-intentioned government policies hurt the people?
+
+00:00:32.300 --> 00:00:33.840
+[Amit Varma]: They're supposed to help
+
+00:00:33.840 --> 00:00:38.400
+[Amit Varma]: Why was demonetization a bad idea? How should GST have been implemented?
+
+00:00:38.440 --> 00:00:43.280
+[Amit Varma]: Why are all our politicians so corrupt when not all of them are bad people?
+
+00:00:43.280 --> 00:00:47.840
+[Amit Varma]: I'm Amit Verma and in my weekly podcast the seen and the unseen
+
+00:00:47.840 --> 00:00:51.480
+[Amit Varma]: I take a shot at answering all these questions and many more
+
+00:00:51.480 --> 00:00:57.760
+[Amit Varma]: I aim to go beyond the scene and show you the unseen effects of public policy and private action
+
+00:00:57.760 --> 00:01:03.000
+[Amit Varma]: I speak to experts on economics political philosophy cognitive neuroscience and constitutional law
+
+00:01:03.080 --> 00:01:10.400
+[Amit Varma]: So that the insights can blow not only my mind, but also yours the seen and the unseen releases every Monday
+
+00:01:10.400 --> 00:01:14.120
+[Amit Varma]: So do check out the archives and follow the show at seen unseen.in
+
+00:01:14.120 --> 00:01:21.920
+[Amit Varma]: You can also subscribe to the seen and the unseen on whatever podcast app you happen to prefer
+
+00:01:22.440 --> 00:01:28.400
+[Amit Varma]: Most of us are very impressed by numbers show me a chart and I'll think hey that looks authoritative
+
+00:01:28.400 --> 00:01:31.840
+[Amit Varma]: This person knows what she is talking about in most cases
+
+00:01:31.840 --> 00:01:36.960
+[Amit Varma]: You can say any nonsense you want and put some numbers besides it and boom the common person
+
+00:01:36.960 --> 00:01:42.720
+[Amit Varma]: someone like me who doesn't have a degree in statistics all the time to do his own research will swallow whatever you're saying and
+
+00:01:42.720 --> 00:01:46.000
+[Amit Varma]: Sometimes it seems that you can actually prove anything with numbers
+
+00:01:46.000 --> 00:01:51.440
+[Amit Varma]: That's where the old saying comes from if you torture the data hard enough it will confess to anything
+
+00:01:52.280 --> 00:01:57.360
+[Amit Varma]: But numbers do matter it is true that lies can be cloaked in fancy figures
+
+00:01:57.400 --> 00:02:02.520
+[Amit Varma]: But they can also be unmasked using numbers correctly and in a democracy
+
+00:02:02.520 --> 00:02:08.200
+[Amit Varma]: It's a vital task of the citizen to question all the data that a government presents
+
+00:02:08.200 --> 00:02:12.200
+[Amit Varma]: question everything
+
+00:02:13.200 --> 00:02:19.200
+[Unknown]: Welcome to the seen and the unseen our weekly podcast on economics politics and behavioral science
+
+00:02:19.200 --> 00:02:23.200
+[Unknown]: Please welcome your host Amit Badma
+
+00:02:23.200 --> 00:02:25.200
+[Amit Varma]: Welcome to the seen and the unseen
+
+00:02:25.200 --> 00:02:34.200
+[Amit Varma]: Today's episode deals with how the government uses and misuses data to do what my good friend Vivek calls optics management
+
+00:02:34.200 --> 00:02:40.200
+[Amit Varma]: Vivek is my guest on the show today. But before I ask him to elaborate on this a quick commercial break
+
+00:02:41.200 --> 00:02:47.200
+[Amit Varma]: If this happens to be the only podcast you listen to well, you need to listen to some more check out the ones from
+
+00:02:47.200 --> 00:02:55.200
+[Amit Varma]: IVM podcast who co-produced the show with me go to IVM podcast.com or download the IVM app and you'll find a host of
+
+00:02:55.200 --> 00:02:59.200
+[Amit Varma]: Great Indian podcasts that cover every subject you could think of from the magazine
+
+00:02:59.200 --> 00:03:05.200
+[Amit Varma]: I edit Pragati at ThinkPragati.com. There is the Pragati podcast hosted by Hamsini Hariharan and Pawan Srinath
+
+00:03:05.200 --> 00:03:12.200
+[Amit Varma]: There is a brilliant Hindi podcast Hulia Bazi hosted by Pranay Koteswamy and Saurabh Chandra and apart from these policy podcasts
+
+00:03:12.200 --> 00:03:17.200
+[Amit Varma]: IVM has shows that cover music films finance sports
+
+00:03:17.200 --> 00:03:24.200
+[Amit Varma]: Sci-fi tech and the LGBT community all under one roof or rather all in one app
+
+00:03:24.200 --> 00:03:29.200
+[Amit Varma]: So download the IVM podcast app today.
+
+00:03:29.200 --> 00:03:33.200
+[Amit Varma]: Vivek Kaul, welcome to the scene in the unseen. Thanks Samit for having me over.
+
+00:03:33.200 --> 00:03:39.200
+[Amit Varma]: Vivek, you said you wanted to start by reading out a quote and you wanted me to guess who it was from. Go right ahead.
+
+00:03:39.200 --> 00:03:45.200
+[Guest]: This is basically, you know, Greek philosopher called Plato from his book called The Republic
+
+00:03:45.200 --> 00:03:55.200
+[Guest]: In which he says, our first business is to supervise the production of stories and choose only those we think suitable and reject the rest
+
+00:03:55.200 --> 00:04:04.200
+[Guest]: We shall persuade mothers and nurses to tell our chosen stories to their children and by means of them to mould their minds and characters rather than their bodies
+
+00:04:04.200 --> 00:04:11.200
+[Guest]: The greater part of the stories current today we shall have to reject. Are you sure this is Plato and not someone in India today?
+
+00:04:11.200 --> 00:04:19.200
+[Guest]: Yes. So basically, you know, all the good things have already been written. I mean, it's just that we tend to realize them over and over again
+
+00:04:19.200 --> 00:04:29.200
+[Guest]: And this is exactly how, you know, governments tend to cherry pick data in order to project a story that they want to project
+
+00:04:29.200 --> 00:04:33.200
+[Guest]: Which, you know, the short phrase for it is optics management.
+
+00:04:33.200 --> 00:04:42.200
+[Amit Varma]: And, you know, there's a lot happening in the country and if the government, for example, Prime Minister Modi came to power in 2014 with a lot of promises
+
+00:04:42.200 --> 00:04:47.200
+[Amit Varma]: We'll do this. We'll do that. But ultimately the story of what's happening with the economy is a very complex one.
+
+00:04:47.200 --> 00:04:52.200
+[Amit Varma]: There are many parts to the economy. There are many kinds of numbers and a lot of it does come down to presentation.
+
+00:04:52.200 --> 00:04:59.200
+[Amit Varma]: But where is the truth? Is the truth possible? And what can we learn from the sort of data at the government presence?
+
+00:04:59.200 --> 00:05:04.200
+[Guest]: Right. So, I mean, this question deserves a book.
+
+00:05:04.200 --> 00:05:06.200
+[Amit Varma]: Are you writing a book on this?
+
+00:05:06.200 --> 00:05:17.200
+[Guest]: No, not really. I mean, but, you know, the short answer is to sort of look for as much data as possible and then try forming an opinion.
+
+00:05:17.200 --> 00:05:25.200
+[Guest]: And by data, I mean not just government data, but there is a lot of other real-time economic indicators
+
+00:05:25.200 --> 00:05:31.200
+[Guest]: which sort of come out right from two-wheeler sales to cement sales and so on and so forth,
+
+00:05:31.200 --> 00:05:40.200
+[Guest]: which tell you, which give you a broad direction of which rather a broad idea of which direction the economy is headed in.
+
+00:05:40.200 --> 00:05:45.200
+[Guest]: Also, I don't think it's fair to sort of analyze the economy on one parameter.
+
+00:05:45.200 --> 00:05:53.200
+[Guest]: I mean, you obviously have to look at different things and how the economy is doing on those different things.
+
+00:05:53.200 --> 00:05:59.200
+[Guest]: But as you rightly said, it's like, you know, one of my editors used to say, you think of the headline first.
+
+00:05:59.200 --> 00:06:10.200
+[Guest]: So, before you sort of write a piece in journalism, this is standard operating procedure because, you know, you have 600, 700 words to express yourself.
+
+00:06:10.200 --> 00:06:14.200
+[Guest]: So, before you write, you have to think of the headline first.
+
+00:06:14.200 --> 00:06:19.200
+[Guest]: So, when you're thinking of the headline first, you're already deciding on the slant that you want to take.
+
+00:06:19.200 --> 00:06:26.200
+[Guest]: And when you've already decided on the slant that you want to take, you go looking for data that justifies that slant.
+
+00:06:26.200 --> 00:06:31.200
+[Amit Varma]: That's very insightful because what it sort of indicates is that then your journalism becomes market-driven.
+
+00:06:31.200 --> 00:06:34.200
+[Unknown]: If you think of the headline first, you're thinking of the market first.
+
+00:06:34.200 --> 00:06:37.200
+[Amit Varma]: So, you're not really chasing the truth per se.
+
+00:06:37.200 --> 00:06:42.200
+[Amit Varma]: You're chasing the story that you think will get traction from the audience.
+
+00:06:42.200 --> 00:06:46.200
+[Guest]: Not really, no. That would be like, I mean, that is also true, not always.
+
+00:06:46.200 --> 00:06:54.200
+[Guest]: So, what I'm basically trying to say is that, you know, everything cannot be expressed in 400, 500, 600 words and not by everyone.
+
+00:06:54.200 --> 00:06:58.200
+[Guest]: I mean, there are people who can do that, but everybody can't.
+
+00:06:58.200 --> 00:07:10.200
+[Guest]: The second thing, the problem is that, you know, every piece that is published and irrespective of whether it's published in a magazine or on a digital media or in a newspaper needs a headline.
+
+00:07:10.200 --> 00:07:14.200
+[Guest]: Now, the moment you need a headline, you have to take a slant.
+
+00:07:14.200 --> 00:07:18.200
+[Guest]: You cannot be like, the economy is doing well, but it is also not doing well.
+
+00:07:18.200 --> 00:07:20.200
+[Guest]: That doesn't work, right?
+
+00:07:20.200 --> 00:07:26.200
+[Guest]: So, it's a sort of a problem with the way the media is structured.
+
+00:07:26.200 --> 00:07:32.200
+[Amit Varma]: That reminds me of what Harry Truman once said that, give me a one-handed economist because all his economists would say on the one hand this, on the other hand this.
+
+00:07:32.200 --> 00:07:36.200
+[Guest]: I mean, that is also true, but that's more at a macro level.
+
+00:07:36.200 --> 00:07:40.200
+[Guest]: I'm talking about at a micro level as to what happens.
+
+00:07:40.200 --> 00:07:50.200
+[Guest]: Because these days, you know, whenever I try to be objective, what happens is, you know, the length of the piece goes from 600 to 1200 words and it is very difficult to give a headline.
+
+00:07:50.200 --> 00:08:02.200
+[Guest]: And when you can't give a headline, I mean, when you give a sort of a, you know, non-descript balanced sort of headline in the, you know, day and age of clickbait journalism, it just doesn't work.
+
+00:08:02.200 --> 00:08:04.200
+[Amit Varma]: Because people want simple stories.
+
+00:08:04.200 --> 00:08:10.200
+[Guest]: Everybody wants stories. Nobody likes the idea of, but you know, as you said, on the other hand.
+
+00:08:10.200 --> 00:08:12.200
+[Amit Varma]: Yeah, exactly.
+
+00:08:12.200 --> 00:08:22.200
+[Guest]: So, there is a, I mean, it's, I mean, there is a truth out there, but it is a lot more nuanced than, you know, most people think it is.
+
+00:08:22.200 --> 00:08:32.200
+[Amit Varma]: Right. And nobody really wants to read a headline which says something like, Modi's time as prime minister has been both positive and negative.
+
+00:08:32.200 --> 00:08:42.200
+[Guest]: Which is, you know, which is actually where it is in the sense that, I mean, like, I mean, I was writing a piece yesterday on, I mean, just on the economic side of his performance.
+
+00:08:42.200 --> 00:08:52.200
+[Guest]: And, I mean, given the fact that I criticize him a lot, but on the whole, he, you know, his performance on the economic front has been a little, you know, as a little better than average.
+
+00:08:52.200 --> 00:09:04.200
+[Guest]: But then if you look at how governments in the past have done, that is typically how most Indian governments are, because most Indian governments are not really bothered about the economy in the way that they should be.
+
+00:09:04.200 --> 00:09:14.200
+[Amit Varma]: I'd say that it's his performance has been pretty much par for the course and what you would expect from any government of any party, except for the two big bang disasters of demonetization and the GST implementation.
+
+00:09:14.200 --> 00:09:24.200
+[Guest]: Right, right. Which is very, which is what, you know, I also mean, most of, you know, what I wrote was what you say now. So, but then, I mean, if you say that, it doesn't work.
+
+00:09:24.200 --> 00:09:32.200
+[Guest]: I mean, in order to make it work, you'd have to say, Modi has failed, or you'll have to say something like, oh, he's been, you know, God's gift to mankind.
+
+00:09:32.200 --> 00:09:40.200
+[Guest]: Because what has also happened is, you know, because of the social media and the way it is, the thinking now has become very binary.
+
+00:09:40.200 --> 00:09:48.200
+[Guest]: I mean, this is something I guess, you know, people keep discussing on your show. So, you're either with us, or you're against us. So, it's very difficult to...
+
+00:09:48.200 --> 00:09:56.200
+[Amit Varma]: No, in fact, whenever I'm discussing politics with someone, one question I ask, like, if he's against Modi, one question I'll ask is, can you name a few good things he's done or something good about him?
+
+00:09:56.200 --> 00:10:06.200
+[Amit Varma]: And equally, if they are for, say, Kejriwal, I'll ask him that, can you name a few bad things that he's done or that you're against? And typically, you find that no, it's all black, and it's all white, and it's tribal.
+
+00:10:06.200 --> 00:10:20.200
+[Guest]: You know, what happens is, and I mean, I briefly went through that phase. It's one is, it's easy to sort of write, talk about stuff, after you've already, you know, thought of the headline first.
+
+00:10:20.200 --> 00:10:32.200
+[Guest]: And over a period of time, you just get caught on to it in such a way that it becomes difficult to get out of it. I mean, it's like, I mean, you start believing in the whole thing.
+
+00:10:32.200 --> 00:10:42.200
+[Amit Varma]: So we're not really discussing journalism in this episode. But what you said is fairly interesting. And we're both journalists. So I'll explore this a bit further till we get back to the subject of the episode.
+
+00:10:42.200 --> 00:10:49.200
+[Amit Varma]: When you write a story, typically, when you pick up a story, do you already have in your mind broadly what the thrust or the headline is?
+
+00:10:49.200 --> 00:11:17.200
+[Guest]: Not always, not always. In fact, what I do these days is I have a working headline, which is very like I was to give you a very simple example. Today, I wrote something on basically what has happened is that the cabinet has passed an ordinance, which essentially will categorize homebuyers as financial creditors in case of, you know, real estate companies who have defaulted on their loans.
+
+00:11:17.200 --> 00:11:34.200
+[Guest]: Okay. So basically, long story short, I just had a working headline. And then as I wrote, you know, a headline evolved. And then I gave that headline. But that always, I mean, it doesn't always happen like that.
+
+00:11:34.200 --> 00:11:51.200
+[Guest]: I mean, sometimes you are already sure as to what you want, like, I mean, I was writing a piece on Punjab National Bank yesterday, or the day before yesterday. And I was already sure that, you know, this is a bank, which really should not be in the business of banking.
+
+00:11:51.200 --> 00:11:59.200
+[Amit Varma]: Because you've written about it enough. And you know, all of that. Anyway, I should tell listeners that we are recording this on the 24th of May. So it's going to be released a little bit later.
+
+00:11:59.200 --> 00:12:07.200
+[Guest]: So don't get surprised as to why are we talking about archaic stuff, you know? Well, I mean, it'll be 10 days old by the time. 10 days is a long time these days, Amit.
+
+00:12:07.200 --> 00:12:19.200
+[Amit Varma]: Yeah, that's, that's true. And I guess it's okay for an opinion writer who's writing an opinion piece to already have a headline in his head, because he knows the slant. But if you're a reporter, or if you're writing features, then perhaps it's not always such a good thing.
+
+00:12:19.200 --> 00:12:38.200
+[Guest]: As you know, one of my ex bosses used to say is, if you're writing a feature story, two is a trend. And then you get two people to say what you want them to say. And then, you know, just to sort of balance it out, you get a third guy to say something, which the first two guys haven't said. So I mean, so it's like having said that.
+
+00:12:38.200 --> 00:13:03.200
+[Guest]: It's the structure, I mean, I guess. And you know, the good part is that as journalism moves from paper to the digital media, people who want to sort of get rid of these structural inefficiencies, they can do that. It's just that the audience also needs to evolve.
+
+00:13:03.200 --> 00:13:10.200
+[Guest]: And the audience will evolve if enough people sort of are doing that. I mean, they're not thinking of the headline first.
+
+00:13:10.200 --> 00:13:24.200
+[Amit Varma]: Right. So head on over to Pragati at ThinkPragati.com. There, that advertisement out of the way. Let's sort of move back to the subject for today. When it comes to economic journalism, you've been writing the most insightful pieces that I've read in the last few years.
+
+00:13:24.200 --> 00:13:43.200
+[Amit Varma]: And a lot of your recent ones have examined the government's claims, where the government has claimed XYZ using a certain amount of data. And you've shown why that is cherry picking of data, or in some cases, it's the wrong data entirely. And you sort of, you know, deconstructed that.
+
+00:13:43.200 --> 00:13:58.200
+[Amit Varma]: Let's start by talking about what I would, you know, both of us did an episode on and we agree is the most burning issue of our times, which is a jobs crisis. The government has recently on multiple occasions, in fact, recently come out and said that, hey, jobs numbers are good.
+
+00:13:58.200 --> 00:14:18.200
+[Amit Varma]: People say that there are, you know, India's producing 12 million jobs a year. And where are the new jobs being like 12 million people are coming into the workforce every year, where are the new jobs and blah, blah, blah. And the government is handled that by on the one hand, Arvind Panagaria, ex head of Niti Aayog saying that that number is false is seven and a half million.
+
+00:14:18.200 --> 00:14:31.200
+[Amit Varma]: And on the other hand, Rajiv Kumar saying that, who's in a current head of the Niti Aayog saying that, hey, we are producing all these jobs. And you've done two separate stories rebutting these two gentlemen. So give us some details.
+
+00:14:31.200 --> 00:14:50.200
+[Guest]: So basically, you know, let's start with the Arvind Panagaria thing, because that's a little more blatant. So Mr. Panagaria, as you said, was the vice chairman of the Niti Aayog till he sort of decided to cut his losses and go back to Columbia. And by the way, he's blocked me on Twitter.
+
+00:14:50.200 --> 00:14:51.200
+[Amit Varma]: He's blocked me on Twitter as well.
+
+00:14:51.200 --> 00:15:16.200
+[Guest]: Which is a badge of honor we should wear with pride. Actually, you know, you have all these people say, saying on Twitter followed by the Prime Minister. We should say blocked by Arvind Panagaria. So anyway, so he had this piece in the Times of India on the edit page of Times of India, where he challenged this data point of 1 million Indians entering the workforce every year.
+
+00:15:16.200 --> 00:15:43.200
+[Guest]: Now, first, it is important every month, okay, not every year, so which means 12 million a year. So first, it is important to understand where this data has come from. So this data is largely, you know, it was there in the 12th five-year plan. For one, there are other researchers who have come up with similar data. It was also a part of this document called some inputs into the draft educational policy or something like that.
+
+00:15:43.200 --> 00:16:05.200
+[Guest]: So there are multiple occasions on which various government documents at various points of time, you know, have said that around a million Indians are entering the workforce every year, every month, sorry. So Mr. Panagaria essentially challenged it by using projections from a report published by the National Population Commission.
+
+00:16:05.200 --> 00:16:28.200
+[Guest]: Now, as per this report, in 2016, the number of Indians over the age of 15 or more was essentially equal to 929 million. In 2021, the estimate suggests the number of Indians of 15 years or more would be 1003 million.
+
+00:16:28.200 --> 00:16:45.200
+[Guest]: So which essentially means that between the period 2026 and 2021, around 74 million people have crossed the age of 15. So the moment you cross the age of 15, you become a part of, you can become a part of the workforce.
+
+00:16:45.200 --> 00:17:06.200
+[Guest]: So if five or a period of five years, 74 million people have been added, one year average would be 15 million, right? Now, not all of these 15 million are looking for a job, because some of them sort of continue to study. In case of women, many of them are married off and, you know, are not allowed to work.
+
+00:17:06.200 --> 00:17:25.200
+[Guest]: So, if you adjust for that, I mean, you adjust for that using something known as the labor force participation rate. And there are two methods to calculate that. And so the labor force participation rate is around, you know, as per one method, it's 50%, as per another method, it's 52.4%.
+
+00:17:25.200 --> 00:17:42.200
+[Guest]: So if you use these two data points, you essentially come to the conclusion that around anywhere between 7.5 to 7.8 million Indians enter the workforce every year. And this is much lower than the 12 million number, which has been bandied around for a long time.
+
+00:17:42.200 --> 00:18:04.200
+[Guest]: Now, the problem was, I mean, it sounds very, you know, logical. The problem was that Mr. Panagariya was using a projection, which was made in 2006. Oops. So, in 2018. Now, that would have been okay, if between 2006 and 2018, no other projections would have been made.
+
+00:18:04.200 --> 00:18:21.200
+[Guest]: But I sort of, you know, got curious, because it's a funny thing that I was in Noida that day. And it was late in the night. And I got very curious as to, you know, why would anyone in 2018, choose a data point from 2006.
+
+00:18:21.200 --> 00:18:36.200
+[Guest]: So I went looking and I found a more recent projection in a report called Youth in India, which was published in 2017 by the Central Statistics Office, which is as kosher as it can get.
+
+00:18:36.200 --> 00:18:54.200
+[Guest]: Right. And so they had basically, as per their projections, and I'm just reading that out. So in 2011, the number of Indians who were 15 years or more was 838 million. And by 2021, this was expected to go up to 1031 million.
+
+00:18:54.200 --> 00:19:14.200
+[Guest]: So the difference is 193 million. So over a period of 10 years, 193 million Indians will enter the workforce. So which if you sort of, now, as I said, not all of them. I mean, look forward, because some of them continue to study, some are married off.
+
+00:19:14.200 --> 00:19:32.200
+[Guest]: But you use the same formula for labor force. I use this exactly, you know, the numbers that Mr. Panagari had used 50% and 52.4%. Because these rates are from a report which was published in 2016. So it's like not something which was, you know, 15 years old.
+
+00:19:32.200 --> 00:19:55.200
+[Guest]: And it's fair enough to use the same methodology, but better data to show that the man is wrong. Right. So if you sort of do the math, so 193 million over a period of 10 years, works out to 19.3 million a year. And at 50%, it works out around 9.7 million. At 52.4%, it works out around 10.11 million. So roughly around 10 million.
+
+00:19:55.200 --> 00:20:19.200
+[Guest]: So 10 million, obviously, it's closer to 12 than to 7.5. But it's almost 33% more than 7.5 million. So the question again, you know, comes back to the fact that, you know, why would someone like Arvind Panagari, who was the former head of Neeti Aayog, use 2006 data and not 2017 data?
+
+00:20:19.200 --> 00:20:29.200
+[Amit Varma]: I mean, when you make such an obvious schoolboy error, you know, it's either incompetence or dishonesty. And one doesn't know. We shouldn't speculate. But there's no third explanation.
+
+00:20:29.200 --> 00:20:57.200
+[Guest]: And the other thing is, you know, I mean, I would have been fine if you would have used both the, that would also, because see, these are not, you know, nobody's like sitting there counting, you know, this year, so many Indians entered the workforce. I mean, it is an estimate at the end of the day and estimates will vary. So he could have easily sort of use that data and then use this data also to say that, however, you know, more recent, you know, projection seems to suggest this.
+
+00:20:57.200 --> 00:21:09.200
+[Guest]: But the problem there would have been, he wouldn't have had a headline. As we sort of talked about. So he was not chasing the truth. He was chasing a narrative, whatever data he could get in service of the narrative. Think of the headline first.
+
+00:21:09.200 --> 00:21:25.200
+[Amit Varma]: But, you know, I want to keep you on that piece that you wrote in Panagaria, because another very insightful point to me that you mentioned is that, of course, it's a great tragedy that so few of our women come into the workforce, but that changes. Tell us about the conditions under which that changes and whether it applies to India.
+
+00:21:25.200 --> 00:21:50.200
+[Guest]: Basically, so if you if you look at the labor force participation rate of women, as I said, there are two methods. So as per one method, it's 23.7 as per another method is 27.4, which basically means one in four women, you know, are a part of India's labor force. And this number is higher in rural India than in urban India, which is something that people really don't know. I mean, I find it very, I mean, I don't know.
+
+00:21:50.200 --> 00:21:55.200
+[Amit Varma]: Would you say there's a greater need for the woman to work in rural India?
+
+00:21:55.200 --> 00:22:08.200
+[Guest]: No, obviously, in rural India, you know, women are a very important part of farming. Right. So, but in urban India, I think, you know, the possible explanation for this is the moment, you know, the man in the family sort of makes a little more money. He doesn't want, you know, the woman to work.
+
+00:22:08.200 --> 00:22:36.200
+[Guest]: And all the data, as cliched as it may sound. And all the data from this, I assume, would relate to the formal sector, which is? No, I mean, this is as how it is. All right. Okay. Or I mean, it includes agriculture. Sure, sure. So, and the funny thing is, the labor force participation rate for women has been falling since NREGA was launched. And I mean, your economists really, you know, have not been able to come up with an explanation for this.
+
+00:22:36.200 --> 00:23:04.200
+[Guest]: I mean, whether it's a data error or having said that, if you look at the experience in, you know, countries like China and South Korea, which are very close to, you know, where India was in the 60s, and the 70s, and even in the 80s, I mean, China and India were more or less at a similar position. And so as more and more women got educated, the labor force participation rate for women really, you know, went up and it was, you know,
+
+00:23:04.200 --> 00:23:12.200
+[Amit Varma]: And you pointed out that it's inversely correlation to the fertility rate, as a fertility rate comes down, the labor force participation of women goes up.
+
+00:23:12.200 --> 00:23:30.200
+[Guest]: So it's so fertility rate comes down, when the mortality rate comes down, when you know, the number of children dying before the age of one comes down, and that comes down when women get educated, because they know how to read. And when you know how to read, you're in a better position to take care of your
+
+00:23:30.200 --> 00:23:36.200
+[Amit Varma]: And more prosperity and so on, because poorer people tend to have more kids. And that's just a fact everywhere.
+
+00:23:36.200 --> 00:23:59.200
+[Guest]: Right. So, so basically, so the experience from other countries seems to suggest that as women earn more, they enter the workforce, and the participation rate for women can be in the high 60%. I mean, so even if India reaches, let's say, you know, we are at 25%. Now, I mean, even if we sort of go to 35, 40%,
+
+00:23:59.200 --> 00:24:02.200
+[Guest]: you will have more women.
+
+00:24:02.200 --> 00:24:04.200
+[Amit Varma]: And that'll make a massive difference.
+
+00:24:04.200 --> 00:24:17.200
+[Guest]: I mean, it'll see. So the thing is, it will obviously, if all of them can find jobs, it will make a massive difference to the economy and to the general well being of the economy, but if they can't,
+
+00:24:17.200 --> 00:24:28.200
+[Amit Varma]: So that means the labor force participation numbers you mentioned earlier, which Mr. Panagari had assumed, and you took them 50 point something percent and 52 point something percent, they should go up over time.
+
+00:24:28.200 --> 00:24:40.200
+[Guest]: There is no reason because I mean, that is the global experience. It's just that in the last few years, after NREGA was launched, the rate seems to have come down. I mean, I really don't have an explanation for it.
+
+00:24:40.200 --> 00:24:48.200
+[Guest]: But if you look at the global trend, there is no real reason as to why these numbers should not go up.
+
+00:24:48.200 --> 00:25:01.200
+[Amit Varma]: Right, right. And these numbers growing up, of course, isn't going up is, of course, an awesome sign. Let's move on to the other side of the jobs crisis. Here we had Panagari saying that no, no, there isn't actually that much demand for jobs and that's been overstated.
+
+00:25:01.200 --> 00:25:13.200
+[Amit Varma]: And we just discussed how we cherry pick data to make that claim. The other side of it is Rajiv Kumar, who was his replacement at Niti Aayog, making a claim that actually we are producing a hell of a lot of jobs. Tell me a bit about that.
+
+00:25:13.200 --> 00:25:22.200
+[Guest]: So one of the good things that has happened is that the Employees Provident Fund organization is now going to regularly publish the addition to the number of EPF subscribers.
+
+00:25:22.200 --> 00:25:41.200
+[Guest]: And the first, you know, I mean, the data point was recently released. And as per that, between September 2017 and February 2018, a period of six months, 31.1 lakh subscribers were added to the Employees Provident Fund.
+
+00:25:41.200 --> 00:26:01.200
+[Guest]: Now, this data point was immediately used by Rajiv Kumar, who's the current vice chairman of the Niti Aayog. And he claimed on Twitter that on a pro rata basis, this implies the creation of 62.2 lakh jobs in 2017-18. Cassandra should please give up.
+
+00:26:01.200 --> 00:26:15.200
+[Guest]: So he basically, you know, we had data for a period of six months, September to February, he doubled it and, you know, he came up with, you know, double the number. Now, there is a basic problem with this, you know, with this argument.
+
+00:26:15.200 --> 00:26:33.200
+[Guest]: And the basic problem is that, you know, organizations are supposed to sort of become a part of the EPF when the number of employees reaches 20 or more. So the moment, you know, an organization joins, sort of, you know, becomes a part of the Employees Provident Fund.
+
+00:26:33.200 --> 00:26:47.200
+[Guest]: It is probably, it has had 19 employees till then, and then one more is getting added. So you have 20 employees and you become a part of the EPF. Now, that does not mean that 20 jobs are being created.
+
+00:26:47.200 --> 00:26:49.200
+[Amit Varma]: The data will reflect 20 new jobs.
+
+00:26:49.200 --> 00:27:08.200
+[Guest]: Which is so, there is no, I mean, this data does not adjust for this anomaly. And the funny thing is that Mr. Kumar said the same thing, you know, to the Financial Express, having tweeted what he had.
+
+00:27:08.200 --> 00:27:21.200
+[Guest]: Okay, so I'll just read out what he had told the Financial Express. One has to be careful in estimating addition to jobs. What happens is that companies start to contribute to the EPFO when their headcount increases from 19 to 20.
+
+00:27:21.200 --> 00:27:29.200
+[Guest]: So all 20 workers come into the EPF picture in one go, while it is not that all 20 were not there with jobs earlier.
+
+00:27:29.200 --> 00:27:40.200
+[Guest]: Okay, so the point is, you know, Mr. Kumar is contradicting himself. Obviously, you know, he said one thing on Twitter and he said entirely another thing on…
+
+00:27:40.200 --> 00:27:42.200
+[Amit Varma]: And my suspicion would be…
+
+00:27:42.200 --> 00:27:43.200
+[Amit Varma]: For the Financial Express.
+
+00:27:43.200 --> 00:27:50.200
+[Amit Varma]: And my suspicion would be, correct me if I am wrong, and maybe we don't know, but my suspicion would be that the entirely sensible thing that he said to the Financial Express would be said long before.
+
+00:27:50.200 --> 00:27:52.200
+[Amit Varma]: And now that he is part of the government, in a sense…
+
+00:27:52.200 --> 00:27:53.200
+[Amit Varma]: No.
+
+00:27:53.200 --> 00:27:54.200
+[Amit Varma]: He is mocking the Casanovas.
+
+00:27:54.200 --> 00:27:57.200
+[Guest]: No, not really. So let me just, I have it open here.
+
+00:27:57.200 --> 00:27:58.200
+[Guest]: You have the date?
+
+00:27:58.200 --> 00:28:00.200
+[Guest]: It's on April 27, so it's not like…
+
+00:28:00.200 --> 00:28:02.200
+[Amit Varma]: Oh, so he actually, okay.
+
+00:28:02.200 --> 00:28:10.200
+[Guest]: So, I mean, so obviously the only explanation for this is that, you know, he probably, I mean, nobody reads the Financial Express.
+
+00:28:10.200 --> 00:28:11.200
+[Amit Varma]: Cognitive dissonance.
+
+00:28:11.200 --> 00:28:18.200
+[Guest]: So he said the thing that, you know, his bosses wanted to hear on Twitter, and then he said the right thing to the Financial Express.
+
+00:28:18.200 --> 00:28:19.200
+[Amit Varma]: He said the truth by mistake.
+
+00:28:19.200 --> 00:28:36.200
+[Guest]: So, yeah, so that's the thing. The second interesting point here is, and this is again, you know, if you look at all the estimates of how big the formal sector in India is vis-a-vis the informal sector.
+
+00:28:36.200 --> 00:28:43.200
+[Guest]: So there are multiple estimates. Some estimates say that the informal sector is 90% of the economy.
+
+00:28:43.200 --> 00:28:48.200
+[Guest]: Some others say that the informal sector is two-thirds of the economy, and there are other estimates in between.
+
+00:28:48.200 --> 00:28:59.200
+[Guest]: So if the formal sector is creating 62.2 lakh jobs in a year, it means the informal sector is creating close to 6 crore jobs in a year.
+
+00:28:59.200 --> 00:29:00.200
+[Guest]: That's his assumption.
+
+00:29:00.200 --> 00:29:08.200
+[Guest]: That is bizarre. I mean, if the informal sector is creating 6 crore jobs in a year, then India does not have a jobs crisis.
+
+00:29:08.200 --> 00:29:09.200
+[Guest]: Right.
+
+00:29:09.200 --> 00:29:16.200
+[Guest]: Right. And then it should, again, if so many jobs are being created, it should be visible in other data points.
+
+00:29:16.200 --> 00:29:17.200
+[Guest]: The economy should be booming.
+
+00:29:17.200 --> 00:29:25.200
+[Guest]: Booming. So if you look at the rate of economic growth, it's been the slowest in four years, 17-18, in 2017-18.
+
+00:29:25.200 --> 00:29:31.200
+[Guest]: The private consumption growth has been slowest in five years, in 2017-18.
+
+00:29:31.200 --> 00:29:42.200
+[Guest]: If you look at the investment data, the total value of projects scrapped or dropped in 2017 reached an all-time high level.
+
+00:29:42.200 --> 00:29:48.200
+[Guest]: The drop between 16-17 and 17-18 was 60%. This is as per Centre for Monitoring Indian Economy.
+
+00:29:48.200 --> 00:29:55.200
+[Guest]: They offer another data point where they say as far as projects completed are concerned, they dropped 34% in value terms.
+
+00:29:55.200 --> 00:30:01.200
+[Guest]: So where are these jobs being created? I mean, ultimately, I mean, we all know…
+
+00:30:01.200 --> 00:30:03.200
+[Guest]: In the Jio-wise publicity department.
+
+00:30:03.200 --> 00:30:07.200
+[Guest]: We go back to the argument that, you know, everyone's selling pakoras, basically.
+
+00:30:07.200 --> 00:30:08.200
+[Guest]: Yeah.
+
+00:30:08.200 --> 00:30:12.200
+[Amit Varma]: So, I mean, that is the only possible explanation.
+
+00:30:12.200 --> 00:30:14.200
+[Amit Varma]: You had another in your article, you'd mentioned another…
+
+00:30:14.200 --> 00:30:23.200
+[Guest]: Yeah, I was just coming to that. This is a slightly complicated point. So, I mean, I'll take it gradually.
+
+00:30:23.200 --> 00:30:34.200
+[Guest]: Now, as I said, you know, between September 2017 and February 2018, 31.1 lakh subscribers were added to the Employees' Provident Fund.
+
+00:30:34.200 --> 00:30:49.200
+[Guest]: Now, if you look at slightly more longish, long-term data, between March 2017 and April 2018, you realize that only 12 lakh subscribers were added to the EPFO.
+
+00:30:49.200 --> 00:30:50.200
+[Guest]: Right.
+
+00:30:50.200 --> 00:31:02.200
+[Guest]: Right. So, you have… So, you know, between September and February, 31.1 lakh were added, but between March 17 and April 18, only 12 lakh were added.
+
+00:31:02.200 --> 00:31:03.200
+[Unknown]: So, what is happening there?
+
+00:31:03.200 --> 00:31:13.200
+[Guest]: So, I guess one explanation for this is that people probably lost jobs, they stopped paying, you know, their monthly subscriptions to the EPFO.
+
+00:31:13.200 --> 00:31:20.200
+[Guest]: I really don't know. I mean, this is something only the government should be able to explain, but there is a clear anomaly here.
+
+00:31:20.200 --> 00:31:35.200
+[Guest]: So, obviously, you know, this data has been published for the first time, and I would say that instead of just giving the additions, it is also important to give the total number of subscribers at that point of time.
+
+00:31:35.200 --> 00:31:52.200
+[Guest]: And this total number of subscribers should essentially be people who have paid the last 12, you know, whatever, I mean, the last 12 installments or whatever you might call it, investments actually, who have essentially contributed to the EPF for the last 12 months.
+
+00:31:52.200 --> 00:32:00.200
+[Guest]: That would give us, you know, a lot better picture than just giving us, you know, one addition number and then everyone playing around with it.
+
+00:32:00.200 --> 00:32:08.200
+[Amit Varma]: And another event that kind of complicates this, which you mentioned in your article, was a government offering amnesty to firms that hadn't had…
+
+00:32:08.200 --> 00:32:16.200
+[Guest]: So, that also sort of pushed up the number. I mean, there are people, there are firms who should have been on EPFO and they were not there, but that's a good thing.
+
+00:32:16.200 --> 00:32:19.200
+[Guest]: I mean, there was a crackdown, but then again, that doesn't add to jobs.
+
+00:32:19.200 --> 00:32:28.200
+[Amit Varma]: I mean, the argument isn't whether it's a good or a bad thing, but it's something that would have made the numbers go up artificially, and it wouldn't have been new jobs, merely new people coming into the EPF fold.
+
+00:32:28.200 --> 00:32:33.200
+[Guest]: So, basically, you know, more people coming into the formal economy.
+
+00:32:33.200 --> 00:32:40.200
+[Amit Varma]: Yeah, which is overall a good thing. But as far as the data is concerned, it artificially inflates the jobs data.
+
+00:32:40.200 --> 00:32:41.200
+[Guest]: Yeah, really different.
+
+00:32:41.200 --> 00:32:55.200
+[Amit Varma]: Exactly. So, I want to move on from jobs now on to various other areas of the economy where the government recently has been slightly economical with the truth. But before that, let's take a quick commercial break.
+
+00:32:55.200 --> 00:33:04.200
+[Unknown]: It's been another great week on IVM Podcasts, and if you're not following us on social media, please do. We're at IVM Podcasts on Twitter, Facebook, Instagram, etc., etc.
+
+00:33:04.200 --> 00:33:12.200
+[Unknown]: On our latest episodes of The Seen and the Unseen, Amit Verma is joined by author and columnist Vivek Paul to decode how the government uses and misuses data for optics management.
+
+00:33:12.200 --> 00:33:17.200
+[Unknown]: On Puliya Bazi, Pranay and Sourav talk to author Snigdha Poonam about her new book, Dreamers.
+
+00:33:17.200 --> 00:33:27.200
+[Unknown]: And on Top Out Hortle, we have Azeem Banatwala as a guest with Saru, Baru and Kumar discussing the end of the UEFA Champions League. And on Who's Your Mommy, Veda talks about mothers and how they cope with their constant sleep deprivation.
+
+00:33:27.200 --> 00:33:34.200
+[Unknown]: As I said, it's been a great week, and please try and listen to as many of these shows as you can. And now, on to your show.
+
+00:33:34.200 --> 00:33:46.200
+[Amit Varma]: Welcome back to The Seen and the Unseen. I'm Amit Verma, and I'm talking with my good friend Vivek Kaul, the data detective, as we discuss the various shenanigans that the government of India has got up to with data,
+
+00:33:46.200 --> 00:33:54.200
+[Amit Varma]: which is not a trivial subject, because to live in a healthy democracy, it's essential that citizens always question what the government tells them.
+
+00:33:54.200 --> 00:34:02.200
+[Amit Varma]: And it's hard to do so because most of us are data illiterate, and the government throws so much data at us. But worry not, India is fortunate we have Vivek Kaul with us.
+
+00:34:02.200 --> 00:34:13.200
+[Amit Varma]: Vivek, before the break in the first half of the show, we spoke about the jobs crisis and you demystified a lot of the data thrown at us by Mr. Panagaria and Mr. Kumar.
+
+00:34:13.200 --> 00:34:16.200
+[Amit Varma]: What's the next subject you want to tackle?
+
+00:34:16.200 --> 00:34:27.200
+[Guest]: So, you know, there's this whole hangama happening around how the government is collecting more taxes after demonetization.
+
+00:34:27.200 --> 00:34:37.200
+[Guest]: And it's a very funny thing because, you know, obviously, as the economy grows, any government would collect more taxes.
+
+00:34:37.200 --> 00:34:47.200
+[Guest]: So what you need to look at are not direct taxes collected in the absolute sense of the term, but direct taxes collected as a proportion of the size of the economy.
+
+00:34:47.200 --> 00:34:54.200
+[Guest]: So the proportion, the size of the economy is essentially the gross domestic product or the GDP number.
+
+00:34:54.200 --> 00:35:05.200
+[Guest]: Now, so in 2017-18, the government of India, the direct tax collection was 5.94% of the GDP.
+
+00:35:05.200 --> 00:35:13.200
+[Guest]: Now, this was more than the taxes collected in 2016-17, which were at 5.6%.
+
+00:35:13.200 --> 00:35:21.200
+[Guest]: Now, before the Modi government came to power in 2013-14, the direct taxes to GDP ratio was 5.62%.
+
+00:35:21.200 --> 00:35:25.200
+[Guest]: And the collection over the next three years was lower than this number.
+
+00:35:25.200 --> 00:35:31.200
+[Guest]: In 2017-18, it improved to 5.94% of the GDP, which was a jump of around 34 basis points.
+
+00:35:31.200 --> 00:35:39.200
+[Guest]: So the moment you deflate the direct taxes number with the GDP number, you suddenly realize that the jump has not been as huge as claimed.
+
+00:35:39.200 --> 00:35:44.200
+[Guest]: I mean, if you look at in absolute terms, direct taxes have gone up by around 17-18%.
+
+00:35:44.200 --> 00:35:49.200
+[Guest]: There has also been increase in what the government calls the tax base.
+
+00:35:49.200 --> 00:35:53.200
+[Guest]: So this is essentially people who are filing returns.
+
+00:35:53.200 --> 00:36:00.200
+[Guest]: But then, as you know, we've discussed in the past, filing returns and paying taxes are two very different things.
+
+00:36:00.200 --> 00:36:06.200
+[Guest]: So when you file returns and don't pay taxes, the government does not benefit, your chartered accountant benefits.
+
+00:36:06.200 --> 00:36:15.200
+[Guest]: So even though the tax base is going up, it has not led to a proportionate increase in tax collections.
+
+00:36:15.200 --> 00:36:20.200
+[Guest]: So the argument offered here again is that, okay, you know, right now, these people are not paying.
+
+00:36:20.200 --> 00:36:23.200
+[Guest]: But in the years to come, as their income goes up, they'll start to pay.
+
+00:36:23.200 --> 00:36:30.200
+[Guest]: Now the problem with that argument is that in the years to come, as their income goes up and as the inflation goes up,
+
+00:36:30.200 --> 00:36:34.200
+[Guest]: the minimum exemption limit will also have to go up.
+
+00:36:34.200 --> 00:36:39.200
+[Guest]: I mean, it's but natural. That's how, you know, it's always been the case.
+
+00:36:39.200 --> 00:36:42.200
+[Guest]: And it's the right thing to do as well.
+
+00:36:42.200 --> 00:36:54.200
+[Guest]: The other thing that people don't talk about is that in 2007-08 and 2008-09, the direct taxes to GDP ratio was 6.3% and 5.93% respectively,
+
+00:36:54.200 --> 00:37:01.200
+[Guest]: which is, you know, one number is greater than the direct taxes collection in the last year and one number is almost similar.
+
+00:37:01.200 --> 00:37:03.200
+[Guest]: Now what happened back then?
+
+00:37:03.200 --> 00:37:08.200
+[Guest]: What had happened back then was that, you know, the stock market was rallying
+
+00:37:08.200 --> 00:37:17.200
+[Guest]: and obviously the government ended up collecting a lot of tax from the stock market in the form of securities transaction tax and in the form of short-term capital gains.
+
+00:37:17.200 --> 00:37:22.200
+[Guest]: My contention is that a similar thing could have happened in 2017-18 as well.
+
+00:37:22.200 --> 00:37:23.200
+[Amit Varma]: Right.
+
+00:37:23.200 --> 00:37:30.200
+[Guest]: Right. I mean, the data for, you know, STT and short-term capital gains is not available in public domain.
+
+00:37:30.200 --> 00:37:39.200
+[Guest]: So if it was available in public domain, we could have sort of figured out as to, you know, how much tax is coming from STT and short-term capital gain
+
+00:37:39.200 --> 00:37:44.200
+[Guest]: and then sort of arrived at the, you know, whether demonetization has had an impact or not.
+
+00:37:44.200 --> 00:37:49.200
+[Guest]: What has also happened is that, you know, refunds have been delayed.
+
+00:37:49.200 --> 00:37:55.200
+[Guest]: So if, you know, the moment you delay refunds, your collection, the net direct tax number also goes up.
+
+00:37:55.200 --> 00:38:04.200
+[Guest]: So once you factor in all these things, you realize that, you know, again, it's a very strong case of optics management.
+
+00:38:04.200 --> 00:38:11.200
+[Amit Varma]: And also besides the refunds being delayed, one thing that you mentioned in your piece was that companies were asked to deposit TDS early.
+
+00:38:11.200 --> 00:38:15.200
+[Guest]: Yes, that was also a report in the Economic Times.
+
+00:38:15.200 --> 00:38:20.200
+[Guest]: And that also, so they were doing these various jogas to kind of get taxes up in the short term.
+
+00:38:20.200 --> 00:38:25.200
+[Guest]: Essentially to bump up the DTC number.
+
+00:38:25.200 --> 00:38:31.200
+[Amit Varma]: And what I'd say is the issue here that you're talking about is whether they were accurate with the claim or not.
+
+00:38:31.200 --> 00:38:38.200
+[Amit Varma]: The issue is not necessarily whether direct taxes going up are desirable or not, because it's irrelevant.
+
+00:38:38.200 --> 00:38:42.200
+[Guest]: In the context of our discussion, it's completely irrelevant.
+
+00:38:42.200 --> 00:38:47.200
+[Amit Varma]: We're just discussing that, okay, are they being truthful with whatever their claims are?
+
+00:38:47.200 --> 00:38:56.200
+[Amit Varma]: And if they are claiming X, did they do any short term jogas like being slow on giving refunds or making companies deposit TDS early to inflate the numbers?
+
+00:38:56.200 --> 00:39:00.200
+[Amit Varma]: So that the optics management, as you put it, works well.
+
+00:39:00.200 --> 00:39:02.200
+[Amit Varma]: Yes, precisely the point.
+
+00:39:02.200 --> 00:39:05.200
+[Amit Varma]: So this is about direct tax data.
+
+00:39:05.200 --> 00:39:14.200
+[Amit Varma]: You know, another very insightful piece you wrote in Business Standard, if I'm not mistaken, is about another, I don't know whether one would call it dishonesty,
+
+00:39:14.200 --> 00:39:20.200
+[Amit Varma]: but the way they manage the optics of the budget and in particular, the subsidies time bomb.
+
+00:39:20.200 --> 00:39:27.200
+[Guest]: Yes, so this is something that, and you cannot just blame the Modi government, it started with Mr. P Chidambaram.
+
+00:39:27.200 --> 00:39:36.200
+[Guest]: And so essentially, you know, you need to understand the fact that the government accounting works on cash systems,
+
+00:39:36.200 --> 00:39:41.200
+[Guest]: which basically means that revenue is accounted for when the money comes in.
+
+00:39:41.200 --> 00:39:45.200
+[Guest]: And, you know, expenditure is accounted for when the money goes out.
+
+00:39:45.200 --> 00:39:55.200
+[Guest]: Typically, in case, when companies account, that is based on the accrual system, wherein, if a sale is made, you know, it is booked as revenue,
+
+00:39:55.200 --> 00:40:02.200
+[Guest]: irrespective of the fact whether, you know, the customer, whoever the thing has been sold to has paid for it or not.
+
+00:40:02.200 --> 00:40:04.200
+[Guest]: Okay, that is a basic difference.
+
+00:40:04.200 --> 00:40:11.200
+[Guest]: So essentially, what the governments tend to do is they tend to postpone the payment of subsidies.
+
+00:40:11.200 --> 00:40:18.200
+[Guest]: So there are largely three kinds of subsidies, food, fertilizer, and petroleum.
+
+00:40:18.200 --> 00:40:23.200
+[Amit Varma]: And these are made by these government agencies like the Food Corporation of India, and they have to take the money from the government.
+
+00:40:23.200 --> 00:40:31.200
+[Guest]: So basically, what happens is, so let's say, you know, the Food Corporation of India buys rice and wheat primarily from farmers,
+
+00:40:31.200 --> 00:40:37.200
+[Guest]: and they pay them an X rate, 14 rupees a kg, 15 rupees a kg, I don't remember the exact number, but somewhere along those lines.
+
+00:40:37.200 --> 00:40:45.200
+[Guest]: And then they sell that rice and wheat to the public distribution system at a price of 2 to 3 rupees a kg.
+
+00:40:45.200 --> 00:40:49.200
+[Guest]: And then there is also the cost of moving that grain around.
+
+00:40:49.200 --> 00:40:57.200
+[Guest]: So the government has to compensate the Food Corporation of India for that difference.
+
+00:40:57.200 --> 00:41:02.200
+[Guest]: Now, what it tends to do is that the government does not pay on time.
+
+00:41:02.200 --> 00:41:10.200
+[Guest]: So let's say, you know, some amount of subsidy was due in 2017-18, it wouldn't have been paid in 17-18, it will be paid in 18-19.
+
+00:41:10.200 --> 00:41:19.200
+[Guest]: So the moment they don't pay it in 17-18, they don't have to account for it as an expenditure, simply because it's a cash accounting system.
+
+00:41:19.200 --> 00:41:21.200
+[Amit Varma]: Sir, I'll ask a layman question, clarify this.
+
+00:41:21.200 --> 00:41:26.200
+[Amit Varma]: If this was a private company, the moment that even if they didn't pay, that expenditure would still be on the books?
+
+00:41:26.200 --> 00:41:29.200
+[Guest]: It would still be on the books because it's been incurred.
+
+00:41:29.200 --> 00:41:31.200
+[Amit Varma]: But in case of the government, it's not on the books?
+
+00:41:31.200 --> 00:41:34.200
+[Amit Varma]: No, not on the books because the government is not incurring the expenditure itself.
+
+00:41:34.200 --> 00:41:38.200
+[Guest]: There is an agency which incurs the expenditure.
+
+00:41:38.200 --> 00:41:40.200
+[Guest]: So I'll give you some numbers.
+
+00:41:40.200 --> 00:41:46.200
+[Guest]: So as of 2017-18, and this is data from the Comptroller and Auditor General,
+
+00:41:46.200 --> 00:41:57.200
+[Guest]: the total subsidies outstanding were 2,19,774 crore. Of this, FCI was owed 2,04,376 crore.
+
+00:41:57.200 --> 00:42:02.200
+[Guest]: Now what happens is the natural question that one may ask now is that how does FCI function?
+
+00:42:02.200 --> 00:42:09.200
+[Guest]: If, you know, such a huge amount of money is not paid to an organization, I mean, how does it continue to function?
+
+00:42:09.200 --> 00:42:18.200
+[Guest]: So FCI essentially continues to function because it keeps borrowing and banks are happy to lend to FCI because FCI is basically the government.
+
+00:42:18.200 --> 00:42:28.200
+[Guest]: So typically what happens is that when FCI borrows, it has to pay interest on that borrowing.
+
+00:42:28.200 --> 00:42:33.200
+[Guest]: So that interest also gets added on to the subsidy burden.
+
+00:42:33.200 --> 00:42:37.200
+[Amit Varma]: And listeners should know that all of you and me and Vivek are paying this interest.
+
+00:42:37.200 --> 00:42:44.200
+[Guest]: Of course, I mean, because in some form or the other, I mean, we are paying for it in the form of high petrol and diesel prices for one.
+
+00:42:44.200 --> 00:42:54.200
+[Guest]: So essentially, you know, an estimate made by the CAG suggests that between 2011 and 2016,
+
+00:42:54.200 --> 00:43:04.200
+[Guest]: the Food Corporation of India paid an interest of more than 35,000 crore on all the money they had borrowed because the government had not paid them on time.
+
+00:43:04.200 --> 00:43:10.200
+[Amit Varma]: And the government is not paying them on time. So it can do this accounting trick of saying that, hey, we've kept the fiscal deficit under control.
+
+00:43:10.200 --> 00:43:11.200
+[Amit Varma]: We're not spending so much.
+
+00:43:11.200 --> 00:43:17.200
+[Guest]: So this basically started during the Chidambaram era. And, you know, back then, I think the number was around 100,000 crore.
+
+00:43:17.200 --> 00:43:25.200
+[Guest]: And over the last four years, it sort of doubled and reached around 2,20,000 crores.
+
+00:43:25.200 --> 00:43:30.200
+[Guest]: And you described this as a subsidies time bomb. Is it going to explode? What's going to happen?
+
+00:43:30.200 --> 00:43:34.200
+[Guest]: Yeah, see, it'll not. I mean, it's a time bomb, yes, but the thing with…
+
+00:43:34.200 --> 00:43:35.200
+[Amit Varma]: Every year, they'll kick it down the road.
+
+00:43:35.200 --> 00:43:39.200
+[Guest]: Yeah, so the government, essentially, the government fiscal deficit is basically a Ponzi scheme, right?
+
+00:43:39.200 --> 00:43:40.200
+[Guest]: Right.
+
+00:43:40.200 --> 00:43:47.200
+[Guest]: You know, it keeps running because the government issues bonds and, you know, new set of investors keeps coming in. So…
+
+00:43:47.200 --> 00:43:51.200
+[Amit Varma]: In fact, there was a great demand on Twitter that I ask you about Ponzi schemes.
+
+00:43:51.200 --> 00:43:53.200
+[Amit Varma]: Yeah, but that is a separate…
+
+00:43:53.200 --> 00:43:54.200
+[Amit Varma]: That's a separate episode.
+
+00:43:54.200 --> 00:44:00.200
+[Guest]: Episode, and I haven't written on Ponzi schemes for a while, so I'll have to read up and…
+
+00:44:00.200 --> 00:44:06.200
+[Amit Varma]: Though he has written a book, which you must read, called India's Big Government, and what is that, if not a Ponzi scheme?
+
+00:44:06.200 --> 00:44:07.200
+[Guest]: Yeah, so…
+
+00:44:07.200 --> 00:44:08.200
+[Guest]: In many ways.
+
+00:44:08.200 --> 00:44:19.200
+[Guest]: Yes, so I guess, yeah, that sort of… because, you know, the government at the end of the day is a Ponzi scheme, so they can continue.
+
+00:44:19.200 --> 00:44:32.200
+[Guest]: And, I mean, so there are other ways. I mean, you look at the fact that the amount of money, you know, I think 20-21% of the deposits that the banks collect have to compulsorily be invested in government securities.
+
+00:44:32.200 --> 00:44:33.200
+[Guest]: Wow.
+
+00:44:33.200 --> 00:44:40.200
+[Guest]: Then you have the insurance companies, they have to sort of compulsorily invest money in government securities.
+
+00:44:40.200 --> 00:44:49.200
+[Guest]: So the government in its own way has ensured that, you know, the demand for the debt that it issues continues.
+
+00:44:49.200 --> 00:44:58.200
+[Guest]: I mean, the term that economists use for it in the Western world is financial repression.
+
+00:44:58.200 --> 00:45:04.200
+[Guest]: And in India, because we are so used to the idea of financing the government, the citizens, that we don't even realize it.
+
+00:45:04.200 --> 00:45:16.200
+[Amit Varma]: This is another fascinating subject and all the listeners of this show who are fans of Vivek Kaul, I'd urge you to go to Twitter, find him at Kaul underscore Vivek and bombard the guy insisting that he write these two books.
+
+00:45:16.200 --> 00:45:22.200
+[Amit Varma]: One on how government is a Ponzi scheme and two on how government uses data.
+
+00:45:22.200 --> 00:45:30.200
+[Amit Varma]: Moving on now to general questions, you know, you are an experienced financial journalist and you have an eye for numbers and you are trained to figure all this stuff out.
+
+00:45:30.200 --> 00:45:32.200
+[Guest]: I am not really trained.
+
+00:45:32.200 --> 00:45:35.200
+[Guest]: But you're sort of self-taught. You're an autodidact.
+
+00:45:35.200 --> 00:45:37.200
+[Amit Varma]: Baba. Whatever that means.
+
+00:45:37.200 --> 00:45:41.200
+[Amit Varma]: You're an autodidact data detective.
+
+00:45:41.200 --> 00:45:44.200
+[Guest]: Autodidact data detective. A.D.
+
+00:45:44.200 --> 00:45:46.200
+[Amit Varma]: There's a lot of D in there.
+
+00:45:46.200 --> 00:45:51.200
+[Amit Varma]: It sounds like one of those syndromes, you know, which you don't know of.
+
+00:45:51.200 --> 00:45:58.200
+[Amit Varma]: But back to my question, what is a concerned citizen to do to keep a government accountable as far as the truth is concerned?
+
+00:45:58.200 --> 00:46:07.200
+[Guest]: It's very tricky, you know, in the, you know, daily life living, you know, making an earning and, you know, getting to office and coming back.
+
+00:46:07.200 --> 00:46:16.200
+[Guest]: It's very difficult. So I guess the only thing you can do is to try and read a wide variety of people.
+
+00:46:16.200 --> 00:46:30.200
+[Guest]: Given, I mean, and to be, you know, not trust everything that arrives on WhatsApp and, you know, just follow a few, you know, people on the social media and try reading them out.
+
+00:46:30.200 --> 00:46:38.200
+[Guest]: I mean, I don't think there is. See, unless people sort of go looking for knowledge and try understanding things, it's not going to happen.
+
+00:46:38.200 --> 00:46:47.200
+[Guest]: And you cannot blame them, given the fact that life is difficult, there is only so much time, there are pressures from the family, you know, there are bosses sitting on the head.
+
+00:46:47.200 --> 00:46:54.200
+[Guest]: Everyone's not as lucky as, you know, I am to, you know, who gets the time and gets paid to do all this.
+
+00:46:54.200 --> 00:47:04.200
+[Amit Varma]: And I think what I clarify, and I'm sure you'll agree with me, and as Plato's quote, in fact, pointed out, is that this is something that is embedded in human nature and in the way governments function.
+
+00:47:04.200 --> 00:47:08.200
+[Amit Varma]: So, this is not particularly about this specific government.
+
+00:47:08.200 --> 00:47:14.200
+[Guest]: Right, I mean, we tend to like stories. So, I'll give you a very interesting example, I mean, something that happened today.
+
+00:47:14.200 --> 00:47:18.200
+[Guest]: So, A.B. De Villiers retired yesterday.
+
+00:47:18.200 --> 00:47:19.200
+[Guest]: Very.
+
+00:47:19.200 --> 00:47:20.200
+[Amit Varma]: Yeah, I mean, out of the blue.
+
+00:47:20.200 --> 00:47:21.200
+[Amit Varma]: Very sad for me.
+
+00:47:21.200 --> 00:47:23.200
+[Guest]: Out of the blue. Now, that's a different thing.
+
+00:47:23.200 --> 00:47:35.200
+[Guest]: So, now suddenly you have this WhatsApp forward going around, which says that, you know, De Villiers was a champion hockey player, a champion tennis player, a champion rugby player, champion golf player at the school level.
+
+00:47:35.200 --> 00:47:42.200
+[Guest]: Now, it's very difficult to sort of believe that one guy could have been, you know, good at so many sports, right.
+
+00:47:42.200 --> 00:47:49.200
+[Guest]: And so, I just sort of googled and I realized that this is some fake news, which has been going around for a while now.
+
+00:47:49.200 --> 00:47:53.200
+[Guest]: And De Villiers has clarified that all this is wrong.
+
+00:47:53.200 --> 00:47:59.200
+[Guest]: And he said that the only sports that he played for a year was hockey in his school or college or something like that.
+
+00:47:59.200 --> 00:48:08.200
+[Guest]: Now, so, one guy who had sent it to me and I told him this and his immediate response was,
+
+00:48:08.200 --> 00:48:19.200
+[Amit Varma]: what happened, at least he looks good when he reads. So, it's inspiring. My response would have been, Vivek, you break the government's laws, let it be. I feel like you just told me Santa Claus doesn't exist.
+
+00:48:19.200 --> 00:48:27.200
+[Guest]: No, I mean, if you look at A.B. De Villiers, I mean, he's done enough on the cricket field itself to be categorized as a legend.
+
+00:48:27.200 --> 00:48:29.200
+[Amit Varma]: But we are a storytelling species.
+
+00:48:29.200 --> 00:48:31.200
+[Guest]: Yes, so people love this, you know, here's this guy.
+
+00:48:31.200 --> 00:48:37.200
+[Guest]: So, in fact, if you remember correctly, there used to be the same sort of stories going around for John T. Rhodes also.
+
+00:48:37.200 --> 00:48:41.200
+[Guest]: But John T. Rhodes apparently was a great hockey player.
+
+00:48:41.200 --> 00:48:51.200
+[Guest]: He would have easily made it into the South African hockey team as a center forward if he had not chosen to sort of play cricket.
+
+00:48:51.200 --> 00:48:55.200
+[Guest]: But cricket was, you know, paid, hockey did not.
+
+00:48:55.200 --> 00:49:01.200
+[Guest]: No, I think hockey in South Africa, when he used to be around, was played at an amateur level.
+
+00:49:01.200 --> 00:49:04.200
+[Guest]: And thank goodness for that, because so many hours of pleasure.
+
+00:49:04.200 --> 00:49:08.200
+[Guest]: So, you know, you can understand one guy being good at two sports.
+
+00:49:08.200 --> 00:49:11.200
+[Guest]: One guy can be good at some six, seven different sports.
+
+00:49:11.200 --> 00:49:16.200
+[Amit Varma]: No, but apparently Bal Narendra, when he was a young lad, was excellent at a lot of sports.
+
+00:49:16.200 --> 00:49:18.200
+[Amit Varma]: Now we are getting into tricky territory.
+
+00:49:18.200 --> 00:49:25.200
+[Amit Varma]: I could produce a lot of data on that, by the way, but let's end the episode here.
+
+00:49:25.200 --> 00:49:28.200
+[Amit Varma]: Vivek, thanks so much for coming on the show. As always, I learned a lot talking to you.
+
+00:49:28.200 --> 00:49:37.200
+[Amit Varma]: My pleasure. If you enjoyed listening to this episode, go to the page of this episode on either seenonscene.in or thinkpragati.com.
+
+00:49:37.200 --> 00:49:42.200
+[Amit Varma]: And there are links to all the articles by Vivek Kaul that I mentioned in there.
+
+00:49:42.200 --> 00:49:51.200
+[Amit Varma]: So do check out all those articles. Also, I'd urge you to go to your nearest bookstore offline or online and buy the Easy Money Trilogy by Vivek Kaul.
+
+00:49:51.200 --> 00:49:57.200
+[Amit Varma]: The Easy Money Trilogy has recently been released by HarperCollins and it's looking really snazzy in its new design.
+
+00:49:57.200 --> 00:50:02.200
+[Amit Varma]: So this is not just a random plug I'm doing. It's a great book by a very fine writer you should all read.
+
+00:50:02.200 --> 00:50:07.200
+[Amit Varma]: In fact, it's your duty as a citizen of this great democracy to read and follow Vivek Kaul.
+
+00:50:07.200 --> 00:50:27.200
+[Amit Varma]: And it's also your duty to read and follow me so you can find me on Twitter at amitvarma. Thank you for listening.
+
+00:50:27.200 --> 00:50:31.200
+[Unknown]: He bends down to test the warm water for his bath.
+
+00:50:31.200 --> 00:50:36.200
+[Unknown]: He comes here to quench his thirst for a hot shower and some podcasts.
+
+00:50:36.200 --> 00:50:42.200
+[Unknown]: You can witness how he enjoys having other people talk about cool stuff in his bathroom.
+
+00:50:42.200 --> 00:50:45.200
+[Unknown]: Indeed, it helps him with his loneliness.
+
+00:50:45.200 --> 00:50:54.200
+[Unknown]: You can find more of his species on ivmpodcast.com, your one-stop destination where you can check out the coolest Indian podcasts.
+
+00:50:54.200 --> 00:51:08.200
+[Unknown]: Happy listening.
+

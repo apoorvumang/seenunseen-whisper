@@ -1,0 +1,397 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I. V. M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:04.400",
+        "message": "I had a strange dream the other night. I had been called to the PMO for dinner with the Prime Minister. Modiji was there, Jaitleyji was there, Hasmukhbhai was there. Modiji was at his hospitable best, starting me off with some cheese and white wine. He told me, We don't serve red wine. Ha ha ha ha ha. Anyway, once I was suitably lubricated, Modiji leaned forward and said, Amit, you are the economic commentator I respect most in this country. From day one of demonetization, you got it right. You wrote about what a disaster it was. For many years, you have been the wisest one. So now tell me, O great soul, O fountain of knowledge, what is the state of the economy like in India? I replied, Namo, bro, I gotta be honest with you. Things are a mess. Demon screwed the informal sector and small businesses. GST with all these slabs and exemptions, even worse. Red tape has gone up. Compliance is hard. A new Inspector Raj is being unleashed. Exporters are suffering. Small businesses are suffering. It's a mess. Then he said, This bloody economy. I have such great speech writers and social media trolls. And still the economy is not doing well. It baffles me. I need food. Jaitleyji rang a bell and an eminent economist wearing a waiter's uniform walked in. He said to Modiji, Kya lau sir? Whatever you want, I will bring it for you. Modiji whispered something in his ear. I couldn't quite make out what he said. And then he elaborated, And make sure it's medium rare. Hare Modiji, I said. What is it that you're eating? Modiji said, Amit, my boy. Why so serious? Don't be shocked. We all worship in our own way."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:58.800",
+        "message": "Welcome to The Seen and The Unseen. Our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:10.200",
+        "message": "Welcome to The Seen and The Unseen. In today's episode, I want to do a roundup of the state of the Indian economy. Now, the economy is not doing very well. And many of the things wrong with it are the Unseen effects. Of demonetization and GST. Before I bring in my guest for today, I want to spend a little while talking about each of these. As Modiji mentioned in my dream, I have been writing against demon from day one in publications like The Times of India and The Hindu Business Line. The second episode of The Seen and The Unseen was on demonetization. My guest in that was Suyash Rai. You can check out the archives at seenunseen.in. Some people say that demon was a good idea that was implemented badly. This is nonsense. It was a terrible idea from the start. This is mainly because it was not an attack on high denomination notes to begin with. In 1978, when the last demonetization happened, the notes that were demonetized were only 0.6% of the notes in circulation. They were basically used to store money and not to actually spend it. By contrast, this time, 1000 rupee and 500 rupee notes constituted 86% of the money supply and are used by the common man and the rich. Used by the common man for daily transactions. Modiji may not have bought something from a store for a couple of decades and probably didn't know this sitting in his ivory tower. And from the insider accounts I have heard, he also didn't consult any of the eminent economists who worked with him. Anyway, so overnight there was a shortage of cash and hundreds of millions of people had to queue up for hours to get a hand on their own money. This was easily the largest assault on property rights in human history. The informal sector depends on cash and was crippled by this. Small businesses everywhere were hurt. And as expected, our GDP growth rate suffered as well. Demon was supposed to attack black money, but it was estimated at the time that only 6% of the black money was stored in the form of cash. And even that got neatly laundered. Basically, demonetization crippled our economy and achieved absolutely nothing. For more details on this too, listen to my February episode on this with Suresh Rai at cnunseen.in. I've done two episodes on GST, first with Devangshu Dutta and then with Vivek Kaul. My episode with Devangshu happened before GST was implemented. And Devangshu warned that if there were too many slabs and exemptions, it might defeat the whole purpose. Vivek did an episode with me after GST was implemented and the problems with it were exactly as Devangshu had feared. Too many slabs and exemptions that made it the opposite of a good and simple tax. Indeed, there were now so many regulations that compliance was hard and time-consuming and observers feared that a new Inspector Raj may well be on the way. Anyway, my guest on the show today is Vivek Kaul himself, a prolific author and columnist for Equity Master and, much to my good fortune, a frequent guest on The Seen and The Unseen. Vivek, welcome back to the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:06.200",
+        "message": "Thanks, Amit, for having me over."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:08.200",
+        "message": "So, Vivek, you've been writing about the economy 4-5 times a week, more than that, you write so many columns and are prolific across so many websites, besides the work you do for Equity Master. And, you know, for the last few months, you've been coming up with the most detailed, updated reports on what's been going on. What is the state of the Indian economy right now?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:28.600",
+        "message": "I mean, we're probably in the worst state that we have been in almost one and a half years. I mean, the last GDP data that came out for the period April to June 2017, the growth was at 5.7%. Now, what this figure does not tell you is that this growth was pumped up because of, you know, a dramatic increase in government expenditure. So, if you strip out the government part of the economy, which typically tends to be around 9-10%, but now is around 13%, the non-government part of the economy grew by around 4.3%. So, which is very, very worrying. And it's fallen from around, it's come down from around 9%, you know, as of March 2016, to around 4.3%."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:31.200",
+        "message": "From 9% to 4.3%. So, just put this in context for me. Typically, what is the kind of growth rate for any given quarter that we've been experiencing over the last few years?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:42.000",
+        "message": "Okay, so this, you know, we grew by around 9% as of March 2016. And after that, you know, the growth has started to fall."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:54.000",
+        "message": "And to take you a little further back, what was it like during the UPA's time, for example?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:57.800",
+        "message": "So, you really cannot compare because, okay, the UPA for the last three years, you know, we have data from around, I'll tell you, we have data from January, no, from March 2012. So, the growth was around 5% to 6%. Before that, we do not have data because, you know, we moved on to a new GDP series in January 2015. And for that, you know, the data is available only from 2012 onwards."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:32.600",
+        "message": "Right. So, I'm trying to get a sense of how the economy reacted after the Modi government took power in 2014."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:39.600",
+        "message": "So, basically, you know, the initial response was good. And then, you know, somewhere in early 2016, the growth started to come down."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:50.400",
+        "message": "Right. And also, one way in which the Modi government has been very lucky is with oil prices. I mean, you've written, you wrote a piece for this on the website, I added Pragati, I think Pragati.com, on how a lot of the good economic figures under this government have come fortuitously because the oil prices happen to be really low."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:09.400",
+        "message": "Actually, you know, as Amit Shah said, because of technical reasons. So, I mean, so the way it is, you know, imports are a negative entry into the GDP formula. So, if oil prices fall, your oil imports in dollar terms or in rupee terms also fall. So, the moment that happens, your GDP goes up automatically. So, as Mr. Shah said, due to technical reasons. So, this is exactly where these technical reasons come in."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:42.000",
+        "message": "So, now going back into the last 18 months or so, since, you know, the last year and a half, what has been happening in the economy?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:49.000",
+        "message": "Say, you know, one factor which is people have gradually started to realize and which they were not realizing earlier is the fact that we are not creating enough jobs. Right. Okay, there are estimates suggest that around a million Indians are entering the workforce every month. And we've done a podcast on this previously where we discussed it. So, and, you know, the problem is that this is now, I mean, it's coming to the fore, wherein, you know, the media is writing about it and people are talking about it. But nothing seems to be happening, you know, around it on the government front. I mean, the entire, you know, the explanations that are coming from the government seem to be telling us that all is well and, you know, we don't need to worry, which isn't really true because the numbers don't show that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:46.600",
+        "message": "Right. And how would you sum up the impact of demonetization to begin with and then GST in the economy? For example, typically, it takes a long, long time for all the relevant data to actually get in. And what complicates this further, obviously, is that demon affected the informal sector really hard and their data itself is a problem to begin with. So, how do you begin to estimate what the impact is? What do we have so far?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:13.400",
+        "message": "So, you know, a lot of data has started to come in. So, the first thing I would like to say is, you know, if you look at the crash in food prices, the major reason for that is demonetization. Because most of the agriculture trade in India worked on cash. And the moment that cash was taken out of the system, the buying and selling simply stopped. And farmers had to sort of sell their produce at very, very low prices. So, one of the stories that minted was about this farmer who had to sell his, you know, he had grown potatoes this year and this was sometime in March. And he had to sell his potatoes for as low as 9 paisa a kg. Whereas it takes around 3 rupees to produce 1 kg of potato. That's one part. The second part is if you look at the crash in, you know, the price of pulses. So, you know, what has been, so, you know, we need to understand as to how does a farmer actually decide what to produce in a given year. You know, he basically looks at the prices, you know, last year and then he decides. So, you know, the price of pulses have been going up for a while. So, this season there was a huge increase in production of pulses."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:38.800",
+        "message": "But there were no buyers. So, the prices..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:41.800",
+        "message": "And no buyers because basically no cash, essentially. So, now, then if you remember, you know, the price of tomatoes crossed 100 rupees a kg. Now, how did that happen? That happened because, you know, there was a bumper crop of tomatoes in November, December. And because there was no cash in the system, the prices crashed. So, once the prices crashed, for the next cycle, the farmers simply decided not to, you know, grow any tomatoes. So, because of that, the prices went up. So, if, you know, if you were to sort of extend the tomato example into pulses, my guess is next year, you know, the price of pulses will go up again because farmers this year will not plot as much as, you know, they did last year."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:30.400",
+        "message": "And are minimum support prices relevant to pulses?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:33.400",
+        "message": "Not really. Minimum support prices are basically relevant to only rice and wheat. Then there is a third, another kind of price which is set, I think it's called fair and remunerative price, which is set in case of sugarcane. So, but that's a different story altogether."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:52.200",
+        "message": "So, just to kind of demystify this, would it then be that because there was a massive reduction in the money supply, so to say, that had a deflationary effect? Right. So, now, you know, just to sort of, for the listeners who may not be following monetary economics, a friend once asked me recently that, hey, you know, if the government needs to spend more money, why don't they just print more money? But what typically happens if they print more money is that the number of goods and services are what they are, but you have more money chasing it, so its demand and supply, the price of everything, just goes up and the result is inflation. And when the government prints money, it's basically creating inflation, which is a tax on the poor. And here this has the opposite effect where you take a lot of money out of the system and you have much less money chasing certain goods and services and therefore they become much cheaper and in this case hurting the farmers more."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:44.800",
+        "message": "I can give you a better example here. You know, sometime in the Second World War, you know, there used to be prisoners of wars. So, within the prison, there was no cash going around. So, cigarettes became a form of money. So, the prisoners used to get cigarettes through the rations that arrived through the Red Cross or, you know, if some stuff got sent by relatives. So, typically what used to happen was that when the Red Cross rations came, suddenly everybody had cigarettes and they used to start using those cigarettes to exchange, you know, for a cup of coffee or tea and so on and so forth. Now, because there was a sudden increase in the inflow of cigarettes, the prices of, you know, coffee and tea used to go up in the sense that, you know, earlier maybe two cigarettes for a coffee and, you know, after the inflow of cigarettes, it used to become three cigarettes for a coffee."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:45.400",
+        "message": "That's one part."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:47.400",
+        "message": "The other part is there used to be, some days there used to be bombings or it was simply so cold that people just smoked away their cigarettes. So, then suddenly there was a contraction in the number of cigarettes available in the prison economy and the prices used to come down because the holders of, you know, tea, coffee or whatever they were trying to sell essentially, you know, wanted to ensure that their products did not spoil and so they had to cut prices in order to attract people who were still left with cigarettes to spend those cigarettes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:20.200",
+        "message": "That's a brilliant illustration of the money supply and that is actually a good reason, another good reason to say cigarette smoking is injurious to health because, hey, you're burning money, literally in that case. So, this is one thing that happened that because of money supply, because the amount of cash in the economy drastically went down, prices, of course, crashed and farmers got screwed and then this changed the incentives for the next cycle of crops. So, when they couldn't get any money for the tomatoes, for example, their incentives changed and they didn't grow tomatoes the next time around, which then led to a scarcity of tomatoes and, you know, by the time\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:54.000",
+        "message": "So, see, the point here is, you know, when it comes to Indian agriculture, the markets anyway don't work and whatever little the markets were working, demonetization essentially ensured that those markets also don't work. So, if you don't allow the market to work, I mean, there will be a cost to pay at the end of the day."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:12.800",
+        "message": "So, moving from agriculture to the informal sector in terms of small manufacturers and businesses and all that, how did demonetization affect those?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:18.800",
+        "message": "So, this is a very, you know, I mean, we all know that demonetization essentially ended up hurting the informal sector particularly in a very bad way, because informal sector works largely on cash and the moment you take that cash out of the market, they essentially collapsed. Now, so that's that, I mean, that's very well known. Now, what has happened is, you know, I just noticed this particular data point that I'll talk about around a month back. So, obviously, you know, the country imports a lot of stuff. India does and our biggest imports are oil and gold. Now, oil we import because, you know, we sort of produce only 20% of the oil that we consume and gold we import because we produce almost, you know, nothing. I mean, so we have to import all the gold that we consume. Now, if you strip out gold, oil and silver from the total import numbers, what remains with you is, you know, the technical term for it is non-oil, non-gold, non-silver imports. Now, these imports are a very good indicator of consumer demand in the country. Now, if you look at the growth in non-gold, non-oil, non-silver imports since November, there has been a huge jump. Before November, these imports were actually in the negative territory. But after November, they have like really perked up. Now, what is happening here? It's a very interesting question as to why, you know, how does the scenario change so quickly. So, what is happening here is because of demonetization, the informal sector has sort of been destroyed, the supply chains have been destroyed and those, you know, the products that these informal firms were selling are now coming into the import route. So, basically, you know, we have ended up importing stuff that we were essentially buying from within the country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:30.800",
+        "message": "So, it's essentially for all that Modi says about make in India, what demonetization essentially promoted was don't make in India."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:38.600",
+        "message": "Or rather, you know, make outside India and create jobs outside India. That's the bigger irony. So, yeah, now, if this were to sort of stop at this, it would be fine. But then again, the jump in non-gold, non-silver, non-oil imports was one unseen effect of demonetization. Now, there is an unseen effect of this unseen effect."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:05.400",
+        "message": "So, we are basically in cascading unseen effect."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:09.400",
+        "message": "I mean, you know, this is the double derivative. So, d dx of dy by dx or something like that. So, anyway, so what has happened is that now because the economy is not doing well, you know, when the economy doesn't do well, economists and politicians go back to that, you know, one economist, John Maynard Keynes. Now, John Maynard Keynes, you know, in 1936, in his magnum opus, The General Theory of Money, Interest and Employment, essentially suggested that when the economy is not doing well, when the private sector is not spending enough money, the government should cut tax rates. He also suggested that the governments should spend more money during that period than they, you know, than they spend in other periods. So, this is something that politicians and economists have latched on to since 1936 and every time an economy is in trouble anywhere in the world, this is the first suggestion that is given. Now, it needs to be explained here that, you know, when Keynes was making these suggestions, the governments did not run fiscal deficits. That is what used to happen back then was that their income was equal to their expenditure. So, Keynes' argument was that you essentially accumulate money when the going is good and then you spend it when the going is not so good. But what happened was people just ran with one part of the argument and, you know, the government should spend money when the going is not good. Anyway, so to get back to the point, now with the economy not doing well, obviously all these economists and, you know, some politicians also have been suggesting that the government should spend more money than it is actually spending. Even though the Economic Advisory Council of the Prime Minister, which was recently set up, has advised against it. So, as far as government spending is concerned, if you look at data for the first five months of the year, the government is already spending much more than it usually spends. So, you get, you know, fiscal deficit data every month. So, if you look at the period between April to August, we have already, you know, we are already at 96% of the fiscal deficit which was targeted for the entire year. So, which basically means that the government is spending much more than it actually spends."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:41.400",
+        "message": "And when it spends much more than it actually, than it gets in, what it's essentially doing is borrowing from future generations, right, kicking the can down the road."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:49.200",
+        "message": "So, some sort of stimulus is already, some sort of fiscal expansion, fiscal stimulus is already on. Now, what remains to be seen is whether the government continues to spend money at this rate. So, if it continues to spend money at this rate, then, you know, the targeted fiscal deficit for the year is around 3.2% of the GDP and it will end up at around 4% of the GDP. Now, that's a call that the government needs to make whether they want to increase the fiscal deficit or they want to meet the fiscal deficit target. Now, so typically, you know, the way this works is that when the government spends money, you know, somebody's income goes up and then that income translates into consumer demand and when, you know, consumer demand goes up, the private sector starts to do well and so the economic growth sort of comes back."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:38.000",
+        "message": "That's a theory."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:39.000",
+        "message": "Yes, and I mean, as the sort of private sector does well, the government also gets, you know, greater share of taxes and so on and so forth. The problem here is that, you know, what has happened, you know, as we all know, in the Indian cases, because of demonetization, the large part of the small, you know, and medium enterprises and the informal sector has been destroyed. Now, let's say if the government were to continue to spend more money, okay, what would happen is that, obviously, it would translate into some sort of consumer demand. Now, the thing is whether that consumer demand would be met through stuff which is produced within the country or stuff which is not produced within the country, okay. Now, given the trend of non-gold, non-silver and non-oil imports going up, what that tells us is that up until now, the consumer demand, a lot of it is not being met through what is being produced in the country, right. So, if we sort of extend that logic, you know, the government spending more will end up, you know, leading to consumer demand which is fulfilled through imports, okay. Now, imports, as we know, are a negative entry into the GDP formula,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:50.400",
+        "message": "again, technical reasons. That's a technical reason."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:53.400",
+        "message": "Technical reasons, as Mr. Amit Shah said. So, because imports are a negative entry, what would happen is that, you know, the government spending more money instead of leading to an increase in economic growth would actually pull it down. So, this is, you know, one unseen effect on top of the other unseen effect of demonetization."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:15.200",
+        "message": "And the thing is, you know, I would not be against imports at all. It's perfectly fine, you know. But what is perverse in this case is that you're destroying livelihoods and businesses which were already running within the country and then imports go up as a result of that. And the important thing here to note is that a lot of the small businesses or the small enterprises affected by demonetization, for them it wasn't just a matter of, oh, we've had two or three bad months and then we'll eventually come back and it's short-term pain. What happens is that on the margins when businesses get wiped out, you can't come back again. You're gone. I think the term economists use for it is a welfare shock. And that's a damage which really in some ways is immeasurable."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:56.000",
+        "message": "Yes, because, you know, I mean, what the government data essentially measures at the end of the day is, you know, businesses and firms which are a part of the formal setup. But the informal setup is really very badly measured. So at the end of the day, you know, we will really never be able to sort of figure out as to what was the actual cost."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:18.800",
+        "message": "Right, and as my friend Nitin Pai of the Takshashila Institution once pointed out that a 1% rise in GDP typically brings 2 million people out of poverty in India. And therefore, the opportunity cost of that rise not happening or the GDP growth being less than expected is that it has a real impact on real human beings."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:39.600",
+        "message": "Which is true. I mean, see, it's like, you know, it's very simple. If India grows at 6% for a year over the next, let's say, 20-25 years in comparison to if it grows at 8%, obviously, you know, many more people will be pulled out of poverty if India grows at 8% and then if India grows at 6%. So what is obviously important here is that, you know, if the government cannot create right situations for economic growth, they should at least not create situations which hurt economic growth."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:11.400",
+        "message": "And it's interesting because there is almost a canard spread by some people that, oh, look, that, you know, Modi, he's doing so much damage on the social front, all the lynchings and the cow business and all that, all in the name of development and economy. But if you actually evaluate his economic performance, you know, especially over the last year and a half, things have just gone drastically wrong. He's taking the country backwards. But leaving demonetization apart, let's move on to something that we discussed a few episodes ago, which is sort of the impact of GST on the economy, which is kind of becoming clearer. And what is your overall take now?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:50.000",
+        "message": "Okay. So, you know, whatever I said at that point of time continues to be true. I mean, but, you know, the one new thing that I've realized is which is sort of causing a lot of problems is the fact that the GST essentially has led to a situation where one too many returns need to be filed. You know, there are people who are perpetually filing returns all through the month. I mean, like, I need to file three returns. And even that at sometimes, you know, becomes a pain. Like, you know, one of the returns is an expense statement that needs to be filed. Now I need to file my expense statements 12 times a year. So obviously, you know, one can understand what the government is trying to do. I mean, they're obviously trying to sort of build a database and then figure out, you know, who are the people who are not paying their fair share of taxes. But then again, you have to be, you know, you have to realize the fact that it takes a lot of time and energy from what is actually not a core activity. I mean, for a businessman or a self-employed individual, he would rather sort of concentrate on what he does well rather than on these things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:06.600",
+        "message": "You're wasting an enormous amount of productive time just doing this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:09.400",
+        "message": "What has also happened is, again, I mean, this is anecdotal, and I mean, I don't have agglomerated data to back what I say, is that I think chartered accountants are finding it difficult to handle the volume of work that GST has created."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:26.400",
+        "message": "Now to give you a very simple example,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:28.400",
+        "message": "you know, you need a lot of data entry operators now. I mean, you don't expect a chartered accountant to sit and enter data. So from what I understand, there is a shortage of good data entry operators. I mean, you know, you need someone who understands some amount of English."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:46.200",
+        "message": "He understands, you know, this is Excel and, you know, this is basically,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:50.200",
+        "message": "you know, you need someone who at least you understand a few basic things. And it has become a little difficult to find such individuals."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:00.200",
+        "message": "And I think over time, the scene effect of this, and some might pom-pom me to say that, hey, there are more data operators, and we've created good jobs."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:07.000",
+        "message": "Yes, but then you realize that, you know, I mean, yes, there are more data operators, and work has been created for chartered accountants. But then there are so many people who are not doing what they should be doing, and, you know, just looking at the fact that the entire return is filed properly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:26.000",
+        "message": "And the extra money that people are spending on their chartered accountants and GST consultants and so on, is money that they would have spent elsewhere"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:33.800",
+        "message": "and would have been put to productive use. Which is the basic point of the unseen effect anyway."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:36.800",
+        "message": "Which is the basic point of the unseen effect. So, you know, looking forward, what is sort of your prognosis in the, you know, let's say the year and a half to come, let's say till 2019 when the next elections happen. Is the worst behind us? Because the government at some point will start fixing some of the glitches of GST as well, at least."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:57.800",
+        "message": "Which they have, they have started."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:58.600",
+        "message": "Yeah, they have started that and you don't really expect things to really get worse. But the thing is that the impact of Demon and the\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:07.600",
+        "message": "See, the, yeah, I mean, economic growth has been falling for six quarters now. So, six quarters is a reasonably long time."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:14.600",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:15.600",
+        "message": "I mean, it's not a small\u2026 So, the point is, I mean, a lot of damage has already been done. Now, whether this damage will continue, I mean, for that, I mean, it's difficult to sort of say offhand. But, you know, if you look at other high frequency data, I mean, things, some things are improving. It's not like everything's going to the dogs, but a lot of things are in an extremely negative territory. So, one of the data points which I came across recently is, you know, we all know that bank lending is in a bad state. So, you know, bank lending to agriculture is down, bank lending to retail is flat, bank lending to industry, you know, has contracted. But bank lending to services this year has fallen more than bank lending to any other sector. Why is that?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:14.200",
+        "message": "I have no idea. I need to dig a little deeper."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:16.200",
+        "message": "Now, the point is that services form around half of the economy and if services firms are not borrowing, there is something which is really not right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:27.000",
+        "message": "So, I mean, I need to dig a little deeper. Is it that they are not borrowing because they don't see a scope for expansion?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:32.000",
+        "message": "I don't know. I mean, which could be one reason or I don't know. I mean, there's no demand. So, one has to sort of see, I mean, if you, you know, go back to Mr. Modi's speech recently. So, he said, you know, car sales are going up and motorcycle sales are going up and tractor sales went up by 34% in a month. But then these are not the, you know, he pointed out a spate of positive data points, but he did not point out a spate of negative data points also, which are there. Right. I mean, you know, your cement consumption for one, I mean, I can tell you offhand, has come down. The real estate sector, which sort of is, you know, should have been the main sector to create jobs for the unskilled, is, continues to be down in the dumps. So, I mean, so the point is that there are enough, I mean, negative data points going around as well. So, even if there is a recovery, I don't see a fast recovery happening. I mean, it will be as slow as..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:37.600",
+        "message": "And it's probably true even if the government gets everything right from now on. That, you know, given where we are, it's just really difficult to climb out of this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:45.400",
+        "message": "Yes, I mean, because a lot of these, see, what has typically always happened in India's case is that whenever we have done well, you know, grown at 8 and 9 percent, the structural issues have held us back. So, these are, you know, the structural issues are now coming to the fore all over again. I mean, something as basic as our roads, our turnaround time of our ports. Because if you realize, you know, globally the economies are doing much better than they were, let's say, three years back."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:17.200",
+        "message": "Exactly. I mean, in 2011, you could say that, hey, you know, there's a global downswing and everyone's doing badly and if India's kind of... It's fine, it's understandable. But right now, the rest of the world is all looking up and India's kind of lagging behind."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:30.200",
+        "message": "So, I mean, so look at something like, you know, the banking crisis. I mean, it's not like it's suddenly come up. It's been there from day one. And nothing's been... I mean, nothing's been done other than getting the companies to sort of... Sorry, getting the banks to recognize their bad loans as bad loans. And even that number keeps going up every quarter. So, either, you know, if you look at some of these banks... So, there are these five associate banks of State Bank of India and the Bharatiya Mahila Bank, which were merged with State Bank of India. And State Bank of India, as of March 31st, was the second best, you know, performing bank among the public sector banks when it came to their bad loans. So, the bad loans were at some 7.15% and after the merger, they've increased to 10%. So, you know, what is the point in merging, you know, five weak banks with a strong bank and making that strong bank a weak bank? Now, this is a solution which is now being offered, you know, wherein the principal economic advisor to the Ministry of Finance, Sanjeev Sanyal, recently said that the number of banks will come down to 10 to 15. But some of these banks, you know, Indian Overseas Bank is one, IDBI Bank, they have bad loan rates of 23-24%. I mean, the question is, why are these banks still in the business of banking? I mean, if you're losing, you know, one-fourth of all that you're lending, I mean, clearly you're not good at what you're doing. I mean, and if you continue, I mean, you'll continue to lose money and the government will have to continue to recapitalize you. So, you know, you need the government to make some of these big decisions which they have not up until now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:16.400",
+        "message": "And again, NPAs, bank loans, we've discussed this in previous episodes."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:19.400",
+        "message": "I mean, or look at something as simple as, you know, all the railway accidents that are happening. Now, people say that, you know, accidents are happening and we are building bullet trains. I don't think that is the right comparison. The right comparison is that accidents are happening and we continue to run Air India because the bullet train will be built whenever it will be built, okay. Air India is there right now. The organization continues to lose money. And every rupee that Air India essentially loses is money that gets, you know, taken away from something else."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:55.200",
+        "message": "Taken from us, I mean, most people think of government and government money as something that has nothing to do with us, but actually it's our money."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:01.000",
+        "message": "No, no, it's taken someone's paying for it. You and I are paying for it and we are in fact filing those returns three times a month. I mean, or you look at the fact that, I mean, this is something that I wrote for Pragati, wherein, and you gave a great headline on the price of petrol and diesel. You know, why are there so many taxes on petrol and diesel? I mean, this is because, you know, you have the government needs to support companies like Air India and this one called Hindustan Photo Films, which we keep talking about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:29.800",
+        "message": "Vivek, I think you and I have it the wrong way around. We seem to imagine that the government is there to serve the nation."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:35.800",
+        "message": "No, the nation is there to serve the government."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:38.800",
+        "message": "So, net-net, then would it be fair to say that when the Modi government came in, at least on the economic front, there was a lot of optimism among a lot of people that they will do a lot of reforms. And what has happened is that they haven't done most of the reforms we expected from them or showed the intent to do them. And furthermore, with a bad policy like DEMON and a botched implementation of GST, they've actually set the nation backwards. And hopefully, we can now sort of start getting back on track. And as Modi ji would say, there are some positive indicators. So, if you're listening to this podcast and you can't afford tomatoes, eat tractors instead. On that note, Vivek, thanks so much for coming on the show. Thank you for having me over, Aman. If you enjoyed listening to this episode, do check out the archives of The Scene and The Unseen at sceneunseen.in. I've got one previous episode on demonetization. I've got two episodes on GST. I've got one episode on NPAs, where Vivek was, in fact, sharing a lot of insight on that. Check those episodes out. You can follow Vivek on Twitter at call underscore Vivek. And you can follow me at Amit Verma. A-M-I-T-V-E-R-M-A. Thanks so much."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:38:15.200",
+        "message": "Thanks so much."
+    }
+]

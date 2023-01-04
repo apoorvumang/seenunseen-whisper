@@ -1,0 +1,407 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "literature do a fantastic job of illuminating and illustrating the human condition. So who needs philosophy? And hey, is that itself a philosophical question? If so, do we need to answer it?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:41.000",
+        "message": "Welcome to the Scene and the Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:53.320",
+        "message": "Welcome to the Scene and the Unseen. The philosopher Alfred North Whitehead once said that all of Western philosophy was nothing more than a series of footnotes to Plato. From this, you can gather two things. One, unlike other fields, philosophy does not seem to have made that much progress in the last 2000 years. I would argue, though, that this is not quite true. The second thing that quotation tells you is that Plato was a rock star. And indeed, while reading Rebecca Goldstein's superb book, Plato at the Googleplex, Why Philosophy Won't Go Away, I was struck by what a foundational thinker Plato really was. He asked many big questions that still drive philosophical inquiry today, and he anticipated insights that were given proper shape many centuries later. For example, we think of the social contract as a concept that was formulated during the Enlightenment. And the field of game theory is something that came about in the 20th century. So my eyes almost popped out of my head when I read a dialogue of Plato in which Glaucon, elder brother of Plato and a minor character in this dialogue, describes what is basically a game theoretic argument for a social contract. And Plato's dialogues, as I discovered in Goldstein's excellent book, are full of such seemingly modern arguments and insights. Plato at the Googleplex is a book that really has two intersecting parts. Half the book is a series of illuminating essays on Plato, his times, his philosophy, the impact of his work. The other half is a series of fictionalized dialogues of Plato set in current times and modern venues like the Googleplex, and these are quite witty and entertaining. Besides introducing us to Plato, the book really makes an argument that philosophy is not an arcane academic discipline, but that it actually matters in this modern world, in these crazy times that we live in. I spoke to Goldstein in December 2018 when she was in Mumbai for the Times Lit Fest. We recorded in a room given to us by the organizers and the venue was quite noisy. So please do excuse the quality of the recording. Before we get to it though, a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more, head on over to Indiancolors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products including fridge magnets with some stunning motifs and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vazvo x Vazvo, Brinda Miller, Dilip Sharma, Shruti Nelson and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to Indiancolors.com, that's colors with an O-U. And if you want a 20% discount, apply the code IVM20, that's IVM for IVM podcast, IVM20 for a 20% discount at Indiancolors.com. Rebecca, welcome to the seen and the unseen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:06.200",
+        "message": "It's very, very good to be here with you and to be in conversation with you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:10.800",
+        "message": "Right. It's kind of intimidating to actually have a dialogue with a woman who's written Plato's dialogues as you have in your recent book. I wanted to start by talking about what the philosopher Carl Jaspers calls the axial age, which is where you point out in your book that between 800 BC to 200 BC, there was a sudden explosion of different quests to find answers to the question of what makes a life matter. And it showed up in all the different normative religions, the monotheisms that sprang up and in philosophy in Greece. But my sort of question was why during this particular period was there this sudden quest?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:51.640",
+        "message": "Yeah. So when I approached this question of why the ancient Greeks had this massive explosion of creative ideas, you know, and they're credited with laying down the foundations of Western civilization, you know what, it occurred to me that this didn't happen in a vacuum, that this was happening, you know, in many places on the globe. And that all of the normative paradigms, you know, meaning the paradigms that people refer to when they're trying to give meaning and purpose to their lives, whether it's religious or secular, were formulated during this period. It was actually a philosopher, a German philosopher of the 20th century named Jaspers. He was the first to notice and to name the Axial Age, that there was this great creative normative ferment during this period. And so the question is, you know, why did it happen then? And social scientists are just beginning to look at this. There hasn't been a great deal of attention given to it. I mean, after all, it was one of those things that was pointed out by philosophers, that something amazing was going on during this period. It seems like the most important variable was that, simply, the people were well-fed. Pascal Boyard in France has plotted the caloric intake all over the globe at that time. And indeed, the countries that participated in what we call the Axial Age, which was India, in Hinduism and Buddhism and Jainism, were formulated during this period. China, Confucianism and Daoism were formulated during this period, and Greece, philosophy and tragic poetry, which was their response to this, to these questions of what it is that gives meaning and purpose to our lives. These were all, and also the Judean hills, you know, where the Abrahamic approach was formulated. Persia, Zoroastrianism, all of these places that participated and forged these frameworks that are still extant today, claiming all of us in one way or the other, including someone like me, who's a secularist, you know, and so I trace my roots back to ancient Greece. They were all well-fed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:22.520",
+        "message": "And what we learn from this is\u2026 Because of the shift to agriculture around"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:25.840",
+        "message": "the 1000 BC. Exactly, exactly right. And so, you know, what we learn from this is, you know, when people don't have to be preoccupied 24-7 and seeing another dawn and, you know, just getting enough food in their bellies, they start thinking about this question of, you know, here I am and, you know, and what is it that I ought to be doing with my life, you know, and so any of these questions have that word ought in them, we call normative in philosophy. And it comes very naturally to our species as soon as we're freed from the, you know, the constant trials of simply surviving. These other features of the\u2026 You also pointed out that it correlates with urbanization. Exactly. These were highly organized city-states and they had standing armies, they had coinage, they had slavery, they had trading, you know, this is so important, right? So they were mixing with different people, different cultures, different ways of thinking, which makes us humans think, well, what's the right way of thinking about our lives, right? Here are these different traditions, different goals, what's the right way? It comes quite naturally to us. And also in these cities, there was more anonymity. I had the great privilege, I don't think I wrote about it in the book because I don't think I'd had yet this experience, of visiting one of the last of the hunter-gatherer tribes, of spending a little time with them in Tanzania, the Hadza. And it was very interesting. First of all, they have to really, every day they wake up and they have to fulfill their caloric needs. I mean, and it's very difficult. But one of the things that was very clear is they lived in great intimacy with each other. Everybody clearly mattered in that village, right? It's sort of a, it's a family. It's how, this is what we have come from, of intimate village life. And when, in these big city states and there's more anonymity, this question also I think is exacerbated. Well, you know, who am I? What can I do to achieve some sense of mattering in the universe? In the village life, you matter. You know, it's, everybody has their position. So all of these things come together. I don't think it's just a matter of caloric intake. I think it's more complicated than that, but we see it in all of these places. There was also a scribe class. So there was written language in all, you know, there was written."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:20.680",
+        "message": "And there was coinage, like you've pointed out in your book, so."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:23.480",
+        "message": "Yes, there was coinage, exactly. Which is a way of also increasing the sense of sort of anonymity. When there's coinage, then there's disparities of wealth, but you know, we all have this existential need, even the poor among us, right, of wanting our lives to mean something. They mean everything to us."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:45.680",
+        "message": "And the interesting thing about this Axial Age is that most, except one, most of the sort of normative traditions that were forming were teleological. You know, they were, they had a god at their center or gods or whatever. And the only exception really was the birth of philosophy in ancient Greece."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:03.480",
+        "message": "Yes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:04.480",
+        "message": "And is it because their gods were very messed up?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:06.640",
+        "message": "That's what I think. Their gods were really, I'm thinking of, I mean, they were, they're kind of assholes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:18.000",
+        "message": "Can I say that?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:11:19.000",
+        "message": "Yeah, of course. That's what they really were, right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:21.000",
+        "message": "And it was, it was extremely interesting, you know, we think of the Greeks as, you know, philosophers. Of course they weren't philosophers. They were not a society of philosophers. There's never been a society of philosophers. They gave, you know, certain among them were philosophers and they gave birth to this way of approaching the normative questions. But we can never forget that it was the Athenian society, which is the best of the Greek city states, right, that put Socrates to death. I mean, there was a democracy that voted, his fellow citizens voted to put him to death. So this was not a society of, they regretted it afterwards, right. But after his death, we find many little statues of Socrates, they regretted it. But because of certain things that had happened after they lost the Peloponnesian War, their war with another city state, Sparta, they didn't have tolerance for Socrates with his skeptical questions anymore, asking them or demanding that they question their own normative values, which were not philosophical, but rather something that I call the ethos of the extraordinary, that what they had produced was this view that in order to really matter, you have to make a name for yourself so that knowledge of your life will be replicated in future generations or in your contemporaries. And this gives a certain moreness to your life, you know, so fame and glory, what they call kleos. And so that this was, this was their way of pursuing it. Any way that you could be replicated in the minds of others, would make your life worth living. And he was attacking that, Socrates."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:07.040",
+        "message": "And I found it very interesting how you point out that because their gods are such assholes, unlike other peoples elsewhere, you don't want the attention of your god, instead, you want to raise your own renown, like kleos, one way of translating, which I found very nice, acoustic renown is how you mentioned it's read more people hear of you. So they aspire to this ethos of the extraordinary, where they want to do extraordinary things so that in their own society, they are famous. Kleos kind of sounds like very Instagram, Twitter, kind of."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:38.240",
+        "message": "Exactly. And it's interesting because, you know, in some sense, we are post-theistic society, right? And the more educated we are, the more we don't think of our lives in terms of theism. But what we seem to have gone back to follow the default is the pre philosophical Athenian of you, which is to be replicated in the minds of others. What's extremely interesting, I'm writing about this in my new book, but you know that we are, we're a species that really looks for attention one way or the other, right? That this is, and in fact, even the way we've evolved, we can, we have, you know, neuroscientists have now shown us that we have special areas of the brain, special neurons that are devoted to being able to see when people are looking directly at us, those neurons will fire. If people's eyes are directly on us, a few inches, a few centimeters, either way, other neurons will fire. So we have this detection system, right, of when people are paying attention to us. And I, you know, I've had experience with little babies, my own, and other little babies at such an early age, they are making eye contact, extreme eye contact. We're so dependent, we're a gregarious species, we're very, very dependent on the care of others for a very long time, we have a very long childhood and adolescence, it gets longer and longer, I know 45-year-olds now who are still adolescents, but that's another story. But so this dependence on our own kind makes us very susceptible to attention. So what we see in the Axial Age with these gods that most of, you know, how do we want to feel that we matter, it's put in terms of, you know, sort of the gods, but the Greeks were very special because the way that their stories of their gods develop, you don't want too much attention from these gods. Something bad always happens when a god pays too much attention to you. So you want to be glorious, but not so glorious so that the gods feel that you're competition. I think of them because I have older brothers and sisters, you know, that the Greek gods are sort of like older brothers and sisters, you know, they want you to emulate them and to revere them, but then if you start to surpass them, they're going to slap you back into your place very, very quickly. So it's, the Greek gods are something like this, so they develop this kind of, it was a highly religious society, saturated with religious rituals, but those were mostly to appease the gods, you know, to their apotropaic, that is warding off evil. You don't, you know, so don't pay too much attention and I'm paying proper respect to you. But in terms of what they wanted, the attention that they wanted to make them feel like they matter was from fellow citizens and from future generations. So do something big so that the poets will sing of you, which was their social media"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:52.720",
+        "message": "of the day, the poets. And sort of the fascinating turning point, which is also at the heart of your book Plato at the Googleplex, is when from kleos we come to the concept of areta."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:03.600",
+        "message": "Yes, yes. So areta is, you know, what excellence, our word aristocracy, you know, comes from this world, the rule of the excellent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:14.800",
+        "message": "Benjamin Javid translated it as virtue, but as you pointed out, that doesn't capture all its favors."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:20.120",
+        "message": "Exactly. So it originally had meant this, you know, sort of excellence. You could talk about the areta of a knife or of a horse, you know, so it was the excellence of this thing in ancient Greek. And it's really the influence of the philosophers, of Socrates and of Plato, how it comes to mean virtue rather than any kind of excellence, because part of the attack of the philosophers on the normative framework of their society, why Socrates was put to death, was that the claim is, you know, not just any kind of kleos will do the trick. It has to be areta, it has to be true excellence, and what they argue for is that true excellence consists in knowledge, wisdom, virtue, justice, courage, you know, the virtues. So the term undergoes this transformation. And you know, by the time we get to the Gospels, you know, written in Greek, areta simply means, you know, virtue. It just means virtue. This is the transformation that these philosophers who are writing, well not Socrates, he didn't write, but Plato, Aristotle, and the philosophers who follow them, that this was a transformation"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:52.120",
+        "message": "of the word. In fact, you point out how, you know, Plato's Socrates sort of begins to take areta away from kleos or the recognition and sort of shows that it can exist independent of recognition that you can be virtuous even if no one else sees your virtue. And I want to quote a great, a very nice passage that kind of illustrates that from your book. Start quote, in the Gorgias, is that the right way to pronounce it? In the Gorgias, Socrates is presented as asserting something so radical that his hearers think it has to be a joke. He would, he says, rather be treated unjustly than treat others unjustly. But if areta is conceived of as analogous to the health of the body, then Socrates' statement is hardly absurd. The injustice that we do involves us far more intimately than the injustice that we suffer. I don't only act out of character, my character reacts to my actions."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:50.400",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:19:51.400",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:52.400",
+        "message": "And it becomes this, it gets transformed in the Socratic-Platonic attack on their own society's values into, yeah, it's something internal. It's not the applause. It's not outer attention. In fact, you know, you may be getting no applause whatsoever. You may be getting a brooming cup of hemlock as Socrates got, you know, and yet it's this, if your character is being transformed in the right direction, this, this is what, what counts. And, you know, and then the, the, the whole question becomes, well, what is the right direction? What are the virtues? How do we know? How do we judge? Uh, what are the right virtues? You know, which becomes, you know, a central theme of philosophy and what is really knowledge, you know, becomes a central theme of epistemology. So philosophy is often running with this transformation of, you know, from the, the attention and approbation of your fellow citizens to know that that's not a reliable means of judging whether you're living your life as you ought to live it. And in fact, it's something far more private, something that takes a tremendous amount of striving, but not striving just to be replicated in other people's minds. In fact, you may be in the eyes of your fellow citizens, a nobody, a failure, a loser, um, to use one of the favorite phrases of our current president of the United States, you"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:27.720",
+        "message": "know, loser."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:28.720",
+        "message": "Everybody's a loser. Sad. Sad."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:31.720",
+        "message": "Um, you know, and, uh, yeah, so, you know, this is a very good example. I mean, I somehow, you know, being American, everything nowadays comes back to Trump, right? He colonizes our minds in a terrible way. But yet you look at this life, I mean, this is a person who is after, um, kleos, um, attention, outward attention in the biggest way possible. He has to be thought of by every citizen, every citizen on the globe, every human, and he is, um, is this a successful life by Greek standards? Yes. You know, by pre-philosophical, the Homeric ethos of the extraordinary, yes, he's an extraordinary person, right? He is replicated in all of our minds. Um, you know, what would Socrates and Plato have to say about him? We know what Socrates and Plato would have to say about him. And the fact that so many of us would echo Socrates and Plato's opinion, um, of, of, of this kind of kleos, this outward domination of the world consciousness shows how much, um, philosophy has in fact, uh, infiltrated, uh, our minds. This is one of the theme, you know, this, the, um, subtitle of this book is why philosophy won't go away. And this is an ongoing argument I have in my background is in science. I come from a science, you know, from physics and mathematics. Um, most of my friends and all of my husbands have been themselves scientists. And so this question of, um, what is philosophy adding here? And it's very hard to see philosophical progress because it's the progress with which we see, you know, those of us who are judging a person like Trump to be, you know, a failure, he's calling everybody a loser, but that he's a loser himself in the true sense, in the biggest sense, a waste of the human life, um, and a waste of tremendous privilege and resources. Um, why are we doing this? I mean, this, this, this is a, a, a kind of progress that was begun with Socrates and Plato's, uh, argument with those values of their own society. And that has, uh, you know, continued and infiltrated all of our, in fact, a very funny"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:49.040",
+        "message": "illustration of this progress of philosophy in your book, where you have all these dialogues with Plato in modern settings is when he's at the Googleplex and he's surprised to learn"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:58.000",
+        "message": "that slavery is no more."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:59.960",
+        "message": "He is charmed and beguiled by the arguments against slavery that the person who is with"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:03.760",
+        "message": "him gives him. Yes. And, and, and she, of course, you know, I made her, it's a little bit of comic relief, right? But she's the meteor escort when a writer is on a book tour, somebody meets them in each city and takes them around to all of their events. And um, and they, they tend to be usually, you know, very amusing people and, you know, charming, but you know, not, not intellectuals really. And I, so my media escort in this kind of telling how this very flaky kind of person"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:31.840",
+        "message": "is actually giving such a solid philosophical argument, which has come from Plato himself"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:36.440",
+        "message": "in some sense, because how does philosophy make progress? We don't make progress in terms of, um, experiments or, you know, laboratory empirical, it's not an empirical science clearly. Um, but the way we make progress here is, you know, we, we keep seeing the implications of, um, commitments that we've already made and the strongest being commitments to our own life that we ourselves feel that we matter, or in any case we want to matter, it matters to us whether we matter. That is what it is to pursue a life. Your life has to matter to you in order just to pursue it. Um, what are the, what, what follows from this? And, and so many times we don't see what follows from this and we were inconsistent and that's exactly how philosophy makes progress by looking at things that we've already committed ourselves to that we can't live our lives without committing ourselves to and seeing how we, how we are inconsistent, that this has consequences, logical consequences, and you know, we don't see them. And that's, in fact, this was this, uh, this is why the reductio ad absurdum, this form of argument was the favored form of Socrates, right? He developed this, you know, here you're committed to this, here are your premises, and yet you're not committed to this. Do you see the inconsistency? And he, he would point out to people their inconsistencies, which didn't win him great"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:03.480",
+        "message": "popularity. And it didn't work out well for the poor guy and, and part of the reason why it didn't work out well for him is because the Athenian sense of Aretha was tied up with the state. You had to have the validation of the state. And there's another quote, which, you know, if you replace Athenian with say American, the court might still make sense. Start quote, Athenian superiority drew itself to more superiority, intensifying its sense of his own exceptionalism, which typically happens with imperial powers."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:33.120",
+        "message": "Stop quote. Yes, exactly. Yes. And so, you know, it was a great, if you have a society whose, whose normative framework is built on, you know, everybody has to be exceptional. Well, the big problem is, of course, most of us are not exceptional, right? We're perfectly, but yes, I mean, by definition, we're ordinary, most of us. And so what, you know, what did you do? Well, you, I call it participatory exceptionalism. You know, you're participating in an exceptional city state and of course, Athens was the most, it was a given premise, a firm premise among all of the ancient Greeks of no matter what city state that they were the best in the world, right? This comes very naturally to our species. And you know, in fact, their word for a foreigner is barbarian because, and it comes from their word for blah, blah, blah, what, you know, just is bar, bar, bar, you know, you can't understand what they're saying. So they're barbarians, right? And it simply meant not Greek speakers. And so, but there was that, that kind of implication, lesser, there are lesser people. And then among these exceptional Greek speakers, the most exceptional, the creme de la creme were the Athenians, right? And it was, it was an imperial power. They were an imperialist over their fellow Greek city states. And they were also a great draw for their, for all of the most creative people. So you know, Aristotle was not born in Athens, he came to Athens, he came to Athens to study in Plato's Academy, the first European university that was founded by Plato. And so there was this, this sense that the way you can achieve something big and extraordinary is by being a citizen of an extraordinary state. So there's this nationalist fervor that is so strong because the whole existential longing to make something of your life was tied, tied up in this. And this is a way, of course, that we all, it's a way we all try to do it, by the group we belong to, you know, that this is a way of, rather than the values that we cultivate within our soul, the group that we belong to."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:00.800",
+        "message": "And where Plato, Socrates kind of moved away from this was by saying that it was in a sense by rejecting the Athenian notion of arete, and saying that virtue comes not from belonging to an exceptional state, but from knowledge. And I found it very fascinating where you talk about the sublime braid, which is the connection between truth and beauty and virtue, and the notion that from knowledge arises virtue. Can you explain that to me?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:28.480",
+        "message": "So it's, yeah, the truth, beauty and goodness are entwined with each other. This is so fundamental in Plato. One of the reasons I like Plato, although I do not think that everything he said was right, clearly not right. But again, how could I think that philosophy makes progress and think that everything Plato said was right? No, we can, we've made so much progress, we can look back at Plato and say, no, you were wrong about this, this and this, and many other things. But something that's very fundamental about him, he changed his mind many times. And this discipline that he really founded for us is a very self-critical, it's reason, but everything is open to reason. Everything has to be justified. And so there's a great self-critical capacity that has to be cultivated in order to be a philosopher. I feel that any philosopher who hasn't changed her mind many times over the course of her life is really not being a good philosopher because this is critical, this self-criticism. So but one of the things that stays permanent with him is that, what I call the sublime grade, the intertwining of these three most important things for him, truth and beauty and goodness, and that they all are connected, they're embedded with each other. You can't achieve any one without the other. So for example, how can we tell that something is true? There has to be a beautiful explanation. So if we have, you know, two or more explanations that are, that can accommodate all of the things that we're trying to explain, all of the evidence, we go with the most beautiful one, the most elegant one, in some sense the simplest one. But there's an aesthetic evaluation of that as a criterion for truth. Now, I come from a background in physics and that is very, very apparent in physics. You know that when we, for example, turned away from the geocentric view, that the heavens all revolved around the earth and moved the Copernican Revolution to the heliocentric universe, both systems could accommodate all of the empirical evidence, the movements of the planets and all of this, but one of them was really messy. You had to keep adding more and more epicycles. It was mathematically grotesque, right, and one, all you had to do was change the orientation and make the sun the center with the earth moving and the, everything became, the explanation itself became beautiful, became mathematically simple. We still, this is still the case, you know, so for, you know, all the way, you know, with relativity theory, when Einstein proposed the general theory of relativity, he had very little empirical evidence for it. What he had was beautiful mathematics, the mathematics is stunning, the theory itself is stunning and when it, it, it, he was proposed, the general theory was published in 1915, had to wait until 1919 until he had any empirical evidence for it. They needed a complete eclipse, a solar eclipse so that they could see whether or not, I won't, I won't go into it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:16.360",
+        "message": "I, I, I get that connection between truth and beauty, that a certain truth about the universe is expressed beautifully by E is equal to MC squared, say, but how does knowing"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:25.720",
+        "message": "that translate to virtue? To virtue. So here is what Plato believed. He believed that if we really assimilate truth, which takes, first of all, that itself takes virtue. It takes taming of the ego, right? Because we have a great tendency to believe what's true, what, if it most flatters ourselves, our place in society, our place in the universe, I mean, why did we think that the earth had to be the center of the universe with all the heavens revolving around us, right? It flatters our, our sense of importance in the cosmos, you know, so just to be able to attain the truth means you have to subdue the ego somewhat, right? But that also, when we see the truth, our perspective is so broadened. We see ourselves in this greatest perspective, the grandest perspective, and that itself, you know, expands our virtue, gives us a tolerance, and we don't take ourselves so damn seriously, right? I mean, this is, this is the aim of ethics to, we see ourselves in some perspectives in regard with other, of our fellow citizens and fellow creatures and our planet itself, our cosmos itself. This is what it is to be virtuous. So yeah, so that's how these things all become intertwined. I just wanted to say this, this one thing that Einstein had said when he finally was brought the evidence for the general theory of relativity, that yes, light, the mass of, the mass of the sun actually did shift light in the way that he had predicted, and it was a huge, you know, success for this theory. And so a philosopher of science, Hans-Reichenbach, asked him, how did you feel when you finally got news that your theory had been vindicated? And he said, oh, no, I already knew it had to be true because it's so beautiful. So the empirical evidence just didn't even matter so much. So you know, this, and this we can trace all the way back to Plato."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:41.600",
+        "message": "On that elegant note, we'll take a quick commercial break. We'll be back in a minute."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:35:45.880",
+        "message": "Hello, everybody. Welcome to a great week on IBM podcast. If you're not following us on social media, please make sure you do. We're IBM podcast on Twitter, Facebook, and Instagram. We launched our listener survey last week, and we'd like you to really participate in that if you haven't already. We're offering a free mug for a few select winners if you fill out the survey and give us your email address. So go to the website, ibmpodcast.com slash survey, and there's a link over there to filling out the survey. Please do. And we'd really appreciate that. On Cyrus Says, Cyrus' guest is policy professional Meghnad, as Meghnad sheds light on working with parliamentarians, some trivia about our laws, and his new podcast, How to Citizen. On How to Citizen, we're on chapter six, understanding our criminal justice system. Our guest for the episode is comedian Aishwarya Mohanraj. The host and Aishwarya ponder the inequalities of justice and what would be a way to put it right. On Simplified, Chuck and Srikant take another look at Brexit and the predicaments in store for the UK in March. On Puliyabazi, the host is in conversation with Dr. Anil Shukla, who served as Deputy Election Commissioner to investigate the Indian electoral process. On the Habit Coach podcast, Ashwin talks about how the technique of box breathing helps fight anxiety. And with that, let's continue with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:53.800",
+        "message": "Welcome back to the scene in the unseen. You know, one of the most revelatory points while reading your book was that way back then, when all the other normative religions were sort of taking root, you had Socrates basically demolishing the notion of God by asking Yutipro, I hope I'm pronouncing that"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:12.000",
+        "message": "right. Yutipro."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:14.000",
+        "message": "Yutipro. Yeah, this fantastic question where he says, quote, is what is holy, holy because the gods approve it? Or do they approve it because it's holy?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:22.320",
+        "message": "Yeah, this is fantastic. It's one of Plato's early dialogues. And the argument that Socrates puts forth there, or that Plato has Socrates putting forth there, has been repeated by freethinkers throughout the ages. You know, Spinoza, who's a great favorite philosopher of mine, the 17th century Jewish rationalist philosopher, very much following in the footsteps of Plato, you know, it's repeated by him. And in our own day, Sam Harris, you know, repeats this argument and people don't always attribute it to Plato, but he's the one who first formulated this extremely elegant argument."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:07.360",
+        "message": "Just for the listeners, I'll kind of quickly explain what it's essentially saying is that if there are normative moral codes that you follow because God tells you to follow it, are you doing that because he, like, is he telling you to do good things because there is a reason for those to be good, in which case those reasons are enough in themselves."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:26.920",
+        "message": "You don't need the God. Exactly. And if there are no reasons, then why do it? And why do it? I mean, if it's simply a caprice of God, you know, a whim, you know, do this, you know, give charity to the widow and to the orphan rather than, you know, persecute them. There's no additional reason that dictates this moral choice. Does that really answer the question we're asking when we want to know what makes good actions good? What makes evil evil? Just the whims and caprices of an immoral God. So no, we feel not, you know, we feel no. There's a reason God wants us to do this rather than that. Well, then if there's the reason, that's the reason, and God is redundant. It's a very elegant argument. And you know, I think sometimes it's against my will in certain debates with theists who want to argue there can't be no morality without God. And you know, this is an argument that I have had to face so many times. And you know, you give them, for me, the best response is Plato's argument, you know, 2400 years ago, pre-Christian, pre-Jewish, you know, but that it's, yeah, it's a very, very"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:48.240",
+        "message": "elegant argument. And this brings me to my next question, which is really puzzling, which is that you have this outbreak of what we would call rationality in this period where Socrates and Plato and Aristotle are doing well. And then you have this long sort of interval until the Enlightenment in the 18th century before you have that. And the rest of the time is all of those religions, those monotheistic cults, all of that thinking you should have, you would think would go away with Plato's question, at least the rationalism would survive. But it disappears for several hundred years."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:21.200",
+        "message": "Why is that? Well, you know, partly, you know, one of the problems with this religion of reason, you could almost call it, right, or a normativity of reason, is that it requires a lot of hard work. It requires education. You don't get the most comforting answers from it, right? You know, it depends on us. It's very human-centric. It makes the universe a kind of cold and uncaring place, an impersonal place. It's not surprising it broke out in ancient Greece, given what they thought of their gods, which were, they're downright, you know, hostile to us. But it doesn't, whereas the, you know, the Judeo-Christian Muslim view, which captured the world, is that it's very powerful. It gives us a sense of cosmic significance. You know, I, myself, had started out that way. I was born into an extremely religious family. I know what it feels like to make the transition of feeling, you know, that God is watching everything I do, which is terrifying because, I mean, it's really, there's no privacy whatsoever. And also, you know, he's a very stern God. He's judging if you do and, you know, in Judaism, which was my birth religion, it's, you know, there are laws for absolutely everything, laws specifically for women to keep them in their place. And these rankled me very much. These did not go down well with me. But one thing you never doubt, and that is that you matter. I mean, because you matter to the Lord of the universe. He created you intentionally. He has designed, you know, he created you rather than somebody else. So you have your place in the universe. You know, what I was saying about that village that, you know, that predates the axial age, in some sense, it makes the universe a village, you know, that we all have, I've never thought of that before, actually, but that we all have our place, you know, with the head chief, you know, is there. And he had a really great..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:38.440",
+        "message": "Always a man."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:39.880",
+        "message": "Always a man. And he had, you know, he has designs on us. And it's a comforting and it sort of replicates, you know, where we came from, that tribal village life. So it is our default, I think. And reason is pushing against that. And so I think it was such a powerful replication of the village intimacy, only on the cosmic scale that was presented to the world. It's not surprising. Also, it promises us an afterlife. I mean, it makes us extremely, you know, it assuages some of our deepest fears, which is that, you know, in the great scheme of things, we're really not so very much. No, we don't want to feel that. We fear death. All of these things. And it really palliates and speaks to our deepest fears."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:36.200",
+        "message": "One of the interesting points that you, the arguments that you address in the introduction to your book, in fact, is about how people often say that philosophy, even today, is just a set of footnotes to Plato, for example. And people therefore make the argument, including I'm sure some of your scientist friends, that science has progressed so much, you know, no one would say that science is like footnotes to Pythagoras or whoever. But with philosophy, we keep going back to Plato and finding it very relevant. And you can actually begin an argument there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:09.480",
+        "message": "What do you have to say to that? Several things. I think that, you know, it was Alfred North Whitehead, a 20th century philosopher and logician who had said that the truest thing you can say about Western philosophy is that it consists of a series of footnotes to Plato. And this is a very good soundbite, but like most soundbites, it's a gross oversimplification. What you can say about Plato and the reason that he's so very important is that he had a real sense for what the philosophical questions were and what answers a philosophical question and what doesn't answer a philosophical question. And he found philosophical questions lurking in every area. So he lays out the landscape of philosophy, that we can say, the different areas, you know, philosophy of religion that we spoke about a little bit and, you know, and theory of knowledge, epistemology, moral philosophy, political philosophy, you know, all these different, but that there are always these philosophical questions that arise that are not one with the fields themselves. They're meta questions. They're about the philosophy of science, you know. So it's not that he laid out all of the answers, as I say, we can look back and see how many mistakes he made. I mean, his theory of forms. I don't know anybody who holds by this philosophy of language. He asked the important questions and he proposed his theory of form. What is a meaning? How does a word acquire meaning? And he had this theory of forms. We have philosophy of language now, very complicated, very sophisticated. It's not Platonic, right? It's not Plato's answers are not the answers, but Plato's questions, time and again, are the questions. But we've made, we've made progress with them. The other thing is the more scientific progress we make, the more philosophical questions are churned up by the scientific progress."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:01.480",
+        "message": "And so, you know, in fact, as you say, philosophy raises the proto-scientific questions that"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:06.680",
+        "message": "is, yes. So often philosophers will first ask the scientific question that kind of motivates the science and finally the methodology emerges that could, that could answer these questions. But that's not its only role. It also looks at what science, you know, the current science of the day is telling us and helps to determine what it's answering and what it's not answering. So for something like, for example, neuroscience. So we've learned so much more about consciousness, you know, through cognitive science and through neuroscience, we can map the brain and see where different aspects of consciousness, where they're located. And, you know, I think neuroscience has made it extremely probable that consciousness is a brain process, right? That it's, it is, it is a material physical process. Has it thereby eliminated the notion of agency, that we're actually in control of our actions? Has it shown that we can possibly be free, that the sense that we have of actually making choices of, of just deliberating and deciding is an illusion. So this is a philosophical question. So look at what science has so far established and then see what it implies, what it doesn't imply. What's, what's still open. Scientists are often very eager to, to interpret their findings in the broadest way possible. So you'll find many neuroscientists, you know, I mean, we've answered all of these philosophical questions and that's where people trained in philosophy, you know, they have to look, know the science, be trained in the science. But as the philosophical question, does it really entail what the scientists are saying that it entails? I mean, in physics, which was the, the, the science, the scientific field that I'm most interested in, that I had most studied in university, there is, you know, we have this very strange theory, quantum mechanics, and we don't quite know how to interpret it. And you know, when I was taking my physics courses, there was one view, you know, about quantum mechanics, which is, was associated with Niels Bohr, was called Copenhagen interpretation, which is that, you know, things don't exist until you measure them. So to ask where is the particle before it's measured, where, you know, where had it been before, is a meaningless question. You know, this is a philosophical view. And what happened was philosophers began to examine this view and say, look, here's quantum mechanics. Here's what you found. The interpretation of quantum mechanics, this is philosophical, is it good philosophy? And they're the ones who really prodded physicists so that they came up with other interpretations as well. There's the Bohmian interpretation. There's the multiverse interpretation. These things were first proposed by, by philosophical thinking. So this is another way in which the more progress we make with our science and getting into stranger and stranger things, to see what it implies and what it doesn't imply. And that, that is, that's the work I think very much of philosophy. What philosophy is after is to maximize our overall coherence, to see what we know and what other possibilities that leaves open, closes off, to try to make us as consistent and coherent. That has always been the role of philosophy ever since Socrates was wandering around asking his annoying questions of his fellow citizens."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:13.440",
+        "message": "And just speaking of those annoying questions and what the task of philosophy is, there's another great passage from your book I'd like to quote, which is, quote, truth cannot be transmitted from one mind to another, the pouring out of the full flask of a master into the passive receptacle of a student. Truth seeking comes from the violent activity of philosophy, a drama enacted deep in the interior of each of us and which manages in its violence to deprive us of positions that may be so deeply and constitutively personal that we can't defend them to others. This violent activity is personal, even as it leads one in an impersonal direction where interpersonal agreement is possible. Stop quote. And this kind of also sort of describes the Socratic method of how he did his dialogues and ask questions and got down to the essence of everything. So my question to you is, would Socratic dialogue therefore be effective today in this polarized"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:05.640",
+        "message": "age?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:06.640",
+        "message": "Oh, I certainly, I certainly think so. He would get torn apart on Twitter, for example."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:11.440",
+        "message": "Yeah. Yes. He'd seem like a troll. Yeah. So, you know, yeah, one of the things that I think is very true of the philosophical enterprise is the dialogue is extremely important. You know, it began with the dialogue. Socrates never even wrote anything down because he believed in the lived conversation. It has to be minds clashing with other minds, and that's the way these deep intuitions that we don't even realize we have, because they're so deep down within us, that they can be brought to the floor and other people who don't share your intuitions will say, defend them, account for them, tell us why I ought to believe in them. And then, you know, sometimes you realize you really have no reason whatsoever. And that's how progress is made. One of the wonderful things that's happened in our own day is that, you know, more and more people are brought into this conversation. A person like me, a woman, would not have been part of this conversation for very long. And I have seen over the course of my lifetime how this has changed. When I entered into philosophy, I was the only woman in the room, especially because I did philosophy of science, philosophy of mathematics. These were really considered unfeminine, right, areas of philosophy. I was the only woman in the room. I'm not anymore, right? There are many women. But this itself has brought philosophical questions into the conversation that were invisible to men, such as raising children, you know, questions about what is the right way, you know, children have been, care for the planet. I mean, the ecological concerns have become, you know, in general, for all of us, a very, very important part of philosophy, but more what we call applied ethics, rather than just grand theories of ethics, applied ethics, you know, really specific questions that are facing us have become much more prominent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:09.600",
+        "message": "Like the trolley problem applied to autonomous cars, for example."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:13.280",
+        "message": "Yes, yes, things of this sort that have, for some reason, you know, that women have found this, less grand theories and more applied ethics, you know, that are, you know, so ecology, family ethics, medical ethics, you find many, many women in medical ethics. So this is interesting to watch, and even the analogies that are, you know, we are always, one of the things that we do to test our intuitions is to do thought experiments, you know, and they're pretty wacky, often, the trolley problem seems to be an example of a thought experiment. The kinds of thought experiments that I hear now being proposed are often, you know, sort of coming from a woman's life, from a woman's perspective, a woman's sense of priorities, and so the wider the group that we bring in, people from different cultures, the better, because we come, the different cultures, the different life experiences give us such different intuitions that are invisible to the person."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:24.320",
+        "message": "But why I brought up the Socratic notion of dialogue in the modern age was, does it worry you, for example, that in the last 10 years, what we've seen with social media and people living so much of their lives online, is that people shut themselves off in echo chambers, where they spend a lot of time posturing to raise their status within their in-group, but don't really talk to each other, they just talk past each other."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:45.240",
+        "message": "You know, when the World Wide Web, as we used to call it, was first proposed, this seemed the most liberating idea to a person like me, oh, now I can talk to people in India, I can talk to people in Afghanistan, and in Saudi Arabia, and I do, actually, talk to,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:04.440",
+        "message": "I mean, it can be used this way. And the huge net benefit remains."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:07.440",
+        "message": "Yes, but what we hadn't foreseen is what happened. Human nature, the worst of us, asserting itself in this new social media range. And so these echo chambers, and you only search out your own opinions that are so validated and strengthened, because everybody you're talking agrees with this. So, and this is, of course, the exact opposite of what the Socratic dialogue is supposed to be about, which is, again, I, myself, it's interesting, because psychologists have shown us that we, there's an endorphin lift, there's a kind of surge. When you hear your own opinions replicated in others, you feel good. And so..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:59.360",
+        "message": "So it's healthy to be in an echo chamber?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:02.200",
+        "message": "Yes, it feels good. But you know, as soon as I read this, I started to read publications, you know, newspapers and periodicals that are, that I very much disagree with, right? And yes, I feel angry, you know, I don't feel, I don't feel comfortable reading these things. But I, you know, I force myself to, and I force myself to think out, well, what are they assuming that I'm not assuming? How do I defend my assumptions against their assumptions? It's a lot of work, right? This is a lot of work, but, and it's uncomfortable, and it doesn't feel so very good. But I think, I think that this is part of what it is to be an enlightened person. To be an enlightened person is to be aware of the things that you're assuming, and that they're not necessarily true to other people, and do you really have good reasons? Could you convince them? What's the best that you could give them to try to change their minds? If we did that..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:04.040",
+        "message": "Are you generally hopeful that we're moving in the right direction?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:07.040",
+        "message": "No. Oh, I don't know. Yes, maybe. I don't know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:11.040",
+        "message": "I don't know."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:12.040",
+        "message": "Okay, well, one, I've taken enough of your time. I know you've got to go."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:14.680",
+        "message": "So one, one kind of final question I've been waiting to ask, and you kind of alluded to it a while back. Do you believe in free will? Because when you talk about virtue coming from knowledge, if you have complete knowledge, doesn't that then make philosophy meaningless and virtue moot?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:31.160",
+        "message": "Oh, that's a deep, it's a deep question. You know, I believe in, you know, to believe that we have this ability to look at our own thought processes and be self-critical about them and change our mind about them, without believing in that degree of freedom, you know, we can't make any sense out of what it is to be rational. So if we're committed to reason, we have to be committed to some degree of freedom."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:06.920",
+        "message": "To at least the illusion of free will."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:09.720",
+        "message": "Yeah, yeah. No, I think we have to be even more. It's like, to say that there really is, you know, rational behavior, rational beliefs justify belief, and those which are irrational and unjustified, and that therefore ought not to be believed, right? There is a normative presupposition that is enfolded in epistemology itself. To be committed to that, we have to be committed to some degree of freedom. When I see, when I examine my own thought processes, because you come at me with these trenchant questions, and I say, well, I really don't know how to answer them. I better go back to the drawing board and rethink it, and maybe I will, I will change my mind. That is, that's a presumption of being a reasonable person at all. So if, you know, what we have learned undermines reason itself, then we have no reason to even trust what we have learned, right? It's a, it's a kind of Pyrrhic victory. It will, it will destroy any claims we have to, to truth, to knowledge, to reason. So to that degree, I think we have to, we have to countenance free will. Rebekah, thank you so much for coming on the show. Thank you. Thank you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:29.880",
+        "message": "I've enjoyed our conversation. If you enjoyed listening to this episode, then you can follow Rebekah on Twitter at Plato Book Tour, all one word, at Plato Book Tour. You can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse past episodes of The Scene and the Unseen at sceneunseen.in and thinkpragati.com."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:59:49.640",
+        "message": "Thank you for listening. In every episode, we get a new guest and discuss one chapter from the 8th grade civics textbook. Think about it as three friends revising before a test and we go back to school. There's nostalgia. There's trauma. There are lunch breaks. There are favorite teachers. There are horrible teachers. There's everything. So every Tuesday, we bring in a guest on the podcast and we ask them a very simple question. Do you know how to citizen? Meghna, I think the question is, do you know how to citizen? But Shreyas, I'm asking you this question, do you know how to citizen? Hi listeners, we at Aditya Birla Sun Life Mutual Fund have come up with a special podcast series called MF101 in collaboration with Bloomberg Quint. MF101 is an informative series that will help you understand the recipe behind mutual fund investments. And what's more, it's coming from the chefs of the mutual fund buffet table from the very own fund managers and analysts who are the manufacturers of the funds that help you realize your investment goals. New episodes out every Monday. You can listen to the show on the IBM podcast app or wherever you get your podcasts."
+    }
+]

@@ -1,0 +1,347 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "I take a shot at answering all these questions and many more. I aim to go beyond the scene and show you the unseen effects of public policy and private action. I speak to experts on economics, political philosophy, cognitive neuroscience and constitutional law so that their insights can blow not only my mind but also yours. The Scene and the Unseen releases every Monday. So do check out the archives and follow the show at sceneunseen.in. You can also subscribe to The Scene and the Unseen on whatever podcast app you happen to prefer. And now let's move on to the show. I was passing by a football stadium the other day and I saw that there was a giant party going on inside. There was loud music and the aroma of delicious food. I decided to gatecrash the party. I sneaked in and I found that there were hundreds of people, mostly pot-bellied men, dancing wildly, shooting guns in the air, hugging each other and shouting, Modi ji zindabad, Modi ji zindabad. There was a giant picture of Narendra Modi on one wall with garlands around it. The sound system blared out loud bhajans with a disco beat. I stopped one gentleman who had an open bottle of Old Monk in his hand and asked him why he was celebrating. He told me, because achche din are here, Modi ji has brought us achche din. And at this, the crowd started chanting, achche din, achche din, achche din. Wait a minute, I asked the guy, you surely don't believe in that achche din nonsense, do you? We know now that those were empty promises. The man turned to me with a beat-fixed smile. They weren't empty promises for us, he said. In fact, our dins could not be any more achche. You see, we are chartered accountants."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:34.640",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:43.400",
+        "message": "Please welcome your host, Amit Badma. Welcome to The Seen and The Unseen. In this episode, I'm going to be talking about the GST, the goods and services tax. Of the Modi government's big economic measures, most people now agree that demonetization was a huge failure, if not an outright humanitarian disaster. I call it the largest assault on property rights in the history of humanity. But on GST, opinion is mixed. People like the idea of a good and simple tax, as it is sometimes called. And I must say that the idea behind the tax appeals to me as well. But is it really a good and simple tax? Most critics say that the implementation of GST was badly flawed, and argue only about the extent of that. Well, to discuss the GST with me, I've invited my good friend Shruti Rajagopalan, who teaches economics at Purchase College in the State University of New York. A quick disclaimer, my conversation with her was recorded on Skype, so I apologize in advance if the sound quality drops in parts. But before we go there, let's take a quick commercial break. If this happens to be the only podcast you listen to, well, you need to listen to some more. Check out the ones from IVM Podcast, who co-produced the show with me. Go to ivmpodcast.com or download the IVM app, and you'll find a host of great Indian podcasts that cover every subject you could think of. From the magazine I edit, Pragati, at thinkpragati.com, there is the Pragati podcast, hosted by Hamsini Hariharan and Pawan Srinath, there is a brilliant Hindi podcast, Hulia Bazi, hosted by Pranay Koteswamy and Sourabh Chandra. And apart from these policy podcasts, IVM has shows that cover music, films, finance, sports, sci-fi, tech, and the LGBT community, all under one roof, or rather, all in one app. So download the IVM Podcast app today. Shruti, welcome to the scene in the unseen. Hi, Amit. Shruti, I've started this new tradition on my shows of just chatting with my guests and asking them a few personal questions, so the listeners can get to know them a little better. Otherwise, one presumes that listeners knows them as well as I may, and we go straight on to the dry technical stuff. So you're an economist and a lawyer."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:00.880",
+        "message": "How did you land up here? Because I have made many, many, many mistakes in my life. No, I studied economics at the undergrad level at Delhi University, which was great fun. I always thought I would end up being a lawyer and ended up going to Delhi University to the Faculty of Law to get a law degree. And about a semester or a semester and a half into it, I really didn't enjoy the course at all. I loved studying the law, but I was quite certain I won't enjoy the practice. And as I did more legal research, I figured that at the core of it, I'm, I'm an economist. So I don't think in normative terms, I really think in positive terms as an analytical framework. So even though I loved studying law, law doesn't come with its own analytical framework, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:55.240",
+        "message": "Can you explain that in simple language, not thinking in normative terms and thinking in"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:59.840",
+        "message": "analytical terms? So you can basically make arguments on either side when you have a legal case. And this is not to say that, you know, every argument is equally valid, right? So it depends on what kind of structure you have, what is the style of argumentation? What is the standard in each particular legal system? But at the end of the day, you don't get an answer like, you know, if you ask me, Shruti, I'm thinking of taking a walk out of the window on the third floor, what do you think is going to happen? We all know what's going to happen, you're going to fall down, right? Similarly, economics gives you a very, very clean analytical framework, right? This is the law of opportunity cost, the law of scarcity, right? All positive analysis is strongly rooted in these ideas. And if you ask like the window question, what happens when the price of onions goes up? A simple answer is the quantity demanded of onions goes down. So economics gives you a very clean, positive framework. Now, you may not like the answer that the quantity demanded of the onions went down, right? You may not like the outcome. But it gives you a very clean way to think about the world, right? How does how do people in the world behave when they confront scarcity? And when they have certain incentives provided by the institutional structure? So I found this very missing in law. In law, people make legal decisions and create legal policy as if they were not to be implemented by humans, right? As if these these policies are going to be implemented by an omniscient, benevolent, all knowing, just, fair, mythical creature. So that part of the law really bothered me. And so I decided that the correct field for me is really law and economics, which allows me to look at legal structures, which I'm fascinated by. But the analytical framework comes from economics, all the assumptions that you make about the world come from the discipline of economics, so simple assumptions, like, we analyze people at the individual level, not at the organizational or the structural level, right? That individuals are self interested, and they respond to incentives, and that we live in a world of scarcity. So if you start with these basic assumptions, you would be surprised how quickly you can get insight into how complex systems work, which is the entire discipline of law and economics. So that really fascinated me. Then I decided, you know, I will go into law and economics. And I eventually ended up getting my PhD in economics. I was very interested in some sub fields. One of them is constitutional economics. And the other is public choice. So I went to George Mason University, where, at the time, James Buchanan, Gordon Tullock, you know, sort of the, the really, the people who were there at the foundation of these disciplines were teaching there, and their students and their tradition. So I went to George Mason to study this stuff, and eventually, just just fell in love with"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:03.400",
+        "message": "it. And can you sort of tell our listeners a little bit more about what is constitutional economics? And what is it like, what do you study when you do that? And what is public choice theory?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:13.480",
+        "message": "So constitutional economics is just what I was telling about law and economics, but specifically for constitutional rules, there are two parts to it. One is sort of like, think of it as a sort of thought experiment. If five people got together, and their end goal was x, what kind of rules are they likely to design to get x? Okay, so this could be you play poker, it could be at the level of poker or parlor games, right? Or it could be at the level of what should be the individual rights framework in a system. So when a good example of constitutional economics is something like analyzing the difference between presidential and parliamentary systems, right, this is at the constitutional level. If you were framing a constitution today, how would you frame it? Would you go for a presidential system? Or would you go for a parliamentary system, and that depends on what the individual framers have in mind as their end goals, right? So some people believe that power is very much concentrated in the executive, in a presidential system. So people who are worried about that kind of concentration of power or interest group capture might prefer a parliamentary system, right? Some people believe in a parliamentary system, there's too much churn, there's too much law ruling, because there's no, doesn't produce like a clear victor, right? So people who are worried about those concerns prefer a presidential system. So it really depends on who are the people coming together to form the rules, and what are their end goals with respect to those rules. So that's one. The other part of it is what are the consequences of these rules, right? And we've done a couple of episodes on this. What are the consequences of, for instance, the eminent domain provision or the lack of it in the current Indian constitution, right? So when you have weak constitutional rules, how do individuals respond to that system? And what are the good or bad or terrible consequences that take place? We did something similar on constitutionalizing caste, where we talked about what are the incentives for people of all different castes to hold on to their caste identity or to let it go in a market system vis-a-vis a reservation system. So these are some basic things. I mean, this is these are some basic examples of, you know, work that can be done in constitutional"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:32.480",
+        "message": "economics."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:33.560",
+        "message": "And what about public choice? Public choice is much broader than this. It is basically the analysis of political decision making. So it's the economic analysis or the positive analysis of political decision making. So we go back to the assumption that we were talking about a moment ago, which is we assume, you know, about 50 years ago or 70 years ago in political theory, people would say the executive branch believes this, the judicial branch believes this, right? So it's done very much as if the judicial branch is like this, you know, vague structural thing, which is a different entity, not exactly made up of individuals. So the first thing public choice did is break it down to the individual decision making unit. Right. So break it down to what are the incentives of a Supreme Court judge within the judicial system, of a high court judge, of a judicial clerk, right? So at each level, you can break it down to what are the incentives of the actors acting within the judiciary. The second part of it was in terms of political decision making, the attention shifted from intentions to incentives. Right. So while we like to assume that everyone in office is very well meaning, what are actually the incentives that these individuals confront in their daily work? Right. So you have written a fair bit about this, about how bureaucrats are really interested in sort of protecting their turf and increasing their budgets and increasing their authority within a system. Right. So Gordon Tullock's bureaucracy was a foundational work in this realm. So these are sort of some of the things in public choice. The other aspect of public choice is voting theory. Right. So earlier, the idea was that people are self-interested when they go to buy apples or oranges. But when they go to the voting booths, they suddenly become these very benevolent public spirited creatures. Right. And public choice introduced the idea that that's not true. You are the exact same individual who responds to incentives in the same way, whether you're buying apples or whether you're going to vote in a voting booth. Right. So that brings up all sorts of issues, which is, are the incentives in the political decision making framework as robust as the incentives within market decision making or within a firm or within a family? Right. How do you think about voting identity within a collective? Right. How do you think about voting in a primary system versus the final system? So just lots of voting theory questions were answered by public choice. In India, the most relevant would be we have a system called the first past the post. Right. So whoever crosses the finish line first gets the parliamentary seat or gets the any legislative seat. And that number need not be 51 percent. So imagine a highly fractionalized constituency where you have about seven or eight main contenders. We have a number of constituencies where the victor has received only about 25 percent of the vote, sometimes 10 percent of the vote. Right. And this is 10 percent of the 46 percent who showed up to vote of the adult population, which is allowed to vote. So really a fraction of the people can help someone win a parliamentary seat. Right. So in the case of, you know, the UPA versus the NDA outcome of the last election, if you notice their vote shares aren't that far apart. Right. But, you know, under the leadership of Rahul Gandhi, they barely got about 44 seats and NDA managed to cross the finish line."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:27.440",
+        "message": "In fact, it's interesting that in the 2014 national elections, BJP got pretty much the same vote share that they did in the subsequent Delhi election, where they only got 8 on 9"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:38.360",
+        "message": "seats. Yeah, exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:40.360",
+        "message": "So, you know, how, how much of a difference those dynamics make?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:43.760",
+        "message": "Exactly. And much of this is about first past the post system. It is about how the constituency lines are drawn, right, how population is changing, how identities are changing, because we vote very much along the lines of religious linguistic caste identities in India. So there is like just a tremendously rich literature in public choice talking about these questions, you know, which which people can write about with respect to India also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:10.480",
+        "message": "And not enough people in India know about it or write about it. And this is something I keep saying that, you know, public choice theory is not like some arcane branch of economics, but it's something that should be essential knowledge for every Indian. Because at its core, it's, you know, economics at its core is a study of human behavior. And what public choice theory teaches you is that government is not some mythical benevolent beast that we have built up, which, you know, acts in a particular way, but it's composed of individuals at various different levels who have various different kinds of incentives available to them. And they act according to those incentives, which is why, as I like to say, not every politician is a bad person. But it is safe to assume that every politician is corrupt, because power corrupts. But that's that's a subject for another episode entirely. And in fact, we should do an episode on public choice sometime."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:59.240",
+        "message": "Absolutely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:00.240",
+        "message": "But let's get to the subject at hand, which is GST. Now I've done two episodes in GST before this one with Devangshu Dutta, one with my frequent guest and our mutual friend Vivek Kaul. With Devangshu I've done an episode before GST where he kind of spoke about how the concept of GST is great, but he is worried that the implementation will be flawed in exactly the ways that it turned out to be, you know, too many categories and too many exemptions. And instead of being a good and simple tax, it's just one mindlessly complex beast that might even make things worse. And Vivek pointed out concrete examples of some of this, for example, bringing up the point of whether KitKat is a chocolate or a biscuit. And when you have so many categories and exemptions, you just raise the cost of doing business instead of bringing it down. You might reduce friction in some areas, such as you know, different interstate taxes when a good crosses borders or whatever. But you actually increase the complexities in some other ways. And the reason I asked you to come on the show and talk about GST is that you did this excellent column from Mint called Simple Rules for a Complex World, which borrows this title from a book by Richard Epstein, which you refer to. And I wanted you to elaborate on that a little bit, because that really lays bare very well what some of the problems with our current GST are."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:20.840",
+        "message": "OK, so I'll start with the idea of the title and then expand on to GST. So Richard Epstein's book, and he gets his intuition originally from Frederick Hayek, is that as the level of complexity increases in society and the economy, what we actually need are simpler rules to help us navigate through the very complex choices. Right. So there are two ways people think about something. They think as the level of complexity increases, they should have more rules, more regulations, more sub regulations that adapt to that very specific situation and so on and so forth. And Richard Epstein, following Hayek, said not really, actually, because the level of complexity in the economy is so high, it is almost impossible to make rules for that level of complexity. So what we end up doing is somewhat, you know, some mid-level of complexity of regulation, which really hampers individual behavior, sets up poor incentives, makes it very difficult to comply with that regulatory framework. So what we need is very, very simple, bright-lined rules, which are easy to understand, easy to navigate, easy to resolve disputes over, so that people can actually go about spending their time navigating the wonderful complex economy and the world we live in. So that's the idea of the book. Now coming to GST, I really enjoyed the episodes by Devanshu and Vivek. And I think my intuition about how GST has played out is very much in line with theirs. So just to give our readers some background, GST was supposed to be, I mean, when it was originally announced, they said, you know, one country, one tax, right? That was the idea. And the reason that was the idea was India is a federal system. Every state and union territory had its own set of state taxes across different kinds of goods and services. And one major problem in India was when you had interstate trade, that is, you know, if you wanted to sell something that was produced in Maharashtra and take it to Gujarat and sell it there, you would get stopped at all these different checkposts, right? And the purpose of these checkposts was to pay for the differential in taxes between those two states. So the idea was we unify the entire country under one tax system, and this way you have far better seamless movement of goods and services. So in that sense, this idea was just a fantastic idea, because, you know, you've written about this and many people have done studies on, you know, it takes 45 days to cross from West Bengal to Gujarat in a truck full of, you know, goods, which basically means all your perishables are destroyed, which means farmers can never really get a single unified market and actually get a better price for their goods."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:15.040",
+        "message": "So there were a lot of problems for the regular guy, as in, if I may interject, there's a funny illustration of which this which comes to mind, which I think Mihir Sharma mentioned in his book, Restart, which is I forget the two cities involved. But if you want to shift goods from Madras to Bangalore, Chennai to Bangalore or Chennai to Hyderabad, I forget which exact cities there are two of those three, then it's cheaper to do it via Paris indirectly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:40.040",
+        "message": "I'm not surprised. And you know, and that's mind boggling, it is mind boggling, because basically what that means is the checkpoint is placing a very high compliance cost, or the differential rates are so high, you'd rather go abroad, pay customs duty and bring it in."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:55.560",
+        "message": "Because one of the ports functions better. It's more a function of the delays plus the bribes."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:00.600",
+        "message": "Exactly. So now, here there is, you know, I mean, Mihir makes very, very clever points. And I don't know if he was hinting at this kind of regulatory arbitrage, which is, you know, it's easier to bribe the customs official, they're cheaper than the guy at the interstate checkpoint could be. But you're absolutely right. I mean, these are the sorts of problems. And now, imagine this not for, you know, a move between two cities is a one time thing, maybe you move once a decade, right? We're talking about this happening for farmers, for small manufacturers on a daily level. Right? Imagine what a pain in the ass it is for people who are producing perishables for people who are in dairy business, right? If you can't get your goods across the border quickly, exactly. So basically, India was a highly fragmented market. So you know, kudos to the various governments in the past who tried to do this, and to this government, which finally managed to execute it. And in all fairness, the moment the GST was announced, you know, about 20 states or 22 states immediately lifted their border checkpoints, which was quite a remarkable result. And I'm not saying corruption went away overnight, but I'm saying a system that had posed so many problems, it could be solved with this one short tax system, which is quite fascinating. Now having said that, the beauty of a GST system lies not just in its ability to unify a territory under one umbrella, but also the way we would judge any other tax system, which is, you know, is it simple? Is it fair? Is it efficient? And on these margins, as you have discussed with Vivek, and as Didi's intuition was correct, the GST fails quite badly. So just to give you a sense of what is happening today with the GST, India has five different GST rates, 0%, 5%, 12%, 18% and 28%, right? And that is just big categories. Now in addition to those rates, you can have a cess. So we have a cess on entertainment. We have a cess on luxury goods in some states. We have a cess on petrol and diesel, in addition to this GST rate that is imposed on them. In addition to that, there are some goods which are getting special rates, hint hint Gujarat, right? So gold is taxed at 3% GST, precious gemstones at 0.25% GST, right? So you have a system where even though it might be an improvement over the previous system from a jurisdiction point of view, that is, you know, you unified the country under one tax system, what you've essentially done is you have lots and lots of rates and classifications. And as would be the case in any tax system, which is moving from one kind of tax system to another, there is a lot of confusion over what is the GST rate to be levied on a particular"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:54.640",
+        "message": "good. Right? In fact, before you move on, I'll just put these five rates into perspective. In your article itself, which by the way, for the benefit of the listeners will be linked at the bottom of the podcast, according to your article, you cite the World Bank India Development Update 2018. And you say that of the 115 countries with GST, 40 countries use a single rate, just one tax instead of these five, and 28 countries use two rates. And we are in the company of Italy, Ghana, Pakistan and Luxembourg as the only countries with four or more rates."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:27.480",
+        "message": "Exactly. And you can imagine, I mean, other than Luxembourg, which can also be a regulatory nightmare, I am guessing you don't have any positive things to say about the economy of the other"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:38.400",
+        "message": "three. Right, right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:40.400",
+        "message": "So it's what we have chosen is in the spectrum of global GST frameworks, we have chosen the most complex. Right. Now, the defenders of the government say we didn't exactly choose it. This is how, you know, this is how the chips landed, because you had to make all these deals and persuade all these different states to come under the umbrella. And I can appreciate that there is a complex negotiation at play. But having said that, the system we have today is just too complex. So, you know, Vivek's example of the, is KitKat a biscuit or a chocolate? It sounds cute and funny, but at the core of it, there's a really, really big problem, which is, let's say we figure this out for KitKat. What about the next good and the next good after that? Right. So I had a few examples in the article, which is things like, is Pepsi, Nimbu's pulp, right? Or is it categorized, pulp is categorized at a different level, 12% from fruit juice. Yeah. 12% from fruit juice, which is categorized at a different 28%, 28%. And there's a big difference between 28% and 12% in terms of what a seller would want to pay. Right. Now, there are additional everyday problems related to this, which is things like every single person. So the assumption is normally we raise this dispute, the GST council announces the rate and then magically that information is just transmitted to everyone and everyone knows it. But that's not true, right? How many people are selling Pepsi in India, right? What is their level of information about the tax system? How many of them have the time to go to the GST council website every day, check the notifications? So in the absence of this, what do they need to do? They need to hire a lawyer or a chartered accountant who needs to go over every single thing that they are selling or every single input that they are buying and help them work through this maze. That has become incredibly complex."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:42.800",
+        "message": "And you illustrated the complexity with one superb sentence in your piece, which I remember quoting on Twitter. I was so struck by it. Quote, one year into the GST regime, the HSN code book for GST classification contains 18,306 entries and 438 pages, close quote."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:00.640",
+        "message": "Yes. So I have to put this quote in perspective, the HSN nomenclature is basically a nomenclature that has been used for a very long time in India, both for, you know, all sorts of custom duties and tariffs. And remember, every state was levying its own taxes, right? So it's not like you didn't need a nomenclature before. So we've always had one, it used to be a six digit nomenclature for a very long time. Now it's an eight digit one. So the complexity and the subcategory problems have increased. Okay. And some of this is introduced by the fact that, you know, earlier, you had kind of learned or figured out the state tax system. And now most businessmen are learning a whole new tax system, which is never easy. It's always hard. I have moved countries and I can tell you how painful it is to figure out the tax system in each new jurisdiction. So there is a painful transition process. And having said all of that, imagine if you are just a regular kirana store owner, right? Who is selling, let's say, somewhere between 75 to 100 different types of products, right? You're selling everything from safety pins and chewing gums, to Pepsi, to bread, to, you know, your typical small kirana shop. This person, in addition to running a kirana shop, which is not exactly easy anywhere in India, has to figure out the correct rate for each of these things, and has to backwards and forwards comply, and has to file taxes every month."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:29.640",
+        "message": "And the inevitable consequence of this is that he becomes a hostage to the Inspector"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:33.560",
+        "message": "Raj. Exactly. So either you're hostage to Inspector Raj, or you're hostage to the CA lawyer mafia, right? Which the kirana guy probably can't afford. So, I mean, there you go. Which the kirana guy either can't afford, or you know, you get a cheaper version or someone in the family helps you out, but basically, it's like hiring one more person full time for a kirana shop guy, just to figure it out. And you know, I mean, you live in Bombay, you've been to these kirana stores, right? Right. Let's assume the proprietor is well educated and understand the GST, has figured out, sat with his chartered accountant and figured this out. That young boy who works there, who's 18-19 years old, and is barely literate, he also needs to know what is the correct tax to levy, right? So now imagine next time a kirana shop owner wants to employ someone, he can't just employ some unskilled fellow, right? He needs to now have a higher level of education and skill to hand out, you know, Pepsi and bread, because now there's a GST compliance issue. And customers ask, I have, you know, eaten at restaurants, where my dad has actually asked people, what is this GST rate, why are we being taxed at this rate? What is this? People ask when they get a receipt, and they can't understand it. And they absolutely should. And they should ask. So this is something that people, I think, people do understand, because the average person is navigating this problem every day, the average businessman is really getting battered by this kind of information and compliance requirement. But I think this idea is now only slowly penetrating to the governance system. I think now, people who are administering the GST system, they have begun to understand that this is a big problem. Now, let me tell you a couple of smaller things, which seems small, but very important. So you know, one example was this KitKat, a biscuit or is KitKat a chocolate, right? Now, here is an example that actually went to the GST Council for clarification. Now, there are, you know, most offices have some kind of a food canteen or cafeteria, right? If you run a canteen, it is taxed at 5%. If you're using an outdoor caterer is 18%. The problem is, almost all the offices have a canteen, but the catering is done by a third party outside. Very few offices actually cook their own meal in house, right? So this question actually went up to the GST Council, should it be taxed at 5% or 18%? Now, multiply this, right? Multiply this across all the categories, all that the GST Council is doing is releasing a new notification every day on what is the correct classification. And now multiply this across, and you have a notification nightmare, right? So this is ruled by notification. Every day, some new bit of information has to come out, and everyone has to know where to look for that information and then adjust and pay that particular rate. So this has become a very big problem. Now there's a third part. Now let's say the GST Council says the correct rate is 5% not 18% or 18% not 5%. If someone disagrees with the classification, you take it to court, right? And 13% difference in tax rate can mean a lot of money for some firms. So it's valuable for them to have a resolution to this question in the long run to save that 13% in tax. Now you take it to a tax tribunal or worse, to the High Court and Supreme Court, and you basically burden the judicial system by adding a whole set of disputes, which shouldn't exist in the first place, right? And for these reasons, I think the best way to go is to have a single rate. 40 countries have a single rate, they work pretty well. About 28 additional countries have two rates, which also work pretty well. So I think the first thing we need to do is, like I said, simple rules for a complex world, just collapse all these different rates to one single GST rate, right? And for very basic goods for poor people, you can just say it's a zero rate. There is no GST levied on this. Everyone else will have a single GST rate that needs to be paid."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:54.280",
+        "message": "And I think that's the best way to go forward. One GST rate to rule them all. On that note, we'll take a quick break. And when we come back, I want to raise a couple of the standard objections that people have to this one simple rate, and we'll continue the conversation. A quick break coming up."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:11.200",
+        "message": "So it's been another great week at IBM podcast. And if you aren't following us on social media, please make sure you do we're IBM podcast on Twitter, Facebook, Instagram, all the major social media networks. This week on the Pragati podcast, Pawan and Hamsini talk to economist Anupam Manohar about how India is tackling creating new jobs. On the Puliyabazi show, tune into part two of Pranay's interview with China expert Manoj Kevalramani. On Simplified in a Shorty, Shriketh, Chuck and Naren give interesting tidbits about the qualifying round of the 2018 World Cup. On Cyrus Says This Week, Cyrus has a conversation with friend of the network Vivek Kaul about the economy. On Who's Your Mommy, Vedha and her friends discuss the strange and disturbing questions they've been asked by their kids. On Keeping It Queer, Naveen talks to non-binary Instagram sensation Diane Rubello. On Vartal Lab last week, Akash and Naveen exchanged some hilarious stories with Balraj Ghai, owner of the hotel Intercontinental and The Habitat. And with that, let me get you on to your shows."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:57.120",
+        "message": "Welcome back to the scene in the unseen. I am talking with Shruti Rajgopalan and she's just finished making a case for why we need simple rules for complex problems and our GST is mindlessly complicated instead of being the good and simple tax that it was hyped up to be. And Shruti, before I continue, and I want to raise a couple of the standard objections people make to that, but before that, I just want to try and summarize your position and tell me if I missed anything. Your position basically is that the complexity of the GST, where you have so many different rates for so many different categories, has the impact that compliance costs go up. Compliance becomes extremely difficult and a lot of human labor of people in businesses and goes into figuring it out, or you hire CAs, which is a cost in itself. And what this can do at the margins is that it can drive some businesses out of business entirely, and in other cases, it will just raise the cost of those businesses, therefore raising the cost for consumers as well, and therefore ending in what seems to be like a vicious circle or a negative sum game or whichever way you put it. And to stop this negative ripple effect, where everybody suffers except for chartered accountants and lawyers, what you propose is that make it a good and simple tax, have one tax rate for everything, perhaps for certain goods have no tax rate at all, which are essential items for poor people, but otherwise just have one tax rate. Have I summed it up correctly?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:26.240",
+        "message": "Absolutely. And I just want to add one slightly broader point than the GST. We talked a lot about classification, right? There are two ways to solve the classification nightmare. One is that the government just needs to classify things better, announce it better, and have some mechanism by which people get this information quickly. So the compliance costs are reduced. That is one way of thinking. And there is a lot of focus on trying to make the government more efficient at it. The other way of thinking is the way you and I have been talking about, which is, let's eliminate the need for a complex classification system in the first place, right? So if you collapse it to a single rate, everyone needs to pay the same rate, there is no need for classification, you kill the complexity automatically, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:11.960",
+        "message": "So now the two sort of objections I want to raise are, to be clear, not my objections, I'm entirely on board with you, but these are objections that came up on Twitter, after your excellent piece kind of went viral in a small way. And I want to give you a chance to address these points that were made. One point is that having multiple rates of GST is really not fair or progressive simply because to have the same rate for a small kirana store for small goods is not as you would for say, a guy who's buying a BMW is not fair. Why shouldn't the guy buying the BMW pay more?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:48.800",
+        "message": "Well, so there are two parts to any kind of tax burden. One is actually the tax rate that is levied on the good, right, which is the 5% that you have for certain goods in a kirana store versus 28% for luxury items and things like that. The second part of the tax burden is the compliance. And if you really think about it, the kirana store guy has a greater compliance burden when there are lots of classifications versus the guy who's buying the BMW. Because he can probably afford a lawyer and a charted accountant, he probably has a few, right? Same with this BMW showroom, they probably have an army of people helping them manage the regulatory and the compliance requirements, whereas the small kirana store guy now has this additional burden, right? So what people are missing when they talk about progressive tax rates or a fair tax rate for people who are using, you know, people of a certain income class who are selling or consuming certain products versus people consuming luxury products is the classification system imposes an enormous compliance burden, which by the way, doesn't fall equally on everyone, it falls at a much greater proportion to the turnover on the little guy, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:05.560",
+        "message": "So the point I'm making is, it's actually the other way around, it's a little guy who would benefit from a simple tax."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:11.280",
+        "message": "Exactly. So if you ask people, I mean, there are two demands being made, one that the tax rates are too high. And the second that it's too complex, virtually everyone is on board with simplifying the tax system, including the little guy, then you can talk about, you know, when you have a single rate, I think it's very important to have a debate about what that single rate should be. Right. And I think the lower the better. So Singapore has a 7% GST, Australia has a 10% GST, we have some of the highest GST rates in the world. So ours need not be seven or 10%, right, we need, we need revenues to come in. So there is an argument to be made there that maybe that single rate can be a little bit higher, it's not in single digits, maybe it's in the low to mid teens. But this, this argument that you know, the kirana guy is being treated unfairly because by collapsing to a single rate, my answer is just the kirana guy is being treated unfairly when you have multiplication of classification and complexity in rates also. So I don't think you're helping that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:13.040",
+        "message": "Right. I mean, the compliance costs are hitting the poor, the much more and therefore you want to reduce the compliance costs and what the single rate should be is not an argument you're making right now. You're just saying that there should be a single rate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:25.080",
+        "message": "Exactly. So, you know, there are many ways to figure out what that single rate should be depending on the end goal. You know, you can have good projections for what that single rate will get you in terms of revenue. So think about this, if people stop spending money on chartered accountants and lawyers and approaching the GST council and tax tribunals, right, that money can either go towards business or it can go towards the higher tax rate. Exactly. Right. A penny saved is a penny earned. So if you save money on compliance, you can raise it either as revenue or it can go back in the economy through productive businesses."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:00.400",
+        "message": "Right. And the government therefore makes the same amount of money, if not more, either by the money saved on compliance coming back as higher taxes or preferably going back into the economy and just increasing the tax base and there being more business to begin with."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:13.720",
+        "message": "Exactly. And I think there is a very important argument to be made that I didn't make this argument in the column, but right now a number of items are excluded from GST. Right. The most important being real estate and alcohol. So I think it's very, very important to broaden the GST base and include all goods and services. Right. That is going to result in a much higher, much better tax collection, as well as a much simpler and fairer tax system across the board for everyone, minimizing all this kind of regulatory arbitrage that people engage in when it comes to real estate and things like that. And I think a better argument to make when it comes to raising revenue and being fair, you know, to the poorer groups in the economy is that you need to expand the tax base, not necessarily have multiple tax systems."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:08.800",
+        "message": "Exactly. Let's, let's move on now to the second objection, which is the objection of revenue neutrality, which basically, let me try to first sum up what the objection is, and you can tell me if I've summed it up correctly, and then you can continue addressing it. Revenue neutrality basically means is that look, we move from one system to another system from hazard different taxes across states and so on to one GST with all these rates and exemptions, which applies to the whole country. And at one level, revenue neutrality states that you achieve revenue neutrality when you get in as much money in this new system, that is the government takes in as much money in this new system as they were getting before GST. And at another level, when you talk of revenue neutrality, it is a guarantee given by governments to states that the amount of revenue you guys make under GST that goes to you will be the same as you were making before GST, which is a guarantee they had to give to get the states to agree to GST in the first place. And the objection that therefore people are raising is that if you have just one rate for everything, instead of these different rates, won't that affect revenue neutrality?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:15.240",
+        "message": "Have I summed that up correctly? Absolutely, I couldn't have said it better. So Amit, you're absolutely right, there is a huge question of revenue neutrality. This has been something that's been looming large at the macro level since the inception of GST, right? Like until you implement a new tax system, you don't know how much revenue it's going to generate. And there was a really big fear that the already depleting coffers of many of the Indian states will deplete further because they agreed to this unified tax system. Now there is some good news on that end, right? So Arvind Subramaniam, our current economic advisor, our current outgoing economic advisor, just recently wrote a piece based on nine months of revenue collections. So until April this year, right? On how in the first nine months, some months you've had, you know, a decrease in revenue collections versus the same time last year, some months there has been an increase. But overall for the nine months, there has actually been an increase in revenue collections, right? So this is something that is quite remarkable and something unexpected. So there is actually a revenue growth of 11.9% compared to the pre-GST numbers. And this basically means he's made a great argument that there is a tax buoyancy of 1.2. So tax buoyancy is the responsiveness of tax growth to nominal GDP growth. So as the GDP grows, how much does your tax revenue grow? So that number is called tax buoyancy, that's 1.2%. So the chief economic advisor has actually given us some good news. Like we can really breathe a little more comfortably now that we are not just revenue neutral in the first nine months, actually revenue plus. So that's one aspect, right? So in that sense, the GST has been a success in that, you know, our revenue collection system didn't just completely collapse when we shifted from system one to system two. The second part of revenue collection is most of the states are not doing as badly. The ones that were expected to do badly are not doing as badly in revenue collection as was originally anticipated. So Arvind Subramaniam says that the payout that the central government will have to make to the states is much smaller than what was feared or anticipated before. So in one sense, even the current extremely complex system we have seen is revenue neutral. Now coming to the original question that you asked, revenue neutrality is not determined by how many different rates you have. It is determined by what is the revenue collection. So you can have revenue neutral, revenue plus or revenue minus, depending on what the rate is. So let's say the single tax rate is 2%, right, and it's levied on everything. It's possible that at such a low tax rate, you are not revenue neutral, you're revenue minus, right? But let's say the single tax rate is 18%. It is wholly possible that even under that single rate, you are revenue plus as opposed to being revenue neutral. So the idea of revenue neutrality is the total of how much revenue you collect. Now that is obviously determined by your tax rate, right? There is something in economics, there's a Laffer curve, right, as tax rates increase, first the revenue collection goes up, then it goes down. So you want to figure out where India is on this curve. With some goods, you're going to win some, with some goods, you're going to lose some. So you know, there are some goods like say tobacco, which are highly non-responsive to increases in tax, right? So in those cases, a high tax rate will actually get you more revenue. Some things like onions, you're going to lose if you impose a very high rate on it, the revenue is actually going to go down. So you're going to win some, you're going to lose some with a single tax rate. But on the whole, it is wholly possible that if you have one single rate, and you find the correct rate, you are not just revenue neutral, but you are revenue plus."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:13.880",
+        "message": "So to sum it up, your point is that as far as revenue neutrality is concerned, it won't be affected necessarily by merely simplifying the GST and having one tax. What will affect is what that one tax is. And that is a separate argument that you're not getting into now. You're not saying whether one tax should be 18 or two, you're just saying we should have one tax and remove those compliance costs. And then let us talk about what that one number should be. And we can fix it at something that gives us confidence that revenue neutrality at least"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:42.840",
+        "message": "will be achieved. And you know, if you think about it, you know, all of us can appreciate that the government is trying to do something quite extraordinary in terms of scale, right? So there's going to be some trial and error in the system. I think we all can agree to that. So it is possible that you start with the rate and like Goldilocks, you need to move higher or lower. And that's okay. I don't think that's a very big problem. But remember, that is going to be a trial and error with only one rate, which minimizes confusion. You know, you open the first page of the newspaper, it says GST Council has increased the rate or decreased the rate."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:16.080",
+        "message": "And that's all you need to know. Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:18.080",
+        "message": "Right. So that trial and error process, if we concede that that's going to happen, it'll be simpler. The other part of it is, a lot of the revenue neutrality arguments are also dependent on the tax base. And we don't see enough writing on that in the current GST framework, that we actually need to expand the base, we need to cover everything, we need to stop exempting things like gold and gemstones at ridiculously low rates, right? Gold is taxed at 3%, gemstones, diamonds are taxed at 0.25%. So we're making, you know, all this crazy exemptions. So there's a really important question of eliminating all these exemptions and increasing the tax base to things like alcohol and property taxes, and then simplifying down to one tax rate. And I don't think there is a very big problem of revenue neutrality. I think long run, India will generate more revenue under a system like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:16.320",
+        "message": "And in fact, just to go back to public choice, which we mentioned at the start of this episode, what typically happens when you have so many exemptions and so much discretion to people in authority is that you will have all these interest groups coming up and there is scope for corruption, which is almost inevitable, I would say. And you will have your gemstone lobby and your alcohol lobby and all these different lobbyings. And then it just becomes that same old interplay between power and money."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:39.760",
+        "message": "Absolutely. I think you and I could come up with very good ideas on why we have so many exemptions, knowing all the public choice literature that we know. I think another question is, how do we persuade all these different groups to come under one umbrella? Right. And I think we are very well poised in this moment, you know, normally for someone like you and me, who are strong believers in federalism, it's quite frightening to have single party rule in so many states, right? Just from a point of view of concentration of power, it doesn't matter which party it"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:13.760",
+        "message": "is. Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:15.760",
+        "message": "Especially given that we have a fairly weak constitution in some ways. Exactly. And so right now, we are in a very interesting moment, which has happened, you know, after the great Nehruvian times, which is 21 states are under one party rule. So there is some case to be made that if there is anyone who can unify all these different interests and bring them under one umbrella and persuade them, it is the current ruling party and the current Prime Minister. I don't think that would be an unfair thing to say. So we are in a good, I mean, there are many bad things that come from concentration of power. But it also provides an opportunity to overcome all this kind of interest group activity and capture. So I would really, I would hope that the current government capitalizes on that moment and actually does that for the GST."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:06.540",
+        "message": "So I'm actually for the rest of this episode, I'm going to ask you only questions related to public choice theory, because I want to explore the sort of political economy of why the GST is what it is and how it can be reformed. What are the sort of incentives in play which could prompt people in power to make that move towards a single tax rate? And what are the kind of incentives in play which could make those in power resist such"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:31.780",
+        "message": "a move? So I'll give you a couple of examples right now, I think there is a very unified lobby, you know, even if we break down the different goods and services in the economy to different lobbies, I think they're all asking for exemptions and special privileges and things like that. But I think there is a lot of unity in that everyone wants this to be a simpler system."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:54.220",
+        "message": "No question. Right? Because once everybody can benefit, like normally what happens is that the benefits are concentrated"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:00.500",
+        "message": "and the costs are dispersed. So in terms of compliance and complexity, I think there is a lot of unity virtually every industry lobby that has been coming to both the GST Council and the government have been persuading the government to create a simpler system. And both Mr. Jaitley, and you know, the current economic advisor, Mr. Subramanian, they have all talked about how there is going to be some discussion and move towards simplifying the current GST tax rate system, right, so collapse it down to fewer rates, eliminate some of the exemptions. So I think this is very much on everyone's mind, because all the industry lobbies have been talking about this. What could mitigate that? Yeah. So what can mitigate that is some lobbies actually become strong, like we've seen a very strong Gujarat lobby that has ended up with ridiculously low rates for gold and gemstones, right? Somebody says, okay, don't give us a simple rate, just give us a special rate. Right? It's going to be too difficult to unify everyone and bring it under one tax rate and compliance umbrella. Hume thoda special treatment de do, hum aapke khas hain. That is sort of the attitude. And we have seen that happening. Right? Basically, industries which don't have much power or much lobbying capacity at the state and federal level, especially entertainment, right, different states put all kinds of stresses on entertainment. It's very difficult for them to lobby or like spend money on lobbying instead of spending money on making movies or making music. On the other hand, tobacco, alcohol, you know, some of these lobbies are just very well organized. So they will be very good at getting their special rates, right? And to neutralize the effect of the special rates, some goods which are used by everyone, which are not well organized, are going to have this cess and that cess in addition to the highest 28% GST. So this is, this is a problem of special interests, and in the short run, special interest trying to capture whatever gains there are, when there is a lot of confusion and transition in a new tax system."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:08.340",
+        "message": "And what is your sense of which side is stronger? You know, is it likely that we will simplify to the extent you want or because typically what happens in government is that regulation only gets deeper and more complex because of all the interest groups and the incentives involved, it rarely gets simpler."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:25.460",
+        "message": "But you know, there is a huge incentive in this case, right? If things get more complex, and we go back to our good old system of Parchi, you know, there is a bit so you can't put India doesn't have the state capacity to throw everyone in jail if they evade tax, right? If you have a highly complex system and very high tax rates, what's going to happen, people will just stop paying. Then it's more beneficial. You know, I recently last time I was in India, I went with my mom to our tailor. She has two sets of books. One is GST compliant. The other one is all Parchi, start to finish Parchi. So all her inputs, people give a Parchi and then she gives us a Parchi, right? So what is going to happen is if the compliance requirements are too high, or if the tax rates are too high, people will just start evading and when people evade tax, no matter how beautiful your GST system is, the government doesn't have revenue. So I think one major fear for the current government and any future government is we can't mess up the system so much that there is a genuine loss in revenue. I think there is some push towards simplifying the system to increase revenue. And remember, the more revenue you have, the greater power you have as a ruling party."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:42.620",
+        "message": "So out of sheer self interest, the evil force will be prompted to do a good thing. Or not do a terribly bad thing. Yeah, I was I was being tongue in cheek there. And I'm going to twist your words out of context, because it gives me pleasure. What Shruti has just called for is civil disobedience on a mass scale. Don't pay your taxes until the GST gets reformed. I won't even ask you if that's a fair summary or not, because it obviously is."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:07.900",
+        "message": "And on that happy note, Shruti, thanks so much. I think, no, it's not a fair summary, but I will say I think all forms of protest are"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:15.340",
+        "message": "legitimate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:16.340",
+        "message": "I was kidding. Right. No, but I think people can protest by saying we refuse to file, do what it is you wish, because your system's really terrible. We have fantastic history in India of objecting to unfair taxes, starting with the salt tax."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:32.940",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:33.940",
+        "message": "That is a civil disobedience movement. So I can very much get behind kirana shops who say this is just too complicated. You have got to simplify this. Otherwise, by all means, you know, shut our shops and throw us in jail. I think, in fact, I would in fact call for that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:50.660",
+        "message": "I would love if we could organize like that. What I keep reminding people is that the salt tax that Gandhi protested was a fraction of what the salt tax is today. So you know, where is our resistance to oppression? And on that note, Shruti, I mean, I learned a lot in this episode, and it's definitely taken us forward from the last two episodes, which I would nevertheless urge the listeners to check out as well. So thanks a lot for coming on the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:15.460",
+        "message": "Thanks so much, Amit. I had a really good time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:19.840",
+        "message": "If you enjoyed listening to this episode, head on over to scene unseen.in, which has all the archives of the scene and the unseen, including many episodes with Shruti. You can follow Shruti on Twitter at srajgopalan. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:57:37.980",
+        "message": "Thank you for listening. He bends down to test the warm water for his bath. He comes here to quench his thirst for a hot shower and some podcasts. You can witness how he enjoys having other people talk about cool stuff in his bathroom. Indeed, it helps him with his loneliness. You can find more of his species on ivmpodcast.com, your one-stop destination where you can check out the coolest Indian podcasts. Happy listening!"
+    }
+]

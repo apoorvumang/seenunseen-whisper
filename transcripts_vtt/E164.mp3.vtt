@@ -1,0 +1,3887 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.280
+[Amit Varma]: How often do you look around yourself and think, this was not supposed to happen? If
+
+00:00:10.280 --> 00:00:14.920
+[Amit Varma]: you live in India, there is actually much reason to do just that. We were not supposed
+
+00:00:14.920 --> 00:00:19.920
+[Amit Varma]: to be here. India was not supposed to be the vibrant, diverse democracy that it is today.
+
+00:00:19.920 --> 00:00:25.680
+[Amit Varma]: Indeed, one of the core rationalizations of colonialism was, these people cannot govern
+
+00:00:25.680 --> 00:00:31.800
+[Amit Varma]: themselves. And yet, here we are, a functioning democracy for over 70 years. And a big part
+
+00:00:31.800 --> 00:00:36.720
+[Amit Varma]: of this is our constitution, which not only shaped our systems of governance and the rules
+
+00:00:36.720 --> 00:00:42.160
+[Amit Varma]: of the game, but also shaped how all of us think about our country and our own role in
+
+00:00:42.160 --> 00:00:46.600
+[Amit Varma]: it. Now, there is much that I find wrong with our constitution. It does not go far enough
+
+00:00:46.600 --> 00:00:51.600
+[Amit Varma]: to protect individual rights. It is way too long and that dilutes its utility, yada, yada,
+
+00:00:51.600 --> 00:00:56.640
+[Amit Varma]: yada. It is also true that our constitution takes many elements from other constitutions
+
+00:00:56.640 --> 00:01:01.280
+[Amit Varma]: and that a chunk of it is a reproduction of the Government of India Act of 1935. It is
+
+00:01:01.280 --> 00:01:06.280
+[Amit Varma]: also true that some of the values it pays homage to could be called enlightenment values
+
+00:01:06.280 --> 00:01:11.640
+[Amit Varma]: and many of the founders were influenced by great thinkers of the West. But it is not,
+
+00:01:11.640 --> 00:01:17.040
+[Amit Varma]: as many have alleged in the past, a copy-paste job. The impetus behind it, what the author
+
+00:01:17.040 --> 00:01:22.720
+[Amit Varma]: Madhav Khosla calls, quote, the cultivation of democratic citizenship, stop quote, was
+
+00:01:22.720 --> 00:01:28.280
+[Amit Varma]: unique to our circumstances and no aspect of our constitution was blindly copied from
+
+00:01:28.280 --> 00:01:33.560
+[Amit Varma]: elsewhere. There was much debate, much thought given to every element of our constitution,
+
+00:01:33.560 --> 00:01:39.200
+[Amit Varma]: not just the what, but also the why. And these debates are fascinating for anyone who wants
+
+00:01:39.200 --> 00:01:44.320
+[Amit Varma]: to understand not just this imperfect and mutating document that is our guiding light,
+
+00:01:44.320 --> 00:01:50.000
+[Amit Varma]: but also why it is the way it is and why we are the way we are.
+
+00:01:50.000 --> 00:01:57.920
+[Unknown]: Welcome to The Seen and the Unseen, our weekly podcast on economics, politics and behavioural
+
+00:01:57.920 --> 00:02:04.200
+[Amit Varma]: science. Please welcome your host, Amit Verma.
+
+00:02:04.200 --> 00:02:08.480
+[Amit Varma]: Welcome to The Seen and the Unseen. My guest today is Madhav Khosla, who has written a
+
+00:02:08.480 --> 00:02:13.080
+[Amit Varma]: wonderful book called India's Founding Moment, a remarkable work of scholarship that made
+
+00:02:13.080 --> 00:02:18.600
+[Amit Varma]: me look at our constitution and our history in a different light. At a personal level,
+
+00:02:18.600 --> 00:02:24.440
+[Amit Varma]: the fact that Madhav is here is an illustration of how my own intellectual curiosity is driven
+
+00:02:24.440 --> 00:02:29.760
+[Amit Varma]: by the show. It was Srinath Raghavan, a frequent guest on The Seen and the Unseen, who first
+
+00:02:29.760 --> 00:02:34.800
+[Amit Varma]: recommended Madhav's work to me and insisted that I must read him and indeed invite him
+
+00:02:34.800 --> 00:02:40.820
+[Amit Varma]: to the show. Another frequent guest, the constitutional economist Shruti Rajgopalan told me that Madhav
+
+00:02:40.820 --> 00:02:46.640
+[Amit Varma]: is India's finest historian of the constitution. And when I read India's founding moment, I
+
+00:02:46.640 --> 00:02:52.320
+[Amit Varma]: realised that some of the things that I have said and thought in the past about our constitution
+
+00:02:52.320 --> 00:02:58.120
+[Amit Varma]: and our history was not as nuanced as it could have been. I felt as if my brain expanded
+
+00:02:58.120 --> 00:03:03.680
+[Amit Varma]: when I read this book. And indeed, that's the exact purpose of The Seen and the Unseen.
+
+00:03:03.680 --> 00:03:10.040
+[Amit Varma]: Before I begin my conversation with Madhav though, let's take a quick commercial break.
+
+00:03:10.040 --> 00:03:13.920
+[Amit Varma]: If you're listening to The Seen and the Unseen, it means you like listening to audio and you're
+
+00:03:13.920 --> 00:03:19.320
+[Amit Varma]: thirsty for knowledge. That being the case, I'd urge you to check out Storytel, the sponsors
+
+00:03:19.320 --> 00:03:24.560
+[Amit Varma]: of this episode. Storytel is an audiobook platform that has a massive range of audiobooks
+
+00:03:24.560 --> 00:03:29.440
+[Amit Varma]: from around the world. Their international collection is stellar, but so is a local collection.
+
+00:03:29.440 --> 00:03:34.520
+[Amit Varma]: They have a fantastic range of Marathi and Hindi audiobooks. What's more, I do a weekly
+
+00:03:34.520 --> 00:03:38.920
+[Amit Varma]: podcast there called The Book Club with Amit Verma, in which I talk about one book every
+
+00:03:38.920 --> 00:03:45.040
+[Amit Varma]: week, giving context, giving you a taste of it, and so on. Download that app and listen
+
+00:03:45.040 --> 00:03:49.520
+[Amit Varma]: to my show. And as long as Storytel sponsors this show within this commercial itself, I
+
+00:03:49.520 --> 00:03:54.980
+[Amit Varma]: will recommend an audiobook that I liked on that platform every week. My recommendation
+
+00:03:54.980 --> 00:04:00.040
+[Amit Varma]: for this week is Invisible People by Harsh Mandar, a collection of stories about unsung
+
+00:04:00.040 --> 00:04:04.880
+[Amit Varma]: heroes of India who are otherwise invisible to us, often because of their class, caste
+
+00:04:04.880 --> 00:04:09.400
+[Amit Varma]: or gender. You can now listen to the full book on Storytel, Invisible People by Harsh
+
+00:04:09.400 --> 00:04:14.440
+[Amit Varma]: Mandar. Download the Storytel app or visit Storytel.com. Remember that Storytel with
+
+00:04:14.440 --> 00:04:19.640
+[Amit Varma]: a single L. Storytel.com. Madhav, welcome to the scene and the unseen.
+
+00:04:19.640 --> 00:04:23.880
+[Amit Varma]: Thanks so much, Amit. Great to be here. Madhav, as we, you know, before we begin talking about
+
+00:04:23.880 --> 00:04:29.360
+[Amit Varma]: your book, tell me a little bit about your journey. Like, are you into law? Are you into
+
+00:04:29.360 --> 00:04:33.840
+[Amit Varma]: history? How did sort of all of this happen where, you know, you got drawn to firstly
+
+00:04:33.840 --> 00:04:38.360
+[Amit Varma]: this field and then to this specific subject of inquiry?
+
+00:04:38.360 --> 00:04:43.680
+[Guest]: I studied law as an undergraduate at the National Law School in Bangalore, and I then studied
+
+00:04:43.680 --> 00:04:50.200
+[Guest]: law at the graduate level at Yale. And it became clear to me at some point that a lot
+
+00:04:50.200 --> 00:04:55.760
+[Guest]: of the questions I was most interested in could not be answered entirely through legal
+
+00:04:55.760 --> 00:05:01.440
+[Guest]: training, that in some way law necessarily interacts with a set of other disciplines.
+
+00:05:01.440 --> 00:05:07.320
+[Guest]: And because my primary interest was in constitutional law, the most obvious cognate field was political
+
+00:05:07.320 --> 00:05:13.640
+[Guest]: theory, because constitutional law engages with politics in a profound way. And political
+
+00:05:13.640 --> 00:05:19.000
+[Guest]: theory gives you the skills and the training and the knowledge to think about the deepest
+
+00:05:19.000 --> 00:05:25.520
+[Guest]: questions in politics. And so it, it just it kind of became a natural step that I would
+
+00:05:25.520 --> 00:05:28.280
+[Amit Varma]: go into a PhD in political theory.
+
+00:05:28.280 --> 00:05:32.400
+[Amit Varma]: And you got into law, you got interested in political theory, but your book is also a
+
+00:05:32.400 --> 00:05:38.560
+[Amit Varma]: book of history. So how does that happen when you realize that not just historical reading,
+
+00:05:38.560 --> 00:05:43.520
+[Amit Varma]: but then if you want to also write about this, which is one way of expanding your own understanding,
+
+00:05:43.520 --> 00:05:48.480
+[Amit Varma]: then you also have to sort of get into history. How was that process? Did you come to history
+
+00:05:48.480 --> 00:05:51.800
+[Amit Varma]: out of the love for history or out of necessity?
+
+00:05:51.800 --> 00:05:58.360
+[Guest]: I mean, I think I came to it actually out of an interest in thinking about how ideas
+
+00:05:58.360 --> 00:06:03.920
+[Guest]: had changed and had traveled over time. So when you're studying political theory, one
+
+00:06:03.920 --> 00:06:07.680
+[Guest]: of the things that you think about, and when you're a student in those ways, is you think
+
+00:06:07.680 --> 00:06:13.400
+[Guest]: about certain concepts, right? Equality, freedom, democracy. And the interesting thing that
+
+00:06:13.400 --> 00:06:18.640
+[Guest]: you might ask is, what do these terms mean over time? What do these terms mean to different
+
+00:06:18.640 --> 00:06:24.800
+[Guest]: people? And so a lot of my questions began to have a historical texture to them, a historical
+
+00:06:24.800 --> 00:06:29.600
+[Guest]: color to them. And so I wouldn't say that I'm a professional historian in the straightforward
+
+00:06:29.600 --> 00:06:34.080
+[Guest]: sense of the term. But I would say that I'm somebody who's interested in the history of
+
+00:06:34.080 --> 00:06:39.080
+[Guest]: political thought, right? And so it's very much an intellectual history or a history
+
+00:06:39.080 --> 00:06:44.480
+[Guest]: of ideas that really, in some sense, sparked my curiosity.
+
+00:06:44.480 --> 00:06:49.680
+[Amit Varma]: And who are the sort of the thinkers who influenced you? Or as you, you know, got deeper and deeper
+
+00:06:49.680 --> 00:06:54.040
+[Amit Varma]: into these subjects, what are the books that you looked at as models of the kind of work
+
+00:06:54.040 --> 00:06:55.280
+[Amit Varma]: that you'd like to do?
+
+00:06:55.280 --> 00:07:01.200
+[Guest]: I think if one thinks about India, in particular, I think the most familiar thinkers who we
+
+00:07:01.200 --> 00:07:07.040
+[Guest]: have, who do a kind of intellectual history or history of political thought, are people
+
+00:07:07.040 --> 00:07:14.120
+[Guest]: like Pratap Bhanu Mehta, Sunil Khilnani, Nija Gopal Jayal. And I think slightly more limited
+
+00:07:14.120 --> 00:07:19.760
+[Guest]: to the scholarly domain and less familiar in popular writing is somebody like Sudipto
+
+00:07:19.760 --> 00:07:24.880
+[Guest]: Kaviraj. And what all of these people are doing in some way is to think about, look,
+
+00:07:24.880 --> 00:07:30.880
+[Guest]: you have a concept. And what does that concept mean to specific people at particular moments
+
+00:07:30.880 --> 00:07:39.120
+[Guest]: in time? And how can we recover certain understandings of that concept? If I actually can read about
+
+00:07:39.120 --> 00:07:45.200
+[Guest]: what somebody like Nehru thought about citizenship, can that help me think about citizenship today?
+
+00:07:45.200 --> 00:07:50.040
+[Guest]: Right? Can that actually elucidate the concept in some way? And I think each of these people
+
+00:07:50.040 --> 00:07:58.520
+[Guest]: have done that. And so Sunil's idea of India is just a marvelous attempt to think about
+
+00:07:58.520 --> 00:08:06.560
+[Guest]: the particular idea of democracy or the particular idea of how you domesticate a certain ideal
+
+00:08:06.560 --> 00:08:12.400
+[Guest]: within a broader public life and within political history. I think Nija's book on citizenship,
+
+00:08:12.400 --> 00:08:18.720
+[Guest]: for example, is a way to think about varying definitions and conceptions of citizenship
+
+00:08:18.720 --> 00:08:23.360
+[Guest]: over 100 years, right? And she is a political theorist, but it's a history of ideas, which
+
+00:08:23.360 --> 00:08:28.120
+[Guest]: is what she's interested in. And Pratap, we read week after week, who's attempting to
+
+00:08:28.120 --> 00:08:29.120
+[Guest]: do that.
+
+00:08:29.120 --> 00:08:33.360
+[Amit Varma]: Sadanand Pratap is absolutely India's finest public intellectual, I think. And just referring
+
+00:08:33.360 --> 00:08:37.920
+[Amit Varma]: to Nija's book, you know, I hadn't read it until I was going to do an episode on citizenship
+
+00:08:37.920 --> 00:08:41.920
+[Amit Varma]: with our mutual friend Srinath. And it spoke so much to the current time. Suddenly your
+
+00:08:41.920 --> 00:08:47.120
+[Amit Varma]: expanding of the current time just explodes and you get everything so much better because
+
+00:08:47.120 --> 00:08:52.180
+[Amit Varma]: of a book like that. I also want to ask you about your reading and your writing. To begin
+
+00:08:52.180 --> 00:08:57.520
+[Amit Varma]: with reading, like, you know, I often get asked, how do I read so many books? And you
+
+00:08:57.520 --> 00:09:03.080
+[Amit Varma]: know, do I take notes, do I scheme, etc, etc. And you obviously read far more than me. I
+
+00:09:03.080 --> 00:09:06.880
+[Amit Varma]: mean, while reading your book, one of the joys of reading your book was the ability
+
+00:09:06.880 --> 00:09:10.720
+[Amit Varma]: to go to the footnotes and discover other things through that. And, you know, and I
+
+00:09:10.720 --> 00:09:16.000
+[Amit Varma]: think any good book of history or nonfiction gives you that. So how do you read, you know,
+
+00:09:16.000 --> 00:09:20.560
+[Amit Varma]: do you have to ever force yourself to read? Has the nature of the way you read changed
+
+00:09:20.560 --> 00:09:25.640
+[Amit Varma]: since you became a scholar and a student yourself? Is there a difference between how you read
+
+00:09:25.640 --> 00:09:29.760
+[Amit Varma]: for work and how you read for pleasure? What's your relationship with books like?
+
+00:09:29.760 --> 00:09:35.680
+[Guest]: I think, at least to me, I feel I read quite badly, right? I feel I don't read enough,
+
+00:09:35.680 --> 00:09:43.080
+[Guest]: and I don't concentrate enough when I read. But I think I don't read in very long spurts,
+
+00:09:43.080 --> 00:09:51.800
+[Guest]: I actually lose attention relatively quickly. But I try very hard to actually read very
+
+00:09:51.800 --> 00:09:56.600
+[Guest]: seriously and very carefully when I read. And so I normally never really need to read
+
+00:09:56.600 --> 00:09:57.600
+[Guest]: twice.
+
+00:09:57.600 --> 00:09:59.320
+[Guest]: And do you take notes and stuff while reading?
+
+00:09:59.320 --> 00:10:05.200
+[Guest]: I do take notes. I do take notes sometimes. And sometimes I just have page numbers. But
+
+00:10:05.200 --> 00:10:12.840
+[Guest]: I often am able to grasp what I'm reading with relative ease, if I am in the right frame
+
+00:10:12.840 --> 00:10:16.840
+[Guest]: of mind. The challenge is in getting into that frame of mind and is actually taking
+
+00:10:16.840 --> 00:10:24.720
+[Guest]: out a sufficient amount of time to being able to read. I think, in some ways, the hard chat,
+
+00:10:24.720 --> 00:10:29.320
+[Guest]: the hard, I mean, in our lives now today, right, it's quite hard to actually be able
+
+00:10:29.320 --> 00:10:33.200
+[Guest]: to turn off the internet and turn off the mobile phone, and then just say, okay, I'm
+
+00:10:33.200 --> 00:10:38.240
+[Guest]: having an hour of completely uninterrupted reading, which is the kind of thing that I
+
+00:10:38.240 --> 00:10:44.080
+[Guest]: hope for. I think the other thing that can sometimes be challenging is that you don't
+
+00:10:44.080 --> 00:10:49.280
+[Guest]: often know what to read. Right. And so even with this book, for example, part of what
+
+00:10:49.280 --> 00:10:55.880
+[Guest]: was difficult was, we've only had one book on India's constitutional founding before
+
+00:10:55.880 --> 00:11:01.640
+[Guest]: this. And so there were moments where on different themes, I just, I didn't know actually what
+
+00:11:01.640 --> 00:11:08.480
+[Guest]: to read. And then you just read more and you get to know what to read. Right. But I, my
+
+00:11:08.480 --> 00:11:14.680
+[Guest]: life in terms of reading is not profoundly structured. I think I read a lot, I read less
+
+00:11:14.680 --> 00:11:20.960
+[Guest]: than I would like to, probably more than I think I do. But it's, it's disorganized, it's
+
+00:11:20.960 --> 00:11:24.680
+[Guest]: profoundly disorganized, and I think it could be much better.
+
+00:11:24.680 --> 00:11:29.720
+[Amit Varma]: And when it comes to writing, a lot of academic writing is just hard to read, and it's dense
+
+00:11:29.720 --> 00:11:34.560
+[Amit Varma]: and so on and so forth. Your book obviously isn't that. In fact, there were parts while
+
+00:11:34.560 --> 00:11:38.480
+[Amit Varma]: I was reading this book, and I think I told you this before the recording and you were
+
+00:11:38.480 --> 00:11:42.320
+[Amit Varma]: slightly embarrassed by it. There were times when I felt the quality of your prose reminded
+
+00:11:42.320 --> 00:11:46.200
+[Amit Varma]: me of Pratap, which is the highest praise I can give really, in the sense that you're
+
+00:11:46.200 --> 00:11:51.440
+[Amit Varma]: packing in a lot of thought and a lot of material into, you know, with a tremendous amount of
+
+00:11:51.440 --> 00:11:57.640
+[Amit Varma]: clarity. And even though you also write long sentences like Pratap often does, you know,
+
+00:11:57.640 --> 00:12:02.000
+[Amit Varma]: they're not unwieldy and long winding, they're packing in a lot, it all makes complete sense.
+
+00:12:02.000 --> 00:12:06.960
+[Amit Varma]: So is that, you know, is prose style something that you thought consciously about on your
+
+00:12:06.960 --> 00:12:09.720
+[Amit Varma]: journey to becoming a writer on these matters?
+
+00:12:09.720 --> 00:12:15.280
+[Guest]: Yes, and I'm actually really flattered and humbled that you would identify the prose
+
+00:12:15.280 --> 00:12:21.160
+[Guest]: as being good because I, so I spent a lot of time rewriting this book, frankly, a lot
+
+00:12:21.160 --> 00:12:26.400
+[Guest]: of time, and I spent a lot of time removing huge amounts in it. And so the final book
+
+00:12:26.400 --> 00:12:34.040
+[Guest]: actually had about 20-25%, even maybe 30% less than I had lying around. And the hope
+
+00:12:34.040 --> 00:12:40.800
+[Guest]: was and the aim was that look, I much rather just say less than more. And some of that
+
+00:12:40.800 --> 00:12:45.720
+[Guest]: is laziness, some of that is just a way to like intellectually flirt with ideas. But
+
+00:12:45.720 --> 00:12:52.760
+[Guest]: I also just didn't want to overwrite. And I am very interested in how people write and
+
+00:12:52.760 --> 00:12:58.160
+[Guest]: in what and rather than just what they write. And so I care a lot about that. And most of
+
+00:12:58.160 --> 00:13:01.040
+[Guest]: the writers I admire are just beautiful writers.
+
+00:13:01.040 --> 00:13:02.040
+[Guest]: Like?
+
+00:13:02.040 --> 00:13:07.800
+[Guest]: I mean, I think Sunil is a great example. I think globally, I love David Bromwich's
+
+00:13:07.800 --> 00:13:14.720
+[Guest]: writing. I read him regularly. And just there are a range of nonfiction writers who just
+
+00:13:14.720 --> 00:13:20.800
+[Guest]: who are genuine stylists. Right. And so I think that that's, I don't know if the if
+
+00:13:20.800 --> 00:13:26.440
+[Guest]: the book has that, but certainly I aspired to make at least parts of it beautiful to
+
+00:13:26.440 --> 00:13:27.440
+[Amit Varma]: read.
+
+00:13:27.440 --> 00:13:32.320
+[Amit Varma]: We're going to move on to the book now. And let's sort of move on to the conception of
+
+00:13:32.320 --> 00:13:36.700
+[Amit Varma]: India itself and the role that our founders played in thinking about it. And you begin
+
+00:13:36.700 --> 00:13:42.080
+[Amit Varma]: your book with a quote from Nehru, where he says, one of the unfortunate legacies of the
+
+00:13:42.080 --> 00:13:47.840
+[Amit Varma]: past has been that there has been no imagination in the understanding of the Indian problem.
+
+00:13:47.840 --> 00:13:50.360
+[Amit Varma]: Stop quote. So what is this Indian problem?
+
+00:13:50.360 --> 00:13:55.180
+[Guest]: It's an interesting quote, if you think about it, right? I mean, it's the quote comes up,
+
+00:13:55.180 --> 00:14:01.600
+[Guest]: the moment comes up in the Constituent Assembly, Nehru is speaking, and he's suddenly saying
+
+00:14:01.600 --> 00:14:09.360
+[Guest]: that, look, actually, we aren't grappling with the situation that we are in, because
+
+00:14:09.360 --> 00:14:14.920
+[Guest]: nobody really has realized the challenge before the Constituent Assembly. And it's an odd
+
+00:14:14.920 --> 00:14:19.880
+[Guest]: thing to say, right? Because if you think that if you were to guess anything, you would
+
+00:14:19.880 --> 00:14:25.160
+[Guest]: say that nobody would have a deeper sense of the situation than those people there.
+
+00:14:25.160 --> 00:14:29.960
+[Guest]: And for Nehru, the Indian problem was, and it's interesting also that he calls it the
+
+00:14:29.960 --> 00:14:33.320
+[Guest]: Indian problem, right? So the first thing to say about that is that he sees something
+
+00:14:33.320 --> 00:14:37.920
+[Guest]: distinctive going on, right? It's not just the problem of another country or the problem
+
+00:14:37.920 --> 00:14:42.620
+[Guest]: of some particular idea. It's actually an Indian problem that no country has previously
+
+00:14:42.620 --> 00:14:48.280
+[Guest]: been asked to solve. And the Indian problem for him is the problem of how do you create
+
+00:14:48.280 --> 00:14:57.480
+[Guest]: democracy in a place without its preconditions? So you have internalized for well over a century
+
+00:14:57.480 --> 00:15:04.960
+[Guest]: that there is actually a certain set of circumstances that make democracy possible. And India doesn't
+
+00:15:04.960 --> 00:15:09.480
+[Guest]: have those circumstances, and yet it needs to become a democracy. And how do you then
+
+00:15:09.480 --> 00:15:10.720
+[Guest]: address that problem?
+
+00:15:10.720 --> 00:15:15.600
+[Amit Varma]: Yeah, and you also at one point, and I like the phrasing of this, you put you point out
+
+00:15:15.600 --> 00:15:20.640
+[Amit Varma]: you talk about the suggestion that human behavior was not the consequence of politics, but instead
+
+00:15:20.640 --> 00:15:27.600
+[Amit Varma]: its cause, stop quote. And later on, you ask the question in the context of the Hobbesian
+
+00:15:27.600 --> 00:15:32.760
+[Amit Varma]: project, quote, did politics produce these spaces of energy, these fresh ways of thinking
+
+00:15:32.760 --> 00:15:38.000
+[Amit Varma]: about freedom, or was politics contingent on them, stop quote. And these seem to feed
+
+00:15:38.000 --> 00:15:44.000
+[Amit Varma]: into Nehru's question in a sense of what Nehru really seems to be asking is that look, we
+
+00:15:44.000 --> 00:15:48.560
+[Amit Varma]: have to now move towards being a democracy, but none of those conditions are there, most
+
+00:15:48.560 --> 00:15:54.640
+[Amit Varma]: particularly the democratic citizen isn't there. So in the act of creating this democracy,
+
+00:15:54.640 --> 00:15:59.280
+[Amit Varma]: can we create that democratic citizen? And is the constitution the tool to do that? Am
+
+00:15:59.280 --> 00:16:03.160
+[Amit Varma]: I right in saying that this is a fundamental sort of question?
+
+00:16:03.160 --> 00:16:07.280
+[Guest]: That's right. And just to go back to the part that you read, I mean, the way to think about
+
+00:16:07.280 --> 00:16:13.680
+[Guest]: it is this, right? After the 19th century, you have around you three things going on.
+
+00:16:13.680 --> 00:16:19.480
+[Guest]: You have politics as some space, right? You have the economy as some space, and you have
+
+00:16:19.480 --> 00:16:26.520
+[Guest]: society as some space. And all these three are slightly governed by a kind of different
+
+00:16:26.520 --> 00:16:32.200
+[Guest]: logic, right? So society say might have its own kind of relations, it might have its own
+
+00:16:32.200 --> 00:16:37.480
+[Guest]: kind of power dynamics, it might have its own kind of freedom. The market, again, has
+
+00:16:37.480 --> 00:16:42.440
+[Guest]: its own kind of logic, its own kind of structures, its own kind of opportunities. And then there's
+
+00:16:42.440 --> 00:16:47.480
+[Guest]: politics, which is again governed by its own rationality. And this distinction between
+
+00:16:47.480 --> 00:16:53.800
+[Guest]: the three really comes out in the 19th century, both with the Industrial Revolution, and with
+
+00:16:53.800 --> 00:17:01.600
+[Guest]: the birth of actually sociology. And what happens for people is that they begin to ask,
+
+00:17:01.600 --> 00:17:06.360
+[Guest]: and it's a natural question, it's not coming out of deep seated Western racism, it's actually
+
+00:17:06.360 --> 00:17:12.320
+[Guest]: coming out of a very honest inquiry. They begin to ask that, look, is politics going
+
+00:17:12.320 --> 00:17:19.440
+[Guest]: to rest on how these other spaces are? Or is actually politics producing these spaces?
+
+00:17:19.440 --> 00:17:27.160
+[Guest]: Is the caste system the consequence of the political structure we inhabit? Or is the
+
+00:17:27.160 --> 00:17:33.240
+[Guest]: political structure we inhabit going to take a certain shape because of the caste system?
+
+00:17:33.240 --> 00:17:39.480
+[Guest]: And that is not an easy question to answer, right? And the British answer to that was
+
+00:17:39.480 --> 00:17:44.720
+[Guest]: look, because India has a certain kind of society, it can only have a certain kind of
+
+00:17:44.720 --> 00:17:50.440
+[Guest]: government, right? And the Nehruvian sort of answer, which places politics front and
+
+00:17:50.440 --> 00:17:57.400
+[Guest]: center, and the Indian answer, right, is that look, actually, everything that you've gotten
+
+00:17:57.400 --> 00:18:03.920
+[Guest]: is because of the politics that you've had. People are behaving in a certain way, because
+
+00:18:03.920 --> 00:18:09.360
+[Guest]: you've actually put them in structures where they will behave in that way. And a version
+
+00:18:09.360 --> 00:18:15.120
+[Guest]: of it, for example, is, you know, in contemporary India, just to sort of switch for a moment,
+
+00:18:15.120 --> 00:18:22.280
+[Guest]: sometimes people will say, look, there are communal people, this is why we have a communal
+
+00:18:22.280 --> 00:18:28.000
+[Guest]: politics, right? And one answer to that is, actually, you run a communal politics, you
+
+00:18:28.000 --> 00:18:33.920
+[Guest]: get a communal people. You run a secular politics, you get a secular people, right? And that's
+
+00:18:33.920 --> 00:18:37.180
+[Guest]: kind of the answer here, in some ways.
+
+00:18:37.180 --> 00:18:41.200
+[Amit Varma]: So there are sort of two aspects to this, which I find interesting. One, of course,
+
+00:18:41.200 --> 00:18:47.000
+[Amit Varma]: is that I would sort of agree with Nehru that obviously, though he would not have phrased
+
+00:18:47.000 --> 00:18:50.840
+[Amit Varma]: it like this, but people respond to incentives. So if you create a form of government that
+
+00:18:50.840 --> 00:18:55.520
+[Amit Varma]: creates certain sets of incentives, people will necessarily respond to that. In fact,
+
+00:18:55.520 --> 00:19:00.480
+[Amit Varma]: my thesis of, you know, Jagdish Bhagwati had once said that Indians are more into rent
+
+00:19:00.480 --> 00:19:05.600
+[Amit Varma]: seeking while the Chinese are intuitively more into profit seeking. And that sense of
+
+00:19:05.600 --> 00:19:09.420
+[Amit Varma]: why Indians are more into rent seeking, that is, we are always looking for ways to make
+
+00:19:09.420 --> 00:19:14.360
+[Amit Varma]: a fast buck or cheat someone or whatever, is that because the oppressive state made
+
+00:19:14.360 --> 00:19:19.540
+[Amit Varma]: it so hard for so many decades to earn an honest living. And because it was the easiest
+
+00:19:19.540 --> 00:19:24.240
+[Amit Varma]: way to make money was through rent seeking and was through sort of becoming a part of
+
+00:19:24.240 --> 00:19:28.160
+[Amit Varma]: that structure. People instinctively think in those terms. And you could say that as
+
+00:19:28.160 --> 00:19:32.940
+[Amit Varma]: people responding to the incentives of the system of governance upon them, and this can
+
+00:19:32.940 --> 00:19:36.560
+[Amit Varma]: work in the other direction. I mean, I give a negative example, but this can work in the
+
+00:19:36.560 --> 00:19:42.400
+[Amit Varma]: other way also where you can promote fraternity and, you know, much more tolerance just through
+
+00:19:42.400 --> 00:19:46.600
+[Amit Varma]: what the law happens to be and how it's all structured. But the counterpoint to that would
+
+00:19:46.600 --> 00:19:51.520
+[Amit Varma]: be that, you know, and a point at where Gandhi, for example, disagreed with Nehru and Ambedkar
+
+00:19:51.520 --> 00:19:55.760
+[Amit Varma]: and where conservatives would disagree, and you had the same argument playing out elsewhere
+
+00:19:55.760 --> 00:20:01.240
+[Amit Varma]: between Burke and Paine and so on, is that Gandhi sort of felt that the locus of change
+
+00:20:01.240 --> 00:20:06.720
+[Amit Varma]: was society itself, that change would only happen bottom up. And Nehru and Ambedkar,
+
+00:20:06.720 --> 00:20:12.440
+[Amit Varma]: on the other hand, felt that no, you know, it's the diseases such as I mean, caste is
+
+00:20:12.440 --> 00:20:17.680
+[Amit Varma]: a disease in our society. And the diseases are so deeply rooted, that that change cannot
+
+00:20:17.680 --> 00:20:23.880
+[Amit Varma]: happen from the bottom up, the state has to sort of lead the way. And so this is the sort
+
+00:20:23.880 --> 00:20:27.880
+[Amit Varma]: of debate that's playing. This is one of the fundamental debates that you've sort of identified
+
+00:20:27.880 --> 00:20:33.800
+[Guest]: playing out, isn't it? Absolutely. I think that debates about a strong centralized state
+
+00:20:33.800 --> 00:20:40.160
+[Guest]: in the ultimate analysis are debates about very different conceptions of Indian society.
+
+00:20:40.160 --> 00:20:47.280
+[Guest]: Right. So Ambedkar and Nehru are fierce critics of Ambedkar of Indian society. And it's in
+
+00:20:47.280 --> 00:20:53.320
+[Guest]: part their criticism of Indian society that makes them so radical. Gandhi, on the other
+
+00:20:53.320 --> 00:20:59.960
+[Guest]: hand, is to an extent critical of the practices of Indian society. But he also believes that
+
+00:20:59.960 --> 00:21:04.800
+[Guest]: the change will come from within, that the change has to come from within. And that actually
+
+00:21:04.800 --> 00:21:13.240
+[Guest]: enduring change will rest on certain kinds of practices. It will rest on genuine examples
+
+00:21:13.240 --> 00:21:19.040
+[Guest]: that you have to provide in your social life that will pave the way. And both of them,
+
+00:21:19.040 --> 00:21:26.520
+[Guest]: therefore, there isn't really a meeting point for people whose presuppositions are so distinct
+
+00:21:26.520 --> 00:21:30.440
+[Guest]: about the dynamic and the theory of historical change.
+
+00:21:30.440 --> 00:21:34.320
+[Amit Varma]: And one question I've asked many guests on the show, so it will almost seem like a cliche
+
+00:21:34.320 --> 00:21:39.400
+[Amit Varma]: to my listeners, is something that I feel you're best equipped to answer, which is that
+
+00:21:39.400 --> 00:21:44.120
+[Amit Varma]: it seems to me that what we did, and that speaks to this earlier debate, which we mentioned,
+
+00:21:44.120 --> 00:21:49.200
+[Amit Varma]: you know, between conservatives and people who would want to use the state to transform
+
+00:21:49.200 --> 00:21:53.400
+[Amit Varma]: society, which is that what we seem to have done is we seem to have imposed a liberal
+
+00:21:53.400 --> 00:22:01.480
+[Amit Varma]: constitution on an illiberal society. And one could ask, is that imposition itself liberal,
+
+00:22:01.480 --> 00:22:06.600
+[Amit Varma]: but a more pertinent question in current times when many people say that society has caught
+
+00:22:06.600 --> 00:22:12.840
+[Amit Varma]: up with politics and that our illiberal society is now reflected in the sort of politics that
+
+00:22:12.840 --> 00:22:18.840
+[Amit Varma]: we have, is that can such top-down imposition of values ever actually work?
+
+00:22:18.840 --> 00:22:23.880
+[Guest]: So that's a very packed question, right? And let's separate it at multiple levels. So the
+
+00:22:23.880 --> 00:22:30.520
+[Guest]: first thing to think about is, do we actually think it's true that we've imposed a liberal
+
+00:22:30.520 --> 00:22:37.000
+[Guest]: constitution on a people who are not liberal? Because the word imposed there is very interesting,
+
+00:22:37.000 --> 00:22:42.880
+[Guest]: right? And I'm not sure that it's actually a very good word to use for the following
+
+00:22:42.880 --> 00:22:49.840
+[Guest]: reason. On the one hand, clearly the people who were in the Constituent Assembly had a
+
+00:22:49.840 --> 00:22:54.680
+[Guest]: vision of India that was not the current vision of India. That is the whole Indian problem,
+
+00:22:54.680 --> 00:22:59.640
+[Guest]: right? They needed to create democracy and India was not filled with democratic values
+
+00:22:59.640 --> 00:23:06.160
+[Guest]: and constitutional principles. In that sense, they were radicals, they were revolutionary.
+
+00:23:06.160 --> 00:23:11.640
+[Guest]: But the Constituent Assembly enjoyed extraordinary political legitimacy, even though the body
+
+00:23:11.640 --> 00:23:18.040
+[Guest]: was not actually voted in through universal adult franchise. It was unquestioned in its
+
+00:23:18.040 --> 00:23:25.800
+[Guest]: authority and in its leadership. In that sense, imposed has a slightly more authoritarian
+
+00:23:25.800 --> 00:23:32.400
+[Guest]: cast to it, which I'm not sure actually is accurate given the real power that the Assembly
+
+00:23:32.400 --> 00:23:36.960
+[Guest]: enjoyed. In fact, if the Assembly didn't enjoy that power, you wouldn't have gotten the constitution.
+
+00:23:36.960 --> 00:23:41.520
+[Amit Varma]: I mean, it's not power, but I'd say the key word there is not power, but legitimacy. And
+
+00:23:41.520 --> 00:23:45.200
+[Amit Varma]: I'm willing to concede that it had legitimacy, that these were the recognized leaders of
+
+00:23:45.200 --> 00:23:50.480
+[Amit Varma]: the day. They had won elections before under the British. So, I don't have an issue with
+
+00:23:50.480 --> 00:23:54.000
+[Amit Varma]: that. But I think that any constitution they came up with would have been an imposition,
+
+00:23:54.000 --> 00:23:58.960
+[Amit Varma]: not necessarily this one and a necessary imposition because there's no other way of doing it.
+
+00:23:58.960 --> 00:24:03.560
+[Guest]: Yeah, I mean, so we can quibble about whether the word imposition is right, right? I'm just
+
+00:24:03.560 --> 00:24:08.240
+[Guest]: not sure. I'm not sure whether it's the correct word. And I think the other thing that we
+
+00:24:08.240 --> 00:24:14.400
+[Guest]: need to remember is this, that the constitution puts forth a really relaxed procedure for
+
+00:24:14.400 --> 00:24:22.560
+[Guest]: amendment, a really relaxed procedure for change. The constitution is given in 1950.
+
+00:24:22.560 --> 00:24:28.640
+[Guest]: In 1951, you have elections, the whole country can vote. For the first time in human history,
+
+00:24:28.640 --> 00:24:33.320
+[Guest]: you're granted universal adult franchise under these conditions. And the body that is voted
+
+00:24:33.320 --> 00:24:39.200
+[Guest]: in could have gotten rid of the constitution. So, in that sense, it's a genuinely democratic
+
+00:24:39.200 --> 00:24:47.480
+[Guest]: moment, right? And the second question, right, which is that look, actually, has society
+
+00:24:47.480 --> 00:24:53.480
+[Guest]: caught up with politics? I actually think, ironically enough, the present moment reveals
+
+00:24:53.480 --> 00:25:01.000
+[Guest]: just the opposite. I think the Indian founding was built on the idea that to be in the modern
+
+00:25:01.000 --> 00:25:07.440
+[Guest]: world, right, as opposed to to be in the ancient world, or to be in the medieval world, means
+
+00:25:07.440 --> 00:25:13.120
+[Guest]: that your world can be entirely constructed. It means that when Amit Verma is born, he
+
+00:25:13.120 --> 00:25:21.520
+[Guest]: could be any type of person. His job, his identity, his role in life are subject to
+
+00:25:21.520 --> 00:25:28.840
+[Guest]: change at an individual level. And the whole world can be made and remade. And what politics
+
+00:25:28.840 --> 00:25:34.480
+[Guest]: offers us is a way to make and remake our world through nonviolent means, right, unlike
+
+00:25:34.480 --> 00:25:41.360
+[Guest]: war. Now, the interesting thing about the current moment is that actually, I think even
+
+00:25:41.360 --> 00:25:45.760
+[Guest]: though the current Indian, the dominant mode of Indian politics at the moment, the Hindu
+
+00:25:45.760 --> 00:25:50.640
+[Guest]: nationalist movement is very different from the founding vision, and could not be more
+
+00:25:50.640 --> 00:25:55.880
+[Guest]: different from the founding vision. They share this belief that the world can be entirely
+
+00:25:55.880 --> 00:26:01.760
+[Guest]: remade, because they are actually attempting to remake it. If they didn't want to remake
+
+00:26:01.760 --> 00:26:05.680
+[Guest]: it, if they didn't actually think that if they didn't act, if they thought that the
+
+00:26:05.680 --> 00:26:10.200
+[Guest]: world was already like this, then there's no need to remake it. And if they thought
+
+00:26:10.200 --> 00:26:14.000
+[Guest]: that it could not be remade this way, then there's no need to remake it. They believe
+
+00:26:14.000 --> 00:26:19.040
+[Guest]: in the absolutism and the primacy of politics, as much as anything. It's why they are changing
+
+00:26:19.040 --> 00:26:24.800
+[Amit Varma]: our laws. So isn't this belief in remaking the world actually a very dangerous belief?
+
+00:26:24.800 --> 00:26:30.000
+[Amit Varma]: I mean, we've seen this in the 20th century and Mao and Hitler and Stalin and so on. And
+
+00:26:30.000 --> 00:26:34.600
+[Amit Varma]: in fact, when Modi did demonetization, I compared it with the Mao's Great Leap Forward and what
+
+00:26:34.600 --> 00:26:39.440
+[Amit Varma]: Mao did with the Sparrows. You know, isn't this kind of social engineering always doomed
+
+00:26:39.440 --> 00:26:44.840
+[Amit Varma]: to fail and equally disrespectful of the society you're claiming to represent? For example,
+
+00:26:44.840 --> 00:26:49.320
+[Amit Varma]: just as you said, if I may add to that, just as you said that the founders of our constitution
+
+00:26:49.320 --> 00:26:54.000
+[Amit Varma]: were radicals, in a similar sense, it could be argued that the Hindu nationalist movement
+
+00:26:54.000 --> 00:26:58.960
+[Amit Varma]: today are also radicals, because they are chipping away at the tolerance and inclusiveness
+
+00:26:58.960 --> 00:27:01.840
+[Amit Varma]: that is such an inherent part of our society.
+
+00:27:01.840 --> 00:27:06.160
+[Guest]: I think that that's right. I think that in the way they are radicals, I think that it
+
+00:27:06.160 --> 00:27:11.160
+[Guest]: doesn't mean that you're disrespecting society because it's all done through social legitimacy.
+
+00:27:11.160 --> 00:27:17.200
+[Guest]: So I don't think that's quite right. I think that the question isn't, is it dangerous or
+
+00:27:17.200 --> 00:27:23.000
+[Guest]: not? It is dangerous, Amit, because in the same way as it is dangerous to rule yourselves.
+
+00:27:23.000 --> 00:27:28.720
+[Guest]: That's what it means to be independent. That's what it means to have freedom. When I look
+
+00:27:28.720 --> 00:27:33.760
+[Guest]: at you and I say, Amit Verma, you can have any career you want, if you work hard, and
+
+00:27:33.760 --> 00:27:38.920
+[Guest]: I give you the right education and you pick your career. Is that dangerous? Yes. You could
+
+00:27:38.920 --> 00:27:43.640
+[Amit Varma]: do a terrible job with it. No, I think there's a conflation here. My belief in individual
+
+00:27:43.640 --> 00:27:51.640
+[Amit Varma]: rights and in my agency to shape my own destiny is very different from the freedom of a society
+
+00:27:51.640 --> 00:27:58.040
+[Amit Varma]: to sort of or the freedom of a political class to transform society through laws.
+
+00:27:58.040 --> 00:28:02.520
+[Guest]: But I think that that's what it means to be democratic. It's collective agency. The question
+
+00:28:02.520 --> 00:28:09.240
+[Guest]: then is twofold. Firstly, what are the processes by which we engineer? Right. And so, for instance,
+
+00:28:09.240 --> 00:28:16.000
+[Guest]: the Indian founding is a dramatic effort to engineer things through civil, nonviolent
+
+00:28:16.000 --> 00:28:22.480
+[Guest]: means. Right. So even things like modernization, which I discuss in the book, they are clearly
+
+00:28:22.480 --> 00:28:28.000
+[Guest]: impressed by and who wouldn't be at the time by Soviet Russia's extraordinary economic
+
+00:28:28.000 --> 00:28:32.160
+[Guest]: growth. But they think that there are serious problems with the means and we care about
+
+00:28:32.160 --> 00:28:36.520
+[Guest]: the means because the means themselves are constitutive of freedom. So there's one question,
+
+00:28:36.520 --> 00:28:40.680
+[Guest]: which is the question of how are you engineering? And the second question is, to what end are
+
+00:28:40.680 --> 00:28:46.480
+[Guest]: you engineering? And are you actually engineering towards an end that still treats people as
+
+00:28:46.480 --> 00:28:52.720
+[Guest]: free and equal beings? Because the whole purpose of actually giving freedom is that you're
+
+00:28:52.720 --> 00:28:57.760
+[Guest]: treating people as free and equal beings in some way. Right. And so I think that the danger
+
+00:28:57.760 --> 00:29:01.800
+[Guest]: of the present moment isn't that they're trying to remake the world. I think everybody's trying
+
+00:29:01.800 --> 00:29:07.320
+[Guest]: to remake the world. In fact, I think that the most gratifying and reassuring thing about
+
+00:29:07.320 --> 00:29:13.400
+[Guest]: politics is that it can be a space for possibility. I think what's scary is how they are doing
+
+00:29:13.400 --> 00:29:20.280
+[Guest]: it and what they are doing it towards. Right. In fact, I think it's not only and I think
+
+00:29:20.280 --> 00:29:26.800
+[Guest]: what that captures is that in politics, Amit, what's dangerous is not only extremism, but
+
+00:29:26.800 --> 00:29:33.760
+[Guest]: cynicism. I think it's cynicism above all. And I think on India's left, for example,
+
+00:29:33.760 --> 00:29:39.400
+[Guest]: or on India's a lot of other Indian political spectrum, that's the danger. Right. For instance,
+
+00:29:39.400 --> 00:29:44.560
+[Guest]: why is our caste arrangement moved from a constitutional arrangement that wanted to
+
+00:29:44.560 --> 00:29:49.800
+[Guest]: transcend caste to a situation now where it is simply power sharing between different
+
+00:29:49.800 --> 00:29:56.080
+[Guest]: caste groups? Because you don't think caste can be eradicated. So that's cynicism. And
+
+00:29:56.080 --> 00:30:00.680
+[Guest]: that's actually what's dangerous. So what's dangerous isn't that these guys want to change
+
+00:30:00.680 --> 00:30:06.560
+[Guest]: the world. What's dangerous is what they want to change it to and how they plan to change
+
+00:30:06.560 --> 00:30:13.240
+[Amit Varma]: it. Well, yeah, I mean, but that's also a disagreement on ends and not so much a disagreement
+
+00:30:13.240 --> 00:30:19.080
+[Amit Varma]: on means. Let's kind of get back to your book where you write about where you know how one
+
+00:30:19.080 --> 00:30:24.720
+[Amit Varma]: of the fundamental decisions in hindsight, it kind of we take it so much for granted.
+
+00:30:24.720 --> 00:30:30.800
+[Amit Varma]: But one of the unusual decisions that was debated and was a question of universal suffrage.
+
+00:30:30.800 --> 00:30:35.320
+[Amit Varma]: That's right. Tell me a little bit about the contours of that particular debate. So I think
+
+00:30:35.320 --> 00:30:38.760
+[Guest]: to think about that, I mean, what we need to think about is that look, in the middle
+
+00:30:38.760 --> 00:30:47.280
+[Guest]: of the 20th century, you have to be really audacious to think that India can be a democracy.
+
+00:30:47.280 --> 00:30:54.560
+[Guest]: A for 100 years, you've had this kind of political theory and philosophy. You've had this imperial
+
+00:30:54.560 --> 00:31:01.760
+[Guest]: vision that India cannot rule itself. Then you've had alongside that, right, a real life
+
+00:31:01.760 --> 00:31:09.720
+[Guest]: experience of democracy going wrong. So the only moment in world history where democratization
+
+00:31:09.720 --> 00:31:16.160
+[Guest]: and constitution making occur simultaneously is in Europe during the interwar period. And
+
+00:31:16.160 --> 00:31:21.560
+[Guest]: all of those countries collapse. All of those countries actually don't end up becoming democracies,
+
+00:31:21.560 --> 00:31:26.880
+[Guest]: right, in a sustainable way. And so there are very good reasons and India's founding
+
+00:31:26.880 --> 00:31:32.920
+[Guest]: to think, look, democracy isn't really a very good system to go for. And they still go for
+
+00:31:32.920 --> 00:31:40.520
+[Guest]: it, right. And I think that they go for it for a variety of reasons, right? One, I think
+
+00:31:40.520 --> 00:31:48.520
+[Guest]: there is genuinely a mass movement behind independence. Second, there is the sense that
+
+00:31:48.520 --> 00:31:54.440
+[Guest]: actually this is what freedom means. There is a deep ideological conception that look,
+
+00:31:54.440 --> 00:31:59.320
+[Guest]: in an earlier generation, in the late 18th century, when you had the American and French
+
+00:31:59.320 --> 00:32:02.800
+[Guest]: revolutions, you didn't have to worry about how certain people will vote because you didn't
+
+00:32:02.800 --> 00:32:09.320
+[Guest]: give them the vote. Now, actually, they think that look, that can't mean freedom. Freedom
+
+00:32:09.320 --> 00:32:13.000
+[Guest]: can't just mean that I'm free from Britain, but I'm not giving my Indians the vote. And
+
+00:32:13.000 --> 00:32:16.840
+[Guest]: there's a sense that look, in the Indian context, actually, what does that mean? In fact, there's
+
+00:32:16.840 --> 00:32:21.600
+[Guest]: a great moment in the Constituent Assembly debates, I think, where Aladi Krishnaswami
+
+00:32:21.600 --> 00:32:26.960
+[Guest]: Iyer says, look, what does it mean to limit suffrage in a country where most people are
+
+00:32:26.960 --> 00:32:29.280
+[Guest]: poor? That means nobody will have suffrage at all.
+
+00:32:29.280 --> 00:32:33.920
+[Amit Varma]: Yeah, I think his point, as you've quoted him in the book is that if you, you know,
+
+00:32:33.920 --> 00:32:37.840
+[Amit Varma]: qualifications based on property or education are impossible, because most people have neither.
+
+00:32:37.840 --> 00:32:43.240
+[Guest]: Exactly. And I think it's but it's also the deep seated ideological vision, that actually,
+
+00:32:43.240 --> 00:32:49.560
+[Guest]: if you put people in a certain kind of system, you will get democratic people, that actually,
+
+00:32:49.560 --> 00:32:55.080
+[Guest]: you will create democratic citizens through the practices of democracy, that itself will
+
+00:32:55.080 --> 00:33:02.480
+[Guest]: provide the education necessary. And therefore, it doesn't mean that certain facts are false,
+
+00:33:02.480 --> 00:33:07.160
+[Guest]: right. So of course, it's true that India is a diverse place. It has many religions
+
+00:33:07.160 --> 00:33:11.840
+[Guest]: that is true, both for the British and for now. The question is, what does that mean
+
+00:33:11.840 --> 00:33:17.480
+[Guest]: for political life? Right? And the answer is, actually, it may not mean anything, you
+
+00:33:17.480 --> 00:33:22.720
+[Guest]: can still see each other as equal people, if you put them in a politics that shapes
+
+00:33:22.720 --> 00:33:26.920
+[Guest]: them as equal people. And so at the heart of the book, I think, and at the heart of
+
+00:33:26.920 --> 00:33:33.360
+[Guest]: the Indian founding, is the sentiment that look, representation will create its own reality.
+
+00:33:33.360 --> 00:33:38.960
+[Guest]: The minute you represent people in a certain way, the minute you actually put them in a
+
+00:33:38.960 --> 00:33:46.000
+[Guest]: kind of constitutional, legal, institutional model, that represents them in a certain way,
+
+00:33:46.000 --> 00:33:48.720
+[Guest]: you will actually get the people you represent.
+
+00:33:48.720 --> 00:33:53.440
+[Amit Varma]: And this struck me as one of the sort of profound insights that I learned from your book, which
+
+00:33:53.440 --> 00:33:59.560
+[Amit Varma]: is that the framers of the constitution looked at it as a pedagogical tool. It wasn't simply
+
+00:33:59.560 --> 00:34:03.160
+[Amit Varma]: a question of saying, okay, we have to govern and therefore we will have a constitution
+
+00:34:03.160 --> 00:34:08.360
+[Amit Varma]: that sets the rules of the game. Instead, the impetus is that through this constitution,
+
+00:34:08.360 --> 00:34:12.600
+[Amit Varma]: because people respond to incentives, and again, that's my language, not theirs, obviously,
+
+00:34:12.600 --> 00:34:16.560
+[Amit Varma]: that through this constitution, because people respond to incentives into the system that
+
+00:34:16.560 --> 00:34:21.360
+[Amit Varma]: they are part of, if we frame a constitution correctly, then the citizen can learn to see
+
+00:34:21.360 --> 00:34:26.960
+[Amit Varma]: himself as a democratic citizen, and equal to all other citizens, you know, therefore
+
+00:34:26.960 --> 00:34:33.960
+[Amit Varma]: invalidating other sort of forms of identity that might otherwise exist. And therefore,
+
+00:34:33.960 --> 00:34:41.160
+[Amit Varma]: in that framing, it's important to embody that sort of conception of how the founders
+
+00:34:41.160 --> 00:34:46.640
+[Amit Varma]: saw the country. And this seems to give the lie to what, you know, the traditional notions
+
+00:34:46.640 --> 00:34:52.280
+[Amit Varma]: of the constitution that you've referred to as being, as you say, in your book, a series
+
+00:34:52.280 --> 00:34:57.360
+[Amit Varma]: of self-interested compromises and arrangements between the Raj and locals, stop quote, as
+
+00:34:57.360 --> 00:35:01.760
+[Amit Varma]: if it was just happenstance as if it emerged piecemeal, take this from there, take this
+
+00:35:01.760 --> 00:35:05.800
+[Amit Varma]: from there. But, but no, there's actually this sort of unified thinking going on behind
+
+00:35:05.800 --> 00:35:06.800
+[Guest]: it.
+
+00:35:06.800 --> 00:35:11.440
+[Guest]: No, completely. I think that it's both a coherent, cogent project, and it's a radical project.
+
+00:35:11.440 --> 00:35:16.400
+[Guest]: And you know, one of the things, Amit, that's been very interesting, right, is look, it's
+
+00:35:16.400 --> 00:35:24.560
+[Guest]: 2020. It's 70 years of India's constitution. And you only had one book on the founding,
+
+00:35:24.560 --> 00:35:31.800
+[Guest]: a book in 1966 by Granville Austin. Now, when I began writing this book, my interest was
+
+00:35:31.800 --> 00:35:36.840
+[Guest]: that, look, Granville Austin has done an excellent political history in a straight up way. This
+
+00:35:36.840 --> 00:35:41.280
+[Guest]: person entered the room, these were the amendments, these were the debates, this was chosen for
+
+00:35:41.280 --> 00:35:49.040
+[Guest]: ABC reason. But there was very little in Austin's book about the broader intellectual history
+
+00:35:49.040 --> 00:35:55.120
+[Guest]: at the level of concepts and ideas and the general terrain of actually what made this
+
+00:35:55.120 --> 00:36:02.640
+[Guest]: special in a global way, there was relatively less. Now, I began thinking that, look, there
+
+00:36:02.640 --> 00:36:07.400
+[Guest]: must be relatively less because actually there's not that much to say, right? Like the road
+
+00:36:07.400 --> 00:36:13.080
+[Guest]: is less traveled for a reason. Sometimes many topics have only one book with good reason.
+
+00:36:13.080 --> 00:36:17.620
+[Guest]: Actually they should have, most topics should have zero books. And the thing is that I then
+
+00:36:17.620 --> 00:36:23.720
+[Guest]: realized that, look, in part what's happened is people have said one of three things. They've
+
+00:36:23.720 --> 00:36:28.560
+[Guest]: either said that, look, there's nothing special about this constitution because it's the government
+
+00:36:28.560 --> 00:36:34.320
+[Guest]: of India Act 1935, which I think is completely wrong. The second thing that some people have
+
+00:36:34.320 --> 00:36:39.120
+[Guest]: said is that, look, actually there's nothing special at the level of ideas because it's
+
+00:36:39.120 --> 00:36:44.520
+[Guest]: just self-interested people who are just striking bargains, which didn't make sense to me because
+
+00:36:44.520 --> 00:36:48.360
+[Guest]: you're going into the assembly and you're granting universal suffrage and the next year
+
+00:36:48.360 --> 00:36:54.880
+[Guest]: you could be out. So there's clearly something else going on. And I think ideas do matter.
+
+00:36:54.880 --> 00:37:00.640
+[Guest]: I think historical events are shaped by a combination of many things, incentives, structures,
+
+00:37:00.640 --> 00:37:05.240
+[Guest]: circumstances, ideas, but ideas do matter, right? And that's an assumption in the book
+
+00:37:05.240 --> 00:37:10.520
+[Guest]: that actually people do have beliefs. And the third thing is that some people think,
+
+00:37:10.520 --> 00:37:16.320
+[Guest]: look, it doesn't matter because India didn't have a revolution at all. Actually, the site
+
+00:37:16.320 --> 00:37:21.840
+[Guest]: of revolution is never the political, it's always the social, it's agrarian structures,
+
+00:37:21.840 --> 00:37:29.400
+[Guest]: it's economic structures, so on and so forth. And there the implicit contrast is China,
+
+00:37:29.400 --> 00:37:34.040
+[Guest]: right? And the thought is that, look, China had a revolution and India didn't. And clearly
+
+00:37:34.040 --> 00:37:38.360
+[Guest]: that's not what my people think, right? The people I'm working on and the people I think
+
+00:37:38.360 --> 00:37:43.600
+[Guest]: about. And I also don't think that that's true. I think that the constitution did transform
+
+00:37:43.600 --> 00:37:47.960
+[Guest]: India. And I think both Nehru understands that and the current government understands
+
+00:37:47.960 --> 00:37:52.720
+[Guest]: that. They both want to change the constitution and that you would only change something if
+
+00:37:52.720 --> 00:38:00.480
+[Guest]: it matters. Nobody kicks a dead dog. And so I think that when I explored the reasons why
+
+00:38:00.480 --> 00:38:06.160
+[Guest]: this had been so understudied, it struck me that there was actually something waiting
+
+00:38:06.160 --> 00:38:11.920
+[Guest]: to be written. And what was waiting to be written was exactly what you said, is that
+
+00:38:11.920 --> 00:38:19.560
+[Guest]: this is a moment where you have to create a democratic citizen through democratic politics.
+
+00:38:19.560 --> 00:38:27.320
+[Guest]: In every other country, you have a level of education, social harmony, administrative
+
+00:38:27.320 --> 00:38:36.480
+[Guest]: systems increasing, wealth, income rising. And the democratic citizen, which is to say
+
+00:38:36.480 --> 00:38:43.040
+[Guest]: the person who behaves in a certain civic way, actually emerges and then you create
+
+00:38:43.040 --> 00:38:47.600
+[Guest]: democratic politics. Here we have to create the democratic citizen through democratic
+
+00:38:47.600 --> 00:38:53.360
+[Guest]: politics. And how do we do that? What is it? What are the systems that are going to make
+
+00:38:53.360 --> 00:38:57.480
+[Guest]: people behave in one way rather than another way? That's the question.
+
+00:38:57.480 --> 00:39:02.200
+[Amit Varma]: And you have this intriguing sentence in your book where you say, quote, a feature of this
+
+00:39:02.200 --> 00:39:07.040
+[Amit Varma]: conception, which is a conception of democracy and the constitution. The feature of this
+
+00:39:07.040 --> 00:39:12.560
+[Amit Varma]: conception was that popular authorization, that is the exercise of the vote, was necessary
+
+00:39:12.560 --> 00:39:18.280
+[Amit Varma]: but insufficient for a political system to have legitimate authority. Stop quote. Can
+
+00:39:18.280 --> 00:39:22.560
+[Amit Varma]: you elaborate on, you know, you're saying then to build this democracy, the vote is
+
+00:39:22.560 --> 00:39:25.840
+[Amit Varma]: necessary but insufficient. What completes the picture?
+
+00:39:25.840 --> 00:39:30.640
+[Guest]: Right, absolutely. So I think actually, Amit, this is a really important question today.
+
+00:39:30.640 --> 00:39:34.360
+[Guest]: Because one of the things that a lot of people are grappling with today, and I get asked
+
+00:39:34.360 --> 00:39:41.040
+[Guest]: this a lot, is look, India is still democratic? Or is it like democracy versus the constitution?
+
+00:39:41.040 --> 00:39:45.600
+[Guest]: You know, like in our current protests, you've had a number of people picking up images of
+
+00:39:45.600 --> 00:39:50.160
+[Guest]: the constitution, reciting the preamble. And so the question is, is there some clash? And
+
+00:39:50.160 --> 00:39:54.360
+[Guest]: I don't think there is a clash, actually. I think that both people are articulating
+
+00:39:54.360 --> 00:39:59.200
+[Guest]: very distinct visions of democracy. At the heart of the founding is the thought that
+
+00:39:59.200 --> 00:40:06.720
+[Guest]: look to be in a democracy means in the first instance that you actually elect those in
+
+00:40:06.720 --> 00:40:12.600
+[Guest]: power. But that's not enough. And why is that not enough? Right? Because if that's enough,
+
+00:40:12.600 --> 00:40:16.320
+[Guest]: then we don't need to have a constitution at all. We just need one provision which says
+
+00:40:16.320 --> 00:40:21.520
+[Guest]: elections every five years, people vote, end of the story, right? And the reason why that's
+
+00:40:21.520 --> 00:40:31.480
+[Guest]: not enough is because the question arises, once people vote, and an outcome is generated,
+
+00:40:31.480 --> 00:40:36.960
+[Guest]: why should I actually accept that outcome? What gives the state legitimacy? So the state,
+
+00:40:36.960 --> 00:40:43.420
+[Guest]: for example, has a certain amount of exclusive legitimacy and a certain amount of authority.
+
+00:40:43.420 --> 00:40:48.360
+[Guest]: If the police come to your house and arrest you, as opposed to some goons, you think that
+
+00:40:48.360 --> 00:40:52.440
+[Guest]: the police speak with a different kind of moral and legal authority. Now the question
+
+00:40:52.440 --> 00:40:58.160
+[Guest]: is what gives them that? And the answer is that what gives them that is that firstly,
+
+00:40:58.160 --> 00:41:02.880
+[Guest]: we believe that they have been put in place through a certain process, right? So we have
+
+00:41:02.880 --> 00:41:07.680
+[Guest]: elected people in power who are governing the police. But the second is at the level
+
+00:41:07.680 --> 00:41:14.040
+[Guest]: of outcomes that those systems are actually treating people as free and equal beings.
+
+00:41:14.040 --> 00:41:18.960
+[Guest]: Because if they are not, I have no reason to accept it. The state cannot claim moral
+
+00:41:18.960 --> 00:41:25.160
+[Guest]: authority over me unless it treats me equally. And so the whole question in the Constituent
+
+00:41:25.160 --> 00:41:30.440
+[Guest]: Assembly is, I'm going to create a state, I'm going to create authority, and I've had
+
+00:41:30.440 --> 00:41:36.800
+[Guest]: illegitimate authority for 200 years. And what would it mean to actually create a system
+
+00:41:36.800 --> 00:41:42.800
+[Guest]: that not only grants the right to vote, but can justify the authority of the state that
+
+00:41:42.800 --> 00:41:48.760
+[Guest]: can actually treat people as free and equal beings? What would the meaning of that be?
+
+00:41:48.760 --> 00:41:56.460
+[Guest]: And the whole constitution in some ways is an effort to work out that notion, right?
+
+00:41:56.460 --> 00:42:02.600
+[Guest]: What are the structures of power that would make people behave in certain ways, such that
+
+00:42:02.600 --> 00:42:07.880
+[Amit Varma]: the outcomes generated would be free and equal? So this sort of brings up a question which
+
+00:42:07.880 --> 00:42:12.720
+[Amit Varma]: arises later in your book, but I'll ask it now about the clash between these two schools
+
+00:42:12.720 --> 00:42:17.480
+[Amit Varma]: of thought and constitutionalism, that is legal constitutionalism and political constitutionalism.
+
+00:42:17.480 --> 00:42:22.920
+[Amit Varma]: The legal constitutionalists believe that the key job of the Constitution is to lay
+
+00:42:22.920 --> 00:42:27.240
+[Amit Varma]: down rules of the game and act as a restraint on power, and to make sure that the state
+
+00:42:27.240 --> 00:42:32.000
+[Amit Varma]: does not overstep its limits and that it protects the individual rights of its citizens. Whereas
+
+00:42:32.000 --> 00:42:37.160
+[Amit Varma]: political constitutionalism holds a view that no, the state must do more than that. And
+
+00:42:37.160 --> 00:42:43.160
+[Amit Varma]: the state must actually change or improve society as it were, depending on where you
+
+00:42:43.160 --> 00:42:48.760
+[Amit Varma]: want to run with that. And this was also a fundamental clash at the founding. And there
+
+00:42:48.760 --> 00:42:52.680
+[Amit Varma]: were people who argued for both. And there are people who still today could say that
+
+00:42:52.680 --> 00:42:57.040
+[Amit Varma]: we have one or the other. Can you take me a bit through the sort of debates on this?
+
+00:42:57.040 --> 00:43:02.160
+[Guest]: Yeah, I mean, the way I think slightly different to how you describe it only in the following
+
+00:43:02.160 --> 00:43:07.960
+[Guest]: way that people who want this, some people see the Constitution as merely an articulation
+
+00:43:07.960 --> 00:43:12.680
+[Guest]: of democracy, right? That it's just about voting. And some people see it as something
+
+00:43:12.680 --> 00:43:17.900
+[Guest]: much thicker, right? It grants you many more rights, it grants you many more freedoms.
+
+00:43:17.900 --> 00:43:24.040
+[Guest]: And so there's a kind of limit on the democratic process in some sense. And I think the way
+
+00:43:24.040 --> 00:43:28.080
+[Guest]: I frame it and the way they frame it is they say, look, what both of these debates have
+
+00:43:28.080 --> 00:43:33.720
+[Guest]: presumed is they've already presumed a kind of democratic citizen, right? And actually
+
+00:43:33.720 --> 00:43:39.000
+[Guest]: even to exercise the vote, the reason why we think certain constitutional principles
+
+00:43:39.000 --> 00:43:44.560
+[Guest]: are important is because we think that that is actually essential to democracy itself.
+
+00:43:44.560 --> 00:43:50.640
+[Guest]: So let's play it in a very simple and tangible way. For example, assume that you think, look,
+
+00:43:50.640 --> 00:43:55.120
+[Guest]: the current government is justified in everything because it has been voted into power. Okay.
+
+00:43:55.120 --> 00:43:59.600
+[Guest]: And that would be true for any government. Let's just say you take that view, right?
+
+00:43:59.600 --> 00:44:04.960
+[Guest]: Then the question arises, okay, if that's true, what does that entail? That entails
+
+00:44:04.960 --> 00:44:10.760
+[Guest]: that firstly, if it's everybody has the right to vote, okay. That means that you need to
+
+00:44:10.760 --> 00:44:16.600
+[Guest]: have a system where actually votes are counted fairly. Yes. That means that you actually
+
+00:44:16.600 --> 00:44:22.160
+[Guest]: have to have also a system where people can campaign equally freely. Yes. That means that
+
+00:44:22.160 --> 00:44:27.200
+[Guest]: people, you should also say, if you care only about voting and only about those processes,
+
+00:44:27.200 --> 00:44:31.720
+[Guest]: that people have to be able to deliberate during the process because then they can only
+
+00:44:31.720 --> 00:44:35.840
+[Guest]: then they can vote freely. They have to be able to read and write. They have to be able
+
+00:44:35.840 --> 00:44:40.920
+[Guest]: to think about the choices they are making. If you do all those things, you get a lot
+
+00:44:40.920 --> 00:44:48.160
+[Guest]: of freedoms anyway. And then the question arises, okay, the government is legitimate
+
+00:44:48.160 --> 00:44:54.600
+[Guest]: because it is voted in. Is it then legitimate for it to say that X group of the population
+
+00:44:54.600 --> 00:44:59.120
+[Guest]: are no longer on the voter list? You could say, no, that may not be right because it
+
+00:44:59.120 --> 00:45:03.680
+[Guest]: needs to still preserve the process of voting in, right? So it needs, it can't disenfranchise
+
+00:45:03.680 --> 00:45:07.640
+[Guest]: anybody, right? But the question is, okay, if it can't disenfranchise, what else can
+
+00:45:07.640 --> 00:45:12.720
+[Guest]: it not do? Can it stop them from talking? Can it arrest them without? So a lot you can
+
+00:45:12.720 --> 00:45:19.800
+[Guest]: get in by just realizing that even to express sovereignty, you need certain rights and conditions.
+
+00:45:19.800 --> 00:45:25.240
+[Guest]: And the problem with the Indian founding is those rights and conditions and that knowledge
+
+00:45:25.240 --> 00:45:29.920
+[Guest]: and understanding doesn't exist in Indian society, right? The ultimate thing is that
+
+00:45:29.920 --> 00:45:35.960
+[Guest]: you think when people vote in a genuinely democratic society, they are thinking about
+
+00:45:35.960 --> 00:45:40.280
+[Guest]: the common good. They are thinking about the collective good. They are not seeing you as
+
+00:45:40.280 --> 00:45:47.120
+[Guest]: belonging to X village, Y caste, C religion. They are actually seeing you as citizens.
+
+00:45:47.120 --> 00:45:51.040
+[Guest]: That's what it means to have a democratic sensibility, right? That you actually become
+
+00:45:51.040 --> 00:45:56.000
+[Guest]: a different kind of person in how you see the other person. And the question in India's
+
+00:45:56.000 --> 00:46:04.280
+[Guest]: constitutional founding is what kind of apparatus, what kind of computer program can I put the
+
+00:46:04.280 --> 00:46:11.240
+[Guest]: people in that they begin to see other people like that? What system will change that? Because
+
+00:46:11.240 --> 00:46:16.080
+[Guest]: in our current politics, they only see people like that, current politics at that time,
+
+00:46:16.080 --> 00:46:20.480
+[Guest]: and that cannot enable democracy, because that cannot enable a common good and that
+
+00:46:20.480 --> 00:46:23.440
+[Guest]: cannot enable a sustainable political environment.
+
+00:46:23.440 --> 00:46:28.880
+[Amit Varma]: So what you're saying is that even if the argument for legal constitutionalism were
+
+00:46:28.880 --> 00:46:33.960
+[Amit Varma]: to be true, that a government should exist only to protect the rights of democratic citizens
+
+00:46:33.960 --> 00:46:39.120
+[Amit Varma]: and not actually try to reshape society, the argument cannot hold unless you actually have
+
+00:46:39.120 --> 00:46:44.400
+[Unknown]: democratic citizens and a democratic society. Absolutely. That's a precondition. Absolutely.
+
+00:46:44.400 --> 00:46:48.520
+[Amit Varma]: And therefore, the constitution has to venture beyond mere legal constitutionalism.
+
+00:46:48.520 --> 00:46:53.480
+[Guest]: Completely. I mean, a lot of the debates in the West are debates that have already presumed
+
+00:46:53.480 --> 00:46:58.360
+[Guest]: a certain level of society, right? I mean, you see this, for example, even in our debates
+
+00:46:58.360 --> 00:47:04.960
+[Guest]: in the West around things like hate speech, right? You may say, oh, if I have a perfectly
+
+00:47:04.960 --> 00:47:09.600
+[Guest]: ordered society, you know, is it okay to let people abuse one another? I mean, the question
+
+00:47:09.600 --> 00:47:13.760
+[Guest]: is, how do you get a perfectly ordered society? That's the puzzle, right?
+
+00:47:13.760 --> 00:47:18.000
+[Amit Varma]: Right. Let's sort of talk about now, you know, you've got three chapters, and you're looking
+
+00:47:18.000 --> 00:47:24.400
+[Amit Varma]: at three thematic ways in which there were ideological arguments about what the constitution
+
+00:47:24.400 --> 00:47:29.800
+[Amit Varma]: should be like. And the first argument is about codification. Now, obviously, we have
+
+00:47:29.800 --> 00:47:35.280
+[Amit Varma]: everyone knows the longest constitution in the world, it is an unwieldy beast, you know,
+
+00:47:35.280 --> 00:47:39.780
+[Amit Varma]: you can fit the American Constitution into the pocket of your shirt. But you cannot really
+
+00:47:39.780 --> 00:47:44.800
+[Amit Varma]: do that with the Indian Constitution, unless you have some pretty mighty pecs. And this
+
+00:47:44.800 --> 00:47:49.680
+[Amit Varma]: is not something that sort of, like, as some may presume happened by default, that everybody
+
+00:47:49.680 --> 00:47:53.080
+[Amit Varma]: just put in whatever they wanted, and you ended up with something really long. This
+
+00:47:53.080 --> 00:47:56.480
+[Amit Varma]: was deliberate, there was a reasoning for this, there was a debate behind this, tell
+
+00:47:56.480 --> 00:47:57.480
+[Amit Varma]: me a bit about that.
+
+00:47:57.480 --> 00:48:01.840
+[Guest]: And no, so I think, I think you're absolutely right. I mean, my you know, years ago, I wrote
+
+00:48:01.840 --> 00:48:07.040
+[Guest]: a short introduction to the Indian Constitution, which I think is shorter than the document.
+
+00:48:07.040 --> 00:48:12.480
+[Guest]: Okay, right. And so somebody suggested to me, oh, you should have an appendix to the
+
+00:48:12.480 --> 00:48:16.160
+[Guest]: book with the constitution as like, you have no idea, like, it's going to be double the
+
+00:48:16.160 --> 00:48:21.840
+[Guest]: length, right? The constitution is long, it is unwieldy. And the question, the most elementary
+
+00:48:21.840 --> 00:48:27.680
+[Guest]: question to ask is, why is all this stuff there? Right? Actually, why is why are all
+
+00:48:27.680 --> 00:48:33.840
+[Guest]: these things in the constitution, when you other constitutions don't have them. And the
+
+00:48:33.840 --> 00:48:40.080
+[Guest]: most easy way I meant to think about this or to understand it is that in other countries,
+
+00:48:40.080 --> 00:48:47.680
+[Guest]: all of those norms are already a given. Whereas in this constitution, you are operating under
+
+00:48:47.680 --> 00:48:55.480
+[Guest]: the fear of profound uncertainty. After popular authorization, the question is that you suddenly
+
+00:48:55.480 --> 00:49:04.320
+[Guest]: are going to have voters, judges, legislatures, members of the executive, all now operating
+
+00:49:04.320 --> 00:49:10.480
+[Guest]: under conditions of popular authorization. And you have absolutely no idea how they will
+
+00:49:10.480 --> 00:49:16.720
+[Guest]: behave. And the key thing is, they don't know how to behave. And so codification is an attempt
+
+00:49:16.720 --> 00:49:24.320
+[Guest]: to actually explain and develop the meaning of certain rights or certain responsibilities
+
+00:49:24.320 --> 00:49:30.560
+[Guest]: or certain rules. It's to add texture, because nothing can be given. I mean, the way to think
+
+00:49:30.560 --> 00:49:35.600
+[Guest]: about it is that suddenly you're putting some people in a room, and you're asking them to
+
+00:49:35.600 --> 00:49:40.560
+[Guest]: speak a new language. What is the first thing you have to do, you have to give them a very
+
+00:49:40.560 --> 00:49:45.920
+[Guest]: long lecture on grammar. And that is basically what codification is trying to do. It is an
+
+00:49:45.920 --> 00:49:52.160
+[Guest]: elaboration of the grammar of democracy and constitutionalism, because that doesn't exist
+
+00:49:52.160 --> 00:49:54.880
+[Guest]: in India. And so I need to put all that in the document.
+
+00:49:54.880 --> 00:50:00.400
+[Amit Varma]: Yeah. And there were objections raised at the time that, look, a lot of these things
+
+00:50:00.400 --> 00:50:04.680
+[Amit Varma]: that you're detailing out are things that legislators should do, or that the executive
+
+00:50:04.680 --> 00:50:09.240
+[Amit Varma]: should do or whatever. Why are you, you know, laying these rules out there? And the counter
+
+00:50:09.240 --> 00:50:14.920
+[Amit Varma]: argument was that, look, there is no established practice of doing all of these things either
+
+00:50:14.920 --> 00:50:20.120
+[Amit Varma]: in the legislature or the judiciary or whatever. So you want to lay out as many details as
+
+00:50:20.120 --> 00:50:22.680
+[Amit Varma]: possible. That's broadly the sort of thing.
+
+00:50:22.680 --> 00:50:28.040
+[Guest]: That's broadly the thing. And I think that sense is also that, look, in previous countries,
+
+00:50:28.040 --> 00:50:31.960
+[Guest]: legislatures and executive have done it already with certain preconceived ideas, right? I
+
+00:50:31.960 --> 00:50:36.280
+[Guest]: mean, there were some attempts in the Constituent Assembly to think you're actually limiting
+
+00:50:36.280 --> 00:50:41.160
+[Guest]: future legislators or none of that I think is actually true. I think you're just making
+
+00:50:41.160 --> 00:50:46.080
+[Guest]: explicit what a society lacks as being implicit.
+
+00:50:46.080 --> 00:50:51.400
+[Amit Varma]: And there was criticism even at the time that it was just increasing the coercive power
+
+00:50:51.400 --> 00:50:57.420
+[Amit Varma]: of the state. And for example, Somnath Lahiri said, quote, none of the existing provisions
+
+00:50:57.420 --> 00:51:01.480
+[Amit Varma]: of the powers of the executive have been done away with. Rather, in some respects, those
+
+00:51:01.480 --> 00:51:05.960
+[Amit Varma]: powers are sought to be increased, stop quote. And he later said something to the effect
+
+00:51:05.960 --> 00:51:09.640
+[Amit Varma]: of how the constitution looks like it has been written for a police constable at that
+
+00:51:09.640 --> 00:51:10.640
+[Guest]: level of detail.
+
+00:51:10.640 --> 00:51:16.040
+[Guest]: Absolutely. There are two things, right? One is there are criticisms across the board,
+
+00:51:16.040 --> 00:51:20.520
+[Guest]: right? And that's one of the fascinating things about the Constituent Assembly debates, right?
+
+00:51:20.520 --> 00:51:24.480
+[Guest]: If you read the Constituent Assembly debates, there's a lot of random stuff going on. But
+
+00:51:24.480 --> 00:51:30.360
+[Guest]: what's heartening is the amount of intellectual diversity. Now, the specific part that you
+
+00:51:30.360 --> 00:51:36.280
+[Guest]: just read out was a part negotiating a very peculiar feature in the constitution, which
+
+00:51:36.280 --> 00:51:41.760
+[Guest]: I think a lot of us are familiar with, is that certain rights are recognized, say the
+
+00:51:41.760 --> 00:51:47.000
+[Guest]: right to free speech. And then there are certain exceptions listed. And one of the things that
+
+00:51:47.000 --> 00:51:51.400
+[Guest]: was said at the assembly and is often even said today is that, look, what is the meaning
+
+00:51:51.400 --> 00:51:55.200
+[Guest]: of this? You're giving the right and then you're giving these exceptions. Now, what
+
+00:51:55.200 --> 00:52:00.520
+[Guest]: was the answer in the assembly? The answer in the assembly was, look, this right has
+
+00:52:00.520 --> 00:52:06.800
+[Guest]: been limited in every country. We are not doing anything new. Even in America, which is massively
+
+00:52:06.800 --> 00:52:11.440
+[Guest]: invested in free speech, there are limitations. You have two options available. Either you
+
+00:52:11.440 --> 00:52:17.280
+[Guest]: recognize the right and then you leave the limitations to legislators or the judiciary,
+
+00:52:17.280 --> 00:52:22.720
+[Guest]: or you actually agree on certain established principle limitations and you just put them
+
+00:52:22.720 --> 00:52:28.080
+[Guest]: in now. And what that does is that doesn't limit the right. If anything, it might even
+
+00:52:28.080 --> 00:52:32.880
+[Guest]: limit the limitations because you can then say that, look, you can actually only limit
+
+00:52:32.880 --> 00:52:37.680
+[Guest]: it on these particular grounds, right? If you leave it open tomorrow, parliament or
+
+00:52:37.680 --> 00:52:43.600
+[Guest]: the judiciary could impose 10 other limitations. So it's the codification exercises, neither
+
+00:52:43.600 --> 00:52:49.680
+[Guest]: increasing nor decreasing state power. It's just explaining to you what free speech is.
+
+00:52:49.680 --> 00:52:54.380
+[Guest]: And so their point is, look, free speech is meaningless if you just don't provide any
+
+00:52:54.380 --> 00:53:00.800
+[Guest]: limitation or contours or boundaries or understanding of it. And if you have those that are established
+
+00:53:00.800 --> 00:53:06.200
+[Guest]: and if we can agree on them, let's just do them now. Because actually, otherwise you
+
+00:53:06.200 --> 00:53:13.040
+[Guest]: leave it to 50 years of litigation. And one of the things that they do, right, is they
+
+00:53:13.040 --> 00:53:17.360
+[Guest]: on this issue, they engage hugely with American law at the time. And they said, look, if you
+
+00:53:17.360 --> 00:53:23.000
+[Guest]: see American cases over the last 50 years, over the last 20 years, 30 years, they have
+
+00:53:23.000 --> 00:53:28.840
+[Guest]: constantly changed their minds. And if you can't trust a judiciary that has so much experience
+
+00:53:28.840 --> 00:53:33.200
+[Guest]: in common law reasoning, what are you going to trust ours? And so there's this fear of
+
+00:53:33.200 --> 00:53:38.440
+[Guest]: uncertainty and the sense is that, look, let's just put it in. And the idea actually, Amit,
+
+00:53:38.440 --> 00:53:43.240
+[Guest]: that look, the fact that there are limitations can also strengthen the right. It just turns
+
+00:53:43.240 --> 00:53:50.440
+[Guest]: on application is not some fanciful idea just by me. So a few years ago, one of the most
+
+00:53:50.440 --> 00:53:55.400
+[Guest]: important and one of the rare decisions of the Indian Supreme Court that really upheld
+
+00:53:55.400 --> 00:54:01.640
+[Guest]: free speech was a decision about section 66A of the Information Technology Act, which you
+
+00:54:01.640 --> 00:54:08.080
+[Guest]: might be familiar with, which had very wide provisions relating to, you know, WhatsAppping,
+
+00:54:08.080 --> 00:54:12.560
+[Guest]: email communication, so on and so forth. And there were issues about its constitutionality
+
+00:54:12.560 --> 00:54:18.500
+[Guest]: and it was struck down. And in the judgment, Justice Rohit Nariman gave an outstanding
+
+00:54:18.500 --> 00:54:23.800
+[Guest]: judgment where basically what he said is he said, look, if this law is valid, it has to
+
+00:54:23.800 --> 00:54:28.360
+[Guest]: be valid under these specific limitations. There's no other limitation. So that's an
+
+00:54:28.360 --> 00:54:32.760
+[Guest]: example where having limitations also limits the grounds on which you can limit.
+
+00:54:32.760 --> 00:54:39.000
+[Amit Varma]: I think it's a very clever and cogent argument that by listing out the limitations, you are
+
+00:54:39.000 --> 00:54:42.480
+[Amit Varma]: actually putting a limit on the limitations and therefore you're increasing freedom and
+
+00:54:42.480 --> 00:54:46.320
+[Guest]: not decreasing it. I mean, what I want to say is that you're neither increasing nor
+
+00:54:46.320 --> 00:54:50.960
+[Guest]: decreasing. For them, they are saying, look, to guarantee a right without telling you what
+
+00:54:50.960 --> 00:54:55.680
+[Amit Varma]: the right is, is to guarantee nothing. Yeah, but you know, I find that a bit tenuous
+
+00:54:55.680 --> 00:55:01.200
+[Amit Varma]: because just looking at the restrictions include things like public order, morality and decency
+
+00:55:01.200 --> 00:55:07.200
+[Amit Varma]: and all of those which are open to interpretation and will inevitably therefore be interpreted
+
+00:55:07.200 --> 00:55:12.440
+[Amit Varma]: by the state and by the judiciary, which it seems is now captured by the state. And the
+
+00:55:12.440 --> 00:55:18.000
+[Amit Varma]: second implication of, say, not having something that is as absolute in the support of free
+
+00:55:18.000 --> 00:55:23.600
+[Amit Varma]: speech as, say, the US First Amendment, is that we still have various laws from the Indian
+
+00:55:23.600 --> 00:55:30.360
+[Amit Varma]: Penal Code on our book, like 295A, 153A and indeed the sedition law, which is being massively
+
+00:55:30.360 --> 00:55:35.080
+[Amit Varma]: misused by this current administration and children and entire villages are being booked
+
+00:55:35.080 --> 00:55:40.120
+[Amit Varma]: under sedition, which really should not exist. But I presume they exist because the Constitution
+
+00:55:40.120 --> 00:55:47.320
+[Guest]: allows these limitations. So firstly, I completely share your horror at the application of free
+
+00:55:47.320 --> 00:55:52.360
+[Guest]: speech in India, right? I think it's a mistake to say that that's because the Constitution
+
+00:55:52.360 --> 00:55:56.960
+[Guest]: allows it. I think that the Constitution actually doesn't allow it. I think it's pure, it's
+
+00:55:56.960 --> 00:56:02.080
+[Guest]: very poorly applied. I think it's misapplied. And I think that there's very little that
+
+00:56:02.080 --> 00:56:06.920
+[Amit Varma]: the Constitution can do about that. It's very, these restrictions, you will agree with me
+
+00:56:06.920 --> 00:56:11.960
+[Amit Varma]: surely are very vaguely worded in terms of public order, decency and morality. These
+
+00:56:11.960 --> 00:56:16.160
+[Guest]: are open to interpretation. I mean, they are open to interpretation, but because something
+
+00:56:16.160 --> 00:56:20.680
+[Guest]: is open to interpretation doesn't mean that it's interpreted correctly. Right? And that
+
+00:56:20.680 --> 00:56:24.680
+[Amit Varma]: itself is open to interpretation. We can go round in circles. No, we can. But then the
+
+00:56:24.680 --> 00:56:29.240
+[Guest]: idea is that the rules should be so specific that... But I don't think any rule can be
+
+00:56:29.240 --> 00:56:34.800
+[Guest]: so specific. I mean, at the ultimate analysis, all of constitutional law and indeed all of
+
+00:56:34.800 --> 00:56:42.040
+[Guest]: law is forged in practice. Right? Or I mean, if you could frame things with complete clarity,
+
+00:56:42.040 --> 00:56:46.680
+[Guest]: you would not have problems of interpretation in anything. In the books you read, in the
+
+00:56:46.680 --> 00:56:52.880
+[Guest]: music you hear, in the movies you watch, people disagree on what something means all the time.
+
+00:56:52.880 --> 00:56:57.120
+[Guest]: But you have canons of interpretation. And you're absolutely right that these exceptions
+
+00:56:57.120 --> 00:57:02.880
+[Guest]: have given the state much more presumptive power than any of us would like. I don't think
+
+00:57:02.880 --> 00:57:07.040
+[Guest]: that that was the constitutional vision. I think that what's happened is that you've
+
+00:57:07.040 --> 00:57:12.960
+[Guest]: actually had exceptions and you've interpreted them in a way to swallow up the right. And
+
+00:57:12.960 --> 00:57:19.960
+[Guest]: so I'm not at all on board with that. But I think that it's a mistake to conflate general
+
+00:57:19.960 --> 00:57:26.120
+[Guest]: rules and rules by definition have to be general with how they are applied. Right? And I think
+
+00:57:26.120 --> 00:57:34.360
+[Guest]: that we should also be very reluctant to actually criticize the Constitution for current moments
+
+00:57:34.360 --> 00:57:40.400
+[Guest]: in Indian politics, as well as to praise it. Ultimately, constitutional success or failure
+
+00:57:40.400 --> 00:57:48.080
+[Guest]: rests on a certain kind of political consensus external to the Constitution. If you have
+
+00:57:48.080 --> 00:57:52.940
+[Guest]: a political and judicial consensus that doesn't want to recognize free speech, no provision
+
+00:57:52.940 --> 00:57:57.840
+[Guest]: is going to be able to save you. And so the thing is that the Constitution is providing
+
+00:57:57.840 --> 00:58:02.160
+[Guest]: what? It's like almost you have a fridge that is providing you some mechanism on how to
+
+00:58:02.160 --> 00:58:08.040
+[Guest]: cool food. If you don't want to plug the fridge in, it's not the fridge's fault. Right? And
+
+00:58:08.040 --> 00:58:15.280
+[Guest]: so at the founding, you actually have a document that they put in place to create a certain
+
+00:58:15.280 --> 00:58:20.800
+[Guest]: kind of citizen. And you have a political consensus on interpreting that document in
+
+00:58:20.800 --> 00:58:26.520
+[Guest]: a certain way and taking that document seriously. Right? If either of those go, you're not going
+
+00:58:26.520 --> 00:58:33.400
+[Guest]: to get that citizen. Right? I mean, part of what you see in India today is a certain manipulation
+
+00:58:33.400 --> 00:58:39.560
+[Guest]: of the Constitution, but also a certain attempt in some quarters to disregard it altogether.
+
+00:58:39.560 --> 00:58:45.360
+[Guest]: Extra constitutional violence, right? Extra constitutional actions. And so that's not
+
+00:58:45.360 --> 00:58:50.680
+[Guest]: even to take it seriously. Now, in that the Constitution can only do so much, right? You're
+
+00:58:50.680 --> 00:58:55.480
+[Guest]: going to have to have that kind of the political elite and the judicial elite have to buy into
+
+00:58:55.480 --> 00:58:56.480
+[Guest]: the document.
+
+00:58:56.480 --> 00:59:01.000
+[Amit Varma]: So, I recorded with Kapil Komireddy last week, and we were talking about his book Malevolent
+
+00:59:01.000 --> 00:59:07.200
+[Amit Varma]: Republic. And we spoke about your book a bit and it was exactly on sort of this point where
+
+00:59:07.200 --> 00:59:12.960
+[Amit Varma]: he argued that the conception is not flawed, but the execution is. And my argument was
+
+00:59:12.960 --> 00:59:19.240
+[Amit Varma]: that the execution is flawed because the conception is. It is because of these vaguely worded
+
+00:59:19.240 --> 00:59:24.960
+[Amit Varma]: restrictions that the application of the law can be so open and so can go in all these
+
+00:59:24.960 --> 00:59:28.480
+[Amit Varma]: different directions. And for what it's worth, this is not a criticism I'm making with regard
+
+00:59:28.480 --> 00:59:33.400
+[Amit Varma]: to current events. I have written columns 15 years ago, we're arguing about these exact
+
+00:59:33.400 --> 00:59:38.040
+[Amit Varma]: same laws and the Congress has misused them as much. And if you look at the US First Amendment,
+
+00:59:38.040 --> 00:59:44.440
+[Amit Varma]: they don't have these caveats and therefore they don't have such blatant misuses of, you
+
+00:59:44.440 --> 00:59:45.520
+[Guest]: know, free speech laws.
+
+00:59:45.520 --> 00:59:49.400
+[Guest]: But they have plenty of caveats that have been introduced by the judiciary. They don't
+
+00:59:49.400 --> 00:59:54.560
+[Guest]: have free speech laws because the judiciary is not allowed them. Ours has. Why is sedition
+
+00:59:54.560 --> 00:59:58.440
+[Guest]: not been struck down? Why is criminal defamation been upheld?
+
+00:59:58.440 --> 00:59:59.440
+[Amit Varma]: Why?
+
+00:59:59.440 --> 01:00:03.480
+[Guest]: Because the judiciary has a very different interpretation of free speech. I mean, all
+
+01:00:03.480 --> 01:00:08.280
+[Guest]: of those laws have no place either under the Constitution. If you say that the exception
+
+01:00:08.280 --> 01:00:10.800
+[Guest]: means more than the right, what can I say to you?
+
+01:00:10.800 --> 01:00:16.480
+[Amit Varma]: Yeah, fair enough. Let's kind of move on. I mean, your chapter on codification after
+
+01:00:16.480 --> 01:00:21.260
+[Amit Varma]: giving you know, this absolutely fascinating laying out this fascinating debate about should
+
+01:00:21.260 --> 01:00:26.960
+[Amit Varma]: we have a thick constitution or a thin one and you've even quoted Nehru, you know, talking
+
+01:00:26.960 --> 01:00:31.160
+[Amit Varma]: in detail about why we don't need a thick constitution and blah, blah, blah. And then
+
+01:00:31.160 --> 01:00:38.040
+[Amit Varma]: Ambedkar very eloquently pointing out, and I'll quote him on this quote, constitutional
+
+01:00:38.040 --> 01:00:43.120
+[Amit Varma]: morality is not a natural sentiment. It has to be cultivated. We must realize that our
+
+01:00:43.120 --> 01:00:48.560
+[Amit Varma]: people have yet to learn it. Democracy in India is only a top dressing on an Indian
+
+01:00:48.560 --> 01:00:54.120
+[Amit Varma]: soil, which is essentially undemocratic. Stop code and we can make of that what we will.
+
+01:00:54.120 --> 01:01:00.360
+[Amit Varma]: So you have sort of three sort of illustrations of this codification in this chapter. And
+
+01:01:00.360 --> 01:01:05.040
+[Amit Varma]: the second one is what we just kind of spoke about where rights and their caveats, which
+
+01:01:05.040 --> 01:01:09.440
+[Amit Varma]: were hotly debated, because many felt like Somnath Lahiri and other legislators that
+
+01:01:09.440 --> 01:01:13.520
+[Amit Varma]: there should be no caveats. Otherwise, what is the point? And I must say, I tend to agree
+
+01:01:13.520 --> 01:01:18.280
+[Amit Varma]: with that. But I understand the reasoning behind it. It's extremely cogent, and it's
+
+01:01:18.280 --> 01:01:24.800
+[Amit Varma]: just a statist instinct somehow rationalizing itself. Another example you gave is of the
+
+01:01:24.800 --> 01:01:29.840
+[Amit Varma]: directive principles. Tell me a bit about you know, those specific debates that you've
+
+01:01:29.840 --> 01:01:35.720
+[Amit Varma]: got those directive principles in the constitution, they are not enforceable. So it is almost
+
+01:01:35.720 --> 01:01:39.560
+[Amit Varma]: like a lecture that they have virtue signaling earlier, but if they're not enforceable, why
+
+01:01:39.560 --> 01:01:43.800
+[Guest]: are they there at all? So this was one view, right? And so there have been two puzzles
+
+01:01:43.800 --> 01:01:49.640
+[Guest]: about the directive principles. One puzzle has been exactly the one you said that look,
+
+01:01:49.640 --> 01:01:55.080
+[Guest]: if they are not enforceable, what are they doing there? And the second puzzle is the
+
+01:01:55.080 --> 01:02:02.400
+[Guest]: puzzle that look earlier they used to be enforceable in previous documents. Why was that a switch?
+
+01:02:02.400 --> 01:02:07.640
+[Guest]: I think that there's an answer to both things. Let's begin with the second question first,
+
+01:02:07.640 --> 01:02:11.160
+[Guest]: which is I don't think there was a switch. That's the first thing I want to say. And
+
+01:02:11.160 --> 01:02:16.320
+[Guest]: I think that this is one issue on which Nija Jayal and I have a disagreement. And so one
+
+01:02:16.320 --> 01:02:22.880
+[Guest]: of the things that she mentioned in her extraordinary book is how Ambedkar actually shifted his
+
+01:02:22.880 --> 01:02:30.640
+[Guest]: view from a memorandum to a subsequent speech. I spent some time discussing Ambedkar and
+
+01:02:30.640 --> 01:02:37.320
+[Guest]: I don't think he switched his view. So I actually think that the view was consistent all along.
+
+01:02:37.320 --> 01:02:43.480
+[Guest]: And the view was that any legitimate state needs to be committed to both civil liberties
+
+01:02:43.480 --> 01:02:48.840
+[Guest]: and it needs to be committed to social and economic welfare. That never changed previously
+
+01:02:48.840 --> 01:02:55.640
+[Guest]: and it didn't change later. Now the question is, why are they there if they cannot be enforced?
+
+01:02:55.640 --> 01:03:00.000
+[Guest]: And I think there are two, three things going on here. I think the first is the sense that
+
+01:03:00.000 --> 01:03:10.720
+[Guest]: look, judicial enforcement is actually a question of specific institutional design, right? Whether
+
+01:03:10.720 --> 01:03:19.400
+[Guest]: or not something is judicially enforced is not necessarily signifying its importance.
+
+01:03:19.400 --> 01:03:24.440
+[Guest]: It is actually signifying something else, that this is something that is fit for determination
+
+01:03:24.440 --> 01:03:30.440
+[Guest]: by the judiciary and it is a matter of law enforcement, right? Because the legislature
+
+01:03:30.440 --> 01:03:37.120
+[Guest]: makes laws, executive applies laws, judicially enforces laws, right? Now, part of what's
+
+01:03:37.120 --> 01:03:43.040
+[Guest]: happening in that moment is that countries are only recognizing civil political rights
+
+01:03:43.040 --> 01:03:50.000
+[Guest]: and some are not even, like the Soviet Union, right? What the director principles do is
+
+01:03:50.000 --> 01:03:54.480
+[Guest]: the combination of civil political rights and socioeconomic goals, the fundamental rights
+
+01:03:54.480 --> 01:03:59.960
+[Guest]: and the director principles means that the constitution is providing both the means by
+
+01:03:59.960 --> 01:04:05.440
+[Guest]: which change can occur, which is through civil liberties, and it's also providing the ends,
+
+01:04:05.440 --> 01:04:11.040
+[Guest]: right? Which is a certain amount of economic and social welfare. And the reason they exist
+
+01:04:11.040 --> 01:04:15.360
+[Guest]: is that they say, look, in India, because there's no knowledge and understanding, those
+
+01:04:15.360 --> 01:04:21.480
+[Guest]: ends might not be clear. You might actually not know that that's the job of government.
+
+01:04:21.480 --> 01:04:25.600
+[Guest]: And then Ambedkar asks, what will the security be? And he answers by saying, look, the security
+
+01:04:25.600 --> 01:04:29.600
+[Guest]: will be that people will vote each other out, right? Because that's what it means to be
+
+01:04:29.600 --> 01:04:33.760
+[Guest]: a democracy. But at least I need to tell people this is what they should be voting on.
+
+01:04:33.760 --> 01:04:37.040
+[Amit Varma]: So even if there's no judicial enforcement, there is electoral enforcement.
+
+01:04:37.040 --> 01:04:42.800
+[Guest]: Of course, and the point is also to give you a sense of why the civil political liberties
+
+01:04:42.800 --> 01:04:48.080
+[Guest]: thing is important as means is, you know, for years, people have gone on and on about
+
+01:04:48.080 --> 01:04:53.280
+[Guest]: how socioeconomic rights should be enforced. And now the Indian Supreme Court has often
+
+01:04:53.280 --> 01:05:00.640
+[Guest]: done it. Look at where that's gotten you. A tangible example that captures things is
+
+01:05:00.640 --> 01:05:08.080
+[Guest]: the Aadhaar judgment. In the Aadhaar judgment, the court is remarkably unconcerned with civil
+
+01:05:08.080 --> 01:05:13.360
+[Guest]: political rights on the promise of social and economic welfare, on the development needs
+
+01:05:13.360 --> 01:05:20.520
+[Guest]: of India. This is Soviet Union 2.0 in terms of logic, right? And so actually, the enforcement
+
+01:05:20.520 --> 01:05:26.960
+[Guest]: of that has got you in a place where the means no longer matter. And so the bifurcation was
+
+01:05:26.960 --> 01:05:31.360
+[Guest]: rested on something very significant. It rested on the point that, look, these are certain
+
+01:05:31.360 --> 01:05:35.720
+[Guest]: things that are fit for this kind of person. These are certain things that are fit for
+
+01:05:35.720 --> 01:05:40.400
+[Guest]: another kind of person. It doesn't mean that one is more important than the other. A country
+
+01:05:40.400 --> 01:05:45.400
+[Guest]: may need podcasts and it may need television channels. Doesn't mean that if I don't put
+
+01:05:45.400 --> 01:05:50.280
+[Guest]: Amit on TV, I don't think podcasts are important, right? I don't think TV is important. People
+
+01:05:50.280 --> 01:05:55.240
+[Guest]: might be suited to very specific things. Institutions are suited to specific things and each have
+
+01:05:55.240 --> 01:06:01.680
+[Amit Varma]: their own logic for enforcement and accountability. So if I may sort of frame it this way, you
+
+01:06:01.680 --> 01:06:05.360
+[Amit Varma]: have negative rights and positive rights, right? Negative rights come from the whole
+
+01:06:05.360 --> 01:06:10.080
+[Amit Varma]: Lockean notion of what people may not do to you. They may not kill you. They may not shut
+
+01:06:10.080 --> 01:06:13.840
+[Amit Varma]: you up. So the right to life, the right to free speech, all of those are negative rights
+
+01:06:13.840 --> 01:06:19.120
+[Amit Varma]: and all of those are embodied in the fundamental rights, which are judicially enforceable.
+
+01:06:19.120 --> 01:06:25.600
+[Amit Varma]: So through that, the state is essentially committing to protecting each individual citizen.
+
+01:06:25.600 --> 01:06:29.480
+[Amit Varma]: And positive rights are, I wouldn't even call them rights, I'd call them entitlements, but
+
+01:06:29.480 --> 01:06:32.800
+[Amit Varma]: whatever language you use, positive rights are things like the right to education, the
+
+01:06:32.800 --> 01:06:38.120
+[Amit Varma]: right to food. And you can only essentially fulfill those rights with a certain amount
+
+01:06:38.120 --> 01:06:42.160
+[Amit Varma]: of state coercion, because you need resources to get those, you are infringing negative
+
+01:06:42.160 --> 01:06:46.360
+[Amit Varma]: rights somewhere or the other to enforce those. And the decision that the framers therefore
+
+01:06:46.360 --> 01:06:51.920
+[Amit Varma]: took was that let's put all the negative rights in the fundamental rights, so people are assured
+
+01:06:51.920 --> 01:06:57.080
+[Amit Varma]: that the state will protect them. But there's no point putting the positive rights there
+
+01:06:57.080 --> 01:07:02.080
+[Amit Varma]: because society hasn't evolved enough. And let's put them in the directive principles
+
+01:07:02.080 --> 01:07:07.320
+[Amit Varma]: so they are clearly stated and enunciated, but we can't make them enforceable. And if
+
+01:07:07.320 --> 01:07:11.960
+[Amit Varma]: they are enforceable, it should never be at the cost of the fundamental rights. Is that
+
+01:07:11.960 --> 01:07:19.920
+[Guest]: a correct summation? In a way, I mean, I wouldn't exactly frame it like this. Because I think
+
+01:07:19.920 --> 01:07:25.680
+[Guest]: that there's been a lot of excellent literature in the last two decades, about how this negative
+
+01:07:25.680 --> 01:07:32.720
+[Guest]: positive distinction doesn't fully work. Right? Because at the end of the day, even to support
+
+01:07:32.720 --> 01:07:38.240
+[Guest]: negative rights, the state needs to do a lot of positive work. I think the way to think
+
+01:07:38.240 --> 01:07:45.040
+[Guest]: about it would be civil political versus socioeconomic. And I think understanding that in the case
+
+01:07:45.040 --> 01:07:52.320
+[Guest]: of civil political, we actually refer to individualized remedies, we refer to applications relating
+
+01:07:52.320 --> 01:07:59.160
+[Guest]: to a particular specific act, a particular instance, a particular person, a particular
+
+01:07:59.160 --> 01:08:04.480
+[Guest]: group of people. In the case of social and economic welfare, we are often framing policy
+
+01:08:04.480 --> 01:08:09.760
+[Guest]: questions of a very different kind. But it's more the distinction between civil political
+
+01:08:09.760 --> 01:08:14.840
+[Guest]: and socioeconomic than negative positive, because the negative positive just becomes
+
+01:08:14.840 --> 01:08:20.440
+[Guest]: tricky, right? Because even if I have to protect, say, the right to free speech, or from arbitrary
+
+01:08:20.440 --> 01:08:25.040
+[Guest]: arrest, I still need to have a judicial system to guarantee that I need to have a law enforcement,
+
+01:08:25.040 --> 01:08:28.800
+[Guest]: I mean, I still had to do a lot of positive work, nothing is guaranteed by itself.
+
+01:08:28.800 --> 01:08:32.840
+[Amit Varma]: I mean, that's understood. That is the liberal paradox that for your rights to be protected,
+
+01:08:32.840 --> 01:08:36.520
+[Guest]: you're giving away a certain portion of your rights, but no more. Yeah, that's, that's
+
+01:08:36.520 --> 01:08:40.960
+[Guest]: Yeah, but that's why I just I think the negative positive is not fully revealed.
+
+01:08:40.960 --> 01:08:47.800
+[Amit Varma]: So civil political versus socioeconomic. Let's kind of move on to the third element of your
+
+01:08:47.800 --> 01:08:53.380
+[Amit Varma]: codification chapter, which is the debate between procedural and substantive due process.
+
+01:08:53.380 --> 01:08:54.480
+[Amit Varma]: What are these?
+
+01:08:54.480 --> 01:09:00.600
+[Guest]: So you know, it's simple, I hope, which is that procedural due process is basically a
+
+01:09:00.600 --> 01:09:07.720
+[Guest]: situation where your right to life or personal liberty can be taken away, so long as you
+
+01:09:07.720 --> 01:09:14.040
+[Guest]: follow the procedure in the law. It's as simple as that, right? So if the procedure says that,
+
+01:09:14.040 --> 01:09:18.960
+[Guest]: look, person has to be arrested, has to be given a lawyer has to be told, as long as
+
+01:09:18.960 --> 01:09:24.320
+[Guest]: you've done all that, it's fine. Now, obviously, if that is what you're guaranteeing, then
+
+01:09:24.320 --> 01:09:30.440
+[Guest]: that is a check on the executive, right? Because the executive has to follow the law. But Parliament
+
+01:09:30.440 --> 01:09:37.120
+[Guest]: has a lot of freedom in framing the law. A second is substantive due process, where you're
+
+01:09:37.120 --> 01:09:42.760
+[Guest]: saying, look, not only do you actually have to, not only does the executive has to follow
+
+01:09:42.760 --> 01:09:49.900
+[Guest]: the law created by Parliament, the law created by Parliament itself has to have certain amounts
+
+01:09:49.900 --> 01:09:56.080
+[Guest]: of fairness, rule of law type considerations, right? So that itself actually has to have
+
+01:09:56.080 --> 01:10:03.560
+[Guest]: certain inbuilt requirements. Now, again, in this situation, the debate about how to
+
+01:10:03.560 --> 01:10:10.160
+[Guest]: codify this provision, how to actually give it textual character, was not a debate over
+
+01:10:10.160 --> 01:10:17.120
+[Guest]: whether you want the state to have more or less power. Like in the case of rights, like
+
+01:10:17.120 --> 01:10:21.880
+[Guest]: in the case of directive principles, one of the themes I've tried to run throughout successfully
+
+01:10:21.880 --> 01:10:29.120
+[Guest]: unsuccessfully, is that these were all debates actually about how you should write something.
+
+01:10:29.120 --> 01:10:38.400
+[Guest]: These were not varying visions, right? Nobody who argued for restrictions on free speech
+
+01:10:38.400 --> 01:10:44.520
+[Guest]: in the Constitution had a less generous view of free speech. That's the interesting thing,
+
+01:10:44.520 --> 01:10:47.920
+[Guest]: right? So then you could ask, what were they thinking? Maybe they were wrong to think that.
+
+01:10:47.920 --> 01:10:51.600
+[Guest]: But at the end of the day, they all are thinking that that is itself what makes free speech
+
+01:10:51.600 --> 01:10:56.160
+[Guest]: possible. They are thinking that, look, actually, you put in no restrictions tomorrow, other
+
+01:10:56.160 --> 01:11:01.840
+[Guest]: bodies who we don't trust could impose 10 more restrictions. Now, the puzzle here is
+
+01:11:01.840 --> 01:11:09.120
+[Guest]: that if you recognize substantive due process, which means that you give the legislature
+
+01:11:09.120 --> 01:11:16.120
+[Guest]: very little power or less power, then because you're also going to judge the laws that they
+
+01:11:16.120 --> 01:11:22.880
+[Guest]: create, then you could prevent very radical economic legislation, like property redistribution,
+
+01:11:22.880 --> 01:11:27.760
+[Guest]: because there could be debates about on what test will you judge that law. On the other
+
+01:11:27.760 --> 01:11:34.200
+[Guest]: hand, if you actually only allow procedural due process, you will give the legislature
+
+01:11:34.200 --> 01:11:40.480
+[Guest]: very large powers. And the danger with that is that you will allow preventive detention.
+
+01:11:40.480 --> 01:11:45.800
+[Guest]: Now, the interesting thing about this debate, Amit, is neither side wants extreme preventive
+
+01:11:45.800 --> 01:11:50.720
+[Guest]: detention, neither side wants to limit economic redistribution. But the question is, which
+
+01:11:50.720 --> 01:11:57.160
+[Guest]: textual provision will give you what? So it again captures the neutrality of the harmony
+
+01:11:57.160 --> 01:12:03.920
+[Guest]: between both sides. And ultimately, what you get is you resolve the issue by doing procedural
+
+01:12:03.920 --> 01:12:10.040
+[Guest]: due process, but by actually having a separate set of provisions in the Constitution, Article
+
+01:12:10.040 --> 01:12:16.760
+[Guest]: 22, that provide certain safeguards in cases of preventive detention. Like you need to
+
+01:12:16.760 --> 01:12:20.800
+[Guest]: have a lawyer, you need to be told all things like that, double jeopardy, those kinds of
+
+01:12:20.800 --> 01:12:26.040
+[Amit Varma]: things. So in a sense, these guys are not just debating what the Constitution should
+
+01:12:26.040 --> 01:12:31.640
+[Amit Varma]: do. It's not so much a debate over ends per se, but they're also debating how the Constitution
+
+01:12:31.640 --> 01:12:35.760
+[Amit Varma]: should achieve that, how it should be written. So it's at this meta level, where they're
+
+01:12:35.760 --> 01:12:41.320
+[Guest]: having to think about this completely. I mean, these are a group of people who are basically
+
+01:12:41.320 --> 01:12:51.000
+[Guest]: saying, look, after us, in a year, the whole country will be governed through popular authorization.
+
+01:12:51.000 --> 01:12:57.200
+[Guest]: What will that do to people? How will they behave? And what document do they need to
+
+01:12:57.200 --> 01:13:02.360
+[Guest]: actually understand how to behave? I can't limit them. They could change the Constitution
+
+01:13:02.360 --> 01:13:07.520
+[Guest]: or they could burn it. But assume that they want to take it seriously. What guidance can
+
+01:13:07.520 --> 01:13:12.680
+[Guest]: I provide to them? If they say, yeah, people have told us, protect free speech. I don't
+
+01:13:12.680 --> 01:13:16.400
+[Guest]: even know what free speech is. If people will say protect due process, I don't even know
+
+01:13:16.400 --> 01:13:21.320
+[Guest]: what these things mean. So the Constitution in that sense, this is a phrase I use later
+
+01:13:21.320 --> 01:13:27.800
+[Guest]: in the book, is in most countries in the West, it's a rule book. In India, it's also a textbook.
+
+01:13:27.800 --> 01:13:33.400
+[Guest]: The whole idea is that you're actually explaining these concepts, because they are not understood
+
+01:13:33.400 --> 01:13:34.400
+[Guest]: by anyone.
+
+01:13:34.400 --> 01:13:38.640
+[Amit Varma]: No, and it's interesting that it's often being joked, like what you point out is that because
+
+01:13:38.640 --> 01:13:45.120
+[Amit Varma]: we are a democracy, the facility to change the Constitution is, you know, freely available
+
+01:13:45.120 --> 01:13:50.360
+[Amit Varma]: to elected politicians. And this has been freely used. Like, at one point, it was joked
+
+01:13:50.360 --> 01:13:54.760
+[Amit Varma]: that the Constitution is not a book, but a periodical. And Nehru changed it very often,
+
+01:13:54.760 --> 01:13:59.560
+[Amit Varma]: Indira, of course, famously. And, you know, you spoke of burning, Ambedkar said, I think,
+
+01:13:59.560 --> 01:14:04.560
+[Amit Varma]: in 53 or 54, that if I had my way, I would just have burned the Constitution. As an aside,
+
+01:14:04.560 --> 01:14:06.960
+[Amit Varma]: before we go to a commercial break, what made him so frustrated?
+
+01:14:06.960 --> 01:14:13.160
+[Guest]: I mean, I think those are very specific debates about sort of Hindu reform, about the nature
+
+01:14:13.160 --> 01:14:17.200
+[Guest]: in which change is occurring in an independent India. So that, I mean, one of the things
+
+01:14:17.200 --> 01:14:22.840
+[Guest]: Amit, I consciously try to do is make sure that I don't spend too much time post 1950.
+
+01:14:22.840 --> 01:14:28.200
+[Guest]: A, because then those dynamics become very different. And B, also, then I suffer the
+
+01:14:28.200 --> 01:14:33.040
+[Guest]: problem of having to update my book, which I don't want to do, because I'm kind of lazy.
+
+01:14:33.040 --> 01:14:35.160
+[Amit Varma]: So this is great. So I end at 1950.
+
+01:14:35.160 --> 01:14:39.520
+[Amit Varma]: Excellent. And we'll take a quick commercial break. And after we come back, the meat of
+
+01:14:39.520 --> 01:14:44.040
+[Amit Varma]: the book is still left. So we shall talk about that.
+
+01:14:44.040 --> 01:14:48.080
+[Amit Varma]: Like me, are you someone who loves fine art, but can't really afford to have paintings
+
+01:14:48.080 --> 01:14:54.240
+[Amit Varma]: by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com.
+
+01:14:54.240 --> 01:14:58.760
+[Amit Varma]: Indian Colors is a company that licenses images of the finest modern art from some of the
+
+01:14:58.760 --> 01:15:04.040
+[Amit Varma]: best artists in India and adapts them into products of everyday use. These include wearable
+
+01:15:04.040 --> 01:15:09.320
+[Amit Varma]: art like stoles and dresses for women and evening shirts for men, home decor like wall
+
+01:15:09.320 --> 01:15:14.180
+[Amit Varma]: plates, cushion covers and table linen, and accessories like tote bags and pencil pouches.
+
+01:15:14.180 --> 01:15:19.600
+[Amit Varma]: This allows art lovers to actually get fine art into their homes at an accessible price.
+
+01:15:19.600 --> 01:15:25.360
+[Amit Varma]: And artists get royalties on sales, just like authors do. Their artists include luminaries
+
+01:15:25.360 --> 01:15:30.480
+[Amit Varma]: like Dhruvi Acharya, Jaideep Mehrotra, Madhuri Kathe, Sameer Mondal, Brinda Miller, Tanmay
+
+01:15:30.480 --> 01:15:35.720
+[Amit Varma]: Samanta, TM Aziz and Manisha Gehra Baswani. They accept bulk orders for corporate and
+
+01:15:35.720 --> 01:15:39.920
+[Amit Varma]: festival gifting. But even if you want to buy just for yourself or a friend, head on
+
+01:15:39.920 --> 01:15:46.040
+[Amit Varma]: over to IndianColors.com. That's colors with an O-U. And if you want a 15% discount, apply
+
+01:15:46.040 --> 01:15:54.960
+[Amit Varma]: the code unseen. U-N-S-E-E-N. That's unseen for 15% off at IndianColors.com.
+
+01:15:54.960 --> 01:15:58.000
+[Amit Varma]: Welcome back to the scene in the unseen. I'm chatting with Madhav Khosla on his amazing
+
+01:15:58.000 --> 01:16:06.040
+[Amit Varma]: book India's founding moment, which is essentially divided into three themes where he looks at
+
+01:16:06.040 --> 01:16:12.040
+[Amit Varma]: these three sort of locations of debate at the time the constitution was being formed.
+
+01:16:12.040 --> 01:16:17.480
+[Amit Varma]: One, as we have discussed, is the codification, both in the sense of the extreme amount of
+
+01:16:17.480 --> 01:16:23.240
+[Amit Varma]: codification that the book had, and also, you know, illustrating that through how they
+
+01:16:23.240 --> 01:16:28.560
+[Amit Varma]: looked at directive principles, how they looked at the rights, which they did guarantee, but
+
+01:16:28.560 --> 01:16:34.440
+[Amit Varma]: attach caveats to, and in the whole question of procedural versus substantive due process.
+
+01:16:34.440 --> 01:16:39.000
+[Amit Varma]: Now we come to sort of your second chapter of your book, which is about how we chose
+
+01:16:39.000 --> 01:16:45.280
+[Amit Varma]: such a centralized model. Now, I'd done an episode with the historian Gyan Prakash on
+
+01:16:45.280 --> 01:16:49.960
+[Amit Varma]: his book on the emergency. And he pointed out during that episode and indeed in his
+
+01:16:49.960 --> 01:16:55.720
+[Amit Varma]: book, that one of the reasons that so much power was centralized, which is why everything
+
+01:16:55.720 --> 01:16:59.940
+[Amit Varma]: Indira Gandhi did was absolutely alleged by the constitution. One of the reasons so much
+
+01:16:59.940 --> 01:17:05.120
+[Amit Varma]: power was centralized was that the framers of our constitution at the time they were
+
+01:17:05.120 --> 01:17:09.680
+[Amit Varma]: framing the constitution, there was violence breaking out all over the country, there was
+
+01:17:09.680 --> 01:17:14.600
+[Amit Varma]: no guarantee that the center would hold. So hey, the centralized power for that reason,
+
+01:17:14.600 --> 01:17:22.040
+[Amit Varma]: but as you point out in your book, debates around that had been going on for decades,
+
+01:17:22.040 --> 01:17:27.720
+[Amit Varma]: you know, and Gandhi was, of course, one of the prominent voices against centralization.
+
+01:17:27.720 --> 01:17:32.320
+[Amit Varma]: So were people like Radhakamal Mukherjee, who wrote the book, democracies of the East,
+
+01:17:32.320 --> 01:17:36.080
+[Amit Varma]: which which I found fascinating, and I hadn't heard of it before. So, and you've quoted
+
+01:17:36.080 --> 01:17:41.120
+[Amit Varma]: elaborately from that. So give me a sense of, you know, through the decades before independence
+
+01:17:41.120 --> 01:17:46.520
+[Amit Varma]: is even a remote possibility. How are people thinking of this relationship between state
+
+01:17:46.520 --> 01:17:47.520
+[Guest]: and society?
+
+01:17:47.520 --> 01:17:54.280
+[Guest]: So, Amit, you know, I began thinking about this chapter with the preconception that I
+
+01:17:54.280 --> 01:18:00.560
+[Guest]: think a lot of people have, one that you just gestured at, which was that look, partition
+
+01:18:00.560 --> 01:18:07.280
+[Guest]: happened, there's civil war, and a strong centralized state is what can prevent India
+
+01:18:07.280 --> 01:18:11.920
+[Guest]: from breaking up into smaller states. It can prevent further partition, it can prevent
+
+01:18:11.920 --> 01:18:16.840
+[Guest]: the balkanization of the new country. And so I thought that look, a centralized state
+
+01:18:16.840 --> 01:18:25.560
+[Guest]: is basically a contingent outcome of a serious security concern and of fear. And then the
+
+01:18:25.560 --> 01:18:31.080
+[Guest]: more you read the debates, you realize that's not actually true. So there's a you realize
+
+01:18:31.080 --> 01:18:37.680
+[Guest]: that there's a deep ideological and theoretical vision behind centralization. And we need
+
+01:18:37.680 --> 01:18:44.160
+[Guest]: to think a little bit about what that vision was, right. Now, the Constituent Assembly
+
+01:18:44.160 --> 01:18:52.600
+[Guest]: meets under the 1946 Cabinet Mission Plan, right? And the Cabinet Mission Plan is a failure.
+
+01:18:52.600 --> 01:18:56.840
+[Guest]: Under the Cabinet Mission Plan, there is not that much centralization, right? It's a federation
+
+01:18:56.840 --> 01:19:03.560
+[Guest]: of a complex kind. And once the Cabinet Mission Plan fails, when India becomes divided, because
+
+01:19:03.560 --> 01:19:09.200
+[Guest]: under the Cabinet Mission Plan, it was one united country. Basically, people in the Constituent
+
+01:19:09.200 --> 01:19:13.000
+[Guest]: Assembly are thrilled, because they're like, look, now we have freedom, we can make any
+
+01:19:13.000 --> 01:19:18.040
+[Guest]: country we want, we are not governed by the provisions of the plan. And then you see a
+
+01:19:18.040 --> 01:19:22.880
+[Guest]: debate about centralization. And there are two broad traditions. And I think the best
+
+01:19:22.880 --> 01:19:30.000
+[Guest]: way to understand the centralization debate is to see it as a contrast between the state
+
+01:19:30.000 --> 01:19:37.040
+[Guest]: and society. So on the one hand, you have people like Gandhi, like Radha Kamal Mukherjee,
+
+01:19:37.040 --> 01:19:43.800
+[Guest]: who want something called political pluralism. And let's pause for a moment, because it's
+
+01:19:43.800 --> 01:19:53.360
+[Guest]: quite a complicated idea. In our societies, the state is at the center of authority, the
+
+01:19:53.360 --> 01:20:02.560
+[Guest]: state is the exclusive authority. A society that has political pluralism is one where
+
+01:20:02.560 --> 01:20:10.280
+[Guest]: a range of bodies in society exercise authority, professional guilds, associations, organizations,
+
+01:20:10.280 --> 01:20:15.640
+[Guest]: and the state is one among them, there's nothing special about the state. And what was interesting
+
+01:20:15.640 --> 01:20:22.160
+[Guest]: in Mukherjee and Gandhi's vision, is that you would have these extremely decentralized
+
+01:20:22.160 --> 01:20:28.520
+[Guest]: village republics, where there would be authority split everywhere. And so its authority is
+
+01:20:28.520 --> 01:20:34.480
+[Guest]: more and more dispersed, think about it as a dispersal of power through and through.
+
+01:20:34.480 --> 01:20:39.960
+[Guest]: And that in a way would provide some kind of freedom. So it is a vision of democracy,
+
+01:20:39.960 --> 01:20:46.640
+[Guest]: make no mistake about it. It's a vision of democracy, that places a huge amount of emphasis
+
+01:20:46.640 --> 01:20:54.200
+[Guest]: on participation, and on local attention, and on local engagement, right. And it is
+
+01:20:54.200 --> 01:21:05.880
+[Guest]: a vision of democracy, where there is a critique of the modernized, civilized, Western conception
+
+01:21:05.880 --> 01:21:12.000
+[Guest]: of progress, because that is associated with a certain kind of violence. Now on the alternative
+
+01:21:12.000 --> 01:21:18.320
+[Guest]: side of the spectrum, you also have a vision of democracy. There the vision of democracy
+
+01:21:18.320 --> 01:21:24.520
+[Guest]: comes from the idea that look, everybody in India sees each other differently. They see
+
+01:21:24.520 --> 01:21:31.680
+[Guest]: each other through narrow, localized, and localism is the enemy of equality. Because
+
+01:21:31.680 --> 01:21:38.160
+[Guest]: ultimately, if I see you as belonging to X village, Y caste, C religion, speaking A language,
+
+01:21:38.160 --> 01:21:43.520
+[Guest]: B dialect, I'm not seeing you as a human being, I'm not seeing you as an individual. And the
+
+01:21:43.520 --> 01:21:53.440
+[Guest]: way to actually make me see you as an individual is to dismantle those prior forms of authority,
+
+01:21:53.440 --> 01:21:59.480
+[Guest]: and to actually place us all under one umbrella. And that one umbrella is the state. So the
+
+01:21:59.480 --> 01:22:05.840
+[Guest]: minute we all get under one umbrella, we actually come under the state. So that's the two very
+
+01:22:05.840 --> 01:22:10.520
+[Guest]: different visions of democracy. And they rest on two very different visions of the society
+
+01:22:10.520 --> 01:22:16.400
+[Guest]: and the state. On the one hand, society can be the site of change. And society can be
+
+01:22:16.400 --> 01:22:23.560
+[Guest]: the site of freedom. And the state is a violent force, right, that just coerces people. On
+
+01:22:23.560 --> 01:22:30.080
+[Guest]: the other hand, society is what needs to be destroyed, quite literally. And actually,
+
+01:22:30.080 --> 01:22:35.440
+[Guest]: the state is the force that can enable us to see each other differently. Now, the question
+
+01:22:35.440 --> 01:22:42.480
+[Guest]: that you can ask is, look, why is it that the Pluralists lost out? And the Pluralists
+
+01:22:42.480 --> 01:22:48.800
+[Guest]: lost out for the same reason that they lost out everywhere. And by everywhere, I mean
+
+01:22:48.800 --> 01:22:55.840
+[Guest]: that this was part of a big global movement, also in the UK, most famously, but also elsewhere.
+
+01:22:55.840 --> 01:23:01.420
+[Guest]: And the Pluralists lost out everywhere. And by lost out, what do I mean? I mean that look,
+
+01:23:01.420 --> 01:23:08.720
+[Guest]: one of the important, noteworthy, startling features of the mid 20th century is that for
+
+01:23:08.720 --> 01:23:14.560
+[Guest]: 50 years before that, you have a range of proposals, right, to move beyond the nation
+
+01:23:14.560 --> 01:23:19.760
+[Guest]: state, right, all kinds of federations, you have a range of proposals for certain kinds
+
+01:23:19.760 --> 01:23:31.080
+[Guest]: of Pluralism. But ultimately, what happens is that the 20th century marks the centrality
+
+01:23:31.080 --> 01:23:36.520
+[Guest]: of the nation state and its victory over other institutional forms. And the Pluralists lose
+
+01:23:36.520 --> 01:23:44.040
+[Guest]: out because they never have an argument for actually how you can, through the logic of
+
+01:23:44.040 --> 01:23:51.560
+[Guest]: society without a state, preserve peace and enable a certain kind of freedom. So when
+
+01:23:51.560 --> 01:23:59.280
+[Guest]: somebody will say that, look, how can you actually ensure that Hindus and Muslims will
+
+01:23:59.280 --> 01:24:07.160
+[Guest]: not fight? The Pluralist answer will be, look, be good to your neighbours. They've not fought
+
+01:24:07.160 --> 01:24:11.420
+[Guest]: before. If they fought before, then they find a way to deal with it. It has happened for
+
+01:24:11.420 --> 01:24:18.400
+[Guest]: so many years, it will happen for more years. By happen, I mean the resolution, right? That
+
+01:24:18.400 --> 01:24:24.480
+[Guest]: is not good enough as an answer to people who have such a deep fear of that situation
+
+01:24:24.480 --> 01:24:30.720
+[Guest]: because they say, look, you actually need a force, a genuine force to attack and to
+
+01:24:30.720 --> 01:24:36.280
+[Guest]: respond to society. You cannot just say society will find a way because it has found a way
+
+01:24:36.280 --> 01:24:41.920
+[Guest]: all the time before. So the difference is that the reason for the failure is that they
+
+01:24:41.920 --> 01:24:48.640
+[Guest]: cannot offer a conceptual answer for the reasons for which the state had been imagined in the
+
+01:24:48.640 --> 01:24:55.400
+[Guest]: first place. Their answer is a kind of sociology, or it's a kind of history, right? Where they
+
+01:24:55.400 --> 01:24:59.080
+[Guest]: say, look, it's happened before, people have been fighting for long, they find a way to
+
+01:24:59.080 --> 01:25:03.480
+[Guest]: deal with it. Whereas if I'm terrified that two people are going to kill each other, I
+
+01:25:03.480 --> 01:25:06.920
+[Guest]: want an answer to why they wouldn't do it. And the answer why they wouldn't do it is
+
+01:25:06.920 --> 01:25:10.520
+[Guest]: because one of them would be jailed. And so that answer is the state.
+
+01:25:10.520 --> 01:25:15.320
+[Amit Varma]: In fact, this reminds me of what my great liberal hero, Frederick Hayek, once wrote
+
+01:25:15.320 --> 01:25:20.920
+[Amit Varma]: in an essay called why I am not a conservative, where he pointed out that, you know, conservatives
+
+01:25:20.920 --> 01:25:26.040
+[Amit Varma]: will always have things to say about the means of change, but they will not have, they will
+
+01:25:26.040 --> 01:25:31.400
+[Amit Varma]: not be able to explain how change will happen in the first place. They will have no specific
+
+01:25:31.400 --> 01:25:37.040
+[Amit Varma]: ends of their own, which is something I explored in an episode also with Jyothi Thrao on his
+
+01:25:37.040 --> 01:25:41.680
+[Amit Varma]: recent book, The Indian Conservative, which reminded me of this argument against the pluralist
+
+01:25:41.680 --> 01:25:47.800
+[Amit Varma]: that, you know, how will you make change happen? My sort of question here is, I totally get
+
+01:25:47.800 --> 01:25:54.840
+[Amit Varma]: the logic against localism, that when you have divisive, dangerous, unpredictable localism,
+
+01:25:54.840 --> 01:26:00.720
+[Amit Varma]: the urge for centralization and to bring it under one set of values is very coherent to
+
+01:26:00.720 --> 01:26:05.840
+[Amit Varma]: me. But what I would argue for and what, you know, in India has sometimes been paid lip
+
+01:26:05.840 --> 01:26:11.000
+[Amit Varma]: service to is that you centralize your values through the rules of the constitution or the
+
+01:26:11.000 --> 01:26:15.960
+[Amit Varma]: textbook, the constitution, you centralize your values, but you decentralize governance,
+
+01:26:15.960 --> 01:26:21.480
+[Amit Varma]: where governance becomes as local as possible all the way down to cities and towns in Panchayati
+
+01:26:21.480 --> 01:26:27.240
+[Amit Varma]: Raj. And what that does is that it creates a link between power and accountability, which
+
+01:26:27.240 --> 01:26:32.760
+[Amit Varma]: doesn't exist today because our system is so dysfunctional. It increases the value of
+
+01:26:32.760 --> 01:26:37.560
+[Amit Varma]: a vote because you will actually feel assured that your vote is far likelier to make a difference
+
+01:26:37.560 --> 01:26:43.480
+[Amit Varma]: at that level. And therefore, citizens become more concerned and educate themselves better,
+
+01:26:43.480 --> 01:26:49.840
+[Amit Varma]: their incentives get better. And that's the sort of, so when I talk about the desirability
+
+01:26:49.840 --> 01:26:55.440
+[Amit Varma]: of a decentralized state, that's what I mean. And you have your values centralized in the
+
+01:26:55.440 --> 01:27:00.040
+[Amit Varma]: constitution and the laws that govern you, but you have your governance decentralized,
+
+01:27:00.040 --> 01:27:01.520
+[Guest]: so democracy can be more efficient.
+
+01:27:01.520 --> 01:27:08.080
+[Guest]: No, I certainly think that India has, I mean, one of the many ills in India's constitution
+
+01:27:08.080 --> 01:27:13.080
+[Guest]: model today is the kind of centralization, right? I think the important thing to think
+
+01:27:13.080 --> 01:27:20.800
+[Guest]: about is at that moment, the fear of decentralization, even of the kinds that you describe, right,
+
+01:27:20.800 --> 01:27:25.880
+[Guest]: or of like, you could, I mean, there are ways to think that centralize on some things, decentralize
+
+01:27:25.880 --> 01:27:31.960
+[Guest]: on others, so on and so forth. And this is just what's interesting to learn, right, is
+
+01:27:31.960 --> 01:27:38.280
+[Guest]: that the fear of society is so deep that there's a sense that, look, the more you go down,
+
+01:27:38.280 --> 01:27:44.840
+[Guest]: the more society will permeate the state, right? And actually, therefore, radicalism
+
+01:27:44.840 --> 01:27:51.160
+[Guest]: requires some distance, which is why people who are critical of this are saying, look,
+
+01:27:51.160 --> 01:27:57.240
+[Guest]: we're doing imperialism 2.0, because the whole point that radicalism requires distance was
+
+01:27:57.240 --> 01:28:03.120
+[Guest]: the colonial argument. So, it's a very interesting contest between both sides. And I think it's
+
+01:28:03.120 --> 01:28:09.720
+[Guest]: also worth noting, because you referenced the word conservative a moment ago, depending
+
+01:28:09.720 --> 01:28:17.200
+[Guest]: on where you stand, people like Gandhi and Mukherjee are either conservative or radical,
+
+01:28:17.200 --> 01:28:20.920
+[Guest]: because at one level, they are radical, because they are saying, look, Indian society itself
+
+01:28:20.920 --> 01:28:26.160
+[Guest]: can do it. You don't even need the state. That's also radical. Gandhi had a profoundly
+
+01:28:26.160 --> 01:28:30.920
+[Guest]: radical view of human agency. Not only did he believe that people were capable of what
+
+01:28:30.920 --> 01:28:37.720
+[Guest]: we might think are extraordinary things, he thought every person is capable of that. So,
+
+01:28:37.720 --> 01:28:44.280
+[Guest]: I think what's important in the contest between people like Ambedkar, Nehru versus a Gandhi-Mukherjee
+
+01:28:44.280 --> 01:28:51.400
+[Guest]: type thing is both sides claim radicalism, and both sides claim democracy. I think what
+
+01:28:51.400 --> 01:28:57.520
+[Amit Varma]: Gandhi and Mukherjee do, and tell me if you agree, is that their ends are radical, but
+
+01:28:57.520 --> 01:29:02.480
+[Guest]: their means are conservative. No, they would say that their ends are deep, their means
+
+01:29:02.480 --> 01:29:06.400
+[Guest]: are deeply radical, because they say that it can happen through society itself. That's
+
+01:29:06.400 --> 01:29:09.920
+[Amit Varma]: a conservative statement that you don't need the coercive power of the state that society
+
+01:29:09.920 --> 01:29:14.480
+[Amit Varma]: will reform itself where required. That's exactly the classic conservative position,
+
+01:29:14.480 --> 01:29:18.640
+[Guest]: isn't it? That's what Burke would say. No, because they would say that, look, it's so
+
+01:29:18.640 --> 01:29:28.440
+[Guest]: much more radical that the change lies within, that I can actually change within. That's
+
+01:29:28.440 --> 01:29:35.840
+[Guest]: radical. It's conservative to think that some external force will do it. Their whole metaphor
+
+01:29:35.840 --> 01:29:41.240
+[Guest]: of the state is an external force. They see the state simply like colonialism, just as
+
+01:29:41.240 --> 01:29:46.960
+[Guest]: an external force. If somebody were to tell you, Amit, there are ABC things you can change,
+
+01:29:46.960 --> 01:29:51.160
+[Guest]: and either change them by talking to these people, or change them within just on your
+
+01:29:51.160 --> 01:29:56.920
+[Guest]: own. You would say that changing them on my own is like too radical. Like, it's like that
+
+01:29:56.920 --> 01:30:02.600
+[Guest]: requires too much almost. Like there's a different level of evolution needed for that kind of
+
+01:30:02.600 --> 01:30:07.360
+[Amit Varma]: and that's their answer. I think I'd interpret these terms slightly differently, but moving
+
+01:30:07.360 --> 01:30:13.600
+[Guest]: on. Yeah, I mean, I would just say that both sides claim radicalism, and both sides claim
+
+01:30:13.600 --> 01:30:17.240
+[Guest]: democracy. I think that's what I would say. I'm not saying you have to agree or disagree,
+
+01:30:17.240 --> 01:30:21.800
+[Guest]: right? The very fact that there are multiple definitions of these terms is why they can
+
+01:30:21.800 --> 01:30:26.840
+[Amit Varma]: both claim it. Fair enough. You also cite, you know, it's very interesting that, you
+
+01:30:26.840 --> 01:30:31.960
+[Amit Varma]: know, Lasky was a big influence on Nehru and a hero of Nehru, and yet Lasky has a different
+
+01:30:31.960 --> 01:30:36.280
+[Amit Varma]: view on this subject than Nehru does. And from your book, you write, I'll quote from
+
+01:30:36.280 --> 01:30:42.320
+[Amit Varma]: that, quote for Lasky, the emphasis on state coercion had been a philosophical and sociological
+
+01:30:42.320 --> 01:30:47.680
+[Amit Varma]: error. It had presented a model of power that failed to pay due attention to the reality
+
+01:30:47.680 --> 01:30:53.280
+[Amit Varma]: of consent. And later on, you quote P.T. Chacko saying during the debates, quote, in the place
+
+01:30:53.280 --> 01:30:58.560
+[Amit Varma]: of foreign imperialism, we are now having an Indian imperialism, stop quote. And many
+
+01:30:58.560 --> 01:31:03.800
+[Amit Varma]: would say looking at, for example, what is happening in Kashmir now, you know, many would
+
+01:31:03.800 --> 01:31:08.920
+[Amit Varma]: turn to Lasky's point about the consent of the government and the way the central government
+
+01:31:08.920 --> 01:31:13.560
+[Amit Varma]: could just declare Kashmir a non-state and split it up into union territories. Doesn't
+
+01:31:13.560 --> 01:31:17.560
+[Amit Varma]: that show that there was something profound in the warnings of those who warned against
+
+01:31:17.560 --> 01:31:19.800
+[Guest]: such a powerful centralized state?
+
+01:31:19.800 --> 01:31:24.520
+[Guest]: So two things. One, just as a specific point of intellectual history, you're right that
+
+01:31:24.520 --> 01:31:30.920
+[Guest]: as site Lasky is a pluralist, Lasky changes his view later. Right. And so he then becomes
+
+01:31:30.920 --> 01:31:37.600
+[Guest]: a state guy. And that's the best sort of book that explains the Lasky and switch. And it's
+
+01:31:37.600 --> 01:31:43.520
+[Guest]: the best among the best books on pluralism is a book by David Runciman, which I reference.
+
+01:31:43.520 --> 01:31:47.800
+[Guest]: The second is that I think the short answer that a lot of people would give you is yes,
+
+01:31:47.800 --> 01:31:56.040
+[Guest]: you're right. I mean, I think the state seems to be exercising extraordinary coercive power
+
+01:31:56.040 --> 01:32:04.080
+[Guest]: significantly more than what any of us associated with modern constitutional democracies. Now,
+
+01:32:04.080 --> 01:32:10.400
+[Guest]: how that has happened and how that will change is a question probably above one's pay grade.
+
+01:32:10.400 --> 01:32:15.240
+[Guest]: But I think that it's certainly true that more and more, the state is behaving less
+
+01:32:15.240 --> 01:32:18.880
+[Guest]: and less like the state in a free society.
+
+01:32:18.880 --> 01:32:25.160
+[Amit Varma]: And I just want to clarify for my listeners that my sort of what you have described beautifully
+
+01:32:25.160 --> 01:32:30.880
+[Amit Varma]: here is the arguments that led to the centralization of the state. Nowhere have you actually defended
+
+01:32:30.880 --> 01:32:35.360
+[Amit Varma]: it or argued for it. In fact, you've been pretty scrupulous in giving both sides of
+
+01:32:35.360 --> 01:32:42.000
+[Amit Varma]: the debate and talking about, you know, how we sort of got here. Let's talk about the
+
+01:32:42.000 --> 01:32:47.200
+[Amit Varma]: third locus of your book, which is very complicated and which also is like a two part question.
+
+01:32:47.200 --> 01:32:53.760
+[Amit Varma]: And that's a question of identity. India, at its founding, does have the huge Hindu
+
+01:32:53.760 --> 01:32:59.080
+[Amit Varma]: Muslim problem to deal with. And you've quoted from, you know, Jinnah's presidential address
+
+01:32:59.080 --> 01:33:04.040
+[Amit Varma]: at the All India Muslim League conference in 1940, where he explains in great detail
+
+01:33:04.040 --> 01:33:10.240
+[Amit Varma]: why Hindus and Muslims are two separate nations and they cannot possibly live together. You've
+
+01:33:10.240 --> 01:33:15.280
+[Amit Varma]: quoted Nehru expressing his contempt for group based thinking. And at the same time, you've
+
+01:33:15.280 --> 01:33:21.360
+[Amit Varma]: also cited from Ambedkar's book, Pakistan or the partition of India, where he points
+
+01:33:21.360 --> 01:33:28.480
+[Amit Varma]: out that the argument behind Pakistan has some merit to it and, you know, should not
+
+01:33:28.480 --> 01:33:33.680
+[Amit Varma]: be caricatured. And also at one point he talks about, which I found very interesting in the
+
+01:33:33.680 --> 01:33:37.960
+[Amit Varma]: present context, where he talks about why Hindu nationalists and the Indian National
+
+01:33:37.960 --> 01:33:42.520
+[Amit Varma]: Congress have both failed in dealing with the problem. Because as he says it, the Hindu
+
+01:33:42.520 --> 01:33:46.760
+[Amit Varma]: nationalists want to just do away with Muslims and the Indian National Congress wants to
+
+01:33:46.760 --> 01:33:50.880
+[Amit Varma]: appease them and pander to them. And that doesn't help either. Can you elaborate a bit
+
+01:33:50.880 --> 01:33:56.120
+[Amit Varma]: on the sort of pre-independence debates that were happening around this question?
+
+01:33:56.120 --> 01:34:03.360
+[Guest]: Completely. So the interesting thing about the years prior to the birth of modern India
+
+01:34:03.360 --> 01:34:10.440
+[Guest]: is that there is a deep crisis of liberal representation, by which I mean that you are
+
+01:34:10.440 --> 01:34:16.880
+[Guest]: not seeing people as individuals. You are seeing them as members of groups and you are
+
+01:34:16.880 --> 01:34:24.680
+[Guest]: seeing citizenship as mediated through group identity. So if you see Muslim nationalists,
+
+01:34:24.680 --> 01:34:30.840
+[Guest]: Jinnah is the most famous example. But I also think that somebody like Moulana Azad is very
+
+01:34:30.840 --> 01:34:36.920
+[Guest]: interesting. And I think the problem that's happened is this, Amit, that all of our historical
+
+01:34:36.920 --> 01:34:42.080
+[Guest]: attention is on partition, which is a question of territoriality. Did you want one country
+
+01:34:42.080 --> 01:34:47.120
+[Guest]: or two? If you change the focus and say, I'm not interested in the question of do you want
+
+01:34:47.120 --> 01:34:52.440
+[Guest]: one country or two, but I'm interested in the question actually of do you see people
+
+01:34:52.440 --> 01:34:58.480
+[Guest]: as equal or as different? The question of whether you keep them as equal or different
+
+01:34:58.480 --> 01:35:02.040
+[Guest]: and you could keep them as different in one country or in two, but do you see them as
+
+01:35:02.040 --> 01:35:07.600
+[Guest]: equal or different, right? If you ask that question, you're no longer interested in territoriality,
+
+01:35:07.600 --> 01:35:14.040
+[Guest]: but you're interested in representation. And then your interesting date is not 1947. It's
+
+01:35:14.040 --> 01:35:22.720
+[Guest]: 1909. It's the Mali Minto reforms onwards. From that period to 1947, you barely find
+
+01:35:22.720 --> 01:35:25.460
+[Guest]: anyone who's seeing people as the same.
+
+01:35:25.460 --> 01:35:29.280
+[Amit Varma]: And just to clarify what the Mali Minto reforms did was it created separate electorates for
+
+01:35:29.280 --> 01:35:30.480
+[Amit Varma]: Hindus and Muslims.
+
+01:35:30.480 --> 01:35:36.040
+[Guest]: So basically, since that period, somebody like Jinnah is seeing them as different and
+
+01:35:36.040 --> 01:35:42.360
+[Guest]: asking for two countries. Somebody like Moulana Azad is seeing them as actually asking for
+
+01:35:42.360 --> 01:35:46.280
+[Guest]: one country, but I think it's not clear that he's seeing them as the same. He never really
+
+01:35:46.280 --> 01:35:52.760
+[Guest]: gives up on Sharia. And I discussed the intellectual origins of how far back this goes. In the
+
+01:35:52.760 --> 01:35:57.200
+[Guest]: case of, I mean, it goes all the way back to Sayyar Ahmed Khan famously. So in the case
+
+01:35:57.200 --> 01:36:03.480
+[Guest]: of Hindu nationalism, they see everybody as the same, but everybody's Hindu. So they effectively,
+
+01:36:03.480 --> 01:36:09.720
+[Guest]: it means an elimination of the minority completely. And the group, which is the Indian National
+
+01:36:09.720 --> 01:36:16.240
+[Guest]: Congress, which unambiguously wants one country and unambiguously hates communalism in some
+
+01:36:16.240 --> 01:36:22.320
+[Guest]: sense doesn't give us a very clear model either, because it's not that interested in this question.
+
+01:36:22.320 --> 01:36:28.280
+[Guest]: But for most of his life, somebody like Nehru at that time, not for most of his life, but
+
+01:36:28.280 --> 01:36:33.680
+[Guest]: for most of those years, is interested in actually economic issues. And he sees differences
+
+01:36:33.680 --> 01:36:38.280
+[Guest]: as exemplifying economic conflicts and as being a reflection of economic conflicts.
+
+01:36:38.280 --> 01:36:42.640
+[Amit Varma]: In fact, in your book, you write about how the Bengal conflict, he saw it not as a conflict
+
+01:36:42.640 --> 01:36:45.640
+[Amit Varma]: between Hindus and Muslims, but landlords and tenants.
+
+01:36:45.640 --> 01:36:51.040
+[Guest]: Completely. And you see those examples can be easily multiplied. Similarly, sorry, in
+
+01:36:51.040 --> 01:36:57.480
+[Guest]: a different way, Gandhi is also somebody who doesn't take the question seriously at the
+
+01:36:57.480 --> 01:37:02.800
+[Guest]: level of theory because he's interested in practice. Gandhi's answer is, look, you treat
+
+01:37:02.800 --> 01:37:07.820
+[Guest]: your neighbor well, right? He doesn't have a model of representation because he's aiming
+
+01:37:07.820 --> 01:37:13.440
+[Guest]: for a very different political vision. Now, that basically means that it's only after
+
+01:37:13.440 --> 01:37:20.160
+[Guest]: partition that you get a situation where you have to come up with a theory of representation.
+
+01:37:20.160 --> 01:37:26.540
+[Guest]: And you see two things happening in that moment in Indian history. The first is that you see
+
+01:37:26.540 --> 01:37:33.440
+[Guest]: a move towards individual representation. So, the assembly rejects separate electorates,
+
+01:37:33.440 --> 01:37:40.320
+[Guest]: it rejects weightage on religious grounds, it rejects reservations on religious grounds.
+
+01:37:40.320 --> 01:37:48.240
+[Guest]: Because they say that, look, any model that is structured around identity cannot work.
+
+01:37:48.240 --> 01:37:54.760
+[Guest]: It cannot create a sustainable political environment. And how do we know that? Because we've tried
+
+01:37:54.760 --> 01:38:02.280
+[Guest]: it. We have actually been trying since the last 40 years, a model. And if you are involved
+
+01:38:02.280 --> 01:38:09.080
+[Guest]: in this kind of trap, then what Pratap Bhanu Mehta once called Savarkar's trap, you can
+
+01:38:09.080 --> 01:38:13.840
+[Guest]: never get a solution out of it. If this is your question, all answers are wrong. Because
+
+01:38:13.840 --> 01:38:21.000
+[Guest]: if you're a majority, then you can never, if you take the majority view, the minority
+
+01:38:21.000 --> 01:38:25.340
+[Guest]: will be unhappy. If you take the minority view, the majority will be unhappy. And so
+
+01:38:25.340 --> 01:38:32.320
+[Guest]: you actually cannot ask the question in that way. The second thing they say is that, look,
+
+01:38:32.320 --> 01:38:36.800
+[Guest]: even to ask the question in that way is not only politically unsustainable in the way
+
+01:38:36.800 --> 01:38:44.920
+[Guest]: that we've seen, but it also actually is not a reflection of a democracy. Because the minute
+
+01:38:44.920 --> 01:38:50.960
+[Guest]: I am looking at people through certain identities, I'm doing that because I'm thinking that,
+
+01:38:50.960 --> 01:38:56.280
+[Guest]: look, a Muslim has a certain interest, a Hindu has a certain interest. But I only needed
+
+01:38:56.280 --> 01:39:01.120
+[Guest]: to do that. I only needed to guess people's interests in a British model where people
+
+01:39:01.120 --> 01:39:06.000
+[Guest]: were not expressing their interest. Now that people can go to the ballot box and vote,
+
+01:39:06.000 --> 01:39:11.680
+[Guest]: I don't need to identify them in any way. In fact, the only category that matters is
+
+01:39:11.680 --> 01:39:17.320
+[Guest]: political majority and political minority. And that is a category that is created and
+
+01:39:17.320 --> 01:39:22.720
+[Guest]: recreated through politics, which goes back to our initial theme. The whole point of a
+
+01:39:22.720 --> 01:39:28.480
+[Guest]: democracy is that I can make any world. To make any world, I need a majority and I can
+
+01:39:28.480 --> 01:39:33.420
+[Guest]: make any majority. Even if I'm one person who believes something, a democracy lets me
+
+01:39:33.420 --> 01:39:38.960
+[Guest]: convince everybody else and then we become a majority and we vote. So the only category
+
+01:39:38.960 --> 01:39:44.680
+[Guest]: that matters for the purposes of a democratic politics is a political majority and a political
+
+01:39:44.680 --> 01:39:51.960
+[Guest]: minority. And in order for it to be democratic, that must almost by definition be fluid. That
+
+01:39:51.960 --> 01:39:57.360
+[Guest]: can always be created and recreated. And so I can then always see people differently.
+
+01:39:57.360 --> 01:40:02.760
+[Guest]: Now the question that you might ask is, look, if people are so entrenched in seeing people
+
+01:40:02.760 --> 01:40:07.480
+[Guest]: as Hindus and Muslims, wouldn't they vote like that? And then the political majority
+
+01:40:07.480 --> 01:40:15.960
+[Guest]: and minority would mirror that. And here, the assembly comes up with getting a very
+
+01:40:15.960 --> 01:40:22.640
+[Guest]: interesting lesson from partition. Ultimately, what partition told you is that you created
+
+01:40:22.640 --> 01:40:28.520
+[Guest]: a huge communal problem where none existed. That means you put people in a specific institutional
+
+01:40:28.520 --> 01:40:34.840
+[Guest]: structure of separate electorates, of weightage, of reservations, all of this stuff, and you
+
+01:40:34.840 --> 01:40:38.800
+[Guest]: got them to think like that. You put them in a different structure, they won't think
+
+01:40:38.800 --> 01:40:43.040
+[Amit Varma]: like that. Right. And this is like the point that Sardar Patel, for example, made where
+
+01:40:43.040 --> 01:40:47.960
+[Amit Varma]: he said that separate electorates had sharpened communal differences because people would
+
+01:40:47.960 --> 01:40:53.600
+[Amit Varma]: see themselves as Hindus or Muslims and their participation would be along those lines.
+
+01:40:53.600 --> 01:40:57.320
+[Guest]: Exactly. And this goes back just to the initial theme that we talked about, which is the heart
+
+01:40:57.320 --> 01:41:02.200
+[Guest]: of the book, that you put people in any institutional structure, you'll get that. And so their point
+
+01:41:02.200 --> 01:41:07.440
+[Guest]: is you put people in an institutional structure where when you say majority-minority, they
+
+01:41:07.440 --> 01:41:11.240
+[Guest]: don't think Hindu-Muslim. They think political majority, political minority, and they're
+
+01:41:11.240 --> 01:41:15.280
+[Amit Varma]: always thinking, how can I change those? So then what the constitution does by removing
+
+01:41:15.280 --> 01:41:20.640
+[Amit Varma]: separate electorates is that it liberates you politically from having to think of yourself
+
+01:41:20.640 --> 01:41:25.680
+[Amit Varma]: as a Hindu. You might still feel that we're at the level of a community or society, but
+
+01:41:25.680 --> 01:41:29.640
+[Guest]: politically you can vote as an individual. Yeah, you can think any way you want. Nobody
+
+01:41:29.640 --> 01:41:34.720
+[Guest]: can stop you from doing that. But the point is that the relevant political category is
+
+01:41:34.720 --> 01:41:41.920
+[Amit Varma]: one actually of a political majority and minority. And so the separation of, you know, so you
+
+01:41:41.920 --> 01:41:45.400
+[Amit Varma]: did not have separate electorates. You just have one electorate and this is the reasoning
+
+01:41:45.400 --> 01:41:51.280
+[Guest]: behind it. Now, you also don't have reservations on religion and you don't have weightage.
+
+01:41:51.280 --> 01:41:55.680
+[Guest]: For all those years, it's not only separate electorates, there are a range of proposals
+
+01:41:55.680 --> 01:41:59.560
+[Guest]: that are being worked out in different ways, and all of them are rejected. And you would
+
+01:41:59.560 --> 01:42:06.600
+[Amit Varma]: assume that the arguments for rejecting them, for example, that they will increase the differences
+
+01:42:06.600 --> 01:42:11.360
+[Amit Varma]: between people, they will force people to think in those particular boxes, and so on
+
+01:42:11.360 --> 01:42:17.160
+[Amit Varma]: and so forth, are arguments that could also be used against caste. Now explain to me why,
+
+01:42:17.160 --> 01:42:20.760
+[Guest]: you know, that was looked at differently. Before that, Amit, if I could just pause you
+
+01:42:20.760 --> 01:42:27.440
+[Guest]: for a second, it's not only that it will make people think more like that. It's that that's
+
+01:42:27.440 --> 01:42:32.320
+[Guest]: not the relevant question for politics. I could make people think all the time like
+
+01:42:32.320 --> 01:42:37.480
+[Guest]: that or not at all like that. What's relevant in politics is not ethnic majority, it's political
+
+01:42:37.480 --> 01:42:43.160
+[Guest]: majority. And the minute I make it ethnic majority, I'm not letting myself create any
+
+01:42:43.160 --> 01:42:49.240
+[Guest]: political majority I want. So it's anti-democratic. Because you're basically saying that I can't
+
+01:42:49.240 --> 01:42:55.400
+[Guest]: create the identity I want in politics, the relevant identity being political majority,
+
+01:42:55.400 --> 01:43:00.480
+[Guest]: that identity is already given to me from outside. So that's outside the domain of politics,
+
+01:43:00.480 --> 01:43:05.200
+[Guest]: then I cannot actually be self ruling. Because to me, to be self ruling, I should be able
+
+01:43:05.200 --> 01:43:10.320
+[Amit Varma]: to collectively create that identity in politics. Then identity would be destiny. But here it's
+
+01:43:10.320 --> 01:43:14.440
+[Guest]: not you can make your own destiny. Exactly, exactly. Which is what it means to belong
+
+01:43:14.440 --> 01:43:19.240
+[Guest]: to the modern world. So as opposed to the ancient or medieval world. Yeah. So let's
+
+01:43:19.240 --> 01:43:24.280
+[Amit Varma]: do the modern world itself is changing. Yeah, but I mean, modern in a normative sense, not
+
+01:43:24.280 --> 01:43:29.800
+[Amit Varma]: in a descriptive sense. Yeah, absolutely. Let's talk about caste. You know, what are
+
+01:43:29.800 --> 01:43:34.200
+[Amit Varma]: the debates around that? And here is treated very differently from religion. And you've
+
+01:43:34.200 --> 01:43:39.920
+[Amit Varma]: sort of described the whole series of intellectual arguments around caste as well. And at some
+
+01:43:39.920 --> 01:43:44.440
+[Amit Varma]: level, of course, it mirrors the discussion we had earlier, where Gandhi is saying that,
+
+01:43:44.440 --> 01:43:48.400
+[Amit Varma]: let it change at the level of society. And Ambedkar is saying, Are you crazy? That's
+
+01:43:48.400 --> 01:43:53.280
+[Amit Varma]: never going to happen. We need the state to sort of step in. And at the same time, the
+
+01:43:53.280 --> 01:43:57.920
+[Amit Varma]: same sort of arguments which could be made against religious reservations can be made
+
+01:43:57.920 --> 01:44:01.120
+[Amit Varma]: against caste reservations, but they're not for a very good reason, which you elucidate.
+
+01:44:01.120 --> 01:44:05.600
+[Guest]: So tell me a bit about that. So I mean, this is a great question, right? Because the caste
+
+01:44:05.600 --> 01:44:09.320
+[Guest]: everything I've told you so far about religion, somebody could say, look, Madhav, this is
+
+01:44:09.320 --> 01:44:14.200
+[Guest]: well and good, but then why give reservations on caste, right? And I think nobody's quite
+
+01:44:14.200 --> 01:44:19.160
+[Guest]: answered this question. One answer has been look, it's an exception. That doesn't really
+
+01:44:19.160 --> 01:44:25.280
+[Guest]: explain it. Second is, oh, it's just contradictory, right? So I'm just sort of describing the
+
+01:44:25.280 --> 01:44:31.520
+[Guest]: conflict. I think that they actually fit together. And they fit together in the following way
+
+01:44:31.520 --> 01:44:38.680
+[Guest]: that firstly, there is an appreciation of the fact that caste tenders a different problem
+
+01:44:38.680 --> 01:44:45.840
+[Guest]: to religion. Namely, in religion, the challenge is how can I preserve religious freedom and
+
+01:44:45.840 --> 01:44:52.840
+[Guest]: allow people to vote on non-religious grounds and not mediate their citizenship through
+
+01:44:52.840 --> 01:44:58.440
+[Guest]: religion. In the case of caste, the goal is not accommodation, it's annihilation. I actually
+
+01:44:58.440 --> 01:45:04.900
+[Guest]: want to end caste. That's the first thing to be said. The second is that I actually
+
+01:45:04.900 --> 01:45:11.080
+[Guest]: think that, I as in the founders think that you could be in a kind of democratic system
+
+01:45:11.080 --> 01:45:18.240
+[Guest]: of the kind that I've described. But there could be certain kinds of people excluded
+
+01:45:18.240 --> 01:45:23.760
+[Guest]: from the very process, because the process is not perfect in some way, and their views
+
+01:45:23.760 --> 01:45:28.960
+[Guest]: therefore don't reach the fore. Now, that is not a majority minority game, necessarily,
+
+01:45:28.960 --> 01:45:35.320
+[Guest]: right? That is a game about actually a certain amount of discrimination or a certain amount
+
+01:45:35.320 --> 01:45:42.360
+[Guest]: of backwardness. And there is an attempt at the founding to say, okay, if I actually have
+
+01:45:42.360 --> 01:45:50.560
+[Guest]: a group like this, how do I identify them? Now, I don't want to identify them as belonging
+
+01:45:50.560 --> 01:45:55.080
+[Guest]: just to a particular identity. And why don't I want to do that? I don't want to do that
+
+01:45:55.080 --> 01:45:59.960
+[Guest]: for two reasons. Number one, I need some kind of principle, right? Today, somebody could
+
+01:45:59.960 --> 01:46:04.200
+[Guest]: suffer from that. Tomorrow, it could be somebody else. What's the logic? Because if I'm doing
+
+01:46:04.200 --> 01:46:08.360
+[Guest]: it, I need to explain it to the people within the group and outside the group. Second, if
+
+01:46:08.360 --> 01:46:14.760
+[Guest]: I do it purely on identity, then actually the identity I want to remove will get further
+
+01:46:14.760 --> 01:46:20.440
+[Guest]: entrenched, right? The identity I want to remove will actually be the identity that
+
+01:46:20.440 --> 01:46:26.920
+[Guest]: gets recognized, which is why the attempt then becomes to abstract a certain kind of
+
+01:46:26.920 --> 01:46:32.880
+[Guest]: concept. And the concept that they arrive at is one of backwardness. Now, the reason
+
+01:46:32.880 --> 01:46:39.280
+[Guest]: why this is linked to individual freedom in just the way that the religion question was
+
+01:46:39.280 --> 01:46:45.440
+[Guest]: is that in the religion question, the attempt is actually to focus on the individual rather
+
+01:46:45.440 --> 01:46:49.800
+[Guest]: than mediate the relationship between him or her through the group. Here, the attempt
+
+01:46:49.800 --> 01:46:55.440
+[Guest]: is to rescue the individual from the chains of a certain group pressure, right? In both
+
+01:46:55.440 --> 01:47:01.600
+[Guest]: cases, I want to recover the individual. And here the thought is that if I abstract away
+
+01:47:01.600 --> 01:47:07.880
+[Guest]: and create a category of backwardness, then I could identify people. Now, it so happens
+
+01:47:07.880 --> 01:47:12.920
+[Guest]: at that time that whatever way you slice it, certain caste groups are backward and they
+
+01:47:12.920 --> 01:47:19.080
+[Guest]: fit into that. But the identification of the caste group is actually the consequence of
+
+01:47:19.080 --> 01:47:23.600
+[Guest]: the principle. It's not the object of it, right? You have a principle and then you arrive
+
+01:47:23.600 --> 01:47:29.600
+[Guest]: at that. And the very fact that there's an emphasis on that leads to Ambedkar saying
+
+01:47:29.600 --> 01:47:33.920
+[Guest]: many important things. For instance, one of the things he says is that, look, it would
+
+01:47:33.920 --> 01:47:42.000
+[Guest]: make no sense in the world to have reservations more than 50% for the simple reason that then
+
+01:47:42.000 --> 01:47:46.840
+[Guest]: the group is not backward. Because backwardness is a relative category. If everybody's backward,
+
+01:47:46.840 --> 01:47:50.920
+[Amit Varma]: then how can you be backward? This is like the opposite of the Lake Wobegon problem,
+
+01:47:50.920 --> 01:47:55.120
+[Amit Varma]: which was if Lake Wobegon was this fictional town created by Garrison Wheeler, where everybody
+
+01:47:55.120 --> 01:47:59.220
+[Guest]: was above average. Right, exactly. And so one of the cases that the Supreme Court is
+
+01:47:59.220 --> 01:48:06.040
+[Guest]: hearing currently is a case involving 100% reservations. But Ambedkar would be horrified
+
+01:48:06.040 --> 01:48:12.440
+[Guest]: at this, right? Because the argument is that, look, actually, so the idea was that, look,
+
+01:48:12.440 --> 01:48:19.680
+[Guest]: I want to annihilate caste. I want to transcend caste. And there are certain amounts of disadvantage
+
+01:48:19.680 --> 01:48:26.560
+[Guest]: that exist that I may need to tackle in some special way. We have collapsed into a situation
+
+01:48:26.560 --> 01:48:31.840
+[Guest]: where the link between special treatment and disadvantage has been thrown out of the window.
+
+01:48:31.840 --> 01:48:38.260
+[Guest]: And instead, I want to actually split power between different caste groups. So the constitution
+
+01:48:38.260 --> 01:48:43.720
+[Guest]: has now become a power sharing device between castes, rather than actually a way to liberate
+
+01:48:43.720 --> 01:48:49.040
+[Amit Varma]: caste or liberate the individual from caste. No, and it seems to me that, you know, people
+
+01:48:49.040 --> 01:48:54.040
+[Amit Varma]: often conflate the question of caste and what reservations have become today. So if you
+
+01:48:54.040 --> 01:48:59.440
+[Amit Varma]: criticize reservations as they are today, you are immediately assumed to be casteist,
+
+01:48:59.440 --> 01:49:03.720
+[Amit Varma]: you know, which need not be the case. And I would say that the concept of caste has
+
+01:49:03.720 --> 01:49:10.280
+[Amit Varma]: also become politicized, to the extent that I can see the rationale of some of the arguments
+
+01:49:10.280 --> 01:49:15.680
+[Amit Varma]: against religious recognition in the constitution, separate electorates and reservations for
+
+01:49:15.680 --> 01:49:20.520
+[Amit Varma]: religion and so on, that those fears coming through in the context of caste, where you
+
+01:49:20.520 --> 01:49:25.960
+[Amit Varma]: are deepening divisions between people of different castes because of the politicization
+
+01:49:25.960 --> 01:49:31.480
+[Amit Varma]: of it. And therefore, you are not annihilating it if you embed it in the constitution.
+
+01:49:31.480 --> 01:49:36.280
+[Guest]: Completely, completely. I mean, it's you've now reached a situation where you're trying
+
+01:49:36.280 --> 01:49:43.080
+[Guest]: to basically have citizens compete with one another rather than hold the state accountable.
+
+01:49:43.080 --> 01:49:47.560
+[Guest]: That's absolutely correct. And I mean, you're and you're also right that the debate takes
+
+01:49:47.560 --> 01:49:53.360
+[Guest]: on a certain form, where if you criticize anything about it, even if you criticize 100%
+
+01:49:53.360 --> 01:49:59.100
+[Guest]: reservations, you're somehow against equality or against the liberation of certain groups
+
+01:49:59.100 --> 01:50:02.440
+[Guest]: that have been horrifically discriminated against, whereas Ambedkar would have been
+
+01:50:02.440 --> 01:50:08.680
+[Amit Varma]: tormented at the current caste arrangement. Exactly. Let's kind of move on to a couple
+
+01:50:08.680 --> 01:50:15.520
+[Amit Varma]: of larger questions that I had. And one is that you've set off in this book very clearly
+
+01:50:15.520 --> 01:50:21.400
+[Amit Varma]: to be a scrupulous chronicler, you know, you've chronicled it. And perhaps the only quibble
+
+01:50:21.400 --> 01:50:25.360
+[Amit Varma]: I might have against it, which is a really small quibble and which is possibly a feature
+
+01:50:25.360 --> 01:50:29.520
+[Amit Varma]: and not a bug, is that there's not enough of your perspective coming through. So is
+
+01:50:29.520 --> 01:50:34.120
+[Amit Varma]: this a conscious decision that I will not get, you know, my view of the world in this,
+
+01:50:34.120 --> 01:50:38.480
+[Amit Varma]: I'm telling a story that needs to be told. And if I leave myself out of it is better
+
+01:50:38.480 --> 01:50:44.200
+[Guest]: that way. No, I actually think there is a lot of my perspective. I think that all narratives
+
+01:50:44.200 --> 01:50:50.320
+[Guest]: have arguments embedded in them. And I think a lot of my perspective, I gesture at the
+
+01:50:50.320 --> 01:50:57.640
+[Guest]: very end, right? I don't think that the purpose of the book is so much necessarily to defend
+
+01:50:57.640 --> 01:51:03.480
+[Guest]: a particular choice. But I think it is to defend the idea that look, this is actually
+
+01:51:03.480 --> 01:51:09.560
+[Guest]: what democratic citizenship means, right, centered around general rules and the rule
+
+01:51:09.560 --> 01:51:16.320
+[Guest]: of law, centered around a state that treats people equally, and centered around citizenship
+
+01:51:16.320 --> 01:51:23.240
+[Guest]: unmediated my identity. So I think that no author can escape his or her perspective,
+
+01:51:23.240 --> 01:51:29.040
+[Guest]: as much as they might want to distance themselves from it. I think I'm all over the book. But
+
+01:51:29.040 --> 01:51:36.200
+[Guest]: I think it's also very bad for authors to explain their own work. True. I think the
+
+01:51:36.200 --> 01:51:40.640
+[Guest]: postmodern thought that the author is dead is a good one.
+
+01:51:40.640 --> 01:51:45.400
+[Amit Varma]: No, I mean, I meant it in the I mean, obviously, then you have been very crafty about it. And
+
+01:51:45.400 --> 01:51:50.840
+[Amit Varma]: I meant it in the sense that while reading your chapters on centralization, or, for example,
+
+01:51:50.840 --> 01:51:56.840
+[Amit Varma]: rights and their caveats, and you summarize the arguments on both sides, so obviously,
+
+01:51:56.840 --> 01:52:00.960
+[Amit Varma]: faithfully, and with such clarity that I wasn't sure where you stood on these matters.
+
+01:52:00.960 --> 01:52:07.520
+[Amit Varma]: So, but that just means I've done well, because I've convinced you that it's them, not me.
+
+01:52:07.520 --> 01:52:15.440
+[Guest]: Ah, okay. Well, they made wrote the Constitution, not you. Yeah. So I think that there's certain,
+
+01:52:15.440 --> 01:52:21.160
+[Guest]: I think that there is an attempt at some kind of faithful reconstruction. But I think, I
+
+01:52:21.160 --> 01:52:25.440
+[Guest]: think it's like, I'll give you an example, right? I think in the centralization question,
+
+01:52:25.440 --> 01:52:30.280
+[Guest]: I think I tried to faithfully reconstruct both sides. But I also try to emphasize why
+
+01:52:30.280 --> 01:52:35.920
+[Guest]: one side lost. Right? Similarly, in the codification, I tried to capture the impulse, right? So
+
+01:52:35.920 --> 01:52:40.880
+[Guest]: I think in explaining, I think my perspective comes out in the kind of sympathy I offer
+
+01:52:40.880 --> 01:52:43.880
+[Guest]: to actually why certain things won at the end.
+
+01:52:43.880 --> 01:52:49.640
+[Amit Varma]: Fair enough. Now, you know, people often would think of legal studies and legal history and
+
+01:52:49.640 --> 01:52:54.520
+[Amit Varma]: the history of the Constitution as a very dry subject. And what you're obviously dealing
+
+01:52:54.520 --> 01:53:01.440
+[Amit Varma]: with is some incredible human beings. So, you know, while you were writing this, while
+
+01:53:01.440 --> 01:53:04.440
+[Amit Varma]: you were reading everything they wrote, while you were reading about their lives, while
+
+01:53:04.440 --> 01:53:08.240
+[Amit Varma]: you were reading their debates, you know, do you go into rabbit holes when you think
+
+01:53:08.240 --> 01:53:13.040
+[Amit Varma]: about what fascinating human beings these were? And what also struck me from just, you
+
+01:53:13.040 --> 01:53:19.360
+[Amit Varma]: know, following your footnotes, and is that so many of the people who were speaking in
+
+01:53:19.360 --> 01:53:23.400
+[Amit Varma]: these debates, whether in the Constituent Assembly debates, or the larger debate of
+
+01:53:23.400 --> 01:53:30.240
+[Amit Varma]: ideas that went on were such incredible thinkers and speakers. And I don't, I contrast that
+
+01:53:30.240 --> 01:53:36.640
+[Guest]: with today and I'm like, what the fuck? No, I mean, they are incredible. And I think that
+
+01:53:36.640 --> 01:53:41.080
+[Guest]: they are remarkable human beings. And I think they have remarkable lives. And you also get
+
+01:53:41.080 --> 01:53:45.800
+[Amit Varma]: a sense of when their reasons for something are actually a rationalization for an impulse
+
+01:53:45.800 --> 01:53:53.080
+[Guest]: otherwise held. Yeah, I think you do. I mean, they one of the joys and one of the tragedies
+
+01:53:53.080 --> 01:53:57.720
+[Guest]: in some sense of working on the on a project like this is that you're exposed to extraordinary
+
+01:53:57.720 --> 01:54:03.120
+[Guest]: people. And of course, that that's a it's a joy because it's a treat. It's a tragedy
+
+01:54:03.120 --> 01:54:08.120
+[Guest]: because you realize how distant they are from the historical imagination of the current
+
+01:54:08.120 --> 01:54:15.080
+[Guest]: moment. But they have they also just have very interesting lives. I'm not sure our lives
+
+01:54:15.080 --> 01:54:20.720
+[Amit Varma]: will ever be so interesting. Yeah, they lived in different times. And as I have said a couple
+
+01:54:20.720 --> 01:54:24.760
+[Amit Varma]: of times on the show, they were responding to different incentives. So that's why you
+
+01:54:24.760 --> 01:54:30.440
+[Amit Varma]: got those kinds of politicians and not the ones you have today, who are mainly motivated
+
+01:54:30.440 --> 01:54:35.440
+[Amit Varma]: by the lust for power. So, you know, just tell me, so just looking at current times,
+
+01:54:35.440 --> 01:54:40.640
+[Amit Varma]: what is the relevance of the Constitution? And I asked this in two parts. Part one is
+
+01:54:40.640 --> 01:54:46.000
+[Amit Varma]: that, you know, it's been called a periodical and not not a book, it's so easy to change
+
+01:54:46.000 --> 01:54:50.000
+[Amit Varma]: this government might well have the numbers to do it at some point in time. What is there
+
+01:54:50.000 --> 01:54:54.640
+[Amit Varma]: for the relevance and part two is that even if it wasn't so easy to change, like you
+
+01:54:54.640 --> 01:54:59.440
+[Amit Varma]: pointed out when we were discussing free speech and the caveats, that the execution can often
+
+01:54:59.440 --> 01:55:05.680
+[Amit Varma]: stray very far away from what the Constitution intended. So if you know, what is the theory
+
+01:55:05.680 --> 01:55:11.640
+[Amit Varma]: in the Constitution is not reflected in practice in the political economy and in our society,
+
+01:55:11.640 --> 01:55:17.720
+[Guest]: then what's the point? How relevant is it? Really? I mean, I think look, it is not relevant
+
+01:55:17.720 --> 01:55:24.000
+[Guest]: in the sense that if political elites don't take it seriously, like I said, it's not relevant,
+
+01:55:24.000 --> 01:55:27.680
+[Guest]: right. And it's like one of the things I often tell people is look, the Constitution won't
+
+01:55:27.680 --> 01:55:33.240
+[Guest]: save Indian democracy, Indian democracy may save the Constitution. I think it's relevant
+
+01:55:33.240 --> 01:55:39.880
+[Guest]: because above all, it's a charter for what equality and freedom mean. Right. And I think
+
+01:55:39.880 --> 01:55:46.440
+[Guest]: it's relevant because it is a certain commitment to a certain kind of framework. And if people
+
+01:55:46.440 --> 01:55:51.800
+[Guest]: take that framework seriously, then it has the chance for a sustainable political environment.
+
+01:55:51.800 --> 01:55:55.280
+[Guest]: And it has a chance for a certain vision of freedom.
+
+01:55:55.280 --> 01:56:00.960
+[Amit Varma]: So you know, my final question, then for someone who has spent a certain amount of time living
+
+01:56:00.960 --> 01:56:06.320
+[Amit Varma]: in the past, by which I mean these decades when these debates took place, and by inhabiting
+
+01:56:06.320 --> 01:56:11.960
+[Amit Varma]: that space, and by someone who is at the same time, alive right now and seeing our modern
+
+01:56:11.960 --> 01:56:17.920
+[Amit Varma]: ferments and torments looking forward, say over a 20 year period, what gives you hope
+
+01:56:17.920 --> 01:56:23.360
+[Guest]: and what gives you despair? I think the thing that gives me hope is that
+
+01:56:23.360 --> 01:56:34.980
+[Guest]: political life is extraordinarily contingent. And that just means that even your worst fears
+
+01:56:34.980 --> 01:56:44.840
+[Guest]: may be undone by some new contingency. I think what gives me fear is the fact that it is
+
+01:56:44.840 --> 01:56:47.960
+[Guest]: only some kind of contingency that might be able to save us.
+
+01:56:47.960 --> 01:56:51.120
+[Amit Varma]: Madhav, thanks so much for coming on the show. I enjoyed reading your book and I enjoyed
+
+01:56:51.120 --> 01:56:53.120
+[Amit Varma]: chatting with you. I hope it's a first for many.
+
+01:56:53.120 --> 01:56:57.360
+[Amit Varma]: Thank you so much. Thanks.
+
+01:56:57.360 --> 01:57:01.860
+[Amit Varma]: If you enjoyed listening to this episode, hop on over to your nearest bookstore online
+
+01:57:01.860 --> 01:57:06.600
+[Amit Varma]: or offline and buy India's Founding Moment by Madhav Khosla. You can follow Madhav on
+
+01:57:06.600 --> 01:57:11.920
+[Amit Varma]: Twitter at Madkhosla. That's one word Madkhosla. You can follow me on Twitter at Amit Verma
+
+01:57:11.920 --> 01:57:18.440
+[Amit Varma]: A-M-I-T-V-A-R-M-A. You can browse past episodes of The Seen and the Unseen at seenunseen.in
+
+01:57:18.440 --> 01:57:23.600
+[Amit Varma]: and thinkdragati.com. The Seen and the Unseen is supported by the Takshashila Institution.
+
+01:57:23.600 --> 01:57:29.800
+[Amit Varma]: You can find out all about the incredible public policy courses at takshashila.org.in.
+
+01:57:29.800 --> 01:57:44.720
+[Amit Varma]: Thank you for listening.
+

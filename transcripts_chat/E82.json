@@ -1,0 +1,367 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:00.000",
+        "message": "One of the great dilemmas of politics is the question of when a politician finally comes to power, does his focus shift to governance, or does it stay with politics? Does he try to do a good job running the country, or does he simply focus on what will get him re-elected? In an ideal democracy, you might imagine that this is a false choice. Surely a politician in power has to provide good governance to stay in office, right? Well, not in our democracy, where there is so little connect between power and accountability. Firstly, many good governance decisions will show results many years down the road, well beyond the electoral horizon, and the politician has no incentive to make them now. The deeper structural changes, with their delayed and invisible benefits, for which no one man will get credit, will not attract the politician, but the immediate sops or handouts, which look good but perpetuate the problem, will be more attractive to him. Secondly, we live in an age where narrative is all-powerful. We all live in a world inside our heads that often bears no connection to the real world outside it. This is enabled and amplified by social media. The most important skill for a politician, therefore, is to shape these narratives and not change the world. And that is why it is no surprise that a politician as skilled as Narendra Modi cares more about optics than about governance. One example of this, the Swachh Bharat Abhiyan."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:52.080",
+        "message": "Welcome to The Seen and the Unseen, our weekly podcast on economics, politics and behavioural science. Please welcome your host, Amit Varma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:02.320",
+        "message": "Welcome to The Seen and the Unseen. The Swachh Bharat Abhiyan sounds amazing, but it's a classic example of a government scheme whose intentions are noble, but whose outcomes are small. To explain why this is so, I have as a guest on this episode, Shruti Rajgopalan, a constitutional economist who teaches economics at Purchase College in New York and who has been an old friend and a frequent guest on this show. I recorded this episode a few weeks ago when I was experimenting with this new format of chatting a little bit with my guests about themselves before we got to the subject at hand. I've since stopped this practice because listeners gave me feedback that they preferred it if we just got to the point. But still, this is one of those old recordings from that phase. I enjoyed our entire conversation. But before we get to it, let's take a quick commercial break. If this happens to be the only podcast you listen to, well, you need to listen to some more. Check out the ones from IVM Podcast who co-produced the show with me. Go to ivmpodcast.com or download the IVM app and you'll find a host of great Indian podcasts that cover every subject you could think of. From the magazine I edit, Pragati, at thinkpragati.com, there is the Pragati podcast hosted by Hamsini Hariharan and Pawan Srinath. There is a brilliant Hindi podcast Hulia Bhaazi hosted by Pranay Koteswani and Saurabh Chandra. And apart from these policy podcasts, IVM has shows that cover music, films, finance, sports, sci-fi, tech and the LGBT community all under one roof or rather all in one app. So download the IVM podcast app today. Shruti, welcome to the scene in the unseen. Hi, Amit. It's great to be here. Shruti, by now you're familiar with the custom on the show that I start off by asking the guest some questions about themselves so that listeners can get to know them better. And last time when we spoke to you, you spoke about your love for economics and law and what drew you to becoming an economist. And I want to sort of ask what is a follow up question to that, which is that, you know, I've known you for over 10 years. And one thing that is safe to say, and that will be obvious to listeners who've heard your previous episodes is that economics is not just a profession for you or something that you've studied. You are deeply passionately in love with economics the way some people are with say football. So was there a specific moment or an aha moment in your life, where things changed for you, you looked at the world differently because of economics and realized that this was what"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:31.600",
+        "message": "you wanted to do? I think I, you know, if I had to have one aha moment, I had a fantastic professor in DU in my second year. His name is now he's retired. He's Professor Anil Kukradi. And just like, you know, one of the kindest people I know, and just a really remarkable teacher. And for the first time, I remember in his class for me, like the world kind of came into sharp focus. You know how when you wear glasses, and you go to the eye doctor, they they keep putting different lenses on you. And it's all hazy and bright. And then suddenly the world comes into focus and you can read those letters. So that sort of happened to me when I was a student at DU. He was just an incredible professor. The other part of it was just reading. You know, I loved economics so much. I read broadly, I read well outside the curriculum, the DU curriculum was quite sad. So I read a lot. And I think we underestimate how important simple economic texts are. So Henry Hazlitt and his economics in one lesson made a big impression. Right? Similarly, Thomas Sowell's work has made a huge impact in how I think about the world. Frederick Bastiat would be another example, you know, just people who write complex economic concepts in a simple and very enjoyable way. And slowly I started seeing economics and everything. The other thing is I'm trained at George Mason, which is a particular tradition in economics, you know, in terms of public choice, Austrian economics and things like that. But one thing at George Mason, I don't know if it's in the water or the air. Everyone just lives and breeds economics in that department. We see economics in everything, right from marriage markets to betting markets to political markets. Everything is an incentive analysis. So I, I guess I found my people. And this is what I discussed all the way through grad school. And after a point, you know, when you do something enough, when you read enough, it just becomes a way of thinking. And people who are close to me, my friends, my family, they often make fun of me that I just sort of see economics and everything. But I don't know if it's a switch that I can turn off now. I think I think it's been switched on and might stay like this for a long time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:48.640",
+        "message": "No, and I mean, economics is a study of human behavior. So economics is in everything, except maybe outer space. But so if an enthusiastic listener of these episodes was to ask that, hey, economics sounds very interesting. And the economic way of looking at the world is something that, you know, I want to understand better. And can you recommend, say, three books or five books, which can help me do that? Like, what are those three books I should take with me to a holiday resort and lock myself up with and I'll come out a different person looking at the world through clear lenses? What would you recommend?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:24.680",
+        "message": "So I would definitely recommend economics in one lesson by Henry Hazlitt, like that is a beginner's textbook, I think anybody can read it, it doesn't matter whether you've had any background in economics or social sciences before this, that would be a good place to start saying pick up any book by Thomas Sowell."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:42.680",
+        "message": "Yeah, I'll interject here and point out that economics in one lesson by Henry Hazlitt, one of my favorite books as well is based on an essay by Frederick Bastia inspired by an essay by Frederick Bastia called that which is seen and that which is not seen, which is unseen, which is also the inspiration for this podcast, because that magnificent essay and it's free online. So just do a Google search that which is seen and that which is"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:05.720",
+        "message": "not seen. And yes, sort of talks about I don't want to reduce economics only to incentive analysis and the analysis of unintended consequences. Absolutely. But I do think economics is very powerful compared to any other discipline in pointing out what are these unintended or unseen effects. And I don't think any other discipline comes close. It's like having a superpower, you know. So I really strongly urge everyone to read both Frederick Bastia, the essay that, you know, Amit mentioned, and after which the podcast is named, and also Henry Hazlitt's book."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:41.840",
+        "message": "Great. And moving on from there, you were mentioning Thomas Sowell."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:45.120",
+        "message": "Yeah, I would say pick up anything by Thomas Sowell. He's great. He's sort of like, I think the core of good economic ideas is there in pretty much anything he writes. But he's also someone who's able to see the big picture very clearly. So there's a lot of politics, there's a lot of culture, there's a lot of history included in how he sees things and the way he writes. He writes beautifully. So I would definitely recommend him. If you're not much into reading, and you know, you like videos or interviews and podcasts and things like that, I would say Amit's podcast is a good place to start. Econ Talk, which Russ Roberts does is a great place to start. Yeah, Marginal Revolution University, these are former professors of mine at George Mason, Tyler Cowen and Alex Tabarrok, who really don't need any preface or introduction. They do some fantastic videos, their book is really good. I use their textbook to teach. So these would be like the principles level things. I would also say, you know, reading a couple of great essays, I think the use of knowledge in society by Hayek is one of the finest essays I have read on really understanding how the market system works. Same thing, you know, James Buchanan wrote a fantastic essay called politics without romance, and introduction to public choice and constitutional economics. And I can provide links for both of them, Amit, and you can just put them up. Those"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:09.420",
+        "message": "are really good sources. We'll have them at the bottom of this episode. In fact, the use of knowledge in society, in my opinion, is what I keep telling people is one of the two great essays of the 20th century. Now, let's see how you know, I must agree. Can you guess which is the other one on my list? The Candlemakers petition? No, 20th century, 20th century, 20th century. The other one has nothing to do with economics. So I must tell you, but you'll"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:33.760",
+        "message": "say aha when I tell you. Yeah, but I'm so one dimensional. I don't know if I know things"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:39.800",
+        "message": "outside of economics that you read. You read so broadly. You don't know me at all. It's politics in the English language by George Orwell. Oh, of course, you've sent it to me. That's true. That's a fantastic essay. That's a remarkable essay. And both of those, by the way, on the site, I edit Pragati at thinkpragati.com. We have a section called Historia, where every month we put up one historic essay, which in over the past months has included the use of knowledge in society by Hayek, which is such a masterpiece of an essay, politics in the English language by George Orwell and the essay by B.R. Ambedkar that moved you so much and that you referred to in our episode about caste, which is when I decided to look it up because to my shame, I hadn't read that yet. And then we put it up on the site. So"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:24.320",
+        "message": "do check out. You know, I just think Ambedkar is one of the, one of the best communicators I have read. I'm a really big fan of Ambedkar. Our economics and politics don't always align, but I have never come away from reading Ambedkar without learning anything. And I think he's the most underappreciated of our framers when it comes to actually reading what he's written, like he's there in every statue at every street corner. But I do think we need just Ambedkar"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:53.880",
+        "message": "to be widely read. So let me ask you a question this time for my own edification rather than my listeners, which is a genuine question I have, which is that Ambedkar's body of work is just immense and varied. And it's very common for people to say that you can, if you read all of his work, you can find justifications for anything in some part of his work or the other because, you know, he's changed his mind many times. He's gone over so many subjects. But if someone wants a good rigorous introduction to Ambedkar, where should he start? What should he read?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:25.080",
+        "message": "I would actually, you know, Ambedkar has this phenomenal ability to write short essays, letters, give speeches, right? So there are these volumes, it's called Ambedkar writes and Ambedkar speaks. They are very massive volumes. They were edited by Narendra Jadhav. But if you just pick up a single essay on the monetary system, it's only three pages and immensely accessible and readable, right? So I strongly recommend people just Google Ambedkar's essay on whatever issue they are interested in, whether it's caste, whether it's taxes, whether it's the Sedition Act, you know, just Google what he's written and just start reading. I often say this to people that I think Ambedkar would have been fantastic on Twitter. You know, he came up with like really powerful punchlines, which he delivered so well when he was giving speeches. So I really miss Ambedkar in present day, not just because he's such a towering and important figure, but I think his communication skills were so fantastic, he would have been great on Twitter. So I think just pick up, just Google Ambedkar's speeches and just start reading Ambedkar in Parliament."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:35.960",
+        "message": "I'm already fantasizing about Ambedkar coming as a guest on the scene in the unseen, but"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:40.640",
+        "message": "moving on. You know, one of my favorite Ambedkar quotes is the caste system is not just the division of labor, it's a division of laborers. Can you think of a better way to think about the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:51.200",
+        "message": "caste system? Superbly Pithi."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:53.200",
+        "message": "Right? So he's just such a fantastic communicator. I just wish, you know, I know people read the 2500 volumes of Gandhi's letters. And you know, I mean, kudos to them. I'm happy those things are read. But I still think Ambedkar is just under read and underappreciated as a thinker, you know, not as a political figure or someone who unified the various castes and who was important in framing the democracy just as an intellectual, a homegrown Indian intellectual, I think he's very underappreciated."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:20.760",
+        "message": "Absolutely. Let's, let's move on now to the subject of this episode, which is something which would have interested Ambedkar. And I wonder what he would have thought of what's going on in the country right now. And the subject is a government scheme was started with the very best of intentions, this Swachh Bharat Abhiyan, of which the scene effect as a government keeps tom tomming, of course, is that we have built x number of toilets and you know, look what we've and so on and so forth. Tell us a little bit and you've written on this yourself in your column in Live Mint, in Mint. And tell us a little bit more about your feelings about the Swachh Bharat Abhiyan."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:59.280",
+        "message": "So you know, public sanitation is incredibly important in modern civilization, right? No question about that. We have very low levels of public health and sanitation in the rural areas. And these have terrible consequences, right? So we have high infant mortality, because you know, little kids, babies get sick, because the water is polluted or the air is polluted. If they get diarrhea, they're not able to survive. So there are some really important and terrible consequences for society in terms of not having a good framework for public health and sanitation. So to that end, I really think it's incredible that this government has taken on a big initiative and said we really need to pay attention and devote resources and political capital towards cleaning India, right? So I can very much get behind the general message of Swachh Bharat Abhiyan. I think it's very important. And I don't think it should be just these four years and you know, Gandhi's 150th birthday. I think we need a Swachh Bharat for all times to come."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:08.280",
+        "message": "Absolutely. And and Shruti in your piece, which is again linked from the bottom of this episode is a piece titled, India needs sewage systems, not free toilets. And in your piece, you say quote, overall, this which is a Swachh Bharat Abhiyan seems like a well intentioned and sensible initiative, except for one thing, unquote. So now, elaborate sort of on what that one thing is."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:31.480",
+        "message": "Yeah. So if you think about what is the end goal to be achieved, if the end goal to be achieved is to eliminate open defecation, genuinely have, you know, better public sanitation, I don't think the Swachh Bharat Abhiyan in its current form is going to actually achieve that goal. If the end goal is that toilets need to be distributed to every household, I think that goal will be achieved. Right. So let me unpack that a little bit more for you. Now, what do you really need to eliminate open defecation? So India has one of the highest levels of open defecation anywhere in the world. In rural areas, it's higher than 65 percent, or at least it was when the Swachh Bharat Abhiyan started. In urban areas, it's in, you know, about 20 to 30 percent range. And what we mean by open defecation is people just go out and do their business in the open. Now, you live in Mumbai, so you must have seen people squatting next to the train lines in the morning. Right. This is a very prevalent site in urban India. In rural India, they go into, you know, farmland and things like that. And this is a very big problem because it's difficult to clean up in cultures that have a lot of open defecation. All the diseases that small babies, women, actually pretty much people of any age have happens because the basic water system is polluted. And that is because all this, you know, excreta has not been treated because it's open defecation. So this is a very fundamental problem. It has massive health and productivity consequences. It has very large emotional consequences because it is terrible. I mean, every infant that can be saved should be saved. And the levels of infant mortality we have in UP and Bihar and things like that are quite, quite terrible and embarrassing in the modern world. So this has very deep, important consequences for India. Now, how do you solve for this? How does anyone solve for this? One way of solving for this is we build waste management systems. And you know, you and I have had lots of conversations about what is the role of government, you know, what should government do in society at the local, state, federal level and so on. And I think one really important public good that the government must provide is a good waste management system. It is very costly, difficult and problematic for every household to have its own waste management system. Frankly, it's also quite like, you know, unappealing and a little bit disgusting. So the role of government should be to design waste management systems where all you need to do is every household is plugged into that system. Right. So in urban areas, this can be a functional sewage system. Right. In rural areas, it could be something on a smaller scale. It might be difficult to build large scale sewage systems because hamlets might be far apart. But you can still have some kind of a simpler version of a sewage system with, you know, an end area where you collect the refuse in a septic tank or take it to another location before you treat it and so on. And this service has not been provided, not just by this government, but any government in the past. So your larger"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:54.800",
+        "message": "point is that, look, it seems natural that people are doing open defecation. And it seems natural that, hey, if you build toilets, they'll have toilets to go to. They'll go there. But then the point is, once they do their business inside the toilet, what happens then? What"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:07.040",
+        "message": "happens to the waste as it were? And that is what you need to build. Exactly. So now the way I think about this Swachh Bharat Abhiyan is it's a good initiative. But what it's doing is it's solving the last mile problem. Right. My point of view is, if we had functional sewage systems in urban areas and waste management systems in rural areas, it is actually not that expensive to construct a toilet or a latrine. In fact, the last mile problem would take care of itself. Exactly. So India is already at a level of development where most people don't need a toilet subsidy if there is a waste management system that they can easily access. Right. And yes, there might be 20 percent of the people who still need a toilet subsidy. And I think at that stage, I would very much encourage any government, state, federal, local to, you know, help build subsidized toilets and so on. But right now, we are actually creating a new kind of problem. OK, and it's funny. We were talking about Ambedkar just a few moments ago. So now India has deep persistence of the caste system. Right. One very important part of the caste system is ritual purity and what certain castes consider polluting behavior and so on and so forth. Right. Many of the historically oppressed castes were oppressed either into doing all these distasteful jobs or were oppressed because they took on these jobs. Right. So the lowest caste in society, in fact, these are castes that weren't even allowed to live in the village system. They were outcasts to see what is now called manual scavenging. Right. They were manual scavengers. What they would do is there would be an outhouse at the back where people did their business and it would be collected and these people would not even be allowed to enter the house. They would just come from the back. They would pick up all the human refuse and they would take it literally like carry a tank or a basket on the head and go to the next house. Right. Now, you can imagine how terrible it is to have a profession dedicated to having to carry someone else's feces in your hands. Right. And now you can also imagine that in a culture which is so obsessed with the caste system and ritual purity, how groups would treat people who actually engage in this activity as as a form of livelihood. Manual scavengers were treated abominably in India. Right. And the system came about simply because there was no other waste management system. So now, if you think about the long term consequences of having only a latrine in the house and not a waste management system, what we're doing is we're bringing back manual scavenging. It's actually coming back. So now there are two types of consequences of having toilets, but no waste management system. One consequence is people are just using those toilets as storage units or, you know, to keep your provisions or wash your clothes or something. And they actually still do their business out in the open. Right. So toilets are there, but open defecation hasn't reduced. The other group is they do decide to use the latrine or the toilet that has been built by the government, but they don't want to touch anything to do with their own feces. So now what happens is you perpetuate the caste system by bringing back manual scavenging, which, by the way, was abolished many decades ago in India. So that is one of the unintended or the unseen consequences of building toilets without building sewage systems. What people really want. So you. OK, so let me put this in perspective. In an ideal world, you want people not to have all these ridiculous ideas about ritual purity. You want people to make use of latrines. You want people not to openly defecate. OK, that's the ideal world. We don't live in the ideal world. We live in a deeply. Backward society from the point of view of caste. Right. And it is so persistent and it is impossible to break down overnight. People who have these kinds of values about ritual purity, though I don't subscribe or endorse any of them, they would actually use the latrine or the toilet that was built at home. Were it connected to a sewage system where you could just flush the refuse away? Right. And that system we don't have right now. And until we get that system, you're going to have lots of toilets, but you're not going to solve the public health and sanitation problem. And if you do manage to solve the public health and sanitation problem a little bit, you're going to have a whole class of workers who are oppressed once again because of manual scavenging. In"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:41.000",
+        "message": "fact, you know, that's a very unintuitive conclusion in the sense that a sewage system is not just something that will help with hygiene and public health, but it will also"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:49.160",
+        "message": "help in eliminating the caste system. It really would. In some small way. In some small way. And at the very least, even if it doesn't eliminate it, at least it won't perpetuate it. Right. Right. We really have to worry about, and especially at the rural level, you know, in places like UP and Bihar, where the caste system is very persistent, open defecation is very persistent, and you have very low levels of, you know, economic growth."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:19.160",
+        "message": "This is the trifecta for caste oppression. Right. And we'll take a slight literary digression here. Have you heard of Pablo Neruda, the poet from Chile? Yes. Yeah. So there is a story of Neruda and you mentioned, you know, outhouses and how these scavengers were looked upon as almost subhuman in a sense. And there is a story of how when Neruda was a young man in his 20s, and is related by Neruda himself in his autobiography, if I remember correctly. And Neruda was posted to Sri Lanka as some sort of ambassadorial kind of, you know, some part of their foreign office or whatever. And he lived in a house which had an outhouse at the back for doing the business. And he was curious about how every day I do my business, but when I come the next morning, it's pick and span, it's clean. So one day he decided to find out. And he saw this dark skinned lady walking up taking his refuse and just going away. And for some reason, being of a poetic temperament or whatever, he fell in love or rather one should say he fell in lust with her. And he waited like that for three, four days, and she would come at the crack of dawn, take away his business as it were, and just go away. And then one day, he just held her by the hand, took her inside to his bedroom, and he had sex with her. And it was obviously rape, because he described how she just lay inert with no expression on her face and not even resisting, which kind of tells you about a the power dynamic involved and be also the fact that these people were considered subhuman. So it didn't, you know, they had no agency, and there was no trace of empathy in him, as you would expect for another human being, which is why decades later, when he's a renowned Nobel Prize winning poet, he actually writes about this openly without any trace of remorse in his autobiography, which which is just remarkably shocking. And which, you know, tells you so much about the man himself. I mean, one can't read his poetry in the same light after that. But it also illustrates what you were saying about the inequities of the caste system. And to some extent, those inequities being perpetuated or being made explicit by sort of the physical logistics of this outhouse outside and the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:32.480",
+        "message": "person who comes and collects human refuse before people wake up. And you know, I mean, of course, the men are treated terribly, the women are always treated worse, there is a very, very big problem of rape against by upper caste, I say upper caste and lower caste, not because I think these are upper or lower caste, it's just, that's the vocabulary use. But people who think that they're of an upper caste, there's a lot of rape of Dalit women by people higher up in the power structure. But there's also a rape problem with open defecation. Exactly. You know, women have to go outside at like 4-430 in the morning, it's dark, there is a lot of sexual abuse that happens because we haven't provided even the most basic types of sanitation system so that women can be safe."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:23.000",
+        "message": "Exactly. And this is a point you'd recommended I read the superb book which I ended up doing called Where India Goes by Diane Coffey and Dean Spears. And they make pretty much the same points about open defecation and ritual purity that you've just explained."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:37.560",
+        "message": "And you know, that book is really fantastic, for multiple reasons, because the authors never came to the subject, wanting to write about the caste system, they came to the subject as health economists, right? They were trying to understand high levels of infant mortality and just, you know, the health problems in these developing areas. And what they discovered was, oh, there are all these toilets being built. But you would think people would just jump at it. And it would be a superior alternative to open defecation. But it's actually an inferior alternative to open defecation, because they live in a world where the caste system persists. And they are not allowed to touch their own refuse. And if they do, then there are questions about their purity, and they have polluted themselves and things like that. And what I love about the book is, it places what is a development or an economic problem, beautifully in the social context within which we are trying to solve that problem. So you can't have solutions to these problems by ignoring what is the local or the social context, right? The caste problem in UP, you don't have this problem in fishermen hamlets in Tamil Nadu. They are perfectly fine. They have eliminated open defecation. And they don't have this problem of ritual purity and things like that. They may have other caste issues, but this is not one that is highly persistent among them. So I think we really need to think about public health, public sanitation, in a very local contextual manner. And to that extent, I would I would recommend everyone reads this book. It was my pick for the best book written last year. The book is called Where India Goes. It's very accessible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:24.080",
+        "message": "It's a book called Where India Goes by Diane Coffey and Dean Spears. And there'll be a link to the Amazon page on it below the podcast. We'll take a quick commercial break, and then we'll come back to talk to move on from economics and the social issues of this and talk a little bit about the politics and the public choice angle."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:44.440",
+        "message": "So it's going to be a great week on IBM. This week, we have a brand new podcast launching Wordy Wordpecker with Rachel Lopez. Every Tuesday, Rachel is going to break down fascinating words and why they mean what they mean. The show releases on the 21st of August. Be sure to check it out. And we have another new show launching as well. Know Your Kanun hosted by lawyer Ambar Rana where he addresses all law related questions and gives us insights into the legal system of India. On Cyrus Says this week, Cyrus chats with actor Kubra Seth about the experience of making sacred games, life, both the show and her body of work. On Colabra Cartel, we have Jeremy Buck and Sandeep Hathiramani, the experts behind the bar at Misty. They talk about the innovative cocktails they put on that menu. On the Vishal Gondal Show, Vishal speaks to Milind Devra about his interest in music, his vision for the country and a hell of a lot more. Coach Urmi talks to actor and model Sarah J. Dias about her fitness inspiration on the Kinetic Living podcast this week. And don't miss out on the final episode of Marvel's Lost and Found for this first season, Therapy 101 hosted by Zain and Avanti. Also guys, we're looking for a new producer, a social media intern and a graphic designer. If you are interested in working with IBM and it's a cool bunch of people to work with, please send us an email to jobs at Indusbox.com. Also, please make sure you're following us on social media. If you're not, we're IBM podcasts on Twitter, Facebook and Instagram."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:55.120",
+        "message": "Welcome back to the scene in the unseen. I'm talking with Shruti Rajgopalan and we're discussing India Swachh Bharat Abhiyan, which achieved the very feel good, look nice kind of outcome of building a huge number of toilets across the country. And you would assume that that helped with solving our sanitation problems, which are also massive public health problems. Because as Shruti explained, open defecation leads to a public health crisis, it affects child mortality, kids actually dying much younger than they otherwise would. And it's a humanitarian issue. And you would think logically that if people don't have toilets in their home, you're building them toilets, that's surely great. But as Shruti pointed out, the unseen side of this is that with the toilet, you're just solving the last mile problem that show the guy can go to the toilet and do his job. But what happens after that? What happens with, let's say the refuse that he's left there, if you don't have a good waste disposal system, if you don't have a good sewage system, then that necessarily means that his refuse has to be cleaned either by himself or by somebody else. And that has led to a return of manual scavenging and some of the worst of the caste system as an unintended consequence. And therefore the answer lies in building sewage systems and waste disposal systems and the toilets will take care of themselves once the infrastructure is in place. Is that an accurate summation, Shruti?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:23.160",
+        "message": "Absolutely. I would also add one line that you know, we can also think about education, educating people about the myths of all this ritual purity nonsense. So I would also support educating people about the caste system and why, you know, manually pumping out or cleaning out your latrine doesn't make you impure and actually protects your family better. So I would say that is also a good way to go. But our education system is so badly broken, I'm"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:51.160",
+        "message": "not holding my breath. And even apart from that certain religious and traditional beliefs, whatever you call them, are often immune to education, because we are still a deeply superstitious society with all kinds of ludicrously irrational beliefs about everyday life."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:06.800",
+        "message": "Absolutely. And you know, of all the things, this is generally so unpleasant. I don't have any of these ritual purity beliefs, right? But this is generally such an unpleasant area that any excuse you can get to not have to touch feces is, you know, people are just going to sort of jump on it. I'm just talking from a human nature perspective, right? No one is very excited about manually pumping out a used latrine."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:31.480",
+        "message": "No, in fact, I would say that, you know, invoking natural selection that a disgust towards feces is selected for because obviously, if you handle your own feces, you're likelier to fall ill and so on and so forth that affects your survival. So it's selected for its naturalist instinctive and there's nothing wrong with it. But the point is that if you just had a good waste disposable waste disposal system, you wouldn't need to touch your own feces or to get someone else to do it. You just pull the flush. And exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:58.600",
+        "message": "And also a question of equipment and training and things like that, right? There are there are many solutions between open defecation and a sophisticated sewage system that New York City has. So there are many intermediate levels of waste management systems which require resources and local context and training the, you know, municipality workers on how to use them. And we don't have we don't pay any attention to any of those things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:25.040",
+        "message": "So we are 71 years past independence. Why haven't we done it yet? Like, let's not talk about this government or that government or Nehru versus Modi. It's been 71 years. Everyone's had a shot at it. Not much movement has happened. Why is that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:37.220",
+        "message": "So the number one reason and you know, Amit, you and I have spoken about this personally and also on the podcast. The number one reason is we, until very recently, did not have a functional layer of local government. These are problems that are meant to be resolved by the local government. You can't have the central government trying to figure out that in the south bungalow area, you know, do we need to build a new sewage system or extend the pipeline for the new building to be connected? These are local problems. They need local solutions. We didn't have local government. That is a very, very big part of the problem and extremely underappreciated, especially in rural areas. Now, we've had a local government system for about 25 years. We just celebrated the 25th anniversary of, you know, the panchayati raj and urban local body, the constitutional amendments, which were the 73rd and 74th amendment. So we created a layer of local government, but we didn't give them any responsibility, nor did we give them any revenue raising authority. You and I have done a podcast on this before. So basically, you have local governments today, but they have no budgets, right? And the state government has just held on to power and revenue, and they haven't devolved responsibility or the budgets to these local governments. So I would say the number one blame sort of I would place on why we don't have good local public sanitation systems is because we never had good local government, we never invested in that layer of government."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:08.480",
+        "message": "So we've done a podcast on this earlier, which is one of my favourite episodes. In fact, it's an episode on urban governance, if you just go to seen unseen.in, you can find that in the archival episodes, I don't remember the episode number. But let me quickly try and sum up the sort of insights that you gave us in that episode, where your whole point was that when it comes to local governance, urban or otherwise, there is a disconnect between power and accountability, who's accountable to us, your local corporator, and so on, they're all accountable to you, you vote for them, they depend on your votes to get get to office. But who has a power over you, these guys don't really have much power, because local government in our constitution and in our system, simply hasn't been given that much power, all the power is really with the state government. And when it comes to, for example, a city like Mumbai, the state government is not so accountable to you, because it depend more on rural votes or votes from outside the city, and on different constituencies, like there'll be a constituency of farmers, and so on and so forth. And when you have local problems that need to be solved, the person who is accountable to you doesn't have the power to solve them. And the people who do have the power and the budgets to affect your lives don't care about you, because your vote doesn't matter to them. Is that an accurate summation?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:26.040",
+        "message": "That's an accurate summation. I would also add one one last point, which is, you know, you live in Andheri. Andheri doesn't have much of an open defecation problem, as far as I know. It has other problems, garbage collection, poor sidewalks, you know, those kinds of problems. So if you were to now talk about open defecation, maybe that's a problem in rural Maharashtra. It's very difficult for people like Amit living in Andheri to coordinate with people in rural Maharashtra and put together a platform when their local problems are so different. They are going to be asking for really basic things, right? Like how can we secure a well, and you are asking for far more sophisticated things. So not only does your vote matter less at the state level, it's far more difficult and far less likely to organize different groups because they have very different local problems"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:16.680",
+        "message": "which are highly contextual. So the ideal system of government, therefore, is obviously as local as possible. And we are planning to do an episode on Panchayati Raj. So, you know, watch out for that in the coming weeks. But the ideal government is as local as possible. So people within an area know what their immediate concerns are, and they can make sure that their government, which is accountable to them, will actually do those things. And for that, they need to have the power to do those things. And that power has never been devolved to local governments at all, because the central and the state governments, obviously, anybody who has power is hesitant to give away a part of it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:53.200",
+        "message": "Exactly. So in one sense, you know, Prime Minister Modi and his team, which is running the Swachh Bharat Abhiyan, they are definitely quite sensible. They know that they can't build waste management systems. So they say we'll build toilets instead. Right. So they are actually quite sensible in that they are trying to solve the problem that you can actually implement at the central level. So to that extent, the program is an enormous success. But the program is an enormous failure if the goal is actually public sanitation and public health. Right. Because it's never going to solve it unless you have local partners who can help convert this network of latrines into a sensible waste management system. So that is really the core of the conundrum that the Swachh Bharat Abhiyan poses. It's a great idea. It's important to solve the last mile problem. But you have to solve the last mile problem last. And you can't ask PM Modi to solve the initial first hundred mile problem because it simply can't be done at the centralized level. It has to be devolved to the local"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:55.440",
+        "message": "level. I'll both back you up and take a cynical view of that. My criticism of the Modi government right from 2014 is that they have never got into governance mode. They have continued in campaigning mode, which they are incredibly good at. And pretty much everything they do at the level of governance is for the sake of optics. So even in the Swachh Bharat campaign, is great optics that, hey, we've built so many million toilets and it looks great and you can declare it a success. But they don't really care beyond that, which I think is a cross against them. At the same time, I'll agree with you and say that as far as solving the deeper problem of public sanitation is concerned, that yes, the central government can't really do much, you're spot on about that. But at the same time, the central government could accept the structural problem, which is preventing that the whole issue that local governments don't have enough power, or enough power hasn't devolved down to local governments, and do something about solving that structural problem, which is not something I see either."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:49.080",
+        "message": "Absolutely. There, I must agree with you both the central and the state level. And here I pose even more emphasis on state level legislatures and executive, which is they really need to get their act together and recognize that local governance problems can never be resolved at that level of centrality. And you know, Indian states are larger than most European and Latin American countries in terms of size and population. So even at the state level, it's like trying to build a, you know, a sewage system for Brazil, or Germany. So it's not like the state level is some chota level in India, right? It's still a very, very complex system with very large area and very large population and diversity in population, lots and lots of local issues. So I think there needs to be a recognition of this in India, that the level of complexity that the Indian polity poses, and I don't see any of that at the central or the state level at this point in terms of devolution."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:51.480",
+        "message": "And another thing that we don't see and explain to me why that is so, is that normally you would imagine that when there is such a far reaching problem of public health, when you know, babies die younger than they need to, when, you know, it's a humanitarian crisis in a manner of speaking that's continued on for more than seven decades, you would imagine that citizens would take a stand and they would be constant more chars and her nose and so on and so forth till something is done about it. But even citizens don't seem to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:19.800",
+        "message": "excuse the phrasing give a shit about this. So, you know, I find citizen apathy is very contextual. You know, my parents recently moved to a condo building in Noida, you know, it's all the typical things you would associate with a middle class or an upper middle class condo society, right? It's got all these buildings and they have a whole co-op and a voting system where, you know, all the people get together and they raise their voice over daily issues. When I go to one of those meetings, it's like my blood pressure goes up. People are so passionate about, you know, should this be the entry gate and the exit gate or only the entry gate, right? How many speed breakers should we have in front of which of the buildings should you have the speed breaker so that, you know, children are not faced with the fast traffic coming in and outside the parking garage? Should you have a water desalination plant? Because that's a big problem in Noida. People are deeply passionate, like deeply passionate. They shout, they yell, they politic, they, you know, have parties with other association members where they say, this is Noida, they probably murder as well. Yeah. So this is incredible. And when I think about why isn't it that these people are doing this with the Noida Municipal Corporation, they're like upper middle class people who don't even go to vote. It's because they pay condo association fees. And the condo president lives next door, right? And the whole board membership lives next door. So if your governance problems aren't solved, you just pick up the phone and go badmouth them. And if they are solved, then you host a dinner party for them. Right. And you pay your fees. There's a huge link between what you pay and what you get. The feedback mechanisms are very tight at the local level. Right. So I think we need to put citizen apathy in context. Of course, there is citizen apathy in Andheri. No one knows the name of the municipal corporator because no one has to, because he can never solve these problems or she can never solve these problems. Whereas the president of the condo association in Noida can and does."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:29.360",
+        "message": "And at the same time, the residents of the condo association in Noida, what they are doing is simply they're demanding a bank for their buck, they pay those fees, they want those services. And yet somehow at the level of the citizen, we seem to have this, we disassociated ourselves from the fact that we also pay a constant cost for government and yet we don't demand enough in return. We take taxes for granted, even though they are coercive and mostly highly unfair. And we don't get any bank for our buck. And also we take the government for granted. And we assume that, you know, we behave essentially like subjects that whatever is done for us, you know, it's great, it's a bonus. But otherwise, we don't stand up"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:08.580",
+        "message": "and demand our rights enough. But even there, Amit, there's a centralization problem. You don't know who you're paying tax to, you don't know where it's going. There is a Swachh Bharat cess that goes to the central government, right? If your local municipal corporator and the local municipal body had the authority to levy taxes and raise taxes, you will also be marching in Nandheri. Or if not you, a bunch of other people, right? Saying, dude, you raised our local taxes, and you didn't clean the garbage. So you really need to think small at this level. Right. And so,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:42.920",
+        "message": "your point is that the apathy is rational, because we know that we can't do anything anywhere. Protest is pointless. So people we can protest to are powerless to do anything about it. And your argument is that we would be less apathetic if the structure of government changed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:56.120",
+        "message": "Exactly. So I don't see this level of apathy. I mean, look at Indians on Twitter, look at Indians at their dinner parties, look at Indians at their condo association meetings, they don't come across as apathetic. In fact, you know, the Amartya Sen version of the Indian, the argumentative Indian, that is a much more fitting description, because we discuss, we fight, right, passionately, emotionally."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:22.520",
+        "message": "On Twitter, you don't have the argumentative Indian, you have the abusive Indian or the virtue signaling Indian."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:26.880",
+        "message": "You have all sorts of Indians, right? Yeah, it's very hard to find a good argument. But what I mean is, it is not a, it's not fundamentally, we're not culturally apathetic, that Indians are apathetic. I think it's contextual, you're apathetic when you know that your voice will not be heard, and there is going to be no feedback coming from the other side. So you try once or twice, and then you give up. And when your voice can be heard, you do use your voice and you do demand change. So I think we really need to think about structure of government and, you know, just better systems of local governance. And, you know, at the local level, you can also experiment more, right? Andheri East and Andheri West are large enough that you can have two different kinds of local governments, and then you can see which one worked better. So you can have more experimentation, you can have a greater level of addressing the local problem in the local context, you can experiment with tax rates, right? You have far more competition, political competition at the local level. And we have basically not capitalized on this incredibly important political mechanism."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:33.600",
+        "message": "In fact, Andheri West and Andheri East together have more than four times the population of Iceland. I pointed this out recently after Iceland held Argentina to a draw, I think"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:43.680",
+        "message": "it was on Twitter. Yeah, not even half as good a football team. Yeah, no, no, I didn't"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:47.320",
+        "message": "even mention that. I just said to put it into perspective, Iceland has less than a quarter of the population of Andheri. And these words were meant as praise for Iceland to put their achievement in context. And instead, everybody assumed I was being anti national and dissing India and I got hugely trolled for it. So not the argumentative Indian, but the abusive Indian. But sort of go back to the sort of the public choice question of that and I won't ask you to spend much time on this because we discussed it in our episode on urban governance already. But for listeners who might not have heard that, how can this be mitigated? Like, obviously, then the solution is clear that you need more power to devolve to local government so that your local representative actually has the power to do anything, has actually the power to do what her constituents desire. But is this ever likely to happen? Because it strikes me that those who have that centralized power are never going to give any of it up. How can those incentives change?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:45.520",
+        "message": "I definitely think one thing that's going to happen is the switch from, you know, right now, urban issues are not addressed at all. And rural issues are much more on the on the table for state legislatures. But that said, this is a rural issue as well. But this is a universal issue. Absolutely. But what I mean is, I do see a switch happening, that state governments will recognize urban problems a little bit more than they did before. Now, having said that, I don't see any incentive for them to devolve power. I think what needs to happen, I think the impetus has to come from a few great women and men. You know, just so the constitution leaves the option open to devolve power, right? It doesn't stop you from doing it, but it doesn't make it mandatory. So there is the question of, I think we need some good state chief ministers who say, you know what, we're going to devolve these four areas to local government, and then let's see how it plays out. Because there's nothing constitutionally preventing them from doing so. So I do think we need some good show of leadership at the state government level. And frankly, we've had a great run with, you know, I mean, we have a wide variation in quality of chief ministers. But we've also had good ones, you know, not just bad ones. You had states where you actually had better local governance, right? Kerala is an example. Tamil Nadu, Karnataka, the southern states are much better on local governance than the northern states are. So you do have some good examples where obviously the states either invested in local governance even before the 73rd, 74th amendment, or at the very least embraced this idea that you need to devolve power. I think what states are not doing is devolving revenue raising authority. I really think one important thing to do is bring property taxes under GST. But like you have central and state GST, that should be local GST, that should not go to the state. Right? So it's the same system. It's just, you know, the same tax rate, but it's who, which is the agency that actually ends up collecting or getting that revenue. So I think we need to get into a system of good property taxes, because property taxes are local. People invest in that local area, and property owners will then demand the bank for their buck, and their vote and their tax payment will be linked to the same person. Right now, our vote and our tax payment go to completely different groups. So I really think that is an important step. So, you know, maybe the GST could also solve this problem by bringing in property taxes under its fold and implementing it at the local government level. Now, you can imagine the biggest opposition to this is state governments, because they lose potential revenue, and they also lose authority. So they are really what is the, you know, the big interest group, which is blocking this kind of thinking."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:51.880",
+        "message": "And at some level, you know, I tend to be a little sceptical of this whole notion of relying on say benevolent or enlightened chief ministers to make the changes that are necessary because the constitution allows them to. But the fact is that the incentives are against state and humans react to incentives and something you keep going on and on about and that, you know, if they just do what the incentives dictate that they will do this will never get done. So,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:16.680",
+        "message": "Fair enough, but you know, I also think that there are multiple incentives in politics, right? So of course, there are the incentives of, you know, protecting your turf and getting revenue and getting reelected. But I do think a lot of politicians are also interested in being remembered. They're interested in, you know, entering the history books. I think their incentives are much more complex. So I agree with you that there is this whole public choice thing, and we can't just rely on people's benevolence. But I'm not saying we should rely on their benevolence. I'm just saying they could have multi dimensions to how they think they want to be perceived or remembered or reelected. And to that extent, for some of them, it might be very much in line with devolving power or experimenting with new, you know, new sort of governance ideas and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:10.360",
+        "message": "And at the local level, even assuming that they were to devolve power, an interesting point you made earlier when we were chatting about the subject on building a waste management system is that while the benefits are diffused, the costs are actually concentrated and a few people feel the brunt of it to begin with, which is, again, a reason for opposition against it. Can you elaborate on that a bit?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:33.440",
+        "message": "Absolutely. So you know, there is, I mean, even once you resolve the problem and devolve power to the local level, there is a current mismatch between the costs and benefits, right? So when I go to a store and I buy an apple, I pay the cost for the apple and I get the benefits of the apple, right? So the costs and benefits are perfectly aligned. Now, in politics, that's not always the case. And it's really not the case in this particular instance. So if you need to build a waste management system, it doesn't happen overnight, right? So in a place like Andheri, if you had to expand the existing sewage system to accommodate the population growth and the migration, you need to dig up all the roads. Now, I have been to Andheri and I have driven there in traffic and it's already a nightmare. You know, when the metro and things were being built, it was just a nightmare to navigate the streets of Andheri. So now you have a situation where all the costs are imposed in the present, right? All the roads are dug up right now. All the benefits come in the future. Babies 10 years from today will have, you know, low levels of infant mortality, low levels of vulnerability to public health problems. And those babies will work 20 years after that, right? 18 years after that. So the benefits are far in the future. The beneficiary, some of them haven't even been born or are not even in the system yet. All the costs are upfront today being faced by people who need to get to work fast and things like that. So it's obviously a very big problem of, yeah, we would love a sewage system, but we don't want our street to be dug up, right? In rural areas, there is also a caste dimension to the problem. They'll be like, you know, the sewage system can't go behind my house. It can't go under my Tulsi plant, right? There are all those dimensions also to think of. So there is a lot of opposition to spending the money and the time that needs to be devoted to building a waste management system because it involves some kind of disturbance of current infrastructure. So all the costs are in the present, all the benefits are in the future. The second problem is all the benefits are dispersed and all the costs are concentrated. So the benefits are dispersed in the sense that all of us benefit if there is a better public waste management system because it leads to better public sanitation and therefore better public health, right? All of us benefit if babies are not dying under the age of one. So and all of us also benefit if the groundwater is not polluted because we also access it. So on and so forth. However, all the costs politically are taken on by the state chief minister or the local corporator who are implementing the system right now. Because when everything is dug up, people will protest, they will vote them out, right? And the benefits will be reaped by the municipal corporator or the legislator three terms down. Because that's when we really saw, oh, I know we suffered through all the dug up roads, but how wonderful it is to have a really functional clean environment. So this problem of dispersed benefits and concentrated costs and benefits in the future, and costs in the present, this creates a very big problem. When we are talking about how do we overcome the interest and actually build"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:56.480",
+        "message": "waste management systems. So another way of putting this would be that the benefits are unseen and the costs are seen. For example, the guy whose infant daughter could be safe from an early death 10 years later, because of a good sewage system today, he can't possibly see that now, what he can see is that it's taking him half an hour longer to get to work because the roads are dug up and so on and so forth. All the inconveniences are obvious, which then leads us to the pessimistic conclusion that even if the structural problems of local governance, the sort of the de-linking between votes and money were solved, you would still have this problem getting in the way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:36.280",
+        "message": "No, but you know, it can be I think you still have a better shot at solving it at the local level. So right now, if you think about it, we don't have very good charismatic leaders at the local government level. Why? Because there is not much for them to do. And they don't have much revenue raising authority or responsibility. If you actually build a sensible structural system, where local governments become important, then you're going to have really charismatic people who come in to the local government system and can actually explain to the people that, hey, I know it feels like a giant problem today, but there will be a benefit from it. I think Prime Minister Modi is fantastic at this. Look at the rhetoric he built around demonetization. I don't personally support demonetization. But look at how he managed to convince 1.25 billion people that I know it is hugely costly and you're standing in line, but this is going to be hugely beneficial to the country and we request you to make this sacrifice. And people fell hook, line and sinker. Right. We shouldn't underestimate the importance of leaders being able to communicate the value of a good project or in the case of demonetization, a terrible project. Right. So I really think if we switch the attention to the local level, you will get people who manage to overcome these problems simply through better communication. Have you noticed when there are new buildings being built in Mumbai? What happens is they have these huge holdings of how the building will look in the future. Right. So all you see is like this awful structure, but you see this beautiful photograph of kids playing in a shining swimming pool and all that. You have entrepreneurs who are able to project in the future to help you imagine what you can't imagine yourself. Right. And I don't see why you can't have that politics. I just don't think anyone has the incentive right now to put in that kind of effort and to engage in that kind of entrepreneurship because nothing is it's not possible to solve anything at the local level. But I do think if you had a good structure of local government with good authority, I mean, in New York, Bloomberg ran for mayor. Right. Exactly. There was there was an important job there to be done, which came with responsibility, which came with power, which came with a certain reputation. And he didn't run for the Senate. He ran to be the mayor of New York City. And I don't see why that wouldn't happen if you devolved power and authority and revenue raising capabilities in India. I do think that can happen. And I think you will see very creative political solutions on they won't be uniform, but creative political solutions on how to"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:20.720",
+        "message": "solve these problems. I buy your point, though I disagree with your example. I buy your point that if there is a more meaningful role for local government to play, then better leaders will emerge, especially people who've experienced problems firsthand, like waste management or traffic or potholes or whatever, who will then say, hey, I can finally do something about this because local government has a power. Let me go out there and do something and you know, like in the housing society where your parents stay in Noida, people will get similarly involved here. So by that point, I don't quite agree with the example of Modi. I think this country has suffered too much because he places rhetoric above actual governance."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:00.320",
+        "message": "But I understand the sense in which you think it's a good thing in that case. But what I mean is, we do have an example of a political leader who has told people that there is value in their sacrifice. That's not an easy message to sell, if you really think about it, right, selling to people that, hey, I know you're waiting four hours in line outside the ATM and the bank, but it's all for a great cause. And people did it, right? No rioting. That's the part I want to focus on. Not that demonetization was a good idea, or Modi did a great service to India by engaging in that kind of rhetoric. But what I mean is, it can be done. And if it can be done for a bad idea, I don't see why we can't do it for a good idea, like building"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:46.720",
+        "message": "a waste management system. On that optimistic note, Shruti, thanks a lot for coming on the scene in the Unseen. As usual, I learned a lot from you today."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:53.200",
+        "message": "Thanks, Amit. It was a pleasure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:56.520",
+        "message": "If you enjoyed listening to this episode, do check out all the related links of the essays and books that we mentioned during the show on the episodes page on either seenunseen.in or thinkpragati.com. You can follow Shruti on Twitter at S Rajgopalan. And you can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:04:23.800",
+        "message": "Hello, I'm Chuck. I'm Srikip. I'm Naren. And together we are the hosts of the podcast Simplified. And we are going to be doing a hundredth episode, which is going to be a live episode at Doolali in Khar, in Mumbai on the 25th of August, 2018. Yes, we should get the year right. We're going to be doing a lot of fun things at the show. We're going to be talking about some stuff, simplifying them. We're going to have a very erudite guest who's going to hopefully make up for our silliness, but we sincerely doubt it. And there's definitely going to be a lot of beer. So we really hope you join us. It'll be fun. And it'll be more fun if you guys are there. So do line up. See you. Bye-bye. Some time ago, five successful restauranteurs came together to form the Colaba Cartel. The founders of the table, Gauri Devi Dayal and Jay Yousuf, partnered with the founders of Woodside Inn, Abhishek Honavar, Pankil Shah and Sumit Gambhir to open a new restaurant in Colaba. If you've ever dreamed of opening a restaurant or love eating out, you want to listen in. The Colaba Cartel. This exclusive 10-part series is hosted by Gauri Devi Dayal and Amit Doshi."
+    }
+]

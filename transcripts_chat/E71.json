@@ -1,0 +1,577 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:04.560",
+        "message": "Did you know that Parsis in Mumbai instead of being left at the Tower of Silence after they die are now cremated and why because a cow fell sick in the early 1990s Did you know that the smog in Delhi is caused by something that farmers in Punjab do and that there's no way to stop them? Did you know that there wasn't one gas tragedy in Bhopal but three? One of them was seen but two were unseen. Did you know that many well-intentioned government policies hurt the people? They're supposed to help Why was demonetization a bad idea? How should GST have been implemented? Why are all our politicians so corrupt when not all of them are bad people? I'm Amit Verma and in my weekly podcast the seen and the unseen I take a shot at answering all these questions and many more I aim to go beyond the scene and show you the unseen effects of public policy and private action I speak to experts on economics political philosophy cognitive neuroscience and constitutional law So that the insights can blow not only my mind, but also yours the seen and the unseen releases every Monday So do check out the archives and follow the show at seen unseen.in You can also subscribe to the seen and the unseen on whatever podcast app you happen to prefer Most of us are very impressed by numbers show me a chart and I'll think hey that looks authoritative This person knows what she is talking about in most cases You can say any nonsense you want and put some numbers besides it and boom the common person someone like me who doesn't have a degree in statistics all the time to do his own research will swallow whatever you're saying and Sometimes it seems that you can actually prove anything with numbers That's where the old saying comes from if you torture the data hard enough it will confess to anything But numbers do matter it is true that lies can be cloaked in fancy figures But they can also be unmasked using numbers correctly and in a democracy It's a vital task of the citizen to question all the data that a government presents question everything"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:13.200",
+        "message": "Welcome to the seen and the unseen our weekly podcast on economics politics and behavioral science Please welcome your host Amit Badma"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:23.200",
+        "message": "Welcome to the seen and the unseen Today's episode deals with how the government uses and misuses data to do what my good friend Vivek calls optics management Vivek is my guest on the show today. But before I ask him to elaborate on this a quick commercial break If this happens to be the only podcast you listen to well, you need to listen to some more check out the ones from IVM podcast who co-produced the show with me go to IVM podcast.com or download the IVM app and you'll find a host of Great Indian podcasts that cover every subject you could think of from the magazine I edit Pragati at ThinkPragati.com. There is the Pragati podcast hosted by Hamsini Hariharan and Pawan Srinath There is a brilliant Hindi podcast Hulia Bazi hosted by Pranay Koteswamy and Saurabh Chandra and apart from these policy podcasts IVM has shows that cover music films finance sports Sci-fi tech and the LGBT community all under one roof or rather all in one app So download the IVM podcast app today. Vivek Kaul, welcome to the scene in the unseen. Thanks Samit for having me over. Vivek, you said you wanted to start by reading out a quote and you wanted me to guess who it was from. Go right ahead."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:39.200",
+        "message": "This is basically, you know, Greek philosopher called Plato from his book called The Republic In which he says, our first business is to supervise the production of stories and choose only those we think suitable and reject the rest We shall persuade mothers and nurses to tell our chosen stories to their children and by means of them to mould their minds and characters rather than their bodies The greater part of the stories current today we shall have to reject. Are you sure this is Plato and not someone in India today? Yes. So basically, you know, all the good things have already been written. I mean, it's just that we tend to realize them over and over again And this is exactly how, you know, governments tend to cherry pick data in order to project a story that they want to project Which, you know, the short phrase for it is optics management."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:33.200",
+        "message": "And, you know, there's a lot happening in the country and if the government, for example, Prime Minister Modi came to power in 2014 with a lot of promises We'll do this. We'll do that. But ultimately the story of what's happening with the economy is a very complex one. There are many parts to the economy. There are many kinds of numbers and a lot of it does come down to presentation. But where is the truth? Is the truth possible? And what can we learn from the sort of data at the government presence?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:59.200",
+        "message": "Right. So, I mean, this question deserves a book."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:04.200",
+        "message": "Are you writing a book on this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:06.200",
+        "message": "No, not really. I mean, but, you know, the short answer is to sort of look for as much data as possible and then try forming an opinion. And by data, I mean not just government data, but there is a lot of other real-time economic indicators which sort of come out right from two-wheeler sales to cement sales and so on and so forth, which tell you, which give you a broad direction of which rather a broad idea of which direction the economy is headed in. Also, I don't think it's fair to sort of analyze the economy on one parameter. I mean, you obviously have to look at different things and how the economy is doing on those different things. But as you rightly said, it's like, you know, one of my editors used to say, you think of the headline first. So, before you sort of write a piece in journalism, this is standard operating procedure because, you know, you have 600, 700 words to express yourself. So, before you write, you have to think of the headline first. So, when you're thinking of the headline first, you're already deciding on the slant that you want to take. And when you've already decided on the slant that you want to take, you go looking for data that justifies that slant."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:26.200",
+        "message": "That's very insightful because what it sort of indicates is that then your journalism becomes market-driven."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:06:31.200",
+        "message": "If you think of the headline first, you're thinking of the market first."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:34.200",
+        "message": "So, you're not really chasing the truth per se. You're chasing the story that you think will get traction from the audience."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:42.200",
+        "message": "Not really, no. That would be like, I mean, that is also true, not always. So, what I'm basically trying to say is that, you know, everything cannot be expressed in 400, 500, 600 words and not by everyone. I mean, there are people who can do that, but everybody can't. The second thing, the problem is that, you know, every piece that is published and irrespective of whether it's published in a magazine or on a digital media or in a newspaper needs a headline. Now, the moment you need a headline, you have to take a slant. You cannot be like, the economy is doing well, but it is also not doing well. That doesn't work, right? So, it's a sort of a problem with the way the media is structured."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:26.200",
+        "message": "That reminds me of what Harry Truman once said that, give me a one-handed economist because all his economists would say on the one hand this, on the other hand this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:32.200",
+        "message": "I mean, that is also true, but that's more at a macro level. I'm talking about at a micro level as to what happens. Because these days, you know, whenever I try to be objective, what happens is, you know, the length of the piece goes from 600 to 1200 words and it is very difficult to give a headline. And when you can't give a headline, I mean, when you give a sort of a, you know, non-descript balanced sort of headline in the, you know, day and age of clickbait journalism, it just doesn't work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:02.200",
+        "message": "Because people want simple stories."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:04.200",
+        "message": "Everybody wants stories. Nobody likes the idea of, but you know, as you said, on the other hand."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:10.200",
+        "message": "Yeah, exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:12.200",
+        "message": "So, there is a, I mean, it's, I mean, there is a truth out there, but it is a lot more nuanced than, you know, most people think it is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:22.200",
+        "message": "Right. And nobody really wants to read a headline which says something like, Modi's time as prime minister has been both positive and negative."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:32.200",
+        "message": "Which is, you know, which is actually where it is in the sense that, I mean, like, I mean, I was writing a piece yesterday on, I mean, just on the economic side of his performance. And, I mean, given the fact that I criticize him a lot, but on the whole, he, you know, his performance on the economic front has been a little, you know, as a little better than average. But then if you look at how governments in the past have done, that is typically how most Indian governments are, because most Indian governments are not really bothered about the economy in the way that they should be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:04.200",
+        "message": "I'd say that it's his performance has been pretty much par for the course and what you would expect from any government of any party, except for the two big bang disasters of demonetization and the GST implementation."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:14.200",
+        "message": "Right, right. Which is very, which is what, you know, I also mean, most of, you know, what I wrote was what you say now. So, but then, I mean, if you say that, it doesn't work. I mean, in order to make it work, you'd have to say, Modi has failed, or you'll have to say something like, oh, he's been, you know, God's gift to mankind. Because what has also happened is, you know, because of the social media and the way it is, the thinking now has become very binary. I mean, this is something I guess, you know, people keep discussing on your show. So, you're either with us, or you're against us. So, it's very difficult to..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:48.200",
+        "message": "No, in fact, whenever I'm discussing politics with someone, one question I ask, like, if he's against Modi, one question I'll ask is, can you name a few good things he's done or something good about him? And equally, if they are for, say, Kejriwal, I'll ask him that, can you name a few bad things that he's done or that you're against? And typically, you find that no, it's all black, and it's all white, and it's tribal."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:06.200",
+        "message": "You know, what happens is, and I mean, I briefly went through that phase. It's one is, it's easy to sort of write, talk about stuff, after you've already, you know, thought of the headline first. And over a period of time, you just get caught on to it in such a way that it becomes difficult to get out of it. I mean, it's like, I mean, you start believing in the whole thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:32.200",
+        "message": "So we're not really discussing journalism in this episode. But what you said is fairly interesting. And we're both journalists. So I'll explore this a bit further till we get back to the subject of the episode. When you write a story, typically, when you pick up a story, do you already have in your mind broadly what the thrust or the headline is?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:49.200",
+        "message": "Not always, not always. In fact, what I do these days is I have a working headline, which is very like I was to give you a very simple example. Today, I wrote something on basically what has happened is that the cabinet has passed an ordinance, which essentially will categorize homebuyers as financial creditors in case of, you know, real estate companies who have defaulted on their loans. Okay. So basically, long story short, I just had a working headline. And then as I wrote, you know, a headline evolved. And then I gave that headline. But that always, I mean, it doesn't always happen like that. I mean, sometimes you are already sure as to what you want, like, I mean, I was writing a piece on Punjab National Bank yesterday, or the day before yesterday. And I was already sure that, you know, this is a bank, which really should not be in the business of banking."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:51.200",
+        "message": "Because you've written about it enough. And you know, all of that. Anyway, I should tell listeners that we are recording this on the 24th of May. So it's going to be released a little bit later."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:59.200",
+        "message": "So don't get surprised as to why are we talking about archaic stuff, you know? Well, I mean, it'll be 10 days old by the time. 10 days is a long time these days, Amit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:07.200",
+        "message": "Yeah, that's, that's true. And I guess it's okay for an opinion writer who's writing an opinion piece to already have a headline in his head, because he knows the slant. But if you're a reporter, or if you're writing features, then perhaps it's not always such a good thing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:19.200",
+        "message": "As you know, one of my ex bosses used to say is, if you're writing a feature story, two is a trend. And then you get two people to say what you want them to say. And then, you know, just to sort of balance it out, you get a third guy to say something, which the first two guys haven't said. So I mean, so it's like having said that. It's the structure, I mean, I guess. And you know, the good part is that as journalism moves from paper to the digital media, people who want to sort of get rid of these structural inefficiencies, they can do that. It's just that the audience also needs to evolve. And the audience will evolve if enough people sort of are doing that. I mean, they're not thinking of the headline first."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:10.200",
+        "message": "Right. So head on over to Pragati at ThinkPragati.com. There, that advertisement out of the way. Let's sort of move back to the subject for today. When it comes to economic journalism, you've been writing the most insightful pieces that I've read in the last few years. And a lot of your recent ones have examined the government's claims, where the government has claimed XYZ using a certain amount of data. And you've shown why that is cherry picking of data, or in some cases, it's the wrong data entirely. And you sort of, you know, deconstructed that. Let's start by talking about what I would, you know, both of us did an episode on and we agree is the most burning issue of our times, which is a jobs crisis. The government has recently on multiple occasions, in fact, recently come out and said that, hey, jobs numbers are good. People say that there are, you know, India's producing 12 million jobs a year. And where are the new jobs being like 12 million people are coming into the workforce every year, where are the new jobs and blah, blah, blah. And the government is handled that by on the one hand, Arvind Panagaria, ex head of Niti Aayog saying that that number is false is seven and a half million. And on the other hand, Rajiv Kumar saying that, who's in a current head of the Niti Aayog saying that, hey, we are producing all these jobs. And you've done two separate stories rebutting these two gentlemen. So give us some details."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:31.200",
+        "message": "So basically, you know, let's start with the Arvind Panagaria thing, because that's a little more blatant. So Mr. Panagaria, as you said, was the vice chairman of the Niti Aayog till he sort of decided to cut his losses and go back to Columbia. And by the way, he's blocked me on Twitter."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:50.200",
+        "message": "He's blocked me on Twitter as well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:51.200",
+        "message": "Which is a badge of honor we should wear with pride. Actually, you know, you have all these people say, saying on Twitter followed by the Prime Minister. We should say blocked by Arvind Panagaria. So anyway, so he had this piece in the Times of India on the edit page of Times of India, where he challenged this data point of 1 million Indians entering the workforce every year. Now, first, it is important every month, okay, not every year, so which means 12 million a year. So first, it is important to understand where this data has come from. So this data is largely, you know, it was there in the 12th five-year plan. For one, there are other researchers who have come up with similar data. It was also a part of this document called some inputs into the draft educational policy or something like that. So there are multiple occasions on which various government documents at various points of time, you know, have said that around a million Indians are entering the workforce every year, every month, sorry. So Mr. Panagaria essentially challenged it by using projections from a report published by the National Population Commission. Now, as per this report, in 2016, the number of Indians over the age of 15 or more was essentially equal to 929 million. In 2021, the estimate suggests the number of Indians of 15 years or more would be 1003 million. So which essentially means that between the period 2026 and 2021, around 74 million people have crossed the age of 15. So the moment you cross the age of 15, you become a part of, you can become a part of the workforce. So if five or a period of five years, 74 million people have been added, one year average would be 15 million, right? Now, not all of these 15 million are looking for a job, because some of them sort of continue to study. In case of women, many of them are married off and, you know, are not allowed to work. So, if you adjust for that, I mean, you adjust for that using something known as the labor force participation rate. And there are two methods to calculate that. And so the labor force participation rate is around, you know, as per one method, it's 50%, as per another method, it's 52.4%. So if you use these two data points, you essentially come to the conclusion that around anywhere between 7.5 to 7.8 million Indians enter the workforce every year. And this is much lower than the 12 million number, which has been bandied around for a long time. Now, the problem was, I mean, it sounds very, you know, logical. The problem was that Mr. Panagariya was using a projection, which was made in 2006. Oops. So, in 2018. Now, that would have been okay, if between 2006 and 2018, no other projections would have been made. But I sort of, you know, got curious, because it's a funny thing that I was in Noida that day. And it was late in the night. And I got very curious as to, you know, why would anyone in 2018, choose a data point from 2006. So I went looking and I found a more recent projection in a report called Youth in India, which was published in 2017 by the Central Statistics Office, which is as kosher as it can get. Right. And so they had basically, as per their projections, and I'm just reading that out. So in 2011, the number of Indians who were 15 years or more was 838 million. And by 2021, this was expected to go up to 1031 million. So the difference is 193 million. So over a period of 10 years, 193 million Indians will enter the workforce. So which if you sort of, now, as I said, not all of them. I mean, look forward, because some of them continue to study, some are married off. But you use the same formula for labor force. I use this exactly, you know, the numbers that Mr. Panagari had used 50% and 52.4%. Because these rates are from a report which was published in 2016. So it's like not something which was, you know, 15 years old. And it's fair enough to use the same methodology, but better data to show that the man is wrong. Right. So if you sort of do the math, so 193 million over a period of 10 years, works out to 19.3 million a year. And at 50%, it works out around 9.7 million. At 52.4%, it works out around 10.11 million. So roughly around 10 million. So 10 million, obviously, it's closer to 12 than to 7.5. But it's almost 33% more than 7.5 million. So the question again, you know, comes back to the fact that, you know, why would someone like Arvind Panagari, who was the former head of Neeti Aayog, use 2006 data and not 2017 data?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:19.200",
+        "message": "I mean, when you make such an obvious schoolboy error, you know, it's either incompetence or dishonesty. And one doesn't know. We shouldn't speculate. But there's no third explanation."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:29.200",
+        "message": "And the other thing is, you know, I mean, I would have been fine if you would have used both the, that would also, because see, these are not, you know, nobody's like sitting there counting, you know, this year, so many Indians entered the workforce. I mean, it is an estimate at the end of the day and estimates will vary. So he could have easily sort of use that data and then use this data also to say that, however, you know, more recent, you know, projection seems to suggest this. But the problem there would have been, he wouldn't have had a headline. As we sort of talked about. So he was not chasing the truth. He was chasing a narrative, whatever data he could get in service of the narrative. Think of the headline first."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:09.200",
+        "message": "But, you know, I want to keep you on that piece that you wrote in Panagaria, because another very insightful point to me that you mentioned is that, of course, it's a great tragedy that so few of our women come into the workforce, but that changes. Tell us about the conditions under which that changes and whether it applies to India."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:25.200",
+        "message": "Basically, so if you if you look at the labor force participation rate of women, as I said, there are two methods. So as per one method, it's 23.7 as per another method is 27.4, which basically means one in four women, you know, are a part of India's labor force. And this number is higher in rural India than in urban India, which is something that people really don't know. I mean, I find it very, I mean, I don't know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:50.200",
+        "message": "Would you say there's a greater need for the woman to work in rural India?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:55.200",
+        "message": "No, obviously, in rural India, you know, women are a very important part of farming. Right. So, but in urban India, I think, you know, the possible explanation for this is the moment, you know, the man in the family sort of makes a little more money. He doesn't want, you know, the woman to work. And all the data, as cliched as it may sound. And all the data from this, I assume, would relate to the formal sector, which is? No, I mean, this is as how it is. All right. Okay. Or I mean, it includes agriculture. Sure, sure. So, and the funny thing is, the labor force participation rate for women has been falling since NREGA was launched. And I mean, your economists really, you know, have not been able to come up with an explanation for this. I mean, whether it's a data error or having said that, if you look at the experience in, you know, countries like China and South Korea, which are very close to, you know, where India was in the 60s, and the 70s, and even in the 80s, I mean, China and India were more or less at a similar position. And so as more and more women got educated, the labor force participation rate for women really, you know, went up and it was, you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:04.200",
+        "message": "And you pointed out that it's inversely correlation to the fertility rate, as a fertility rate comes down, the labor force participation of women goes up."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:12.200",
+        "message": "So it's so fertility rate comes down, when the mortality rate comes down, when you know, the number of children dying before the age of one comes down, and that comes down when women get educated, because they know how to read. And when you know how to read, you're in a better position to take care of your"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:30.200",
+        "message": "And more prosperity and so on, because poorer people tend to have more kids. And that's just a fact everywhere."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:36.200",
+        "message": "Right. So, so basically, so the experience from other countries seems to suggest that as women earn more, they enter the workforce, and the participation rate for women can be in the high 60%. I mean, so even if India reaches, let's say, you know, we are at 25%. Now, I mean, even if we sort of go to 35, 40%, you will have more women."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:02.200",
+        "message": "And that'll make a massive difference."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:04.200",
+        "message": "I mean, it'll see. So the thing is, it will obviously, if all of them can find jobs, it will make a massive difference to the economy and to the general well being of the economy, but if they can't,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:17.200",
+        "message": "So that means the labor force participation numbers you mentioned earlier, which Mr. Panagari had assumed, and you took them 50 point something percent and 52 point something percent, they should go up over time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:28.200",
+        "message": "There is no reason because I mean, that is the global experience. It's just that in the last few years, after NREGA was launched, the rate seems to have come down. I mean, I really don't have an explanation for it. But if you look at the global trend, there is no real reason as to why these numbers should not go up."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:48.200",
+        "message": "Right, right. And these numbers growing up, of course, isn't going up is, of course, an awesome sign. Let's move on to the other side of the jobs crisis. Here we had Panagari saying that no, no, there isn't actually that much demand for jobs and that's been overstated. And we just discussed how we cherry pick data to make that claim. The other side of it is Rajiv Kumar, who was his replacement at Niti Aayog, making a claim that actually we are producing a hell of a lot of jobs. Tell me a bit about that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:13.200",
+        "message": "So one of the good things that has happened is that the Employees Provident Fund organization is now going to regularly publish the addition to the number of EPF subscribers. And the first, you know, I mean, the data point was recently released. And as per that, between September 2017 and February 2018, a period of six months, 31.1 lakh subscribers were added to the Employees Provident Fund. Now, this data point was immediately used by Rajiv Kumar, who's the current vice chairman of the Niti Aayog. And he claimed on Twitter that on a pro rata basis, this implies the creation of 62.2 lakh jobs in 2017-18. Cassandra should please give up. So he basically, you know, we had data for a period of six months, September to February, he doubled it and, you know, he came up with, you know, double the number. Now, there is a basic problem with this, you know, with this argument. And the basic problem is that, you know, organizations are supposed to sort of become a part of the EPF when the number of employees reaches 20 or more. So the moment, you know, an organization joins, sort of, you know, becomes a part of the Employees Provident Fund. It is probably, it has had 19 employees till then, and then one more is getting added. So you have 20 employees and you become a part of the EPF. Now, that does not mean that 20 jobs are being created."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:47.200",
+        "message": "The data will reflect 20 new jobs."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:49.200",
+        "message": "Which is so, there is no, I mean, this data does not adjust for this anomaly. And the funny thing is that Mr. Kumar said the same thing, you know, to the Financial Express, having tweeted what he had. Okay, so I'll just read out what he had told the Financial Express. One has to be careful in estimating addition to jobs. What happens is that companies start to contribute to the EPFO when their headcount increases from 19 to 20. So all 20 workers come into the EPF picture in one go, while it is not that all 20 were not there with jobs earlier. Okay, so the point is, you know, Mr. Kumar is contradicting himself. Obviously, you know, he said one thing on Twitter and he said entirely another thing on\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:40.200",
+        "message": "And my suspicion would be\u2026 For the Financial Express. And my suspicion would be, correct me if I am wrong, and maybe we don't know, but my suspicion would be that the entirely sensible thing that he said to the Financial Express would be said long before. And now that he is part of the government, in a sense\u2026 No. He is mocking the Casanovas."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:54.200",
+        "message": "No, not really. So let me just, I have it open here. You have the date? It's on April 27, so it's not like\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:00.200",
+        "message": "Oh, so he actually, okay."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:02.200",
+        "message": "So, I mean, so obviously the only explanation for this is that, you know, he probably, I mean, nobody reads the Financial Express."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:10.200",
+        "message": "Cognitive dissonance."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:11.200",
+        "message": "So he said the thing that, you know, his bosses wanted to hear on Twitter, and then he said the right thing to the Financial Express."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:18.200",
+        "message": "He said the truth by mistake."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:19.200",
+        "message": "So, yeah, so that's the thing. The second interesting point here is, and this is again, you know, if you look at all the estimates of how big the formal sector in India is vis-a-vis the informal sector. So there are multiple estimates. Some estimates say that the informal sector is 90% of the economy. Some others say that the informal sector is two-thirds of the economy, and there are other estimates in between. So if the formal sector is creating 62.2 lakh jobs in a year, it means the informal sector is creating close to 6 crore jobs in a year. That's his assumption. That is bizarre. I mean, if the informal sector is creating 6 crore jobs in a year, then India does not have a jobs crisis. Right. Right. And then it should, again, if so many jobs are being created, it should be visible in other data points. The economy should be booming. Booming. So if you look at the rate of economic growth, it's been the slowest in four years, 17-18, in 2017-18. The private consumption growth has been slowest in five years, in 2017-18. If you look at the investment data, the total value of projects scrapped or dropped in 2017 reached an all-time high level. The drop between 16-17 and 17-18 was 60%. This is as per Centre for Monitoring Indian Economy. They offer another data point where they say as far as projects completed are concerned, they dropped 34% in value terms. So where are these jobs being created? I mean, ultimately, I mean, we all know\u2026 In the Jio-wise publicity department. We go back to the argument that, you know, everyone's selling pakoras, basically. Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:08.200",
+        "message": "So, I mean, that is the only possible explanation. You had another in your article, you'd mentioned another\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:14.200",
+        "message": "Yeah, I was just coming to that. This is a slightly complicated point. So, I mean, I'll take it gradually. Now, as I said, you know, between September 2017 and February 2018, 31.1 lakh subscribers were added to the Employees' Provident Fund. Now, if you look at slightly more longish, long-term data, between March 2017 and April 2018, you realize that only 12 lakh subscribers were added to the EPFO. Right. Right. So, you have\u2026 So, you know, between September and February, 31.1 lakh were added, but between March 17 and April 18, only 12 lakh were added."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:02.200",
+        "message": "So, what is happening there?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:03.200",
+        "message": "So, I guess one explanation for this is that people probably lost jobs, they stopped paying, you know, their monthly subscriptions to the EPFO. I really don't know. I mean, this is something only the government should be able to explain, but there is a clear anomaly here. So, obviously, you know, this data has been published for the first time, and I would say that instead of just giving the additions, it is also important to give the total number of subscribers at that point of time. And this total number of subscribers should essentially be people who have paid the last 12, you know, whatever, I mean, the last 12 installments or whatever you might call it, investments actually, who have essentially contributed to the EPF for the last 12 months. That would give us, you know, a lot better picture than just giving us, you know, one addition number and then everyone playing around with it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:00.200",
+        "message": "And another event that kind of complicates this, which you mentioned in your article, was a government offering amnesty to firms that hadn't had\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:08.200",
+        "message": "So, that also sort of pushed up the number. I mean, there are people, there are firms who should have been on EPFO and they were not there, but that's a good thing. I mean, there was a crackdown, but then again, that doesn't add to jobs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:19.200",
+        "message": "I mean, the argument isn't whether it's a good or a bad thing, but it's something that would have made the numbers go up artificially, and it wouldn't have been new jobs, merely new people coming into the EPF fold."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:28.200",
+        "message": "So, basically, you know, more people coming into the formal economy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:33.200",
+        "message": "Yeah, which is overall a good thing. But as far as the data is concerned, it artificially inflates the jobs data."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:40.200",
+        "message": "Yeah, really different."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:41.200",
+        "message": "Exactly. So, I want to move on from jobs now on to various other areas of the economy where the government recently has been slightly economical with the truth. But before that, let's take a quick commercial break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:32:55.200",
+        "message": "It's been another great week on IVM Podcasts, and if you're not following us on social media, please do. We're at IVM Podcasts on Twitter, Facebook, Instagram, etc., etc. On our latest episodes of The Seen and the Unseen, Amit Verma is joined by author and columnist Vivek Paul to decode how the government uses and misuses data for optics management. On Puliya Bazi, Pranay and Sourav talk to author Snigdha Poonam about her new book, Dreamers. And on Top Out Hortle, we have Azeem Banatwala as a guest with Saru, Baru and Kumar discussing the end of the UEFA Champions League. And on Who's Your Mommy, Veda talks about mothers and how they cope with their constant sleep deprivation. As I said, it's been a great week, and please try and listen to as many of these shows as you can. And now, on to your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:34.200",
+        "message": "Welcome back to The Seen and the Unseen. I'm Amit Verma, and I'm talking with my good friend Vivek Kaul, the data detective, as we discuss the various shenanigans that the government of India has got up to with data, which is not a trivial subject, because to live in a healthy democracy, it's essential that citizens always question what the government tells them. And it's hard to do so because most of us are data illiterate, and the government throws so much data at us. But worry not, India is fortunate we have Vivek Kaul with us. Vivek, before the break in the first half of the show, we spoke about the jobs crisis and you demystified a lot of the data thrown at us by Mr. Panagaria and Mr. Kumar. What's the next subject you want to tackle?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:16.200",
+        "message": "So, you know, there's this whole hangama happening around how the government is collecting more taxes after demonetization. And it's a very funny thing because, you know, obviously, as the economy grows, any government would collect more taxes. So what you need to look at are not direct taxes collected in the absolute sense of the term, but direct taxes collected as a proportion of the size of the economy. So the proportion, the size of the economy is essentially the gross domestic product or the GDP number. Now, so in 2017-18, the government of India, the direct tax collection was 5.94% of the GDP. Now, this was more than the taxes collected in 2016-17, which were at 5.6%. Now, before the Modi government came to power in 2013-14, the direct taxes to GDP ratio was 5.62%. And the collection over the next three years was lower than this number. In 2017-18, it improved to 5.94% of the GDP, which was a jump of around 34 basis points. So the moment you deflate the direct taxes number with the GDP number, you suddenly realize that the jump has not been as huge as claimed. I mean, if you look at in absolute terms, direct taxes have gone up by around 17-18%. There has also been increase in what the government calls the tax base. So this is essentially people who are filing returns. But then, as you know, we've discussed in the past, filing returns and paying taxes are two very different things. So when you file returns and don't pay taxes, the government does not benefit, your chartered accountant benefits. So even though the tax base is going up, it has not led to a proportionate increase in tax collections. So the argument offered here again is that, okay, you know, right now, these people are not paying. But in the years to come, as their income goes up, they'll start to pay. Now the problem with that argument is that in the years to come, as their income goes up and as the inflation goes up, the minimum exemption limit will also have to go up. I mean, it's but natural. That's how, you know, it's always been the case. And it's the right thing to do as well. The other thing that people don't talk about is that in 2007-08 and 2008-09, the direct taxes to GDP ratio was 6.3% and 5.93% respectively, which is, you know, one number is greater than the direct taxes collection in the last year and one number is almost similar. Now what happened back then? What had happened back then was that, you know, the stock market was rallying and obviously the government ended up collecting a lot of tax from the stock market in the form of securities transaction tax and in the form of short-term capital gains. My contention is that a similar thing could have happened in 2017-18 as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:22.200",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:23.200",
+        "message": "Right. I mean, the data for, you know, STT and short-term capital gains is not available in public domain. So if it was available in public domain, we could have sort of figured out as to, you know, how much tax is coming from STT and short-term capital gain and then sort of arrived at the, you know, whether demonetization has had an impact or not. What has also happened is that, you know, refunds have been delayed. So if, you know, the moment you delay refunds, your collection, the net direct tax number also goes up. So once you factor in all these things, you realize that, you know, again, it's a very strong case of optics management."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:04.200",
+        "message": "And also besides the refunds being delayed, one thing that you mentioned in your piece was that companies were asked to deposit TDS early."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:11.200",
+        "message": "Yes, that was also a report in the Economic Times. And that also, so they were doing these various jogas to kind of get taxes up in the short term. Essentially to bump up the DTC number."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:25.200",
+        "message": "And what I'd say is the issue here that you're talking about is whether they were accurate with the claim or not. The issue is not necessarily whether direct taxes going up are desirable or not, because it's irrelevant."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:38.200",
+        "message": "In the context of our discussion, it's completely irrelevant."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:42.200",
+        "message": "We're just discussing that, okay, are they being truthful with whatever their claims are? And if they are claiming X, did they do any short term jogas like being slow on giving refunds or making companies deposit TDS early to inflate the numbers? So that the optics management, as you put it, works well. Yes, precisely the point. So this is about direct tax data. You know, another very insightful piece you wrote in Business Standard, if I'm not mistaken, is about another, I don't know whether one would call it dishonesty, but the way they manage the optics of the budget and in particular, the subsidies time bomb."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:20.200",
+        "message": "Yes, so this is something that, and you cannot just blame the Modi government, it started with Mr. P Chidambaram. And so essentially, you know, you need to understand the fact that the government accounting works on cash systems, which basically means that revenue is accounted for when the money comes in. And, you know, expenditure is accounted for when the money goes out. Typically, in case, when companies account, that is based on the accrual system, wherein, if a sale is made, you know, it is booked as revenue, irrespective of the fact whether, you know, the customer, whoever the thing has been sold to has paid for it or not. Okay, that is a basic difference. So essentially, what the governments tend to do is they tend to postpone the payment of subsidies. So there are largely three kinds of subsidies, food, fertilizer, and petroleum."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:18.200",
+        "message": "And these are made by these government agencies like the Food Corporation of India, and they have to take the money from the government."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:23.200",
+        "message": "So basically, what happens is, so let's say, you know, the Food Corporation of India buys rice and wheat primarily from farmers, and they pay them an X rate, 14 rupees a kg, 15 rupees a kg, I don't remember the exact number, but somewhere along those lines. And then they sell that rice and wheat to the public distribution system at a price of 2 to 3 rupees a kg. And then there is also the cost of moving that grain around. So the government has to compensate the Food Corporation of India for that difference. Now, what it tends to do is that the government does not pay on time. So let's say, you know, some amount of subsidy was due in 2017-18, it wouldn't have been paid in 17-18, it will be paid in 18-19. So the moment they don't pay it in 17-18, they don't have to account for it as an expenditure, simply because it's a cash accounting system."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:19.200",
+        "message": "Sir, I'll ask a layman question, clarify this. If this was a private company, the moment that even if they didn't pay, that expenditure would still be on the books?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:26.200",
+        "message": "It would still be on the books because it's been incurred."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:29.200",
+        "message": "But in case of the government, it's not on the books? No, not on the books because the government is not incurring the expenditure itself."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:34.200",
+        "message": "There is an agency which incurs the expenditure. So I'll give you some numbers. So as of 2017-18, and this is data from the Comptroller and Auditor General, the total subsidies outstanding were 2,19,774 crore. Of this, FCI was owed 2,04,376 crore. Now what happens is the natural question that one may ask now is that how does FCI function? If, you know, such a huge amount of money is not paid to an organization, I mean, how does it continue to function? So FCI essentially continues to function because it keeps borrowing and banks are happy to lend to FCI because FCI is basically the government. So typically what happens is that when FCI borrows, it has to pay interest on that borrowing. So that interest also gets added on to the subsidy burden."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:33.200",
+        "message": "And listeners should know that all of you and me and Vivek are paying this interest."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:37.200",
+        "message": "Of course, I mean, because in some form or the other, I mean, we are paying for it in the form of high petrol and diesel prices for one. So essentially, you know, an estimate made by the CAG suggests that between 2011 and 2016, the Food Corporation of India paid an interest of more than 35,000 crore on all the money they had borrowed because the government had not paid them on time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:04.200",
+        "message": "And the government is not paying them on time. So it can do this accounting trick of saying that, hey, we've kept the fiscal deficit under control. We're not spending so much."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:11.200",
+        "message": "So this basically started during the Chidambaram era. And, you know, back then, I think the number was around 100,000 crore. And over the last four years, it sort of doubled and reached around 2,20,000 crores. And you described this as a subsidies time bomb. Is it going to explode? What's going to happen? Yeah, see, it'll not. I mean, it's a time bomb, yes, but the thing with\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:34.200",
+        "message": "Every year, they'll kick it down the road."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:35.200",
+        "message": "Yeah, so the government, essentially, the government fiscal deficit is basically a Ponzi scheme, right? Right. You know, it keeps running because the government issues bonds and, you know, new set of investors keeps coming in. So\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:47.200",
+        "message": "In fact, there was a great demand on Twitter that I ask you about Ponzi schemes. Yeah, but that is a separate\u2026 That's a separate episode."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:54.200",
+        "message": "Episode, and I haven't written on Ponzi schemes for a while, so I'll have to read up and\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:00.200",
+        "message": "Though he has written a book, which you must read, called India's Big Government, and what is that, if not a Ponzi scheme?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:06.200",
+        "message": "Yeah, so\u2026 In many ways. Yes, so I guess, yeah, that sort of\u2026 because, you know, the government at the end of the day is a Ponzi scheme, so they can continue. And, I mean, so there are other ways. I mean, you look at the fact that the amount of money, you know, I think 20-21% of the deposits that the banks collect have to compulsorily be invested in government securities. Wow. Then you have the insurance companies, they have to sort of compulsorily invest money in government securities. So the government in its own way has ensured that, you know, the demand for the debt that it issues continues. I mean, the term that economists use for it in the Western world is financial repression. And in India, because we are so used to the idea of financing the government, the citizens, that we don't even realize it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:04.200",
+        "message": "This is another fascinating subject and all the listeners of this show who are fans of Vivek Kaul, I'd urge you to go to Twitter, find him at Kaul underscore Vivek and bombard the guy insisting that he write these two books. One on how government is a Ponzi scheme and two on how government uses data. Moving on now to general questions, you know, you are an experienced financial journalist and you have an eye for numbers and you are trained to figure all this stuff out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:30.200",
+        "message": "I am not really trained. But you're sort of self-taught. You're an autodidact."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:35.200",
+        "message": "Baba. Whatever that means. You're an autodidact data detective."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:41.200",
+        "message": "Autodidact data detective. A.D."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:44.200",
+        "message": "There's a lot of D in there. It sounds like one of those syndromes, you know, which you don't know of. But back to my question, what is a concerned citizen to do to keep a government accountable as far as the truth is concerned?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:58.200",
+        "message": "It's very tricky, you know, in the, you know, daily life living, you know, making an earning and, you know, getting to office and coming back. It's very difficult. So I guess the only thing you can do is to try and read a wide variety of people. Given, I mean, and to be, you know, not trust everything that arrives on WhatsApp and, you know, just follow a few, you know, people on the social media and try reading them out. I mean, I don't think there is. See, unless people sort of go looking for knowledge and try understanding things, it's not going to happen. And you cannot blame them, given the fact that life is difficult, there is only so much time, there are pressures from the family, you know, there are bosses sitting on the head. Everyone's not as lucky as, you know, I am to, you know, who gets the time and gets paid to do all this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:54.200",
+        "message": "And I think what I clarify, and I'm sure you'll agree with me, and as Plato's quote, in fact, pointed out, is that this is something that is embedded in human nature and in the way governments function. So, this is not particularly about this specific government."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:08.200",
+        "message": "Right, I mean, we tend to like stories. So, I'll give you a very interesting example, I mean, something that happened today. So, A.B. De Villiers retired yesterday. Very."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:19.200",
+        "message": "Yeah, I mean, out of the blue. Very sad for me."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:21.200",
+        "message": "Out of the blue. Now, that's a different thing. So, now suddenly you have this WhatsApp forward going around, which says that, you know, De Villiers was a champion hockey player, a champion tennis player, a champion rugby player, champion golf player at the school level. Now, it's very difficult to sort of believe that one guy could have been, you know, good at so many sports, right. And so, I just sort of googled and I realized that this is some fake news, which has been going around for a while now. And De Villiers has clarified that all this is wrong. And he said that the only sports that he played for a year was hockey in his school or college or something like that. Now, so, one guy who had sent it to me and I told him this and his immediate response was,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:08.200",
+        "message": "what happened, at least he looks good when he reads. So, it's inspiring. My response would have been, Vivek, you break the government's laws, let it be. I feel like you just told me Santa Claus doesn't exist."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:19.200",
+        "message": "No, I mean, if you look at A.B. De Villiers, I mean, he's done enough on the cricket field itself to be categorized as a legend."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:27.200",
+        "message": "But we are a storytelling species."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:29.200",
+        "message": "Yes, so people love this, you know, here's this guy. So, in fact, if you remember correctly, there used to be the same sort of stories going around for John T. Rhodes also. But John T. Rhodes apparently was a great hockey player. He would have easily made it into the South African hockey team as a center forward if he had not chosen to sort of play cricket. But cricket was, you know, paid, hockey did not. No, I think hockey in South Africa, when he used to be around, was played at an amateur level. And thank goodness for that, because so many hours of pleasure. So, you know, you can understand one guy being good at two sports. One guy can be good at some six, seven different sports."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:11.200",
+        "message": "No, but apparently Bal Narendra, when he was a young lad, was excellent at a lot of sports. Now we are getting into tricky territory. I could produce a lot of data on that, by the way, but let's end the episode here. Vivek, thanks so much for coming on the show. As always, I learned a lot talking to you. My pleasure. If you enjoyed listening to this episode, go to the page of this episode on either seenonscene.in or thinkpragati.com. And there are links to all the articles by Vivek Kaul that I mentioned in there. So do check out all those articles. Also, I'd urge you to go to your nearest bookstore offline or online and buy the Easy Money Trilogy by Vivek Kaul. The Easy Money Trilogy has recently been released by HarperCollins and it's looking really snazzy in its new design. So this is not just a random plug I'm doing. It's a great book by a very fine writer you should all read. In fact, it's your duty as a citizen of this great democracy to read and follow Vivek Kaul. And it's also your duty to read and follow me so you can find me on Twitter at amitvarma. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:50:27.200",
+        "message": "He bends down to test the warm water for his bath. He comes here to quench his thirst for a hot shower and some podcasts. You can witness how he enjoys having other people talk about cool stuff in his bathroom. Indeed, it helps him with his loneliness. You can find more of his species on ivmpodcast.com, your one-stop destination where you can check out the coolest Indian podcasts. Happy listening."
+    }
+]

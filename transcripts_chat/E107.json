@@ -1,0 +1,697 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:30.000",
+        "message": "India is a democracy of course and the state is supposed to be subservient to the wishes of the people. And that makes it imperative that all of us common citizens pay more attention to economics. Economics matters, public policy matters. They affect our lives in a million ways that go unseen."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:53.000",
+        "message": "Welcome to the seen and the unseen. Our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:03.000",
+        "message": "Welcome to the seen and the unseen. In the last few episodes I've taken deep dives into history and philosophy, discussing books by the likes of Ram Guha, Tyler Carvin, Stephen Pinker, Gyan Prakash, Matt Ridley and Manu Pillay. I even had an episode on cricket with Harsha Bhogle. But no matter where I go, I'll always come back to economics because hey, it's bloody important. Starting today, I'm going to have an episode every few weeks that is an economics ramble. I'll just ask a couple of economist friends to drop in and we'll chat about the economic landscape around us and try to illuminate more unseen effects of the policies of our overlords. My guests today are both good friends of mine who have appeared on the show and I hope they'll remain regular guests as time goes by. Vivek Kaur is India's most prolific economics journalist. He writes an average of 33.2 pieces every week for various publications in India. He's also written four books, the Easy Money Trilogy and India's Big Government. You can buy them all on Amazon. My second guest today is my good friend Kumar Anand with whom I have had more cups of coffee than any other person alive. So when I die of liver failure, you know who to blame. Kumar is an economist who currently works with Naidisha and he also put together the Indian Liberals Project. Before I begin my conversation with Vivek and Kumar though, let's take a quick commercial break. Like me, are you someone who loves fine art but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art like stoles and shrugs, home decor like cushion covers and table runners and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price and artists get royalties on sales just like authors do. What's more, Indian Colors now has an exciting range of new products including fridge magnets with some stunning motifs and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vasvo X Vasvo, Brinda Miller, Dilip Sharma, Shruti Nelson and Pradeep Mishra. They accept bulk orders for corporate and festival gifting but even if you want to buy just for yourself or a friend, head on over to IndianColors.com. That's colors with an OU and if you want a 20% discount, apply the code IVM20. That's IVM for IVM podcast. IVM20 for a 20% discount at IndianColors.com. Kumar and Vivek, welcome to the scene and the unseen. Thank you."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:04:38.000",
+        "message": "Thank you, man."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:39.000",
+        "message": "So, Vivek, you kind of got here a little late because you were stuck in Bombay traffic and for that reason you haven't heard what I said about you in the introduction. You'll hear that when the episode comes out and for that reason also we won't have a particularly long episode today, maybe an hour or so. And we won't go into some of the reader questions that we asked people to submit on Twitter. Those are for next time. This is going to be a regular feature. Hopefully, you guys will kind of keep returning but that's enough of me rambling and let's get to the economics ramble part of it. Vivek, we are recording this on Feb 7th and the union budget was just out last week. What were your views on it? I know you've written some 83 pieces on it already. No, I just wrote around 8. Just 8? Are you serious?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:05:24.000",
+        "message": "Yeah, I wrote 8. But that's not, I mean I had written 11 a couple of years back. This year I didn't write as many. So, before we get to that, do you repeat yourself in these 8 pieces or do you find different pieces to sell? Of course, it can't be. So, in an interim budget it would be difficult to write 8 new pieces but in a fresh, in a normal budget, 10-11 pieces is pretty okay. There's nothing great about it. You can easily write 10-11 new pieces."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:51.000",
+        "message": "So, before we go back to the question, just to sort of digress, all the listeners obviously know that Vivek Kaul is the most prolific writer out there and you're writing some 50 pieces a week or whatever it is. What's your work ethic like? How do you manage to write so many pieces?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:06:05.000",
+        "message": "No, so see what happens is, I don't write 50 pieces a week. So, in a good week I write around probably 10-11 pieces. In a bad week I write around 5-6. Kumar and I are suppressing our laughter. Like 10 pieces is nothing. Also because of what you said in the intro. So, basically see, what happens is in many pieces, like I wrote 3 pieces for Equity Master this week on the budget and they were all, so basically I wrote one piece on how the fiscal deficit should not be taken seriously. Then I wrote another piece, while writing that piece, the second idea on how FCI, Food Corporation of India is used to sort of manipulate fiscal deficit numbers. And then I wrote another piece on how FCI is used during election years to sort of benefit the political party which is in power. So, if you look at the core idea at the heart of these 3 pieces, it was basically the same. But given that, if I had figured everything out at the very beginning of writing the first piece, I would have written only one piece. But what happened was, when writing the first piece, I figured out the second one and when I wrote the second one, I figured out the third one."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:21.000",
+        "message": "So, it's like a Chinese box of rabbit holes."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:07:23.000",
+        "message": "So, you keep saying, the economy, when you write on the economy, there are so many things that one thing leads to another. And if you are curious enough, I don't think writing 6-7 pieces is a big deal. Because ultimately it takes around what, 2 hours to write a 1000 word piece, not more than that. So, on that, and given that a lot of it is basically you are building on something that you have already written. So, you are essentially, it's all there in your head, you are just rewriting. Like if you were to ask me to write on the fiscal deficit, so 300, the basic 300 words on what is fiscal deficit, why is it important, I mean all that is already there. So, you are not like reinventing the wheel in the strictest sense of the term. So, basically most columns that one writes are not written from scratch."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:14.000",
+        "message": "So, let's shift attention from yourself to the budget."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:08:20.000",
+        "message": "I just thought, it was an out and out election budget, I mean like interim budgets tend to be. And what was disappointing was the fact that some good schemes were launched without any preparation. So, take the biggest thing in the budget which was PM Kisan, essentially an income support scheme for farmers, small and marginal farmers with land holding of around 2 hectares, which is nearly 5 acres. So, now the basic problem here is that the government wants to give them 6000 rupees per year, 2000 rupees in 3 installments, and in order to ensure that they do it before elections, the scheme has essentially been initiated with a retrospective effect from December 1st. So, basically by March 31st, before March 31st, the first installment of 2000 rupees should have reached these farmers. Now the problem is how will you identify these farmers, I mean who are these farmers who have, you know, 2 hectares or less or households, farming households basically. Now, for that you need digital land records, which are not available through the length and breadth of the country, you know, a state like Karnataka has land records, but a state like Bihar which actually needs this support, you know, there is nothing there. So, or even Uttar Pradesh, so you know, these are the states which actually need, you know, need the support. The second thing is a lot of people have pointed out is that many of these people who own this land are no longer farmers, you know, I mean, they're probably living in cities and it's someone else who's farming on their behalf. So, what happens to them? Then there is the other, there is a pension scheme, which has been launched for people in the informal sector."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:26.000",
+        "message": "Again, a bit of\u2026 But if you go back to the hand out to farmers, I mean, which comes to really 500 bucks a month for each of them over a year, which isn't much at all. So, even assuming implementation could be perfect, you could identify all the farmers and actually give them that money, do you really think it would make much of a difference?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:10:44.000",
+        "message": "I mean, see, it will not make, it will make some difference, you know, for, so, you know, again, to sort of, if you look at the income inequality that prevails through the length and breadth of India. Now, in a state like Bihar, which has a per capita income of around 38,000, a 6000 rupee payment per month will definitely make a lot of difference. You're saying it will make a difference in Bihar, maybe not in Kerala. But Kerala also has a lot of, you know, marginal farmers, because if you look at plot sizes in Kerala, agriculture plot sizes, they're very, very small. In fact, they're smaller than that, those in Bihar. So, Bihar, I think the average plot size is around 0.5, 0.5 hectares. In Kerala, it's around 0.3, 0.33, something like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:25.000",
+        "message": "And just off the top of your head, then what would you say are the chances that something like this can be implemented?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:11:31.000",
+        "message": "So, all these poor farmers in Bihar actually get the money. See, that's the irony of the whole situation. States which have better land records actually do not need these schemes as much as states which do not have land records. So, in an ideal world, this should have been done in July 2014, when the first budget was presented. And the next two years, or whatever time it would have taken, should have been spent in building these records, in building these databases. Like the government went around, you know, building the Aadhaar database or opening Jan Dhan accounts. This should also have been done on a similar war footing. Then, you know, it would have made, it would have made some difference."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:14.000",
+        "message": "Except now when they're desperate for votes. Right. And I don't see how it's going to be implemented in a period of less than two months. Kumar, what are your sort of views on handouts?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:12:24.000",
+        "message": "So, going back to the question you, the secondary question that you had asked related to the income support, which is, will 500 rupees per month on the average will make a difference? I think it will make a big difference, a huge difference, because the money in your pocket that you receive from the government or when you earn, always makes a difference to you on the margin. So, for someone who does not have anything, 500 or 2000 rupees on the margin is, it could be a big, big amount. You know, imagine if you don't have anything, those first 100 rupees is what will get you your lunch or breakfast, you know, not on the margin."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:12:57.000",
+        "message": "So, can I just interrupt? So, again, just to take his point forward, now, Bihar, the per capita income is 38,000, 39,000. So, per capita is essentially the mean that we are talking about. The median income would be even lower. So, the income of an average Bihari would be much lower than the per capita income in the state. Right. So, let's say someone who's making 20,000 rupees a year or 15,000 rupees a year, I mean, 6,000 rupees is a huge, huge amount of difference. So, it just depends on which part of, and there are large parts of India where this is needed."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:13:29.000",
+        "message": "Yeah, and what government is estimating, I think is about 12 crore families it will cover. So, which is about half of the households, entire households, that about 25 crore families in the country. So, 50% of the households will get covered. So, to me, it looks like a big scheme. Well, implement, whether it will get implemented, whether everyone will receive the money is a different question altogether."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:48.000",
+        "message": "So, I'm not very hopeful about that. So, before we go back to the budget, this is actually a good time to sort of take a diversion for a moment and talk about the Congress's promise of the minimum guaranteed income for the poor. Because that again appears to be a similar way of not actually caring about fixing structural problems. But here's a handout and we'll bribe you and get your votes and whatever. And Kumar, I know you wrote a very long essay recently for a French publication on the UBI. And this of course is not the UBI. But can you share some of your insights from that and therefore what you think about this?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:14:21.000",
+        "message": "So, I think people who are policy wonks have started describing these programs as QUBI, quasi universal basic income. So, both Congress's proposal a week before the budget came out, and now the BJP's proposal. Congress's proposal, I would say on the margin is worse than BJP's proposal because what they are saying is that they will identify a poverty line and anyone falling short of that, they will provide the bridge. So, suppose if I have said that one lakh rupees per annum income is the one where everyone should get, if you are falling short by 50,000, I'll give you 50,000. If you're falling short by 80,000, I'll give you 80,000. Now, what that means, the guy who is deciding how much money you are falling short of. Tremendous discretion. So, in fact, the next job that I will be looking for is that if I can be the person who decides how much you are making and you know, therefore the bridge."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:13.000",
+        "message": "I mean the system can be so hard."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:15:15.000",
+        "message": "Yeah, so, of course, and in all of this, the big challenge is the fiscal constraint. So, once you start on this road, a country which is developed with a per capita income of 40-50,000 US dollars can think about doing it. As part of the research when I was doing on UBI, I learned that Hillary Clinton very seriously considered running on the platform of UBI and abandoned it because the numbers didn't add up. They certainly don't add up for India. And once you start, every budget you will see more and more, you know, promises in terms of numbers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:49.000",
+        "message": "My largest sort of philosophical question is, there's always going to be a trade-off between growth and redistribution. Do you grow the pie or do you redistribute parts of it? And that is a trade-off which when a poor country like India whose first imperative is to remove poverty, I'm not sure if that's sort of a trade-off we can afford to make on the side of redistribution. We need to grow wealth first."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:10.000",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:11.000",
+        "message": "So, what are your sort of feelings on the broad, this philosophical outlook that we will do handouts and we will bribe voters the best we can to get their votes and ultimately nothing really changes the poor remain poor."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:24.000",
+        "message": "Exactly. So, this brings me back to the budget speech which I was reading and I have read it carefully, each of the sentences. One thing that stood out for me more than the income support for the farmers or the pension scheme for the unorganized sector laborers is 143 crore LED bulbs were distributed by the government, subsidized or in some form or the other. That means 1.1 bulb for 130 crore Indians. I never received that bulb."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:16:51.000",
+        "message": "No, but that hardly means anything."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:54.000",
+        "message": "But these bulbs were available if you wanted to."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:56.000",
+        "message": "It's not a point of the amount of money. It's also a point of your mindset. Yeah, that's the point I'm trying to make is that and once you start, it just you know, kind of a bulb sort of went in my own head and you started reading some of the other paragraphs."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:17:08.000",
+        "message": "So, you did get a free bulb from them."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:17:10.000",
+        "message": "Yeah, in some ways. So, once you start reading all the other sentences, you realize that how a lot more attention has been given to the provision of private goods, which you would assume that people who take care on their own will provide, you know, work for it or you know, whatever and provide for themselves. And the things that the government should be doing, you know, our public goods, national defense, law and order, etc. You know, making sure that contacts are enforced, etc. Those are the job of the government and they will do it. Budget is entirely looks to me is focused on provision of private goods. Some of the things that are LED bulbs, of course, 6 crore LPG cylinders. You'd assume that is a classic case of a private good building houses, building toilets as part of such a Bharat mission, which you would assume that if you really want to take care of sanitation and cleanliness. The way to fix it would be rather look at the root cause of it, whether it's property rights or devolution of power to the local governments, but rather than running a national mission on it, electricity connection and of course, food grain, etc. So, look at it. It looks like you are engaged more and more increasing every year in the provision of private goods. The budget looks like to me that and which brings to your point, which is again the classic case of redistribution, you know. So, almost all of this is financed by taxes one way or the other, whether it's inflation tax, deficit financing or through, you know, just tax revenues, which are collected."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:30.000",
+        "message": "I mean, I wrote a piece about this in the Times of India this Sunday. So, where I repeated a limerick I once wrote for the Times of India, which I'll repeat here, which is the limericks called politics and this is how it goes. A neta who loves currency notes told me what his line of work denotes. It is kind of funny. We steal people's money and use some of it to buy their votes. Stop code and and my contention in that column was that in India, all good politics will ultimately be bad economics because that is what sells and gets you votes. Do you agree with that Vivek?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:19:00.000",
+        "message": "Why specific to India? So, would you say that is true for all countries on this particular to India?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:05.000",
+        "message": "That's a good question."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:19:07.000",
+        "message": "What do you think? Yeah, the nature of I think we wrote a piece on politics is equal to bribery sometime ago, looking through public choice lines. I think that would be true for all countries and not all democracies."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:17.000",
+        "message": "It is rational for voters to remain ignorant about economics and therefore they will and and and voters tend to think in zero some ways and therefore, you know, handouts are attractive to them and they're not really short term."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:19:29.000",
+        "message": "The scene unseen is far away and you Vivek is twitching."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:19:33.000",
+        "message": "No, no, what basically, you know, I don't complicate things as much as Anand did. My take is very simple. See, basically, Narendra Modi, the way I look at him, you know, he is essentially a narrative builder. Sure. People call him a nation builder, but he's basically a narrative builder. And he has been losing track of the narrative for the last four, five months. I mean, there is no denying that. I mean, you may one may not like Rahul Gandhi, but he's come back forcefully over the last few months. So this speech by Piyush Goyal and to his credit, he did a much better job than Arun Jaitley possibly would have was essentially a attempt to get control of the narrative again. And which is why he sort of went back, you know, went to, you know, if you look at the speech, it's essentially a summary of what Modi has supposedly done. How he projects himself. I mean, it's just that there's nothing more to it. You know, he's talked about all, you know, all the talking points are there. Beyond that, it has talking points, which Modi can go and sell to the audience in the next three to four months, which not four months, but two to three months, which he will definitely be on the road and will be communicating with the people of the country directly. So it has given him these talking points, you know, you have the income scheme, then you have the pension scheme and everything else that he is supposedly done. So I think it was nothing more than, it is good politics. I mean, it was nothing more than, you know, a good pre-election speech, which the finance minister did a commendable job of, you know, executing. So, you know, even look at, I'll give you a very simple example. Now, let's, you know, he talked about how the defense budget for the first time was crossing three lakh crore and everybody clapped. But then what was the defense budget up until now? You know, I mean, and if you look at the numbers, the increase is just, you know, a couple of percentage points, which is lesser than the prevailing rate of inflation, right? Where is this money going to? A lot of this money in the so-called defense budget now goes towards salaries and pensions. It is not going towards, you know, what is, you know, actually\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:08.000",
+        "message": "In fact, most of our weapons, I forget the figure, but it's more than 90%. Most of the weapons the Indian army has are hopeless, outdated by decades."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:22:15.000",
+        "message": "So, you know, so if you look at how the entire speech was structured, it was essentially structured to catch attention of people. It was structured to help the media. You know, if you look at newspapers these days, they are, there are special editions designed for the budget. And if you look at those pages very carefully, there are boxes, which, you know, in which bullet points have to be filled. So, these, it was basically, you know, the speech was very, very bullet point driven so that, you know, the media could, you know, catch on to these bullet points easily and repeat it, you know, during the course of the day or the next morning. The other point is, you know, in an interim budget, you don't make, you know, big changes like this, you know, like the income support scheme, but the BJP did it. And in fact, I was on TV on the budget day and the BJP spokesperson, in fact, two BJP spokespersons at different points of time justified it by saying, but the Congress did this in 2014 and did this in 2009. And, you know, there is a line which I like to sort of repeat and it's a line from the movie Diwaar, which is like, auron ke paap ginane se apne paap kam nahi ho jata hai."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:38.000",
+        "message": "So, you know, two wrongs don't make a right."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:23:41.000",
+        "message": "Bollywood's articulation of what about it. Yes, so, you know, two wrongs don't make a right, but essentially this was an out and out election speech, election budget designed to help Narendra Modi and the other BJP leaders to sort of get talking points, which they can pick up and go talk about at, you know, various points. In fact, if you watch TV on the budget day, you'd realize that all BJP spokesperson were basically saying the same thing. They were not answering the questions. They had these three, four points, which they were just going and building the narrative. Yes, so it was essentially nothing more, you know, just another exercise in narrative building. Also to sort of, you know, the limerick you sort of talked about, you know, politics, there is a very nice line, there was a Shahrukh Khan movie many years back called Oh Darling Yeh Hai India. So there is a very nice song in that movie. And I don't remember the song, but there's a nice line in that song, which goes jo bacha nahi wo baat diya. You know, Oh Darling Yeh Hai India, so what we haven't even saved, we have already distributed or at least planned to. So, yeah, there's another point I wanted to make. So, the Congress, you know, minimum income guarantee scheme, Big 19, you know, which makes 10 billion."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:10.000",
+        "message": "Is that your term?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:25:11.000",
+        "message": "I don't know, otherwise someone else would have also, but I use it in a piece in the Mint."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:17.000",
+        "message": "So it is your term, like Pakora Nomics too, listeners of my show know this Pakora Nomics is your term."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:25:22.000",
+        "message": "So, Big 19, I think, you know, I look at it in a slightly different way, in the sense that, and I'm not just talking about the Congress's scheme, but the entire scheme, any income support scheme. I mean, I think it's, I mean, I wouldn't have said this a few years back, but now I think having looked at, you know, enough data and enough Indian economies, I think it's necessary because you have parts of India, which will never catch up with other parts of India. You know, if you know, if Bihar grows at 11%, I mean, it will, if Karnataka stops growing today, Bihar will probably get there in another 15 years. So it is not fair, you know, whatever, if you know, India is a nation, you know, attempts have to be made to help parts of the country, which are not growing at an adequate speed and which have been left back."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:14.000",
+        "message": "I think the larger point there is that you are right that in states like Bihar and all people are in poverty, it's our moral imperative to get them out of that. And that's completely right. But whether they catch up with Karnataka or not is not an issue. No, but my point is, it's the divide is just way too big. I wouldn't look at the divide. I would just look at the absolute numbers and you're right, the absolute numbers are abysmal. But to talk about it in terms of the divide is completely pointless. That's a wrong metric. I'd rather talk about poverty than inequality because the two are very different and India's problem is poverty."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:26:46.000",
+        "message": "I mean, at one level, yes. So, no, so what the point I was making was that now obviously, you know, you need a lot of money to do it. Now, the Congress minimum income guarantee scheme, even though very, you know, the details available are very sketchy, but from the way they've been talking, it would definitely cost more than 75,000 crores. Obviously, there are problems with this scheme as to how do you identify, you know, let's say the cutoff is 50,000 points. How do you figure out, you know, the person eligible is making that kind of money, especially in the informal sector where payments are in cash and also payments tend to vary. It's not like you get the same amount of money every day or every week. So how do you figure all that out? You know, it's easy if all the money is coming into a bank account and then you can, you know, do some 180 day average or something like that. But having said that, you know, I think it's also one if the country were to look at a bigger income support scheme, I think it's sort of makes sense because, and you know, we obviously have to fund it properly because that bill there would run into lakhs of, you know, it would easily run into 9, 10, 11 lakh crore. So how do you fund something like that? And if, you know, in order to fund something like that, the only way is to, for the government is to sell all the assets that it has been sitting on what Mr. Anand's current employer, Mr. Jain's been talking for a while. So I think it's a reasonably good idea, but obviously it will not happen because no politician worth his salt will do anything like that. So if someone were to do it and do it properly, it would be an excellent way of curtailing, you know, India's big government, which is in places which it shouldn't be. I mean, the government should basically be concentrating on five, six basic things, defense, external affairs, railways, roads."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:50.000",
+        "message": "As you keep saying, a strong and limited government instead of a weak but vastly spread out."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:28:55.000",
+        "message": "Yes, all over the place, but this is again a utopia. It's a utopian dream. It's not going to happen. And what will essentially happen is we'll have all these half-baked income support schemes, which will operate on top of all the schemes that we already have. Now, you know, this is a point I made in my Mint article. So basically what, you know, Praveen Chakravartty has been saying is that, you know, they'll be rational about the entire thing. So obviously it means that, you know, they'll look at new ways of raising taxes and they'll also look at ways of cutting down on current expenditure. Now, if you look at current expenditure, you will have to cut down on things like food subsidies. Now, it's easy to talk about cutting down food subsidies, but the moment you start getting into it, there are too many problems that crop up. Now, the first thing that will happen is that, you know, how is food subsidy offered? It is offered through Food Corporation of India, which buys rice and wheat directly from farmers at a minimum support price, which the government announces. This is then distributed through the public distribution system at a very low price to meet the needs of the National Food Security Act and other, you know, welfare measures of the government. The government then compensates the Food Corporation of India for this subsidy that it offers. And now, if the food subsidy were to be cut down, then, you know, by its very definition, FCA would also have to cut down on procuring, you know, rice and wheat that it does. If it procures less, then what happens to all the, you know, infrastructure that it has built? What happens to the public distribution system that is in place?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:37.000",
+        "message": "These are not easy, you know, there are too many entrenched\u2026"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:41.000",
+        "message": "And there are states where the public distribution system actually works pretty well. What about those states? I mean, so why, you know, I mean, there will definitely be protests. Also, you know, I think the two pilots which have happened for distributing cash instead of food happened in Pondicherry and Chandigarh. And I don't think they have, you know, received, they've been very successful because the system that is, you know, is currently there is so well entrenched that they basically managed to pull down the experiments."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:20.000",
+        "message": "So, Kumar, let me cut to you here. Since our friend brought you into the conversation himself."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:31:25.000",
+        "message": "Thanks for the plug, Vivek."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:26.000",
+        "message": "Yeah, so you work for Naidisha, which is started by Rajesh Jain."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:30.000",
+        "message": "We did an episode with Rajesh a long time back where he explained his Dhanwapsi idea."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:35.000",
+        "message": "Now the thing what I have always thought about such handouts is that they are and ultimately the UBI is at a vast level just extremely unfeasible. The numbers don't work and there are ethical issues with them as well for the large scale coercion that they involve. But your point, what you guys say in Dhanwapsi is that this you don't need to redistribute to have a UBI that you can have a UBI feasibly if you just look at all the unused property that the government sits on, which is technically the property of the people. And it has no business being lying idle when it's not being used by the state. So the state should sell it and use that money for the welfare of the people to whom it belongs."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:32:19.000",
+        "message": "Tell me a little bit more about that briefly. The point is here is I'll go a little bit back in the history. So since independence, we pursued the central planning model and the five-year plan. And what we did that to do the Soviet model planning, the big difference between Soviet Union and India, of course, is that India was a democracy while Soviet Union was not. We had private property as a fundamental right, property rights are fundamental right, but they did not. Every resource there belonged to the state. So to pursue planning, the only way you could do those planning if resources are available to you. So over a period of time, this Indian state has continued to accumulate more and more resources. So you'll remember the recent piece that I did for Pragati with my colleague Reshu, which is about how the number of CPSCs has grown over the years. In 50-51, it was 5. In 2013-14, when the current government came to power, it was 290. And as of 31st March 2018, the number stood at 339. So they have added more than about one CPSC every month that they have in power. So the state has continued to amass more and more resources in case of CPSCs, land, minerals, etc. So you nationalized all that. 70% of the banking business is not accounted for here. So if you take all that into account, then the ballpark figure that we have is that at the rate of 1 lakh rupees per Indian household, you'll be able to finance the return of this wealth. Remember, I'm calling it return of wealth. It's called the term NVAPSI and not a universal basic income, which is financed out of taxes or some sort of redistribution. It is redistribution, but taking away from the state itself, which over many, many years has continued to amass and currently which is lying either unused and what's still misused or abused. So you monetize it, put them into a fund, which is different from consolidated funds of India and use that fund only for the purpose of returning it back to people. No other purpose. So it's not used for government's current consumption purposes, but money directly hands. So I call it the right way of doing UBI. Just to get into the conversation on UBI, because people are talking about it. And as we discussed earlier that how India absolutely does not have the fiscal bandwidth. This is one way that you can do it. So all the resources which are lying idle. But as Vivek rightly said, you know, politically, it looks quite improbable. But at the same time, if enough people talk about it, and if people start looking at it and demanding it, then I don't think it will be, you know, an impossible thing anymore."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:51.000",
+        "message": "On that incredibly hopeful note, let's take a commercial break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:35:21.000",
+        "message": "On How to Citizen, Meghnad and Shreya speak to comedian Abbas Momandas, our very own Abbas, about understanding laws. They try to understand our free speech laws and what exactly is dissent. On the Filter Coffee podcast, animal activist Anand Siva joins Karthik Nagarajan to talk about animal cruelty and environmental conservation. On Geekfruit, Tejas and Zinkar are joined by producer Janam to discuss the mind-deafing films of Christopher Nolan. They talk about his beginnings, his first films, and the moment where he became the modern-day god of cinema. We have a Valentine's Day special and advertising is dead. Varun's guest is none other than his wife Pooja Jauri, who is also CEO at The Glitch. They talk about how they balance their personal and professional lives, how she's made creative people work under a structure, and a lot more. On Gol Gappa, Rajshree Deshpande of Sacred Games fame talks to Tripti Khamkar about taking up challenging roles as an actor and her social work initiatives. And with that, let's get you on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:11.000",
+        "message": "Welcome back to the Scene and the Unseen. I'm chatting with Vivek Kaur and Kumar Anand. Moving away from the immediate for just a moment, I prepared a bunch of questions I wanted to ask you guys. And I'll start with you, Kumar. One economist all Indian policy makers should read."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:36:28.000",
+        "message": "I was reading this book again recently and I think for them to understand and the simplicity of it, I think Milton Friedman. It would be free to choose Milton Friedman. And why? It's the simplicity with which he explains things. So I think when a policy maker, politician or a bureaucrat will be able to grasp it. And he had the best rhetoric. So what about you, Vivek?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:36:52.000",
+        "message": "Economics in one lesson, Henry Hazlitt."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:55.000",
+        "message": "Which of course is based on Bastia's famous essay after which the show is named the Scene and the Unseen."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:37:00.000",
+        "message": "Scene and the Unseen. Yeah. Basically to understand the simple fact that there is no free lunch in economics."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:08.000",
+        "message": "Yeah. And the scene and unseen effects of everything. Both answers after my own heart and of course, Friedman also has the excellent TV series, Free to Choose."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:37:16.000",
+        "message": "Yes. The two iterations of 1990. Along with his wife."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:37:19.000",
+        "message": "Did he do it himself? I think so. He himself. And by the way, in one of the episodes, he has come to India also."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:26.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:37:27.000",
+        "message": "He was in India thrice and this was his second trip where he was shooting as part of Free to Choose TV."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:31.000",
+        "message": "Yeah. But a great thinker, incredibly lucid. So just look up Milton Friedman's stuff on YouTube. It's quite fantastic and Henry Hazlitt, Economics in one lesson, of course, which is based on the Frederick Bastia essay. That which is seen and that which is unseen. Yes. Which is just really bad translation. It could have been translated more simply. I don't think Vivek would have given it that title. Okay. My question was one economist all Indian policymakers should read. The next one was one book all India policymakers should read. But both of you actually named the book."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:38:00.000",
+        "message": "So I would like to add, I think the Indian politicians and economics should also read this book called India Unbound by Gurcharan Das."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:10.000",
+        "message": "Yeah. I also had a book in mind. So Indian policymakers should read De Soto's Mystery of Capital."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:38:18.000",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:19.000",
+        "message": "Understand the importance of informal economy and how important the property rights are, which our good friend."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:25.000",
+        "message": "Capitalism doesn't work. So I read that book, which is which is where I got the phrase debt capital from. And since then, I just, you know, it's like in that Manoj Nath Chamlin film, the Bruce Willis says, I see dead people everywhere. I look around and I see dead capital everywhere."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:39.000",
+        "message": "De Soto would be very happy with me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:41.000",
+        "message": "All the unused and misused lying assets. Yeah. Now you're pushing your agenda. Stop it. Okay. The next question, Vivek, you go first for this one. What is the one bad idea that all our policymakers share?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:38:55.000",
+        "message": "I mean, you know, I guess you would probably say that one bad idea at the central government level is to keep launching new schemes because, you know, the Indian bureaucracy is like a funnel where it's very wide at the top. And when it comes to designing, planning, talking about a new scheme, they're pretty good about it. Like, I mean, look at PM Kisan. Sounds very good. But the moment you need to execute it, the lower bureaucracy is already very, very burdened. So like, you know, in the 2016-17 economic survey, Arvind Subramaniam had said that there are 950 centrally sponsored schemes. So how is anyone supposed to keep track of that? So launching one more scheme on top of that is remarkably stupid. So take the, you know, the pension scheme that's been launched for the informal sector. Now, it's not like India doesn't have pension schemes. You know, there are enough, there is public provident fund has been around since the late 60s. And it is available to anyone and everyone. So, you know, you could have easily played around, you know, had an option in within that scheme, where the same scheme could have been implemented without, you know, going, you know, starting one more new scheme. But then, you know, it wouldn't have, you couldn't, you know, build a narrative. You know, in order to build a narrative, you always need something new."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:40:20.000",
+        "message": "My answer is a bit similar to Vivek's. Again, when I was reading the budget speech, felt if the common narrative there is the government, in this case, the central government is thinking only they can do things. So the number of new schemes, which have the title Pradhan Mantri, you know, and the way it starts, you know, Pradhan Mantri this Yojana, Pradhan Mantri that Yojana. So the My Bab Sarkar, the notion, the centralization. So for me, that one bad idea, which all policymakers want is centralization, no matter what government there is, they all pursue amassing greater and greater power at the center. The reason I say this is there's a lot of merit in decentralization. Of course, you devolve power to the local government, but somehow that agenda, the narrative is not there at all from politicians. If there are local politicians, no one is saying that why not devolve power to the local governments. We did those 73rd and 74th amendment way back in 1992. It has been more than 25 years, but they have not been implemented at least in the spirit. So I would say it is the continued centralization of power in the hands of central government."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:26.000",
+        "message": "I agree with you and to add to that, I'll answer the question by saying that it's not just a centralization. Instead, the basic mindset that the state is a solution to the state is or holds a solution to all problems. That status mindset, I think everything that India has achieved has been achieved by Indian society and the Indians and despite the Indian state. And every time the state gets a little bit out of the way, we do better like it did in 91. And I think this is fundamentally something that we don't understand because we don't understand spontaneous order and how societies organize themselves to fulfill their own needs through markets, for example. And this is in fact, the biggest cause of our agricultural crisis. I mean, something that, you know, we've both written on many times that, you know, the liberalization of 91 did not touch agriculture and agriculture is paternalized and it's kept in the cycle of dependency. And that's why we have this sort of massive."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:24.000",
+        "message": "Any decision making should happen closest to the people rather than further away."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:28.000",
+        "message": "Right. Now, my next question is a related question, which should be not so easy for both of you guys. What is the one good idea that all our policy makers share? Let's go with Kumar."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:39.000",
+        "message": "I think as far as the rhetoric is concerned, so that may not be the case in actual policies or implementation. But almost every politician in the country, while presenting the budget or in, you know, appearing on television, a speech, etc. Do not ask for more taxes. So they do not ask for increasing of duties. And they talk about ease of doing business with at least some kind of reverence, you know, though they may not be the best solution. But the thing that how that low taxes is good, lesser regulations is good. What happens in reality is a completely different matter, but at least, you know, no one is publicly opposing a low taxes, lower duties or ease of doing business."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:20.000",
+        "message": "I would say that is. I have two observations here. I mean, I mean, one observation obviously is that some of the rhetoric has changed, but they don't follow out on the rhetoric. And from this, what follows is that this kind of rhetoric, the minimum government, maximum governance kind of rhetoric is rhetoric that is appealing to a small section of the elites. Who also happen to be in media and so on and is for them only. But they don't actually need to deliver on this because their constituency, which counts are the actual voting masses and they don't really care about it. That's that's sort of one cynical reaction to what you're saying."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:43:53.000",
+        "message": "So reality is different. Yeah. Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:54.000",
+        "message": "The other non cynical reaction would be that yes, over time, what we have seen is a shifting of what is called what economists call the Overton window. The Overton window essentially is a definition of essentially indicates the window of acceptable discourse on a linear scale, which is normally organized around freedom. And what happens is that over time that window shifts and things that were not acceptable 20 years ago may suddenly become acceptable today. For example, at a social level, I've seen the Overton window shift in my own lifetime, where if 377 had been abolished in the 1980s, it would not have got the kind of response it has today, where today the response largely is that yes, it needed to be abolished. And of course, there are widespread celebrations and all that. There may be that selection bias in play because I follow those circles. But regardless of that, I think in the 1980s, it would not have been like that at all. And a lot of people just wouldn't have gotten it and a lot of conservatives would have been more outspoken in the opposition of outlawing 377. And similarly, in an economic sense, I think there was a time where, you know, high taxes were considered good and nobody would be talking about low taxation and blah, blah, blah. And I think I agree with you that it's a positive sign that they're talking about it. But my sense is they're talking about it for, you know, optical reasons for one small part of the intelligence here. And they don't really care about it at all. But I hope I'm wrong. And I hope the Overton window keeps shifting because rhetoric does matter, Vivek."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:45:22.000",
+        "message": "I think, you know, one good thing that one could possibly say, you know, is the fact that, you know, once income taxes have sort of come down to a low level, they haven't really gone up again. I mean, even though, you know, there is too much fiddling around and, you know, we could do much better on our taxes front. But largely our tax rates have stayed more or less the same. So, yeah, we should say that we could possibly thank our politicians for that. So, right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:54.000",
+        "message": "Now, my next question, two sort of broad general questions. And Kumar, you know, when I shared these on WhatsApp, you said that these are sort of related and you'd like to take them together. So, I'll just ask them together, which is that one, we are facing this massive jobs crisis, which is evident and which is why I also say that our jobs and agricultural crisis are so big that it doesn't really matter who wins the next round. It doesn't really matter who wins the next elections. We are screwed anyway. There's not much we can do about them, partly because none of the parties shows the mindset that you need to solve these particular problems. But to stop rambling in this economics ramble episode, my quick question to you guys is one, what would you do to create jobs? And two, what would you do to fight poverty on a war footing?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:46:32.000",
+        "message": "Vivek is amused by my question. Why are you asking this? Nothing will happen. We know. What would you do? This is like a prime time debate on TV, especially on the Hindi channels. So, what would you do if you were the Prime Minister of this country?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:03.000",
+        "message": "So, basically, on what? So, when they ask this on TV, because I don't watch TV, it's\u2026 I mean, what will they say? Is it like zero-sum solutions? And is it like, you know, the standard T-shirt jokes?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:47:21.000",
+        "message": "No, so basically, you know, I think to answer your question seriously, the first thing\u2026 So, if you look at the interim budget, you know, the word jobs was used five times. And in very vague and in very vague contexts. So, the first thing to solve the jobs crisis is to acknowledge that it exists, which the current government refuses to do. What I find very, very funny is that, you know, when you tell them there is a crisis, they'll point out to, you know, data points like Uber and Ola have been recruiting, you know, drivers. But when you tell them that CMI survey shows that 1.1 crore Indians lost their jobs in 2018, then they'll come around and tell you, but that's private. Uber-Ola is also private. The, you know, the recent NSSO data, which the Business Standard published, I mean, the way they went around trying to deny that data was very, very disturbing, because, you know, a huge\u2026 NSSO is by far the largest survey that the government carries out. I mean, obviously, you know, the census would be much bigger, but census is not a survey. And a lot of things that the NSSO collects ultimately are, you know, go in as inputs into the GDP calculation. So, if the NSSO data is also not kosher, then what is kosher? So, I mean, the broad point is that the first thing that the government needs to do in order to solve the jobs crisis is to acknowledge that it exists."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:48:57.000",
+        "message": "That's the first thing. The second thing that\u2026 So, Vivek will acknowledge that it exists, and then we'll come to the second thing."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:49:04.000",
+        "message": "No, he's come to the second thing. No, no, the first thing is, yeah, that's the first thing. If you don't acknowledge, how will you solve it? The second thing that has happened is, and, you know, a lot of people have talked about, see, basically, how, you know, if you look at the formula, if you look at the economic history, the one formula which stands out for countries which have gone from being developing countries to becoming developed countries is through exports of, you know, low end goods. I mean, it's happened to the US, UK, large parts of Europe, China, you name a country and that is how it is. That is something that is not happening in India. And very, very funnily, our engineering goods exports, which are highly skilled exports seem to be doing much better than, you know, exports which are labor intensive. So, you know, given that there is a formula in place, so, you know, any government, I mean, the next government has to work towards ensuring that, you know, people who want to export, or even, you know, generally people who want to do business, transact, exchange things are allowed to do so."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:20.000",
+        "message": "I mean, this might sound like again, you know, one of those utopian answers, but I can object to the way you're using the word utopian because the utopia would refer to an end goal. While this is, while I would see this as referring to a direction."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:50:36.000",
+        "message": "Yeah, I mean, what I mean by utopia here is that, you know, because this is never going to happen is what I mean."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:43.000",
+        "message": "It's never going to happen that we reach an ideal end state, but it can happen that we become better."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:50:48.000",
+        "message": "So, if you look at many Indian states, and I mean, this is pretty well documented, we have, you know, there's an economist called Danny Roderick, and he uses a term called premature non-industrialization. And this was the term used in the economic survey a few years back by Arvind Subramaniam as well. So, many Indian states have reached, you know, premature non-industrialization where the industry in the state has simply stopped growing. So, the only Indian state which has ever crossed, where industry has crossed 20% of the state's GDP is Gujarat. Whereas a lot of other, you know, states, which you think are extremely industrialized states like Maharashtra and Tamil Nadu, achieved their high point in industry in the late 1980s. A state like Uttar Pradesh has, you know, basically, the level of industry in that state is 10 to 12% of the GDP, and it has stopped industrializing. So, you know, unless these states industrialize, I mean, there is no way they can go forward. So, if you look at, you know, if you leave states, small states like Goa, which, you know, benefits\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:04.000",
+        "message": "But what would you do to\u2026 like, this goes back to the classic thing that look, okay, economies grow, they start off in agriculture, then manufacturing, then services. And of course, in our case, you know, cheap labor was, you know, could have been a great strength, we could have been vegetarianized today, but our manufacturing revolution simply never happened because of the state. Because of labor laws and this license raj and all of that, it simply never happened. And instead, we had a bit of a services boom through the 90s and all of that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:52:31.000",
+        "message": "Thanks to\u2026 because the state did not understand what is happening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:52:34.000",
+        "message": "Which is why it was kind of\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:36.000",
+        "message": "So, what do you do? Do you think that given the rise of automation across the world, there is still scope for a manufacturing revolution or we've missed the bus?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:52:43.000",
+        "message": "I think we've missed the bus, which is why, you know, I've sort of become a sort of\u2026 I mean, I have a soft corner for an income support scheme. I mean, I would have not had it five years back. But I think we've missed the bus clearly because, I mean, so, you know, people these days talk about the fact that China is sort of getting out of labor intensive manufacturing. And, you know, there is a big opportunity. But, you know, countries like Vietnam and Bangladesh have caught on to it. We haven't. I mean, it's surprising, you know, Bangladesh exports more textiles than India does. I mean, so, yeah, so, I think we've missed, more or less missed the manufacturing and even the low-end export\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:27.000",
+        "message": "Which brings me back to your point two. Your point one is you'll acknowledge there's a jobs crisis. Point two is what will you do?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:53:33.000",
+        "message": "So, see, the thing is, no, no, I mean, so, see, we're talking here, you know, this is like\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:38.000",
+        "message": "This is a very good diagnosis. I mean, I obviously agree with you."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:53:40.000",
+        "message": "This is not binary, you know, what I'm trying to say is that, you know, once you acknowledge, you will do a few things. It may not work out to solve the problems through the length of breadth of, you know, India, but it will definitely benefit a few people somewhere, right? So, these things are never binary, right? I mean, so, I guess, first thing is you acknowledge and then you do all the things that have been done in the past to ensure that, you know\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:06.000",
+        "message": "A lot of which the Modi government did promise in 2014 and absolutely did not deliver on, like reforming labor laws."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:54:12.000",
+        "message": "And, you know, the thing that I find funny is that\u2026 So, Martin Wolf has a piece in the Financial Times on how India will grow despite its politics. And he's referred to some World Bank report that's come out. I haven't read the report, but I've read the Martin Wolf piece. And, you know, the kind of things that he points out that these are the things that the Modi government has done, you know, stuff like GST and how it will help. But, you know, the way the GST has been implemented instead of helping businesses, it's actually killed them. Or he's talked about the fact that how the government is borrowing less, which is extremely stupid because all the government has done is it\u2026 You know, the capital expenditure that the government used to carry out has now been simply moved off the books. So, you have Indian Railways borrowing through the Indian Railways Finance Corporation. You have Food Corporation of India not being paid the amount that has to be paid. Or you have companies like ONGC being forced to buy HPCL and in the process, sort of bailing out, you know, borrowing to bail out the government. And debt, which should have ended up on the books of the government has ended up on the books of ONGC. So, I mean, you know, if you look at the things that are being done, I don't think, you know, I mean, one is the government does not do anything."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:55:34.000",
+        "message": "That's fine. I mean, if the government does not do, that's better."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:55:36.000",
+        "message": "But they're doing things and in the process, screwing up a lot of things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:42.000",
+        "message": "So, I think I broadly agree with you. And what you're basically saying is, as Gurcharan Das said, India grows by night and as I said a little while ago, that whatever India does is because of Indian society in spite of the Indian state. And what you would do is number one, acknowledge that there's a jobs problem and number two, put in whatever different small fixes you can, most of which will involve the government getting out of the way. Kumar, what's your take on this besides acknowledging the problem?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:56:05.000",
+        "message": "So, yeah, I think my answer to the questions would be the same. I think once you do the first, do the second, the problem of jobs gets taken care of in some ways. And I, if you know, as a government, government should not be worried about creating jobs, you know, that's not the job of the government in any case. So, what you do is you focus on public goods, of course, don't worry too much about provision of private goods. And you try to enable an environment where the jobs come in the private sector. And what I mean there is that you work, focus more on economic freedom, you know, not so much on ease of doing business. So, what has happened, all the headlines in the last four or five years from the time the current government has come to power, you see a secular decline or increase, you know, betterment of the ranking of India on ease of doing business. And if you look into the disaggregation, the indicators which goes into, you know, building up the ease of doing business ranking itself, you realize those are things which could have been quick fixed using some notification by the government. And it takes care of, of course, Delhi and Mumbai. I mean, a lot has been written about it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:10.000",
+        "message": "Wherever there is a metric, it can be gamed."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:57:12.000",
+        "message": "Yeah, so sort of. Those are things which are easy for the government to do."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:57:16.000",
+        "message": "At least now it is being gamed."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:57:18.000",
+        "message": "But it is only being gamed. There is no actual\u2026"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:57:23.000",
+        "message": "What Vivek said in the beginning, you know, it's about all goes into building the narrative. So, most recent, I think, if I remember correctly, I read a recent piece with a headline which said Narendra Modi now wants to have India's ranking under 50. Probably next time around, right now it's 77. While, interestingly, if you look at index of economic freedom, out of 186 about our country which gets ranked, India's ranking is 130."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:49.000",
+        "message": "And that is pretty much the same as it's been for the last\u2026"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:57:52.000",
+        "message": "Yeah, so that has not changed. So, a closer look at both the sub indicators of ease of doing business and economic, you know, index of economic freedom would tell you that all the sub indicators for economic freedom are much harder to do because those would require institutional reforms. While, you know, a notification could help you get an improvement in the ranking for ease of doing business. So, all you need to do is just make sure the institutions are right and take enforcement of contracts, those kind of things, property rights, you know, rule of law is working. While, you know, step out of the way and that takes care of both, you know, the problem as you said in poverty and jobs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:29.000",
+        "message": "And given the fact that there is no demand for good economics, given the fact that the political economy is so convoluted and all the parties seem to think in the same kind of statist way, are you guys then hopeful that we can actually move in a better direction or is it just, you know, sit back and let things unroll and hope that nothing disastrous like demon happens again but otherwise it's the same old, same old is going to go on like this?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:58:53.000",
+        "message": "I may have been a bit cynical few years ago. I'm not as much anymore, I think."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:57.000",
+        "message": "Why? Because he's a corporate economist now."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:59:01.000",
+        "message": "No, I used to be a corporate economist. I'm not anymore. The thing is, it has become very difficult to differentiate between the options in front of a voter today. You know, they look almost all the same. People used to say the BJP is Congress plus cow, but even the Congress is Congress plus cow now. Exactly. So, BJP is equal to Congress. So, as a voter, if I'm in the marketplace, you know, and walking up to a polling booth and I don't see much of a difference, I think there would be some entrepreneurs. It's a great opportunity for someone to come with a different set of ideas and say, look, they're all the same. And it's so obvious that they're all the same. So, make your case. You know, I mean, we don't have a liberal party in India today. So, then the party was the last time and they wrapped up in 1971, 72."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:47.000",
+        "message": "So, you're saying it's okay, the political marketplace is not giving the people what they need, but there is a gap in the marketplace and that's why you're hopeful."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:59:55.000",
+        "message": "Yeah, I'm hopeful because it's become starkly that they are all equal. So, it has become very difficult to distinguish. So, then what's the point? You know, when it's not a single party, well, it's still a multi-party system, you know, so it will be, I think, if someone makes a strong enough case and presents the right evidence, probably there is some hope there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:15.000",
+        "message": "I hope some young political entrepreneur or I hope some young person listening to this decides to become a political entrepreneur because of your inspiring words. And frankly, you said you were hopeful, but you didn't sound very hopeful to me. Vivek, what's your\u2026"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:00:28.000",
+        "message": "I just wanted to go back to the budget. So, you know, again, I mean, which is, you know, at the beginning, I said Piyush Goyal did a fantastic job of marketing the government. So, if you sort of, you know, heard him carefully, he talked about how low the inflation was, okay. Now, what he didn't talk about was that inflation was low because food inflation is in negative territory. So, basically, food prices have been falling. The other thing he talked about was how bandwidth prices have fallen. Now, bandwidth prices have, what has the government got to do with it? Or he talked about the fact that how airline traffic has doubled. And he attributed it to the fact that government has opened so many airports."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:15.000",
+        "message": "These are the achievements of society for which the state takes credit."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:01:18.000",
+        "message": "No, I mean, so the government may have opened no airports, but ultimately, you know, more and more people are actually\u2026 Exactly. Again, no, flying between the bigger cities where the airports are already there. It's just that the private entrepreneurs, you know, the indigos and the spies jets of the world have many more flights now than used to be the case. So, okay, so the point here is that, you know, basically, all Indian politicians now are trying to create a narrative, okay. I think the one lesson that politicians have learned from Narendra Modi is, I mean, whether it's the right one or the wrong one, we don't know, is that, you know, irrespective of what you do at the ground level, whether you deliver or you don't deliver, what is more important is to create and spread the right narrative. Okay. And I think this is, you know, this will play out. It's already playing out and it will play out even more up until the next Lok Sabha elections. But that's an answer about the politics. Which is what I'm coming to. So, basically, you know, this again, you know, I'll go back to Hindi cinema. There's this movie called Kameene and in that, the title song had a lovely line, Maasoom sa kabootar, naacha toh moor nikla. I mean, Gulzar wrote it. So, I think Indian politicians are going exactly the opposite way. You know, Maasoom sa moor, naacha toh kabootar nikla. And I think, I guess that the way, you know, things are going currently, I mean, I'm really not, I mean, Anand might be optimistic, but I'm really not very optimistic. You know, all these, I mean, see, the thing is this, I mean, ultimately, we may continue to grow at 6%. And that over a period of time will, that will also pull out a lot of people out of poverty. But the entire talk about, you know, India growing at 8%, 9%, and, you know, the demographic dividend coming good, and, you know, the growth story remaining strong, and all that is not going to play out. And, you know, if you understand the basic laws of compounding, you know, a great, if you grow at 8%, 9%, and if you grow at 6%, it makes a huge amount of difference over a longish period of time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:47.000",
+        "message": "And in fact, I think Nitin Pai of the Takshashila Institution once calculated that 1% of GDP growth in a year brings 2 million people out of poverty."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:03:56.000",
+        "message": "So that becomes the opportunity cost of having a lower growth rate than you otherwise. And it's a humanitarian kind of\u2026 So if you grow at 9% a year, your real income doubles in 8 years, if you grow at 6%, your real income doubles in 12 years. So I'm not very, I'm not too optimistic."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:14.000",
+        "message": "So it's kind of time to wind up because we've just got five minutes left in this interview. And therefore, we can't take any of the reader questions. Sorry for that. We'll definitely take all of those and any more that you provide. Next time, let's just end on a note of hope. All of us sitting and you know, to use your brilliant Bollywood analogy from Kamine, all of us are basically looking at a kabootar and saying to ourselves, ye dil mange more."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:04:39.000",
+        "message": "Thank you guys. Yeah, thanks."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:44.000",
+        "message": "In case you enjoyed listening to this episode, you can follow Vivek on Twitter at call underscore Vivek. You can follow Kumar at Kumar Anand one word. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. And you can browse past episodes of The Seen and The Unseen on seenunseen.in and thinkpragati.com."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:05:02.000",
+        "message": "Thank you for listening. And I'll see you in the next one. This is the filter coffee podcast. Call the internet. We don't dwell on just the stuff that is now but rather the wider stuff about advertising, media content and the whole goddamn circus surrounding it. Tune in every Tuesday for a weekly unboxing of the mystery box we used to call advertising. I'm Varun Duggirala, co-founder and content chief at The Glitch. And this is my new podcast. Advertising is dead."
+    }
+]

@@ -1,0 +1,712 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:04.560",
+        "message": "Did you know that Parsis in Mumbai instead of being left at the Tower of Silence after they die are now cremated and why because a cow fell sick in the early 1990s Did you know that the smog in Delhi is caused by something that farmers in Punjab do and that there's no way to stop them? Did you know that there wasn't one gas tragedy in Gopal but three? One of them was seen but two were unseen. Did you know that many well-intentioned government policies hurt the people? They're supposed to help Why was demonetization a bad idea? How should GST have been implemented? Why are all our politicians so corrupt when not all of them are bad people? I'm Amit Verma and in my weekly podcast the seen and the unseen I take a shot at answering all these questions and many more I aim to go beyond the scene and show you the unseen effects of public policy and private action I speak to experts on economics political philosophy cognitive neuroscience and constitutional law So that the insights can blow not only my mind, but also yours the seen and the unseen releases every Monday So do check out the archives and follow the show at seen unseen dot I n you can also Subscribe to the seen and the unseen on whatever podcast app you happen to prefer How did we communicate with each other before the internet? Were you rude to random strangers? Did you call people names just because they disagreed with you on something? Did you have close friends you had never even met? Were you running around the neighborhood showing photographs of your food to everyone? If someone said something funny, did you respond with a string of letters like LOL or ROT FL AMO? Did you look people in the eye when you spoke to them? In fact, that's a pretty good question. Did you look them in the eye?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:55.680",
+        "message": "Welcome to the seen and the unseen our weekly podcast on economics politics and behavioral science, please. Welcome your host"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:03.120",
+        "message": "Amitabh welcome to the seen in the unseen my topic for today is online conversations the internet has transformed how we speak to one another and Indeed how we exist as society and even how we are as individuals on the one hand We've been empowered with information and knowledge and the ability to make connections both with other people and with new ideas We have wider and more diverse social circles. All our interactions are so much richer But on the flip side the internet seems to reveal the dark side of human nature Anonymity emboldens us to express our deepest prejudices all the bigotry and misogyny We otherwise never would show to anyone and we behave in ways online that we would not even consider in real life Also instead of bringing us together the internet might actually be driving us apart the internet makes it possible for us to form different echo chambers really large echo chambers of people who share our interest or ideologies or prejudices some of them repulsive to others even as we close ourselves off to views and people who don't match us as A society we are getting more and more polarized as Individuals we are becoming more and more strident and judgmental. How did we get here? What can we do about it? To discuss all this I have with me a guest who has seen this evolution of human conversation Close up Nikhil has been a moderator at reddit for a few years and I bumped into him socially a few days ago and had a fascinating Conversation with him. He's a perfect guest for the seen and the unseen But before we get into our conversation, here's a small commercial break If this happens to be the only podcast you listen to well You need to listen to some more check out the ones from IVM podcasts who co-produced the show with me Go to IVM podcast com or download the IVM app and you'll find a host of great Indian Podcasts that cover every subject you could think of from the magazine I edit Pragati at ThinkPragati.com There is the Pragati podcast hosted by Hamsini Hariharan and Pawan Srinath. There is a brilliant Hindi podcast Hulia Bhaji hosted by Pranay Koteswamy and Saurabh Chandra and apart from these policy podcasts IVM has shows that cover music films, finance, sports, sci-fi, tech and the LGBT community all Under one roof or rather all in one app. So download the IVM podcast app today Welcome to the seen in the unseen Nikhil. Hi nice to be here So I'm really fascinated of what made you start off as a moderator on reddit like were you a user before that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:40.800",
+        "message": "Actually, yes, so I Used to be on a lot of online forums. I enjoy talking online I like quite often I like the anonymity and I like the ability to engage with people from many different places And it's always been very fascinating to see how interactions happen It's I've seen people lose their minds because some small thing happened in a video game or some small change And then I've seen other really high sophisticated discussions on the most Minute parts of code and computer architecture somewhere else. So I was wondering what made a difference So I read it was the new big thing and it was one of the few places where you got a lot of interesting Conversation and I was there for a long while and in the subreddit which I was on just sort of a constrained topic forum Where they were looking for moderators. They were looking for people to help them deal with the influx of new users and Disruptive behavior to put it mildly which they were seeing and I'd always been on the forum as a user. I always communicate and I always suggest ideas, which I had seen work in other places and They finally said that you know, you've been here for so long. You have all these ideas Why don't you try and implement them? And I thought it's been years of me looking at all of these other forums and all of these other ideas So let's try let's see what happens if we implement them"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:53.640",
+        "message": "So I'll ask you a personal question. Were you a different person offline than you were online when you got online?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:59.400",
+        "message": "Well, that's a difficult question to answer I think yes to a certain degree of online I am Far, it's more about what ideas I have. So I reduce my interactions to those topics, which I feel strongly about and I can express or have or try to have an opinion on Whereas in real life, there are a lot of topics where I just don't know anything whatsoever, and I have to interact on them And so I tend to be a little bit more reticent in real life Then I am online, but then online there are a lot of places I avoid interacting because I believe that I'm really not in a good position to talk about it"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:40.600",
+        "message": "Right. So offline essentially you're you know, you're mixing with people and you're doing small talk But you're never actually doing small talk online in your case You're just engaging when the subject concerns you deeply"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:50.920",
+        "message": "Usually of course there are always something or topics or the other which are just amusing or some Ridiculous picture of cats or something or the other which just catches your eye and you will say something stupid out there But yeah, if you look at but you can usually find out what topics i'm very interested in if someone were to Just go through the comments i've written on the topics i've spoken about so yes And is there any early online behavior from you which you now regret?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:12.280",
+        "message": "That's another tough one. I would love to say no"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:14.360",
+        "message": "I really can't think of anything at this point even something that's mildly embarrassing not that you would regret"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:19.480",
+        "message": "Or mildly embarrassing I do on a regular basis. So that's really not changed"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:23.080",
+        "message": "There every so often there are comments where I do talk about a topic which I want to know more about and So for example, if there's an advanced subject, which I want to learn I go there I look at what other people are talking about And then I try and put my opinion of forward and then I realize a little later I really didn't know what I was talking about and that's incredibly embarrassing So how uh, like when you became from being a heavy user when you became a moderator"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:47.640",
+        "message": "Uh, what did you learn? How did that change the way you looked at reddit and at the kind of online conversations you were part of? That's a big topic. So I think this in itself should be broken up into parts. Let's break it up"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:57.880",
+        "message": "Sure, so let's discuss why so first and foremost I come in from this. I really want to see conversation online succeed I think it's really important for all of us. We do most of our conversation online and frankly A large portion of our personalities today is just done by typing words in So not being able to type words in being banned or being Restricted from saying something is effectively having that part of you online amputated Because there is only the act of speaking you can do online You can only speak and not being able to speak is a very big thing You may be saying stupid stuff and you may be talking about something totally irrelevant But the fact that you can and cannot is everything to your online personality. So I thought this is really Interesting and very different part of our lives and i've been here before the internet so To have that that tool where you can all talk to all of these people and you can see all of these people Was a big thing and then seeing it misused From almost the get-go. So a little pre-history When there was no facebook, no twitter Pre-history when there was no facebook, no reddit people found ways to abuse each other on discussions about compiler code and Just on basic things where you wouldn't expect it. People can get very passionate and fight about that and there's just tons and tons of Stories from those days where people were looking at and they were going Okay, that's really not what we expected people to do and that's sort of this this apocryphal body of work Before moderating became as and before the modern research started happening on it today About what to do what rules should be applied to make a good conversation online because when you went online you'd find that a lot of people would just Like if you had a topic on religion or politics, they would get very ugly So actually let's move back. Have you ever heard of the term eternal september? No. No, tell me about it. So eternal september is one of those Those those terms which encompass the whole idea like signal versus noise And this is part of that Those terms which people use to be frank moderating is not very researched as a science or anything right now But a lot more work is going into understanding how we interact online But before that there were terms like eternal september eternal september There was a forum called usenet a bunch of forums called usenet. This is around the 1990s and a little earlier than that and The general pattern was that there were a bunch of people out there who were familiar who knew had a certain General code of how to communicate and talk to each other every so often in the year There would be a new influx of users a periodic influx from a bunch of colleges where people came there They now had access to usenet and they would come in And that was generally called and that was usually in september and that period would be a period of adjustment They would have to the new users would end up learning and imbibing the general rules of and code of conduct online And the forums would continue in peace Except finally in one day in 1993 when AOL allowed all of its users to use and access usenet And essentially there was a very large influx of users so large that the ability of the forums to Condition and educate people on the ways they would people used to behave online disappeared. It was more than the old guard's ability to help or guide people or I Don't know you could use any amount of words. You could even use indoctrinate if you're being very uncharitable But it's not it was more like understanding how to talk to each other And that was termed eternal september. That's a fantastic term and it's like we're still in an eternal september. Yes, it is mostly it's the sort of most horrifying version of eternal september you can think of because Everyone's a kid online so to speak today. We've the rules of the house or general rules of decorum Either seem to have been forgotten or they haven't been discovered by a vast majority of people And it's very scary to think of and a large majority of india, which is not online yet so those Our way of communicating with each other is Very important. Let's go back to the usenet days for a moment that then I assume that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:10.000",
+        "message": "In those days you could say that whatever policing or moderation there was Was not like overt moderation. It was more just a community sort of thing where the communities were small enough that you figured out what are the acceptable ways of You know conversing with other people the acceptable behaviors and you quickly adapted to them and and That was manageable every september when a small bunch of new people Came in and they quickly learned and those who didn't learn went and those who learned stayed on and so on Went and those who learned stayed on and became stalwarts and then suddenly one day it all opens up and it's a free-for-all and Everyone is sort of there. So how did how did the various forums then sort of start adjusting to it? I mean there would have been what were the different schools of thought on this we should do nothing We should you know police it in this way. We should police it in that way. So"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:59.840",
+        "message": "This is going really back and internet time so before there were very large Social media sites and aggregators like facebook. I think the most places that I would go to were forums and You would tend so there would be some technical forums game forums were quite popular and all these tended to have a small community So it's quite easy to understand the general rules and the general code of conduct The moderators that I knew at that time generally didn't have to moderate for content or quantity or policy and Yes, there would inevitably be some someone or the other who would try and attack the forum or try to attack users And those people tended to get banned and there are a lot of stories of even back then of how that That those halcyon days were even filled with problems and issues But nothing at I think at the scale at which we're dealing with now So for example back at that time one of the biggest problems you would always face was spam You would have someone or some robot which would come online and just constantly spam you so those basic spam filters would deal with it But then there were also some users who for some reason decided it was their life's mission to harass either the entire forum Or harass a specific user and that would be something which moderators of old would try and go and weed out and ban but Even in that time there were issues of groups of people targeting each other So for example, a lot of forums find it their life's mission to oppose an idea And then to oppose and attack everyone who embodies that idea very famously would be a nazi supremacist forum finding jewish forums or even Forums where people congregate for different reasons around judaism and attack the users over there so Even before reddit and before many of the other of facebook people Were finding ways to harass and weaponize speech online What's happened? So the next major website I remember i'm going to was a technical website called slash.dot This was It was very interesting because everyone could upvote all their topics and When you upvoted a topic you had different criteria on which you could upvote it. You could say it was insightful It was funny instead of having a generic like or dislike button There was different varieties on ways you could upvote and you could say this person's contributing to the conversation"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:21.840",
+        "message": "And slash.dot if I remember had a huge number of users So you actually got a very good sample size of these different kinds of upvotes and downvotes for it to be meaningful"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:31.360",
+        "message": "Yes, and around that time what people started discussing was the concept of signal versus noise So that was the realization that not all conversation online is on topic And not all conversation online is as insightful as Listening to the most intelligent person on that topic speak So that's signal versus noise is sort of the other major way people explain the issues online that you have Lots and lots of people talking not all of it is worthwhile The question which then started bothering me is that how do you get the most useful information to come up? And sadly, it turns out that even a voting system like what slash.dot used where you could say that this comment is insightful And this comment is funny or this comment is interesting did not necessarily make it such That the most useful or relevant information came up most often The most popular opinion still managed to be heard And this is generally going to be the theme Of what we see with interactions online That it's just sheer numbers which tend to influence how We end up talking and what we end up talking about"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:45.200",
+        "message": "And like I remember I started my blog India Uncut in 2003-2004 And after a while, I found that my traffic was too much for me to have comments enabled Because again, I couldn't handle the noise to signal ratio and I figured out rather than try and moderate or keep an eye on it Or whatever. I simply won't have comments because it's it is after all my style and You know save myself that mental bandwidth and I remember chatting with a friend of mine who ran a blog called Sepia Mutiny a very fine blog you know desi americans and One of the guys who started that was a chap called Manish Vedge And Manish once told me when he spoke about his comments policy And I was always very surprised because they had they also had very decent traffic But their comment section was always pretty good and he said oh we ban liberally and we don't just ban for trolling or abuse We ban for stupidity. Yes, which uh, you know brings an interesting question of even when you talk about signal and noise there are many categories of noise and there is a certain subjectivity to it and The hard part for a moderator then becomes where do you draw the line? You don't want to you know Have commenters or readers feeling that shit This is only meant to be an echo chamber for people who agree with this guy But at the same time you do want to weed out bad behavior. And is it an issue sort of Finding those boundaries defining those boundaries have they changed over time?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:05.840",
+        "message": "So yes in general there is an issue quite often finding boundaries Mostly because as you as you asked yes boundaries move so In general the way i've approached or what i've been exposed to has almost always been dominated by the uh, General american viewpoint that free speech is critical and free speech is good And that the more free speech the better chances for drowning out bad ideas This was the general philosophy which which is why even on reddit. There's always been Such a pushback against moderation where Where what your friend did is turns out to be probably one of the only ways to deal with it and what you did Is turning out increasingly to be the only way for people to deal with conversations. There are many very large websites, which have entirely Shut down their comment section may be mistaken, but I believe either a scientific american or a major Website has shut down their comment section because It's a bit sad, but people don't interact In ways which are healthy Or in the best spirit of humanity So to go with an example of what happens when I ended up moderating on reddit It was after the forum was actually dealing with such thing when the forum which was created was very small And it was built on that principle that let everyone speak let everyone share ideas no matter how good bad or ugly And deal with the bad ideas Unfortunately, it turns out that since your entire existence online is wrong Words are also very literally violence online. You can Gang up on a person and prevent them from speaking. You can compress their ideas and you can move them away You can form the internet really helps people find each other and this also means making lots and lots of ideological ghettos So that process and those ghettos more are quite common in the internet What would happen on the forum is that if someone had an opposing viewpoint, they would get relentlessly hounded and since everyone was expected to behave on their own In whatever manner was befitting them Well, since no one was stopping them they behaved in any which way they liked which would quite often just be straight-up harassment If you're a woman online, it's not a good scene. It's very very bad People would find them if by chance you let them in and you let them in and you let them in If you're a woman online, it's not a good scene. It's very very bad. People would find them if by chance you let people know You're a woman online then you would be targeted you would be targeted all throughout the web and you would be harassed"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:32.640",
+        "message": "What is sort of the men to women ratio in a place like Reddit for example? In terms of active commenters, do you have any idea? No idea because you'd imagine that it would become a sort of a vicious circle where Women just don't feel welcome because there are so many men many of them abusive and therefore they just don't bother to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:48.800",
+        "message": "Participate and I'm very certain that's the case and I'm sure Most people who go and interact out there either choose places where they are welcome Right, or they have a very thick skin or they just avoid they come to those places where they know these conversations can happen and either try to engage or I'm or they Ignore those conversations focus on the parts which can be useful. But For the exact ratio. I don't know and knowing in itself would bother me because that would be mean that there's some way to"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:18.540",
+        "message": "Identify who's who yeah, exactly. Oh, so, you know, i'm not a reddit user per se once in a while I'll see a link and go and I really like the keto subreddit which Is a fantastic subreddit and i'm of course a keto evangelizer So here's what it seems to me reddit's fundamental problem is let me just articulate this and tell me if i've got it Right that on the one hand it is true that Freedom of speech is something that really applies to a state acting against the citizens and if you are like a private Party like a website you have the right to set whatever rules you want And if people don't abide by those rules, they can go elsewhere or you can ban them or moderate them Anyway, you deem fit and therefore people shouldn't really complain But the other way of looking at it is that community sites like reddit and facebook Are so large and all-encompassing that for many people they are the world where they exist And to stop somebody from expressing herself in a world like this would be very cruel Among other things and the idea you mentioned of letting free speech prevail I mean one of the fundamental defenses of free speech Comes from the phrase a marketplace of ideas that to get to whatever the truth might be on any subject at all You have to let All ideas find expression and then let whichever ideas win out in the marketplace of ideas That's that's really the function but you can't stop anyone from speaking which is the original intention But uh, and that's reddit's dilemma that because of the noise to signal ratio It must moderate but at the same time there are huge costs to uh moderating both philosophically in terms of the principle of free speech And also practically in terms of what it can mean for users for whom reddit is a whole world"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:03.980",
+        "message": "Right, I agree. So funnily One part of the internet which did work I used this idea recently and someone challenged it with a far more sophisticated, uh approach. They linked to an old uh I think us supreme court or us court, uh, or a law journal where they discuss this idea and the limitations on uh, how well the free speech the marketplace of ideas as an idea itself works and For one I like the analogy. It's very simple I like the marketplace of idea because it gets the idea across what we're really trying to do where we're trying to share ideas But there are a lot of things which are automatically limited So it's not that all speeches you're allowed to say fire shout fire or in a crowded. Uh, Theater, you're not we don't have unlimited free speech anyway, and if you're in india, there are a lot of topics which you cannot speak about because If you do and you talk about them in a certain way, you will cause harm to others And the state has decided that that's not okay Okay, in general there are certain ideas which we do not discuss in our marketplaces"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:07.260",
+        "message": "I think if I can just i've uh, you know The shouted shouting uh fire in a crowded theater analogy is actually One that I don't agree with and i've written a column about this In fact a couple of columns it's it bugs me a lot when people use it Because here's the thing if you shout fire in a crowded theater if the patron does it when there's no fire He's defrauding his customers if a customer does it he is in a sense defrauding the patron and he's disrupting Uh all the other people who have uh, you know paid for a good experience, which is being disrupted So on all of these grounds you can condemn that behavior and stop it You don't need to it's not an attack on free speech to do so per se If someone shouts fire in a crowded theater, there are various grounds including property rights uh and contracts on which you can actually prosecute him and Punish him. I mean i'm a i'm a free speech absolutist as you would have figured but I keep pointing out that we're going to have fun Yeah, but I keep pointing out that uh, you know My my free speech absolutism really comes down to how the state deals with the citizens Uh, because I believe the citizen should be in charge and not the state And people seem to have the opposite view as a default It doesn't apply to how a private entity like reddit Deals with its users because as far as I can see reddit has its terms of use And those terms of use obviously include things like you shall not do ad homonyms And you shall not abuse and you shall all of those things And they are entirely within their rights to kick out any users who have signed that terms of those terms of use and don't comply So to me, that's not so much a free speech issue in the classical sense of the term"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:40.380",
+        "message": "So I too started out from the position of view that free speech is that my driving force has been to figure out what works Figure out what works and i've come to the conclusion that if you if you use the analogy of the marketplace of ideas A lot of things don't work The big issue is that a lot of people can get together and suppress a good idea So a lot of people want to get together and they want to suppress discussion on Uh racism, for example They want to suppress certain discussion on religion or they want to specifically focus discussion on xyz topic about a different religion and these things these the previous This protection and the shield which we had in the previous era was that these things were very amorphous. They were not necessarily something you could Tangibly see but as a moderator or as a user online these things happen every day now because all your interactions are about conversation You can end up spamming the feed you can keep or you can very subtly ensure that certain conversations get Downvoted and disappear whereas other conversations which you prefer get or get upvoted so it's now more a question of whether the original idea of The original conception of this marketplace where everyone gets together and share ideas is still working and in the new era It's not practically speaking. There are many ways in which Free speech as we knew it. It's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:00.800",
+        "message": "Done and dusted. I think you can argue though. I agree with you, but as a counter you could argue that The marketplace of ideas was always extremely slow to work For example, if you had read it in say 1820 in America and someone said slavery is bad and we should abolish it the same thing would happen to them what you just described that the majority of people would just download them and Shout them out or troll them or whatever and it wouldn't matter and it would seem as if in the marketplace of ideas Pro-slavery has won and then society sort of took its own time to change gradually. So it's never immediate But the whole idea I think of the marketplace of ideas is that at least those ideas are allowed to exist in some form"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:36.960",
+        "message": "right, this is the marketplace of ideas if I remember correct that actually what you said is a sort of uh, One of the criticisms of the original concept and said that there's never really been a functional marketplace in the first place Because there are several concepts which are as it is banned by the states or controlled by the states. You cannot discuss them libel So, um, there are certain topics which the majority will automatically take a stand on"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:58.560",
+        "message": "I think india is very harsh and unduly harsh on free speech But in the us the first amendment is really quite excellent"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:03.840",
+        "message": "I think in terms it is and finally the the person who was criticizing the concept of free speech and the marketplace of ideas was a Person in on an american law journal, right? So there are limitations No idea is perfect and you don't deal with platonic ideas in the first place and there will always be the thing which was most critical to me to realize was That when you started out putting rules in our forum, we said basic rules. Don't harass don't Hunt people and don't go and be abusive very simple straightforward rules And then what would happen is that once those rules? got in place And people became familiar with them they go and we banned several users and said no you cannot behave this way You cannot just intentionally put insightful material. You cannot intentionally go and find this particular Uh subgroup of people you don't like for example furries and decide you want to just abuse them. That's just not okay There's no reason for you to use our forum to just harass furries It's not something which we really care about and we're not going to give you a space to do that because that's Goes and causes other problems. It makes other people upset and it just starts a chain reaction. Absolutely So that's one of the things where I agree with your friend that yes You need to you end up coming to a position where you have to use the ban hammer very often and our first attempts were very Distant and practical. We said we will generally use it and as little as we can and for the most egregious violations But what happens is when you move the frontier You have a new level of peace. You have no longer the same kind of horrendous things happening as before But then what happens? People find new ways to abuse that they find So the term which I love about this is fractal stupidity It once you've established a set of ground rules They find that they can tweak these particular ground rules or they can find another way to harass someone They can just follow someone and constantly repeat certain things which are not offensive, but are Either dog whistles or either just slanted the right way to read as offensive Or they can constantly tag a user in a conversation. There are many ways in which give me an example of this all right, so Once we've banned a lot of this behavior There were people who would find ways to show up in conversations about XYZ subgroup and say well These people have always done this what you expect and it wouldn't be outright offensive They wouldn't be saying these people need to die. They would always be saying something which was polite and Obviously rude and now that was a problem for us because now they no longer we we were used to the old Frontier, which was straight-up death threats hate speech abuse here. They're not saying anything wrong They're using plain simple English and they're saying something which when translated is obviously offensive But we had restricted ourselves because of our previous rules We said we would not deal with something and we would not ban someone or harm someone for saying such things We would only ban them if they said and outrightly hateful things So now what do we do with this because this is obviously wrong And we were constrained and we knew that so finally this we let it go Eventually this became the new rule and then finally we had to come up with a new set of rules And then finally we had to come up with a new set of rules because a lot of the users said that is obviously an attack Right, you need to deal with it. And so the frontier moved And you keep moving the frontier forward and forward. Yes, and this causes a lot of pain as the frontier moves is the Advance of complexity. So first you're just this really simple line. Don't abuse each other now you have this new line which says You really can't use these particular types of abuse and you can't use this particular type of abuse And then some guy will say that guy is doing that. Why are you stopping me from saying this? So now you get the advent of lawyers Reddit lawyers They go through your rules and they say that person broke that rule by just that square inch and you banned him Why? Or they'll say you stopped me from making this post and see all of these people are saying all of these horrible things They're not saying horrible things. They're saying things which that person thinks is horrible and he's saying you're lying them"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:05.440",
+        "message": "Why aren't you lying me? So just as the members are in a sense at the mercy of the moderators are the moderators also being constantly held accountable by the members"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:13.680",
+        "message": "They are but at the end of the day the moderators have far more power and they can eventually stop paying attention and so Actually, that's not true the moderators cannot really be held in the same way users can be Because at the end of the day moderators enjoy a significant amount of power And a certain amount of opacity"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:31.680",
+        "message": "Of their actions and do moderators like argue with each other about where the line should be and where in my team"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:36.720",
+        "message": "Yes in a certain extent in our team We have attempted to keep that sort of different set of ideologies alive but what we are finding is that the older set of moderators who still remember the old free speech days are Increasingly a more quiet bunch and the newer moderators Especially ones who are having uh more experience from a lot of the other forums and so on are very clear that yes These are the only things that work"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:59.120",
+        "message": "You're not going to have a conversation and you need to get rid of the new moderators are not reinventing the wheel But they're also discovering new kinds of behavior, which they have figured out how to deal with. Yeah, so there are"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:10.720",
+        "message": "depending upon the size of your subreddit the type of interactions you have can be Very minor or they can be a very massive amount of interactions For example our keto doesn't have that many subscribers compared to a subreddit like world news And world news or has to have its own stable of moderators to deal with it because a lot of the topics out there can attract Emotions from every corner of the world and they really need to be on the ball with figuring out What the hell is acceptable or not? But our keto on the other hand is what I'd call a topic constrained forum People go there because they want something to do they want to figure out how to get their keto diet working They want to showcase their successes. I think these forums in general are one of the few places which work Because they are what I prefer calling them this sort of vector quantity. There is a start point and a direction, right? Whereas other con topics which are just general where people can come in and discuss politics and religion almost inevitably follow a very sad path of Polarization anger and fighting and then heavy moderation if any"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:13.360",
+        "message": "So Nikhil tell me something in all these years that you've been First a user and then a moderator and so on how have online conversations changed?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:20.720",
+        "message": "So when I would go to forums initially, it was not That trivial and it was very hard for people to find these places You would either be a gamer or you would be a technical person and you would find these things And so you people tended to be in communities, which they already knew about but once you had facebook and twitter and reddit Then it became far larger aggregations and youtube comments. So what we I started noticing is that In my bubble where I where people would rather use full sentences. It was People tried to be civil but then as more and more people just started coming on online people quite often didn't have the same uh Reasons or need to talk in the same manner. So you started having Far your word length or questions would go down the topics change people generally quite often just like shooting the shit. So a lot of um general time pass because I guess less personal connect because of larger groups So therefore and also a lot of topics which were just for fun like general So one of the big things which you find in a lot of forums and what you need to actually where a lot of the rules Start coming out is just jokes Because people online if you're going to a serious discussion There are a lot of people who don't really have anything to contribute They're there to watch but they feel an urge to go and say something funny or to say some They find something amusing and that's usually the most common content which you tend to have to moderate out of existence You have to say okay, no jokes. That's pretty cruel So you'll find that jokes perform so well Because it's so easy for everyone to get That they used to go and they would end up crushing the rest of the more insightful comments So the longest hardest to read comment is the one which very few people would read And the more funny simpler comment would be the one which is on top So that I observed you could see that effect of how just easy to consume material would dominate And you'd see that not just in the comments You saw you started seeing that in content and then you saw the buzzfeeds of the world You saw how all of them worked You saw how people understood memes in a very deep and fundamental way"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:21.920",
+        "message": "And all of this would also then become a disincentive for the more serious comment and would have a chilling effect on the deeper stuff"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:27.200",
+        "message": "Absolutely So you would have to make very serious efforts to To let that part of your garden grow because it turns out jokes and memes are sort of like weeds They're very hardy They can get into your brain They can stick there and they can dominate your short-term memory and even your long-term memory and in the sense that Well, they don't dominate a long term. They'll dominate your short term, but"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:48.240",
+        "message": "They end up crowding out everything else and also I mean, I've seen an analog of this in twitter where the most common mode of Expression on twitter is snark because it's so easy to be snarky about someone oh, yeah, you know someone says something you don't agree with you make a one-line joke and you mock him and 50 people RT you and everybody's oh you're so witty while you actually didn't address the argument at all you just said something supposedly witty and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:13.200",
+        "message": "Because that's just easy to consume I think that analogy with junk food This is just so easy to get it may not answer the question may not deal with the issue But you read it you got it you figured out the positions you felt happy You got you got some superficial understanding of the matter and you're on your way And you stuff your face with it and you feel good and I'll give you an even more fascinating way that People are using this to spam accounts. So this this is a bit different and a little off topic so today recently someone pointed out what's happening on reddit is that People are trying to create authentic looking accounts So that they can use those accounts later on when a crisis occurs or they want to mold opinion So a lot of forums now have and a lot of subreddits have blockers They say that if you are not an authentic account with so many years of age and so many comment points You are probably a fake account. So you are not allowed to post you have to get your score up And then you can post it's just sort of a are you human test? So what they're doing now these guys these they write a program They look at us they look at maybe our keto or our cooking. They see one of the most popular topics They see what the title was They wait a little while they recreate that topic Because now they know they at what time to post it and whether that's going to get up and it's performed well before So now when this gets posted it will perform well again, so they get a lot of points Then they look at whichever the most popular comments Someone had written over there whatever the top most funny comment was and they recreate that verbatim They just copy paste that so it looks like a really funny insightful article by someone with a very funny insightful top comment"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:42.640",
+        "message": "And people like oh, hey, that's really funny and they will upvote it And is someone gaming the system and this could easily be russian bots in the future"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:48.560",
+        "message": "It's just advertisers matter of fact They have one bot make this they have another bot come in and put the funny comment and then they have another bot Respond to that comment and people just read it and they think it's two natural people talking to each other So they just keep upvoting it and they just farm enough credibility copying human content or the most popular content Regurgitating it and people find it always funny and they keep upvoting it"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:13.760",
+        "message": "This creates a and does this mean that overall the more serious minded people stop taking part? Right, it's in a sense a selection process for the crap"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:23.600",
+        "message": "Yeah in some ways so all the serious people end up moving on to more serious discussion forums Where the topic is meant to be? More slow or more and handled in depth and you'll see a lot of those forums have far less communication There are fewer topics which are discussed or people have fewer comments They tend to read or they tend to discuss or there's a way to figure out people who are Bullshitting versus the people who are actually serious about the topic So for example, if you're talking about economics, there are forums where people can just bullshit all day about it But then there's a certain sub forum On just economics where they spend all their time arguing what is bad economics or not And over there if you post something and you want to make your own post on it You have to give a reason with a full-fledged explanation as to why What you are talking about is an example of bad economics and you have to dice It's essentially a short dissertation and then people decide whether that's actually passes the rule If so, it's allowed your post is allowed to be kept. Otherwise, it's removed and that's a test It's essentially this proof of intelligence test, which a lot of forums have to do now"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:26.400",
+        "message": "So that's kind of a long tail of content in a sense though that you you know, the Adaptation even the very intelligent will find their niche where they are comfortable and they are not crowded out But those will be very small niches and right won't have an impact on the overall discourse"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:38.640",
+        "message": "Correct because unless you even knew it existed you wouldn't go there and the topics quite often over there are very arcane And they're discussing, for example, our bad economics will discuss the very fine-tuned details about x y z Predictor of let's say the gender wage gap and they have a huge document on it And frankly, most people will never go through it So whenever the topic of gender wages come up or gender disparities come up No one will have recourse to that information and the conversations will be dominated The public perception and the popular perception will be dominated by the media Popular perception will be dominated by the easier to consume concepts the hard ideological positions and the performative propaganda All will disappear So unless you have an easy way to package something or put an idea that will dominate Whether it's right or wrong is a different issue Whether if it's easy to consume and share and it sounds right for the zeitgeist at the time that will usually work"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:34.160",
+        "message": "And what is it about like when did you see this change happening more and more becoming dominant? Like I remember back from my days of blogging in the second half of the last decade, you know 2005 onwards There was an oyster signal ratio problem and so on but things hadn't come this far Uh, is there a point where you can say that? Okay, this was a trigger This is when you know, maybe when facebook passed a certain critical mass or to be honest"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:58.880",
+        "message": "I really can't recognize the point. It just constantly feels that we've been iterating our way forward I can't find a moment where I can say. Okay, this is disturbing I can see moments where new ideas were uh discovered where new Advances were done in design for applications. I can remember the point where people said. Oh, we have we should incorporate uh Behavioral psychology in our design for applications I can remember when people said we should a b test websites to make them more interesting But this the way conversations online has changed Like really struggled to figure out a moment when I said this happened or this changed it There there are many serious events which have happened online in facebook on reddit where people's perception changed But it feels that in some way we've been just inching forward where teams of people have been trying to figure out ways to deal With this problem. They've been figuring out a patch. They've been deploying it and then we deal with the next problem"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:51.780",
+        "message": "We discover so as a civilization. We've kind of been bringing it in here. Yeah"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:56.900",
+        "message": "Yeah, it from from a moderator perspective. It very much feels that we've been winging it and now hey here we are And everyone suddenly realized this is not necessarily a great place to be"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:06.020",
+        "message": "Okay, so i'm now going to uh cycle into the specific and ask you some questions about your time as a Reddit moderator, but first we'll take a short 60 second break"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:43:17.860",
+        "message": "So it's been another great week on ivm where we try to get you the best podcasts that are around This week on the pragati podcast We have management and mint columnist karthik sashidhar who joins bhawan and hamsini to talk about elections and voting On junior one. We have samir pittalwala the founder of culture machine talking about streaming content online and at creations of tech His journey was setting up culture machine on ivm likes we have abbas janam and naveen talking about the meme culture On the vishal gundal show vishal welcomes vivek bhargav ceo of iprospect to communicate one of the foremost Digital advertising companies in the country on keeping it queer naveen interacts with queer filmmaker pradeep tarre who opens up about what it was Like to identify as trans in a culturally affluent household on who's your mommy? We tackle the weird advice literally everyone gives to new moms on cyrus says we have gauri devi dayal an ace entrepreneur Responsible for starting several awesome restaurants in bombay on sonology sonology a unique agony and call-in show So who helps his listeners on how to party train their dogs? It's been a great week on ivm and we hope that you can check out as many of these shows as you can And now let me get you onto your show"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:15.620",
+        "message": "Welcome back to the scene in the unseen i'm with nikhil a moderator at reddit Who is not only talking to me about the evolution of human conversations online in his experience? as a user of forums like usenet and later reddit, but Also from a point of view of what it's doing to us as a society and us as individuals But nikhil, let me take you back to the sort of the granular"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:40.020",
+        "message": "Details of your life at reddit. What is a moderator's day like small clarification? I wish I was on usenet but sadly I didn't have internet at that time. You were too young. I was too young, right? So, uh, what day-to-day life on moderator? Yeah, what is it like? Very boring. We are the janitors of the world And unfortunate and very strangely very powerful janitors according to a lot of people So our first set of rules which we came up on our forum was generally don't do harm So a lot of it was sort of going through a bunch of posts and a bunch of comments And if we saw someone say something which was genuinely hurtful or untowards or basically hate speech or racism We would remove it And then if that person was a repeat user if they did it once or twice"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:22.420",
+        "message": "We would have to go so there is a way to see if the person has been has that comment deleted before"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:27.940",
+        "message": "We can so at the infancy of reddit when moderating really started off. They weren't really a set of tools So a lot of very interesting things that happened as a result of this there was So one of the really cool things about subreddit one of its of reddit is subreddits And I think that's one of its great contributions To how we talk online so you can have a subreddit called r-pictures And r-pictures has a lot of people and they were sharing everything and a lot of people started sharing cat pictures or memes And those ended up dominating. So then what someone did is they created a separate subreddit for memes And that took off and then the people at r-pics said if you're putting a meme you can't put it here put it there So that split the load and that's a really fascinating thing which made it very easy For these guys to do that before that you couldn't really do it as easily in a forum You didn't have you either went to a different forum to discuss cat pictures and a different forum to discuss memes Or you came to sub or came to reddit and then someone made a new subreddit to discuss This memes in general and you could go there you could go and just see all of those things and this actually happened So r-pics split up into other meme subreddits and those meme subreddits in turn split up into other subreddits There's from there. There's actually a subreddit just dedicated to the insanity wolf meme And there's another really interesting feature which used to be allowed initially which was when People were not very happy with the moderators They could just make another subreddit and then move en masse there So this happened if I remember correctly it happened very famously to r-marijuana So for some reason the moderator out there had some issues and the team and the users who were going there weren't too happy So they moved en masse to r-trees Which is why anytime you go to r-trees, it's not about plants It's about a very specific type of herb So what happened to the tree lovers? They moved to r-marijuana later on if I remember correctly As I recall, I think that's what happened"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:22.280",
+        "message": "Right. So for a newcomer to reddit"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:23.640",
+        "message": "This is all very confusing that you love trees and you want to go to r-marijuana. Yes, it is very much so"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:28.680",
+        "message": "Right, but isn't this also like on the one hand? This is very benign and very useful in the sense that okay You go from pics to memes and from memes to eternal wolf or whatever But on the other hand it can also sort of drive people to ideological silos"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:41.640",
+        "message": "Which is something that's kind of happened in the broader internet. Exactly And so all of this possible even the movement of people to r-trees Happened because we did not have a lot of moderating tools at that time Right. So this is an example of one of the tensions which occurs for the need to be able to moderate and stop people talking About or harming each other online and the freedom to expand into other things. Not all things are benign I am generally in favor of moderating tools out of necessity So one of the tools which we ended up which people not we but moderators in general ended up creating Is a tool which helps them go through all the comments which are posted on a forum There's a feed where you can see the newest comment and it would check for very specific keywords for example Well niggers or other words, which would be very clear-cut Attempts at hate speech so that way you would be flagged immediately that okay someone out here in your forum So you only look at what's flagged? Initially, we would try to look at on we would participate in a lot of things But at a certain point of time we just had to just look at the queue You have to look at what's flagged either by users or based on watch lists For obvious keywords like i'm going to kill you or die and so on so forth And of course racial slurs and so on and other similar words. So It's always About looking at that queue and quite often a lot of forums don't even have enough moderators to manage that If it's a topic constrained forum where generally people aren't going to be talking about Incendiary topics you should usually be able to manage the workload the higher the barrier to entry in that conversation Usually the better the conversation because to get in It's not that easy. You have to know what if you're going to talk about um Let's say a very complex game For example, the only people who can play that game are people who've passed the barrier have the time and willingness to indulge themselves In a certain level of effort everyone else out there is also spending the same amount of effort So it's very easy to make out a faker or a poser or someone who's just talking about it But doesn't know what he's talking about. So the conversation out there tends to be on topic and very neat And that has a very nice sense of community The other subreddits which tend to work out are ones which have very heavy moderation like ask history Ask history has a dedicated team of volunteer people with backgrounds in specific parts of history and they are Educators teachers master holders and phd holders on those topics So any time of any question that is asked and only as far as I remember only questions can be asked Can be asked the first response has to be a qualified and informed response with sourcing So you can ask whatever question and you will usually get a good answer If you go in there to just make jokes about oh, you know Well, the pyramids were made by aliens comments like that disappear They immediately removed and the only thing which remains is high quality conversation"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:26.040",
+        "message": "So in the sense they are also doing what my friend Manish used to do at sepia mutiny They're banning for stupidity that particular subreddit. Yes, or to be put a finer point on it"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:34.440",
+        "message": "They're banning noise They have a very clear-cut definition of signal and there's a very easy way to say this is signal Because it's a very limited topic generally when you have a limited topic, you can do a good job For example, you're talking about music and you're talking about a specific type of music or how to play a specific instrument That would usually work a lot better unless you suddenly got into a war about which musician you like over the other Those are different but even there the moderators can step in and say we're not going to really have a fight on these topics You can move it to someplace else"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:05.160",
+        "message": "so it seems to me that one of the real problems with the moving away from reddit for just a moment because the question occurred to me is that Uh, this becomes a problem at scale when you don't have specific subjects For example with facebook I imagine how the moderation is that everyone who flags something that goes into some kind of queue and they have like Uh, they have some call center somewhere where they have thousand two thousand people just sitting at comms and one after the other these images Flash up and they're all general. They're not specific So it's not like a knowledge-based thing like ask history where the guidelines are clear You ban this you don't ban that and they have to make subjective calls based on general guidelines And there is often very little recourse available because if they if they delete something they delete something How does that work and what are the ways around that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:47.560",
+        "message": "so Yeah, I completely agree with you where the more subjective it is the more difficult it is and when we're talking about subjective at facebook Scale we're talking about what's subjective in one part of india and what's no subjective in america and india and america alone have very different Concepts legally about what is free and what is fair what is okay speech like the term chinky eyes would be interpreted differently"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:07.560",
+        "message": "By someone here and someone in minnesota, for example, so, you know"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:11.080",
+        "message": "yeah, and out and what you tend to see is that there's a sort of cross-pollination that All of those that if you're using any of those words we you tend to say, okay, maybe that person's racist It may not be it it is Quite often and now it's the de jure to assume that's racist, right? So while back in the day, maybe it was not now it is so there's also a sort of Effect where people are learning what cultural norms exist in other places And online is sort of being transplanted also to other nations in other countries sometimes for the better sometimes just"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:44.920",
+        "message": "It's an alien entrant because what i'd imagine is from what you describe of reddit Is that the way the moderators work on different subreddits and so on is something that's evolved over a period of many many years"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:54.920",
+        "message": "Very much learning and discussion and tool and tool creation. We did not like so Basically people end up blocking mentions of certain subreddits. So if that old moderator on uh, That particular subreddit or marijuana had these tools. He could basically block all mention of our trees So no one would know it would exist. Wow So it would be it would have to be done through various roundabout methods. It would be much harder So it's not it's a lot harder for people to move with their feet And this is an example of where there's a tension between the creation of tools to make it easier for people to deal with basically assholes And how those tools end up Inadvertently stopping expansion into other spaces and here's the thing"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:35.880",
+        "message": "It's this is something that's evolved over a period of time into a kind of science at reddit where you have all these years Of collective experience and you've reached certain ways of working in certain norms in the moderating community at reddit But what companies like facebook and twitter and so on are having to do is just to set rules on the fly and just deal with shit on the fly without You know having these years and years of processes"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:57.080",
+        "message": "I would say that making shit up on the fly is basically the rule It's if you have the time you go read up on The rules of what free speech are or like what some court cases you go and educate yourself But in general everyone's making this shit up on the fly and at the end of the day, I think what's deciding it is What works? So for a lot of people it just they can't manage conversations They just remove it for a lot of other people. It's just constant banning and removal of conversations which do not match The stated purpose of the forum which results in what you'd mentioned silos. So for example, there's a very large forum dedicated to uh, the current sitting president of the united states of america with the donald and for a very long time they figured out ways in which They could make sure that their topics showed up on the front page So that everyone else on the forum had to watch it and they were quite pleased with being able to do that Eventually reddit changed the entire way the front page algorithm worked to prevent users from ganging together and gaming the front page So one of the issues over here is that the donald which is the name of the subreddit Over there. They if you are critical of the president they remove you Conversely other subreddits now notice if you have posted in the donald and then they remove you for just interacting in that space So even if it is a question Innocuously stated that you know, why is he doing this? You will find yourself banned from several other subreddits They will just say you are not allowed to speak here It's a very strange evolution of Group warfare which has occurred because of this this echo chamber effect I don't even know how to explain or understand this particular"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:34.600",
+        "message": "So the the social scientist cast sunstein a kind of term group polarization And what they did was I think he and his colleagues did a study where they got a bunch of republicans and Democrats kind of together and they took their positions on a variety of issues And then they put them together in with like-minded people and they also put them together in mixed groups And they found that those who were Huddled together with like-minded people all of them tended to grow more All of them tended to grow more extreme in their opinion you know Than the other groups and what this did was that it? And when we form echo chambers, we essentially then interact only with like-minded people whose ideas already match us The confirmation bias kicks in where we ignore all ideas from outside and we only take in the news that conforms to our biases and These groups get further and further apart. And finally you find that Uh in society, we are not talking to each other anymore. We are talking past each other. We are abusing each other I mean one of my constant complaints is that Why political discourse is pretty much finished on social media Especially twitter is that all argument comes down to attacking the person and not the argument On the one hand and on the other hand virtue signaling to raise your status within your own in group Rather than honestly trying to engage with the other side, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:59.000",
+        "message": "So it's a lot of just throwing headlines at each other You're not really talking to the other person you want to show to the rest of your team Look that guy's an idiot. I am so great. I've made him shut up. That's generally the point it's so the echo chamber effect is very insidious and this is something which Again, this is about the frontier constantly moving as we improve on our tools and improve on our ways to deal with communication We find new and new effects which we didn't intend So reddit had a really simple way back then you could just upvote a topic and you would see lots of interesting conversations And now because so many people ended up using that for their own gain So they would create they would try to spam or they would try to control conversations or they would just try to Be power users or just be the most the one to make the funniest comment There were constant rules and changes to the way the algorithm works to make it more complex While that has had positive benefits One of the side effects is that now it's just enhanced the echo chamber effect you tend to go to your group And then in your group you only argue about the things which you have already decided and anytime someone else says something different That person is immediately chucked out. It's it's really It's really creating a very disheartening situation"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:08.200",
+        "message": "And would you say that this is not something necessarily brought about by the internet or by technology, but this is a human characteristic characteristic that is amplified by technology like technology amplifies both the best and the worst and It enables both our best and worst instincts and this tendency to think tribalistically and to form these sort of silos Is something that is inherent but that is now being enabled by technology and therefore it becomes Problematic and complex to give it a moral dimension and to say that no things should not be like this. So I think I"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:42.300",
+        "message": "I don't remember the full argument. My personal gut take is that this is because of technology that inherently This is a new way for human beings to be with each other And the problems it causes are inherently because of the medium So I think this is a much faster cycle. You get your comments you get your responses a lot quicker and it's also very context poor So like when i'm talking to you guys and I can see all of you all I can see whether you're interested bored tired cold It gives me a lot of information on what your state of mind is But if i'm and by making eye contact I can also figure out I can also Understand your body language. You can understand mine You can show so many things our brains are really well designed for dealing with other people Our music our dance our entire culture is about that but online You just see what's written. You don't know the tone. You don't know the background You don't know whether the person is a angry person sad person and he's had a bad day Whether someone has beat him up or not. You don't know any of that. You just take that concept And then you try to interpret it and in a context poem system We tend to put a lot more other information on it to try to understand it And that tends to cause a very different set of interactions and behavior The other aspect is that this stuff is fast It's like the worst combinations sometimes of having a book And having an argument. A book you can open up and you can always read that page. You can close the book go back and forget it A conversation you can have once or twice and then you can say something in anger And then leave and everyone will forget it But an online conversation you can say something angry and you can put it out there in that moment of anger And then everyone will read it like a book and they will come back to it And this is actually something which people would use to like remind people Oh, you said this back then and then they would bring that post up and they would say don't listen to this person because Once upon a time he said something which was bad about xyz person"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:34.380",
+        "message": "This is a screenshot culture on twitter where you'll put up a screenshot from"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:37.900",
+        "message": "2012 and yeah, yeah, yeah"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:40.140",
+        "message": "Which is sometimes useful in the case of politicians because you find that most of the best criticisms against Modi For example have been made by Modi himself, right, you know Back in the past on questions of principles and not talking to the press and so on and so forth"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:54.780",
+        "message": "So on and so forth But that's also another aspect about change, right? All of us say something which later on we can regret or we can change but Because of the nature of the written word and the way we are used to at least the older generation is used to looking at It is that it's something more final but over here It's sort of the it can be quite often the worst of both worlds"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:14.060",
+        "message": "And also I forget where I read. This is one of these social science Studies one of those behavioral econ things. I forget exactly Which study it is but the thing is if you can get someone to commit to something in writing They are more likely to carry out their promise For example, if you you know, and and it strikes me just thinking aloud that if someone For whatever reasons ends up saying something in a moment of anger just because it's there permanently They then feel compelled to double down and defend it and that changes their character itself They become a different person because of what they might have said in a moment of anger"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:46.220",
+        "message": "Which they would otherwise have forgotten exactly So this is why like as to your point whether this is just human tendency. I think that this is not just human tendency I think this is very much The new world we live in and it's very much because of technology and because it's been designed let's not forget that all of these systems are designed for maximum engagement because Just because if you don't have people on your forum and you don't have people on your website for long enough You're not going to have enough advertisers You're not going to have enough people being attracted then this is Related to the previous problem where we had our news cycles being very fast or if anyone's seen Indian television, you'll know what the news cycle is on steroids. Everyone is shouting at each other for no reason We may all argue and we may all at the same time hold the same opinion, but we will fight"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:29.980",
+        "message": "Boss, what kind of guy are you you're moderating reddit comments by day and you're watching indian news television by night. No, no"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:35.340",
+        "message": "How do you live?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:39.180",
+        "message": "How are you sane I mean the answer i'm quite no i'm not quite sane But no i've there's I can only take so much of dangerous cancerous objects at a time. I chose reddit But yeah That's generally the trend what was okay in our previous world of television and books and arguing it's not okay online"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:00.380",
+        "message": "I'd actually say now sure technology is enabled all this and turbocharged all this but I think all these I disagree"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:05.420",
+        "message": "I'd say it's created. It's not enabled enabled"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:07.900",
+        "message": "Enabled is I think the wrong word. See i'll tell you what I mean one thing for example I think you'd agree with me is that the world is becoming more and more tribal And we've always in terms of instinct the tribalistic instinct has always been there It's only now that technology has brought it about so that we find more and more of these finely honed Sort of tribes which nevertheless have scale because we can reach out to anyone else in the world For example who may hate mongoose? So, you know, and and so all these all the people who hate our keto Down with our keto down with our keto. Yeah, I mean I I've had heated arguments online with people about keto and You know, which is on the face of it completely bizarre because you know, you eat what you eat Well, I mean, would you argue in real life?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:50.940",
+        "message": "I think there's so many stupid things which are so the amount the ability for stupid topics to become massive points of fracture Is absurd i'm i'm actually seeing in some forums that there's a growing north-south divide between india itself with something Which I didn't I literally saw grow out of nothing And now because it's there it's online there's data which can back up both opinions and people who are angry about something It's going to grow you give a fracture point and you allow people a topic on which they can have different opinions The internet will go to work helping Separate those groups and make those new echo chambers"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:23.980",
+        "message": "Well, i'm just going to say that bombay is out of this north-south debate because we get the worst of it The south thinks we are in the north and the north thinks we're in the south. So no one no"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:31.900",
+        "message": "No, what you're saying? Bombay is broken up between north and south"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:36.300",
+        "message": "We've had that running feud going on since when that's internally Like another aspect which I think is an aspect of human nature But the internet amplifies is a performative aspect in the sense that we are all putting on an act for others all the time And we're trying to show ourselves as noble or knowledgeable or whatever Every action of ours in some sense is an act of signaling Yeah, and the internet allows you to do that on a massive scale to the point that I think everyone on twitter today Is just performing. No one's actually communicating. Forget twitter. I want from what I see on other people's facebook"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:02.860",
+        "message": "I want their facebook life. I don't want their real life. I want their facebook. Yeah, exactly Everything is happy. Everyone's birthday is remembered holidays are the best the food is the greatest And you only show up when you had a great day I know exactly and and and I think the mistake people made I think uh"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:18.380",
+        "message": "was it um There's a great book called. Um, everybody lies by noah stevens david owens If you've heard of it where he talks about where he essentially looks at Millions of google searches and social media searches and all that and finds out what people are really like aside from their performative aspects And there's a very striking line in that. I don't know if he's quoting someone or he's saying this himself But there's a very striking line of how people tend to compare their real lives with other people's facebook lives"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:44.780",
+        "message": "Yeah, and it's it's a source of such pain and angst It's like keeping up with the joneses but on steroids and it's not just the joneses who live next to you It's the joneses, you've known all through your life Everyone but the flip side is i've gained new skills"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:59.100",
+        "message": "I am officially the best selfie taker in bombay, which would never have happened Had there not been a performative side to me also, but but to get back to this, I mean, this is Really a subject far more serious than I think either of us even know how to express Because what is happening in the world is that politics everywhere is becoming more and more tribal people have stopped talking to each other No news is real news. All news is in some way or the other fake news in a sense We are all living in our imagined universes and feeding Basically, there's so much information coming at which point do you just give up and say forget it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:29.340",
+        "message": "Yeah, let someone else make the decisions because I really can't make out the signal from the noise what mitigates this What medicates this or what can mitigate this what I really don't know Because even just discussing this topic, there's so many things being left out about changes and in the way even a simple site like reddit works I think the only thing that mitigates this is what one of my friends did. So he's really balanced chap He's got a great sense of humor. He's generally as a person He's a really good person and he's still not a pushover or anything. He's just generally very nice He I spoke to him one day. I was like, dude, you know what's happening and so on so forth He basically said he's cut off. He's shut down all his social media channels He's off of social media. He really doesn't care what his friends are doing and he's spending his time practicing guitar doing his work He has just cut off and that was the first time I saw a ray of hope On how to deal with this and that's strength from one individual I think most of us are frankly just addicted to the dopamine rush of the next notification"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:22.940",
+        "message": "And it takes a lot of willpower to cut off and most people just go with the flow and they don't do it Well, we're going to figure something out because as you said, it's a dopamine rush"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:30.940",
+        "message": "But at the end of the day the other analogy to look at all of this interaction online, it's like going to gym It's about healthy conversations and healthy habits and How many of us eat healthy and how many of us at the start of the year decide we are going to go to gym? And we're going to be the best person version of ourselves. We can be i'm going to exercise I'm going to make sure i'm disciplined and i'm going to make sure i'm better and happier with myself. Those are the same Issues which you find online. It's not that everyone just generally a lot of people aren't really happy when they abuse someone I mean at the end of the day, they may say okay that guy deserved it And another aspect is that I would rather have constructive conversations Or I would rather be part of constructive and educational conversations and not either waste time or eat intellectual junk food Now, so the question is One, eventually when do any of these things happen? So the question is one eventually when do does everyone recognize that there is a certain sort of gym for the mind? Or certain habits which we have to inculcate as normal users of the internet in the way we interact so that We don't cause harm to ourselves. We have good conversations and we make others around us happy And two when are we going to find the self-discipline to do that?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:45.420",
+        "message": "So, you know, I know your earlier question about new year resolutions was rhetorical but this new year I made a resolution that I would I do a life hack basically And in the four months since then thanks to a certain subreddit and I think you know, which one i'm talking about I've lost 15 kgs since the start of january. We're in may right now. So the keto subreddit on no, I don't particularly go there much but I think it's an incredible subreddit and I'd heartily recommend it to anyone who wants to Get their lives together. But again one like there's a guy called adam alter who wrote a very good book called irresistible About how people are hooked to technology all the time Including a lot of social media and there are apparently apps you can download Which will tell you how often you look at the phone in a day and the average person picks up their phone every seventh minute Once every seven minutes of the waking day not when they're sleeping though And most people don't realize how hooked they are to all of this And therefore these constant distractions of these notifications prevent them from doing any kind of deep work deep thinking introspection discovering other offline joys we've all kind of Become slaves to the internet and it's it's easy enough to understand this at a rational level and say that. Yeah"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:59.360",
+        "message": "I'm going to uninstall But it's very hard to actually do it. You always exactly so as someone who has repeatedly failed using these apps My sincere advice is that they will come a time when you actually genuinely want it only download the app then Because eventually what will happen is that when you use these apps you figure out a way to work around these apps So when you're serious download them and use it for the first time Because once you figure out a way around it, then the charm becomes a lot Their charm decreases then it becomes a straight-up test of willpower Anyway that particular insight aside from someone who has tried and failed I think there's a lot of there while there are what you have done is very positive in general If you are self-directed and you are able to focus then yes, there's a lot of stuff you can get online But other than that the internet is designed In many ways to deal with our Weak spots in our mental heuristics like in the way our brain works. We know a lot of research We know even before modern like google and everyone else showed up We already knew a lot about how people behave with colors with stimulation and we'd done like the first basic piece of research Found that if people are not on your website for more than a few seconds They're gone. Like if you're not engaging them in the first few seconds, they're gone and that's it Your site is dead. And so even basic websites back in the html days from that time onwards they have been Constantly evolving to be so lovely. So just genuinely smooth buttery smooth on your phone Quick responsive pleasant to look at all of these things just so that they can engage you because And here we can discuss the economics of it and whatnot But let's just just focus on how these websites are designed Websites and most of the programs today are using a full arsenal of psychological and technological tools to keep you there I frankly think most people are unaware of it. I don't think most people are prepared I'm certain that in any one kilometer 10 kilometer radius around you anywhere in the world. There'll only be maybe 0.1 percent of the people who know what tools are being used against you. I I absolutely agree even less than that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:01.680",
+        "message": "So let me pose you a thought experiment with two questions Supposing somebody i've heard some version of this perhaps from robert nozick. I forget Uh, so i'm afraid I can't attribute the original because i've just forgotten but supposing someone creates a pleasure machine Right now the pleasure machine the end of humanity is there No, no, so the pleasure machine is an advanced machine which which puts electrodes in your brain and everything And then you're no longer in the real world. You are in this Artificial world, which is one of your own designing where only good things happen to you and you're 24 7 for the rest of your life. You're in this extremely pleasurable experience and you can design that experience It is whatever you want it to be One would you say that that's a good thing for society if everyone has one like that and two Would you yourself opt for it? And an honest answer because the obvious answer if you're being"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:12:52.720",
+        "message": "If you're being performative the answer is no I want to live the real life"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:55.840",
+        "message": "I want to go to the fields and so on and so forth, but what's what are what are we after?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:01.520",
+        "message": "As human beings I have an I love sketching. I have an active imagination from my child So any fantasy world I create will be extremely meticulously created to keep me very happy I think you put that thing on my head once i'm done building it You wouldn't get me out of it. I would fight for my life for my right to be completely and utterly befuddled and why not? You've just described heaven. You've described see the only thing limited what will happen is that Fortunately, I don't think anyone can create a machine of that level of sophistication Because that level of detail will always be difficult. But what you'll have is your brain will give the detail"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:34.480",
+        "message": "You uh, you'll just everything I know about basically about people's ability to be very precise in defining"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:39.760",
+        "message": "A world is poor, but what will happen instead is that people will start with the first minecraft like worlds Then they'll share it with each other and then there's someone will start and over a few months and years You will get worlds of increasing sophistication and finally all of that the community of those creators will just go inside and never come out And why not that's a perfect world and isn't that the world being created for us?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:58.560",
+        "message": "It's not exactly a pleasure machine, but it's more like a A numbness machine where you know people can browse facebook for hours or you know"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:07.760",
+        "message": "People can browse facebook for hours or look at it for hours So a different perspective on this is i'm a gamer and one of the reasons why Uh, i'm aware of a lot of these tools is because they've increasingly been put into games But there's one gaming company nintendo which builds games with a very different with a very familial Focus focus on the family and how to interact and a lot of their games are a lot They feel healthier like they created the wii initially and that was a different way to interact with games I mean generally speaking people don't like playing getting up and moving around your calories are used in your thumb Any more and why the hell you could just go out to a dance class But they built that because I assume at some level they felt that would be an interesting way to get people to work together so there is a certain sort of Outlook and mindset you can have when designing these products which is not built on the old silicon valley Network effect or you must absorb everyone into your network Which is more human and humane or at least that's my hope There's a way to look at it and say that you know I'm going to prioritize values which are more about interacting and making it easier for people to interact So maybe the material will be slower Maybe the material will be less flashy Maybe it won't use the fastest engine in the world or the fastest chip and it's not going to be that maybe it's not Going to be made out of magnesium and chrome, but i'm focusing on Meaningful ways for or tools for which which with which people can interact and build their own Stories and their own things I think at this point of time we had to discuss a little bit about the dynamics of the Economy behind a lot of the large firms which are influencing us Fortunately, a lot of these firms like google facebook genuinely at some level want to do well for the world Unfortunately at some level they are not going to because they need to deal with their shareholders To deal with their shareholders and they need to compete and that means keeping people on their platforms"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:57.680",
+        "message": "What would doing good with the world mean in the context of google and facebook make their products less addictive?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:04.640",
+        "message": "I think in their terms it would be One you could say make their products less addictive But that doesn't really solve the problem because then that'll just bring someone else up and say hey, you know"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:12.720",
+        "message": "What look at my new shiny addictive app"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:14.960",
+        "message": "Right. So then it would be about the next step of responsibility Which would be deploying the amount of people and work required to ensuring that this is customized for a lot of things and frankly, I think that's beyond the scope of most firms and beyond the scope of what most markets and most Shareholders really expect of their firm. That's quite often a role for governments and for people to decide so"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:38.900",
+        "message": "That's very hard and I think I think the aspect of it, which I have sort of difficulty in reconciling I'm, not sure how I feel about it. Uh, tell me what you think is that Here are you and I sitting and making a judgment of these kind of behaviors on the part of firms are bad for society But then the point is that as long as all actions are voluntary If there are a million people sitting in their homes who want what facebook is giving them who want that numbness who want that addiction Who don't mind that uh, who don't mind that being in echo chambers and not communicating with the rest of the world Then what right does someone have to get in the way coercively? So I think let's move back a lot ideologically"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:21.460",
+        "message": "So this ideologically speaking is I am an individual. I have a choice over my right What right do you have over deciding me? And I think this is a great ideology if you lived alone In especially in a country like india, which is as crowded. So if you had like infinite, I actually disagree"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:38.500",
+        "message": "It's it's an irrelevant ideology if you live alone, but if you live in society This is the only ideology which can actually safeguard everybody if you pay attention to consent and if you fight coercion"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:50.180",
+        "message": "I think we're lucky to be in india in that sense because while In india, you very clear clearly live in a society where that's not the founding father's intent belief or system and there is such a massive Amount of ideology online and words online which find roots in the old school american types in the well not old school modern modern thoughts which Permeate america or used to permeate online conversations if you're within that particular subset of people So I think I've grown to appreciate how you can manage to Have speech have a working functional marketplace Without having to go for massive and utterly completely unfettered speech"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:36.260",
+        "message": "Uh, leaving leaving speech aside for a moment once you agree in principle that the government Uh should be able to impose certain preferences on people coercively Then how are you to decide what preferences those should be? So then it comes around to your saying that hey, you know Amit and me are wise and we will decide and these things are bad for society. I know why not someone else I know better than you it comes around to that. It's much better to let individuals make their own choices"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:02.500",
+        "message": "While once upon a time, I would have been sitting on the other side of this conversation The point is that someone is making a decision Anyway, you don't decide it and you don't have responsible people and a judge jury laws behind it Then some random dude in a suit is going to make it because they have to and that decision is being made By me and many other moderators every day because it's necessity. It's a part of your volunteer work"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:26.100",
+        "message": "So what you and your fellow moderators do is in no way an issue for me It's not even a free speech issue because it's reddit as a private company"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:34.180",
+        "message": "but that's just a but that's a distinction based upon a very See if we forget about private and public those at some point of time They're useful as solid concepts and sometimes they're just a dodge. They're just sort of a Superficial fig leaf when we're actually looking at the mechanisms Not always not always but if you're actually looking at the working Of that ecosystem if you're looking and seeing how whether actual ideas get across i am bothered That in some ways moderators if they go rogue can end up shutting down entire portions of the kind of a lot of harm"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:03.780",
+        "message": "But i'll tell you what, I mean I look at the world through the prism of consent or the other side of that coin coercion. Now, the thing is that If a reddit moderator bans me if I say something, uh Then it's bye-bye. Yeah, then it's bye-bye, but it's fine. It's it's voluntary I can go somewhere else but if the indian government strikes down on my free speech, I I can't go anywhere else I'm forced. I mean that is absolute coercion. I go to reddit out of my choice But I am not under the indian state out of my choice. There is coercion there Uh, and that is and and that's why the whole question of private and public is not a semantic issue It's an it's an issue that goes back to first principles So for me anything that involves coercion is wrong And if something doesn't involve coercion, then the question has to be asked very seriously. Why is this wrong?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:53.700",
+        "message": "Is it just your judgment fair enough now? So let's there's two problems with the way the current internet is laid out For that particular thing. So one of them is competition, right the The you know about the network effect, right? Of course the basic value of a network or a group of people is whether they have how many people they have on it That tends to mean that most snapchat reddit facebook twitter are one of a kind. There's no competition, right? So if you're not on that place, you're nowhere Yeah, that means that you're you're fundamentally your opinions have been silenced"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:24.500",
+        "message": "Yeah, but the counter view to that which in fact if you heard my episode with your namesake nikhil pawar Where he brought up the same point and the counter view to that is yeah sure it seems in terms of a social network There's only facebook in terms of you know A certain kind of forum or community there's only reddit and they're behemoths and it's a network affected play But on the other hand they are all competing they are all competing with everything else a person may be able to do with their Time so if I feel after a while That facebook is wasting too much of my time or they're not giving me value"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:57.140",
+        "message": "I can read a book I can go all of these things are optimized As again that comes back to the point of what they're optimizing for all of them are using behavior. They're using basic Reinforcement schedules you will always get a dopamine hit. Now. You'll have a random period of time. It'll get another dopamine hit They're all designed to make sure that your interactions are of a certain nature Which is generally fast and smooth so it gets to that particular sector. So even if there's competition It's not really competition for hearing that you're it's not that you're going to be heard"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:25.060",
+        "message": "You're saying they've turned us into sheep and we don't really have a choice So the whole concept of I mean the consent really doesn't apply here. Is that what you're saying?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:31.380",
+        "message": "I'm saying that consent that's a very hard statement to take and considering how subtle these effects are for It's very easy to take make that statement. It's very hard to back it up with hard facts"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:42.020",
+        "message": "No, I'm not even disputing it. I'm not asking you to bucket. I'm not disputing it No"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:45.700",
+        "message": "But if you're if you're going to be honest about our positions and if you're going to make that effort to go to that Mental gym, we have to start with making these really fine distinctions. No, but here's the thing. I am completely okay"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:56.020",
+        "message": "Taking what you say is what I say that yes, we are all manipulated and we are in fact I don't believe in free will but that's a different philosophical That's a different philosophical argument, but but the question is that yes We are being manipulated and we are much less in control of actions and we think The tough question to me which I can't get around and i'm not even saying that a is the answer or b is the answer The tough question to me is that I am fundamentally against coercion because I think coercion Is toxic to society and you don't want to give anybody that power And the thing is that if you want to solve this the only solution that people keep coming up with That nikhil came up with for example uh was not you nikhil was the government should step in and it's almighty wisdom and You know regulate these companies and that's the only option I think that's the worst possible option because you can always assume that the government will be taken over by interest groups of one Kind or the other and I think there has to be some other way forward And and do you see hope of some other way forward emerging in the sense that after this cambridge analytical scandal with facebook A lot of people though possibly it's a selection bias on our part because we know those kinds of people But a lot of people did a quit facebook thing and uninstalled it uh Do you see something like that happening over a period of time as people realize that it's harming the richness of their lives? Or do you think that it's a fait accompli?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:24:17.860",
+        "message": "I think the The way the question is laid out. It's very easy to answer. I think it's very easy to say. It's a fait accompli because I think everyone who's listening everyone who's used got a mobile phone Has facebook installed and they know how many times they're going to look at it Or how many times they're going to go on whatsapp and see the same forward come around according to adam Walter they actually underestimate how often they will look at it, but they know yeah, right so I think that it is fate because you are On that little black piece of metal you have in your pocket There are lists and sits the collective ability of every marketer that has ever lived every psychologist that has ever lived every programmer That has ever ever lived and it's there to find your mental weak spots To find that moment when you are willing to change an idea when you're willing to engage in something else. I think That device is built by people smarter than you who have been paid to be that smart And it's designed to beat you or not necessarily beat you. It's designed by people who are hoping to help you But unfortunately our way of defining this help so far Has ended up having lots of unforeseen or foreseeable side effects, which people went ahead with anyway so The private industry as a whole has followed the incentives correctly And has explored this new territory and we have found that what genies we have left out of this bottle Are not going to go back and that leaves very precious little behavior, which we can control So in the same way, which we today look at obesity and we look at junk food I think eventually it's sooner rather than later We are going to have to deal with this The question is whether we have to deal with this in the manner, which we talk about junk food Or whether we talk about in the manner we discuss cocaine That's the main issue Now the problem is that cocaine and junk food are on a very simple spectrum stuff we ingest These are ideas. We are talking about News of fake material put out there to affect the way Countries function, which is the most recent thing. But before that we were talking about harassment There's been a very innovative way which moderators were harassed recently for When avengers released people started putting spoilers of avengers Spoilers of avengers infinity war all over the place, right? And since you're now that in that will always hurt moderators more because the moment you see it you're like crap spoiler block But every mod who comes back to that thread We'll see the spoiler because those while it's blocked for normal users Everyone else all the other mods can see it. They can see all the other comments which have been removed You can always review what's happened and for all the users who didn't know you could do this. You've now told them well done"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:02.740",
+        "message": "Hey Bhagwan cancel remove We shall censor this portion, right? but we were broadly talking about online conversations and the way uh, we as society the way we interact with each other has changed because of uh, Changed actually in front of our eyes in our in our uh, yeah, very fast respective lifespans Uh, so i'm going to end the episode by i'm asking you two questions. So you've struck a note of Despair in this but the two questions I tend to ask my guests before they leave Uh in in the context of the subject is what makes you hopeful? About um the internet and what it can do for society and what makes you despair?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:40.900",
+        "message": "Most of it makes me despair, right? Is anything let's move on to the slightly more hopeful part there So there are parts which work and these are almost always the parts which involve Curation and effort. So one of the subreddits which works really well Is change my view? and change my view is a very neat subreddit because They have a bunch of rules and they have a very constrained Format and the format is that you must ask a question You must state your view and you must want and be relatively genuine in wanting that view changed and The first response in general has to be someone making a serious stab at attempting to change your view this is sort of the part where This is what remains of what our hope for the internet was because Instead of being this really large place where everyone gets together and meets and shares idea. It's become this very large set of Fragile eggshells where people go inside and they stay there and look outside and look at other people and abuse and say everyone Who's inside that egg is horrible Change my view is this place where people the few people who actually have an open mind or actually may be willing to have their Minds changed Show up and they say okay Okay, I am in a position in my life where I am thinking about this thing Give me a way to change my attitude or change my thing and that's the place where I see"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:03.860",
+        "message": "What remains of what we actually intended or hoped the internet would be is there a correlation between on the one hand the level? and quality of curation And on the other hand the popularity"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:14.420",
+        "message": "well, if you say quality of curation and popularity for sure because um It's very If you have a good topic and you have a way to say that this is how we're going to curate for it Quite often you'll have decent amounts of popularity So yes in a way they are related But then you can also be a very good curator on a very boring topic and no one will come there and also that's within reddit"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:38.100",
+        "message": "Reddit already is a self-selected community of people who have come there and registered because they want to interact and they want to engage while people on facebook and twitter and so on are just passive consumers or whatever is being fed to them and Often in very manipulative ways like you pointed out correctly um And and and the facebooks and twitters of the world are way larger than even"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:01.620",
+        "message": "Reddit so reddit is not on the radar for a majority of people right It shows and frankly reddit has a is notorious It quite often shows up for all the wrong reasons, which is another reason why a lot of people want to have Restrictions on free speech there used to be old subreddits like jailbait Which literally had pictures of people of well, well, let's just say borderline images of young people which were borderline pedophilia that all Went down in a bundle of flames eventually when people said this is not okay, but that's the sort of side of free speech"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:36.660",
+        "message": "And so in fact that thought comes to my mind that i'm not hinting at something about you here But isn't being a reddit moderator the perfect job for someone who likes child porn because they'll get to see a lot of it Even if they have to delete it, they'll get to see it"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:50.980",
+        "message": "no, fortunately reddit, uh at this point of time and generally because of its attitude of consolidating information has managed to Always keep people in silos. So unless you were interested in that you would not find it in the first place"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:05.460",
+        "message": "Excellent. I'll just I was just pulling your leg Uh, thank you. Thanks a lot for this conversation. I've you've given me a lot of things to think about and Hopefully curators like you can keep making a difference in our world. Thank you very much for having me If you enjoyed listening to this episode do go over to seen unseen.in To browse all our past episodes and if you have any of the problems nikhil spoke about like obesity or you eat too much junk food Go to the keto subreddit. It'll solve all your problems. Thank you for listening"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:31:51.140",
+        "message": "As you can see we have a podcast listener in his natural habitat Billions of years of evolution have led him to this point He's on his way to work and listening to podcasts makes his miserable day better He will now head to work and use all his knowledge to communicate with other colleagues and possibly future mates You can find more of his species on ivmpodcasts.com Your one-stop destination where you can check out all the coolest indian podcasts. Happy listening"
+    }
+]

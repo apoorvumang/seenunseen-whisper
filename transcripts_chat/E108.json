@@ -1,0 +1,617 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:00.000",
+        "message": "India, like the rest of the world, is rapidly urbanizing. But our governance and our politics does not take this into account. My guests in today's episode are Ruben Abraham and Pritika Hengurani from the IDFC Institute, a think tank that focuses not just on ideas, but also on ways and means to turn their ideas into reality given the state of the political economy. One of the areas in which the IDFC Institute has great expertise is cities and urban planning. And I invited Ruben and Pritika to come on the show when I read an article by them in Bloomberg, linked on the episode page for this show, about why India is more urban than we think and why that distinction matters enormously. It's a fascinating subject, but before I take you over to our conversation, a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art, like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vazvo X Vazvo, Brinda Miller, Dilip Sharma, Shruti Nelson, and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to IndianColors.com. That's colors with an O-U. And if you want a 20% discount, apply the code IVM20. That's IVM for IVM Podcast. IVM20 for a 20% discount at IndianColors.com. Ruben, Pritika, welcome to the scene and the unseen. Thank you."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:59.000",
+        "message": "Thank you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:00.000",
+        "message": "Ruben, before we sort of get to the topic at hand, tell me a little bit about the IDFC Institute. What does it do?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:03:05.000",
+        "message": "So, I'd say broadly speaking, it's an institute that was set up as a sort of think-do tank. And the reason we say think-do tank is because most think tanks and academic institutions tend to restrict itself to asking what questions and why questions without getting into the how of it. And most public policy interventions actually get stuck on the how of it because the how is where political economy gets involved. So, we're actually involved in what we sort of broadly sort of define as ideate, innovate, implement, institutionalize. Those are the four stages of public policy as we see it. So, we obviously have some deep sectoral knowledge as well, but I think you can actually apply this principle no matter what realm of public policy you look at. So, that's broadly speaking the remit of what we do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:55.000",
+        "message": "So, essentially you go in there saying not just that we're going to find out what policy works and should be implemented, but also what policy can practically be carried out and pushed through the\u2026"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:04:04.000",
+        "message": "That's right. Because ultimately in public policy, if you aren't capable of implementing it, what's the point? Right. And so, unlike other think tanks, you actually want to make a difference. I think most think tanks would like to make a difference. I think the problem is that in general people who are technically trained, therefore have a bias towards thinking that a solution is also technical. Right. Keep in mind, I had exactly the same bias, right? So, when you look at a problem closely enough that you realize that the technical piece is important, obviously you can't do anything without the idea in the first place. But once you have that, and specifically in public policy, you've got to see it through. You can't leave that to someone else."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:46.000",
+        "message": "And what are the sort of areas in which, you know, IDFC has expertise where you try to make a difference?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:04:51.000",
+        "message": "Yeah, so I'd say broadly speaking, so beyond the, what we described as sort of state capability, governance, all of that, which are more sort of horizontal generic knowledge. I think the specialized knowledge is across three verticals, which is urbanization, the reform of the welfare state, and the criminal justice system. Those are broadly the three areas where we have deep expertise."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:13.000",
+        "message": "Right. And, and Pritika, you've done a master's in city planning from MIT. So, can I ask how you got to that? Like, you know, how did you begin to look at cities differently once you actually did your courses and so on?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:27.000",
+        "message": "That's a great question. So my undergrad was in development economics. And so I think I started with an interest in development questions. And then I worked in economic consulting for a while, so completely different. And then when I was going back to graduate school and had conversations with my advisors, I think the way I thought about cities was the location for development. Right. And so, I mean, the reason I was interested in cities is a very multidisciplinary topic. But I think also in the way in which we think about city planning, we have to be prepared to think about economic development. And then, you know, physical planning, transport planning, and a whole host of other things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:07.000",
+        "message": "Just the sort of term city planning seems to denote a top down way of thinking. And obviously, you've done economics before this, so you understand how market works. And, you know, cities also are another form of spontaneous order. Did that make a difference in how you looked at city planning? And who are the sort of the people who influence the way you look at city planning?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:27.000",
+        "message": "So no question. In fact, I was one of the few people that came from a fairly solid economics background, and I wasn't afraid of our urban economic classes. And I think what ends up happening is you have generations of planners that think of cities as sort of a top down. So not only take a top down approach to cities, but also think of markets as something you can plan and you can't. And so I think that's definitely, you know, something that I took away from the program. The two people I think that influenced me the most is Alain Berto, who's at NYU and Vimal Patel, who's done an incredible job of planning and economics in India. And who's joining you guys in ideas. Yes, who's joining us as a fellow."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:08.000",
+        "message": "And in general, Ruben, you wrote a piece recently with Robert Maga where, you know, I'll quote from that where you guys say, cities, not nation states are the dominant force of human civilization in the 21st century, humanity transition from a rural to a primarily urban species, Homo Urbanus at breathtaking speed in the early 1800s, less than 3% of the world's population lived in cities. Today, more than half the global population is urban and by 2050, the proportion will rise to three quarters. Stop quote. Why has this move towards urbanism happened? And what are the sort of challenges that then holds?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:07:43.000",
+        "message": "So, yeah, so I think what cities really do is they provide you economies of scale and economies of agglomeration. And those two sets of economies basically allow you to sort of build job markets, labor markets specifically. And I think the reason why people generally move to cities, and I think this is perhaps sort of Alain Berto's great contribution is to define cities as labor markets. And these are not the creatures of an architect's imagination, so to speak, right? I mean, so yes, people like us perhaps have the luxury of saying, you know, we live in Mumbai for X or Y reason. But the primary reason why most people who have moved to Bombay have moved here is purely to find a job. And that's true of most cities around the world. So, in effect, the cities are just labor markets. So, you effectively move to where the jobs are. Equally, there's another transitional phase that has happened over the last 200 years, which is the transition towards through industrialization through to service economies, right? I mean, so we were primarily an agricultural society, no matter where in the world you look. And then you have industrial society. So, surplus labor comes out of agriculture. They need to be employed somewhere. That's the industrialization process. And then as productivity goes up in the industrial sector, you start moving into the service sector, right? So, that's the process by which it happens. So, the question is, what is the location of industrialization and what is the location of the service economy? And those generally tend to be cities because you actually start agglomerating people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:12.000",
+        "message": "And obviously, it's natural that, you know, people want to be in as large economic networks as possible. So, they come to cities and it gets denser and denser."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:09:19.000",
+        "message": "Yeah. And does it at some level\u2026 So, again, from a job market perspective, it also allows you to shift jobs. Yeah. Right. I mean, so the larger the market, the more opportunities there are. Division of labor, specialization, blah, blah, all of that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:31.000",
+        "message": "And does that in some senses conflict with how a nation state sees itself? So, for example, here you have, say, the city of Mumbai, where people are coming because of the economic networks here. There are all kinds of jobs, no matter what your skills are, you can specialize and so on and so forth. But at the same time, you have a lot of regulations which put restraints on this kind of movement and cohabiting together. For example, we were talking about FSI before this episode and I've done an episode on that earlier with Alex Tabarrok while he was with you guys in Mumbai. So, is that a conflict which somehow needs to be sorted out between governance and the natural spontaneous order which brings people to cities?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:10:09.000",
+        "message": "So, as the city's economic base evolves, the built form needs to evolve as well. So, I think the example we were discussing is the meatpacking district in New York. So, you know, when it's a manufacturing or, you know, hub, you need a very different built form than when it's a services hub. So, allowing for higher FSI as your economic base changes, putting in more mass public transit as you have people, more people coming to work versus people being able to drive in is very important. And so I think when we don't allow planning to evolve, we end up stifling the economic base of our cities."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:45.000",
+        "message": "Right. And just for my listeners who might not be familiar with the term, FSI basically means how high you're allowed to build. Nuts and bolts, that's what it comes down to. I had an episode on this with Alex Tabarrok, which will be linked from this episode page, which had the title of Reclaim the Sky, where Alex eloquently said that why should we reclaim the sea? And, you know, Mumbai can't, you know, expand much in terms of its geography. We should reclaim the sky and kind of expand upwards. And that's just sort of one example of the kind of regulations which hamper the natural movements of cities. But to this, critics would say that you can't just have anarchy and people going wherever and you need to somehow control all of that. How do you respond to that?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:11:27.000",
+        "message": "So you do. You cannot have. So FSI, floor space index, is basically a ratio that defines how much floor space you can build as a ratio of your plot area. So it's a technical term and it takes into account things like the location of the plot. It could take into account the soil quality, accessibility. So at a given point in time, a certain plot may have certain features and so can only support, you know, so many people. What we forget is that the carrying capacity of a plot can be enhanced. So if an area is serviced by a road, for instance, instead of the road, you can put in place BRT or you can put in a metro. And so that same plot becomes accessible to so many more people. Now, there is a cap on how much a given plot can take, but then it's for planners to tweak those over time. And so I completely understand why people balk at, you know, higher FSI and lower PRL, because all you think is I'm constantly stuck in a traffic jam. It's hard to walk or to get anywhere. You know, how are we going to have taller buildings with the given transit? And I think what's key that city governments do is enhance carrying capacity at the same time that they allow the area to densify. The other thing that often gets conflated is density of people and density of space. So if you look at the older parts of Bombay, they were built, you know, to a certain height as the areas became more desirable. The amount of built space didn't change. But because more people wanted to live there, they just subdivided and you had more people living in the same amount of space. If you instead recognize that there is demand for an area, allow the buildings to redevelop, you know, taller, more space, you will actually get the same number of people in slightly more space. It, you know, has implications for affordability as well. If you think of land prices as a constraint, the best way to sort of lessen that constraint is to divide the land plot by larger number of units. And so I think the sort of reflexive response to FSI doesn't take into account a large number of these factors."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:13:41.000",
+        "message": "I think there's also an interesting sort of underlying question here, which sits at the sort of heart of public policy, which is how much regulation is enough regulation? Right. I mean, and the fact is, none of us really know how much regulation is enough regulation. Or even how much regulation is too much regulation. It's too much regulation. Right. So I think in the urban context, I think the sort of gold standard is the Commissioner's plan for New York City. That was really a thought experiment that was carried out in 1811, where the state government of New York basically commissioned, Governor Morris basically commissioned these three people to do a thought exercise. And the scenario they were planning was, so New York at that point has, is mostly concentrated in the tip of New York, around Wall Street. And it has approximately 25,000 people. So they basically said, let's do a 200 year planning exercise where the population of the city will actually go from 25,000 to a million. Now, let's plan for it. This plan is the street grid of New York. Right. So keep in mind that nothing's built. It's just a statutory map that's basically been put into place, which says, if New York grows, if the economic activity in New York goes up and therefore people move here, etc. This is the way the city will actually grow. So if you look at the underlying base map, for instance, you won't see Central Park, but Central Park is like a Lego block. It's literally been sort of placed on top of the street grid. So the width of the roads, the size of all of this was determined in 1811. But they didn't then go on to basically say, you will have X kind of industry here and Y kind of industry there. They said nothing of the sort. They simply said, if the city grows, here's how the city will grow. And there's an underlying street grid that basically allows for this growth of the city. And funnily enough, like, you know, some of the old Indian cities are actually built on street grids."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:39.000",
+        "message": "But were they planned or did they just happen to come up with street grids?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:15:42.000",
+        "message": "Yeah, they were planned. They were planned. Because I mean, they're literally perpendicular. So if you go to old city of Jaipur, you will see it. There's a grid exactly like the New York grid."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:49.000",
+        "message": "So how much should you plan? Like, okay, at the level of the street grid, you just pointed out, it makes sense. What is too much? Where do you draw that line?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:15:57.000",
+        "message": "I think too much is the point at which you become too static and don't allow for dynamism. So it's a little bit like what Pritika was pointing earlier, which is things keep changing. Right? I mean, so the economic profile of a city moves. So New York used to be in garments, and then garments just disappeared. You need to allow the city to actually move from one industry to the other. So anything that prevents the dynamism involved in the ability of a city to adapt to changing conditions, to me is too much regulation. Such as? So let's take the FSI of Bombay. Right? Just keeping a strict 1.3 all over the city of Bombay, to me, it's just, it's a static."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:37.000",
+        "message": "Well, other big cities are 15 to 30 and so on."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:16:40.000",
+        "message": "But again, it's very granular. Right? I mean, so when you say 25 in Singapore, it's not all of Singapore. It's the CBD of Singapore, the central business district of Singapore that has 25. So you just need granular planning, right? Which then allows for the city to evolve based on how the market dynamics work. So it's not like I am suggesting that this is the only way that the city will evolve. I'm saying, I don't know. So let's actually have a system that takes into account ignorance and you're just as ignorant as I am as to where the city goes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:12.000",
+        "message": "So what you just pointed out about New York was in a sense, it feels very unusual to me because it's these guys planning way ahead of time before there's even really a city there. But typically how city planning happens, it would be fairly reactive. Right? Because otherwise, what's the impetus for planning?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:17:29.000",
+        "message": "So I'm not entirely sure that is the case because you've got any number of examples of cities that are built on a grid. So if you actually look at the United States as a whole, I mean, there is the Jeffersonian grid, which is, you know, west of the Mississippi, the entire United States is on a grid. And so you just need to go on Google Maps and like zoom into a place like Omaha in Nebraska and you'll see it's on a grid. And this is all stuff that was done ages ago. So Barcelona is on a grid. I mean, there's any number of cities globally that are on a grid. I think a lot of this really comes from if your starting point is that cities matter and we need to plan for it, as opposed to this is a terrible thing. You know, let's try to prevent people from coming in. I think your starting point matters. And so if your starting point is this is a good thing, we need to encourage it and we need to find ways to accommodate for it. I think you will come down a path that looks very similar to New York and Barcelona and all of these places as opposed to the mentality mostly here, which is urbanization is a terrible thing. And by the way, every single person who thinks urbanization is a terrible thing lives in a city."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:34.000",
+        "message": "Yeah, absolutely. And this is like I just did a couple of episodes with Ranguha on Gandhi and this was one of Gandhi's tropes that villages are, you know, India should be a country of villages and blah, blah, blah. So tell me in India, therefore, per se, how have cities tended to evolve and how has the planning mindset tended to sort of."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:18:53.000",
+        "message": "So I'll let the planning question be answered by Pritika, but just the Gandhi question. Keep in mind the fact that he was taken to task by none other than Dr. Ambedkar, who actually pointed out to Gandhi the hypocrisy of someone who grew up in a city and lived in London and Johannesburg and Pretoria and Mumbai, making the case for how great villages are. That's typically the way the case is made. And Ambedkar's point was I actually grew up in a village."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:21.000",
+        "message": "In fact, Guha made the point in his biography that at one point where he was in London, he'd gone for his education, Gandhi, not Guha. And Gandhi wrote an essay idealizing the pastoralists, the Indian pastoralists and all that. And there was a very funny throwaway line about Brahmin bathes every day, Vaishya bathes once in two days and a pastoralist bathes once a week. But otherwise, they are great. You know, they're healthy, they've got good bodies and they eat healthy food and breathe clean air. And Guha points out that until this point in his life, he had probably never spoken to a villager in his life, you know, grew up in Porbandar, Rajkot, urban centers, goes to London and so on and so forth. But that's a digression."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:19:57.000",
+        "message": "But just to just to continue that digression for a second, I mean, keep in mind, Gandhi is heavily influenced by Henry David Thoreau, who's also talking about the same thing in the United States, the pastoralist movement and so on and so forth. But yes, I mean, I think every country goes through this phase of the romance of, you know, this is the classic, you know, the grass is greener on the other side, except in this case, I don't even know what the other side is. It's idealized and sitting in my head."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:24.000",
+        "message": "No, and people demonize cities so much and yet everybody wants to come here. In fact, the very fact of urban migration tells you that a lot of the tropes that exist in our discourse are mistaken. For example, people say population is a bad thing, India's problem is population, but all human movement is a movement to places with greater population density because as Julian Simon said, people are the ultimate resource. And a similar point I make about inequality when I talk about inequality and poverty being very different things. And all of human movement is towards, especially by the poor, is towards places with greater inequality, which is cities."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:20:57.000",
+        "message": "And one of the things that, so I always think of cities as poverty digesters, right? Because it actually allows you to escape poverty. Exactly. Right? To which one of the sort of non-intuitive things that is always mentioned is, but then why are cities poor? Cities are poor precisely because there's more poor people coming in to get out of poverty. Right. So you're, that's what's actually going on. But if you actually, I mean, no one's actually, from as far as I can tell, no one's actually done serious longitudinal research tracking people across time to see if they got wealthier. But I think anecdotally, you'll see it everywhere you look, which is people have escaped poverty by just moving to cities."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:33.000",
+        "message": "I mean, I just say revealed preferences say everything. You don't need data beyond that. People just keep coming to cities and however much you decry slums, the people there are living there voluntarily. There is a reason for that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:21:43.000",
+        "message": "Yes. And slums, again, you know, people make the mistake of equating slums with poverty. Slums are the consequence of bad real estate policy. And that may be a good segue for Pritika to answer your previous question."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:54.000",
+        "message": "Let's get back to that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:55.000",
+        "message": "Have you forgotten my question? No, even I've forgotten it. Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:00.000",
+        "message": "So my question basically was that, you know, while abroad there might have been this tendency for cities to be drawn along grids and planning and so on and so forth. In India, I would imagine, especially looking at the state of our cities today, there's possibly been a little more anarchic than that, not in a bad way. And how have Indian cities like, you know, Bombay, Delhi, whichever, traditionally evolved and how have planners intersected with that in terms of the mindset that they bring to what cities are?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:22:30.000",
+        "message": "I think a broad way to answer that question is, you know, even if we had better planned cities at the core, I think an inability to allow our cities to scale has been the problem. So, you know, we just talked about slums. I mean, slums are really failing to appreciate the fact that people are moving to the city and what you need then is more formal sector housing. So what a lot of Indian cities have done, or industrial policy did to some extent, was to say, look, you know, cities are growing. You know, we can't control population. We aren't able to provide amenities. And so there was incentives for manufacturing to, or mandates rather, for manufacturing and universities to locate outside of cities. I think there's constantly, and this comes from the master planning approach, right, that we will spread development more evenly across the region, or we will not allow for densification. And so, you know, mandate that things spread out more evenly."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:23:28.000",
+        "message": "I'm not answering this question. I think one other way to sort of think about it is, I mean, and this may be controversial, but urban planners tend to think of cities the way they would think of buildings, right? Because a lot of them sort of come from this sort of architectural background. A building is a static concept, right? You can plan a building. To then apply that mindset to something that is fundamentally a dynamic, ever evolving organism, right? And then to apply these principles, I think it's just a very bad idea. And I think that's typically what has happened. If you look across the universe of planners who understand the underlying market economics of why people move and live in cities, I'd say that's a very, very small number in the world. That's a very small number in India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:12.000",
+        "message": "It would be minuscule. And would it be fair to say, to carry that analogy forward, that a building is made of bricks, but cities are made of people. And, you know, it's very dynamic. You can't plan, I mean, the same way you can't plan or control markets."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:24:24.000",
+        "message": "I mean, in general, you know, I mean, and you and I probably agree on this, I mean, I don't know is a very useful starting point on all of these exercises. And so exercising some level of humility to say, I don't really know where this goes. And then, you know, so let that humility be your sort of binding constraint. And then with that, now do what you need to do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:47.000",
+        "message": "You're a guy who interacts with politicians and bureaucrats and you're talking to me about humility. We'll take a quick commercial break and we'll come back."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:25:22.000",
+        "message": "We'd love to hear what kind of content you'd like to see us put out in the next couple of months. And yeah, we'd really appreciate any feedback that you would give us. We launched a new podcast on Valentine's Day called Dating is Garbage. Surabhi, Abbas and Janam talk modern dating and the woes and wows that come with it. Each week, they sit down with some very cool guests and have an unfiltered conversation about their dating habits, awkward experiences and heartbreaks. Tune in to hear them attempting therapy on each other. On the first episode, we have comedian Urooj Ashfaq discussing rejection. On Cyrus Says, Cyrus is joined by lawyer couple YP and Abbas Singh. They discuss what it takes to stand up to authority in court, corruption in India and how the MeToo movement has affected court cases. Also check out the hilarious Valentine's Day special of Cyrus Says where he was joined by Ayesha, his wife, Kunal Vijaykar and me. The four of us try to discuss and dissect romance really, really badly. On Simplified, the trio is joined by Meghnad and Shreyas Manohar. They discuss why learning school civics can help us understand today's political scenario and about their new podcast How to Citizen. On The Habit Coach, Ashton talks about the importance of substituting your regular table salt with Himalayan pink salt. On Crocs Tales, we have a month-long Valentine's special. Anand takes up classic fairy tales and gives them a modern Crocs Tales spin. And with that, let's continue with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:28.000",
+        "message": "Welcome back to the Scene and the Unseen. I'm chatting here with Ruben Abraham and Pritika Hingorani and we're talking about cities. The reason I invited you guys on the show was this excellent op-ed you wrote for Bloomberg, which is linked to the episode page, where Pritika, to quote from that, you guys said, India is more urban than politicians know or acknowledge. Stop quote. Explain that. Why is there a dispute over what is urban and how much of India is urban and why does it matter?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:55.000",
+        "message": "There's a dispute because the dispute arises from the definition that we use. So there's two ways in which we define urban in India. One is the statutory definition. So that just means that every state government sets its own threshold and defines what's urban and what's rural. And there's, you know, states use widely differing criteria. And once a state government recognizes an area as urban, it gets an urban municipal administration. The second definition is a census definition. Now, the definition changes over time, but the difference is that it's a uniform three part definition that's applied to the whole country. So it has a population cut off. It has a density cut off. And then what's interesting is it has an occupation criteria, which is that 75 percent of the male workforce needs to be non-agricultural activities. Now, this is not a criteria that's used widely across the world. And so our colleagues at IDFC Institute ran an exercise to say, so if you add by the statutory definition, India is 26 percent urban. With the census definition, India is 31 percent urban. Now, it looks like you're quibbling over 5 percent, but 5 percent in the Indian context is 55 million people, which is the population of South Korea. And so essentially what you have is 55 million people who live in dense urban environments, as acknowledged by the census, but don't have a local authority that's required to provide them with the basic services that you need with dense urban living. So things like sewerage lines, fire safety, building regulations. So that's just between those two, there's a problem. But then the larger question is, OK, you know, this is a definition we've chosen, but what does everybody else in the world do? And what if we use some of their criteria? So our colleagues ran an exercise to apply to simple population thresholds that, you know, Mexico, Ghana and a bunch of other countries use. And you find that when you apply different criteria, India could be anywhere from 47 to 65 percent urban. And so then the broader question is not what's the precise definition you should use, but is just the definition we've picked, is that obscuring the reality in front of us? And so the other piece of work we've done is using satellite data. And so satellite data is interesting because when you use administrative data, you're constantly measuring within a fixed administrative unit. So you could have two administrative units that are side by side individually, they fall below your thresholds, but the fact that they're side by side means taken together, they're actually an urban unit. And so, you know, when we use satellite data, we find these, you know, dense corridors growing out of cities that really should be considered part of the larger agglomeration, but aren't. And the reason that we're concerned is goes to what Ruben was talking about before, which is a failure to anticipate this means that these areas then develop and densify in the absence of any regulation, and then retrofitting these areas become extremely difficult."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:56.000",
+        "message": "So what I realized while reading your piece, which I hadn't known earlier, is that the definition matters because the kind of governance you get is based on the definition that a area defined as an urban area will get a different kind of governance. Just unpack that for me."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:12.000",
+        "message": "So it's sort of pretty much picking up from what she just mentioned, which is if you're a urban municipal body, you're supposed to basically provide these services that if you're a panchayat, the rural administration, you don't have to provide. So what happens is if you have a bunch of places that are urban like, right, I mean, if you just simply use other criteria, but because they are governed by a village administrative unit, actually doesn't have access to these services. So once you actually get into these numbers, you'll actually see absurdities all over the place, right? I mean, so I'll give you a small example of this. We discovered that there's a there's an area in Kerala in Munnar called Kannandevan Hills, which is a panchayat and the population of Kannandevan Hills is 55,000. And it's a panchayat in which world is 55,000 people actually a village. It's an absurd starting point. Now, in that particular instance, it's Munnar, it's the Tata T estates, I'm guessing. So therefore, there is private provision of services, right? Tata is probably providing all of those services. But imagine the same thing is happening in UP, in Maharashtra, etc. without the backup being provided by a private provider. I think that's when you begin to run into serious problems. I think this policy is really messing with people who are actually both moving to and living in urban like areas. But the governance mechanisms refuse to acknowledge them as such. And so part of this, I mean, I think the there's another sort of thing to ask here, which is a lot of these definition, this is globally, right? I mean, they're political, for sure. But a lot of these things were put into place at a very different time, right? When the country was a lot more rural, etc, etc. And things have moved on. And why are we still caught with definitions that were put into place in the 1950s and 1960s? By the way, this is equally true in the United States, right? I mean, where rural areas actually have inordinate power over places where people actually live. So it's this inability to actually adapt, which again, is creating this problem."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:19.000",
+        "message": "And would it be the case as this also reflects a deeper design flaw, because it feels to me that what services you get as citizens, it's a question of demand and supply, that there's a political marketplace, a marketplace for governance, you have certain demands, it doesn't matter whether you're categorized as urban or rural. If there's enough demand, you get those services. But what seems to be happening here is that that link is broken between power and accountability. And what instead happens is that the services that citizens get has to be mandated from above, which is why these definitions start to matter."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:32:52.000",
+        "message": "So, but part of that is also because the governance unit is messed up, right? Because there's no real power at the level of the municipality. And the municipality, the most powerful person in that system is a bureaucrat, is the commissioner. And the politician, the mayor actually has no real power. So, it's like in Mumbai, if we ask the question of who's the mayor of Mumbai, I mean, most of us would struggle to answer that question. Who's the mayor of Mumbai? I don't know. Does anyone know?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:33:19.000",
+        "message": "Preeti Kothi is the mayor of Mumbai."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:33:20.000",
+        "message": "I don't know the name of the\u2026 but it's actually\u2026 and behind it is the political reality, which is that if you actually had an empowered elected mayor of Mumbai, that person would almost overnight become the most important person in the state of Maharashtra. Right. So, therefore, the existing power structure, which has the chief minister at the helm of affairs, why would they actually give up any power to this particular person? Right. So, now the problem is if you don't solve for this problem, I don't see how you can bring about change. So, you technically have\u2026 and so part of this is the reason why the 74th Amendment of the Constitution, it's not actually working, which actually explicitly asked for devolution of power to urban local bodies. So, that's one part of it. The other part of it is after this government, the current government took over, there was this\u2026 so, what Pritika defined as a census definition. Also, you created this entity called\u2026 known as census towns. There's over 3000 of them. And the whole idea was that census towns should now have statutory urban administrations. Right. I mean, that was actually mandated in\u2026 when was it? 2015 or something like that. Nothing's happened. Not a single one of them has actually changed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:34.000",
+        "message": "So, what does an urban administration do differently? Like, it'll provide sewage, it'll provide infrastructure, which a city needs. That's what it is."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:34:41.000",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:42.000",
+        "message": "So, I'd done an episode on urban governance with our friend Shruti Rajagopalan, and she'd kind of spoken in great detail about the mismatch between power and accountability, which basically means is that the people that you vote for at the local level, like the mayor and your co-operator, don't have any power. And the people who have power are your state government, because that is where\u2026 State government and the bureaucrats appointed by the state government. Appointed by\u2026 and their incentives are very different because they want the rural votes. They don't want the urban votes. And this mismatch is a problem. And according to you, just getting the definitions right to begin with would solve part of the problem?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:15.000",
+        "message": "At least it starts a conversation, right? I mean, so, again, and I'm not sure we'll ever get a definition right, because it's a political process, right? I mean, anything that I say, you want to tell me, but what about X?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:27.000",
+        "message": "Who are the interest groups against, for example, classifying what is now classified as a village as a town?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:32.000",
+        "message": "Because, just think of the way\u2026 so, if you just look at the money flows, which is always a useful place to look, I mean, most of it goes to rural areas."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:41.000",
+        "message": "80% of the budget."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:43.000",
+        "message": "Yeah, exactly. Something along those lines does. Now, on top of that, they also don't have to provide urban services."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:49.000",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:50.000",
+        "message": "It's actually a fantastic win if you're a rent seeker in those areas. You have literally zero incentive to change the way things are. In fact, you\u2026 we've recorded, and not just us, many people have recorded several instances of urban areas reclassifying as rural areas."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:09.000",
+        "message": "Wow. Okay. So, you get the money, but you don't have to provide the services. Exactly. How can you reclassify though? Do they claim that people have moved out of those areas?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:36:17.000",
+        "message": "So, they were asked to\u2026 I think the census identified them as urban. And so, they\u2026 I think a number of them changed over to Nagar Panchayats, which is sort of the base level of municipal administration, and then decided to switch back. So, I don't know exactly what the mechanism is, but I think that trade-off became apparent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:34.000",
+        "message": "Right. So, how is this like\u2026 right at the start of the episode, you said IDFC also works within the political economy. You don't just want to propose good policies, you also want to see them through. How do you push through reform in an area like this where the incentives of the politicians in charge is clearly to maintain their own power and not devolve power further?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:36:54.000",
+        "message": "So, first of all, as I said, I mean, I think just starting up a conversation of how important cities are is a very useful starting point. Right. I mean, so, let's look at it this way. So, if I'm a politician, it doesn't matter. So, maybe these IDFC guys have got it all wrong. Right. And maybe 5000 is the right unit to use. It doesn't matter. But the fact of the matter is that people are moving from point A to point B. Yes. Now, if you've moved from point A to point B, chances are you're driven by the politics of aspiration. Right. You're trying to better your life. More than likely, that's what's going on. Now, as a political response, I can either respond to it through the politics of aspiration or through the politics of status quo, which is the politics of point A, which is where you've left. Right. In the first place. So, I think that itself opens up a political opportunity, which I think Prime Minister Modi very seriously understood the politics of aspiration. Right. Which is why the 2014 campaign was entirely about Vikas and jobs and all of those. In a rhetorical sense, he understood it. Yes, absolutely. Absolutely. So, but that's the starting point. Yeah. The rhetoric is a starting point. And I think in general, this aspirational urban voter who really has urban concerns at the heart of her mind is actually a voter that no one actually claims. I mean, look across the political firmament. Is there anyone who speaks for this voter? Now, the reason you don't speak for them is because you don't think it's a significant number. But what if it is a significant number? Right. I think that's the political opportunity."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:29.000",
+        "message": "At the rate India is urbanizing, it is already or is going to be very soon a significant number. But do they feel the same way about it? You mean the politicians? No, I mean the people. I mean, the people who are moving to the cities, are they a constituency? Are they going to demand the sort of change that we'd like to see happen? More local government, more whatever, or are they just\u2026"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:38:51.000",
+        "message": "So, again, I'm not sure that their first demand will be more local government. Right. But it's a process."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:56.000",
+        "message": "But it may be more urban services."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:38:58.000",
+        "message": "Yes, it'll start with urban services. Right. I mean, and then you quickly do the calculus on that. That sort of pushes eventually towards local government. So, at some point it will get demand led if there's enough\u2026 Yes, there's\u2026 and I suspect that's going to happen very, very soon. It's already happening. Right. I mean, when you have Akhilesh Yadav and Narendra Modi both talking about Chahari Bharat, which is\u2026 and that's, by the way, the other thing that we need to clear up on this podcast, which is the idea that urbanization equals Mumbai or urbanization equals Delhi. It's not true. It's just not true. I mean, most of this is actually happening into towns and cities that you and I have never heard of."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:34.000",
+        "message": "Right. And here's another thing I'm kind of ignorant about that when Mr. Modi spoke about 100 smart cities and blah, blah, blah, it sounded like a very top-down thing to me that we will do this, we will do that. What did that entail? What was the vision there? Did you see any merit in it? Where have things gone?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:39:50.000",
+        "message": "So, I think it was an opportunity to do things very differently. I think it was squandered, not necessarily because the opportunity was the wrong one. But I think there's two problems. One is this notion that smart is tied to technology. Right. I mean, that's just a terrible mistake. So, the question that I often ask is, how did Singapore get to be a great place to do business before the Internet? Right. Right. The Internet is just a sideshow. It's a tool. Right. I mean, it's something that sort of it's a force multiplier. Right. But you've got to have your systems up and running and like, you know, in good shape before any of that. If you live in an environment where all the systems are broken, right, and the plumbing is entirely broken, going and saying, I'm going to put sensors here is not going to help you. And by the way, some of this is also tech companies and the like who have actually promoted this notion that, you know, just set up a whole bunch of sensors and broadband and all your problems will go away. It's just not true."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:56.000",
+        "message": "And the basic technology at the heart of it, just thinking aloud, would really be markets, would really be prices,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:41:01.000",
+        "message": "because that's how society interacts with itself. Yes. So, the basic technology\u2026 That technology has always been broken in India. Yes. And it's not just market. It's the markets, the regulatory structures around it, the governance that is required, the state capability that is required. All of that is broken. So, you can't proxy for all of that using sensors. Right. So, that's sort of, I think, fundamentally the problem. And then on top of that is this marriage. And it has consistently been the problem in India is this sort of imperial overreach when it comes to ambition and no sort of thinking about the capability that is required at the level of the state to execute on the ambition that you've just described so grandly. Right. And this is not a Modi government phenomenon. It's been a problem across the board. For 71 years. Yes. It's been a problem. So, look at the comparison with China. When China set up special zones, they set up four. Why do we think we can go to 100 and 500 and so on? I mean, just get two up and running, you know, because these things are really about demonstration. And because it's about demonstrating that a certain set of interventions, reforms work. And then if it works and actually gives you real results, then there'll be demand from elsewhere to actually have exactly the same set of reforms."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:16.000",
+        "message": "And one of the things that you guys were telling me now that you brought, you know, China into the conversation is that what China did right, was it thought at the level of cities as a unit of reform, you know, starting with Shenzhen. How did that come about? And what difference did that make?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:42:32.000",
+        "message": "Sure. So, I mean, at the risk of being a little bit long winded about it, but look, so post Mao, there's a power struggle, right? I mean, Deng Xiaoping emerges as the leader, but he has a set of conservative rivals in the party, led most prominently by Chen Yun. Now, the problem is that you want to try a set of reforms because whatever has happened in the past has destroyed China, right? It's basically destroyed China. Now, you also think of this as a operating system problem, right? I mean, it's and so Deng Xiaoping was also very familiar with both Hong Kong and Singapore specifically had these conversations with Lee Kuan Yew. So, the way to use that analogy is the operating system that China was running on is DOS and the operating system that Hong Kong and Singapore are running on is Linux, right? Now, the easy glib answer here is I need to basically change from DOS to Unix, Solaris, Linux, whatever the best in class is. Now, ask yourself the question, if you just ran a department in an office and you told them to move from one operating system to another, how hard would it be? Now, imagine that at nation scale and you realize just what the political economy of this process actually looks like and Deng Xiaoping fully understood that. And so, one of the things that was brought to his attention was that the out migration into Hong Kong, basically illegal migration out of China into Hong Kong was all concentrated in this particular area. And Deng Xiaoping had a sort of very non-conventional response to it, which was, you know, rather than say, let's stop it. His response was, A, why are they going? What are they seeking? And can we create those same conditions on this side of the border? Was really the question he was asking. And then when you try these reforms, I do not want to go try it in a Beijing or a Shanghai where there's a vast number of installed DOS machines, right? Or Nseekers. I'm going to try it in a place where basically there's nothing, right? Or people are using typewriters."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:45.000",
+        "message": "And what's the difference between DOS and Linux in this context to take this forward?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:44:48.000",
+        "message": "So to take it forward, it's basically think of it as Linux is best in class in terms of like, you know, it's a market economy. Prices are the controlling mechanism, a coordinating mechanism, rather. You have foreign investment, a whole bunch of things like that, which just doesn't exist in China. So what he really does is he then realizes that Shenzhen, which at that point of time is just a fishing town, and no one's ever heard of Shenzhen, but it was a jumping off point to Hong Kong. And he realizes that this is a place where I'm going to run a controlled experiment. And it's a special zone is what he calls it. He runs this controlled experiment in Shenzhen where they start putting in reforms, market reforms, really start in Shenzhen. Now, there's one other thing to clarify here, which is that they were not special economic zones. They were special zones. And this is actually the intra-party conflict between Chen Yun and Deng Xiaoping that played out here. So the conservative opposition, their point was, if you let them tinker with the market and economics, it will soon lead to experimentation in the political side and the party will lose its dominance. So Deng Xiaoping, to sort of accede to that particular criticism, inserted the word economic to indicate to the powers that be at the local area that you can experiment, but do not let it come into the political system because the Communist Party wants to retain control. And then Shenzhen happens. We know the story of Shenzhen. In 1981, the place has a per capita GDP of $700. Today, the per capita GDP is $27,000. I mean, it's probably the greatest sort of increase in sort of human development, if you will, in recorded history. I think it's just astounding what happened in Shenzhen. But more importantly, the reforms begin to spread out from Shenzhen. I mean, more zones are opened up, etc. Then Deng Xiaoping does that famous southern tour where the Shanghai area and a bunch of other existing cities complain about the fact that Shenzhen has actually been allowed to power ahead of Shanghai. So they want the same set of reforms. And that's how Pudong is set up as a sort of special zone. And then Pudong drives a very large part of what happens in the Shanghai area and so on and so forth. So what I'm trying to say here is, these are just reform experiments, right? And you want to really try these experiments in ways that don't upset the political equilibrium elsewhere, but allows you to tinker. And if these are successful, they will drive reform because there will be demand for it from other places."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:26.000",
+        "message": "And having empowered local city governments, which are then competing with each other, and you have different cities competing, you know, enables that process."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:47:34.000",
+        "message": "Yes, absolutely. So that's the other thing that I think people generally do not understand is that China is way more decentralized than India is. And it's a, you know, when you hear the popular narrative of the Chinese Communist Party being this very centralized, it's just not true. I mean, China is very, very decentralized compared to India is way more centralized than China is. And that allowed for a lot of these local experiments to happen. And governors, mayors, all of these people are just allowed to tinker."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:03.000",
+        "message": "But given that a lot of Indian politicians, perhaps Modi himself, look at China in this aspirational kind of way as in, you know, we want Bombay to be the next Shanghai and blah, blah, blah. What are the lessons they took from that?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:48:14.000",
+        "message": "You see, part of the problem is that don't look at just the end state. Right? Right. I mean, you're looking at Shanghai as it is now. You're not looking at the process by which Shanghai got from X to Y. The process is what matters. And so the question we should be really asking ourselves is, what in the process can we replicate?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:48:32.000",
+        "message": "So I'll give you an example. A couple of years ago, there was this thing about making Kala Ghola Times Square. So again, we conflate the optics of two things. Right. And so you ask yourself the question, why is Times Square what it is? And it is what it is. And so the solution was put up big billboards. But you ask yourself the question, why do people pay so much for advertising in Times Square? It's because there's people there and there's economic activity there. So I think we get it backwards. We conflate optics and we don't like Ruben said, we don't look at the process of how those optics came to be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:04.000",
+        "message": "And also somehow we demonize densification. Like I did an episode with Steven Pinker where he spoke of the whole movement of eco-modernism. And he made the point that densification is actually a fantastic thing and it's good for the environment. Because if you have, you know, denser concentrations of people living and working together, that means you have, you know, more of the countryside, so to say. The idyllic, beautiful countryside, everyone wants to escape. So even in environmental terms, cities growing upwards and becoming denser is good for the environment."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:49:34.000",
+        "message": "Absolutely. So I think the and this goes back in some sense to Tharoor and Gandhi, the, you know, the preoccupation with green space, it's really a question of the scale at which you're looking at the question, right? So saying, so, you know, every neighborhood needs a park is fine, but every house needs a certain amount of green space. So maybe not in a city like Bombay, but a tier two city. Actually, then means that instead of going up, you spread further and further out. So, A, not only are you consuming more land, but to then traverse that piece of land in an efficient manner, you need more kilometers of roads, you know, metros at some point of sewage lines. And so essentially, by spreading out, you're much less green. So Ed Glaser and Matthew Kahn have done fantastic work. Looking at American cities and suburbs, it's called green cities, brown suburbs is a great piece. Finding the dense urban areas actually much more green than sprawling suburbs. And I think that's the other narrative that we need to change. It's counterintuitive."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:50:34.000",
+        "message": "I mean, the reason why New York has Central Park is because every building around Central Park is really tall."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:40.000",
+        "message": "Yeah, yeah, which is a great way to look at it. And, you know, another line that struck me as something that I'd like all my left liberal friends to consider is again, quoting from you, More fundamentally, cities, especially large global cities, have always been the vanguard of openness, pushing for open borders, markets, societies and minds. Most modern progressive social movements originated in cities precisely because they instinctively accommodate difference, disagreement and diversity. They reshape democratic governance from below. Stop quote. And it is a fact that, you know, cities are simply more liberal than everything around it. You're likely to find more Trump voters or more Brexit voters in the more rural areas."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:51:20.000",
+        "message": "For sure. I mean, again, it's one of those, I mean, it's exactly what is mentioned in that piece, which is like, you know, I mean, in a city, you have to deal with diversity. I mean, you don't have the choice, right? I mean, when you're on the public trains of Mumbai, you don't really have a choice in terms of who's sitting next to you, who's not sitting."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:37.000",
+        "message": "You can't do caste discrimination in the Virar fast. You can't do all of that stuff in a city. Have you ever been on a Virar fast? Yes, I have."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:51:45.000",
+        "message": "So, so, you know, I mean, again, I've made this point in the past, which is whether you, you know, care about sort of gender issues, caste issues, all of these. I mean, one of the places which digests and destroys a lot of those things is actually cities."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:52:01.000",
+        "message": "Yeah, because out of your pure self interest, you have to learn to get along with everyone. Absolutely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:06.000",
+        "message": "It's kind of a no brainer. But recently, we find sort of we live in times where there is a pushback against the cosmopolitan of cities, where once you thought that the world is opening up, and now it seems that the world is closing down again. Does that worry you as a trend?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:52:20.000",
+        "message": "So I think, okay, this is now a digression, but I think part of the problem is because elites, yes, mostly living in cities, have failed to account for one phenomenon, which is that economic globalization, which all of us are great fans of, causes social dislocation. And what I mean by social dislocation is it's ways and means of living and so on and so forth that have been just basically uprooted from the ground up, right? I mean, and it's happening in much shorter timeframes, because of the advent of technology and so on and so forth. So where earlier societies had 100 years to deal with a certain kind of change, it's been compressed into 10-15 year timeframes. So what is going on, in my opinion, is just basically the lack of coping mechanisms in people. So rather than denigrate them as racists and whatever else, and I don't know, maybe they're racist, but to assume that they're racist because they lack the coping skills is actually, I think, a fatal flaw. It's a fatal conceit even of the elites to basically just assume that lack of coping mechanisms equals something really bad. I guarantee you, if the same elites are put into the same pressure cooker, they would not have the coping skills either. I mean, it's just that they don't subject themselves to that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:42.000",
+        "message": "The same elites are probably playing the same kind of identity politics with different groups."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:53:47.000",
+        "message": "With different groups, exactly. So I think, and so this is a point that I've made to, for instance, journalists from, say, the Financial Times. I've always told them, like, you know, when was the last time you did a story of social change in India, which is a consequence of the economic change? Right. When was the last time you saw a piece like that in the FT or the, everybody's so enamored with GDP numbers and so on and so forth. Nobody's actually talking about the other stuff. I mean, so, you know, one of the best stories about this was when Ellen Barry did this great feature story about young women from Orissa migrating to Bangalore to work in the textile factories. That's one of the few occasions on which you actually see these really, really good feature stories because it's not easy. Right. I mean, it's not, there's nothing natural about it. You know, you're being uprooted from everything that you know as comfort and home, everything completely forced to adopt. The norms have changed so dramatically and these are not easy things to deal with."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:45.000",
+        "message": "And even there, I'm sure you'd find a lot of rhetoric in the sense that these ladies who are leaving their homes and going to work in these factories are doing so with such a big deal for them. They're moving to a better life. And yet it's so easy to paint it as, oh, they're going to be like sweatshop laborers or, oh, look at their work conditions or, oh, look at their working hours and not realizing that they've chosen that because it is by far the best option open to them."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:55:05.000",
+        "message": "We should celebrate that choice. So we should celebrate the choice, but at the same time, be aware of the fact that, yes, they've made the choice, but that doesn't mean necessarily that life is easy for them. Right. It is not an easy life. I mean, as the Ellen Barry story will actually point out, because the normative shifts that are required and so on. I mean, you need to have serious coping skills to deal with this stuff. So I think in general, what is happening around the world actually is this is basically that the social change brought about by economic change is beginning to speak up. Right. And now there are a whole bunch of politicians who are perfectly willing to take advantage of that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:43.000",
+        "message": "But do the people who are benefiting actually attribute how their lives have improved to the economic factors?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:55:49.000",
+        "message": "It's a good question."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:52.000",
+        "message": "Because the people who the left liberals who rail against liberalization, the most are the elites who actually benefited from it the most. You will find the greatest defenders of Nehru are people who are among the elites, not the people who were kept in poverty for decades. Yeah. So that connection is also even important for a policymaker like yourself to make, because that kind of pressure from below is what actually drives a politician to make change. Right."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:56:17.000",
+        "message": "Yes. But again, it needs to be well articulated. Right. I mean, it's not clear to me that. So since you mentioned Steven Pinker, I mean, you know, that's one of those arguments, right, which is the good stuff, if you will, is not articulated."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:32.000",
+        "message": "And it's sometimes counterintuitive."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:56:35.000",
+        "message": "And a lot of it is counterintuitive completely. Right. I mean, so the fact that things are getting better, etc., etc., is not a point of view that you hear often enough. I mean, and part of that is also because think about the average or the median story in a newspaper is bad news."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:51.000",
+        "message": "So when you write a piece like the op-ed you just wrote for Bloomberg, outside your office and outside your professional circles, how is it generally received by people? Do people feel you're stating the obvious and it needs to be said? Do people say, oh, you know, what is this focus on cities? How do people respond? How does part of your constituency, politicians and bureaucrats, how do they react to that?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:57:12.000",
+        "message": "So, I mean, certainly it's not obvious. I mean, so that's the one thing that has become so that obviously the response to the op-ed has actually been quite phenomenal. And a lot of the respondents have been just this, which is, oh, wait a second, this is not obvious. And to me, I mean, and those of us who are sitting in the midst of it, all we are really saying is how urban you are depends on how you define urban. Right. It's as simple as that. That's all we are saying. Now, this goes back to the old point about common sense is not so common. But as far as I'm concerned, it's a commonsensical statement to make. So, it is counterintuitive for sure. And I think the response, broadly speaking, has been extremely positive. Also, I think it's helped and I think Pritika is really responsible for this is to, we are not therefore suggesting that this is India. We are suggesting that here's the reality of what's going on. Let's now figure out how to deal with this. Right. Instead of basically laying a stake in the ground and saying, no, India is X. I don't know. All we are saying is, if you use this metric, here's what we end up at. So, I think the sensible thing to do is to actually go back to, and this is a point Pritika makes repeatedly, is this, let's plan for densities. Right. So, this to me is really, in some ways, it's an administrative question. For a given population and a given density, what are the services you need to require, you're required to provide? So, I think this whole rural-urban divide is completely counterproductive and useless. Because you see it in the satellite data, for instance."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:49.000",
+        "message": "It's all continuums. And it's not just an administrative question, it's also a political question. Because the density of people is a density of votes, right?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:56.000",
+        "message": "For sure. But I'm saying from the perspective of the person, it is, for a given density, what services do I need? Is really the question you're trying to answer. So, I think, so, you know, I mean, I have said fairly controversially and obviously it will never happen for the obvious reasons. Let's take a simple example of this, which is, why do you need a ministry for rural development and a ministry for urban development? I would say bring those two ministries together and have a ministry for economic development. If it happens in areas that do not meet the urban threshold, you use different strategies. If it happens in Mumbai, you use a different strategy. So, what really needs to shift is your urban, I mean, your development strategy, not your, if you define yourself as X, then you will get manna from heaven. And if you define yourself as Y, you get nothing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:41.000",
+        "message": "See, this is a problem, Ruben, that we already have a jobs problem in India. And you're trying to cut down on ministries and put one minister out of a job. You know, this, you policy people, you don't understand these basic things. I'm going to sort of end with two questions and I'll ask both of you to answer those. And the question being that, supposing in a thought experiment, you're suddenly dictator of India, you can do whatever the hell you want. Or let's say you can be a worm in Mr. Modi's brain and you can make him pass whatever dictat he wants. What are, I won't say three things or five things or whatever, I won't put a number to it. But what would strike you as in the context of cities and urban development, the most important things that you would do?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:00:22.000",
+        "message": "To start up the conversation about why urban is important. And look, the fact is, we're not going back. And I think this is actually, maybe I should have said this earlier. Even if we dislike cities, you're not going to stop people from coming into cities. There are any number of governments anywhere in the world, the Chinese government tried the hookah system, we tried FSI limitations, we tried all, nothing stops people from coming. Right? So you're literally King Canute telling the waves to go back. It's not going to work. So one way of approaching it is doesn't really matter because people will move into cities anyways and it'll create its own demand eventually, blah, blah, blah. The other way to say it is basically say, look, this is inevitable. It's going to happen. It's happened everywhere in the world. Let's plan for it. The stopping of this tough business will only lead to bad outcomes. So for instance, take FSI, right? I mean, if you restrict the floor space, you'll get slums. You'll just get very bad outcomes if you do things like that. So being able to, as I said, aware of it, celebrate it, prepare for it. Right? And the preparation also has to include building the capacities that are required to prepare for it. I mean, to deal with it as what you really need is you need urban management. You need a cadre of urban managers to now start emerging who know how to run a city. We don't have any of that stuff. There's no urban management schools anywhere. So that cadre needs to evolve for sure. Yeah, I think between the three things that are outlined and creating the capacities that are required to manage the process is probably what I would ask. Probably what I would absolutely concentrate resources on."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:02:08.000",
+        "message": "So I'd say something similar. I'd say, you know, building on what he started doing, which is speaking to the politics of aspirations. So people are trying to improve their lives. You know, a job is usually the mechanism to do that. Recognizing that cities are where most of our jobs are going to be created if we aspire to move up the value chain and create a certain type of jobs. And then I think the thing that we forget, we were talking about social dislocation earlier. Why do so many people want to stay on the land in some sense? Now, this is purely intuition. Do they have the capabilities to move off the land? So in some sense, this resistance to move is also a fear of do I have what it takes to make it in a city beyond my ability to participate as low skilled labor? So if we're not equipping people to leave the land, even if we were to create jobs in cities, but I'm not sure that they could all make that transition."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:03:02.000",
+        "message": "That's the point that needs explanation because it's a little bit like so land is more than likely your most important asset. Right. And so your inability to collateralize it, if you leave the land, and the fact that there's not enough protection for your land in the first place is actually a huge disincentive."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:20.000",
+        "message": "You had multiple episodes on agriculture, and this is precisely the problem. People are trapped in agriculture. So even a lot of people who would otherwise come into cities cannot, they're trapped. It's a crime."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:03:30.000",
+        "message": "And again, the same logic applies, which is, you know, you're celebrating a sector that is so low productivity. And it's always celebrated by people who are not in agriculture. Right. I mean, there's no marginal farmer who's standing up and say, I want to remain in marginal farming. By the way, this is actually, it shows up in opinion polls, it shows up in like, and the simple question to ask is, what would you like your child to be? Right. That's a great question. Right. I mean, there's nobody who says, I want my child to be a marginal farmer. So why do we celebrate marginal farming? Why do we celebrate poverty? I don't get it. It's because mostly because none of us have to deal with it. It's an abstract concept."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:11.000",
+        "message": "What strikes me as very sad that the term economic development has got such a bad rap. I mean, economic development should be a moral imperative. In fact, I spoke to Tyler Cowen recently as well about his book Stubborn Attachments, where he makes exactly that same point. It's a book of moral philosophy. And he says that as a species, we should aim towards economic development, because that is what makes people better off at an individual level. And it's the development of people. Right. Most importantly. Exactly. And the last question I'm going to ask both of you is, for all of my listeners who have heard this episode and were saying, hi, it's very interesting, but these guys just kind of touched the surface and I want to know more and all that. I mean, obviously, I'll have links to your pieces and stuff below this episode page. But what sort of resources can you recommend? What are the books which change the way you think about cities and economics and so on and so forth?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:04:58.000",
+        "message": "I mean, so amongst the books that I've read recently, I mean, absolutely the best book that I read last year was, funnily enough, Order Without Design by Alan Berstow. So think about that for a second. It's an urban planner using a line from Friedrich Hayek. So you have an urban planner and one of the greatest urban planners in the world, who's basically using Hayek as the title of his book. That alone should be a recommendation for everybody to pick up that book."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:23.000",
+        "message": "I've just started reading it. It's a great book. Shruti recommended it to me in my 100th episode last month. So I actually have the book in my bag. I was showing her the physical copy and Pritika's also halfway through it."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:05:34.000",
+        "message": "Absolutely. I think we've both been obsessing about it. It's a summary of everything you need to know about urban planning and economics. If people are interested in the practical application, because I completely understand. You said, what's the reaction to our piece? The piece that I'm actually worried about is the piece that we're going to write on FSI, where I fully anticipate people calling saying, what are you recommending? So the practical application of this is if you look at what Bimal Patel has done in Ahmedabad, and he's worked with the Ahmedabad Municipal Corporation and the Urban Development Authority to do the new development plan for Ahmedabad. It perfectly marries a lot of the concepts we're talking about. Leaving room for dynamism, reshaping both city peripheries and redeveloping incrementally the inner core of cities. I think the work that they've done there is fantastic."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:06:24.000",
+        "message": "Yeah. And if listeners want a more sort of general introduction to the ideas that were discussed in the book, definitely Triumph of the City at Glaser is an excellent place to start. And it has enough references that you can then follow and so on and so forth. But yes, I mean, I just go back to Bertrand's book. I mean, remember, this is a man who started his career with Le Corbusier in Chandigarh. My God, that's like a full circle. Did you know Meenu Masani started as a socialist? Yeah, I mean, a lot of people have. The good news is that, you know, as Alon himself will say, he's a reform planner."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:58.000",
+        "message": "Right. Thanks so much for coming on this episode. Great fun talking to you. I only wish it had been much longer and pleased to come back again sometime. Preetika and Ruben, thanks. Thank you very much. Thank you. And you can browse past episodes of The Seen and The Unseen on seenunseen.in and thinkpragati.com. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:07:58.000",
+        "message": "Filter coffee is a fascinating beverage. You need to pick the right beans, blend them in the right proportion, roast them to perfection and slow brew at the right temperature to get the perfect cup, which is exactly like great conversations as well. You need to track down the most interesting minds, get them into their zone and settle down for an unhurried, unscripted chat. And coffee for me is always, always, always best enjoyed with friends. I'm Karthik Nagarajan and do share my table as I meet some of the most interesting people I know and sit them down for a strong cup of coffee and an even stronger conversation. Join me every Wednesday for a freshly brewed episode. This is not Frappe. This is the Filter Coffee Podcast. This is the podcast where all the borders and lines that have been drawn over decades has been swept away by this lovely thing called the internet. Where I show you we don't dwell on just the stuff that is now, but rather the wider stuff about advertising, media, content and the whole goddamn circus surrounding it. Tune in every Tuesday for a weekly unboxing of the mystery box we used to call advertising. I'm Varun Duggirala, co-founder and content chief at The Glitch and this is my new podcast, Advertising is Dead."
+    }
+]

@@ -1,0 +1,477 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "Vulture's dumb luck and not his strategic genius. And finally, if Mahatma Gandhi was around today, what would he have made of the world we live in?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:39.560",
+        "message": "Welcome to The Seen and the Unseen, our weekly podcast on economics, politics and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:48.880",
+        "message": "Please welcome your host, Amit Bhadma. Welcome to The Seen and the Unseen. This is the second of my two-part mini-series on Mahatma Gandhi and my guest is the great historian Ramachandra Guha. The previous episode dealt with Gandhi's years in Porbandar, Rajkot, London and South Africa and this one takes the story forward. Without further ado, let's get straight to a quick commercial break. My conversation with Ram begins right after that. Like me, are you someone who loves fine art but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art like stoles and shrugs, home decor like cushion covers and table runners and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price and artists get royalties on sales just like authors do. What's more, Indian Colors now has an exciting range of new products including fridge magnets with some stunning motifs and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vazvo X Vazvo, Brinda Miller, Dilip Sharma, Shruti Nelson and Pradeep Mishra. They accept bulk orders for corporate and festival gifting but even if you want to buy just for yourself or a friend, head on over to IndianColors.com. That's colors with an OU. And if you want a 20% discount, apply the code IVM20. That's IVM for IVM Podcast. That's IVM20 for a 20% discount at IndianColors.com. Ram, welcome to the scene in the unseen. Thanks. Ram, in the last episode, we spoke about Gandhi before India. Before we really get further into today's episode, I'd like to speak a little bit about Guha before Gandhi."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:39.180",
+        "message": "How did you become a historian? Well, there is a chapter accidents. So you know, I grew up wanting to play cricket and I did science in school. But I knew that if you do science in college, you have practicals in the afternoon, you can't get the college cricket team. So I registered for economics. I was interested in writing, I did for the school magazine, my high school magazine. And if I'd had guts, I would have gone and done a BA in English literature, but I didn't have the guts because I came from a family of scientists and literature was a stretch too far. It is economics being a kind of pseudoscience. Let me tell you a joke about economics as a pseudoscience, which is told by the great historian of Islam, Bernard Lewis. And he says that in the history of humankind, science is often emerged out of magic. From astrology came astronomy, from alchemy came chemistry, what will come out of economics? Okay, so it's at least a pseudoscience and it sort of placated my parents and my grandparents. And but I was spectacularly useless at economics. I did a BA, did an MA, I took a gap, what's now called a gap year, looked around. And in that gap year, I discovered the works of the anthropologist Verrier Elwin and was lucky enough to get a PhD admission in sociology. So economics was moving me. So essentially, economics is really abstract and analytical and mathematical. Sociology is about human beings, but in society and with kind of an overlay of structures determining them. And then from there, I moved to history, which is process and then finally to biography, which is actually a single individual life. But my degrees are really in economics and sociology and it was in the course of my research on really environmental subjects that I got interested in the history of forests and then I fell in love with the archives and the joy of discovering old documents nobody has ever seen before and pouring over them to consume me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:33.160",
+        "message": "And I kind of became an accidental historian. And you've written somewhere about how, you know, in 1998, I think it was and you were really known as someone who's written books on environmental history and so on. And I think it was in New York where you were asked, would you give a class on something in Berkeley? In Berkeley? Yeah. And instead of choosing environmentalism as your subject, you picked Gandhi, why?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:54.680",
+        "message": "So I'd been, I'd started reading around Gandhi, I mean, you know, as what happened was, I'd been working on the environment. And my first book was a history of the Chipko movement and the two great leaders of the Chipko movement, both fortunately alive, both in the late 80s, Tandir Prasad Bhatt and Sundar Lal Bahguna, kind of exemplified the best kind of living Gandhianism. They were men of transparency, integrity, moral courage, nonviolent, you know, innovatively using Gandhian methods to protect the Himalayan forests. And so I started reading about Gandhi. I mean, those days, when I'm talking about the 70s and the 80s, I don't travel much by train anymore. So it's probably, but I'm sure it's not the case. In the 70s and the 80s, you had these railway bookstores with A. H. Wheeler, and they often had books published by Navjeevan. And just in the 80s and 90s, I picked up a large number of books all about Gandhi. And there were two books that profoundly struck me. One was a book edited by an anthologist called R. K. Prabhu, it's called Truth, Call Them Differently, which is about the correspondence between Tagore and Gandhi over a long period. And the other is a book called An Atheist with Gandhi, which was by a Andhra social reformer who worked on the emancipation of Dalits called Gora Ramchandra Rao, G. Ramchandra Rao, known as Gora. And I got more interested in Gandhi outside the environment. You know, Gandhi as a thinker on religion, morality, civilization. And then I read Ambedkar's great book, Annihilation of Caste, which is, of course, also a fantastic polemic against Gandhi. And then I came up against some of the limitations of Gandhi's whole social reform movement. And it was really these three tracks, Ambedkar's Annihilation of Caste, Gora's book An Atheist with Gandhi, and this collection of the letters between Tagore and Gandhi, that moved me towards thinking maybe I should teach a course on Gandhi. I'm bored with the environment. So I went to Berkeley. And then that course worked out incredibly well. And I had students of very different backgrounds, different nationalities. There was a Burmese student, a Japanese student, an African-American student. And ever since, I've been kind of consumed with Gandhi."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:02.160",
+        "message": "And you know, since you initially got attracted to Gandhianism, which, of course, is a distillation of his best ideas and values that survive. And you actually wrote these books on the man himself with all his complexities and, you know, all the dark sides and so on. How did you come to look at Gandhi and Gandhianism differently?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:21.480",
+        "message": "So I mean, I think we discussed some of this in the, you know, in the first episode. I think Gandhi, if you look at Gandhi in the context of the India of today, I think clearly interfaith harmony, relations of mutual respect, accommodation between Hindus and Muslims are of yet still of crucial importance, though, you know, the ruling classes today kind of denied and want to move us more and more in the direction of a Hindu state. I mean, today's newspaper talks about the citizenship bill, which will give, you know, citizenship rights to anyone who's a Hindu from anywhere, basically, is what he says, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:57.520",
+        "message": "Which is kind of a denial of Gandhi's more universalistic philosophy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:59.560",
+        "message": "We're recording on Jan 8, by the way. The other thing, Amit, is that, look, for Gandhi, Hinduism was fallible. So every religion, every national tradition was fallible. You looked in the mirror of the other and improved yourself. Hinduism was fallible because we treated our untouchables and our women badly, right? India was fallible because, you know, our institutions didn't work well. Of course, in those days, there wasn't that much corruption. I think this understanding of Gandhi that individuals are fallible, cultures are fallible, communities are fallible, religious traditions are fallible, nations are fallible, I think is vitally important today, which is kind of an absolute lack of respect for criticisms of religions or communities or individuals. I mean, Modi is infallible, Hinduism is infallible, Bharat Mata is infallible, you know, that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:56.600",
+        "message": "is completely contrary to Gandhi's teaching. In fact, we think it absolutes today, but you know, as we'll probably discuss later in the episode, to some extent, Gandhi also did, he was dogmatic about a lot of things, but we'll kind of come to that. So your book, Gandhi, The Years That Changed The World, really takes us, begins where your last book ended, Gandhi Before India, where he's arrived back in India, and he's just chatted with his mentor and someone he really admired, Gopal Krishna Gokhale. And Gokhale told him that, look, for a year, I just want you to go around the country, don't open your mouth, don't give opinions, and so on and so forth."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:29.480",
+        "message": "Why do you think Gokhale gave him this advice? I think Gokhale gave him that advice, because he'd been away for so long, he'd been away from India for 22 years, and he didn't understand the landscape. Even when he was in India, all he knew was Gujarat and Bombay. I mean, he'd been to Calcutta once for a Congress, he'd been to Madras once to address a meeting, he'd been to Pune once, but I think Gokhale thought that he must understand the country he's going to spend the rest of his life in. The other reason, though, it's probably not spelled out by Gokhale, was Gokhale, we again discussed in the first episode, Hind Swaraj, Gokhale was profoundly ambivalent about Hind Swaraj. He thought it an ideologically utopian fact, and he perhaps felt that if Gandhi was to come be confronted with ground realities in India, he would nuance and modify some of the extreme positions he took in Hind Swaraj. In fact, that's exactly what happened. And I think it was very wise advice for him, and he traveled all over, I mean, he would just track his journeys in those days, and train travel was incredibly arduous in those days. He often went with Kasturba. Many of those journeys were with Kasturba, some were alone. But he went north, south, east, west, he went to Shantiniketan, he went to Banaras, he went to Gurukul Kangri, he came to Madras, he went deep south to places like Mayavaram and Tirunelveli where he was confronted with the horrors of untouchability for the first time in a direct way. He traveled through his native Kathiawar, up and down, Gondal, Porbandar, Rajkot, Wadawan and so on. And I think he came to understand this country he had come back to and whose politics he wanted to immerse himself in."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:03.560",
+        "message": "And in fact, in your book, you mentioned that he was also asked to give opinions on something or speak about something during this period. But even though Gokhale had died a month into this journey, he respected the promise he"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:15.160",
+        "message": "had made. Absolutely. And it's only his, you know, voluntary vow of silence on political and social matters was in January 1916, that vow was no longer valid. And it's only then that he started speaking, of course, the most, his coming out speech is in Banaras when he attacks the Indian elite for their luxurious lifestyles, their jewelry and the craven worship of the colonial ethos and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:40.440",
+        "message": "But it's a full year before he speaks up. And it's interesting that in a sense, he is now faced with the challenge of making once again, a particular journey that he had already made in the sense when he went to South Africa, when he began campaigning for the Indians there, he was a representative of the elites, which is the Gujarati merchants and the Parsis and not the laborers at that point in time. But then he turned it into within the limited scope of the Indians that were in South Africa, what you could call a bit of a mass movement, where all the Tamilians came on board, and so on and so forth. And now, as you point out at the start of this book, he shifted from an arena where there are 150,000 Indians to an arena where there are 300 million Indians, and the movement as it was in his early days in South Africa, is really an elite movement still, can you lay out the landscape for me at the time, like, what is the freedom movement like?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:29.840",
+        "message": "So what there is the Indian National Congress, which is now 30 years old, by the time as Gandhi has come, it's clearly grown quite substantially in numbers, it's had a meeting every year, its membership has expanded. Several years before Gandhi comes in 1907, there's a major split in the Congress between the extremists and the moderates, the extremists, led by Tilak, who want militant action now, the moderates led by Gokhale, who feel not only that you can appeal to the better instincts of the British through reason and argument, but also that social reform is crucial, whereas the extremists led by Tilak felt, feel that social reform will come after political independence. So there's a split. And when Gandhi comes back, there's an attempt to heal this split. Tilak has returned, he was in jail in Mandalay, he's come back, and there's an attempt to heal the split and bring the moderates and extremists on one platform. The other split that has happened in the Congress from the time it started is that when it started, it was both Hindu and Muslim intellectuals and aristocrats were in it. It was an elite organization, but it had both Hindu and Muslim elites. This changed, I mean, Syed Ahmed Khan moved away from the Congress, many Muslims moved away. In 1906, the Muslim League was formed and there's an attempt in Gandhi's first years in India to bring Muslims back. So in 1916, which is a year after Gandhi comes back, there's a meeting in Lucknow of the Congress, which Gandhi attends, where Jinnah and Tilak forge a kind of compact between the Congress and the Muslim League. Now, what is interesting is that Gandhi attends the 1915 Congress in Bombay, the Congress in those days, the annual Congress was held in December in those days. End of his first year, he attends that Congress. End of the second year, he attends the Lucknow Congress. And in both places, he's a marginal figure. All he's allowed to speak on is indentured labor in South Africa. He can't speak on political reform, constitutional change, Hindu-Muslim collaboration, none of these issues. He's really a marginal figure who's on, you know, in kind of some small hall somewhere in an obscure part of the big conference. The great leaders are Annie Besant, Malviya, Tilak, Jinnah, you know, and so on and so forth. Gokhale, of course, dies shortly after Gandhi comes back. And Bipin Chandrapal, you know, Lajpat Rai, and they're the kind of leaders of the Congress at that stage. And he really is a very marginal figure. But he knows he's looking for his chance. I mean, I think Gandhi is a person of great ambition. We briefly alluded to this in our first episode. He comes back from South Africa because he wants to claim a larger stage. He wants for himself a greater historic role. It's not in his, he has proved to himself that he can lead 150,000 diasporic Indians in South Africa. And at some level, he's bored and disenchanted with this. He wants to move on to bigger things. And he comes back. But clearly he's patient. Gokhale has told him to understand the country. He tours for a year. He starts speaking briefly on these issues. 1915-16, he's on the margins. And the first major opportunity comes in 1917 when he goes to Champaran and gets involved in, you know, the struggle of the Indigo tenants there. And he comes face to face with agrarian distress, what we would today call agrarian distress, right? And in a way in which neither Tilak, nor Gokhale, nor Jinnah, nor any Besant, nor any of the leaders of Congress had ever had a clue of how the peasants lived and labored. And Gandhi, in those three months in Champaran, understands that the real problem of India is, lies outside the cities. And if India is to really, you know, if a political action in India must bring in peasants, which the Congress till that stage has not been able"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:16.600",
+        "message": "to do. So before we talk further about Champaran, which I want to do, just a thought that struck me when you spoke about Gandhi's ambition, and it's probably an outrageous question, but do you think that self-delusion is a necessary condition to attain greatness? What I mean by that is no one starts out great, you know, and people always imagine themselves to be more than they are at the time, and some people overreach and fall flat, but some people just keep going driven by their delusion till they actually achieve greatness."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:45.560",
+        "message": "Well, I would rather call it self-belief. I mean, the belief may be delusory. In many cases, it may be delusory, you know, that actually you may get nowhere in your career. But self-belief is, Gandhi clearly had it. He had it from an early age. It was confirmed by his associates in South Africa, his friend Ranjeevan Mehta, who announced him a Mahatma well before Tagore does and so on. But I think the only explanation for Gandhi leaving South Africa and coming back to India is that he wants to be the leader of all of India. He's not content with being the leader of a small expatriate community."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:20.000",
+        "message": "And in some sense, much as the death of Gokhale is a shock to him, does it also free him in"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:25.040",
+        "message": "some way? Very much so, very much so. So I think Gokhale was a kind of person he enormously venerated. So Gokhale wasn't that much older than him. He was only three years older than Gandhi in terms of calendar years. But in terms of political career, he had achieved eminence far before Gandhi. And his death does free him because Gokhale would probably have wanted him to stay within the servants of Indian society, focus on social reform, not really go out and work among the peasantry, let alone, you know, craft programs of All India Satyagraha. I mean, it's hard to say, but Gokhale was just short of 50 when he died. So, you know, if he lived another 10 years, I think Gandhi's career may not have blossomed in the way it"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:08.160",
+        "message": "did. And in the last episode, we discussed how so often consequential events are contingent, you know, lucky things happen. Like in this case, while reading your book, what struck me is you, you talk about someone from Champaran, Rajkumar Shukla, who went to the Congress meetings and he tried to speak to the big leaders and get them to come to Champaran. They showed absolutely no interest. And as you point out, Gandhi was kind of marginal and he approached Gandhi once and Gandhi said, no, I'm not interested. He approached Gandhi twice. Gandhi said no. And then he followed Gandhi all the way to Ahmedabad. Yeah. And then finally Gandhi like, okay, whatever, you know, let's check it out. It kind of happened like that, that he, you know, it wasn't as if he was seeking to discover what agrarian crisis is like. He just gave in to the persistent demands of the gentleman and went along to Champaran and then he saw what was happening and got involved."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:55.240",
+        "message": "Yeah. And then he, once he got involved, he was incredibly excited. I mean, there's some letter I quote, I think it's to Pollack where he says, I'm reliving the excitement of my South African days. You know, I have my Kachalia, I have my so-and-so, I'm looking for my Pollack and my, and so on. And because he'd been three years away from political action and Champaran gave him this opportunity to craft a movement, to represent people, to become their spokesman, to mediate between them and the ruling authorities. You know, he became a hero in his native Gujarat because he disobeyed the deportation order that was issued to him and so on and so forth. So I think Champaran is that way very important. You know, people in Champaran make today have this criticism of Gandhi, which is a legitimate criticism that we launched him on his political career and then he abandoned us. You know, he didn't really come back hard to Champaran and find out what was going on. But in the larger history of Indian nationalism, Champaran is a very important milestone. And just because of the role it played in Gandhi's life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:54.380",
+        "message": "And just to fill my listeners in what was happening in Champaran was it was, there was basically an agitation by indigo farmers because, because of the world war demand for indigo had shot up. So, you know, the British wanted much more indigo. And one of the particularly problematic clauses was that they insisted that poor peasants had to devote a certain percentage, I think 10% of their land to, you know, planting indigo among various other clauses, which were coercive and just flat out wrong. And what Gandhi did when he got there was that he essentially traveled around the place and collected tens of thousands of signatures and then petitioned the government successfully. And he won that particular battle."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:35.040",
+        "message": "Yeah. Yeah. I mean, substantially, he won that battle that the onerous restrictions were removed by a lot. And it, you know, it also gave him a chance to understand the colonial state and its functioning apart from coming face to face with agrarian distress and how peasants lived and labored. It gave him this understanding of the mechanics of the colonial regime, which of course he was later to use to good effect."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:57.280",
+        "message": "And also like you mentioned that letter where he writes to Pollack, where he says that I will find my tambi Naidu here and I will find so and so here. And it's very interesting that during this period of time, Champaran and the year that follows, he finds a lot of people who were his close associates through the years that follow, like in Champaran J.B. Kripalani, then Rajinder Prasad, then as news of it got back to Gujarat, you know, Vallabhbhai Patel approached him there. And you can see this group of people now building around him, recognizing him as a leader through the sheer moral force of his actions."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:27.440",
+        "message": "Absolutely. And the moral force and the moral courage. I mean, apart from the names you mentioned, I think Mahadev Desai, who was to be his lifelong companion, secretary, interlocutor, advisor, right hand man, left hand man, also joins in the same year, 1917. So 1917 is very, very important."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:43.880",
+        "message": "And tactically, how did the British approach Gandhi? Did they take him seriously?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:49.120",
+        "message": "I think they were puzzled. I mean, the British were intrigued and puzzled. I mean, some clearly saw him as an unscrupulous agitator out there to create mischief. But there are several others. I think he's called Haycock. He's a district magistrate who says he's a yogi of the type, not unknown in the East, through his asceticism and his simple lifestyle, impresses and moves people. So clearly, some of them were very impressed. Some of them were hostile and angry. And this stroke of ambivalence runs right through the British reaction to Gandhi in India. There are people who detest him, who demonize him, British officials from the Viceroy downwards. And there's some who quite do respect and admire him. I mean, a little later in the story is 1922, when he's tried for sedition and comes up before Judge Broomfield, who says, you know, you're altogether different from any other person I've tried. You know, in the eyes of the law, you may be a criminal, but in the eyes of many of your countrymen, you're a great hero. And no one would be happier than I if your sentence is kind of, you know, curtailed or just, you know, reduced or withdrawn. Now, I think, you know, this is, of course, a theme for a separate podcast. And I mean, British state was also composed of human beings. You know, it was not just one abstract, unified, homogeneous entity out purely to do evil and oppress and brutalize the Indians. There were people there who empathize with Indian aspirations. There were people there who recognized the extraordinary person that Gandhi was. And on the other hand, there were people who were unfeeling, unreasoning, dismissive, arrogant, racist. And I think the variety of British reactions to Gandhi in India, let alone the variety of British reactions to Gandhi in Britain, which is also an interesting parallel story in these decades, is I think, is quite fascinating to the historian,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:37.680",
+        "message": "because there's no single British reaction to Gandhi. And it's interesting that in the beginning, they sort of underestimate him, like you point out how after that first speech he gave, you quote the chief secretary when they're debating what to do about him. And he says, quote, cold water seems better than the martyr's stake. And they sort of decide to ignore him because they don't think he'll have much impact. And you see this play out over the next 30 years, like even the salt march, for example,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:01.560",
+        "message": "they actually allowed him to reach Gandhi, which was again much debated at the time. A spectacular act of misjudgment by Irwin who thought that, you know, what is this salt business and what is this old man going on a march? Just ignore it. Not realizing the enormous symbolic significance of what Gandhi was trying to do and the way in which with every successive day of the march, he would capture the imagination and, and the loyalty"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:23.360",
+        "message": "and affection of more and more Indians. Now, shortly after Champaran, another sort of seminal event happens, which is that labor dispute where he, uh, uh, you know, takes a side of some laborers against a factory owner, Ambalal Sarabhai, who had actually donated money for his ashram and helped him to kind of survive there. And the labor leaders are led by, um, uh, Ambalal Sarabhai's sister Anusuya Ben and he gets together with her. And, you know, one interesting, again, you know, speaking of contingency and luck, how things sometimes happen is that after a few days of the agitation, the workers pointed out that, how can you empathize with us? We are starving. You are going to your fancy house every day and eating a meal. And then Gandhi said, okay, I will fast. Yeah. And that's how his whole tradition of fasting begins with Gandhi as a response, as a tactical response to this criticism rather than. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:14.040",
+        "message": "So he had Gandhi had fasted before, but that was against the disciples in his ashram for violating the code of the ashram. You know, his son fell in love. One of his sons, Manilal fell in love in South Africa, you know, was having some kind of, uh, relationship that Gandhi felt was illicit and breaking the code of the ashram, Brahmacharya code of the ashram and he went on fast and so on. This was his first quasi social or political fast. And he was stung by the criticism. I think, uh, there's a, uh, Anusuya Ben who was Ambalal's sister, but on the other side with the workers and Gandhi to travel in a car with the splendid name of an overland roadster. So we had cars were very rare in the Ambala and cars really denoted privilege. Only the Maharajas had cars, right? So here is this so-called Fakir leader, the people, you know, going in a car and the worker said, Hey, what is going on?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:04.000",
+        "message": "And he was stung by that. And taking off from the, how did the spiritual persona that he later came to adopt, like how did being called the Mahatma in terms of optics, the way he dressed and you, you know, the simplicity with which he essentially portrayed himself and mostly lived, um, how did that help him in becoming the sort of political superstar?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:22.680",
+        "message": "I think very much, uh, I mean, because to go back to, uh, uh, our earlier discussion a few minutes ago about the Congress party, I mean, the Congress party, whether it was Gokhale, who was reason and moderation or Tilak, who was fired and brimstone and angry rhetoric, they were really divorced from the life of the ordinary people. I mean, Tilak had a following among the workers of Bombay, but he didn't live in the Charles. I mean, he still lived with middle-class people and occasionally went to the Charles to give a lecture. I think Gandhi's completely declassed lifestyle, you know, he declass himself totally in terms of his lifestyle. Again, Champaran is very important there because he lives with peasants, he travels with them and that kind of asceticism, the willingness to do away with all luxuries. And which is why when it was pointed out to him that he was traveling in a car, he abandoned that for the, for the, while the strike was on in Ahmedabad, but it marked him out from all other political leaders of the time, the other political leaders of the time were really elitist and disconnected from the everyday lives of peasants, workers, tribals, Dalits, Adivasis, you know, pastoralists, artisans, and Gandhi at least had some connection"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:33.360",
+        "message": "to how those people lived. And, you know, you also point out how Gandhi in a short span of time, uh, achieved this mass popularity, almost like, um, you know, the way memes spread today, achieved this mass popularity and became a huge figure in days when there was not only no internet or social media, but no television, even like no radio, even no radio, even effectively. So how did, how did this man just become a national figure in the span of a few months"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:02.880",
+        "message": "without all of this? Few years, I mean, I think more few years than few months. I think, you know, there was already a, a press, uh, and a burgeoning vernacular press, not just in English, but in different Indian languages. And it's, you know, the press was often, uh, issues of newspapers were often read out, you know, that, uh, under a tree in a village, you know, the one little person would read out the news, but it is, even then it is quite extraordinary. I mean, uh, I'd say by 1920, uh, Gandhi was known in every part of India, except the Northeast. I mean, in Assam, yes, but not in Nagaland and Meghalaya and Mizoram and Manipur, but except the Northeast, he was known in every part of India and he was known in every part of India or the impression or the perception of him in every part of India was, this is a man who's transparent, honest, courageous, simple, and he's here to fight for our rights. And that is quite extraordinary. I mean, that it essentially from 1917, which is his first movement in Jampal and in three years, that's how far his fame spreads. And whereas, uh, Tilak would have been known in the cities. Tilak would have been known in Bombay, in Calcutta, probably in Lahore, but not in the countryside."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:19.960",
+        "message": "And how much did it help Gandhi that in, uh, you know, during the Champaran thing, and then during the, um, the passive resistance that took place against the Rowlatt Act, uh, that Tilak was out of the country for some of this period. So Gandhi almost became a de facto leader of the movement."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:34.480",
+        "message": "Very much. Again, it goes back to just luck, pure luck. Gokhale's early death freed Gandhi for a life of radical action rather than, uh, you know, constraining him or confining him within the realm of social reform and Tilak's absence, you know, allowed Gandhi to become the undisputed leader of, uh, the Rowlatt Satyagraha. I mean, Tilak was the Rowlatt Satyagraha, which was, uh, Gandhi's first all India campaign, uh, was launched when Tilak was in London, fighting a court case and Tilak, who was the leader of the militant tendency in the Congress, as we've already discussed, would have become the default front of this movement. Gandhi not had to go to London. By the time he returns, Gandhi has already captured, you know, the national imagination and Tilak is generous enough to praise him. Uh, and, uh, a year later, Tilak himself dies and Gandhi is lucky to be in Bombay at the time of Tilak's funeral and he can, you know, he, uh, cremation and he can be one of the pallbearers. So there's a kind of symbolic transference from Tilak to Gandhi. So Tilak's absence in 1919, Tilak's death in 1920, uh, again, in retrospect, very fortuitous for them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:41.560",
+        "message": "And you know, one of the sort of big moves that happens, not just for Gandhi, but for the Congress and for India itself is what seems on the surface is almost bizarre alliance that, um, Gandhi, um, gets into with the Ali brothers who are in the Khilafat movement. At this point, the world war one has ended. Turkey is lost. Uh, the caliphate is gone basically. And, um, you know, the Ali brothers and people around them are starting this Khilafat movement demanding from the empire that they sort of bring the caliphate back. Now, through this entire period of time, which we now forget the Muslims of India are also facing in a sense, a crisis of dual identity that they feel that they are part of this larger calm, this greater Muslim nation. And at the same time, there is a fight on for Indian nationhood, you know, and, and how does this conflict sort of play out? How has it played out until"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:35.240",
+        "message": "that point? So, uh, the Khilafat is abolished during the world war and Turkey is opposing the allies and the Ali brothers, Mohammed and Shaukat Ali, both whom studied at Muslim university and charismatic orators and so on are interned in, in Chindwara, which is incidentally the place where Kamal Nath comes from, or where he has his pocket burrow. He"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:57.320",
+        "message": "has his pocket burrow. And I didn't expect to hear that name during this episode, the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:03.000",
+        "message": "curious, uh, uh, you know, residences that places have. So they were interned and then they come out of jail. Gandhi says they must be, uh, freed from house arrest and Gandhi is looking for a way to build bridges with ordinary Muslims, you know, not just the Muslim elite and here, of course, what Gandhi does, I mean, it's been subject to great debate and it was arguably a tactical mistake for him to bring religion. So centrally Muslim, the pan-Islamic, uh, loyalties of Indian Muslims. So centrally into, uh, Indian politics was in retrospect a mistake because, you know, it led to all kinds of problems later on. But I think the most, uh, plausible explanation for what Gandhi did lies in a classic essay written by a British scholar of India called Phillips Pratt, who had studied Gandhi's life very closely, who actually lived in Bangalore, married a Tamil girl and lived here. And he says that, look at what Gandhi was able to do in South Africa was to build bridges with the Muslims through personal friendship. So he befriended Kachalya, uh, he befriended, you know, uh, uh, Dada Abdullah. And through that, he was able to bring Muslims and Hindus together. I mean, he had close Muslim friends and these close Muslim friends in South Africa allowed him to build a kind of trans-religious community solidarity. Now, perhaps Pratt says that was easier in South Africa because the community was smaller. It was more cohesive. When in the diaspora, your religious identities are relatively less important, but in India, which is much larger and where the Muslims themselves are so diverse and composed of so many different sects, this strategy of befriending two people to bring a whole community on board failed. And, uh, uh, you know, it's, I think it's a very plausible kind of interpretation, but Gandhi felt that to bring Muslims into the fold of the freedom struggle, en masse, not just a few leaders, but en masse was very important that the Arya brothers could help him do it. And if you know, the Khilafat had a very important sentimental and symbolic place in the Muslim imagination, the Indian Muslim imagination. So the Hindus should support them in that. And in exchange, the Muslims would come on board and freedom struggle. They would respect Hindu sentiments, for example, on issues such as playing music before mosques and cow slaughter and so on and so forth. So he did it tactically and instrumentally, I think, and may not have been aware of the consequence. People warned him at the time. I mean, I quote there, uh, the warnings issued by Jadunath Sarkar, who was a right-wing historian and Gandhi's own friend, C.F. Andrews. He said, don't do this. They both said, don't"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:34.400",
+        "message": "do this. Don't support the Khilafat movement. And it just causes great dissonance in me when I read about it at Alliance, because on one hand it's philosophically incoherent because Gandhi's demand is for a free India. Correct. And the Ali brothers are demanding for a free Khilafat, which is something completely different. And India doesn't figure in that it's, it's a wider nation out of, but on the other hand, in the proximate term, it feels like a tactical masterstroke because getting the Muslims with him allows him to take control of the Congress party and which is therefore changed forever."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:03.800",
+        "message": "Absolutely. But just think of a counterfactual, I don't express it in the book. I mean, but you know, to give some context to it and maybe present this Alliance in a way we can understand why Gandhi reached out to the Ali brothers. Let's assume that in 1917, the Bolshevik revolution happened not in Russia, but in Italy and the Vatican and the institution of the Pope was abolished. All right. Now it's similar to the Khilafat in that they're Catholics in India, they're Catholics in Spain, the Catholics in Philippines, they're Catholics in Thailand, all of whom can be great and loyal and patriotic, high in Spanish and you know, Mozambican citizens, but yet have allegiance to the institution of the Pope, who is the head of the church in the Vatican in Italy. Now, what if Lenin had said, I'm in control of Italy and there's no Pope, I mean, the Bolsheviks were vigorously atheistic people, right? Now, what do you say in India to a Catholic who comes to you and say, says, if there was a Catholic community in India, uh, as they watch the smaller numbers come at a much smaller, but let's say they come to Gandhi and say, you're the leader of our freedom struggle. This is a matter of great sentiment and symbolic importance to us. Please agitate for the restoration"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:16.920",
+        "message": "of the office of the Pope. I know what Amit Shah would say to them. He would say, come back and become Hindu. So that's the kind of analogy you would, you know, so to make"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:27.320",
+        "message": "it more understandable and Muslim, the much larger than, uh, uh, Catholics, they were much more numerous, much more important. And, uh, do you say that, uh, uh, you know, uh, an Indian Catholic who goes to Rome is, uh, once in his or her lifetime is anti-patriotic or the rest of the life is spent. I mean, it's kind of a symbolic, right? Okay. Okay. Now come closer home. I mean, a Nepali who goes to Badrinath, right? What do you say to that? You know, so, or, or a Hindu in Guyana who wants to go to Badrinath, right? And is that Hindu in Guyana disloyal to the Guyanese state or is he an anti-national from the eyes of Guyana because he feels that Badrinath is a Teerthan he would like to visit. So these are complicated matters. And I think one should not take a black and white approach to them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:15.320",
+        "message": "Yeah. I'm, I'm, I'm talking about sort of how it might have been seen by the British empire or how it might have felt in terms of what they were asking for. I mean, obviously people contain multitudes and you can be a Hindu and an Indian and a Bombayite and so on at the same time. Uh, another thing that strikes me is at this point in time, in the earlier years, you know, after Gandhi comes back and the two or three years after that, he's sort of a marginal figure, like you mentioned. And at that point, Jinnah is like the next great leader in waiting. And you know, Tilak and Annie Besant are kind of aging, the extremist leaders. Tilak is a great moderate leader who's expecting to sort of be Gokhale's successor and take over. And then suddenly this black swan event called Mahatma Gandhi just bursts into the scene and knocks him off the perch. And suddenly he's, he's kind of marginalized and does that personal hurt and his change in direction after that point change history substantially?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:05.800",
+        "message": "Yes, I think, I think it does. And it, it predates it. I mean, I, I go back, I mean, most historians would talk about, of course, Gandhi's leadership of the rural Satyagraha, which established him as an all India figure. And then the next year, the non-cooperation movement and the meeting in Nagpur where Jinnah is shouted down by the mob of Gandhi Bhakts. I mean, they were really Gandhi Bhakts, you know, who are then running the Communist Party. But I would predate this to 1915. I mean, I'd, I'd say early in, in an early chapter that when Gandhi comes back and there's a reception to Gandhi in Bombay by the Gujarati community of Bombay and K. M. Munshi, later to be the founder of the Bharatiya Vidya Bhavan, but at that time a rising lawyer and scholar, welcomes Gandhi and says, you're the greatest person ever from Gujarat. And Jinnah must have been really stung by this because Jinnah was a Gujarati who was in conventional terms, had a far more successful political career than Gandhi. I mean, he was already a member of the Imperial Council. He was a great success in the Bombay Bar, which Gandhi had conspicuously failed to be and so on. So I think there is that element of personal rivalry at being overshadowed, overtaken, sidelined, marginalized by a person who's a Johnny come lately and whom Jinnah clearly sees in professional terms as inferior."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:20.040",
+        "message": "And in an aside, in both your books, you mentioned that they could have been business partners."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:24.600",
+        "message": "Yes, yes. In 1897, they could have been business partners in South Africa. Absolutely. I mean, they always had a partnership because, you know, Gandhi was in South Africa. We have discussed this in the first episode. He was the only Indian lawyer. He wanted a partner since a large proportion of the diasporic community in South Africa was Muslim. It made sense to have a Muslim partner. And there is some very strong speculative evidence to suggest that he had approached Jinnah to join him in a partnership."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:51.000",
+        "message": "That would have been a fun counterfactual. We'll take a quick commercial break and then we'll come back and move away from the chronology for just a little bit to talk about caste."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:39:58.640",
+        "message": "Hello, everybody. Welcome to another awesome week on the IBM Podcast Network where IBM podcasts on Twitter, Facebook and Instagram. You know, we've been doing this for a couple of weeks and I think it's working out quite well. If you're enjoying the show that you're listening to, why don't you do this? Pause the show, take a screenshot and post it to your Instagram stories, tag us on IBM podcast and leave us a comment for what you think about the show that you're listening to. We'll post that to our story so that, you know, I mean, like everybody can see what's going on, who's listening to what. Also, I have another little announcement. We are finally launching our new version of our Android app. It's going to be out officially and properly. It's going to move out of beta. So if you are listening to us on the old app, it might be time for you to kind of look for the new one. Unfortunately, it's not going to update from the old app. You're going to need to re-download the app or reinstall the app from the new listing. You'll be able to get the new app. You can link for that from either the show description of the show that you're listening to, or you could go to our website and there'll be a link over there. So we launched a new show called How to Citizen. It is hosted by policy professional Meghnaad S and comedian Shreyas Manohar. Every episode is a look back at a chapter from an 8th standard civics textbook. The first episode featuring Rohan Joshi is out now. On the Scene and the Unseen is part to Amit Verma's conversation with historian and author Ram Chandra Goa. They discuss the return of Mahatma Gandhi to India and his involvement in the freedom movement. On the Filter Coffee podcast, Karthik Nagarajan talks to Ram Ki as founder of Sports Mechanics India. They talk about how video analysis changed the face of Indian cricket and why Virendra Sehwag dedicated his Multan triple hundred to Ram Ki. On Cinemaya, our Hindi film show, filmmaker Aruna Rajepatel shares one of the most dramatic human stories of love, loss and hope with host Swati Bakshi. On Vartalaab, Naveen and Akash talk to fellow comic Aadhar Malik about his background in law and parting ways with the comedy collective SNG. And with that, let's get you back to your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:39.400",
+        "message": "Welcome back to the Scene and the Unseen. I'm chatting with Ram Goa about Mahatma Gandhi's years in India. And for a moment, I want to take a break from the chronology of what he did and how he rose to greatness and tackle one of the big themes in the book and in Gandhi's journey and all of India, in fact, which is caste. And it's really interesting because through the years you see Gandhi sort of trying to come to terms with it. And I'm not convinced he ever did. And there are these different sort of contradictory quotes, which like, you know, there is one quote, which he gives in Mayavaran quote, if it was proof to me that caste is an essential part of Hinduism, I for one would declare myself an open rebel against Hinduism itself. Stop quote, which seems like a strong stand, but there's an if at the start of it. And Gandhi sort of had this, it almost seemed to me that he was in denial of how pervasive caste was that, you know, while, you know, Ambedkar later on would talk about the annihilation of caste and that it was hard coded into Hinduism itself. Gandhi sort of seemed to believe in something called Varna Ashram Dharma, which he cited when there was talk of an untouchable family entering his ashram. And he said that according to Varna Ashram Dharma, which he held to be valid, people of different castes can't stay under the same roof and eat at the same table. And he said, I'll make an exception for my ashram because we are not functioning under the same rules, but I'm not going to ask other people to sort of follow these rules. And he had a view where like the four, he once said, quote, he wanted to improve the caste system rather than uproot it. And his view seemed to be that the caste system isn't bad per se, untouchability is bad, but the four"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:19.480",
+        "message": "varnas can exist. Yeah, that's the position he starts with. And I think it's important to recognize that Gandhi's feeling is way around India. I mean, he's, you know, he's an outsider. He has to establish his authority of the political movement. He has to prove his credentials as a social reformer. Caste is, you know, caste divisions, boundaries are very pervasive in Hindu society. He is someone who does not know Sanskrit. He is not a Brahmin. So there'll be questions about how he interprets tradition. And he started to do several things at the same time. I mean, he's leading a movement for political freedom. He is forging a compact with Hindus and Muslims, and he's trying to abolish untouchability. And clearly he, if he has to move on all fronts, he has to move slowly. And I think the depth of hostility to even his limited attempts to attack untouchability early on, from the time in 1915, when he admits a Dalit family and his funding collapses, right, and is even a possibility the whole of upper caste society in Ahmedabad ostracize him, to later on through the twenties and thirties, when the most vicious and vehement attacks on him are not from Dalit radicals, but from upper caste orthodox people, including attempts on his life. So I think it's in that context that one has to understand why he moves slowly. You know, so among the people who radicalize him, well before Ambedkar, is a man called T.K. Madhavan, who is a follower of the great Malayali social reformer, Narayan Guru, who visits Gandhi in Tirunelveli in 1921, when Gandhi is doing non-cooperation work. And he comes up from Kerala and says, you know, you're against untouchability, that's good, but why can't Dalits enter temples? And Gandhi says, no, no, no, I'm not sure, you know, at the moment, you know, that may not be such a good idea. But in three or four years, he changes his mind and he blesses the Vaikam Satyagraha, which is the start of the struggle to make Dalits equal in the eyes of God. And if Dalits and upper caste Hindus are rubbing bodies, going together for the temple, that is a major blow against untouchability. But Gandhi is moved along that path by people more radical than him, to begin with Narayan Guru and his followers and later on Ambedkar, of course. And of course, from advocating temple entry, he then advocates later on intermarriage from the early 30s, when his own son, his youngest son marries outside the caste and then further down the decade where he solemnized a series of marriages between Dalits and non-Dalits. And once you advocate intermarriage, you've effectively undermined the whole caste system. So I think the evolution of Gandhi's views is very important that he's moving in a more egalitarian, more progressive, more radical direction. And one must not cherry pick him, pick quotes from an earlier period of life and claim that he"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:06.240",
+        "message": "stood by those views all through. And is it sort of complicated to look at the utterances of a public intellectual who's also a politician? Because a public intellectual's imperatives are just to be true to his thoughts."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:18.080",
+        "message": "Absolutely. Absolutely. You're quite right. He was trying to move society in certain ways."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:24.320",
+        "message": "Can a lot of his utterances also be a sort of hedging that while he's saying that yes, caste is bad, he at the same time doesn't want to piss off the orthodoxy too much. So"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:32.240",
+        "message": "he hedges by saying that no. Because he wants to build a broad-based coalition against the British at the same time. I mean, in the old days, the Marxists attacked him for not advocating revolutionary violence against Zamendars and expropriation of property. That's because he wanted Zamendars and landless laborers both to be in the struggle for freedom. And he would have wanted, of course, a more equal distribution of land that could come in time and through more gradualist methods. Now there remains a major difference between him and Ambedkar, which you pointed to in your initial remarks and questions, Amit, which is that it's a major philosophical difference. Ambedkar thought that untouchability and caste distinctions were integral to Hinduism. And hence the Dalits had to move away. In 1935, he says, I was born a Hindu, but I will not die a Hindu. Ambedkar says this. He considers Islam, he considers Christianity, he considers Sikhism and very late in life in 1956, long after Gandhi is dead, he embraces Buddhism, but tragically dies six weeks later. Now, so Ambedkar's position from 1935 was Hinduism is incapable of root and branch reform. It can do cosmetic reform, but not root and branch reform. Whereas Gandhi thought, I can save Hinduism by abolishing untouchability. So in that sense, Gandhi both lived and died a Hindu, whereas Ambedkar felt that for his people, they had to escape the Hindu fold. And that is the other philosophical differences between the two, which are in some ways equally important. One is that Ambedkar came from a modernist, statist, quasi-socialist tradition and felt the state is the agency of reform. You need laws, you need policies. And Gandhi felt that social reform comes from within, from individuals reforming themselves, from collective community action. That is the difference that can be reconciled between Gandhi and Ambedkar. Because clearly, if you want to end caste discrimination totally, you need both community renewal and purposive state action. But the first philosophical difference, which is that can Dalits live a life of absolute equality and self-respect within the Hindu fold, or do they have to go somewhere else? It's still an open question. I mean, one can't really answer that definitively, either on"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:44.200",
+        "message": "the side of Gandhi or Ambedkar. In fact, there's an excellent quote I picked up from your book where Ambedkar says, quote, the outcast is a by-product of the caste system. There will be outcasts as long as there is caste. Yes, yes, yes. And of course, caste is inextricably tied to Hinduism in his notion. And Gandhi sort of had this approach that, listen, you know, don't worry about it. It's, you know, the upper caste will reform through, you know, you appeal to their conscience and they will reform on their own. And there almost seems something condescending sometimes about his approach to Ambedkar. Like at one point, you quote him much later on referring to praising Ambedkar as quote, intellectually superior to thousands of intelligent and educated caste Hindus, stop quote. And this is outrageously condescending. Yeah, absolutely. Absolutely."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:30.560",
+        "message": "He could be condescending towards the community too, more generally. For example, when Ambedkar says, why doesn't the Harijan Sevak Sangh have Harijan? He says, no, it's the upper caste Hindus who have to repent. You know, but I think if the Harijan Sevak Sangh had had upper caste and Dalits together, and together they would have presented a joint front, I think that like the Khilafat movement, that would have been more effective. So they are clearly, you know, decisions he takes, statements he makes that are patronizing. But having said that, I think it must be put on record that Gandhi did more than any other upper caste Hindu in the history of modern India to delegitimize untouchability. I mean, he frequently abandoned his political career to launch, you know, to go on a march against untouchability. He risked his own, you know, status and career by taking on this question. He, as I said, there were attempts on his life from 1915 onwards, he's preaching the abolition of untouchability. So you could say he did more, he did more than anyone else in his position. I mean, so Patel, Nehru, Bose, Madan Moliya Amalya, Dange, Nambudripad, Srinivas Shastri, all the other Hindu leaders of the time, whether in the Congress, to the left of the Congress, right of Lohia, Jayaprakash, none of them talked about untouchability or attacked it so seriously and systematically as Gandhi. The only leader in the Congress party from 1915 to 1948 in Gandhi's death, the only major leader in the Congress party who understood the significance of Gandhi's campaign was Raja Gopalachari, no one else."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:01.520",
+        "message": "And in fact, it's telling that not only did he, um, uh, let in those, uh, the, the Dalit families who wanted to be in his ashram, but visitors to his ashram, as you've cited in your book, describe him eating out of the same plate, like someone had half a fruit and then shared it with Gandhi. And he, and I'll just talk about this. Right, right, right. And what also happens later on is that, uh, he starts this magazine called Harijan and he starts a society called Harijan Sevak Sangh. And both of these seem, it seemed to me as I was following the chronology in the book happened sort of after or in the middle of his heated debates. And it almost seemed in one sense that he's like, you know, I have been fighting for caste for so many years and now I am being challenged in this way and I will show my loyalty to the cause and I will call my, um, uh, magazine Harijan. But at the same time, and, and Rajaji saw this, that there was also a touch of condescension"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:53.920",
+        "message": "and is calling the organization Harijan Sevak Sangh. Yeah. And Rajaji says, call it anti untouchability league or untouchability abolition league, because the idea is to abolish untouchability. And there's a bureaucratic, uh, you know, objection saying we already printed the stationery, you know, is what, so we can't change the name now. But in retrospect, Rajaji was absolutely farsighted on this because the name Harijan has a condescending ring to it and has been rightly rejected and repudiated by Dalits"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:21.400",
+        "message": "today. And, uh, you know, Ambedkar's battles against, um, you know, Gandhi were always sort of civil, but very heated and strident. Like, uh, he spoke about how Gandhi wants to play a double role, uh, quote unquote data for Mahatma and a politician. And he wrote this book in July, 1945, what Congress and Gandhi have done to the untouchables, which was a scathing diatribe. It disturbed Gandhi. He asked Rajaji to write a rejoinder to it, which Rajaji eventually did. And you know, Ambedkar in a sense also, therefore through doubts on the whole independence project where he said that Dalits in India, untouchables in India have the same status as Negroes in the U S how will independence help us?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:00.600",
+        "message": "Yeah, absolutely. And I think, but I think together, I mean, even as a historian, uh, you know, uh, you, uh, look at it in context and you depict their battles and their struggles and the arguments and the, but in retrospect, I think India needed both Gandhi and Ambedkar. It needed, you know, a radical reform from below and a guilt-ridden, you know, upper caste reformer from above, uh, to together delegitimize the caste system. And the real tragedy, I mean, this is, this is something beyond the scope of my book, which ends with it. The real tragedy of the struggle against caste discrimination is that after Gandhi's death, the Gandhians abandoned it. Someone like Vinoba Bhave never took it up. You know, it had to be an ongoing struggle. It had to be taken up by upper caste social reformers in a completely selfless and systematic way. And they really didn't do it. So they abandoned Gandhi. I mean, the Gandhians abandoned Gandhi in this respect after 1948."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:51.560",
+        "message": "And even during the struggle, what was the attitude of the other office fellow leaders,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:56.080",
+        "message": "so to say like Nehru, Patel? They were not really very, they thought that it was a deviation"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:00.440",
+        "message": "from the struggle for political freedom. That's essentially how they saw it. And how do you"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:04.240",
+        "message": "personally, how do you view Ambedkar? I mean, I view him as an extraordinary figure, a person of great courage. I'm going to take on the Mahatma who was that much older than him, a brilliant scholar, but at the same time, a polemicist, someone who maybe found it hard to get along with people because he was, you know, uh, a person who was so brilliant. Uh, you know, he essentially did not have, uh, he had, uh, people who he disagreed with and people who followed him. You know, he does not seem to have had, I mean, there's some indications that he may have had an emotional relationship with an English woman to whom he dedicates one of his books, but that's not being fleshed out. And later on, he had some kind of companionship with his second wife. Uh, but he was, maybe it's, he was lonely because that's how, uh, he still trusts him in that role. He still trusts him in the role of someone who was too independent minded to loyally follow Gandhi. And because he was too independent minded to loyally follow Gandhi, he had to make common cause with the British, which alienated him from his fellow Indians. So he's an extraordinary figure, but it's the element of both great heroism and some tragedy in, you know, in his life. You know, I obviously, you know, it's, uh, admire both people enormously. I mean, and one of the interesting aspects of my book, I mean, now that I look back on it is that Ambedkar is much more important than Jinnah. You know, so if you look at, compare my biography, Amit, with biographies of Gandhi written 15, 10 years ago, 20 years ago, 30 years ago, 40 years ago, 50 years ago, you will find in those older biographies, Jinnah looms much larger than Ambedkar. That's right. Okay. And I realized this only when I finished the book, you know, and Jinnah is there, Jinnah is an important figure. Ambedkar is much more important because Jinnah was merely posing a political challenge to Gandhi, whereas Ambedkar was posing a political and a moral challenge to Gandhi. And the debate between Gandhi and Jinnah ended in 1947 because Pakistan was created. The debate between Gandhi and Ambedkar continues so long as there's caste discrimination, that debate continues. So it just strikes me. I mean, someone should do a kind of analysis of my biography versus previous biographies, purely in terms of the number of index entries that Ambedkar and Jinnah have here. I mean, most notoriously Attenborough wrote Ambedkar out of his film totally. Ambedkar doesn't think, okay, and Jinnah is the fall guy, the kind of the villain. But I'm sure if you look at Walpert's book on Gandhi or Rajmohan Gandhi's book on Gandhi or Judith Brown's book on Gandhi or B. R. Nanda's book on Gandhi, all very good books. So Jeffrey Ashe's book on Gandhi, Louis Fisher's book on Gandhi. I have a photo of Louis Fisher and Ambedkar in my book, you know, so they knew each other, but I suspect Louis Fisher's book, sometimes I read it, you know, Jinnah will be much more important than Ambedkar in the narrative. So I think he was Gandhi's greatest, most insightful, most persistent, and most courageous critic. That's what Ambedkar was in Gandhi's life. He was many other things besides. I mean, he was a constitutionalist, a scholar and economist, but in Gandhi's life, I think he"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:08.520",
+        "message": "was his, he was Gandhi's most important interlocutor. And like Gandhi, he actually contained multitudes in terms of he wrote so much and he changed his mind so often that it's very hard to sort of get a grip of the man. And I haven't read much Ambedkar. So I'll throw to you a question a friend asked me recently, and I don't have an answer to it, which is if one wants to discover Ambedkar's thought, what is the best place to start? What are the best books? On"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:30.080",
+        "message": "him or by him? You see, the best place to start is Byron Rodrigues, who's a very fine scholar political theorist from Mangalore, did a book called The Essential Writings of B. R. Ambedkar, which he edited, and which has a 50 page introduction, and which is a selection of Ambedkar's writings. That is one book I would recommend. The other book I would recommend is by the late D. R. Nagaraj, who was again, I'm sorry to recommend two books by residents of Karnataka, fellow citizens of Karnataka, but that's how they're both first-rate books. D. R. Nagaraj was a brilliant intellectual, Kannada, bilingual Kannada English intellectual who died tragically young. And he wrote a book called The Flaming Feet, which first appeared in 1993. And his student Prithvi Dutta Chandra Shobhi has revised and expanded it in a new edition with Permanent Black published, which is an account of the Dalit movement in Karnataka and Ambedkar's place in it. I'd say those are two very important books. There's a lot of hagiographic, worshipful writing on Ambedkar, including by scholars, which I don't take very seriously. There's a reasonably good book by Eleanor Zelliot published 50 years ago, or the Bahar movement per se, which Ambedkar led. Dhananjay Kheer's biography of Ambedkar is unequalled for factual information, but very badly written and put together. And the world awaits a good critical biography of Ambedkar. I think he's a figure who has just not been written about with the kind of analytical robustness that he deserves."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:03.280",
+        "message": "I know you must be exhausted after these Gandhi books, but is that something you'd ever do?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:06.840",
+        "message": "It has been suggested to me, Amit, but I won't do it for a few years, if at all. I mean, some younger scholars should do it. Again, there's room for many books on Ambedkar. There's some writings on Marathi. I don't read Marathi, so I don't know how good they are. You need a really good, proper biography. And then you need several good thematic books on him, you know, which take up his constitutional thinking and so on and so forth. And like was the Rajaji, you know, Rajaji is another great figure whom the last good book, Vasanthi Srinivasan wrote a short book on his political thought, but he again awaits rediscovery. There's too much written on Gandhi and Patel and Nehru and not enough on people like Rajaji"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:45.600",
+        "message": "and Ambedkar, of quality. So getting back to the subject of our episode, which is Gandhi, another sort of area he had, you know, where one can have conflicting views about what Gandhi thought about it and how he acted is women. And, you know, early on in your book, you quote him as saying that in a nation where sort of women are not part of active political and social life, quote, the nation walks on one leg only, stop quote, which is a very eloquent way of putting it. But his view of women was always sort of very paternalistic, not just, not just in the way he treated Kasurba and his own family in that Hindu patriarch way as he described, but he was just paternalistic, like much later when he's responding to a letter by a correspondent who's written to him, he writes about his, his view of the modern girl. And that goes, quote, I have a fear that the modern girl loves to be Juliet to half a dozen Romeos. She loves adventure. My correspondent seems to represent the unusual type. The modern girl dresses not to protect herself from wind, rain or sun, but to attract attention. She improves upon nature by painting herself and looking extraordinary, stop quote. And obviously this, this got a heated response from the young ladies who, you know, nice feminist response. And then he kind of responded to this with, you know, what, what reminded me recently of another name I didn't think I would take in this episode of Rani Mukherjee, where he seems to do a bit of victim blaming later, where he says, stop quote, the girls must learn the art of protecting themselves against the ruffianly behavior of man, stop quote. So he's, you know, while he does pay lip service to women being equal to men and being an equal part of the nation, it's this kind of very paternalistic."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:30.400",
+        "message": "So, you know, one of the episodes that you described, you know, this is one of the highlights of doing archival research. So Gandhi writes on women, where he says that, you know, they're looking for, that Julia's looking for Romeos and, you know, they should dress more modestly and so on. There's a response from these women of Bengal. Gandhi then writes a follow up where he quotes a little bit of that response and addresses it. Now in the Sabarmati archives, I found the entire response, the handwritten response, the wonderful letter, you know, it says 11 women of Bengal, and I quote much more than Gandhi does. And it is a brilliant feminist, you know, critique of male voyeurism, victim shaming, all the things that we talk about now, you know, and it's superbly written, but it's a great deal of intellectual rigor and self-confidence. And it's there in the Sabarmati archives, the whole thing, which is a joy to discover this, that in 1937, there were these women, you know, writing this kind of thing. Yeah, I mean, it's his attitude to women is complicated. You know, he is, again, evolving. But again, I think he is, he must be given credit for bringing women into public life. You know, Madhu Kishwar, which is another name, you may be surprised to have me quote in this context, but I'll quote up positively and affirmatively, because there was a Madhu Kishwar before, there is today's Madhu Kishwar. Many years ago, she wrote a very good piece, you know, in her more sober scholarly avatar, which is what she was then. She wrote a first state piece in the EPW called Gandhi and Women, which kind of analyzed the contradictions in Gandhi's worldview. And while pointing to his patronizing attitude towards women, also says something quite striking. She said, Gandhi brought more women into public life than Mao, Lenin, Stalin, Churchill, de Gaulle, Roosevelt, which is absolutely true. I mean, in 1924, Gandhi comes out of jail. The Congress wants him as president. He says, no, Sarojini Naidu should be president. They said, no, you have to come be president because you have to reconcile the party. It's split between Swarajis and no changers. He said, okay. But next year, he insists that Sarojini Naidu is made president."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:39.360",
+        "message": "The first Indian born woman."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:40.360",
+        "message": "And in 1925, it was inconceivable. There were no democratic women who were senators. Now you have Elizabeth Warren. I mean, now, of course, the USA is far ahead of us. But back in those days, you may not even have had a city council president who was a woman, right? And here you have the president of the major national party. Women participate in the Salt March and Quit India Movement. They're in the Congress Working Committee. So, which is, whereas, the Bolshevik revolution is largely, almost all male. Chinese communist movement is totally male. De Gaulle, Churchill, and so on are much more contemptuous of woman power and woman autonomy and dignity. This is not to defend Gandhi, but to contextualize it. That, you know, by the standards of today, he was wanting. By the standards of his time, he was in advance of other political leaders who were his contemporaries. I think that's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:29.000",
+        "message": "something which must be placed on record. Now I want to move on to, you know, what I've labeled over here as obsessions. And, you know, Gandhi's obsessions in a sense. And my favorite sentence in your whole book, excuse me for saying this, but I'll have to quote it. My favorite sentence in your whole book, which made me LOL, so to say, was, start quote, on 14th April, 1938, Gandhi awoke with an erection and despite efforts to control his excitement, had a masturbatory experience. Stop quote. And this is a very funny passage because then obviously the obsession in question, which I'm talking about is celibacy and he's deeply disturbed by this. And he thinks of even going public with it till, you know, Rajaji and all in alarm managed to stop him and because he would of course be the butt of jokes if he went public with it. And, um, and celibacy was one of his sort of personal improvement obsessions throughout his life. He insisted that his children be celibate. He didn't let them marry. And, uh, he would write editorials in the various magazines. He did talking about the importance of preserving the vital fluids. Uh, I mean,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:33.160",
+        "message": "No, it is, it is. I mean, this goes back to volume one where I talk about how he became a Brahmachari and you know, how he learned from Tolstoy and Raichand Bhai. Oh, he, how he followed them, not learned was, you know, convinced by the argument that Brahmacharya was crucial and preserving the vital fluids was also. And of course he carries on in India. I mean, I quote earlier, well before this episode of 1938, I quote some lectures he gave to his, uh, ashramites in the early twenties, where he said, you know, you have to preserve the semen and all of that. And very important. So there is some, uh, some kind of a irrational mumbo jumbo about all of this. Now, there was a paragraph in my book, which I cut out about that 1938 masturbatory experience, which is, I can recall now, because it's quite amusing. We know it was in Delhi. Now we don't know, but it's very likely it was in Gandhi's son's house. So he was having this experience in the house of his son, where there were three of his grandchildren also living now, which may have shamed him even more. You know that here is a elderly grandfather, you know, having this kind of experience, right? Now I didn't have evidence that it was the son's house. He could have been staying in a guest house. So I didn't put it in, but it is something that of course, uh, uh, much later in 1946, when he has, uh, the desire to test himself in Noah Khalil because he feels that his world is coming around him and he has this extraordinary, this is really self delusion. This is the greatest self delusion of Gandhi's life, that if he controls his sexual urges, Hindus and Muslims will stop butchering one another, which is how he feels in 1946. I mean, the reason he does those last experiments in Brahmacharya is that he feels that somehow he has failed and because he has failed, Hindus and Muslims are butchering one another. That is completely deluded, but it is, it is an extraordinary obsession. You know, this, the desire to control his sexuality and, uh, when they appear to be, uh, unbeating failures as in this masturbating experience, uh, the sense of guilt, self remorse, self flagellation"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:31.400",
+        "message": "that overcomes him, you know, uh, is No, when you talk about 1946, I mean, it's a, it's a stunning episode because he, he calls his grand niece Manu with her father over and he says that, listen, I want to test myself by sleeping on the same bed as you. And the reason for this is that Hindus and Muslims need to stop killing each other. And this is the only way. And that just seems very bizarre. And in the forties, there are a lot of bizarre things happening in the sense another of his obsessions. I don't know if it's fair to call it an obsession because it's also one of his great contributions to the world is the obsession with nonviolence. And he actually, you know, before that in the thirties, he advises the Jews of Germany, not to resist Hitler, to fight him with passive resistance. When the war starts, he wants a British to abandon their glorious homes and let Hitler occupy them and do the whole passive resistance things. He says the same kind of thing to Chiang Kai-shek. And you know, by this time where he's in the seventies and the forties have begun first, he's telling everyone to be nonviolent, you know, be nonviolent against Hitler, be nonviolent against Germany, blah, blah, blah. On the other hand, all these experiments are going on. And if it was anyone else without his enormous stature, you'd just be regarded as completely cuckoo."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:40.840",
+        "message": "Yeah. Yeah. Yeah. But I think, you know, to go to return to the celibacy experiments, I think he is desperately lonely at this time. You know, he has no one to speak to. C.F. Andrews is dead. Tagore is dead. Mahadev is dead. Kasturba is dead. Jamnalal Bajaj, who was his adopted son, to whom he was close to the end of his own sons, is dead. And he's alone and lonely and confused in Bengal and does this completely nutty thing. Now, I'm sure Mahadev could have told him, you're crazy. Don't do this. Hindus and Muslims are butchering one another in spite of all you've done to stop it. It's not your failure. It's got nothing to do with your personal sexuality. But I think in that he was lonely, confused, and he succumbs to this bizarre delusion."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:25.680",
+        "message": "Great. So we need to wind up in 20 minutes. So what I'll do is I won't go back to the narrative of the book. Instead, I'll urge all the listeners to just buy it and read it because it's it's a fascinating story. And it's obviously all the spoilers are done because it's history. And you know what happened, but it's incredibly fascinating. Anyway, I just want to end with a bunch of sort of bigger questions about Gandhi and about India. Um, question number one, you you quote a conversation he has with Meenu Masani, who's then a socialist later becomes classical liberal, but then a socialist, where he tells Meenu Masani that my objection to your socialism is coercion. Yeah, right, which seems very enlightened and makes me happy. It seems almost libertarian. But, uh, and which he doesn't entirely follow in his own life or prescriptions or whatever, because a lot of his, but one of the things that does stand out about Gandhi from a lot of big leaders is that he privileges the means over the end. You know, he's, is that something that made its mark in Indian life and Indian"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:25.960",
+        "message": "thought? I think he's that sets him apart from, you know, political leaders everywhere, not just in India, but before I come to just go back to Meenu Masani, there's a line that would have gotten you when you read it was when Meenu Masani, who's then a fervent socialist presents him the manifesto of the Congress Socialist Party in 1934. And it says, when we come to power, we will nationalize all instruments of production. And Gandhi says, Rabindranath Tagore is a marvel and instrument of production. Will you nationalize it? Brilliant. That is totally brilliant. Right. So, you know, all freedom of all kinds, including a study of expression is going to be subject to Stalinist control and nationalization. You know, uh, I mean, I mean, they're kind of, uh, uh, there are three kinds of politicians. One is kind of divided, you know, uh, and I think Modi and Indira Gandhi fall into that divided category of people who want power for its own sake, but also by their own lights think they want to do good. Right. That's one category. Another category is who just want power and want to exercise it ruthlessly, immorally. And, uh, you know, Amit Shah would fall in that category and probably many African dictators and so on and so forth. Right. Now, Gandhi is someone who of course has a great capacity to be pragmatic, to compromise, but on some issues, he will not compromise. On some moral issues. And we discussed this again in the first episode, nonviolence and Hindu Muslim harmony are for him absolutely, you know, sacrosanct. And also finally, he would want before launching a nonviolent movement to keep all the avenues of communication, of conciliation, of negotiation open. So till the last moment he would want to discuss with the viceroy. Uh, and I think this is all with Ambedkar or with Jinnah, you know, he would keep channels open all the time. I think these are ways in which he really differs from people who take more hard line stance."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:24.040",
+        "message": "My second question, and this is often raised, is that, do you think that these individuals were really so consequential or would India have gotten independence anyway? I mean, the British were practically bankrupt after the war and so on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:34.200",
+        "message": "No, we got a different kind of independence. And I think that several respects in which, I mean, I think many aspects of the constitution, though people claim is borrowed from, you know, the 35 constitution and so on, or many aspects of, uh, political practice. And again, we discussed this in our first episode. So federalism, you know, uh, this is whole, uh, I have, uh, uh, for the last five years, uh, from before Narendra Modi came to power, telling warning against apocalyptic talk about fascism, because I believe that, uh, federalism will save India, you know, from authoritarian rule, you know, so, and we owe federalism, including linguistic federalism to Gandhi. Now, so I think the sense of debate, dialogue, pluralism, we would have had, and also social reform, I mean, equality for women and Dalits, at least under the law, not in everyday life. I mean, it's still denied in everyday life. We don't have equal rights in everyday life. Dalits in outside the cities and sometimes not even in the cities have equal rights in everyday life. But I think these are ways in which Gandhi prepared us for a much more meaningful freedom than Aurobindo Ghosh or Subhash Chandra Bose or Bhagat Singh or Veer Savarkar or any of the other currently fashionable icons could have brought us."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:51.960",
+        "message": "Right. So my final question, which is a slightly complicated question, and it's a three part question, uh, which is basic, the basic big question is how would Gandhi have reacted to India as it is today? And I'll break it up into three parts. One is, would he have seen a resonance between the British empire that he fought against and the modern Indian state? For example, many of the laws under which he was arrested, 124A which is sedition, 153A, 295A still exist and are still regularly used for political purposes. He protested the salt tax in Gandhi famously, but the salt tax today is many times more than what it was then. In fact, you could argue that taxation as a whole is far more oppressive and so on. So one is at the level, how would he have thought about a parallel between the oppression that you got from the British empire and the oppression that you got from your own rulers?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:41.320",
+        "message": "So I think 124A and those other acts, he clearly says in young India, 1929, I think if memory serves, he says, when we come to power, we will remove 124A. He says that clearly that hasn't happened. In fact, many ways it's become more arbitrary, you know, the misuse of, of those laws. I mean, the recent arrest of the journalist in Manipur and many other examples of that kind. Now economics, it's more complicated. You know, I think Gandhi is to be trusted in many ways, but perhaps not so much as an economist. I think his suspicion of the excessive powers accruing to the state, whether in regulating everyday life or in regulating the economy, I think are salutary and Rajaji takes those forward in his own formation of the Sandhya Party. But on sedition, he explicitly says that when we come to power, 124 and 124A will go and they haven't gone 70 years later."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:32.640",
+        "message": "Okay. The second part of the three part question is a thought experiment. If he was a young Kashmiri today, would he fight for Kashmir's independence? Because you could make the same case for Kashmir's independence against people they see as a foreign occupying power and behave pretty brutally as an Indian would in those days against the British empire, which was an occupying power and which didn't even always behave that brutally."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:53.920",
+        "message": "Look, I, it's hard to say. I can only say that when Gandhi died in 1948, the first Kashmir war had just begun and he took the side of the Indian army. In fact, unlike in the case of his advice to the Jews to resist Hitler non-violently, in 1948, he said this is an unfair incursion by the Pakistanis and we must resist it. So he supported the Indian army. Much has changed since then. I mean, that was a different Kashmir with Sheikh Abdullah who was generally secular and so on and so forth. Today, you know, I think the position of Rajaji, which I've described at great length in India after Gandhi, the peace proposal that he held out, which Nehru accepted just before Nehru died and then, you know, Sheikh Abdullah went to, was released under that peace proposal in 1964 and went to meet Ayub Khan and so on, which is a kind of confederation, India-Pakistan-Kashmir confederation, you know, soft borders, you know, the kind of Manmohan Singh line of soft borders, no change in line of control, greater autonomy to Kashmiris on either side of the border. I don't think you're an advocate of independence. I think independence opens a Pandora's box of different kinds. You know, he said, we must as Indians, certainly he would oppose pellet guns, pellet guns to the Kashmiris when the Jats and the Gujars and the Patidars are treated, you know, with water cannons, you know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:12.280",
+        "message": "Maybe he'd have begun as he began in South Africa anyway, as a moderate petitioning and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:16.320",
+        "message": "trying to work within the system. Because Kashmir is very complicated and, you know, Kashmir is a situation in which I've thought about very deeply and, you know, and I've written about also at some length and, you know, the Indian state has much to answer for, the Pakistani state has much to answer for, but so do the Jihadis of Kashmir. I mean, what happened to the Kashmiri Pandits is unconscionable. They were purged and expelled and no amount of, you know, euphemism can, you know, excuse that. I mean, this, the Indian left is in denial about, forget the, the Indian left is in denial, the Kashmiris are in denial about how they treated the Pandits. And I think the moral case for Kashmiri independence absolutely evaporated once they kicked out the Pandits. So, and I think Gandhi would have recognized that. I mean, the treatment of everywhere else in India, Muslims are insecure, vulnerable, occasionally persecuted, but in one state of the union, Kashmir, it's the Hindus who are insecure, persecuted, marginalized and expelled. So I think that the moral case for Kashmiri independence absolutely disappeared when not only were they thrown out, not a single leader of the Kashmiri freedom struggle atoned for it. They were in 1989, they fled. It took 15 years for the so-called moderate among the Kashmiri Huriyat, like the Maulvi Farooq to go and to a Pandit camp in Jammu and he probably only went once and God knows that he's never gone back again. So I think the moral case for Kashmiri independence disappeared once the Pandits were expelled and the way"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:02.400",
+        "message": "in which they were expelled. That's fascinating. And we should do an episode on that sometime, if you're willing. The last part of the last question is that if Gandhi was in this modern world and he was notoriously suspicious of modernity with technology, medicine, machinery, all of those things, and if he was alive today in the world of Twitter, say here a Twitter account, what would he be like? What would he be fighting for?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:22.600",
+        "message": "Well, let me answer that very elliptically and cryptically in the words of Shiv Vishwanathan. Shiv Vishwanathan once wrote, Gandhi famously said, when he visited England in 1931, what would you think of Western civilization? And he said, I think it would be a good idea. Now, if he came back to India and was asked, what do you think of Indian civilization? He would say that too would be a good idea."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:47.080",
+        "message": "Ram, thank you so much. Thanks Amit. If you enjoyed listening to this episode, do pick up Ram Guha's fantastic books on Gandhi, Gandhi before India, and his new book, Gandhi, the years to change the world at Amazon or your local bookstore. You can follow Ram on Twitter at Ram underscore Guha. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse past episodes of the seen and the unseen at seen unseen.in and thingpragati.com. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:20:27.560",
+        "message": "How aware do you think you are of your laws and rights? Do you look up to laws when you are caught up in situations? Do you know what your rights are when you're stuck somewhere bad? Well, here's a show that can help you move an inch closer to being aware of what your rights are. Tune into Know Your Kanoon with me Amar Rana. This is a podcast meant to answer all your law related queries. Catch Know Your Kanoon every week on the IBM website or the app or anywhere you get your podcasts from."
+    }
+]

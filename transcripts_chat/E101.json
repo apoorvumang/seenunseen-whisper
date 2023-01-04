@@ -1,0 +1,302 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Before you listen to this episode of The Scene and the Unseen, I have a recommendation for you. Do check out Pulya Bazi, hosted by Saurabh Chandra and Pranay Kotesane, two really good friends of mine. Kick-ass podcast in Hindi, it's amazing. A few days ago, my aunt in the US wrote to me. She is visiting India at the end of January, after many years, and wanted to know what gift I wanted from there. I assured her that I wanted nothing, but she insisted, saying that she was going to get me a gift anyway, and it might as well be something I wanted that I could not get in India. That got me thinking. I grew up as a kid in the 1980s, and in those days when our relatives visited from America, they would come laden with unimaginable, almost magical goodies. There was so much that you did not get in India. But now, wracking my brains, I couldn't think of anything that I could not get here. Clothes, electronics, perfumes, books, music, and everything is available here. Finally, I asked my aunt to get me some assault rifles. But in a larger sense, this got me to thinking how much my world has changed. Back in the day, we used to scramble even to listen to good music. We'd spend days sourcing music and getting mixtapes made, and every new song we gathered was like a treasure. We had limited ways of watching movies from around the world, and I remember how eagerly we tuned in to watch the one eclectic film per week that Doordarshan showed in a late night slot. People often speak of how the film, in which Annie gives it those ones, was shown only once on Indian television. Well, I remember watching it that one time, as I am sure do many other Indian kids my age. There was nothing else. Today, we can play any song we want to on Google Play or Amazon Prime or Apple Music. We can stream a whole world of movies, and the technology on our phone today is the science fiction of yesterday. I think it was my friend Uday Shankar who once said that the next generation will not know what it is like to get lost. That's right. GPS Zindabad. Though as a caveat, battery is Murdabad. But battery life aside, our lives are just bloody astonishing."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:04.360",
+        "message": "And we take all this progress for granted."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:20.680",
+        "message": "Welcome to the scene in the unseen. My guest today is Steven Pinker, who I regard as one of the great public intellectuals of our times, and someone who's been a huge personal influence on me. My favorite book by Pinker is The Blank Slate, which shone a light on what exactly human nature is and where it comes from, and gave me a deep sense of the contingency of my existence and my personality and my identity. All that is a recipe for humility, but it also gave me a sense of awe and wonder at the complexity of the machinery in our brains. But the book that is the subject of this episode is his latest book Enlightenment Now, which demonstrates using exhaustive data, how the world has gotten better across every metric that we can possibly think of, and how we need to respect enlightenment values if we are to preserve and enhance this fragile progress. I met Steven at the sidelines of the recent Times Literary Festival in Mumbai, and we recorded in a makeshift studio we set up at the venue. So please do excuse us for any sound disturbances. Also, I'd originally requested a two hour interview. He promised me an hour instead, but due to unavoidable circumstances, he needed to wrap it up in 40 minutes. So I couldn't quite manage to unwind into the sort of long leisurely conversation I like. But 40 minutes with Steven Pinker is still 40 minutes of enlightenment now, who can complain about that? Let's take a quick commercial break and get right into the conversation. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more, head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art, like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vasvo X Vasvo, Brinda Miller, Dilip Sharma, Shruti Nelson, and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to IndianColors.com, that's colors with an OU. And if you want a 20% discount, apply the code IVM20, that's IVM for IVM podcast, IVM20 for a 20% discount at IndianColors.com. Stephen, welcome to the scene and the unseen. Thank you. Stephen, when I'm with my friends, I often ask them a question about what book changed the way they think about the world. And when the question comes back on me, my answer often is a blank slate, which of course you published in 2003. I want to turn the question back to you today. What is a book or what are the books which changed the way you view the world?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:18.360",
+        "message": "For me, there was not a single book I've written on many topics, and so my worldview on each one of these topics was shaped by different books. And also I tend not to be influenced by one thought leader or one theory. I'm pretty eclectic, so there's usually a set of books that influences me. When it comes to the topic of my most recent book, Enlightenment Now, probably the single book that influenced me the most might have been David Deutsch's The Beginning of Infinity, which put the whole idea of progress and enlightenment in a coherent framework. But I was also influenced by books on global economic development, Charles Kenney's Getting Better, Hans Rosling's podcasts and TED Talks and his recent book, Factfulness. For the changes in war, I was influenced by the books of a political scientist named John Mueller. So it's always hard for me to pin down one book. For other topics such as how the mind works, I was influenced by the writings of John Tooby and Lita Kosmides, the evolutionary psychologists who are friends of mine, and Richard Dawkins and Robert Trivers. In the case of the language instinct, I was influenced by, of course, the writings of Noam Chomsky, such as Language and Mind, Reflections on Language, both of which I read when I was a student, as well as books by founders of psycholinguistics, that is the merger of linguistics with psychology, such as George Miller and one of my advisors, Roger Brown."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:52.480",
+        "message": "Right. And in your book, you started by saying that the thinkers of the Enlightenment code laid that foundation in what we now call humanism, which privileges the well-being of individual men, women and children over the glory of the tribe, race, nation, or religion, basically thinking in terms of individuals. And you point out three processes which make it possible, entropy, evolution, and information. In fact, you just mentioned John Tooby, and you know, one of the memorable quotes of your book is when the title of a paper by him, the second law of thermodynamics is the first law of psychology. So, tell me a bit about why is entropy your central concept?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:33.440",
+        "message": "I think there are discoveries of science that ought to be fundamental to our understanding of the human condition, just who we are, where we came from, what are our challenges. Entropy is one of them. The concept originally derived from thermodynamics that because there are so many more ways in which things can be disordered, or random, or useless, and ordered, or structured, or disordered, over the natural course of events, things go from orderly to chaotic, to random, to disordered, unless there is the application of energy and knowledge, information that can create circumscribed zones of order or structure, even if the universe as a whole is more disordered, but at least in parts of the world close to us, it can be more ordered, such as growing food, such as making shelters, such as fighting decay. So entropy being one of a number of concepts that are fundamental to our understanding of reality that were developed after the Enlightenment. The Enlightenment thinkers by no means thought of everything. And what entropy means is that we should realize that human effort and human knowledge are always necessary, even to preserve the life that we enjoy now, let alone to make a better life, that we don't need to find evil people, or forces, or demons that are trying to make life difficult for us, that life being difficult is just what happens because of the laws of the universe, unless we combat it. Evolution is another idea that is critical to understanding the human condition, also only discovered after the Enlightenment, namely that what makes us what we are, the process of natural selection, did not shape us to be, to live in harmony, to be happy, to be healthy. Rather, evolution is driven by competition, amoral competition, and so human nature was what was selected to prosper in that competition, and therefore human nature by itself does not incline us to be particularly wise or beneficial just to be able to survive. Now that includes abilities such as cognition, reason, problem solving, it includes emotions like empathy, sympathy, self-control, that we can try to co-opt and strengthen to improve our life, but only if we decide to enhance those parts of our nature can we expect human life to improve. Then the third concept is information, just the idea that order, non-randomness, knowledge can be measured, can be explained in terms of material carriers of information, such as brains, such as communications media. So we can understand the whole world of knowledge, ideas, in a rigorous way that does not contradict the idea that we are hunks of matter that were produced by evolution, because we know that physical objects can be processors of information, including brains."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:45.880",
+        "message": "And you know, you talk about progressophobia, or what you call, and there's a great quote from you where you say, start quote, intellectuals hate progress. Intellectuals who call themselves progressive really hate progress. It's not that they hate the fruits of progress, mind you. Most pundits, critics, and their bien-pensant readers use computers rather than quills and inkwells, and they prefer to have their surgery with anesthesia rather than without it. It's the idea of progress that rankles the chattering class, the enlightenment belief that by understanding the world, we can improve the human condition, stop quote. Why do intellectuals hate progress?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:20.400",
+        "message": "Yes, some of it is, it has not always been true, and of course it's not true of all intellectuals. There does seem to be a major strain of intellectual thought of people who write op-eds in newspapers, social critics, authors of books. Part of it is just professional competition. Most intellectuals aren't in charge of running things. They aren't in charge of delivering clean water or curing disease or policing the streets or negotiating peace, and so it's very easy to criticize society, which is a way of criticizing other elites, other professionals, that everyone else is failing but them, and they're here to point out the failings of their professional rivals, so I think that's one reason. Another is that many of the processes that have improved the human condition don't necessarily consist of what intellectuals deal with, verbally articulated propositions. No one kind of voted the Industrial Revolution. No one decided, no one even understands exactly why it was an increase in peace and a decline in war since 1945, and processes that take place gradually through distributed knowledge are markets, or another example, natural languages as they develop over the course of history. No one's in charge. No one plans them, and many intellectuals distrust processes of order that weren't designed and implemented according to the principles laid down by intellectuals."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:00.000",
+        "message": "Like Adam Ferguson said, a lot of human progress comes from human action, not human design, and intellectuals perhaps think in a top-down way, rather than understand the bottom-up spontaneous order which leads to markets, language, and so much progress."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:14.900",
+        "message": "That's right. Now, in some cases, it really was the verbally articulated propositions of intellectuals that did lead to progress, such as in the design of democracy in the United States around the time of the founders, such as scientific theories that were put into practice, such as vaccination and the germ theory of disease. So it's not as if everything arises just from spontaneous cooperation, but aspects of human progress that were not planned tend to be dismissed by many intellectuals."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:51.760",
+        "message": "You also point out to a number of biases, like the optimism gap, the availability bias, the negativity bias, that we tend to sort of perceive the world as being worse than it is. And you have a great chart in your book which shows how media coverage, even as the world is getting better, media coverage gets more and more negative. And as a journalist, we are always taught to comfort the afflicted and afflict the comfortable, but obviously bad news sells, and no one's reporting that, hey, nothing happened today. Everything was peaceful."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:23.080",
+        "message": "Yes, and there are certain distortions that are just built into the nature of journalism that will affect people's perception of the world. We know that people's perception of risk and danger and probability is driven by available examples in memory, the availability heuristic it's called. And what journalism delivers is available instances for memory, explosions and gaffes and disasters, things that are mediagenic tend to be bad because bad things can happen very quickly. Good things tend to build up gradually, such as the reduction in, say, global extreme poverty, which has declined by about 137,000 people per day. That can add up over 30 years to a billion and a quarter people have escaped from extreme poverty, a major transformation of the world that people are unaware of because there was never a Thursday in October in which it happened all of a sudden, it just gradually crept up. But together with these inherent distorting factors, just because of the nature of journalism, there is also part of the culture of journalism that puts negativity as a kind of a moral virtue that if journalists report anything that's going well, they're now considered to be corporate public relations hacks or government propagandists. It's almost considered to be against journalistic ethics to report what goes well and that the mission of journalism is to expose how the world is terrible and getting worse. Now, of course, journalism obviously has to report the disasters, the crises, the catastrophes, but if it's biased in that direction, then I have argued that it can lead to outcomes that are worse than mere complacency, can lead to fatalism, to people thinking, well, if things just get worse and worse no matter how many efforts have been applied to making it better, well, what's the point of trying to make things better? Everything fails. Let's just enjoy ourselves individually while we can because hopes for reform are futile. It can also lead to radicalism, to people just giving up on institutions of liberal democracy saying, let's just destroy it all because anything that replaces it is bound to be better than what we have now, or to leaders who promise, only I can solve the problems, only I can fix it. The entire establishment is so corrupt that you need to vote in someone who is powerful and charismatic like me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:53.400",
+        "message": "So I agree with you, of course, but there's also the dilemma that, you know, like I'm an editor as well, and let's say you're the editor of a large newspaper. What do you tell your people? How do you change this culture? Because ultimately for your newspaper to survive, you've got to print news that people want to read, and you're catering to human nature in a sense."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:10.960",
+        "message": "Well, although it's not as if mainstream newspapers have hit on a formula for financial success over the last 10 years, and a lot of people say that they now, a majority, according to a Reuters poll, say that the news depresses them so much that they simply avoid it altogether. There are data that suggests that even if the negative stories get more clicks, that positive stories, at least stories that involve some positive affect, tend to last longer. They have a longer tail, and they are more likely to lead people to sign up and subscribe. So it may not be true that the only way to keep up clicks and eyeballs is to report disasters."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:55.600",
+        "message": "Let's talk about enlightenment now. Now, you've got a great, you know, you quote a great question that Amos Tversky asked you, which is, quote, how much better can you imagine yourself feeling than you're feeling right now? How much worse can you imagine yourself feeling? Stop quote. And obviously, you know, when I read this, it was like, I can imagine myself a little bit better, but not really too much. And there's no end to how much worse I can be, which kind of illustrates the thesis of your book that the world has just gotten so much better."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:21.800",
+        "message": "Well, it illustrates how a feature of human psychology that we often leaves us unappreciative of the progress that's taken place. Somebody's observation about our emotional life, a feature of our psychology, sometimes called the negativity bias, probably reflects the law of entropy that we talked about earlier, namely, there really are more things that can go wrong than can go right. And the things that can go wrong can hurt you a lot more than things that go right can help you. So there is an adaptive design to being more capable of feeling pain, more sensitive, or vigilant for disaster, because there really are a lot of ways things can go wrong."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:06.680",
+        "message": "And in addition to loss aversion, it's just a package deal that is..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:11.400",
+        "message": "Yes. And what it leaves us ill-equipped to do is appreciate the kind of global and national changes that can best be appreciated by data, by a more global synoptic view that aren't things that naturally occur to us, but that we can best appreciate through data. Although, of course, we also appreciate them in our day-to-day life. Those of us who've lived long enough know that it really is better that you can stream a movie whenever you want than have to wait for years for it to show up at a theater. We know that dentistry is approved, that medical procedures have approved. Many procedures now don't require cutting a person open, but can be done endoscopically. So we do tend to notice these things, but they don't leave as much of an impact on our mood and our psychology as they should if you consider them objectively."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:04.600",
+        "message": "And what you've done in the very comprehensive second section of Enlightenment now is you've looked at all the different parameters that you can use for judging human welfare, like life, health, wealth, and so on, and shown how across all of them things have got better. Let's just skip through them one by one very quickly. In your chapter on life, I was very struck by this Johan Norberg quote about Kenya, where he's talking about Kenya between the years 2003 and 2013. And he says, quote, after having lived, loved, and struggled for a whole decade, the average person in Kenya had not lost a single year of their remaining lifetime. Everyone got 10 years older, yet death had not come a step closer, which, stop quote, which basically means in those 10 years, the life expectancy went up by 10 years. Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:48.920",
+        "message": "Yes. No, it is quite striking how, particularly in poor countries, how much life has improved in a way that most Westerners and citizens of rich countries don't appreciate. Because we're stuck with our images from the 1970s of the African kids with the swollen bellies, surrounded by flies, and of the beggars with the bulls. And we don't appreciate how much both health and prosperity and education, all three of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:19.600",
+        "message": "those have increased in poorer countries. And when I talk about life expectancy going up, people often tell me that, oh, it's because child mortality rates are gone. But as you show through all your graphs in that particular chapter, it's not just that child mortality rates have gone down. Across the board, like even life expectancy for people reaching 50, for people who reach 65, across the board, life expectancy has just shot up."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:41.000",
+        "message": "Yes, which is important. I did check that because of course, averages can be misleading. And if it was simply that more babies were surviving, well, every time a baby survives, you're adding many decades onto the average. And so that could be misleading, even though of course, that itself would be a tremendous moral progress if we prevented children from dying. But it's even better than that, in that, as you summarized it accurately, a 60-year-old has more years of life ahead of them now than a 60-year-old several decades ago."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:10.320",
+        "message": "Let's go to your chapter on Chris. I was, you know, struck by the Chris Rock quote there, this is the first society in history and obviously he's talking about America, not India. This is the first society in history where the poor people are fat."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:21.960",
+        "message": "Yes, I'd rather, the kind of tactless but accurate comment that only a comedian can get away with. Although nowadays, even comedians can't get away with them. But yes, obesity is a terrible problem in rich countries. But as problems go, it's certainly better than malnutrition and starvation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:44.440",
+        "message": "And then you also write about how knowledge grows energy. You know, one example of that being Norman Borlaug's Green Revolution, where you write, quote, thanks to the Green Revolution, the world needs less than a third of the land it used to need to produce a given amount of food. Another way of stating this bounty is that between 1961 and 2009, the amount of land used to grow food increased by 12%, but the amount of food that was increased grew by 300%."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:10.560",
+        "message": "Yes, and it's not only a benefit to humanity to have more available food, but it's also a benefit to the ecosystem, to the environment, the planet. A newer approach to environmental protection, sometimes called eco-modernism or eco-pragmatism, which is different from the traditional green movement. Green movement tends to argue that we have to reduce our consumption, slow down or reverse economic growth, live a more frugal lifestyle closer to nature. And what we know is people don't want to do that, especially people in poor countries who quite rightly want to get rich or at least want to achieve the standard of living that countries in the West enjoy. The eco-modernist movement says that what we should aim to do to protect the planet, which we must do, it is an imperative, is to achieve the greatest human benefit with least environmental cost. And a lot of that requires densification, getting the same human benefit with less land so that the land that is not exploited by humans can be preserved or even revert back to a natural situation. So that includes more intensive agriculture, that is growing more food on less land, which means not more organic agriculture, but higher tech agriculture, especially bread, hybrid varieties, genetically modified organisms, precision agriculture of the kind developed in Israel that delivers the least amount of water and fertilizer to exactly where it's needed, when it's needed. And as farms contract, forests expand, which is a good thing. Likewise, cities are good for the environment because you have people concentrated on less land. That means that more land can revert to natural conditions. It also means that people use less energy because if you live in a city, you can walk a block to get a quart of milk, you don't have to get in your car and drive several miles as Americans often do. It means that there's less energy expended in heating homes in the winter. Because if people live in apartment buildings and one person's ceiling is another person's floor and the heat can be shared, it means that you're spending less time in cars and more shorter trips or pedestrian traffic. So in general, cities paradoxically are good for the environment."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:41.680",
+        "message": "And also the general advantages of urbanization that you have denser economic networks, therefore you have more specialization, more division of labor, more wealth. You know, the next chapter is on wealth where, you know, you go back to entropy and about how poverty is like the default condition, which people don't understand. People often feel entitled to wealth, not knowing that poverty is really the default condition and you quote the economist Peter Barr here saying, poverty has no causes, wealth has causes. And then you lay out some of these causes for us."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:11.800",
+        "message": "Yes. And that is a consequence of entropy and evolution. Entropy is, of course, that in general, things that we find useful because they are highly structured like food, as opposed to, you know, sand or dust, don't arise by themselves. They require special processes, including the input of energy, sunlight and fertilizer. And that evolution implies that our sources of food will be exploited by other organisms, by bugs, by fungus. And so the creation of wealth always requires a struggle left to itself, the natural state"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:53.600",
+        "message": "of humanity is poverty, deprivation and disease. And from here, you know, even a lot of people who accept that, yes, we are much wealthier, however you measure this, often argue that there's greater and greater inequality. And you know, whenever I talk about inequality, for example, the hypothetical question I ask is in which country would you, in which of these two countries would you rather be poor, Bangladesh or USA? And of course, people would rather be poor in USA, but the USA has far higher levels of inequality. And you illustrated this with a story about two guys called Boris and Igor."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:28.240",
+        "message": "Yes, it's an old story that was told in the Soviet Union of two dirt poor farmers, barely able to scratch out a living. The only difference between them is that Igor had a goat, scrawny goat. One day a fairy godmother appears to Boris, says, I'll grant you one wish. He said, I wish that Igor's goat should die. That captures the, first of all, the intuition that equality is not inherently a virtue if it consists of simply depriving people who have more without benefiting those who have less. It also captures the mindset of life under communism in which there was greater desire to let everyone be equally miserable than that some people are happy or well-fed, even"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:16.560",
+        "message": "if not everyone is. We'll take a quick commercial break. We'll come back in just a minute."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:21.200",
+        "message": "Hello, hello, hello. Welcome to another awesome week on the IBM Podcast Network. If you're not following us on social media, please make sure that you do. We're IBM Podcasts on Twitter, Facebook, and Instagram. We had a Christmas party in the office last week, and you can see pictures of that on our Instagram this week. So please do make sure that you do check it out. On Cyrus Says, Cyrus, Abbas, and I do a 2018 rewind edition of Cock and Bull, the year's biggest political stories, controversies, sporting triumphs, to viral memes. We try and pack it all in an hour. I don't think we made it. On Advertising is Dead, Varun and Karthik Nagarajan, chief content officer at Wavemaker, recap the year in advertising and give their predictions for 2019. On Simplify, tune into part two of their year-end special with special guest Tony Sebastian. On Thalle Harate, our Kannada podcast host Pawan Srinath talks about how the internet can be a scary place, as nefarious plots are hashed against companies, governments, and people online all the time. On the year-end special awardee wordpecker, Rachel takes a look back at the most popular words of 2018. This week on Puliyabazi, Pranay discusses the impact that space research has on an aspirational society and why the argument poor nations shouldn't spend on luxuries like space exploration makes little logical sense. And guys, it's been a great 2018 and we hope you enjoyed your journey with IVM. We're looking forward to bigger and better things in 2019. Please do tell a friend about the podcast that you've enjoyed, try and spread the word. That's very important for us. And with that, let's continue on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:39.000",
+        "message": "Welcome back to the scene in the unseen. I'm chatting with Steven Pinker. Steven, in your chapter about the environment, which is something that people have great legitimate worries about, and there's a great quote by Stewart Brand, quote, no product of agriculture is the slightest bit natural to an ecologist. You take a nice complex ecosystem, chop it into rectangles, clear it to the ground and hammer it into perpetual early succession. You bust it, sort, flatten it wide and drench it with vast quantities of constant water. Then you populate it with uniform monochips of profoundly damaged plants incapable of living on their own. Every food plant is a pathetic, narrow specialist in one skill inbred for thousands of years to a state of genetic idiocy. These plants are so fragile, they had to domesticate humans just to take endless care of them, unquote. And yet everybody wants organic food, naturally grown food."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:30.880",
+        "message": "Yes, and organic food is terrible for the environment because it uses so much more land. That was Stewart Brand, who is kind of a hero to the counterculture and the whole organic, small movement in the 1970s when he published the famous book The Whole Earth Catalog, often considered a predecessor of the World Wide Web, although it was on paper, and he changed his mind. He's an environmental activist and in his book Whole Earth Discipline, he helped found the movement of eco-modernism by arguing that what's best for the environment is density, is people having less of a footprint on the environment and that includes growing more food on less land."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:12.680",
+        "message": "And for those who worry that the environment is getting worse, you also talk about the environmental Kuznets curve, where things appear to get worse as far as the environment is concerned, but after a while, when societies get more prosperous and they start caring more about the air around them, it gets better again."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:31.240",
+        "message": "That is a general trend. It doesn't happen by itself as no kind of progress happens by itself, but as countries do get more developed and richer, they devote more of their resources to protecting the environment, to pollution control devices, to laws and enforcing those laws. And their citizens' values change. If the main thing you're worried about is getting electricity and you can put up with a certain amount of environmental damage, your top priority is cooking your food and heating your home and lighting your lights, even to the point that the worst forms of pollution are those suffered by poor countries, such as indoor cooking smoke, such as contaminated water. As countries get wealthier, they can devote their attention to the worst kinds of pollution, namely indoor cooking smoke and contaminated water, but also to the cleanliness of their harbors and rivers and atmosphere, and they can start enforcing laws to curb pollution. This is certainly obvious to an American visiting Mumbai, as we are now, where looking out the window we can barely see the skyline of the city just a couple of miles away because of the thick smog, which you never see in an American city, although of course American cities in the 1950s and the 1960s were notorious for their smog, but then because of technology and laws and regulations, American and European cities have managed to bring the rate of air"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:02.360",
+        "message": "pollution considerably down. If you think Bombay is bad, you should go to Delhi."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:07.280",
+        "message": "So I've heard."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:08.280",
+        "message": "You also talk about how sort of technology, we kind of take technology for granted and assume when we are extrapolating for the future that it's going to stay as it is, but we keep innovating. Like you point out how throughout history there's been this process of decarbonization. To quote again from your book, quote, the oldest hydrocarbon fuel, dry wood, has a ratio of combustible carbon atoms to hydrogen atoms of about 10 to 1. The coal which replaced it during the industrial revolution has a ratio of 2 to 1. A petroleum fuel such as kerosene may have 1 to 2. Natural gas is composed mainly of methane with a ratio of 1 to 4. We are just getting better and better and more and more efficient and part of it is of course that as the costs of all of those earlier fuels rise, people innovate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:55.540",
+        "message": "People innovate and people when they can afford it, they don't want to breathe polluted air and they figure out ways of getting the energy they need with less pollution if they recognize that pollution is a problem and if they apply their ingenuity to reducing it. That could continue with the development of both renewable energy sources like solar and wind and the development of nuclear power which another heresy of the eco-modernist movement, many eco-modernists are advocates of nuclear power as the most abundant scalable form of zero carbon energy even though nuclear has a terrible reputation, actually is extraordinarily safe compared to coal and oil and gas which kill far more people every single year and of course nuclear power does not generate CO2. So it may be that we need within the next couple of decades a whole new generation of nuclear technology, so-called fourth generation, small modular reactors that are much less expensive, much less prone to accidents than existing reactors and it may be that that technology will be the next leap in the process of decarbonization if we encourage it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:14.800",
+        "message": "And that also explains why, you know, you make a very convincing case for why nuclear energy is something that is unnecessarily given a bad rap and you also talk about the false binary between environment and development. One did not come at the cost of the other."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:29.160",
+        "message": "Yes, I mean there are some areas in which there is some tension but with technology, with knowledge, we can apply human ingenuity to figure out how to get more human benefits with less environmental damage. It won't happen by itself, it has to be a goal to reduce the environmental damage but that does tend to become a goal as people satisfy their most basic needs, just feeding themselves and their children and getting to work and lighting their homes and they do tend to be more concerned about the environment. No one wants to breathe smog and so they encourage measures that do that. In rich countries like the United States and Europe, over the last 40 years at the same time as population has grown, GDP has grown, even number of miles has increased but the levels of air pollution and water pollution have decreased."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:21.640",
+        "message": "You know there are a bunch of other chapters where you go through metrics like safety, democracy, equal rights, knowledge but since we're running out of time, I'll just skip over them, encourage my listeners to sort of just buy the book and read all of them and go over to the big questions that are kind of safe for the end. Here's one, you know at one point you talk about the post-truth era and I'm quoting from you, you say editorialists should retire the new clich\u00e9 that we are in a post-truth era unless they can keep up a tone of scatting irony. The term is corrosive because it implies that we should resign ourselves to propaganda and lies and just fight back with more of our own. We are not in a post-truth era, mendacity, truth shading, conspiracy theories, extraordinary popular delusions and the madness of crowds are as old as our species and so is the conviction that some ideas are right and others are wrong. Where I would kind of say that modern times are possibly different because what social media does is it pushes us into echo chambers where we are sort of, we find like-minded people, we confirm our prejudices, we confirm our biases and within those echo chambers is really no talking to each other, you know we just get stuck in those, is that something that kind of worries you?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:33.280",
+        "message": "I mean that does happen although the polarization in the United States was really begun before"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:37:38.960",
+        "message": "the advent of social media."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:40.360",
+        "message": "It was begun in large part by cable news channels and even before that there were right-wing magazines and left-wing magazines and right-wing newspapers and left-wing newspapers and the thing about the internet is that you're one click away from an opposing viewpoint whereas in print media you have to actually go out and buy a newspaper or magazine from the other side of the political spectrum. So even though there has been a trend toward polarization at least in the United States and Europe, I think it's become a lazy habit to blame everything that goes wrong on social media. I think this process began before social media and it may have occurred even without it. I think part of it is driven by the increasing division by education and income where people are much more likely to live with people who have the same level of education as they do. Neighborhoods have become more segregated by education and education tends to go with political opinion or by profession. The business people, the doctors and lawyers and professors, the small business owners, factory workers tend to live with others of the same type and so some of the residential segregation is another factor. But social media only became popular starting in the late 2000s so we can't blame things"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:01.320",
+        "message": "that have been going on for decades. Well absolutely but there's a theory that for example the rise of Trump in the USA and Modi here is partly exacerbated by that because it led to what you would call preference cascades where say in the context of India I often say that people who were closeted bigots would do preference falsification where they would not express their feelings in public because hey it was uncool but suddenly the internet shows them that hey there are a lot of other closet bigots out there and they feel validated and empowered by that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:28.440",
+        "message": "That is true because even as opinions that used to be taboo are now expressed on social media overall worldwide in India, in the United States, everywhere the rate of actual bigotry has gone down. The rate of sexism, the rate of homophobia but the minority and they still exist who are bigoted are able to express their views, find people who are of like minds and therefore have a forum for expressing ideas that used to be taboo even if they are becoming numerically"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:04.240",
+        "message": "less common. When you were earlier asked at the talk you gave at the Times Lit Fest here about populism and you said you were optimistic populism would go away and you gave three reasons for that and those reasons were that one older people tend to be populist and they'll die off, two it's a factor of education that the more education you have the less populist you're likely to be and the third is that the more urbanized you are the less likely you are to be populist but I'd actually venture to say that all of these might be true in the US. It's the exact opposite in India. You find that the most populism comes from all the engineers, it's rampant in the cities and it's probably more widespread among young people than otherwise."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:48.000",
+        "message": "Well it's true in the United States, in Europe and in Britain so I don't know about data from India. So we need to know, it's not a question of whether it's rampant in cities, the question is is it more rampant than it is in the more rural areas."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:02.320",
+        "message": "Right fair enough at some point I'll get you data on that. Another interesting thing you sort of talk about is the dangers of tribalism in the academy. You know earlier during this conversation you mentioned how Chris Rock when he cracked that joke may not be able to get away with it today with all the political correctness and you know we know the dangers of the right, what the populists are doing and so on because their dangers are you know if they are bigoted they're openly bigoted but what you often have from some factions of the far left is that there's a lot of sanctimony which hides the identity politics that is playing out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:37.880",
+        "message": "I think that is a problem and in fact the two problems are not independent because many people who have been attracted to populism list among their top reasons that they are sick of political correctness. That was the very first thing that Donald Trump said in the very first debate among the Republican candidates, he got a huge reaction and it is true that within many mainstream publications within universities there are certain, there is definitely a shift toward a political left accompanied by a suppression of hypotheses and opinions that don't conform to a certain left wing orthodoxy. Now of the two polls that we're seeing, the movement to the left in academia and the movement to the right in politics, the movement to the right in politics is much more worrying because politicians have power and professors don't. Nonetheless, since they do feed each other, since I know former students, people who write to me who are, they're not idiots, they're intelligent, they're educated but they feel so excluded by the confines of left wing political correctness that they are tempted to join the right just because they think that's a place where at least the opinions can be expressed. So I think that to prevent that from happening, academics should be careful to preserve diversity of political backgrounds, expression of ideas even if they're unpopular, the marketplace of ideas."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:15.280",
+        "message": "Right. And in your book you make a very strong case for progress, you believe it will continue but you don't think it's inevitable."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:22.520",
+        "message": "What are the threats to humanism? Certainly the rise of the whole family of movements that we tend to call authoritarian populism. These include religious identity, they include ethnic and national chauvinism and jingoism, include the cynicism toward institutions such as liberal democracy, regulated markets, international organizations like the UN and treaties and international pacts. The idea that progress comes from charismatic leaders who authentically voice the soul of the people rather than by rules and laws and fiduciary duties and responsibilities that are built into the institutions rather than the virtue of the particular people who hold those positions of power. We see that in the United States and of course in other countries including India and the tendency of leaders to try to run around the safeguards written into law simply because they are popular, they know the truth, they have the people behind them. That of course is the path toward a dictatorship and disaster. So all of these trends and they tend to correlate, tends to be some of the same people who believe all of them are threats to humanism. There's also of course a trend against humanism in more radical forms of Marxism and leftism that prioritize the interests of the class above the well-being of individual people and that tend to encourage demonization of one class by another."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:04.920",
+        "message": "And like you point out, one of the strengths of the Enlightenment is that we think in terms of individuals rather than groups and or classes of people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:11.800",
+        "message": "Yeah, very much and not because of some a priori commitment to individualism but simply because it's individuals who can suffer and flourish and feel pleasure and pain. Only metaphorically can an entire religion or an entire ethnic group flourish or suffer. It's the individual people who actually feel the pain."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:34.520",
+        "message": "Absolutely. So I know you're in a hurry so I'm going to end with one last question and I'm going to ask you to be a sport on this. In your book you pointed out that students in Talmudic debates are often asked to argue the other side. So can you tell me briefly why the world is going to hell?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:50.400",
+        "message": "Well it could if we don't deal with the problem of climate change and things could get a lot worse. If a nuclear war were to break out, even though it's improbable, but it could do such tremendous damage that it could cancel out all of the incremental advances. It's been said that if India and Pakistan had a full-fledged nuclear war that could send enough debris and soot into the atmosphere to cause a period of cooling that could lead to mass famine and crop failure. There could be pandemics, there could be cyber terrorism or cyber sabotage, there may be vulnerabilities of the system that we don't yet understand that could be exploited. And it could be that the future belongs to Donald Trump and Vladimir Putin and Viktor Orban rather than to the world's liberal Democrats."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:45.680",
+        "message": "Thank you for that very bleak vision, you should have called your book Enlightenment Never. Thanks so much for coming on the show, Stephen. Thank you. If you enjoyed listening to the show, do head on over to your nearest bookstore and pick up a copy of Enlightenment Now. You can follow Stephen on Twitter at SA Pinker OneWord. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. And you can browse past episodes of The Seen and The Unseen on seenunseen.in and thinkpragati.com."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:47:13.960",
+        "message": "Thank you for listening. Do you wish you were smarter? Well, so do we. But the next best thing? We could make you sound smarter. And to help you with this endeavor, we are Simplified, a podcast that attempts to break down the complex world around you with a little knowledge, a lot of poor jokes and a ton of random trivia. Episodes out every Monday on the IBM podcast app or wherever you get your podcasts. See ya!"
+    }
+]

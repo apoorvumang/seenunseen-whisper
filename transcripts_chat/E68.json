@@ -1,0 +1,867 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M. Are you a government-approved journalist?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:34.000",
+        "message": "One of them thundered."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:35.000",
+        "message": "Where is your license?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:37.000",
+        "message": "What license, I said? Why license? Why should I take your approval? He replied,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:41.000",
+        "message": "Because I am your my bap. I will decide what you read. I will decide what you write. I will decide what you eat and drink. I am your ruler. You are my subject."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:52.000",
+        "message": "No, no, no, I protested. It's not supposed to be like this. The government is supposed to serve the people, not the other way around. I should be regulating you chaps, not the other way around. He turned to one of his seven-foot security guards and said,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:06.000",
+        "message": "Ha ha ha ha, this fool is rambling. Take him away and lock him up. And when he wakes up, feed him only sugar."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:15.000",
+        "message": "Fine, I said. Lock me up now. But one day, I will fight back with a podcast, and we will all wake up from this bad dream."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:26.000",
+        "message": "Welcome to The Seen and The Unseen. Our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Verma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:36.000",
+        "message": "Welcome to The Seen and The Unseen. I am recording this episode on Friday, May 11th, and yesterday on May 10th, I was part of a panel discussion on online content regulation that was organized by Medianama and hosted by my friend Nikhil Pawar. Nikhil cares deeply about this issue, but he chose to play devil's advocate on the panel and asked some piercing questions to opponents of content regulation, like me, which shows how rigorously he's thought through this subject. So here he is, and here I am."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:05.000",
+        "message": "Welcome to the show, Nikhil. Thanks, Amit. Glad to be back on the show. We've had a couple of fun discussions, so looking forward to another one."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:12.000",
+        "message": "In fact, I have a feeling that Modiji and Smriti Iraniji listened to our last show, which we did on the future of the internet, and they thought, okay, here is a problem. We will offer a solution. And therefore they offered to regulate us for our own good, which is what yesterday's panel discussion was about."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:29.000",
+        "message": "What do you feel about that? Well, you know, I think it's a tricky situation for any government to be in because their very existence is challenged by these subversive ideas such as free speech and people having a voice of their own. So, you know, like you, I started Medianama with no license required. It took me two weeks at that point in time, and most of that was spent in my attempts at designing a site before we launched because a domain name just costs 500 bucks. Hosting with an automated WordPress setup costs 500 bucks, and therefore that gives everyone the opportunity and the right to communicate to anyone who wants to read them. So we find our own audience in that sense, right? You found yours, I found mine, and that freedom is what I deeply cherish. We're reaching a situation now where as more and more people come online, there is fear about what if those people had their own voice and other people and, you know, millions of others could hear what they have to say. And we've seen this particularly in India if you think about it when it comes to stand-up comedy. Just like in the U.S., stand-up comedy has been, you know, a means of dissemination of news and also liberal thought. I think that's what's happened in India as well because, let's face it, us journalists are incredibly boring, and stand-up comedians have a better way of getting that message across. So I don't think it's just stand-up comedy, but, you know, the ability of people to, let's say, put the truth out there is something which scares those who want to control that messaging, and we've seen that happening globally."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:15.000",
+        "message": "It's interesting you mentioned that, you know, when I started my blog, when you started MediaNama, we were just free to sort of start it without having to worry about a license or regulation or whatever. And that was kind of by default because this was a new technology. The government's philosophy always has been to treat its people as its subjects and regulate everything, every action that you possibly can. And because no one saw the, they didn't see the internet coming, they didn't see this revolution which puts the tools of publishing in the hands of users coming, that to begin with it wasn't regulated. Otherwise traditional media is heavily regulated, free speech in any case is heavily policed, and we were just lucky that this was new technology, and by the time they figured out we'd already started and things had gathered their own momentum."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:59.000",
+        "message": "But now they're making up for lost time. Just to give some context about how old both of us are, if you go back to 2006, there was this instance where all blogs in the country were blocked. There was an order for blocking all WordPress.com sites, all Blogspot, Typepad, and that was an order that the government issued for blocking certain blogs which they were worried about. And the ISPs did not have any means of blocking a particular subdomain of a domain and therefore they blocked everything. And I think a bunch of us actually led that effort in fighting back. So that was my first sort of interface with some kind of activism for free speech even before I'd started journalism."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:47.000",
+        "message": "I remember fighting vigorously because my blog at that time, IndiaUncut, before it shifted to its own domain, IndiaUncut.com,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:53.000",
+        "message": "was on IndiaUncut.Blogspot.com."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:55.000",
+        "message": "So that got blocked as well, and what really happened was they wanted to block some random something-something.Blogspot.com and they blocked all of Blogspot. Fought back and that kind of got sorted out, but one of the things we realized at that time, if you remember, and the government has that power to this day, is that they can issue orders to ISPs to block any site and there is no recourse, you cannot appeal. So if someone goes to IndiaUncut, which of course isn't active, I just archive my stuff there now, but back in the days when I was blogging, and looks at the name and says IndiaUncut, this is definitely a porn site, block it. Then I have no recourse, I can't fight back, and that kind of remains the case to this day, where as citizens, like 69A of the IT Act, and we'll talk about the IT Act, I'm going to ask you about that, has that where the government can block any website and there's no recourse?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:49.000",
+        "message": "Well, I wrote a post on this a few years ago, which is a simple, human kind of a point of view saying, I don't know, because what happens is when sites get blocked because of the nature of the work that we do at MediaNama, lots of people ping us to check, is this blocked? Are you able to access this? And then we go through this entire exercise of asking on social media, can you tell us if you're able to access this site and respond with details of your city and your ISP? And so we have this crazy situation where 20% of the people or sometimes 40% of the people are saying, yes, it's blocked, and the rest are saying that it's not blocked. And so I don't know whether a site is blocked. I don't know why it's been blocked. I don't know who asked for it to be blocked. I don't know how long it's going to be blocked for. When is the block going to be removed? And so one of the things that we expect and we should demand of our government is transparency. If there is speech being curtailed, and if there are legitimate reasons for it, whether if it's a court order, whether if it's due to some national security issue, if my site gets blocked, don't I have the right to know? And so, unfortunately, no one's challenged this secret blocking in court yet, but there is really no disclosure. So therefore, we can't hold the government to account. Whereas, for example, in Kuwait, if a site gets blocked, there is a page that pops up which indicates that the page has been blocked on order from so-and-so, and it gives an email address to contact for more information, hypothetically for also the block to be removed. I remember before the 66A case, I remember talking to a particular site called Mobango. So the shadi.com guys had bought Mobango, which was an app store similar to the Google Play Store, and it was blocked in India. And they didn't know why it's been blocked. They didn't know who to contact. So they went running around trying to figure out. And for six months, it was blocked,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:53.000",
+        "message": "and they didn't know what to do. And this is a company with deep coffers. So if they face this... No, which is what I was thinking that, you know, you and I can..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:00.000",
+        "message": "Do you know how many sites are blocked in India? No, tell me."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:09:03.000",
+        "message": "Neither do I. Nobody knows. That's the point, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:05.000",
+        "message": "So how do we hold our governments to account"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:07.000",
+        "message": "if there is no transparency from them? No, and here's the thing. You and I can speak out about it because we are incredibly privileged in the sense that we have the platforms, we can organize outrage, we might be able to put together the resources to even fight legally. But the common citizen doesn't have all of these things. So if somebody starts a blog and it's blocked, there's literally nothing he can do. He's up against a wall. He can't even express himself on this matter."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:30.000",
+        "message": "So around those days, there was an attack from Anonymous India, which was, we don't know who they are, some anonymous bunch of hackers that hacked into a mobile operator's logs and found a list of blog posts and blogs that had been blocked by the ISP itself and they were essentially critical of the parent company of that ISP. Wow. So there was private censorship that was going on, but nobody knew about it. And so here's the thing, right? Quite often if a page is blocked, you go and you get a 404 error saying that this page is not accessible. How do you know whether it's a technical issue or it is actually a block? Sometimes you get a standard response saying this website has been blocked on orders from Department of Telecommunications. Why has the Department of Telecommunications asked for it to be blocked? We don't know. I think the point here is that, you know, why we're having this discussion about online content regulation is because the Ministry of INB has set up a committee to frame rules for regulating the internet. And what they're looking at, they started off with regulating news, which is when there was this circular around fake news and therefore regulating both online and traditional media journalists. And, you know, the threat was that accreditation would be removed, among other things, if they were found to be dealing in fake news. And that was pulled after there was a massive pushback from the traditional media journalists as well as online. And then we found that there is a new committee that's been formed specifically for regulating online. The difference between that first fake news circular and this online committee is that the online committee was looking at both news and entertainment. And so it's very different. And if you think about it on the internet, we don't know what is news. We don't know what is entertainment. That definitional issue exists. Entertainment can deliver news. And let's face it, most of the news in India is entertainment or couched in entertainment and news channels run, I don't know, the shows on what Cobra is giving birth to human babies. I don't know what kind of stuff they put on some of the TV channels."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:42.000",
+        "message": "I mean, I would take Tanmay Bhatt over Arnab any day for both news and entertainment."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:47.000",
+        "message": "Yeah, yeah, without a doubt. I don't, I mean... No, but you know, does Arnab do news? I'm not so sure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:54.000",
+        "message": "Yeah, good point. Maybe I'm confused about it. Yesterday on the panel, one of my fellow panelists during the audience discussion, Geeta Seshu, raised an interesting point about news and entertainment and how they are defined differently and how, you know, news provides a public service"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:10.000",
+        "message": "and whether entertainment... Yeah, and my point was that entertainment provides"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:14.000",
+        "message": "a very, very important public service. Agreed, but my point was different. My point was that if we start thinking about the utilitarian lines that, hey, news provides a public service, entertainment is time pass, therefore one is more noble than the other, and we are falling into their trap and we are letting them define how the discussion proceeds. Instead, the way I look at it is, instead of looking at the utilitarian line,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:38.000",
+        "message": "look at first principles."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:39.000",
+        "message": "Say that all free expression should be protected, whether it's news or entertainment or whatever, however you categorize it, it doesn't matter. That all free expression should be protected,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:48.000",
+        "message": "none should be regulated. So I have a question for you. Right. Are you a free speech absolutist? I am a free speech absolutist. Then what are your views on incitement to violence?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:58.000",
+        "message": "To stop, to punish or stop incitement to violence is not an infringement of free speech, if it's direct violence. Like, for example, I think Oliver Wendell Holmes defined it as clear and present danger. So if you're addressing a crowd and you tell them go and burn down that mosque, then that is incitement to violence"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:15.000",
+        "message": "and it should absolutely be stopped. Then we're in agreement."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:18.000",
+        "message": "Yeah, but if somebody is telling a crowd that, hey, you know, Muslims don't belong here. Now I find that view utterly repulsive, but I would support the person saying that because I don't think those judgment calls on what people say or should not say should be made based on the personal preferences of people like myself or anyone else. Yeah. And if there is incitement to violence and there's clear and present danger in the words of the US Supreme Court, then, you know, I think that's..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:47.000",
+        "message": "So I used to come at this a little differently because I was an absolutist when it came to free speech and the point of view that you've taken about incitement to violence also indicates that you're not an absolutist. That's a reasonable restriction to have on free speech."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:02.000",
+        "message": "No, I disagree because I think that incitement to violence would be wrong because you're being an accessory to a crime and it would be wrong on those grounds. You don't need to clamp down on free speech or have separate laws for free speech. That's what I mean. I don't think you need to have any law for free speech and that if someone incites violence that is already taken care of under whatever laws stop you from, for example, whatever the incitement is. Like if someone is telling you go and riot, there are laws against riots and violence."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:32.000",
+        "message": "Yeah, absolutely. So therefore, my position at one point in time was why should my right to free speech be curtailed by the state's inability to maintain law and order? Right. Because it is their job to maintain law and order. And so therefore, if we have a society where people are afraid to commit violence because they are afraid of the strong arm of the law holding them to account, then no matter what speech leads to that violence, people would still be afraid to be violent"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:15:06.000",
+        "message": "from that perspective."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:07.000",
+        "message": "Now, I know that's a utopian way of looking at it and things don't quite work like that. And so therefore, I do believe, so I'm no longer an absolutist from that perspective but I do believe that committing a crime or inciting a crime from that perspective is problematic."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:22.000",
+        "message": "So we are actually on the same page, except that you are saying you're not an absolutist and I'm insisting that this is absolutism because I'm saying no law against free speech."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:29.000",
+        "message": "Yeah. Incitements are taken care of under other laws which deal with those specific things. So in fact, this is the same position which the Supreme Court took in the 66-A judgment where they said that advocacy is an important part of free speech. And I think they also, I'm not quite sure, but I think they also took into account the fact that the right to offend is an important part of free speech. The UN Special Rapporteur on Free Speech, the last one, who is Frank LaRue, also included that in his report on free speech and also human rights and the internet. So the Supreme Court of India said that incitement to violence is problematic and should be stopped. But 66-A had these terms like disparaging speech and annoying speech. Which are vague and can be interpreted. Which are vague and are meant to be misused and those were struck down. So you know, while I think the internet has its problems when it comes to a bunch of issues, when it comes to hate speech, when it comes to death threats, rape threats, when you have instances of, again, incitement to violence, there are issues of fake news and misinformation, there are issues of filter bubbles and polarization, there is a potential for foreign state actors to get involved and change the course of a democracy through, you know, very selective targeting of messaging. These are all..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:01.000",
+        "message": "What Russia did in the US elections, basically?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:04.000",
+        "message": "I don't think it was just the US elections because like someone mentioned yesterday as well, it may have also been a part of the Scottish referendum, it would have, I think, even with Brexit, it's because the US is treating this as a direct threat on its democracy that the rest of the world is now taking it a lot more seriously. But who is to say that these same tools have not been used in other contexts in the past that may not have received this kind of visibility. What it has done is that it has made states aware of the implications of all of these things happening and therefore they want to develop systems of control over speech, some way of regulating, because the other thing that came through in the 66-year judgment was, and I disagree with this idea, it came from the Supreme Court of India, that they believe that the internet is a new medium and a new technology and therefore there need to be a new set of laws to govern the internet. Whereas my take on this is that if laws are built on principles, then the same principles should apply irrespective of medium. Where the internet is different from other media is the disproportionate amount of scale that it has and the kind of interactivity and participation that lends itself to lack of control and lends itself to more freedom and therefore the state often feels powerless when it comes to dealing with mass movements and mass organizing that happens via the internet. And let's face it, I have been involved in instances where we have used the internet to organize and build campaigns for freedoms, but the same tools and the same methodology has also been used for example by ISIS to bring people over to fight in the Middle East. So you know, we are dealing with very complex problems"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:59.000",
+        "message": "and complex fears as well,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:02.000",
+        "message": "and very real fears because people could die or governments could fall through all of this. And so at one level there is, you know, when a state feels powerless, the response is to do whatever possible to ensure that it gets that power back because it also has a responsibility to ensure the unity and integrity of that nation. That's a mandate that we the people have given the state from that perspective. I mean, I've had this crazy conversation with someone, with actually the head of E-Residency for Estonia, where we discussed this idea of, and it's his idea of transient citizenry. You should be able to very freely and very easily move in and out of being a citizen of a country and you should move to the state that serves you the best and that leads to states being competitive. You know, we talk about competitive federalism within countries, but there is also this competitiveness between countries at a global level to retain talent. I mean, the U.S. has won because it has had greater freedoms in the past. In the same way, so sorry, I don't know how you got to this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:21.000",
+        "message": "You know, that sounds utopian and quite beautiful. And just speaking of people voting with their feet and going to states which they feel serve them better. It's notable that the Modi government is now planning to put an exit tax on billionaires who want to leave the country because apparently since 2014, an extremely high percentage of really rich people"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:40.000",
+        "message": "have left the country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:42.000",
+        "message": "I wonder why they would want to do that. But which kind of indicates that, you know, that those who have the money and can afford to leave are by and large leaving. You know, including, for example, one of the Hiranandanis who built Powai, you know. He made a good Powai and left. I think he went to Cyprus. But anyway, this is a digression, like you said."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:05.000",
+        "message": "But I'm just saying that if you think about, so how does this work? Is your approach as a state to retaining your best people, is it to try and prevent them from leaving or controlling the messaging that they're getting? Or is it to create an environment in which they would like to stay?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:24.000",
+        "message": "Absolutely the latter. There should be no coercion. There are many things which Mr. Modi could have done to bring Ache Din, and these people would not have left had those happened. But I don't want to make this about Modi or Smriti Irani"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:39.000",
+        "message": "or this present government."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:41.000",
+        "message": "No, no, we had our problems with Kapil Sibal wanting free censorship, right? I think one of the fundamental things that people are missing during the current debates is that it is not just this government you're fighting. It's overreach and power in general, that governments always tend to overreach. And on that note, I want to take you back to the IT Act in 636A and the fights that happened there. Because as we discussed when the internet first came, like the IT sector itself, one reason the IT sector did well, the field was so new that there wasn't regulation in that much stifling regulation in place as there is in other sectors. But the government soon went about amending that, changing that. And one of the ways they attempted to do that, and by the way, the rationale that you mentioned for we need to regulate the internet because it's a new technology, large reach, etc., has essentially been used through the ages for every new technology. Like, for example, our censor board exists because in the early 60s, I think it was when that court case happened, the government basically argued that, look, cinema has a much wider reach than books and therefore we need to censor it and treat it in ways different from books. And the same argument was made when the Gutenberg press was invented about books, where they said that earlier, you know, books would just go by hand and people would copy it, but now it's been printed and reaching wide dissemination and we need to control that. And so, like you correctly said, I mean, this fear on the part of governments is natural because, hey, they want to protect their power"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:09.000",
+        "message": "and all of these new technologies empower... Let's also cut them a little bit of slack in terms of saying that they also want to protect citizens and there are people who are getting hurt, who are getting abused, and there is a real fear that, you know, if there is any kind of incitement to violence using online media, there is a problem that the governments have to face. I mean, if you talk to police officers and district collectors, you will realise that their job is to maintain law and order in that area. They need to save lives. And their logic is that by shutting down the internet in this area, if I'm able to save one life, how do you put a value on that?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:50.000",
+        "message": "Sometimes the only tool you have is a blunt tool. So I understand that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:54.000",
+        "message": "No, also because, let's say, in terms of messaging and content on the internet, it's very difficult to monitor where it came from, who published it, who posted it, who do they hold to account. In that case, you know, they can't treat everything like a natural disaster. Although quite often when mobs go on rampage, they treat it like a natural disaster. No one is accountable. It was an act of nature. In the same way, you know, like when a message starts spreading, if it's a fake message of, let's say, between one religion, someone getting raped because of a religious identity as a revenge of some sort, right, it's going to incite communal passions within those communities. And under those circumstances, the district magistrates, they don't know what to do. They have to prevent the spread of those messages. This is one of the reasons why we've had the highest number of internet shutdowns in the world, in India. Like 70 last year, I think there have been over 40 already this year, including, I think someone mentioned yesterday that just day before yesterday there were three shutdowns. Some of them are for nonsensical reasons. There was one instance where to prevent people cheating in exams, they shut down the internet somewhere in Gujarat. And, you know, there are laws in place, there are rules in place. The government doesn't necessarily apply them in a manner which is in line with their own guidelines. And a lot of these things get done post-facto. The first decision is to shut it down."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:26.000",
+        "message": "I think state capacity being limited, the first impulse whenever violence is breaking out is to shut down the internet. Which is a very good point you make and you're playing devil's advocate with great success again. So I'll turn this back on you and say that why is government regulation not the answer then?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:40.000",
+        "message": "Well, the point is that the internet is already regulated. Exactly. There is a law for takedown, which is through a court process called Section 79, where if you want some content, let's say, which has been used to defame you or which has put up false information about you, you can go to court and get that content taken down. There is Section 69, which is secret government blocking, where the government can ask an ISP to block a particular site and that's going to go through a process within the government which is why the Supreme Court retained it. And there are existing laws regarding defamation and it's applicable online and offline, incitement to violence. So there are already laws existing. I personally, and we go back to that earlier point, I don't think there's a need for a different law for the internet."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:32.000",
+        "message": "So let me ask you this. We are both on the same page that we don't need all those laws. But here's the thing. All those IPC laws exist, 295A, 153A and so on, the Sedition Law. The IT Act exists right now, 69A exists, the government can block any website. So what is it trying to do further? What's the deal?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:50.000",
+        "message": "Everything is already pretty much covered. With this committee, I have no idea why this is happening. I don't think anyone understands why this is being put into place."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:58.000",
+        "message": "What is this a reaction to? Is this a case of something is wrong? Maybe they heard our episode and here's a problem. We must do something. This is something, so let's do it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:07.000",
+        "message": "Is it that classic sort of... I don't know. And I've spoken with a bunch of people. Nobody understands why the government is looking to do this. It almost seems whimsical."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:17.000",
+        "message": "Because they already have draconian power."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:19.000",
+        "message": "Yeah, so you know, they do. I was joking yesterday that Varun Grover in his comedy routines uses this line called Kabootar ki Barfi. The king steps out and says, Aaj hum kabootar ki barfi khayenge. And then no one knows what it is, but everyone says, yes, great idea, great idea, great idea. So we don't know whether this is as whimsical as that. They're trying to control news and entertainment in a space where you can't distinguish between news and entertainment, where you don't have jurisdictional control. Because I can start publishing out of somewhere in Norway."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:02.000",
+        "message": "How will they even be able to stop?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:04.000",
+        "message": "Like I said, I don't know why we should make that distinction. And on the internet, these are all moving targets. You block one site, another one will crop up. We did that with the blogs, if you remember. When the blogs were blocked, all we did was at the end of the thing, we added colon 8080."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:18.000",
+        "message": "And everyone was able to access the blogs. But this was only the people who were savvy enough to know those."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:23.000",
+        "message": "No, but these things spread. Look, whatever happens on the internet, it's like a hydra, multi-headed hydra."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:31.000",
+        "message": "You cut one head off, another one pops up. This is not going to end. It's always a moving target. In a sense, regulation is impossible, but that is not the argument we want to make. We want to make the argument in principle. And that goes back to sort of the IT Act and 66A, because that to me is illustrative, not just in terms of how the government realizes that, hey, this is something we don't regulate adequately. Let's go in and try to do this. But it's also illustrative of something that you've been part of in the past and other contexts, which is a civil society fight back against it, both in terms of sort of media outrage and also in a legal sense."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:05.000",
+        "message": "So can you tell me a little bit more about that? So what happened with 66A was that there were terms that came in from the government in the 66A law, which were about speech that is annoying and disparaging, and very vague terms which can be misinterpreted."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:21.000",
+        "message": "I've got to say Article 19.2 of the Constitution, which lays out reasonable restrictions, is equally vague in terms of public order and decency"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:27.000",
+        "message": "and morality and all of those. Well, this was even more vague. I know, yeah. And so because it didn't hold up to even Article 19.2, it was struck down by the Supreme Court because it was also being used arbitrarily."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:40.000",
+        "message": "But tell me a little bit about that process of getting it struck down in the political economy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:45.000",
+        "message": "So I think what happened was we got a bit lucky in the sense and someone got hurt in the process, so it's not right to use the phrase lucky here, but essentially two innocent girls, one of whom put up an update on Facebook when Bal Thackeray passed away, saying that why should there be a holiday every time a politician dies, right? Now, that was disrespectful, but it was clearly not violative of Article 19.2. And so therefore, I think a bunch of Shiv Sena people landed up at the police station and forced them to arrest these two girls. One girl had put up that update, the other had liked it. And so that was the sheer single case of this young lawyer from Delhi, you know, who had some legal backing as well in terms of great support. She went and filed a case for getting this declared unconstitutional. There were other cases also that had been filed and they got clubbed with this case. So there were other ITI cases on Section 79, Section 69 as well. And up until then, we had been raising these issues, but a lot of the instances of people getting arrested under 66A were not like as... Some of it was related to political speech. There was a cartoonist, Asim Trivedi. He was arrested because of some cartoons against a politician. So, you know, under those, that wasn't a clear... I think the people who may not have been as convinced by that, saying, oh, this is political speech and he's being... There were instances where someone was being disparaging to the national flag in cartoons and stuff like that. There were issues there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:41.000",
+        "message": "I remember writing a column a decade ago about somebody arrested for insulting the flag and the anthem, separate incidents, under 295A. I mean, those laws always existed and still do."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:54.000",
+        "message": "They do, but I'm just saying that this was as clear-cut a case."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:58.000",
+        "message": "This was just wrong, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:00.000",
+        "message": "And so because of all of these petitions filed and more people became aware of the way this law had been misused, I think a lot of us got together and we started raising the issue that we had been raising for a while. So the way change happens is that it, you know... I mean, Marshall Ganz talks about this in terms of organising, is that there is a story of you, as in why does something matter to you? Then there's a story of us, saying why should this matter to all of us? And then there's the story of now, as in why is this important now? So quite often that I've seen with... For my sake and the sake of the listeners, which book is this? I don't remember the name of the book, but Marshall Ganz is a professor at the Howard Kennedy School and he teaches organising. If you go to YouTube, you'll find a series of lectures from the Resistance School, which was brought out to teach liberal resistance on issues. So I watched a bunch of those episodes. And so Marshall Ganz... So the story of now is very important and I think most of us missed that. So even with the Net Utility Campaign, which I was a part of the team that ran it, I'd been raising this issue of net utility for years, right? It took a really horrible TRH paper that made it a clear and present danger for people to galvanise and start acting on it, along with everything else that came together. In the same way with 66A, a lot of people had been raising these issues, but this was the one case that did it, right? So there's always a story of now that needs to kick in for these cases to... for change to start."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:44.000",
+        "message": "And is that story of now something that happens serendipitously or can something be framed to become the story of now?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:50.000",
+        "message": "It can. So one is the creation of deadlines. So saying that, you know, you need to act on this by this date and that's when these changes will kick in. So it depends. You have to keep... You can create some sort of urgency, but it's not easy because there'll always be questions asked. Why now? Why is this important? Like, story of us and story of you address why is this important to you and to all of us. But the now is often out of our hands. Right. So, for example, in Aadhaar with the Supreme Court case, there is a clear story of now that kicked in sometime around December, which was created by the government enforcing linking deadlines for December 31st. Right. So when we ran the Speak For Me campaign at that point in time, that was a story of now kicking in saying here's the deadline. Mail your MP, mail your mobile operator, mail your bank saying you do not want this. If it hadn't been for the deadline and they'd made it indefinite, we wouldn't have had a story of now with that. In the same way, the Supreme Court case going on... So this is to galvanize people together, you need all of these three elements."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:05.000",
+        "message": "Which is very interesting. So an evil government buffoon who wants to do something which they know is wrong and will attract resistance can then avoid putting in elements"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:15.000",
+        "message": "which can turn into a story of now. Well, historically, tyranny has always creeped up on societies rather than... In some instances, obviously, there have been military coups, etc. But typically, long-term sustained tyranny has crept up and you haven't realized that it's hit you because then they avoid giving people that moment. And quite often, when it comes to attacks on freedoms and attacks on free speech in particular, we tend to keep moving on to the next one and the next one and forgetting the ones that got left behind. So sometimes it takes this one case and one instance which galvanizes a lot more people together to push back. So here's the thing. I think this attempt to regulate online content, I feel that it is just as worrying, if not more, than the net-utility issue. Because net-utility was about the ISPs controlling what you can and cannot access and charging you differently for what you want to access. This is looking at creating a framework for controlling your speech. This should matter more to people. So why there isn't as much of an outrage now is something I don't quite understand. We saw, for example, there was this huge outrage about encryption a few years ago where they were saying that all your WhatsApp messages you have to store copies in plain text form. It's a stupid policy that came out of the government. Immediate outrage, immediate withdrawal. If you remember porn ban, huge outrage in a country as overtly moralistic as ours."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:58.000",
+        "message": "Huge outrage against the ban on porn. Enormous consumers of porn had encouraged all of you to read this book called Everybody Lies by Seth Stevens Davidovitz which just reveals not just the amount of porn Indians consume but the kind of porn which kind of blew me away."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:11.000",
+        "message": "But sorry, carry on. So we had the Attorney General of India going to the Supreme Court and saying we don't want to be in anyone's bedroom and this is not that kind of a government etc. He said all of these things that we don't want to control what people watch then. And now when there's this talk about regulating online content there is no reaction."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:35.000",
+        "message": "You know you spoke about creeping tyranny which is a really important point and I don't want to make a political point right now but it's important to point out that yes what I say and many people say about Narendra Modi being the true heir of Indira Gandhi there's something to that. But I think people make a mistake when they talk about him imposing another emergency. He doesn't need to. He doesn't need to actually declare an emergency. He can give himself the same kind of control in a creeping sort of way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:05.000",
+        "message": "Well I think there's been a creeping increase in control and an attempt to increase control ever since 2008. Like the attacks on Bombay were used to bring in significantly regressive controls to changes in the IT Act which brought us Section 69 which brought us Section 79 which was later watered down by the Supreme Court which brought us 66A and you know even off and let's not forget that these are governments which argue for it. It's not necessarily political parties. So you know you had the BJP criticising 66A if you remember."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:41.000",
+        "message": "Which is a point I make. The government in power is always going to..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:44.000",
+        "message": "But the 66A was settled during the BJP regime and in court the government under the BJP was still arguing for 66A. Let's not forget this same government that argued against a fundamental right to privacy in the same way that Kapil Sibal also argued for pre-censorship and for protecting 66A. My point is it doesn't matter who's in power. Governments will come and governments will go. It's the power that we allow governments to accumulate over us over time"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:18.000",
+        "message": "that is incremental. The problem is the state. It's not a government or any particular party. It is in the nature of the state to consolidate and increase power and it is imperative on citizens to you know keep fighting back constantly regardless of which party is in power."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:35.000",
+        "message": "Oh and this is funny. One of the things that's happened with this particular committee is that the Ministry of Information and Broadcasting which has created this committee does not have jurisdiction over the internet regulation. So what's happened is that over the last two years Rajavardhan Singh Rathore who is the Minister of State for Information and Broadcasting in a written response in Parliament has said that it has no plans to regulate the internet and online content or video on demand services because that is the jurisdiction of the Ministry of Electronics and Information Technology. Wow. So you have a situation where after twice having said hey this is not our remit we shouldn't be doing this they've gone out and created a committee for doing exactly that. So I'm not quite sure about how the government functions. How can they create a committee over an issue that they don't have jurisdiction?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:36.000",
+        "message": "I mean this is very funny. Governments often you know parties contradict themselves given when you see what they say when they're not in power and when they are in power"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:44.000",
+        "message": "but here this is actually a minister. They're contradicting themselves while they're in power. But the other problem and I want to get into this bit is this entire idea of self-regulation because we are already regulating how we speak and what we say because there is this fear of clamping down from the government. You saw that yesterday we had Tanmay Bhatt talking about how comedians are discussing about how they will treat certain jokes so they might tell a joke to a select audience knowing that it will not be broadcast and they might not put that online or they might only do it in a wider audience in a show. So you're already controlling where your message goes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:30.000",
+        "message": "In fact my producer on the show Abbas who is in the studio right now is a stand-up comic and you should see the kind of jokes he tells me in private. He'd never dare to repeat them outside. And so therefore..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:40.000",
+        "message": "I'm glad I made him laugh. So for me that's worrying. So there are... Like when Amazon Prime first came to India they had two versions of American Gods. One was the part that they promoted here which was censored and then there was another one where if you search for American Gods you also saw something called International Edition which was not censored. Angry Indian Goddesses was censored by Netflix. And so you've had these situations where many of these platforms are self-censoring because they're afraid of government pushback against them"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:21.000",
+        "message": "when they don't need to self-censor. That's a chilling effect. It's like someone said in 75 during the emergency as well that the press is crawling when they're asked to bend. Which is, you know, that kind of overreach."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:32.000",
+        "message": "No, I think over here no one's even asked them to bend yet. And we know that the professional content providers are already discussing a self-regulation code which means that it's likely that they will have their own version of a censor board within each organization that's going to censor content according to what the industry agrees the norms for our country will be. And I would go back and say that, you know, my right to get that content in an unadulterated, uncensored form is just as important to me. That's a right that I have in that sense, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:12.000",
+        "message": "That's a positive right you're defining, not a negative right. You know, in the sense that I would say that if certain media houses choose to self-regulate in that way, I think that is fine. It's up to them. As long as no other media house or individual is coercively forced to conform to those rules."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:33.000",
+        "message": "So, for example, if... But what if they collectively do that and therefore..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:37.000",
+        "message": "But how? See, like, I'm editor of a magazine Pragati, right? Now five other online magazines can come together and collectively decide to have certain standards for themselves and bleep out certain things. I don't care as long as they don't force me to do it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:51.000",
+        "message": "No, again, and this is where I think we had this discussion yesterday as well where I kind of disagree. What's happening is that there is very little room being left for upstarts to come in and for there to be a truly competitive market when it comes to the aggregation of content because of market power which allows exclusivity for that particular piece of content. And, you know, this is what's happening to the internet. So if you look at antitrust regulations..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:21.000",
+        "message": "No, but in this instance, here's the thing. In this instance, any online magazine, say, that joins a self-regulation group like this, in any case has the intent to regulate itself and conform by the government guidelines. So it doesn't make a difference. My issue always comes where the coercion begins."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:38.000",
+        "message": "No, no, but I'm saying that... Whether it comes from the government or any other group. I'm saying that even when you look at private parties, if you look at the access to content and the entities that control it, it's a fairly limited set. So there is cartelization in this censorship."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:44:53.000",
+        "message": "Sure, and..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:54.000",
+        "message": "And therefore, there isn't enough room left in the market for alternatives and the only other route is piracy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:01.000",
+        "message": "Yeah, but here's the thing. What I'm saying is that cartelization, in a sense, a cartelization of what approach you have towards news and regulation is there anyway, regardless of whether you formalize it"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:12.000",
+        "message": "with a self-regulating body or you don't. No, but the decentralized nature of the internet actually destroys that cartelization."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:45:18.000",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:19.000",
+        "message": "And that's something which I'd mentioned..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:21.000",
+        "message": "But that can only be stopped with coercion. Coercion from whom? I'm saying cartelization can only happen if there is coercion of some form. Otherwise, the internet is decentralized. Like, for example..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:31.000",
+        "message": "No, you see, what's happened is that a majority of the internet is now, and we discussed this in the Future of the Internet podcast as well, that it's largely being controlled by very large players for whom it's important for them to be able to play with governments in order to retain the power that they have. And therefore, there is no room left for... For example, there is..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:52.000",
+        "message": "We're talking past each other, actually. It's a different issue. The point you're making as you made in Future of the Internet..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:58.000",
+        "message": "No, no, so I'm saying that these larger players are more likely to self-censor in cartelization in order to be in the good favors of the government."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:08.000",
+        "message": "Yeah, but I'll tell you why we're talking past each other. Because the point you're making is the one you made in the Future of the Internet episode, and I agree that these larger players like Facebook and YouTube are almost like monopolies because of the market power they have and network efforts kicking in. But what I was addressing was what you were saying about the danger of... And I agree with the danger. I don't think... You know, I think self-regulation is sort of pointless. The market regulates the best, and I'll expand upon that if you want, or civil society regulates the best. But, for example, the fear that you were expressing, if I understood it correctly, is that a bunch of media houses will come together and decide to self-regulate and have a body that sets certain standards for them, and therefore we are in trouble. Now, my point is that anybody who voluntarily joins such a body has the intent to censor themselves anyway."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:57.000",
+        "message": "So, therefore, it doesn't really matter. It's smooth whether they formalize it or not. It could be competitive in nature. If you're the one that doesn't do it, then there is a fear that there will be a regulatory backlash against you. And so, you know, I'm just saying that the way because all of these guys interact, because they work together, I don't think competitive forces are strong enough right now to allow for an outlier, for someone who's going to go against the grain."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:25.000",
+        "message": "Yeah, but look, here's the thing. If the Times of India and the Hindustan Times and Indian Express come together and say..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:30.000",
+        "message": "And decide to split the market between themselves. No, no, no. They say that we'll self-regulate."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:34.000",
+        "message": "I'm just talking about regulation here. If they say that we will self-regulate and we'll form a body and these are the standards we'll apply to, the Hindu can say no without any consequence."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:43.000",
+        "message": "I'm not sure whether that's going to happen on the internet."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:46.000",
+        "message": "Which are the players you're referring to who will form a self-regulation?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:51.000",
+        "message": "No, there's already a committee at the Internet and Mobile Association of India that is debating these issues. There is, at this point in time, no clear, you know, agreement. Because there are some players, and this is like information that I have from talking to sources, there are some players who want a self-regulatory code who've already created one. And there are others who want to work with them on that and there are others who oppose that idea. So, yes, there is currently no consensus. But with this government pressure coming in, in order to ensure that there isn't overreaching government regulation, they are all seeing self-regulation as a way out. What do you feel about this? So, I think they're being forced into self-regulation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:33.000",
+        "message": "Right. But if you were in... Like, for example, yesterday one of our fellow panelists said that because government regulation is going to happen anyway,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:42.000",
+        "message": "we should self-regulate as a pre-emptive measure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:44.000",
+        "message": "That's exactly the point, right? Which is a practical point they're making,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:47.000",
+        "message": "but I don't agree with it. Do you? So, I think there needs to be a pushback against self-regulation because of a number of issues. Number one is that it creates a distinction between the Internet that we get access to in India versus what we get access to across the globe. So, our exposure to perhaps content from across the globe might be impacted by people who do not conform to these guidelines. And secondly, what would happen is that there would be content that we want to consume here that is legal for us to consume over here. But because of overarching guidelines, I mean, you've had instances of innocuous words like breasts being censored on TV and in films. Chicken breasts. Chicken breasts, right? So, I mean, would you want Netflix and Amazon, etc. to start doing that? Think of people who want to watch Game of Thrones on Hotstar. You remove the nudity from that, so either you blur it out or you cut those scenes. And when you cut those scenes, then you lose the context of what's going on. So, I mean, there's an old question about what is art and what is obscenity in that sense, right? And so, I think we would be worse off in terms of getting access to the kind of content which is legal that we should be allowed to watch because of a nanny state. Secondly, what would they do about those players who choose not to become a part of this self-censorship regime? Would they be blocked in India, right? So, the internet was meant to create that competitive marketplace where if there are consumers who want access to that content, everyone will have to evolve to providing them that kind of content. Here, it's going to happen in the reverse, that it's going to get blocked if it's not a part of that. The third point is that it actually then takes us down the road of enabling government regulation. So, you have self-regulatory mechanisms in, for example, the News Broadcasters Association where channels who do shows on snakes, human babies, and shit like that, don't necessarily, they're not a part of the News Broadcasters Association, so they're not governed by it. And so then, for those who choose not to be governed by this, will that then lead to the government saying, oh, the self-regulatory mechanism is not valid, it's not working, but we understand that you want there to be regulation because you already have a code, now let us put our own code together. And then we effectively open the doors for regulation through self-regulation. Instead, if what we need to do here is push back on principles. So, number one is that there is no distinction between news and non-news content, frankly. And news is not the exclusive prerogative of journalists. Anyone on the internet can disseminate, can report news, anyone can have an opinion. That's the freedom that we have on the internet, which we don't have in print or on TV. In the sense, there's also, there is no distinction between a journalist and a non-journalist, between a journalist and an entertainer, between a stand-up comedian and a news anchor. These are all distinctions which have been made irrelevant, which were, there were roles and positions that were created through the implementation of control over who gets to communicate. I don't need an accredition to launch a news site. A stand-up comedian doesn't need a license to go and showcase his short film, right? And I think that's the beauty of the internet. We don't want to lose that nature, that it's not, you know, there's a distinction that's being made between professional content and user-generated content. On the internet, all users are both creators and consumers. Everything is user-generated content. So, therefore, when you start slicing it up into pieces, that's when it falls apart."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:58.000",
+        "message": "In fact, so, you know, after yesterday's discussion, two tactical points came to mind, and I agree 100% with you and very strongly, which is, might be a bit of a repetition, but one tactical point is the reason that pre-empting government regulation with self-regulation, I think, is a self-goal, is because then you are tacitly agreeing that this needs regulation. It's much better to take a stand on principle that, no, this doesn't need regulation and there will be no regulation. Once you agree that some regulation is required, but you say, we will do it ourselves, then, inevitably, the government will step in and find faults and say, look, you are not being able to do this because of X, Y, Z, but you have already agreed regulation is required, so let us do it. It's much better to fight on first principles and say that no regulation is not required, we will regulate you, not the other way around. And the second point is that I think, you know, there's this famous poem by Pastor Naimoler that, you know, first they came for the Jews, then they came for blah, blah, and by the time they came for me, no one was left to fight for me. I think whether they intend to or not, they might be achieving a similar effect here when they have all these categories of news and entertainment, and, you know, one of the questions that you asked yesterday, the cunning devil's advocate questions was that what if they'd come and tell the big players that, don't worry, we won't touch you, we'll go after the small fake news guys first. And the thing is, this is very cunning because this is going to end in a Naimoler kind of way where first they came for the small fake news guys, then they came for the entertainment, and when they came for the news, nobody was left to fight for us. And instead of this, we all have to band together and say, forget the categories, forget the ideologies, forget everything you believe in, just fight on this one principle if you agree with it, that no regulation."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:41.000",
+        "message": "So going back to news, I think one of the things that we've seen in common between the two regimes with both Trump and the NDA regime here is that there's been a distinct focus on discrediting news organizations. And that's actually a part of the process of, you know, gaining greater control, because if people don't know what the truth is and they think that and they like, I think someone is mentioning that in case of Reddit, the organization is discredited, no one judges the content on the basis of the legitimacy of the content. So the source is actually delegitimized. And so I think we are still facing this problem as a country, as a democracy where news itself has been delegitimized. Many news organizations have helped do that because of the kind of entertainment that they have run on their channels. And so there is also this counterpoint that, you know, perhaps there needs to be a better control because that also has an effect on society."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:44.000",
+        "message": "So let me play devil's advocate now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:47.000",
+        "message": "I was just doing that. You were just doing that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:49.000",
+        "message": "Okay, now I will continue playing devil's advocate and I will throw it back at you. So I'm putting you in the spot instead of the other way around. You refer to the 2008 broadcast code where, you know, during the terrorist attacks, TV channels made these obvious mistakes which impacted national security, where they were showing what was going on and the terrorists sitting in Pakistan were getting that information. And the government stepped in and said, look, this is clearly wrong. You need a broadcast code, blah, blah, everything very reasonable. And the point that you made yesterday, again, was that what has happened with Cambridge Analytica is an analog of that moment for the online space. And therefore, the argument would come from the state that therefore government regulation is required. And the earlier answer you gave, which is that there is already enough regulation in the form of 295A and all, is kind of a cop-out because we are against that regulation also."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:38.000",
+        "message": "No, look, here's the thing. You will have, there's always room for more regulation. But there doesn't seem to be any room for building capacity to enforce existing regulations."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:49.000",
+        "message": "But that's also moot, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:50.000",
+        "message": "My question is a philosophical one. So the problem really is that the way regulations typically work is that their implementation is arbitrary. It will be used in specific instances, but many people who violate those same rules will be let go."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:05.000",
+        "message": "Nothing is going to happen to them. But that's a utilitarian argument. Give me the philosophical argument. Why should there be no regulation when things like this happen?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:14.000",
+        "message": "I haven't quite figured this out yet, actually. I've been thinking about this for a while. For me, at one level, I do believe there's a need for regulation of large platforms because of the disproportionate ability they have to control narratives and speech and access to speech. And we need neutrality in the access to speech for people to get the right kind of information in order to make better decisions. And if someone is controlling their access to speech, then they're controlling the way that they're thinking. So at some level, I think we need to enforce neutrality amongst these organizations. And also, I do believe that we need to prevent mass targeting and mass personalization and behavioral targeting of citizens. And business models of advertising need to change because it is the blind nature of advertising that is taking us down this path where people are able to make money by facilitating or spreading fake news because there is no distinction between real and fake when it comes to the advertising business."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:33.000",
+        "message": "No one knows where their ad is being run."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:35.000",
+        "message": "But is your point then is that regulation is required? No, so I'm saying that there are a large number of things that have happened collectively for this to become possible. So if you prevent the collection of mass and very granular personal and behavioral data, that is going to address micro-targeting to quite an extent. If you ensure that people have choice about deleting their own history and therefore not feeding algorithms or keeping the algorithms or allowing the algorithms to profile them to a greater extent, then again you will be able to prevent personalization at that level of scale where there are filter bubbles that are created. So to each of these issues, there are solutions. So for example, if you see, Facebook actually deals with hate speech a lot better than Twitter does. So from a self-regulation perspective, I think it is up to organizations to change the way they work in order to ensure that there is no need for government regulation. And unfortunately, many of these organizations, including Facebook, have failed. They rode their luck for too long."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:50.000",
+        "message": "So are you arguing that there is a need for government regulation?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:53.000",
+        "message": "I think we've reached a point where it's difficult to argue against regulation as much as we don't want it. And I think it's unfortunate that we've reached this point. But are you for it or against it? Do you think it's necessary? So principally, I'm against regulation. But practically, I think we've reached the stage where it is necessary. No, no. Where it's necessary or inevitable? Necessary and inevitable."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:00:17.000",
+        "message": "Okay."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:18.000",
+        "message": "So that's why this is a very difficult question for me to answer because principally I'm opposed to that idea."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:23.000",
+        "message": "I'll disagree and I'll try to explain why. I hope I can manage. And then I'll bring up what is difficult for me to answer. My disagreement comes from saying that, what happened in 2008 can just be handled because it's a national security issue and it can be handled by laws that pertain to that. You don't specifically need to regulate the media or free speech for an instance like that. Agreed. But apart from that, the point I sort of made yesterday was that people often assume that when you talk about regulation, there are only two options, which are government regulation or self-regulation. To me, the best kind of regulation, the natural regulation, which leads to self-regulation but is an overarching thing, is competition. And I'll clarify on that when you talk about seeming monopolies like Facebook. Competition is the best regulation because markets sometimes have a bad name, so you can call it markets or you can call it civil society because markets are nothing more than a web of voluntary actions of people in civil society, citizens like us. And I think you see this playing out in the sense that after the outrage over Cambridge Analytica, Facebook has actually made efforts to do something about it that at various times, various platforms have been responsive to what consumers want. And I think as somebody made the point on the panel yesterday, part of the reason they do so is because advertisers are leaving, but advertisers are leaving because users are pissed off and therefore it comes back to civil society. I'm not so sure. I don't quite agree with this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:52.000",
+        "message": "I think even in terms of the responses Zuckerberg gave, I don't think Facebook is entirely being genuine. If they're not. I think there's ample proof, for example, in terms of the fact that they moved users out of Ireland with changes to the terms and conditions in order to evade strong privacy regulations"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:14.000",
+        "message": "that are coming under the GDPR and the EU."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:16.000",
+        "message": "So I think we need to judge Facebook by their actions"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:20.000",
+        "message": "and I don't think we've seen enough there yet. My point is not that all private players are virtuous. Of course, private players aren't virtuous and not responsive, but the point is that do people have options? Now, your point is that if you want to go to a social networking platform, Facebook is like a monopoly. It's too big. My point is that Facebook is not competing with other social network platforms. They're competing with everything a person can do with their time and many people have left Facebook because they're appalled by what happened during the Cambridge Analytica thing. So they are choosing other options and that is a reaction of the market and ultimately that is the only regulation which will work because it's the only regulation which is non-coercive."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:58.000",
+        "message": "So look, Facebook's earned its monopoly just as Google's earned its monopoly, just as Amazon has earned its monopoly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:05.000",
+        "message": "By serving customers well, but when they cease to do that\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:08.000",
+        "message": "No, I don't think it's just\u2026 I think it's not just serving customers well, but it's also by building great products with large amounts of data collection, observing smaller potential competitors, buying those competitors. And so what's happening is that they are very quickly encroaching on each other's territory and therefore like the point that I made in the last podcast was about the same thing, that we are\u2026 there's a battle between elephants going on"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:37.000",
+        "message": "and democracy is getting crushed in the process. No, no, democracy is getting crushed and that's a problem for which neither you nor I have immediate answers, but I think government regulation is the wrong one. But I think you're missing sort of\u2026 the point I was trying to make is that Facebook, though I agreed with you when we spoke about the future of the internet, but in thinking a little deeper about it, Facebook is not a monopoly because they might dominate social networking, but to me Facebook is competing with many other players in how we spend our time. And people might even decide, like I have, that social networks are a waste of time, there are privacy risks, get out of them. And therefore they are in a very competitive marketplace"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:14.000",
+        "message": "because everyone is competing for your time. So, you know, this is a classic problem when you're looking at antitrust, which is definition of the market. And so you and I may have different definitions of the market in the same way that you could say that\u2026 would you say that, let's say, if there is a single telecom operator in the market, it is effectively not a monopoly because it is also communicating with\u2026 direct verbal communications or it's competing with telegraph and mail for communication. So, definition of a market, I don't quite buy that argument of defining the market\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:49.000",
+        "message": "But telecom is kind of different because there's a function there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:52.000",
+        "message": "I'm saying that that can be\u2026 so social networking, right, and so spending your time. If you're\u2026 you can always define markets differently to suit different needs and it's a valid thing to do, but regulators have to look at it from the perspective of how is this impacting a particular market. So, for example, and also regulate for harm. So, let's take WhatsApp, for example. It was determined by the competition commission of India that WhatsApp has a dominance in the Indian market when it comes to messaging. They did not compare it with SMS because it deemed that rich text messaging, which WhatsApp is, is different from what regular text messaging is. But it also determined that WhatsApp had not abused its position of power. Now, I think it's very clear that we are running the risk of many of these large platforms abusing their position of power. And like I said, then we cannot, as a nation, we cannot depend on the benevolence of these platforms to maintain our freedom."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:01.000",
+        "message": "Okay, so let me\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:02.000",
+        "message": "And so while states are constitutionally held to account or supposedly held to account, there is no accountability framework in place here for platforms, or for, and especially on these platforms when it comes to their control over free speech, because the medium of speech is just as important for the transmission of free speech as a message. And so therefore, we need an accountability framework for platforms."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:29.000",
+        "message": "So here's the thing, here's the thing. When we talk of the mistakes we made around benevolence, or when we assume that all government intervention will be somehow\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:38.000",
+        "message": "I don't think so. This is where I'm conflicted, right? I understand the need for certain kind of an accountability framework to be put into place for platforms. But I also am afraid of government intervention."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:50.000",
+        "message": "Let me kind of make my point why I say that no matter what the problem is, government regulation is always the wrong answer. Because in this case, what it would do is government is not, you know, a benevolent beast that sits upon us and will act in our best interest. Government ultimately is a parcel of interest groups. And what happens when you give government power, when you give it the power to regulate something, is that where there is already a power imbalance, you are further empowering this specific set of interest groups, whether they be political or commercial or whatever, against others. And accountability in practice simply isn't there right now. And government failure is ubiquitous. Market failure is relatively rare, if it is there at all. And I would just say that all regulation that happens has to be non-coercive and has to come from civil society. If companies break the law, sure, prosecute them. That's the job of the state. But if they don't break the law, if you don't, if it's a question of preferences that I prefer this algorithm to that algorithm, there shouldn't be coercive pressure. It should be the voluntary actions of people which indicate what happened. And we can obviously disagree about how you define markets and monopolies. And I don't think either of us have a solution to the problem that we've sort of been lamenting over this period of time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:04.000",
+        "message": "I'm reminded of one solution which is regulating for harms and for which laws already exist. So if you can define certain harms and define the laws under which those are governed and ensure that platforms, so for example, if it's hate speech, if it's death threats, if it's intimidation, if it's incitement to violence, even if it's criminal defamation, which I principally disagree with, there are laws for that. And I think it's just about then holding platforms to account for it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:40.000",
+        "message": "Yeah, exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:41.000",
+        "message": "I mean, we have existing laws which deal with a lot of those things. Many of those laws we don't agree with. But that's a way of regulating for harms. So it is still regulation of these platforms."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:51.000",
+        "message": "But it's not going beyond what already exists. See, Nikhil, when I talk about regulation, I mean it is distinct from the rule of law. It's understood that the state's job is to maintain the rule of law. If the company breaks the law in any way, then obviously the state does its job. But if it's going to sort of regulate and give licenses or say that, no, you have to bleep out the word breasts, it's not allowed, then that doesn't break any law. And that kind of regulation is what I'm against. I'm not saying there should be a free-for-all where everybody does everything. I'm saying the rule of law. Again, I think that a lot of the laws that regulate free speech simply should not exist. And I know you agree with me on this. But the question is not about the rule of law. We need a state which has the capacity to maintain the rule of law as strongly and firmly as possible. We don't need regulation beyond that, which I think is what you're saying."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:38.000",
+        "message": "Yeah, I don't think we need regulation beyond that. I also don't think we need to look at the Internet as distinct from what we already have. But I think one argument which also keeps coming up is, and from the traditional players, is that the need for regulatory parity between offline and online, in which case what we have and the problem that we are facing here is that the traditional media is heavily regulated. It is over-regulated. So their argument is you need to, so there are two ways of doing it. Either you reduce the restrictions on traditional media or you increase the restrictions on the Internet for that regulatory parity because I do also agree with this notion that you're effectively advantaging the Internet versus traditional media."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:25.000",
+        "message": "There's an analogue of this argument, and I think in my episode on Uber it had come up, that the black and yellows on the auto rickshaws will argue that we've been so heavily regulated for so long that why let Uber and Ola run free, to which my argument would be remove those regulations."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:40.000",
+        "message": "Exactly, and by the way, the same argument that also came up during net neutrality. So, in fact, there's a playbook that the traditional players tend to follow. The interesting thing here is that I was at a TRI open house on uplinking and downlinking of TV channels about three odd weeks ago, and there both Zee and Star argued for deregulation, saying that we shouldn't be treated as broadcasters. We are content aggregators, and we need to have the same freedom as online players do. We need to have the same freedoms on traditional media platforms. And the other thing that came in was interesting, was that all of these codes, and like uplinking and downlinking are permissions, they're not licenses apparently. And this was brought in because the government did not know how to tax foreign channels that were being downlinked in India. So, what was brought in as a means of getting revenue and effectively tax collection also lent itself to being a means of controlling whether the channel goes live or not. And we know that there are, for example, I mean, this is generally talked about in the media circles, is how Raghav Behl's Quint and Bloomberg Quint, their licenses have been stuck for quite a while."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:02.000",
+        "message": "This is again a point about, you know, they started regulating television from 2008 and look at the result, Republic puts out whatever nonsense they feel like, and Bloomberg Quint is not allowed a license to broadcast. Don't give government that power, let everyone broadcast, and then if someone breaks the law, you punish them. Otherwise, let viewers decide which they have a right to do."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:22.000",
+        "message": "So I wrote about this during the Net Totality debate. How do you start a billion TV channels on the internet? Because there are no restrictions. And that's, I think, what we need to also preserve."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:32.000",
+        "message": "The ability for all of us to create\u2026 I think someone in the ministry read that and said, Hey, look what this guy is saying, he's right, we need to do something. Nikhil, this is all your fault. Listen, I know you need to catch a flight and therefore we have a hot stop coming up. So we'll end this podcast here. I think we've both had a very enjoyable ramble during this session. And a long one at that. And a long one. And it's, no, I have to say it's always great fun talking to you because you're challenging me to think in new ways, giving me new information."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:13:00.000",
+        "message": "And it's a pleasure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:01.000",
+        "message": "And I think this is hopefully an ongoing sort of process. And thanks a lot for coming on the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:09.000",
+        "message": "Thanks for having me on the show. I don't think we'll run out of things to talk about, given how active governments have been on the internet. You know, this is the digital India age, in a sense, that's just beginning. So unfortunately, we'll have a lot of things to talk about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:24.000",
+        "message": "Shubh shubh bolo. I hope we never need to meet again, but continue doing so for our own pleasure. Thank you for listening. If you enjoyed listening to the scene and the unseen, check out another show by IVM Podcast, Symbolified, which is hosted by my good friends, Naren, Chuck, and Sriket. You can download it on any podcasting network."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:14:20.000",
+        "message": "He bends down to test the warm water for his bath. He comes here to quench his thirst for a hot shower and some podcasts. You can witness how he enjoys having other people talk about cool stuff in his bathroom. Indeed, it helps him with his loneliness. You can find more of his pieces on ivmpodcast.com, your one-stop destination where you can check out the coolest Indian podcasts. Happy listening."
+    }
+]

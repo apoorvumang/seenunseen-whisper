@@ -1,0 +1,947 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "So, let's look at history as a linear series of events, one thing following another, with everything seemingly inevitable. But that's the hindsight bias at play. When historical events are happening in the present tense, all possibilities seem open, everything seems chaotic, anything can happen. Also, there are far more factors at play that determine the course of history, and most of those don't make it to the narrative that we later tell about it. Also, historians come along who look further, who look deeper, and expand that narrative and our knowledge of the world. Srinath Raghavan is one such historian, and Bangladesh is one such subject."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:09.000",
+        "message": "Welcome to The Scene and the Unseen, our weekly podcast on economics, politics, and behavioral science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:19.440",
+        "message": "Please welcome your host, Amit Varma. Welcome to The Scene and the Unseen. My topic today is the Bangladesh War of 1971, but not the events of the war itself, but the global forces that shaped those circumstances. People often think of the breakup of Pakistan as if it was inevitable, and people often see it as a bilateral conflict between India and Pakistan. None of those are quite true. Srinath Raghavan's book, 1971, A Global History of the Creation of Bangladesh, takes a deep look at the international events that led to the creation of Bangladesh, and the actions of not just India and Pakistan, but also the USA, the Soviet Union, and China. But before we get to my conversation with Srinath, let's take a quick commercial break. This episode of The Scene and the Unseen is brought to you by Storytel. Storytel is an audiobook platform which you can listen to on your Android or iOS app. They have thousands of audiobooks you can listen to on your mobile, including hundreds in local languages like Hindi and Marathi. An unlimited monthly subscription costs only 2.99 a month, but you can get a 30-day free trial if you hop on over to Storytel.com slash IVM. Now I actually use Storytel myself regularly, so as long as they sponsor this show, I'm going to recommend one book a week that I love. My first recommendation is actually a Hindi audiobook of one of the greatest novels ever written, Raag Darbari by Srilal Shukla. Raag Darbari was written in 1968 and is a powerful satire that nails the nature of government and bureaucracy and life in India, every libertarian will love it, and is still as relevant and biting and trenchant as it was then. I first read it in its English translation, was blown away, and had always intended to read it also in Hindi. Because if the English translation is so good, how good will the Hindi be? Well, now I've heard it and it's mind-blowing. Listen to Raag Darbari on Storytel and remember, you get a 30-day free trial only at Storytel.com slash IVM. Srinath, welcome again to the scene and the unseen. Thank you. Great to be here. So Srinath, I'm going to begin by exploring an angle I sort of explored with, you know, when I did a couple of episodes on Gandhi with Ramchandra Buha, and where I asked him about the difficulty of being a historian, given that we are wired for what is called the hindsight bias, that when you look back at history, everything seems inevitable. And it struck me when I was reading your book on Bangladesh, 1971, that that's one of your starting premises for the book is that the that sense of inevitability plays out especially strongly with Bangladesh. And it wasn't at all as inevitable and you examine the various reasons why. But just as a general question, if I may pose the same question to you that I posed to Ram, how do you sort of mentally take that step back from that sense of inevitability?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:10.120",
+        "message": "Well, so historians have a saying that, you know, life is lived forwards, but understood backwards, right? So in a sense, the challenge for the historian is how do you sort of try and find some kind of a point, which does not exclusively privilege hindsight, but hindsight is absolutely important, because that's the only way you can make sense of things together. And to have that sense of contingency, but also causality in play, is I think a bit of a balance that you strike as you go along. In a sense, there is no formula for it. It's more of a craft and how you sort of approach things, right? So this is great historian of the French Revolution, who is to say that, you know, before it happens, every revolution seems impossible. But after it happens, it seems inevitable, right? And that that's true of most great things like the Bangladesh emergence of an independent country and so on. So the challenge for me in writing this book was precisely to come to terms with that kind of a meta question of saying, how are we going to tell the story without making it all seem as if it was so predetermined, which in some ways also takes away agency from people at the end of the day, history is made by people themselves."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:08.880",
+        "message": "And specifically, how did you arrive at Bangladesh?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:11.080",
+        "message": "Well, I was actually working on a PhD thesis focusing on Indian foreign policy in the sort of early years, primarily focusing on the Nehru period. And I was working in the Nehru Memorial Museum and Library. This was in the early 2000s. And at that point of time, the papers of P. N. Huxer, who was Indira Gandhi's principal secretary during that period, were actually sort of deposited and made available to scholars. So I was one of the first people to sort of go through them, you know, it's a very large collection. Lately, we've had Jairam Ramesh writing a biography of P. N. Huxer, which makes very good thorough use of all those sources. But I think I was one of the first people to actually see that. And it very quickly struck me that there was very interesting material on the Bangladesh crisis, which suggested very different points of view, even ab initio. And then I decided to sort of make that a project. But it also struck me that it would be useful to widen out the perspective and not just do an India-centered account of how the Indians approached the crisis, but to look at the crisis as a whole, to understand this very important historical event in post-colonial South Asia, which is the emergence of Bangladesh, and to sort of do it on a much wider canvas. So that's how the project really began. And then I started working in a range of other archives, you know, I've sort of worked in Britain, America, Canada, Australia, the Soviet Union, Germany. So all of these archives then kind of opened up a much more sort of multifaceted sort of portrait of the period and of that particular event itself."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:32.480",
+        "message": "And just as an aside, your book is full of these illuminations and insights from the so to say bit players like Huxer, D.P. Dhar, P.N. Dhar, who all sound like, you know, fairly evolved intellects, you know, not what you would expect the typical, what the stereotype of the Babu or the bureaucrat is. And that that was also fascinating to me to see those sort of influences upon our Prime"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:54.760",
+        "message": "Minister. Oh, yeah, absolutely. And one of the sort of key strengths, which Indira Gandhi had, particularly in her early period of her sort of prime ministerial career, was to be able to accumulate this kind of very high quality talent of civil servants, people with, you know, sort of, you know, foreign policy experience with intelligence background, to be able to sort of assist her. And at least in the case of the Bangladesh crisis, I think these people were not just bit players, they were very important, you know, and someone like P.N. Huxer was literally sort of the person holding various strands of crisis management together on behalf of the Prime Minister, of course, and looking through those notes and, you know, the letters that they wrote to each other about what Mrs. Gandhi told them in certain meetings and so on was absolutely fascinating."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:35.000",
+        "message": "Yeah, much more erudite and crisp and better articulated than many op-eds of the day, which you might find. So I'm intrigued by, you know, an early sentence in your book, which I found in the introduction to your book, which is, quote, professional historians of South Asia remain reluctant to venture beyond the boundary of 1947, stop quote."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:52.720",
+        "message": "What do you mean by this? Can you elaborate? What I meant to say was that the study of South Asian history, as it happens in universities, as done by historians who sort of teach and research in sort of universities and so on, is still very much focused either on the colonial period or the pre-colonial past. The immediate sort of post-independence period and or the post-colonial period in South Asia as a whole still remains something that historians are reluctant to touch, partly because they see it as too close to their time, partly because the archives for the older period are much better organized, more easily, you know, if you want to work on some topic to do with British India, you can go to the British Library in London, you can look at the National Archives in India, you'd get a reasonable, whereas for the post-colonial period, especially when I was working on the book, things have changed a little bit since then. The official archives were almost, you know, had close to zero holdings. So you had to sort of go through private papers, which is what I was doing, you know, Luxor and others, and then use various other kinds of official archives from other countries. So you, in a sense, that remains a challenge. The second thing is that, you know, there is some kind of a sort of a tacit intellectual or whatever academic division of labor, which has happened, which is to say that historians typically look at everything before independence, whereas, you know, it's the political scientists or international relations scholars who look at the more immediate past. But I think, you know, that then leaves out a very large arena of our contemporary existence, which I think needs to be bought under the, you know, the domain of history proper and of historical investigation and writing. I'm happy to say that since I wrote those words, I mean, things do seem to be moving, though not as quickly as we'd like it to. But I think we definitely have a range of books now coming out, which also try and treat the sort of post-independence, post-colonial period in the same historical fashion as you would do with anything in the distant past."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:36.360",
+        "message": "And I'd imagine without the bedrock of history, even political science then has a problem"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:41.160",
+        "message": "just dealing with the material, right? Well, I mean, I think a big part of the problem with a lot of Indian political science writing is precisely that it's very ahistorical and, you know, tends to treat the present as if it does not have a past. And that, you know, the way that institutions, structures, and processes have evolved historically is somehow not of any moment or concern, that the only thing which matters is what is the dynamic today. And I think that that ahistorical quality is, I think, been one of the significant drawbacks of Indian political science writing. But at the same time, I think the best Indian political scientists are people who have sort of, you know, used historical knowledge and historical materials, really, to throw light on political processes in more closer periods of time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:21.520",
+        "message": "And could the converse also be true? Like as a historian, do you sometimes feel that you're wearing the hat of a political scientist also when writing parts of your text?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:28.320",
+        "message": "Well, the way I sort of tend to approach all of these things is to say that, you know, not just political science, but social sciences more broadly are very important for me because that gives me heuristic devices with which I approach the archives. You know, archives and sources don't tell you any stories, you have to ask questions of them, you know. And for that, you need to have some questions which come out of broader conceptual theoretical sort of basis. Now, you know, I don't go out with a view of trying to prove or disprove this or that theory. But as a heuristic device, I think social sciences are very important for the historian's craft. But of course, you know, in terms of my own choice, I still prefer the narrative, which I think is the domain in which history is best explored and written and presented. And so I choose the narrative as the main device through which to tell the story."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:09.560",
+        "message": "So is there sort of a fine balance there that a historian needs to maintain between the narrative that they're presenting and the perspectives that they might wish to bear"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:17.720",
+        "message": "upon that narrative? Yeah. So, you know, historical narratives, contrary to sort of what, you know, other social sciences typically tend to think are not just about telling a story, right? I mean, you're trying to make a causal argument. I think the central difference between, say, most other social sciences and histories, and I say most because there are exceptions, is that historians are interested in change, whereas other social sciences are typically interested in trying to find longer term continuities, right? So they may use historical materials, but with a view to saying so and so process or so and so pattern is recurrent, if these are the initial conditions, these are likely to be the outcomes, right? So, so that is the kind of exercise that they are engaged in. Whereas for historians, the challenge is not that we're not interested in generalization, we are. But the bigger problem that you're interested in isn't change. How does change happen? How does a country like Pakistan break up into two parts is exactly the kind of questions"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:02.660",
+        "message": "that historians are drawn to. And getting back to the breakup of Pakistan, again, early in your book, you say that the typical prisms through when one looks at Bangladesh are insularity and determinism, we've already spoken about determinism and by insularity, I guess you mean that, you know, people tend to think of it as either something that concerns Bangladesh alone, or it's an India Pakistan dynamic and what your book tries to bring out is that there are sort of these geopolitical waves of events and, you know, all with their unintended consequences, which are sweeping through at the time and Bangladesh is really a result of those, I mean, as you said later, it's far from being predestined, it's a product of conjuncture and contingency, choice and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:42.160",
+        "message": "chance. Yeah, that's true. I mean, in a sense that much of the writing on the creation of Bangladesh, it tends to be either from the perspective of trying to tell the story of how Bangladeshi or Bengali nationalism sort of rose and, you know, attained its destiny as an independent nation, or it is about saying why Pakistan, as it was in 1947, kind of was an unworkable project and so on. So there is an implicit sort of teleology and determinism, which is built into most of our storylines to greater and lesser extents, but that's the standard way in which we think. And of course, in India, we have our own story of, you know, this being the most important sort of moment of India sort of, you know, falsifying the two nation theory and so on. Now, I don't for a minute say that any of these narratives are strong. What I want to say is that they are incomplete, and that if you really want a more satisfactory explanation of why this particular momentous event occurred, then you have to place it not just within a national or a regional frame, but actually in something of a global, it's an international and transnational frame."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:43.000",
+        "message": "And that's what really the book tends to do. And in a sense, all of this, all of what happened in Bangladesh in 71 has its roots, obviously, in the 60s under Ayub Khan, and specifically in the context of, say, 1968, when the student rebellion start and all of that, you talk about the three historical processes that shaped the global context of those years, the first being decolonization."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:07.840",
+        "message": "Can you tell me a little bit more about that? Well, decolonization, you know, obviously, is a breakup of the old sort of European empires in the post Second World War period, India was in the first wave of decolonization. But by the late 1960s, you had several other countries across Asia and Africa, which have gone through, you know, process of decolonization, but which are also in their postcolonial existence coming up with various forms of other kinds of issues, borders, ethnicities, various kinds of rivalries left behind by older forms of colonial control, and so on. So in a sense, what is happening in Bangladesh is therefore best understood as a continuation of this larger process of decolonization, even though it is happening within the context of a country which is already, you know, out of colonial control, which is Pakistan. But nevertheless, the imperatives and the processes seem to me to be very similar to what was happening with a number of other countries, particularly in Africa at that point of time. So it is very important, therefore, to sort of put it into that frame."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:00.880",
+        "message": "Right. And the second process you mentioned, the frame of the Cold War."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:04.200",
+        "message": "Yeah, the Cold War is again, you know, something which depending on when you want to date it starts somewhere after the Second World War and before the late 1940s. And the Cold War is typically understood as a sort of a geopolitical and ideological rivalry between the United States and its allies, the so-called free world, and the Soviet Union and its allies, the so-called communist bloc. But what is interesting is that by the late 1960s, you know, the Cold War no longer looks like this contest between two rigidly organized blocs. There is a lot of sort of, you know, moving and, you know, turning around of pieces within each of these blocs. And one of the big important things, of course, was the split between the Chinese and the Soviet Union, which was already coming to the fore by that time, and which plays an important role in the story of Bangladesh as well. So in a sense, it was important, therefore, to suggest that, you know, this was an important moment in the Cold War, the realignment of the sort of important pieces of the Cold War geopolitics, the waning of some of the ideological competition in the context of the Cold War, and how that impacts on an event which is not anywhere in the center of things where the Cold War was playing out, which is in South Asia."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:06.800",
+        "message": "Oh, and as you go on to sort of talk about in the book, and we'll discuss in the second half of this podcast, right, you know, that that simplistic notion that many people have and that indeed I had before I read this book that, oh, the US was siding with Pakistan and the Soviet Union was with India and blah, blah, blah is actually not true at all. There were there was a lot of sort of negotiations and to's and fro's happening in this period with China playing a major part, but I will come to that later in the podcast. The next process you mentioned, globalization."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:33.600",
+        "message": "Yeah, so, you know, decolonization and Cold War, I think are, you know, you can reasonably sort of have a sense of what they are. But globalization is something that we, at least in our current context, tend to think of as something which is very much a post Cold War kind of a moment, right? I mean, you want to think about Francis Fukuyama sometime in 1989 announcing the end of history, saying that all kinds of, you know, ideological rivalries are coming out. That is the moment when Americans sort of attempt to, you know, to create an integrated capitalist global economy really takes off and so on. But one of the things which historians have been pointing to us, and I sort of picked up on that literature and built it up, was to say that, you know, what we think of as the current wave of globalization, you know, actually is something which begins in the early 70s and late 1960s, early 70s is when the first, you know, real wave of sort of globalization begins. By which I mean that there are a number of, you know, events and processes which are coming together, which are bringing disparate parts of the world in some sort of communication with one another, right? So you have the huge explosion of air travel during that period, so people are traveling to one place another, the whole story of containerization and so on, you know, already sort of starting to take off. There's a huge standardization of various kinds of, you know, economic processes, but also other kinds of things. There is a much greater spread of non-governmental organizations which are trying to bring standardization even in terms of values, right? I mean, the rise of something like human rights, for instance, happens in a much more global context in the same period. So in that sense, not just as a process of economic globalization and integration, but as one where events and processes which happen in one part of the world are quite tightly linked to what is happening elsewhere. And it seemed to me that this phenomenon is very well established already by the late 1960s. Of course, contemporary forms of globalization evolved historically from there on. But that was a very important moment when this began. And again, as I point out in the book, this had important implications for the way the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:25.560",
+        "message": "Bangladesh crisis plays out. And elsewhere, you point out about how there was sort of a technological explosion during this time. One of the first televisions came to Pakistan in 1968. And therefore, it was a sort of an inflection point for this kind of cultural globalization, which seemed to me, you know, when I was reading it, that is very analogous to the current day, when social media has, you know, sort of led to a similar sort of deepening of that whole process of cultural globalization. Give me a little bit of context into what Pakistan was like in 68. Ayub Khan had already been in charge for many years. People often said that, you know, under him, there was sort of a new Pakistan, which was emerging. Ayub himself stood for stability and growth. He got a fair amount of support from the US, which is, you know, a process that started a decade earlier. Just lay the context for me coming to 1968, you know, when it might seem, say, in the mid to late 60s, that this guy's going to be here for a long time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:20.440",
+        "message": "And then, like you said, overnight, he's gone. Well, 1960s are a very important and interesting decade in the history of Pakistan, which is to say that, you know, that was a decade when Pakistan registered, at least in terms of GDP growth and quite an extraordinary accomplishment of almost averaging about 6% annual GDP growth over that decade. That was possible because, you know, Ayub Khan was sort of following a set of, you know, planned economic policies, which were actually a lot of it was crafted by American economists, the Harvard Advisory Group and others who were helping him, you know, do it. And Pakistan also got onto the bandwagon of the Green Revolution even before India did. They started in the early 60s itself. So, in that sense, this was a decade when Pakistan actually witnessed considerable levels of economic growth. But that economic growth as by the end of the decade was, it was becoming was, was very, very lopsided. And some of the Harvard economists who are advising the Pakistanis themselves conceded that, in a sense, their policies were aimed towards fostering capital accumulation and investment. But the groups which are capable of doing it were very small. In fact, at one point of time, the head of the Pakistani Planning Commission said that there were just 22 families in Pakistan, which accounted for something like 85 to 90% of the country's wealth. So there was an extraordinary concentration of wealth by conscious government policy, you know, giving tax breaks, you know, basically all the things that you want to do to enable capitalist accumulation and investment was the game. And that, in the Pakistani context, got exacerbated because of the sort of geographical disparities between West Pakistan and East Pakistan. So if you can just take a step back, right, so in 1947, when Pakistan is created, you have this kind of completely geographically anomalous entity coming out, which is West Pakistan, which is today's Pakistan and, you know, East Pakistan, which is today's Bangladesh, being under sort of one particular sort of, you know, being the same country and in a similar regime. In fact, in this novel, Shame, Salman Rushdie has this fantastic line where he says that United Pakistan was a strange bird. It was two wings without a body, right? Because that body was effectively, you were separated by India. So there was this tendency to assume, therefore, that, you know, divide between these two parts is not just geographic, but, you know, there was sort of economic disparities. East Pakistan was the more sort of, you know, commodity producing area. Things like jute used to grow there, exports of those in, you know, earned dollars for the Pakistani government, but a lot of the investment and industrial development was actually happening in the West. So there was this regional disparity of economic growth as well, not just in terms of class sort of differentiation. And there were, of course, language issues, like Urdu being the official language. And that sort of language issue was in some ways the first major trigger, right? The first sort of major movement in East Pakistan actually happens over the fact that Bengali is not initially accepted as an important language of the state, which is not just a cultural issue, but it's one to do with employment and stuff. So if you want to become a Pakistani civil servant, you will have to write exams in Urdu, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:08.560",
+        "message": "I mean, so in a sense, you know, your knowledge of Bengali doesn't count for very much. So all this time, it's interesting to me that, you know, that the eastern wing of Pakistan"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:15.640",
+        "message": "is actually more populous. Yeah, it is in terms of just number of people, eastern wing of Pakistan was always more populous. And, you know, a united Pakistan did not have an election till 1970. But if you had by that point of time, majority of the electorate was also in East Pakistan, right? So, so in a sense, the fact that normal democratic pressures were not bought to bear in this period allowed this kind of, you know, disparate economic growth to happen. And the diversity between the two regions was there. So, you know, it's, it's again, what is ironic and fascinating about this period is that, you know, the period of Pakistan's sort of immense, you know, an impressive sort of economic growth in the 1960s. The economists who are there in the Pakistani Planning Commission are primarily of Bengali origin. Oh, yeah. And by the end of the decade, it is those economists who are coming up with this critique of the economic system of Pakistan as effectively a neo-colonial one. They say that East Pakistan has become a commodity producing area, like all old colonies used to be. And all the sort of, you know, stuff in terms of, you know, new industries, investment, etc. is primarily happening in the West. So and then East then becomes a importer of the commodities of the West. And it's in that context that a lot of these arguments came to be crystallized and the relationship came to be seen as fundamentally a neo-colonial one."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:28.520",
+        "message": "In fact, a little later, there's a quote from Mujib, which I kind of mark down, which is quote, the basic truth that every Bengali has felt in his bones, that we have been treated for so long as a colony and a market. Exactly. Stop quote, which is, you know, so therefore, in a sense, you could say that the Bangladeshi fight for independence as it became due to circumstances was analogous to the Indian fight for independence."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:49.440",
+        "message": "Yeah, it was analogous to the Indian fight for independence. I think the other analogy, of course, is the similar sorts of arguments which are being made around the same time in Latin America about dependency theories and so on. So you can see that, you know, here, this argument is being extended to a one single economy, which, of course, has got these two sort of geographic."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:06.520",
+        "message": "Just can you elaborate on the Latin American argument?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:08.080",
+        "message": "I mean, the Latin American argument was primarily to say that, you know, many of these countries, Latin America, of course, you know, became formally decolonized much before Asia and Africa did. But the point was to say that, you know, in the post Second World War period, the patterns of capitalist development in the Western world was such that areas like Latin America were effectively seen as commodity producing in a similar sort of a relation, right? So that's not where this thing. So there is a sort of a tendency to think that we need to have our own sort of, you know, model of economic development, which is kind of independent of this kind of thing. However, of course, many economies attempted these import substitution policies during that period. But what is interesting, of course, is that all of this happening within the context of Pakistan, right? So the whole argument of a neo-colonial sort of feeling, which Malib's quote captures, was one which was being felt by people who belong to the same state. So in that sense, it was a much more, I mean, you could have had similar policies in India, for instance, but the Indian government of the time, the Nehru government, you know, took a conscious decision to enable investment in various parts of India to precisely prevent this kind of very lopsided economic growth and development and so on, which the Pakistanis never took seriously. And a lot of that investment did happen in the context of West Pakistan."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:15.000",
+        "message": "So tell me a little bit about 1968 then, you know, there was youthful revolt in Pakistan. And it's not just in Pakistan, it was almost sort of a global thing that, you know, the youth was rising up everywhere in America, you had the anti-Vietnam feeling, there was this anti-establishment feeling everywhere. What's going on here, what are the kind of factors that go into something like this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:34.960",
+        "message": "Yeah, so 1968 is actually, I think, a good example of how the processes of incipient globalization came to sort of impact what is happening in the context of Pakistan. Because you know, the student revolts of 1968, as you said, was a global phenomenon. Of course, everywhere they had local particular sort of issues which were in play. But nevertheless, student groups across the world took the cues from one another, right. And it's important to remember just how widespread this was. And television came to Pakistan in 1968, so they can see everything. Right. So you had, of course, student revolts happening in the United States, which was also triggered by the civil rights, Vietnam War, and that involvement. But you had similar things happening in France, in Italy, in Germany. You also had it in the Soviet bloc, right. In the post 1968, the Czechoslovakia incident, there was, you know, all of that story. There was a student movement happening in Japan at the point of time, there was a cultural revolution in China, which was again a student sort of led thing. So what is happening across the world in some ways was, you know, ricocheting from one place to another. People were seeing that this kind of mobilization is happening. The forms of the mobilization, the vocabularies with local inflections, of course, were still quite strikingly reminiscent of one another. And what is interesting is that in Pakistan, the student revolts kind of come towards the tail end of 1968. And as you said, you know, television in Pakistan, people are seeing all of this stuff. And of course, there are sort of individuals who also sort of bring the story like, you know, the sort of famous student revolutionary of the Oxford sit-ins in the British context was Tariq Ali, who was from a very well to do Pakistani family. And as many student revolutionaries tend to be, yeah. And Tariq Ali actually comes back to Pakistan and, you know, and sees that there is this whole sort of movement against Ayub Khan's sort of authoritarian regime. And what is interesting about the student movement in Pakistan in late 1968, early 1969, is that it actually is in both wings of Pakistan. It is not as if it's only in the eastern wing of Pakistan, as much in the western wing as"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:24.400",
+        "message": "well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:25.400",
+        "message": "But are they coordinating? Or they're kind of continuous? No, no. In a sense, they do sort of learn from each other, they sort of express solidarity for one another."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:32.040",
+        "message": "Are they fighting for the same thing?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:33.040",
+        "message": "Yeah, they all believe that the first step towards thing is true for democratization of Pakistan, right? So, the authoritarian military government has to go. And you know, they see that the first step is to sort of give expression to democracy. And of course, you know, they do succeed, Ayub Khan is forced to step down, which I think is an important accomplishment for student revolutionaries. I think they were more successful than almost students anywhere else, possibly with the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:55.800",
+        "message": "exception of France, where they managed to get de Gaulle. Sometimes one feels like a dog chasing a car is finally caught the car, what do you do"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:00.880",
+        "message": "now? Yeah, exactly. Right. So, it is a, it was one of those, you know, situations where they sort of got there. And then of course, that sets the stage for not an immediate transfer of power to the people. But, you know, power, you know, there's a military coup, actually, which deposes Ayub Khan. So, of course, Yaya Khan comes to power, but very clearly with an agenda of announcing elections, and managing some kind of a transition to democracy, which would nevertheless leave the military in a controlling sort of position within the polity."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:29.000",
+        "message": "Yeah. And you know, when Yaya announces, Masha Allah, you quote him and saying that the army, quote, must be prepared to rule this unfortunate country for the next 14 years or so. I simply can't throw this country to the wolves, stop quote. And already in his mind, he's, I mean, even though Ayub Khan's resignation and his taking over is prompted by the student revolts, he's not taking the students or their demands really that seriously. He's assumed that this is a period of unrest and the army has to see the country through and stabilize it. And it's almost like this sense of both entitlement and denial."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:00.880",
+        "message": "Yeah, absolutely. I mean, I think Ayub Khan was, you know, for so long seen as such an unimpeachable force in Pakistani politics, that, you know, he just couldn't bear to sort of, you know, accept what the reality was as it was unfolding. But the scale of the revolts, student uprisings, you know, movements by peasants, by various kinds of labor unions and so on, was of such a scale that ultimately the Pakistan army felt that they had to sort of intervene and persuade Ayub to move out so that, you know, they could then restore a modicum of stability."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:31.600",
+        "message": "So I think it was a very powerful moment at that point of time. And there's another telling quote in your book about how the old guard, quote, failed to feel the pulse of an electorate over half of whom had been born after the hairy days of 1947, stop quote. And it almost seemed analogous to me as of today, where in India, almost half, more than half the people are born after liberalization. And yet our politicians on average are like these 60-70 year old fogies who simply don't get it. And whatever the pulse of the nation is, I'm not saying there is one that would be a simplistic narrative. But if there was a pulse, those guys who are running the country aren't really equipped to get what's going on, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:09.240",
+        "message": "Yeah. And the generational gap was kind of one of the major factors for the driver of this thing. In a way that actually was in many of the other 1968 revolts. But in the context of Pakistan, particularly, I think that was definitely a very important part of the story, which was to say that, you know, the military and Ayub Khan in particular, but even Yahya Khan later, underestimated the extent to which they would be able to sort of control these developments or call upon, you know, sort of abstract calls for national unity, discipline, etc. as a way of mobilizing and harnessing these energies,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:40.080",
+        "message": "which proved to be wrong. And it seemed to me, correct me if I'm reading it wrong, but it seemed to me that even with Mujibur Rahman, who actually eventually got an independent Bangladesh and came to power because of all of these forces and these ferments, was himself not in control of it at all. You know, he was a conventional politician within the framework of Pakistan, he'd been a minister and all that, you know, in March 1966, he comes out with a six point program for autonomy, where he wants more autonomy, and I suppose more of a federalist structure for where Bangladesh has more power within the thing. And instead of becoming, you know, the starting tool with which you begin negotiations, that becomes a minimum acceptable thing once the movement for Bangladeshi independence gets going because he is suddenly captive to the wishes of the student revolution and the extremists in his party. Yeah. And he is forced into all of those strands he might not otherwise take."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:33.320",
+        "message": "That's I think quite true. And I think that transformation is again something that is peculiar to the late 1960s, which is why I don't buy into this argument that, you know, Bangladesh was predestined to break up because, you know, you had this Bengali majority, which was never given its due and so on. Actually speaking, for politicians of Mujibur Rahman generation, the real dream was to sort of not get an independent state, but to take control of all of Pakistan, which a democratic majority could have put them in power, right. And as we'll see, you know, even the Indians thought that that actually would not be such a bad outcome for their own sort of\u2026 That'd be a great outcome. Do you think they'd be fighting with us so much if that was the case? Well, so that was the argument at that point in time, right. So the assumption was that, listen, the Bengalis are not interested in Kashmir, they are not interested in\u2026 they want better relations with us. All of it might have been reasonable assumptions. But that's the framework within which people saw, which is why I think it's anachronistic to think that that framework was already doomed to sort of, you know, extinction by the time that these things were playing out. Not at all. So in the minds of contemporaries, these were important structures, which you could not break away so easily from, you know, it's never an easy thing to be able to do. It's a bit, actually, I think the best analogy is with, you know, what Jinnah wanted with in terms of his Pakistan in, you know, pre-independence India, right? I mean, it's not very clear that even he believed that at all points that that outcome was likely. So, Mujibur Rahman, yes, was very much someone who was there. The six-point agenda was very much a federal plan. But in a sense, because of the radicalization of the students who then sort of energized the Awami League, took it to a very different level and Mujib was a remarkable leader in his own right. I mean, in a sense, he was, you know, he was able to harness those energies, he was able to give them voice and expression in a way that I think was quite remarkable at that point of time. But yes, he was also hamstrung by the fact that much of the energy behind his sort of political party and the six-point demand was now being channeled through younger people who wanted more."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:22.440",
+        "message": "And an interesting analog that comes to mind, I did a recent episode with the historian Gyan Prakash in The Emergency. And one of the things I sort of learned reading his book was that, I mean, obviously, there was similar student sort of unrest in India as well. And there, again, when there was a student unrest in 74-75, it starts as a student unrest in Bihar with the likes of Lalu and Nitesh, who are the student leaders. But it only really gathers momentum when an older leader like Jayaprakash Narayan comes and kind of takes it over. And it, I mean, again, a similar thing in Bangladesh, where it's a student revolt proper and Mujib sort of becomes a figurehead of the thing. Is that something common to kind of student movements where they have to, you know?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:02.520",
+        "message": "Yeah. So, you know, the great historian Eric Hobsbawm used to say that, you know, the problem with student politics is that, you know, each student generation is only about two or three years"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:09.920",
+        "message": "in its time. Right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:11.920",
+        "message": "It's a transient politics. It is difficult to give it kind of institutional structure and framework, which will allow it to be played over a reasonable period of time to bring about student change. Of course, one way of solving the problem is the way that Indian political parties do, right? You have these youth wings, which are led by people who are in their 40s, as if any of that counts as student politics. But the real energy of student politics really is people who believe that, whose idealism leads them to believe that, you know, all the structures of possibility can be done away with and you can actually aim at something a lot more. But that needs to be channelized through formal politics of a certain kind. And Mujibur Rahman was, I think, the right man at the right time. And, you know, that's partly the reason he's so venerated in Bangladesh. I mean, you know, he was named Bongo Bandhu at that point of time. And partly because, you know, he was a phenomenal orator, a very charismatic leader, someone who understood what the needs of the time were, but was still trying to see if there could be some way out, which did not involve excessive sort of violence and bloodshed and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:10.160",
+        "message": "Yeah, I mean, another interesting sort of learning that came up on me from your book was that contrary to popular hindsight perception, it's not like Mujib wanted independence from the start. And, and even later, as we find, it's not like Indira was this great warrior who wanted to bring Bangladesh to independence, they were both almost very reluctant for a long part of that journey till events force themselves upon these two people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:32.240",
+        "message": "Yeah, I think that's certainly true of Mujibur Rahman, see, because the elections of 1970, by the time the election results come out in December 1970, it is very clear that the Awami League is the single largest party. But there is a structural problem in as much as the Awami League has won pretty much every seat in East Pakistan, barring two, but has won no seat in West Pakistan. And the biggest West Pakistani party was Pakistan's People's Party, PPP, which still exists. Then a new party recently founded by Zulfiqar Ali Bhutto, which had did a reasonably good showing in West Pakistan, but managed to sort of do almost nothing in the East. So there was this kind of cleavage between these two sides, in a sense that there was no political force, which was able to bridge this kind of East West barrier, so to speak. But if you were talking about a normal parliamentary system of democracy, the natural thing would have been to invite the leader of the largest party to form government, and that is precisely what Mujib and the Awami League were hoping would happen. But the army and, you know, Zulfiqar Ali Bhutto had different plans, and so things took a very different turn."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:30.120",
+        "message": "So Yahya was almost blindsided by the results, he didn't expect it. And in fact, because he, you know, gave his prognosis to the Americans who trusted him so much, even they were blindsided by it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:39.000",
+        "message": "Well, I think everyone was taken to a greater or lesser extent by the, you know, by surprise of the outcome, particularly of the Awami League's sort of extraordinary performance in the East. You know, I think that was something that the Pakistan army did not foresee. And of course, the Pakistan military and its intelligence agencies had, you know, had done their homework before the elections to make sure that, you know, the outcome would not be very unfavorable to what they wanted. But that turned out to be entirely wrong and, you know, they were caught in a situation which they quite did not anticipate would come out."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:10.680",
+        "message": "Tell me a little bit about Bhutto here, who's the other major player in this, you know, seems to me almost as this sort of immoral genius who is ultimately, as we know in history by hindsight, foiled by his own petard. But what kind of person is he and what's the role that he's playing here? What does he want out of all this? Because he's also been a conventional politician long before this. He's been with Ayub Khan, he's been a minister and so on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:34.360",
+        "message": "Yeah, so Zulfiqar Ali Bhutto is, you know, is at least in sheer terms of his political skill a human, you know, something bordering on genius in terms of the way that he was able to rise through the Pakistani system. You know, here was someone who sort of began working in the Ayub Khan administration as a junior minister, then became very important, became, you know, effectively sort of, you know, in charge of foreign affairs in that context, egged Ayub Khan to sort of attack India in 1965. And then when the war went pear shaped, actually turned around against his old patron, saying that, you know, Pakistan had been let down and so on, and then went on to find the Pakistan People's Party, you know, came up with a political style and platform, which was an interesting amalgam of the left and the sort of right and so on, nationalist, but also very leftist, you know, because of his role in Pakistan's outreach to China post 1962, the war between India and China, you know, the leftists were always sort of very wary of taking him on because he was seen as someone who had, you know, those links with China and so on. So and it was an extraordinary demagogue, someone who was a very charismatic figure, who was able to sort of tap into both older forms of politics, you know, he himself came from Sindh, you know, so he was sort of a very important landlord in the Sindh context, had all those other, you know, sort of, you know, the religious leadership and the landed leadership there has sort of very close ties. So he was able to draw on those kinds of tropes of conducting himself, but at the same time could also mouth all this sort of radical slogan of roti kapda or makaan, which, you"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:01.480",
+        "message": "know, he said, Which I was amazed to, I saw it, I said, no, no, either Indira said it or is from Bollywood,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:06.120",
+        "message": "it cannot possibly be, but it is very much his and he was able to craft a political movement, which in a very short span of time, was able to sort of, you know, create a position for itself, which is quite remarkable. It is all the more remarkable because, you know, he had to do it, obviously, under the constraints of operating under a military rule of various kinds and someone whom he had himself alienated, which is Ayub Khan. So I think, you know, Zulfiqar Ali Bhutto was quite a remarkable figure in his time, both during the war, but also subsequently. And I think, you know, Pakistani history is yet to give him his due in not in a sense of appreciating his achievements. I think he was a very mercurial figure with some, you know, really sort of, you know, nasty things to his credit as well. But just acknowledging his importance as a historical figure in the history of Pakistan, I think that that angle of it needs to be, you know, dealt with further by historians."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:54.840",
+        "message": "Yeah, moral genius went a long way. And as you mentioned, who could as a politician be all things to all people, which, you know, is a skill Narendra Modi himself kind of demonstrated in 2014. We don't know how much of it will sort of carry over. So tell me, so the elections are over at the end of 70. And Yahya is kind of blindsided by the whole result. And even Bhutto isn't extremely happy because you know, what the hell, I mean, the Awami League has just got many more seats than him and he's going to have to deal with them at some point. And he had assumed that it will be like, he'll be the politician who will rule Pakistan with the army at his wings. So I think you quote somewhere in the book where he tells Yahya that I'll be the politician, you'll be the general, and they'll kind of rule together. And all that's gone. And both Yahya and Bhutto now sort of collude to stop Mujib from taking over. Tell me about, you know, those months when that collusion is active."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:47.040",
+        "message": "Yeah, so that effectively happens between January and late March 1971 is the period of post election sort of wrangling and negotiations. In a sense, stuff which would never have happened, I mean, in any parliamentary democracy, the only job for Yahya Khan would have been to sort of convene the sort of National Assembly and they also wanted to have a Constituent Assembly and so on, you know, whatever it was Mujibur Rahman should have been invited to form the government. But instead of that, they sort of tried to get Mujibur Rahman to accept what the outlines of a future constitutional settlement would be primarily with a view to securing the army's own role and getting assurances from him before anything else could be done. And those negotiations then sort of went nowhere. And in that time, Bhutto very quickly insinuated himself into the picture by saying that, you know, he was not the army's favorite when this whole story began. But by the time the sort of negotiations are kind of in the middle, Bhutto is able to play spoiler by telling the army on the one hand that, listen, if you're going to do this kind of a deal and allow them to come without assurances for the West Pakistanis and so on, it's going to be a non-starter. So he's on the one hand, raising the stakes constantly. But on the other hand, he's also giving them indications saying that, listen, we cannot adopt what he calls a Turkish model at that point of time, right, I mean, Turkey's a sort of example of the Islamic country that, you know, they sort of wanted to be, which is that to say that, you know, you have the military, but you also have civilians and, you know, you have some kind of a modesty when I working out at that point of time. And so, in a sense, effectively, Yahya and the military regime and Zulfiqar Ali Bhutto converge towards this point where they finally come to a decision that, you know, Mujibur Rahman has to be stopped in his tracks, and that this moment for the creation of, you know, a new polity where Mujib and the Awami League would play such an important role, and the Punjabis and the West Pakistan military, etc, is going to be downgraded in its importance, should not be allowed to pass. And it's at that moment that, you know, things really start going downhill."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:43.960",
+        "message": "And in fact, there's a funky quote a little when the crisis is a little later on, probably from March, where a senior general tells Yahya Khan, quote, don't worry, we won't allow these black bastards to rule over us, stop quote. And it's very clear even at that point that Yahya doesn't want to sort of respect the democratic expression and, you know, he's trying to control the process. What is the outcome he's actually aiming for?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:05.360",
+        "message": "I mean, I think, I mean, it's again difficult to say, because, you know, nowhere is it very clearly laid down. These were all things which were done under the guise of coming up with some kind of a constitutional arrangement and so on. But I think what Yahya would have been sort of quite satisfied with was a, if you know, you came up with some structure where he remained president, where the army's budgets and its control over sort of, you know, various kinds of important policy issues remained outside the purview of democratic politics. And then basically, you know, as long as Sayyed Mujib was willing to, you know, take on board some, you know, West Pakistani sort of representation in his government and so on. So, in a sense, those were the kinds of things that he wanted to do. But in effect, all of that would have meant, from Mujib's standpoint, a significant dilution of the issues on which the election were fought and won by the Awami League."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:53.760",
+        "message": "Especially because, you know, now because of the radicalism of a lot of his support, the student movement and all of that, he's kind of forced into a corner where he has to insist on the six point charter that he laid out for Bangladeshi autonomy as a minimum condition that without that he cannot proceed. And he's kind of forced into this corner. And obviously, the army cannot accept that either, because Yaya, self-interest, he's trying to, you know, consolidate his own position. And on the side, you have Bhutto playing Yaya. And I presume there's a fair degree of sort of West Pakistani, Urdu speaking, condescension towards these, you know, these Bangladeshi, Bengali, East Pakistanis."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:37.000",
+        "message": "That's right. I mean, I think that cultural angle of it comes out quite clearly in the quote that you mentioned. You know, that there is a strong condescension of Bengalis as somehow being culturally, physically, and in every way inferior to the sort of, you know, the West Pakistanis and so on, particularly the Punjabis. So, there was very much that angle to it. And in fact, that was part of the reason why once the military crackdown began, you know, some of it is really hard, because that kind of ethnic angle to, you know, that story becomes much more important once the crackdown begins."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:08.440",
+        "message": "And how do those events play out like around March 71? How do events take Mujib from a position of still trying to negotiate with Yaya Khan to actually going ahead and declaring independence?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:19.560",
+        "message": "Well, the reality is that, you know, the convening of the National Assembly is postponed, adjourned, sine die, you know, for, you know, without a sort of any date that then leads to a sort of upsurge on the streets in Bangladesh. And from that point on, Mujib has to play a careful role, right? So, on the one hand, he has to keep the momentum and the upsurge going, because it allows him to put pressure on the West Pakistanis. But at the same time, he doesn't want to be in a position where the Pakistan army believes that the situation is getting so out of control, that the only option is to use force to sort of put them down. Right? So, he's trying to sort of balance both of these. There are other problems as well, in a sense that there are non-Bengalis in East Pakistan who are being targeted by the Bengalis, as partly because they were seen as Tujus. So there's another one more layer of ethnic complexity to this. Many of these are Urdu speaking migrants from Eastern India, like Bihar and other parts of Eastern India and so on. So, he has to keep those kinds of, you know, violence and that kind of tendencies under check. So, it's a very difficult time for him. And this is also the time when he's tentatively sending feelers to India saying, listen, you know, if the Indians were to sort of, you know, make some noises and tell the Pakistanis that, you know, we will disapprove of any use of force, etc., then, you know, maybe the Pakistanis will back off. So, and then he's trying to tell similar things to the Americans. So, Mujib is trying pretty much everything, trick in the book to make sure that he can come out of the situation, either, you know, with a sort of mandate to form government or at least some kind of a power sharing arrangement without tipping over into violence. And that is what is his thing. But the Pakistanis are very clear that, at least from about the first week of March onwards, that talks are simply a fig leaf behind which, a smoke screen behind which they will carry on the military buildup. There was not that much of Pakistani military presence in what later became Bangladesh. They had to sort of do a buildup. That buildup was also kind of a little difficult for them to do because India and Pakistan, because their own sort of problems, Indians had shut off their airspace to Pakistani. So the Pakistanis had to do that buildup by going through Sri Lanka, you know, so Colombo was a transit point between the two wings. So, all of that took a little bit of time. And of course, they wanted to keep the element of surprise and they decided that when they"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:29.200",
+        "message": "would crack down, they would hit really hard. And Jaya was kind of pretending that he's still interested in talks with Mujib while on the one hand, the military buildup is proceeding and he knows he's going to crack down. So you know, Operation Searchlight, as it's called, starts on March 25th. At what point does it become an inevitability that it is going to happen?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:46.720",
+        "message": "There's no telling. Well, I think already, you know, a few days before that it is becoming, you know, in fact, in those few days, if you just look at the records of the negotiations which are happening, it seems as if great progress is being made, you know, and in fact, you know, there's a lot of sense. And in fact, Mujib's own sort of trusted lieutenants within the Awami League are very conflicted about how this is going to play. Because on the one hand, it suddenly seems like, you know, progress is happening. So you know, you don't want to sort of, you know, unnecessarily sort of burn that bridge. You want to try and see if things can sort of move on. But at the same time, you know, they have their own doubts and concerns. And in fact, just around the time when the operation begins, you know, people tell Mujib and Rahman that, listen, you have to sort of basically leave the country. And Mujib takes a call saying that, you know, if he sort of flees, then the Pakistanis are going to really get after his people. And he says that, no, you know, it's just not possible for me to sort of take that kind of a move."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:39.600",
+        "message": "And then he's captured by the Pakistanis. Is that a principle stand or is he sort of just or he underestimates the inevitability of the military crackdown?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:47.400",
+        "message": "Well, I mean, at that point, by that point of time, you know, by the time this kind of discussion is happening, the military crackdown is already underway."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:52.320",
+        "message": "So he just chooses to."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:54.720",
+        "message": "So he just chooses to say that, listen, instead of making it, you know, his own survival and issue on which the Pakistanis will crack down very hard on the rest of the Bengali people, it is better that, you know, he sort of takes a stand and decides what he wants to do and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:10.200",
+        "message": "So we'll take a quick break at this point and we'll come back to talk about India and"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:49:13.440",
+        "message": "the rest of the world. But also joins in to talk about his discovery of a bazaar. You should also check out episode 350 of Cyrus Says, which was an AMA special. It featured a roundtable of other IBM hosts like Varun Duggirala of Advertising Instead, Naren Chinoy from Simplified, Dinkar Divedi from Geekfruit, and of course me and Abbas. Anirudh Kanishkanti is back with season 2 of Echoes of India from the 27th of March. On the first episode of the season, Anirudh is going to start from where he left off, The Rise of the Gupta Empire, new episodes are out every Wednesday. On Puliyabazi, Pranay and Saurabh talk to Disha Malik and Kavita Devi, who run Khabar Lahariya, a women-run rural media network in UP. On Know Your Kanu, Ambarana is joined by wife and model Hasleen Kaur to talk about the safety of women in the entertainment industry. On Football Twirl, Saru and Kanov talk about last week's FA Cup and EPL action as a race for the title and top four heats up. On Thalle Harate last week, Uday Kumar joins host Pawan and Ganesh to discuss the oldest inscription thrown in Bengaluru, which opens the historical understanding of the city. On The Sponge Podcast, Ambi Parmeshwaran talks about the time when he was invited to present tax collection and communication strategies. And with that, let's continue on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:48.160",
+        "message": "Welcome back to the Scene and Nuancy and I'm chatting with Srinath Raghavan about his brilliant book 1971, which examines the Bangladesh war and all the multiple factors which led to it happening, which wasn't at all inevitable. And so far, we've kind of been speaking about the domestic situation in Pakistan, as it then was because it was West Pakistan and East Pakistan and Bangladesh didn't exist at the time. And now let's talk a little bit about India, Srinath. So Mujib decides that, okay, he's going to let himself be arrested and so on. But many of his lieutenants escaped to India. And all through this crisis, as it's been building up, what's been sort of India's attitude"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:25.920",
+        "message": "towards the Bangladesh question? So the Indian government is obviously tracking the situation very closely, particularly after the election results come out, because they know that the outcome of the elections is something that the Pakistani West Pakistani political establishment and the Pakistan army certainly are going to be extremely unhappy with. And they know that there is a possibility of some kind of a sort of, you know, a breakdown of talks entirely. So that that is very much in the realm of possibility. But at least broadly speaking, within the government of India, there are kind of differing views, right? So on the one hand, the Ministry of External Affairs and the Pakistan High Commissioner, their view is that in some ways, actually speaking, Mujib and the Pakistan army will make a deal. And that's not such a bad thing for us at all, because it's better for us to have a Bengali Awami-like sort of prime minister in position than having military rule in Pakistan. Their stances on a range of issues, which sort of were of most concern to India, like Kashmir, etc, were seen as much more sort of moderate and acceptable. But then, you know, the Indian intelligence agencies, particularly the newly created research and analysis wing, the R&DW, which was headed by a man called Arun Kaur, who was a sort of first, you know, person, you know, and the intelligence agencies, however, felt that the possibility of a total breakdown and some kind of a resort to armed struggle by the Bengali people and the Awami League's base was not something to be discounted. So there were these kind of two contending views. The other thing the Indians are concerned is that, you know, maybe in order to divert attention from what is happening in East Pakistan, Yahya Khan might take some kind of military action in the West, just as a sort of a diversionary thing, and so on, right? I mean, so there are all these kinds of things happening. Now, around the 2nd of March or so, just when the talks are kind of, it's looking like these things are not going anywhere, the Indians get a couple of feelers from Mujibur Rahman asking them to, you know, make some sort of military mobilization, etc, in order to put the fear into the Pakistani minds and then prevent them from sort of deploying troops into Pakistan and so on. And Mujib even meets the Indian Deputy High Commissioner in Dhaka to convey the point. But the Indians are still very unsure about what exactly Mujibur Rahman's sort of thinking on these issues is. Now, again, it's important to remind ourselves that from the perspective of Indian decision makers at that time, Mujibur Rahman was a Pakistani politician. You know, in a sense, obviously, they knew him and had some contacts with him. But ever since Mujib had sort of gotten embroiled in this thing called the Agartala conspiracy case, you know, where he was alleged to have sort of, you know, waged a conspiracy to sort of, you know, break up Pakistan, etc, the Indians have been quite wary of being openly sort of in contact with him and so on. So there is a period when Mujibur Rahman actually attempts to reach out, but the Indian political reaction is a little confused. And again, the Indians are reading this development towards the last week before the crackdown as the situation is actually improving, right? That's everyone, including the army leaders thought things were kind of getting better. So as with any such situation, you know, you have sort of conflicting assessments of what is likely to happen. So in a sense, the Indians were also a little sort of surprised when the crackdown actually took place. So it was not something that they were absolutely sure was what the next step was going to be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:31.480",
+        "message": "And it's kind of complicated by the fact that they would like Mujib to be Prime Minister of Pakistan for the reasons you discussed, but they're not so sure about Bangladesh. So it's a sort of, you know, they haven't yet reached the stage where the, you know, an independent Bangladesh is not necessarily in Indian wishes. Why invite chaos in the neighborhood? And also, you know, I think you mentioned there was a bit of a fear that an independent Bangladesh, the leftist elements might get closer to the Chinese than to the Soviets. And then that just complicates the geopolitics of the whole thing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:00.520",
+        "message": "Not just geopolitics, but also India's own domestic politics. The Indian government at that time was cracking down very heavily on the Naxalite movement, which was of course, in West Bengal was one of the main areas where that was happening. So there was this concern that, you know, student and Naxal radicals in Indian part of Bengal might team up with those on the other side and so on. But I think more fundamentally, you know, at that point of time, it is still too premature to think of an independent Bangladesh. And again, that's where, you know, we have to allow for the distancing from the hindsight. You know, what looks like obviously the right solution to us was not at all something which was easily conceivable. You're talking of breaking up another country and, you know, and that meant that, you know, the movement on the ground had to have the force. I mean, the Indians always, you know, they had to assess first whether the Awami League was serious. What was its leadership in the absence of Mujibur Rahman? How much could you sort of trust the others to sort of carry on the struggle? Did they have the moral and physical sort of, you know, reserves to be able to go on even if India provided material support, right? So all of these issues were still to be debated, thought. So you know, assuming that the choices only between either acquiescing in a Pakistani crackdown or plumping for independence of Bangladesh, I think is a very dichotomous choice which just was not in people's minds at that point of time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:12.480",
+        "message": "And was also partly complicated by sort of India taking the high moral ground when it came to Kashmir and saying, hey, this is only our internal matter and no one else must interfere. And having taken this stance, it would now be very awkward for them to interfere in Pakistan's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:26.520",
+        "message": "internal matter, as it were. Exactly. Right. So when the first Bangladeshi politicians from the Awami League started coming into India, established contact with the Indian security forces, the BSF, you know, and the R&DW and others, the Indians were still unsure whether they should be sort of seen as actively intervening in this. For one, this whole principle of non-interference, which is a kind of an established position of India in this whole story. The second reason why the Indians were not so sure that they should be able to, they should actually sort of intervene in this issue in any serious way was because they were just unsure of what the sort of movement would look like in the absence of a leader like Mujibur Rahman. You know, you had to sort of make some assessment about whether this would be a movement which was capable of actually sort of pushing towards independence in a serious way. And the third thing, of course, was that already by that time, there was a big hue and cry in the Indian parliament and so on, saying that, you know, India has to sort of act and such like things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:21.440",
+        "message": "And it's interesting that, you know, this Indira Gandhi in the aftermath of the Bangladesh war was, of course, praised hyperbolically by one opposition person as Madhurga."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:30.920",
+        "message": "It's difficult to figure out where exactly he said that, but it's now part of the common"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:36.160",
+        "message": "lore. It's part of the common folklore. So it doesn't matter if it happened or not, it happened. And the interesting thing in your book is that she's actually also very reluctant to kind of get involved, like exactly as you're saying, she's very wary. And at one point, she remarks to someone that there must be, you know, most of parliament wants her to act against Bangladesh and only it'll be hard to find a couple of people who will actually support her stance on it. And she's playing this very careful role. But at the same time, while India isn't actively thinking of an independent Bangladesh or moving in to make that happen, the army is still providing support to sort of the rebels and the militants outside. What is the sort of thinking behind that? Like first saying, we don't want to get involved, it's your internal matter, God knows what will happen. And but then actually still helping the rebellion."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:23.440",
+        "message": "Well, in fact, the help on the ground happens even before these political decisions started"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:58:27.800",
+        "message": "to be made."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:28.800",
+        "message": "The reality is that these are people who are fleeing military sort of attacks and coming across the border. They're not just ordinary citizens, but also let's remember, you know, there are units of the Bangladesh Pakistan army, which is the Bengali regiments, which also sort of come onto the Indian side, right? So that's that then becomes the nucleus of what would later become the main fighting force that you would use. So and then, you know, many of them wanted sort of various kinds of assistance in order to come together. There are senior army leaders, apart from Ujjain Bur Rahman, were trickling into India from various parts. So in a sense, not responding to any of that was also not an option. But at the same time, I think the initial Indian feeling was very much that, you know, you just, yes, you sort of bring them in, you sort of create some kind of structures to, you know, accommodate them in camps and various kinds of things. But that will also then allow you to keep a lid on what is happening, right? It's not necessarily the case that you're already thinking of them as being, in fact, you know, the decision to sort of really scale up support to the, you know, the army and the Bengali fighters doesn't happen until later in the summer of 1971. In fact, some of the notes which are made by the R&DW, because they were the ones who were directly dealing with many of these people, suggest a great degree of unhappiness with India in the early months, you know, especially in May, June, July, saying Indians are not giving us enough ammunition, they have rationed us to five rounds a day and so on. All of that was, you know, partly because of material constraints on the part of India, but also partly because you did not really think that, you know, you wanted to sort of scale up support in that way. It's only in those months that the idea really begins that, yes, we have to sort of systematically start doing these, you establish training camps. So everything happens somewhat gradually. And Mrs. Gandhi and PN Huxar and others are genuinely quite cautious about what should be done, right? In fact, there is another sort of folklore around this is this claim by General Maniksha, you know, well after Mrs. Gandhi's death, you know, he's said in public quite a few times that Mrs. Gandhi actually called him to a cabinet meeting and said that, listen, why can't the army go into Bangladesh now? He says it's in May 1971. And then he said that, no, no, no, we have to wait, the army has to be prepared, the monsoons have to get over, then we will sort of go in. So, you know, and then she agreed, but, you know, that's a piece of myth making, which I think does very little credit to any of the people involved."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:40.120",
+        "message": "And for all the myth making of both Mrs. Gandhi and Maniksha as sort of hawks and these brave figures, even Maniksha was fairly reluctant in the sense that, you know, just before the war starts, it's like he doesn't want to go all the way to Dhaka and he's one of them, he's one of the people who's kind of arguing for restraint, just taking enough territory to send the migrants back and its junior officers, like a gentleman named Jacob, who sort of say that, no, no, it's very much within the realm of possibility."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:04.240",
+        "message": "Yeah. So, yeah. So, you know, we'll talk about that aspect of it in a little bit. But at this point of time, I think, you know, this point is worth making because this is the most commonly held notion in India that Indira Gandhi actually sort of wanted to, you know, or would have asked Maniksha to sort of do this, but actually it's untrue. In fact, right from the very beginning, from the day the crackdown begins, the thinking of Mrs. Gandhi is shaped quite decisively by P. N. Aksar, who's our closest advisor on these matters, and who's a very experienced diplomat, and who makes it quite clear to her that, you know, we should not be seen as overtly sort of intervening in the affairs of Pakistan, and that if anything, we have to create the ground for the movement to become stronger and for India to then act decisively if necessary. And the position that we should take is that the influx of all of these refugees into India, the number becomes something like close to 10 million by the end of the summer, is an unacceptable situation for a country like ours, and conditions have to be created in Bangladesh where those people go back. And in fact, what is also clear from the documents that are now available is that Mrs. Gandhi, even before that putative meeting with the army chief, actually calls her, you know, the leaders of the opposition and briefs them saying that, please do not make this an issue. This is something that is best sort of, you know, you should trust us, we will keep you informed and, you know, leaders like Adil B. Haribachpai sort of actually go along at that point of time. But it is also true that there were sections within the Congress party, including her own cabinet, people who believe that the, you know, the anger amongst Indian people on this was such that, you know, you had to do something and, you know, this is a moment to act and so on. And it's in that context that Mrs. Gandhi actually calls in Maniksha for the meeting, primarily to let her colleagues hear from the army chief what is it that he thinks is the military assessment. So I don't think it's at all true that Mrs. Gandhi wanted a precipitated invasion and that she was persuaded otherwise by Maniksha."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:47.560",
+        "message": "And part of what seems to force her hand and change her mind, and again, it shows how contingency plays a role is not just the amount of migration into India from Bangladesh, but the composition of it, like you point out how early on when migrants first came, when refugees started coming in, they were majority Muslim, basically the same demographic as Bangladesh itself. But gradually, as the numbers grew to 5 million, and then to alarmingly to 8 million, and beyond, as you point out, where the sheer number of refugees, number one became a logistical impossibility and a huge fiscal burden on India. But also it was now 80% Hindu 20% Muslim, which therefore indicated that those Hindus were fleeing in large numbers, because there was a genocide underway, and that the human rights violations, which people sort of had a sense of were far graver than people had suspected. And in a sense, the combination of the fiscal burden of taking care of all these refugees forced Indira Gandhi into a stand where she had to insist that number one, the refugees have to go back, but number two, because there's a genocide underway till you find a political solution within Pakistan, you can't possibly go back, send them back. And a lot of the other nations of the world, which we will come to, but in the foreign, in the international arena, refused to accept that these two could be tied together. They were like, sort of saying that, yeah, you have a migration problem will help you with that in a humanitarian sense. But this is not tied to the political problem where Indira Gandhi clearly saw that it was."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:12.520",
+        "message": "Well, it and it was in practical terms, because you are talking about a number like 10 million refugees coming on to a country like India, which was already a pretty poor country at that point of time. I mean, we only have to look at the scale of say Syrian refugee influx into Europe today, and the kind of unrest that it has done in European politics, right? I mean, what do you expect a poor country like India to be able to do? A place like Tripura, suddenly had three times the number of migrants as the total number of population in that state. Right. I mean, so it was a demographic sort of\u2026"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:04:40.920",
+        "message": "But they will go back, I mean\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:42.640",
+        "message": "So, yes, I mean, so that's again part of the sort of afterlife of 1971 crisis. And, you know, even in the context of Assam, we are still facing all of those things, right? Saying how many people went, what is the right date and so on. So, some of that is there. But for the Indians, the key thing was to try and keep these people under reasonably sort of controlled conditions, so that you would ensure their eventual repatriation back to Bangladesh. So, that angle of it, the line that, you know, conditions have to be created such that people can go back was a very carefully chosen one, because the only imperative way that people have to go back. What those conditions would be was left for Pakistan and the international community and everyone else to sort of help arrive at, right? If Pakistanis sort of chose to come to some kind of a modest way and die with Mujib and, you know, came with some solution, and the refugees could go back, maybe the Indians would have been fine. If not, they would go back to an independent country, right? I mean, but that transition had to happen over a period of time. So, that was one major consideration, right, which is that just the sheer number of sort of people. The second thing is about this, you know, the number of sort of Hindu refugees which came in, which again is a number which the Indian government never ever during that crisis revealed that there were so many Hindus, partly because they believed that if this was revealed, it would lead to a backlash against Muslims in India. And again, we had seen that dynamic in older migrations, you know, 1950, there was a crisis between East Pakistan and West Bengal, you know, and then so on. So, she was very keen not to allow those kinds of things to happen. But at the same time, the other danger was that, you know, Hindu-Bengalis, you know, could sort of, you know, if they sort of melted into local populations would then be even more difficult to sort of identify than Muslim-Bengalis, right? I mean, so, in that sense, you know, you were concerned about what would be the aftermath of this kind of refugee flows and so on. So, there was this range of considerations for which, you know, by the summer of 1971, the Indian government comes to this conclusion that the best way is to mount a big international diplomatic campaign to get the big powers to put pressure on Pakistan to create conditions under which this would happen. And the Indians were very careful never to specify what is it that they wanted. Because again, you know, you didn't want to be seen as interfering in Pakistan's internal affairs. But gradually by that summer, the opinion is shifting to saying that in the face of continued Pakistani reluctance and intransigence and refusal to either stop military operations or to move towards a political settlement, the possibility of a united Pakistan sticking"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:58.520",
+        "message": "together is getting increasingly remote. And it's interesting how this is driven partly by Indira Gandhi just being very principled against the human rights violation and the genocide and so on. And also the very admirable stance she takes to not reveal the numbers of Hindus because she wants to, you know, I'm a huge critic of Indira Gandhi, especially because of her disastrous economic policies, many of which I consider a crime on humanity. But I have to say she comes out looking very good in this book for some of the decisions she's taken. But equally, a lot of her imperatives are just practical imperatives, there are too many refugees, India doesn't have the money, it needs to get something done. And she talks of this political solution again in vague terms and very correctly not specifying anything because it's not her prerogative to do so. So Pakistan to sort out its internal affairs. At this point in time, you know, as the summer proceeds, is there any possibility of such a political solution or has that ship sailed?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:51.400",
+        "message": "Well, that ship has sailed partly because the crackdown continues until quite late, which is why the numbers are increasing as you go along through the summer. But the possibility is also receding because the main power, external power, which could have done something in this context, the United States of America under Richard Nixon, which had significant sort of stakes in their relations with Pakistan was totally unwilling to do anything to do with Pakistan. Right. And hence, Nixon, you know, in a famous instruction to his sort of, you know, White House staff and the, you know, the State Department, etc. says, do not squeeze Yaya, right? This is what he writes on the margins of a note. And the reason he does not want to squeeze Yaya is because Yaya is very important to him at this point of time, because the United States wants to reach out to Maoist China, right? And they don't have, those countries don't have a relationship. And China is kind of, you know, Pakistan is acting as a conduit through which messages are being sent by the Nixon White House. And I must say it's the White House, because, you know, Nixon is, all of this is clandestine"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:50.880",
+        "message": "and hidden even from other parts of the US government at that time, the State Department. It's really funny how Nixon and Kissinger are sort of one party here and the State Department is another party."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:59.280",
+        "message": "It's like completely, they're antagonists. Yeah. No, no, because they believe that if, if the news of such an attempt leaked out, there would be such a political backlash that they would not be able to go through with it. So they wanted to keep it totally secret. And of course, Nixon and Kissinger were, you know, legendary sort of secretive, furtive sort of characters. And you know, the modus operandi was basically that Henry Kissinger would call in the Pakistani ambassador in Washington and hand him a note. The ambassador would then relate over secret cables to Islamabad. In Islamabad, the foreign office would call the sort of Chinese ambassador and relate to him. And he would in turn then relate to Beijing. And then vice versa, the messages used to come down the truth. So this was a sort of complicated arrangement. And it was in, you know, the summer of 1971 that Henry Kissinger was to make his sort of secret pathbreaking visit to meet the Chinese leadership. So at least till that happened, the Americans were absolutely clear that they would not want to put any pressure on the Pakistanis, which meant that there was hardly any serious pressure going on the Yahya Khan regime at that point of time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:00.880",
+        "message": "We're really glad you finally got the US into this, because after talking about how your book is a strike against the insularity of the way we look at the Bangladesh affair, all we've done for more than an hour is speak about India and Pakistan and Bangladesh entirely my fault. Let's move on to the US now. I've already had a very illuminating episode with you on the US and South Asia and how those relations evolved over the period of time that will be linked in the episode page. So listeners can listen to that to get a broader sense of how the US viewed South Asia. But just to sort of give me a quick recap post independence, like the US's attitude in 1947 in dealing with South Asia very much was to just follow the British lead because there are allies, you know, they've been there, they know the ground situation, we'll do whatever they say."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:45.240",
+        "message": "How does it evolve from there? So effectively, that's the American policy from about 1947 till 1950 when the Korean War begins, right? So once the Korean War begins, the Americans are very concerned that the Soviet Union and the communist bloc will sort of potentially carry out a similar kind of a strike in the Persian Gulf, and, you know, in order to prevent that they needed allies who would sort of line up against the Soviet Union and so on. That then leads to the search for various kinds of allies and Pakistan is identified as a significant other country alongside Turkey and Iran, which would form the sort of northern tier against the Soviet Union. And then the US Pakistan alliance is consummated in 1954. But of course, the Americans very quickly start having second thoughts because they realize that the Pakistanis are not in a position really to deliver on much of the story. And so there is a tilt towards sort of, you know, redressing the balance vis-a-vis India and Pakistan under John F. Kennedy initially. And by the time the sort of Lyndon Johnson comes to power and you have around 1965 when India and Pakistan are at war. So Johnson is kind of fed up of, you know, United States having to mediate between India and Pakistan over Kashmir and this and that. And he basically takes a sort of a plague on both the houses kind of attitude and in the 1965 war, the United States imposes an arms embargo on both India and Pakistan. And of course, Pakistanis because they have more American kit are, you know, feel the pinch stronger. But after that, the United States kind of, you know, is more deeply involved in Vietnam. There are these growing domestic sort of protests, you know, Johnson is kind of bogged down. But when Richard Nixon comes to power, he is very keen to revive and resuscitate the relationship with Pakistan. Now let's remember, recall that Nixon was vice president under, you know, President Eisenhower when the US Pakistan military alliance was signed. So he was one of the original votaries of the relationship with Pakistan. And he always believed, like many Americans share this common prejudice that Indians are this weak effect, you know, useless, unreliable kind of people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:42.440",
+        "message": "In fact, I'm going to interrupt you and quote Nixon on India, where he describes Indians as quote, a slippery, treacherous people, devious and ruthlessly self-interested. And at various times, of course, he referred to Indira Gandhi as a bitch and a witch."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:56.680",
+        "message": "Yeah. So, so there is, there is cultural condescension for the Indians, which as we spoke in the last sort of podcast has a long history going back to sort of, you know, American impressions of India in the 19th century. And there is this extraordinary sort of gendered kind of approach towards dealing with someone like Indira Gandhi, who they believe is, you know, can sort of be taken care of and such like things. So the Americans, when they come, when Nixon and Kissinger, you know, start formulating this policy, so they want to sort of, first of all, rebalance towards Pakistan again. Then they want to reach out to the Chinese and they decide that Pakistan can be one of the two main conduits through which that will done. And eventually that Pakistan channel becomes more important one. And in that context, you know, they decide pretty much not to do. And Nixon and Kissinger have this kind of totally insouciant attitude towards the whole human rights question. You know, both of them see themselves as very tough minded, realist kind of people that, you know, at one point they say, listen, the British ruled this country of 300 million people with, you know, just about 100,000 sort of white people out there. You know, the Pakistanis can sort out the Bengalis and so on. So there is a clear underestimation of the forces of nationalism and what the sort of political sort of situation there was. And of course, you know, despite being alerted to the scale of the genocidal violence, which was taking place in Bangladesh, particularly by the sort of American deputy sort of, you know, head of mission in Dhaka, a man called Archer Blood, who sends these telegrams, you know, which have been covered very extensively in another very fine book by Gary Bass, which I'd again recommend to all our sort of listeners to definitely read because it covers the American sort of thing in very great detail, you know, but those telegrams don't even sort of make a dent in terms of American policy. In fact, you know, blood is kind of censured and pulled out of Dhaka and then cast into sort of oblivion. So that is the sort of line that the Americans take. Political imperatives of reaching out to China trump the realities of this India-Pakistan dynamic. But, and of course, the human rights and, you know, the extraordinary sort of gross violations of that in terms of murder of people, which is happening in Bangladesh. And the only thing Americans are keen, however, from the very beginning is to make sure that India does not attack Pakistan, because obviously they don't want their ally to be in trouble. But at the same time, particularly after the sort of Kissinger comes to India in July 1971, you know, has discussions with Indians and goes to Pakistan and famously feigns a Delhi belly and, you know, takes the secret plane out to China. And once he comes back, he basically tells the sort of Indians that, listen, you know, we have this kind of, you know, informal sort of understanding going back to the 1962 war that if there is something, you know, serious by China, you know, in terms of an attack on India, the United States would sort of stand by India. But if the Chinese intervene in an India-Pakistan war, then you cannot count on us to sort of going through with that understanding. And the Indians naturally see that as an attempt to tighten the screws on them, which is part of Kissinger's sort of objective, very much so. But the other thing which Kissinger is trying to do and the Nixon administration trying to do is that they are trying to signal to the Chinese that, listen, we will stand by our allies come what may, because at the end of the day, they are trying to establish a new relationship with China, and they want to establish their sort of credibility as a dependable sort of partner, or let alone an ally. And then they feel that if they sort of let down Yaya Khan at the moment of this crisis, the Chinese will say that, listen, who the hell is going to antagonize the Soviet Union, depending on the Americans, right? I mean, we might as well look after our own. So that whole thing will come through. So for a series of geopolitical imperatives, the Nixon administration effectively turns"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:32.240",
+        "message": "a blind eye to what's happening in the subcontinent. And China's very central to this, isn't it? I mean, is this again, part of the sort of the Cold War shifting shape that China is now fighting with the Soviet Union? And is that why the US sort of wants to draw closer to China? Because it's obviously in their interest, therefore, to have friendly relations with"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:50.160",
+        "message": "China. Yeah. So the Sino-Soviet sort of relationship starts fraying from already the late 1950s, right, from around the time of the Great Leap Forward. So there are a range of factors which historians have studied, you know, there is ideology, there's various kinds of, you know, conflicts of interest, and so on. There's a sort of personality clash between Mao Zedong and the Chinese leadership, and the Russian leadership, and so on. But by 1969, that relationship and that hostility is actually militarized. They have a disputed border along the Ussuri River, in which Chinese forces actually launch an unprovoked attack on the Soviets, and then that leads to a clash. And thereafter, Mao Zedong sort of panics and says that, you know, we've got to sort of go into national mobilization mode, because there's going to be a surprise attack by the Soviets, and so on. So in fact, after the 1969 sort of clash, Sino-Soviet clash, it is the Chinese also who look to the sort of, you know, finding some kind of relationship with the United States, which will allow them to balance. As far as the United States is concerned, and Nixon and Kissinger are concerned, their primary consideration, of course, is one to sort of have a triangular relationship between China, United States, and the Soviet Union. So you bring the Soviet Union to balance. But the larger sort of objective is to make sure that both these sets of somewhat independent relationships will allow them to extricate without loss of face from Vietnam. Because both the Soviets and the Chinese are on their own steam supporting the North Vietnamese. So they believe that if the Soviets and the Chinese put pressure on the North Vietnamese, that will allow for some kind of a face saving negotiated solution to come up and the Americans can pull out. So that really is the geopolitical imperative in play."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:23.960",
+        "message": "So because of this sort of Nixon and Kissinger decide to go all in on Yaya Khan, but the State Department is of an entirely different view during this whole situation. Tell me a little bit about that. And what is kind of the genesis of the State Department's being relatively friendlier towards"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:38.320",
+        "message": "India? Well, as I said, Nixon and Kissinger were driven primarily by the high geopolitics of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:43.120",
+        "message": "the Cold War and what they wanted to achieve. And they didn't tell the State Department they were reaching out to China secretly and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:47.720",
+        "message": "all that? No, it was a secret. It was all only known after Kissinger sort of goes there. And even State Department officials were working within the Nixon White House and were in on this very small circle of things, were told in no uncertain terms that, you know, the Secretary of State or others should not be informed. So it was a pretty extraordinary sort of bureaucratic, you know, arrangement in there. But the State Department itself had regional experts, people who had been in the region who understood something about what was happening. They had people like Archibald who were sort of sending in telegrams. They had a much better sort of sense of realities on the ground. And they kept insisting that, you know, the Pakistani Army's attempt to impose a solution by force was almost destined to fail because there were just too many Bengalis and not enough force that you could use against all of them. And, you know, in the context of third world nationalism, you know, this is not a game which can be played to anybody's profit very easily. And they kind of understood that basic truth. But the reality was that even senior officials like Assistant Secretaries of State were basically shot down by Kissinger in interdepartmental sort of meetings and convenings and so on. And we're constantly reminded that, listen, the President is very keen that we should not, you know, do down Yahya and so on and saying that, you know, I just don't understand what kind of an administration this is that, you know, the President wants something and you hear you are so-called experts who are sort of holding forth on a totally different policy line. So Kissinger was really cracking the whip on them, you know, in a very serious way. So the State Department officials who knew better in some ways were marginalized, again, partly because, you know, it just didn't serve the larger geopolitical ambitions, which the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:23.760",
+        "message": "Nixon administration had at that point of time. So now, was the US during this point, moving closer to actively intervening to make sure India stays out? Because they obviously want to be seen by China for the sake of their credibility as helping Pakistan out. They also want a united Pakistan through all of this and they're expecting Yahya to get things back together. And they're worried and they know that India is sort of helping the insurgents on the border and all of that. I mean, that's that's kind of open knowledge."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:49.080",
+        "message": "No, in fact, there is a very interesting, you know, CIA document, which I came across while researching the book, where in April 1971, the CIA tells the, you know, they report up the channel saying that Indians have actually approached them saying that, you know, they want some weapons which they can pass on to the Indian rebels. So this was, as you can imagine, the intelligence community."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:08.480",
+        "message": "How did you come across CIA documents? Like were these like declassified?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:11.240",
+        "message": "Yeah, so the good thing about the American system is that, you know, for all the crimes committed by Richard Nixon in that period, a lot of material is very much out there. In fact, you know, it's quite remarkable. Is it on the internet?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:22.160",
+        "message": "Can I see it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:23.160",
+        "message": "Oh, yeah. In fact, there's a, you know, I'm not sure if that there is an organization called nixontapes.org, which was dedicated towards transcribing a lot of tapes, because, you know, one of the things which Richard Nixon did, which nobody actually expected him to do, was to tape pretty much every conversation which was happening in the White House and so on, which came out later on in the Watergate kind of things. But those tapes are also very revealing, because a lot of the actual discussions were happening on telephones, you know, between him and Kissinger and so on. So you can actually go and listen to some of that. There's a lot of ranting going on as well. So be prepared for some."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:53.360",
+        "message": "That will also be linked from the episode page. I think hours of my life will now go down this particular rabbit hole. And sounds like Nixon would have been a big selfie guy and an Instagram guy if he's like"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:02.400",
+        "message": "taping himself back in the day, right? You know, actually not. Richard Nixon is, you know, for a person who became the President of the United States of America and obviously such a successful politician, you know, the highest office in the land, he was a notoriously sort of reticent and uncomfortable people. So Richard Nixon was happiest when he could be cocooned inside the White House, when his, you know, advisors and staff would make sure that nobody disturbed him. And he would just sit on his yellow legal pad, making notes on various things and sending things out. You know, meeting people was something that he loathed. I mean, he was much happier, and he's one of the most intellectual American presidents. You know, Alan Greenspan in his memoirs says that, you know, of all the American presidents that he has seen, Richard Nixon and Bill Clinton are the two most intelligent people. And I can say from everything that I've seen that Richard Nixon was, at least in terms of geopolitical thinking and so on, genuinely an original mind."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:55.120",
+        "message": "If any cartoonist is listening to this, I urge you to instantly draw the image that came to my mind when you were saying this, which is Nixon sitting on his yellow legal pad while taking notes on it simultaneously. Absolutely. Do the needful. Moving on now from sort of from the US to the Soviet role in it. You know, how did Soviet attitude towards South Asia, you know, India, Pakistan evolve since 1947?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:23:18.120",
+        "message": "Yeah. So, one of the sort of, you know, very strongly held beliefs in India is that the Soviet Union kind of was stood by India throughout this crisis and, you know, the Indo-Soviet Treaty of Friendship was signed in August 1971. All of that is seen as a very important thing, which it undoubtedly was, you know, the Soviet Union did stand by. But again, what that standing by meant is something that I think we need to unpack a little bit. And again, you know, it's worth going back a little bit in history to understand how Soviet relationship with India and Pakistan evolves during this period of time, right? In the early years, neither India nor Pakistan has any particular relationship with the Soviet Union. You know, in fact, the first Indian ambassador to the Soviet Union, Mithila Lakshmi Pandit, who was Arlal Nehru's own sister, couldn't even secure a meeting with Joseph Stalin. In fact, in the first Indian ambassador to have an audience with Stalin was Sarvapalli Radhakrishnan, who was our second ambassador. And it's only after Stalin's death and the advent of Nikita Khrushchev and the change in policy towards non-socialist third world countries that India-Soviet relations starts evolving. This would be around 1953. 1954-55 is when Khrushchev consolidates at home. Then he sort of has this policy of, you know, rejigging, moving away from a hard line kind of saying we'll only support communist countries to look at other non-aligned countries like India and so on. So, Pakistan, because of its alliance with the Soviet Union at that point of time is seen as very much in the US camp. So, the Pakistanis, interestingly enough, always try to sort of also maintain a link with the Soviet Union. In fact, Ayub Khan, you know, in the post sort of 1962 phase, when US-India relations actually start improving because of the China factor, also makes an attempt to sort of improve relations with the Soviet Union. And that actually has some payoffs because in 1965, when India and Pakistan are at war and the Johnson administration decides that the hell with these guys, you know, we are not sort of going to get into it. It is actually the Soviet Union which steps into the position of the mediator between the two sides. The post-war conference is held in Tashkent. It is sort of done and it's a Soviet Union which actually prevails upon Prime Minister Lal Bahadur Shastri to return those parts of Pakistani territory, which were Azad Kashmir territory, which were captured by the Indian Army at that point of time, including places like the Hajibir Pass, about which there is endless sort of, you know, lamenting going on even nowadays on social media saying, if only we had Hajibir Pass, we could have sort of given a bloody nose to the terrorists and so on. Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:31.960",
+        "message": "I mean, so\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:32.960",
+        "message": "Is there some logic to that? Well, I mean, the Soviet Union basically believed from 1965 onwards that they were now positioned as the main external player in the subcontinent, that they had supplanted the Americans, they had taken up the American role, the traditional role, which the United States had as the most important power. And in order to play that role, they actually believed and, you know, that they had to maintain some kind of balance between India and Pakistan, far from sort of, you know, tilting very heavily towards India. In the aftermath of Tashkent, the Soviet Union actually starts trying to build a relationship"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:02.080",
+        "message": "with Pakistan."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:03.080",
+        "message": "So, like a benevolent and stern big brother. In 1967, the Soviet Union actually announces arms sales to Pakistan. And you know, the Indian government, you know, throws a fit. Domestic opinion in India throws a fit, you know, the questions in Parliament saying Soviet Union here is this thing and there's a, you know, excellent sort of record of conversation between Indira Gandhi and Alexei Kasygin, who is the Soviet Premier. And Mrs. Gandhi tells him in no uncertain terms that, you know, the India-Soviet relationship has to have an exclusivity to it. And you know, if the Soviet Union sort of wants to build this kind of relationship with Pakistan, it's going to be very difficult for her to justify the relationship, friendship with Soviet Union, right. So, there is that kind of phase through which the Soviet Union goes. But come 1969, when the Sino-Soviet relationship gets militarized, the Soviet Union is now very keen to sort of make sure that India and the Soviet Union come together much more strongly primarily to send out a signal to the Chinese. It is in that context that the Soviets first propose a draft of a treaty of friendship, you know, which is there. And actually, some negotiations happened in 1969. But Mrs. Gandhi decides against signing it primarily for domestic political reasons, because she believes that, you know, signaling a move towards Soviet Union by signing a treaty like that will not go down well. And you know, she has elections coming up. She knows her party's kind of, you know, sort of on the rocks after the 1967 general elections and so on. So, that is put off. And in the summer of 1971, once the Bangladesh crisis really erupts, the Indians bring up the idea of this treaty once again with the Soviet Union and say that, listen, this is what you had proposed then. Why don't we think of concluding something like this?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:37.440",
+        "message": "And in fact, I noticed in your book that it is pushed very hard by D.P. Dhar. Ambassador in Soviet Union. D.P. Dhar, the ambassador there who's almost like a one man force trying to make the treaty"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:46.080",
+        "message": "happen not just convincing the Russians, but also convincing Indira Gandhi and the cabinet. Absolutely. He was very keen because, partly because he believed that this treaty would align Soviet position with India very closely in the crisis. Because again, that is very important to understand, right? I mean, when Indian sort of foreign minister meets his Soviet counterpart, Swaran Singh meets his Soviet counterpart, you know, the Soviets say that, listen, we know what you guys are doing with the army league and so on, right? I mean, that is fine. But just make sure that this doesn't really sort of get out of control and so on, because there's not going to be that much support and stuff like that. So, the Soviets are kind of reluctant. And they also have a certain kind of reading of how these various kinds of nationalist revolutions and all happen. And they are not particularly convinced that the army league was a particularly, you know, a revolutionary force in the context. Bourgeois."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:28:30.440",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:28:31.440",
+        "message": "And then saying, you know, very sort of, you know, compromised mainstream politics. And then they are also concerned that there are a number of Maoist parties who might just get the upper hand in an independent Bangladesh, right, which they don't want to because of their relations with China. So, the Soviets actually are playing a very interesting and D.P. Dhar and the Indian government finally use the treaty as a way of trying to align Soviet position with India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:53.120",
+        "message": "That is really the background to the way the treaty. And do the Soviets sort of come closer to agreeing to sign the treaty with India because"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:28:58.920",
+        "message": "relations with China are getting worse? That's right. I mean, the Soviets, I mean, they wanted to sign it two years ago, right? But now the time was coming and they said, fine, we'll sign, we have no problem. But what is interesting is that, you know, when the Soviet foreign minister Gromyko comes to India to sort of sign the agreement, after the signing of the agreement, he actually has a meeting with Indira Gandhi, you know, of which we have a record. And he tells Mrs. Gandhi in that meeting that, you know, we understand your position, but we have a saying in a proverb in Russian that, you know, the heart should be warm, but the head should be cool. Now, that only means that he is counseling India against any kind of precipitated action, particularly by way of military action against this thing. And the Indians exactly get the point. And they are not very happy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:37.300",
+        "message": "In fact, that's something that they probably, to an extent, the Indians already agree with because they've been fairly cool through all of this, right? They haven't rushed into Pakistan yet."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:45.600",
+        "message": "Yes, they don't want to. But at the same time, having the Soviet support is very important because that brings the veto in the Security Council, because they know that the Americans and the Chinese and every, you know, the Chinese, of course, are not in the Security Council at that point of time, but the Brits and others are unlikely to sort of really come out in support. And the Soviet veto is critical. So you needed the Soviet Union to at least politically support your move. So you're trying to create, I mean, again, I agree that the Indians had by this time not made up their mind saying that this is what is going to happen. But the probability of an armed intervention or some kind of assistance to enable the emergence of India and Bangladesh is rapidly increasing by the time you're talking to August 1971."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:21.600",
+        "message": "So the treaty is a very big deal. India can go ahead with confidence now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:25.260",
+        "message": "Not yet, because though the Soviets have signed the treaty, they have not actually sort of said that that's going to happen. And there is an interesting sort of, you know, coda to this because it is actually only in October 1971, just about two months before the war happens, or not even in actual date terms, it's only about six weeks, that the Soviet Union finally aligns itself with the Indian position, because that's when Mrs. Gandhi goes to Moscow for a meeting. Now, it is very interesting when Indira Gandhi goes to Moscow, you know, the Soviet General Secretary who's sort of, you know, there's a troika, there is General Secretary Brezhnev, there is Podgorny, and there is Alexei Kasygin, who's the premier. So at that point of time, Brezhnev, who's the sort of, by all accounts, the most important figure of the troika, is actually not in Moscow. And she is surprised and went to learn that she will not be able to meet Gromyko. And she takes a decision that she will not leave Moscow without having met Brezhnev. And so finally, she actually decides to spend that evening hosting a reception by the Indian sort of embassy in Moscow, meeting friends and so on, and waits for another day, postpones her trip in order to meet Brezhnev. And in that meeting with Brezhnev, which goes on for almost five hours, is when, you know, they lay the full background of the Bangladesh movement, convince the Russians that there is enough political steam behind this, and that, you know, the emergence of this independent country is now a foregone conclusion in some ways, and that, you know, the right policy for India is only to sort of assist its emergence. And it's at that point of time that the Soviets actually come around to accepting and supporting India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:55.120",
+        "message": "So, you know, it takes a lot of work to get to that point. And quite a diplomatic go by her. And so at this point, what's happening internationally, just kind of, because already there is sort of outrage in the sense you describe about how Pakistan sent a bunch of journalists as observers to East Pakistan, as it was then to report on the surroundings there, and one of those journalists then goes to England, and he decides that he simply has to report on the horrific atrocities that he's witnessed. And after getting his family out of Pakistan, he actually publishes the sensational piece and suddenly the West is aware of what is happening in Pakistan. And there's a lot of outrage in favor of the East Pakistani rebels."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:32.120",
+        "message": "That's right. Antony Mascarenas is the sort of Pakistani journalist who breaks the big story and the Sunday Times in London breaks this story with a headline genocide. And there is a lot of sort of public reaction to it. As I said, this is also a period when the notion of human rights and, you know, various kinds of humanitarian NGOs like the Amnesty and others are sort of getting very active in international politics. There are new forms of mobilization around this kind of politics, which we see, you know, very interestingly coming together, you know, people using advertisements, you know, for instance, NGOs placing sort of, you know, ads in newspapers saying, here is a petition to your local MP in the UK, saying that we do not want, you know, whatever, that we want the government to sort of tell the Pakistanis in no uncertain terms that this is not possible. And all you need to do is to clip this and post it to your local MP and sign it, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:19.680",
+        "message": "And local MPs were inundated with that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:21.480",
+        "message": "Yeah. So there are those kinds of new technologies of mobilizing public opinion around these new ideas, because these are not ideas which have been around forever. Nobody, you know, really believed that, you know, you know, because the idea of state sovereignty always was the more established principle in the post war period, you know, the idea that, you know, human rights or humanitarian sort of, you know, sort of atrocities like these needed to be actively condemned was a relatively new thing. There was also a Bengali diaspora from Bangladesh, which was quite strong in Britain, of course, partly because many of them were from Silet province of East Pakistan."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:51.440",
+        "message": "It's very interesting, you point out most of the Pakistani immigrants in Britain were actually Bangladeshis from Silet."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:56.960",
+        "message": "So that, you know, they're mobilizing opinions. Some of them actually sort of predate even the creation of Pakistan, I mean, you know, the older generations of them were sort of seamen who sort of settled in England and so on. So there is that diaspora, there is a similar diaspora of smaller size in the United States. So all of these people do mobilize. And then, you know, they do get quite a degree of sort of important public support from various iconic cultural figures of the time. You know, people like Joan Baez, you have Ravi Shankar, and, you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:24.600",
+        "message": "Who do the concert for Bangladesh."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:25.600",
+        "message": "Right, and then, you know, who's who of the rock music world turn up for that concert. And again, you know, that ties in with the sort of countercultural moment of the 1968 generation, right, for which a lot of this kind of politics was mediated through music."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:41.780",
+        "message": "And rock music was kind of, you know, was a pretty important. Is this sort of a cultural aside or was it more central to what actually happened? Because one would imagine the geopolitical currents really shaped the emergence of Bangladesh's an independent nation. Did all of this sort of also matter what was happening in the West?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:59.520",
+        "message": "Well, I mean, it mattered because it was a way of influencing public opinion, which was quite important, right? I mean, again, you know, at the end of the day, the states, United States government and other governments did what they did in pursuit of whatever national interest as they defined it in various ways. But in as much as, you know, the war sort of came at a moment when public opinion was already quite mobilized around issues like Vietnam. These things were not negligible. I mean, you know, something like the concert for Bangladesh was kind of, was an important moment of creating awareness amongst us. I mean, you know, when you have someone like the great beat poet Allen Ginsberg, writing a poem about on the road to Jaisalmer in the New York Times, and the poem being produced in its entirety, it has a certain kind of a cultural impact, which I think is important for us to recover. Because at the end of the day, yes, you know, maybe Richard Nixon was not reading Ginsberg and, you know, getting influenced by anything. But the reality was that public opinion in the United States was shaped, I mean, you know, sort of, you know, politicians in the US Senate kind of voted against what the, you know, sort of supply of weapons to Pakistan was and various kinds of things happened. So I think it's kind of important to both underline the extent of that and also its limitations and, you know, so in a sense, Bangladesh becomes a foster child. But in geopolitical terms, it's still treated as something of pariah, right? Because you still see it as an internal problem. You only need to contrast what is happening on the one hand, you have Madison Square Gardens and the sort of concept of Bangladesh and, you know, a few streets down in the UN sort of discussions. You know, Bangladesh is treated as an issue of state sovereignty and saying the only thing which matters is Pakistan state sovereignty. If India has a problem, the UN sort of, you know, whatever Commission on Human Rights or somebody can come in, give assistance for certain kinds of camps, but we really cannot do much more than that. And the UN sort of, you know, Secretary General U Thant, who is actually a Burmese at that point of time, frames this, you know, in pretty conventionally as an issue of the real danger is a war between India and Pakistan, breakdown of international peace and security. That is his charter. His charter is not to sort of ensure human rights, even though the UN Charter also mentions human rights right up front, right? So, but the ideational framework within which people were, that's the world in which they"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:09.520",
+        "message": "lived."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:10.520",
+        "message": "You have sovereign states dealing with each other. Exactly. And that, you know, these kinds of things are not really issues on which others should get right. Well, I mean, it has definitely changed, right? I mean, you only need to think about the kinds of so-called humanitarian interventions which happened in the 1990s onwards. But Bangladesh is at the cusp of the beginning of that politics, of the breaking over from a world which is seen as where sovereignty rules the roost at all times under all conditions to one where it then becomes a more qualified objective. And Bangladesh is an important historical sort of moment, precisely because it shows how difficult the birth of this kind of politics was. The fact that 10 million refugees, you know, larger than any other sort of, you know, population movement in the post Second World War period could not lead to a more significant level of international involvement should also tell us that international politics has changed. It has evolved. Things have moved on, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:38:00.560",
+        "message": "And as I said, as a historian, I'm only interested in understanding that change. Yeah. To go back to that moment, then, you know, as public opinion in the West is changing, India's diplomatic efforts to convince people of the rightness of the cause is not really working out because while people are essentially while the US and England and all seem to be saying that, yeah, we recognize that you have a refugee problem, but we are not going to tie that with the political solution in Bangladesh and that's Pakistan's internal matter, don't leave them alone and hey, don't go to war."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:28.520",
+        "message": "That's kind of the message that's coming from there. That's right. And I think the Americans were, of course, the most important player, they were the strongest in taking that line. The countries of Europe, however, had a slightly different kind of a thing, right? I mean, Britain at that point of time had a conservative government under Ted Heath and the conservative government actually sort of ended up supporting India a lot more. They understood Mrs. Gandhi's meetings with Heath were actually very successful. They understood the point of view that this situation now kind of completely spiraled out of hand and so on. The West Germany at that point of time under Willy Brandt again took quite a sort of line which was sympathetic to India's predicament and of course to the issue at hand, which was the sort of plight of the people. So I think, you know, they were, but at the end of the day, the United States still had the dominant hand in terms of how these issues played out. So to that extent, you know, Mrs. Gandhi's last sort of stop was to go to the United States and her meetings with Nixon in November 1971 really go nowhere. They only sort of show up the gulf between the two sides. Is there a tape of that? Well, I don't think there's a tape of that, but you can listen to a lot of things that Nixon had to say, not just about Mrs. Gandhi, but about the Indians subsequently. His motivation at that point of time is to tell India and Mrs. Gandhi in no uncertain terms that an attack on Pakistan would be the worst thing that they could do. And once of course India sort of decides to pull the trigger, then Nixon is mad and he then goes on to sort of terminate economic aid to India, which is India was the largest recipient of economic aid until that point of time, pulls off military assistance to India of various kinds and, you know, then begins, you know, all the other things which happened thereafter."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:40:08.360",
+        "message": "So take me to the pulling of the trigger, you know, we've reached a September, October of the crisis and we are reaching a point where India simply cannot take any more refugees. What is the point at which they decide that we must do something and what is it that they"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:21.000",
+        "message": "then end up doing? So the Indians are training the sort of the Bengalis in the Mukti Bahini and others in a series of training camps. By October 1971, the Indians decide that, you know, it is important now to sort of take this crisis to its culmination. Because the longer this goes on, the more difficult it is going to be for India to hold together this kind of somewhat disparate coalition of people who have come together under this"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:40:45.240",
+        "message": "Mukti Bahini. And they're already fighting with each other. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:48.240",
+        "message": "They had internal tensions. The Indians also were supporting, you know, the R&DW had raised another militia called the Mujib Bahini, which was some of, you know, Mujibur Rahman's nephews and some of the radical students and then their followers and so on. So there were all these kinds of games going on and the Indians just believed that it was important to now take the crisis to its logical conclusion. So their entire approach was to sort of keep assisting the Mukti Bahini militarily to sort of make deeper forays into Pakistan, East Pakistan. And by 1971, the Indians were operating, the Indian army used to give artillery support and other kinds of things. And, you know, Indian soldiers along with this thing, you know, used to go in, they were, you know, attacking Pakistani positions, capturing territory, fighting deep inside Pakistan. And the Pakistanis, of course, know all of this stuff, you know, and they are getting quite sort of unnerved by this kind of escalation in the East. And the Indian position is that, you know, we will just continue to do this till the Pakistanis themselves pull the trigger. And you know, which in effect is what happens, you know, P. N. Dhar, who was Mrs. Gandhi's secretary at that point of time, has this important quote, right? He tells Yadav Dhar, D. P. Dhar, that, you know, he quotes Napoleon's maxim that you never interrupt an enemy when he's making a mistake. And he says that, you know, Yaya Khan is sort of going to make this mistake. So let's just wait and do this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:03.440",
+        "message": "And that's exactly what happens. Which is kind of brilliant and which is the kind of thing you read in storybooks because in real life, it's so messy, it doesn't always work out like that. The enemy doesn't always do what you want him to. But in this case, the enemy did exactly what you wanted him to."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:42:14.640",
+        "message": "Yeah. In fact, you know, when the Pakistanis sort of bomb or attempt to bomb the Indian airfields on 3rd of December, Mrs. Gandhi is on a plane back from Calcutta to Delhi. And when they get the message saying that, you know, the Pakistanis have attacked, you know, D. P. Dhar is on the flight with her and he comes back and tells a very young diplomat who later became very prominent called J. N. Dixit, he says, this fool has done exactly what we wanted him to do. Right? I mean, so this was something they were expecting. And they were hoping that the Pakistanis would actually begin this war. And till date, you know, the Indian position is that the war was begun by the Pakistanis on 3rd of December 1971, which is true in a sense that the formal declaration of war actually happened on that day. But the reality was that the Indians were already escalating and putting the squeeze on the Pakistanis throughout November."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:56.600",
+        "message": "This is brilliant maneuvering. If someone from Bollywood is listening to this episode of the scene in the unseen, and they must be because everybody listens to the scene in the unseen, kindly make a film on this brilliant book. So moving on from there, at the time, then 3rd December, Pakistan is attacked and India is like, yeah, we are going in now, they've started the war, we can do what we want."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:13.560",
+        "message": "What is the Indian plan? Well, the Indian military planning has been sort of evolving, you know, as these plans tend to evolve in various iterations. And the broad plan, even by the time the war begins, is that the Indian army should sort of enter East Pakistan from 3 different directions, because we have landlocked in that way. And you would capture enough territory in which to sort of put the provisional government of Bangladesh and then declare war, just to sort of go back a little bit, you know. So in April 1971, when the Awami League politicians come to India and a significant number of them are there, they come up with this idea of establishing a provisional independent government of Bangladesh and seek India's recognition of it. And the Indian government actually sort of is reluctant to give that recognition, because under international law, a government can be recognized as sovereign only if it controls significant amounts of territory. And at that point of time, they don't have any territory. They are effectively operating out of the R&DW's office in Calcutta, though the headquarters is supposed to be in this place called Mujib Nagar inside East Pakistan. And in fact, those of your listeners who are sort of interested can go on YouTube and check out this very nice video of the formation of the provisional government of Bangladesh. You know, there's a ceremony which happens actually inside East Pakistan. But you know, that ceremony is entirely facilitated by the Indians. It's the BSF which clears the road to allow everyone to have. Send me the link. I'll put it in the episode page. Yeah, it's a very interesting sort of episode. And so the provisional government therefore exists, but Indians have not formally recognized it. So the plan is that you sort of capture enough territory so that you can recognize the provisional government and then sort of create conditions where the people can eventually go back and so on. Right. And that's really the hope. The provisional government is recognized on the 6th of December 1971 once the war gets underway. Because they've taken some territory. They've captured territory and they're sort of moving with the Indian troops and so on. So all of that has happened. But nowhere does the Indian sort of military plan mention the capture of Dhaka as a particular objective of the plans. The plans are still about saying that you want to do it. And this is partly because of the experience of the 1965 war and other things. Indians know that the international community will intervene. There is likely to be some kind of a UN Security Council push to sort of calling for a ceasefire. So the important thing is to have enough territory quickly to sort of recognize this. Once that is done, that's a fait accompli. Then you know, other things will fall into place and so on. So there is no really no plan to capture Dhaka per se. And that was something of a fortuitous occurrence during the war itself."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:46.900",
+        "message": "Right. And internationally, what's happening? War has broken out in India, Pakistan, what everybody feared has happened because none of the other players really want this to happen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:45:55.660",
+        "message": "What are the maneuverings in the UN and behind the scenes? So again, I mean, you know, there are a couple of sort of resolutions which are tabled. The Soviet Union sort of vetoes them and so on. And that's what is happening in the UN stage. It's sort of a predictable kind of a game, at least till the very end, which is kind of being played out. What is more important is the moves which are made by the Nixon administration at that point of time. So the Nixon administration starts putting a lot of pressure on the Soviet Union, saying that India is effectively your client state and you guys have egged on the Indians. And if this crisis becomes more important, we have an alliance with Pakistan, so we are going to get involved. And we then you just don't know what's going to happen between you and us. You have this treaty with them. We have this treaty with Pakistan. So you know, this is going to be a major bust up and you know, we are supposed to be having better relations as part of detente and other kinds of things. Now, is this what the Soviet Union wants? And the Soviet Union is actually under a bit of pressure, you know, not to say that they cave in before the Americans, but they also then start telling the Indians that listen, this has to sort of kind of be finished, you know, finish it fast and move quickly and do what you can kind of story. So there is that dynamic to it which is playing. The second thing the Americans do is that they reach out to the Chinese and tell them saying, you know, if China diverts a few divisions of its troops to the border, then the Indians are going to get scared. They will then be forced to divert their attention from the operations in East Pakistan. And that will then enable the Pakistanis to sort of hold their own. And the Chinese hear out this proposal, which is related to by Kissinger to their representative in the UN. And about two days later, around 10th of December, they come back and say, yes, thank you, but no thanks. So we do not think that is what we are interested in, partly because the Chinese have, you know, they are realist, whatever else, you know, their ideal."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:35.180",
+        "message": "But it is very interesting that they are not asking China to intervene. They are just saying take some troops to the border and distract. You know, this reminds me of an old chess anecdote. I forget. I think it involves Botvinnik, I am not very sure. So there is a world championship match where someone is supposed to be playing Botvinnik or there is a match of some sort. I hope it is Botvinnik and I am not messing it up. Well, let us just say the Soviet grandmaster who smokes a lot and the rules are that he cannot smoke. But this gentleman just sits with a cigarette in his mouth and he does not light it. And the other guy is completely perturbed and eventually loses the game. And finally, he says, why did you sit like that? You were not going to light the cigarette. And he said, the threat is greater than the execution."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:48:16.260",
+        "message": "It seems to me quite what, sorry for the digression. Yeah. No, I think that that is kind of what the Americans had in mind. But it is interesting. The Americans actually thought the Chinese would go forward."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:48:25.940",
+        "message": "Why did the Chinese go forward?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:48:27.500",
+        "message": "So Nixon and Kissinger's expectation very much was that the Chinese will intervene in some fashion. In fact, there is this fantastic sort of, you know, it is generally like fantastic in a sense of a fantasy, right, of a conversation between Nixon and Kissinger, where they sort of are, you know, literally carrying on in this sort of, you know, almost sort of delusionary way of saying, oh, so the Chinese come in and if the Chinese come in, then the Soviets are going to get into it. And if the Soviets are going to get into it, then what is going to happen? And you know, then are we going to get into it? Is there going to be a nuclear war? I mean, it is just a, you know, a sequence of sort of imaginations and all of that is deflated. When the Chinese come and say that, listen, we are not going to. And the Chinese do not want to do it because the Chinese have been telling Yaya Khan from the time the crisis broke out that you have to have some kind of a political solution. The Chinese also have some of their Maoist allies in the East Pakistani parties, the Bengali parties. And they say that, listen, this kind of a military solution is not going to work. So by the time the war breaks out, the Chinese are quite clear that, you know, the situation on the ground is such that the Pakistanis cannot hold their own, you know. So they say that, you know, better to sort of take a realistic view."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:49:26.540",
+        "message": "It's a losing cause."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:27.540",
+        "message": "Just stay away. You know, and ultimately you can have better influence with the independent state of Bangladesh whenever it comes up, right, rather than trying to sort of, you know, put all the chips into"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:49:35.300",
+        "message": "the Pakistan."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:36.300",
+        "message": "But they don't actually want Bangladesh. Well, I mean, again, you know, I don't think they sort of wanted the breakup of Pakistan. Pakistan was a very important sort of state and a friend of theirs. But when things kind of reached the point where the war began, I think they sort of reconciled themselves to what would be the inevitable realities. Of course, they were unhappy with the fact that India would sort of emerge in such a strong position and so on. But they managed to sort of, you know, keep their own. So this is the sort of broader geopolitics and the American maneuvering. And then, of course, the United States decides as a last measure to send the sort of, you know, the Seventh Fleet into the Bay of Bengal, which, you know, is a sort of a straightforward threat at Indian sort of forces. And the Indians also kind of panic and, you know, their assessments suggest that the Americans might actually be landing of Adalino Marines somewhere in East Pakistan to evacuate, you know, senior Pakistani officials or American citizens and so on. So there is a concern that the American intervention is going to be much more direct. The Soviets send a submarine to tail the Americans of the Seventh Fleet. So you know, there is this entire story going on. But the paradoxical outcome of all of this is that India, which until that point of time is kind of broadly still thinking in terms of, you know, maximum capture of territory, consolidating position and so on, then feels that now there is a need to really sort of reach this to a sort of a finality, which they had not envisioned before. And the Pakistan and because the Indian forces had sort of made significant gains by bypassing Pakistani positions and sort of converging in the interior of the country, they now decide to make a quick dash for Dhaka and to force the surrender of Dhaka. And that then, you know, was an outcome which was not foreseen at that point of time. And as you mentioned up front, you know, as late as 12th of December, General Maneksha actually was giving orders that, listen, maybe we should go back to some of the towns we bypassed and hold them because there's going to be a UN Security Council resolution calling for an immediate ceasefire at some point. So we need to sort of have the territory. But you know, there are others in the army headquarters and people like General Jacob, who was the chief of staff of the Eastern Command, which was the operational command dealing with this, who believed that actually, no, this was a moment when they could actually force not just a quick move into Dhaka, but also a surrender by the Pakistanis at Dhaka."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:47.900",
+        "message": "So what's the significance of taking over Dhaka in particular? Is it that basically you've conquered East Pakistan? You know, Pakistan has to surrender and Bangladesh is de facto independent."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:57.220",
+        "message": "So not only was it about sort of capturing Dhaka as a city, which was a capital city and the symbolic meaning of it, but the fact that the Pakistanis gave an unconditional surrender with 93,000 troops being there. That was an extraordinary sort of an outcome, which I don't think was what was envisioned at the beginning of the war at all. It's beyond even Indira Gandhi's wildest dreams, I guess. Well, I mean, in a sense, once it came to it, I think, you know, obviously the scale of the victory then is changed, right? I mean, that's when, you know, outcomes also then, you know, seem inevitable. Yeah, then you see that, listen, I mean, this is just the most extraordinary thing which happened. And in fact, even there, there was one last sort of, you know, slip between the cup and the lip, so to speak, you know, probably, which was that as the Indians were making this drive towards Dhaka in the last 48 hours of the war, there is a resolution introduced in the UN Security Council calling for an immediate halt to hostilities and a withdrawal of all armed forces from Bangladesh. Now, that would have effectively meant, if that resolution had passed, that the fighting forces would have had to stop wherever they were. Some kind of a ceasefire, you know, would have been imposed between the two sides, policed by some UN personnel. And both Indian and Pakistani troops would have had to withdraw, right? And this was still a possibility at this moment. And why was it a possibility? It was because this resolution was actually introduced by Poland. Okay. Now, you know, nobody in their right mind, particularly Indian diplomats, believed that it was a resolution which was introduced by Poland. It was actually a resolution supported by the Soviet Union, right? Which again tells you that, you know, at this point of time, the Soviets had, were in no mood to veto a third resolution. They actually felt that, listen, if India cannot finish the job, you know, we've got to table some kind of a resolution."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:36.420",
+        "message": "What if the resolution actually happened and India just went ahead anyway?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:53:39.420",
+        "message": "Well, yeah, you could have sort of done that kind of a fait accompli. But if that resolution actually passed, then you might have been in a diplomatic pickle of some kind, because then you would have had to antagonize the Soviets in order to sort of get to that particular outcome."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:52.820",
+        "message": "Now, it's very interesting that one of the people who didn't want that resolution to pass and in fact stood in its way is Bhutto."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:53:59.420",
+        "message": "Yeah. So Bhutto had just come to Pakistan to join the delegation at the UN. And Bhutto, when he sort of, you know, sees the text of this resolution, he makes a very impassioned speech, once again, which you can listen to it on YouTube, you know, basically saying that, you know, Poland is a country which has been partitioned so many times in its history. And of all countries, I'm most disappointed that Poland, you know, and there are very few South Asian historians of his generation, politicians who would have known about the partition of Poland in the 18th century and so on, tells you something about Bhutto, makes this fantastic speech and theatrically sort of tears up that resolution. This will also be linked, by the way, walks away, right. And the, it is interesting to speculate because there's no other way of sort of dealing with this. There's no evidence. Why Bhutto sort of decided to sort of, you know, more or less walk away from the UN and not allow the resolution to sort of be passed or even be debated in a serious way. And the best answer it seems to me is that Bhutto knew that the Pakistan army was at the brink of an extraordinary defeat. And he knew that power would then pass to him in West Pakistan and it would pass to him under conditions of when the army was totally humiliated, which was in some ways the best political outcome for him on which to begin constructing a new."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:55:12.740",
+        "message": "Yeah. So he actually, in a sense, supported the partition of Pakistan to advance his personal career. And I can see where the incentives make sense for him because in a democratic, united Pakistan, in any case, the majority of the people are in Bangladesh, you're always going to have a Mujib like figure who will get more votes than you and, you know, you will never get that kind of political power. And here you have East Pakistan cut off. You are the dominant political figure in West Pakistan. And the army is suddenly much weaker. And in fact, that's exactly what happened. Yahya had to quit at the end of the war."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:41.100",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:55:42.100",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:43.100",
+        "message": "And so, in a sense, I mean, yeah, I mean, whether it was his personal agenda or whether you say that success in politics is about riding the waves of history. You just had a hilarious phone call here, kindly, kindly tell us about it. Well, I mean, basically, Yahya Khan is trying to sort of tell Bhutto that, listen, this resolution works in our interest in some way. Overtrunk call. And Bhutto pretends as if the line is bad and says, sorry, I can't hear you and just hangs up. And the operator says, no, I can hear him pretty clearly. What the hell with you, right? Because he's quite determined not to sort of go down this route. Of course, you know, you can interpret it in other ways of saying that Bhutto did not want to sort of be seen as presiding over the humiliation of the, you know, various kinds of things. But the reality was that he understood that this outcome now was going to happen in this particular way. And that if it happened, you know, here was an opportunity to sort of, you know, come back to power in Pakistan and do something different, which is exactly what he managed to do subsequently."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:56:35.060",
+        "message": "So at this crucial moment, in a manner of speaking, Bhutto was India's friend. So what happens when the dust settles? Like, this is all very fascinating. And it's kind of clear from reading your account of everything that the whole thing is so multifactorial and so contingent upon events just happening to work out the way they did and, you know, but after all the dust has settled, what happens? How are India-Bangladesh relations? How do those kind of go over the years? And you know, how does the rest of the Cold War play out for the time that the Cold War is still running? Where do the Soviets go? Where does the US go?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:57:07.300",
+        "message": "What happens? So yeah, so in terms of India-Bangladesh relations, what happens is that basically Mudibur Rahman comes back in January 1972 to independent Bangladesh, you know, becomes the leader. There's a new constitution of Bangladesh, which is written in the year 1972, drafted by a group of young lawyers, including a man called Kamal Hussain, who has been news lately in Bangladesh for having been the figurehead of the opposition against Sheikh Hasina in the last elections which happened. So Kamal Hussain was a, I think, a 35-year-old lawyer at that point of time and wrote this, what was for its time a pretty extraordinarily progressive constitution. You know, it is actually even the Indian constitution did not have the word secular in its preamble at that point of time. The Bangladeshi constitution had it and they were determined to create a progressive state, you know, within the parameters of that time. So it was a constitution of some vision and some ambition for a new state. But of course the reality was that, you know, Bangladesh had a series of problems. First of all, it was not getting international recognition till 1974. Basically the Pakistanis got the Chinese to veto Bangladesh's entry twice into the UN. Without having that kind of recognition, Bangladesh could not access international aid in any significant way. The only countries which were giving aid to it were India and the Soviet Union. And then eventually that led the Bangladeshis to sort of given, you know, Mujibur Rahman gave an olive branch to Zulfiqar Ali Bhutto, attended a meeting of the OIC, the Organization of Islamic Countries in Pakistan in 1974. That was seen as a moment of post-war rapprochement between the two of them. And you know, then of course the following year Mujibur himself was overthrown in a military coup and assassinated in Bangladesh. And then of course, you know, that history of that country takes a very different turn from that point onwards. So, in a sense, all the sort of pro-India forces are kind of marginalized for a long period of time and that has its own dynamic within Bangladesh. The India-Pakistan relationship, of course, is kind of interesting because that's when you have the post-war conference, which results in something called the Simla Agreement, which is again in popular Indian consciousness and other, you know, area of almost incessant heartburn about why we did not impose a solution on Kashmir at the time when we had the upper hand and so on. And I think the answer to that is what the record suggests is actually quite straightforward. The assumption is that we had these 93,000 prisoners of war and that we could have used that to get the Pakistanis to sign on to whatever it is that we wanted them to sign on to. But the reality was that Zulfiqar Ali Bhutto was very clear that even if India took all of those 93,000 prisoners of war and kept them in India forever, he would not sort of survive the signing of an agreement on Kashmir in that sense. Politically. Politically. And I think the Indians understood that dynamic and they felt that, you know, it was better to invest in a politician like Bhutto and not to impose a solution. You know, P.N. Haqsir used to say that, he used to constantly say, and even in his written notes, talk about the treaty of Assay. He used to say that we can impose a punitive treaty on Pakistan today, but a democratic politician will not survive it, and whenever you have another group of revanchists coming into power, this treaty will be overthrown by the force of events. Much like Germany between World War I and II. So his whole entire framework was to say that this is not going to be a workable solution, which I think was the right judgment at that point."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:00:20.220",
+        "message": "And very enlightened, though, obviously, eventually Zia-ul-Haq comes to power."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:00:23.460",
+        "message": "Yeah, everyone. And, you know, in retrospect, in India, we can keep sort of, you know, beating our breasts about why this happened or not happened. The second dynamic of it, which I think in India, we still do not understand, is the role played by Soviet Union in the post-war position. The first country that Zulfiqar Ali Bhutto visits in January 1972 is the Soviet Union, because he knows that that's a country which holds the key to the peace solution. And it's the Soviets who tell the Indians that India has to give up territory, which is sort of done that, and will have to sort of repatriate prisoners of war. Let's also remember, under international law, holding on to prisoners of war after this thing is illegal. In a sense, it was an embarrassment for us to be holding on to them. The only reason we held on to them, actually speaking, was because we were technically not the people who are holding the prisoners of war, even though they were physically in our custody. We were holding them on behalf of the government of Bangladesh. And Mujibur Rahman was very keen that India should not repatriate these prisoners. Till such time, the Pakistanis agreed to try about 180 Pakistani officers whom they had identified as war criminals. So he wanted to have a war crimes trial. There was a legislation which was passed in Bangladesh at that point of time to do that. But ultimately, in order to strike this deal with Pakistan and get international recognition, UN admission, etc., Mujib reluctantly allowed to let go of that war crimes trial. And subsequently, that paved the way for repatriation of prisoners of war. So it was a complex situation. I think the scale of India's victory once again blinds us to what the political realities of the time, which was that, you know, the Indians strongly felt and quite rightly that Zulfiqar Ali Bhutto would not survive a day in office if he managed to sort of, you know, sign some agreement which legitimized either the status quo in Kashmir or something else. Or that the Soviet Union, which was your only key partner at that point of time, would acquiesce in some such arrangement. Nobody was willing to do it. So in that sense, I think the similar agreement basically worked on the premise that you would, you know, have the border between India and Pakistan will become the line of control, the ceasefire line. And that over a period of time, the ceasefire line would come to acquire the characteristics of an international border. In a sense, it would kind of become a de facto border, which in effect is what is the situation even today."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:02:31.220",
+        "message": "So you described the 1971 war, quote, as the most significant geopolitical event in the subcontinent since partition in 1947. Few contemporary conflicts have been so brief and localized, but had such protracted and global ramifications, stop quote."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:02:45.900",
+        "message": "Elaborate on that a bit. Well, I think, you know, the ramifications of the war, as I said, were quite extraordinary. You had a country like Bangladesh, which is a very large populous country coming into independence on its own steam. As I said, I think, you know, it changed, the Bangladesh war changes the sort of geopolitics of the subcontinent in significant ways. I mean, just to give you one example, it's in the period after the 1971 war that Pakistan, first under Zulfiqar Ali Bhutto, subsequent to Zia ul Haq, actually starts identifying itself a lot more with the sort of, you know, the, the, you know, Islamic autocracies of the Middle East. In fact, Zulfiqar Ali Bhutto says very clearly that, you know, we do not want to be seen as a South Asian country anymore. Our natural inclination is towards our friends in West Asia. That's when the relationship between Saudi and Pakistan and, you know, we've had Mohammed bin Salman coming recently and saying all those things. The starting point for that, in many ways, was the post-1971 war."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:03:40.140",
+        "message": "Stressing the Islam argument rather than the geographical argument. Absolutely. Right. But doesn't it kind of go further back because since the 19th century, there's sort of been this tension within the Indian subcontinent of Muslims feeling, you know, dual loyalties, one to Qom, which is a larger Muslim global nation, so to say, and another to whatever the local loyalties might have been to the nation of India itself. Not that the two are necessarily incompatible, I'm not saying that, but these stresses of"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:04:10.540",
+        "message": "identity have\u2026 Yeah, but I mean, see, the identification with the wider Islamic Ummah is one part of the identity of many Indians as, you know, people have these kinds of identities. But here you are talking about a relationship between Pakistan as a sovereign state and a set of countries in the Middle East, which becomes very strong, you know, or at least that's a building of that. The second, I think, important and in some ways very long lasting consequence of the sort of 1971 war is a nuclearization of the Indian subcontinent, right? I mean, the Indian decision to sort of ultimately, you know, proceed its nuclear program to the point where it can start being tested happens in the aftermath of 1971 against the backdrop of the Americans having sent a nuclear armed aircraft carrier into the Bay of Bengal. So Indians want to be sure that we cannot be sort of, you know, put into that position of blackmail ever again. And even before the Indians do it, and already in early 1972, Zulfiqar Ali Bhutto gets together with the few nuclear scientists that Pakistan has and says that, come what may, Pakistan has to build nuclear weapons. You know, it's in that context that, you know, he says the famous thing about eating grass and all that stuff. So there is that dimension, which is again a reality of the subcontinent as we live with. And the third thing, I think, you know, in a way that is kind of, you know, significant and, you know, really sort of, you know, has had a long lasting impact on the subcontinent is Pakistan's desire to get even with India for 1971, you know, which is still given a sort of as an ideological justification for its support of terrorism in the subcontinent, you know, every sort of loss of innocent life is justified as a sort of some kind of a payback for 1971. But the reality is that for a lot of people, you know, that was a formative moment, you know, particularly for officers in the Pakistan army, you know, I remember, you know, I think it's in Parvez Musharraf's autobiography, he says that he was a young officer when he heard of the Pakistan army surrender. And he said, I just burst into tears, you know, because it's such a humiliating moment for us to be defeated by our, you know, single largest adversary in this way."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:06:07.940",
+        "message": "And quite honestly, any Indian officer would react in the same way if India had to surrender."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:06:11.700",
+        "message": "I'd imagine. And just like the 1962 war has left scars in our collective sort of consciousness. But I think the scale of what happened in Bangladesh was remarkably different, right? I mean, the country was broken up into two. One of the two wings of the bodiless bird. Exactly right. And then you had to sort of begin rebuilding in totally different ways. So I think, you know, it's in that context that I believe that, you know, many of the sort of current challenges that we face in the subcontinent in terms of India-Pakistan relations, the way the subcontinent relates to the wider world, all of which were decisively shaped by this crisis of 1971."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:06:46.860",
+        "message": "So you know, this episode has already taken more than two hours, you know, the Bangladesh war could have been over in this time. So I'll ask for your last comments as, you know, people often say history doesn't exactly repeat itself, but it rhymes. So looking back on all the flow of events that led to the Bangladesh war and everything that happened, are there any lessons of history that you can extrapolate to the current day that you wish that politicians in South Asia were more aware of?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:07:18.020",
+        "message": "Well, you know, in a sense, history doesn't offer any lessons, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:07:22.940",
+        "message": "Historians only do. Well, you're a historian."
+    },
+    {
+        "speaker": "Guest",
+        "time": "02:07:25.260",
+        "message": "So yeah, and I'm one of those historians who actually has a bit of a suspicion of any straightforward lessons to be learned from history, so to speak. But I think what the Bangladesh crisis does tell us, and it's kind of worth remembering, you know, even as we are sort of talking about this episode, India and Pakistan are in the middle of another kind of a crisis and so on, is that no subcontinental crisis is ever a subcontinental affair. There will invariably be wider geopolitical forces, which will impinge upon the way that we act, right? And much as we would like to believe that, you know, we are a strong power, we are capable of sort of acting on our own and so on. These wider geopolitical factors and the way that they shape outcomes and events in subcontinent are always worth bearing in mind. And what is also more important than it was even in the context of 1971 is that the subcontinent, particularly India today is sort of, you know, connected to the rest of the world in a much more deeper way, right? And those kinds of issues will also bring their own sort of considerations and pressures to bear on anything. So the only thing I will say is that, you know, perhaps the most important thing is to understand that, you know, the subcontinent is not some kind of island unto itself, right? I mean, you know, what happens here, the politics, the dynamics of India, Pakistan, or even other kinds of regional crises are invariably going to shape by sort of the wider global context. So I think even as we are trying to make sense of some of our current things, it is always useful to bring that frame into mind while we are sort of trying to figure out, you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:08:56.260",
+        "message": "where things are going today. Thank you for your time and your wise words, Srinath. Thanks for coming on the show. Thanks. Thanks for having me. If you enjoyed listening to this episode, head on over to your nearest bookstore online or offline and pick up Srinath Raghavan's fantastic book, 1971, a global history of the creation of Bangladesh. Unputdownable. You'll read it in one session. You can follow Srinath on Twitter at Srinath Raghava 3. At Srinath Raghava 3, that's his name only instead of the last letter, there's an N. You can follow me on Twitter at Amitvarma, A-M-I-T-V-A-R-M-A. And you can browse past episodes of the Seen and the Unseen on seenunseen.in and thinkpragati.com."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:09:35.660",
+        "message": "Thank you for listening. and country. Yes, talking about everything from their startup challenges to what they're building and all the future of technology right here. So catch us on the IVM Podcast website, app, or wherever you listen to your podcasts from."
+    }
+]

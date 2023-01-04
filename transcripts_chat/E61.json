@@ -1,0 +1,522 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "If a tree falls in a forest and no one is around to hear it, does it make a sound? The philosopher George Berkeley first asked this question in the early 18th century and a modern equivalent of it might well be, if you don't possess an ID card given by the state, do you even exist? This is a poignant question for many people, which is best illustrated by the story of Lal Bihari. Lal Bihari was a farmer from Azamgarh in Uttar Pradesh. He was born in 1951 and when he was 25 years old, in 1976, he was informed by a government official that he was dead. Apparently, his cousins had bribed a government officer to get him declared dead so that they could usurp his land. So now Lal Bihari told the officer, but I am here before you, you know me, I have met you before. The officer wouldn't listen. There weren't any documents to prove that he existed. So Lal Bihari now realized that to prove that he existed, he would have to get his name in the official records. He threw stones at a police station so that he would be arrested and his name would be on the records. No luck. He kidnapped his cousin. No one seemed to care, so he sent the boy home with an ice cream. He applied for compensation for his alleged widow. He organized his own funeral. And finally, he stood for elections against VP Singh from Allahabad in 1988 and Rajiv Gandhi in Amethi in 1989. He lost both elections. He was still dead. By this time, he had formed the Uttar Pradesh Mitak Sangh or the Dead Man's Association of Uttar Pradesh. They had 20,000 members, people who had been declared dead and did not have an ID with which they could prove their existence. Lal Bihari himself won a court case and was declared alive in 1994, two decades after being declared dead. But this land is still full of the walking dead. And my point in telling you this story is not that ID cards are a good thing. It's the opposite. My point is that no government should ever have such power over its citizens."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:09.920",
+        "message": "Welcome to the scene and the unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:19.520",
+        "message": "Welcome to the scene and the unseen. My topic for today is Aadhaar and my guest is my old friend Nikhil Pawar of Media Nama. When I started blogging a decade and a half ago, Nikhil was one of the early friends I made. In those days, he was a young roly poly cherubic N2 cutlet with a permanent smile on his face. And he's still a young roly poly cherubic N2 cutlet all these years later, except that now he is also one of the most formidable warriors of freedom in the online space. Nikhil runs Media Nama, a highly respected media company and has been a prominent digital activist, most well known for his Save the Internet campaign and for spearheading the fight against Aadhaar."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:02.520",
+        "message": "Nikhil, welcome to the scene and the unseen. Thanks Amit and thanks for the great intro. It's great to be talking to a friend about these issues because you know, that's when you're most comfortable and we can have a great conversation, I hope."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:15.200",
+        "message": "I want to make this episode a sort of a beginner's guide to Aadhaar to people who hear that term bandied about but aren't really sure what it is apart from just an ID card, which, you know, as you go on to enlighten us, it's not an ID card at all. But can we start by talking about all the various objections that you have to Aadhaar?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:34.200",
+        "message": "So there's a long list of them. But the first part is that the idea that this is a national ID is a misnomer. Because it's not national. It's a resident ID. If you are in India for 182 days or above, you can go and get an Aadhaar. Which is why an Uzbek citizen in, I think, Vishakhapatnam had committed a crime and she was caught with an Aadhaar card not in her name, in a fake name, in a sense, right? There was a Pakistani national in Pathankot who was caught with an Aadhaar card as well. So any foreigner who stayed in India over 182 days will need an Aadhaar card effectively if they want a bank account, if they want a working mobile connection. So it's not a national ID because anyone can get it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:24.440",
+        "message": "In fact, that means it's a very weak form of ID because even like a passport or a driving license is a far better form of ID having gone through verifications. And you know, if someone has an Indian passport, you know, they're an Indian citizen, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:36.120",
+        "message": "So the other part of it is that it's also not an ID because there is no verification. So what happens is that when you get an Aadhaar and I haven't gotten one and you haven't"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:45.640",
+        "message": "neither have I."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:46.960",
+        "message": "So essentially what happens is that you go, you take an existing ID and they take your fingerprints, they take your iris scan and they give you an Aadhaar card after a particular period of time. There is a journalist called Devayan Roy who works with CNN and IBN and he went through this process, realized that there was no verification that's taking place. So he got an Aadhaar card made in a different name. He went to the verification center and he got, they made a fake driver's license for him I think. And so both got submitted at the same time, his actual submission as well as his fake one. Wow. So he reported it and the UIDF filed a case against him. What happened eventually was that they granted him an Aadhaar in the false name. So Devayan, now it's sad because Devayan is in court trying to get his Aadhaar in his own name. And you know, I asked the UIDF CEO that question at GCCS, which was a global conference taking place in Delhi. And he laughed and he said that, you know, I'm saying that he will be stuck with his name for the rest of his life. And this is the beauty of Aadhaar that if you get it in the wrong name, you're stuck with that name for the rest of your life. He said his words were that, you know, his child will go to school and say that my papa's name has changed. I mean, that's disgusting. But it is what it is. And it shows the mentality of the UIDF when it comes to these issues. But the point is that anyone can take any ID and get an Aadhaar made in that name. Now there are criminals who may have potentially changed their name now and now have a clean record and there's no way of knowing that. So you know, really when you look at Aadhaar from this perspective about being an ID, it's not really an ID, it's more of a proof of authentication. It's a proof that your fingerprint is connected to this Aadhaar number or not. But there is no verification. A passport is a better means of verification. You have cops who come to your home, they talk to your neighbours, there's some amount of physical check that takes place before you get a passport. The scale at which Aadhaar has been implemented, it was impossible to do that. The pace at which it was being implemented, there's a large number of fakes that would have been created. So that's another problem with Aadhaar that there were about 49,000 enrolment agencies whose license was cancelled for violation of processes when it came to the creation of Aadhaar, including one that was storing biometrics and effectively using replay biometrics which generate new Aadhaar numbers because they were being paid per ID generated. And so the incentive structure was created in a manner that they would create more enrolments and there was no way of checking this. I think the whole system is flawed in the way it has been developed and there's a Silicon Valley philosophy that goes move fast and break things. There is an agile development sort of approach which says that start and then keep iterating and keep improving. But when you're looking at something of a national scale that impacts the lives of people, I think the philosophy we ought to have is move slow and fix things. You know, you have to be deliberate, you have to be conscious, you have to monitor and you have to fix these problems before it impacts a large number of people. In this case, the rush to just get more and more people on board and this is something which Nandan Nilekani has talked about, which is that if you move so very, very quickly in these things, the opposition does not have time to consolidate. So by the time they realized what was going on, these guys had moved much further ahead."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:47.340",
+        "message": "Did he say this approvingly?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:49.260",
+        "message": "I think he said this as a strategy that they deployed because there was opposition to Aadhaar from the very beginning as well. So I'm saying that this is the negative outcome of the problems that we're facing now is an outcome of the rush. So that was another point that I wanted to make about how not to create a national ID is, haste is bad. You are going to mess up people's life if you do that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:15.580",
+        "message": "And the thing to remember is that there is so much at stake, like, it makes me really angry when you just told me, you know, what the UAE IDI chairman said about, you know, Deba and Roy being stuck with a fake name forever and almost a sense of Schadenfreude that he kind of expressed is that they control the lives of the people. This whole approach that the people belong to the state and we can do what we want with you. Like, you know, I started my show with an intro about Lal Bihari Mirtak who you must"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:39.660",
+        "message": "have heard of."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:40.660",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:41.660",
+        "message": "And, and that attitude just infuriates me. No. And therefore, this is also about, so, is us as citizens and as people being deprived of agency. Right. We are not given a choice about whether we want an Aadhaar or not. And so, you know, I think there's, this is one of the challenges that we face and this is why there's a great deal of anger amongst people right now, because you're constantly bombarded with messages about having been forced to link it. The question that I would like to ask is how many people who've gotten an Aadhaar actually"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:10:16.700",
+        "message": "wanted to get one?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:18.180",
+        "message": "And how many have been forced to get one? And by making it mandatory for so many things, you've effectively forced, like, I know, students who didn't want one but had to get one because they wouldn't be allowed to sit in exams if they didn't have one. And how do they feel about this is something that we have to take into account. And this is an argument that's also being made in court, that it's, we have the right to informational self-determination, which is that we have the right to choose what we want to do with our information, who we give it to. And by being forced to get an Aadhaar and being forced to give this information to the government, we are being dropped off our agency. What's happening with Aadhaar in this case is that it is, it's taking your and my personal information, converting it into a public asset, and then privatizing it without us having a choice. So, for example, the National Health Information Network is probably going to get rolled out next year with Aadhaar linked electronic health records. Last year, Viral Acharya, the deputy governor of the RBI spoke about the creation of a public credit registry, which then startups can build businesses on top of, saying that the baseline of personal credit information, the financial transactions that we do, will be provided by the government. And then they can add their own data sets on top of it to provide you more granular services. Now, this is good, but the question is, where is the agency here in the sense, do we have choice? Are we giving consent? So we're being forced to part with our data. And the idea is to build businesses on top of that data."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:03.940",
+        "message": "And then what I keep telling people is, you know, whatever you say about Aadhaar, my fundamental objection to it, as you correctly nailed right now, is a question of consent. It's a coercion that we are forced to take Aadhaar. You know, you might say it's insecure or it's not insecure or whatever. But if you have the agency to be able to decide, that's fine. And the whole Aadhaar imbroglio, in a sense, illustrates the perversity of what the state has become. The state is ideally there to protect our rights and to protect our property. But now what is happening is, I am told that if by 31st March, I don't link my Aadhaar to my bank account, they could freeze my bank account. The government is there to protect my money, not to, you know, I mean, is basically theft if not destruction."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:46.380",
+        "message": "No, and what this does essentially is that it's changing the relationship between the citizen and the state, because of all the information that they're now able to collect on you. Right. So if you go back to the idea of Aadhaar, I think you need to look at it from a mass surveillance perspective. So about, I think, five, six years ago, we heard about this project being rolled out called NatGrid, which was a national intelligence grid, effectively. And the idea was that it would connect 21 databases together. So your bank, your mobile, etc, all of these things. Now, you know, if you think about it, an Amit Sharma in one database is not going to be an Amit Sharma in another database, right? The de-duplication is very difficult, because the names are going to be, are the same across. John Smith, you know, from that perspective. What the Aadhaar number does is it de-duplicates these databases. This two of NatGrid, at least from what I've read, is going to have 955 public and private databases. So every aspect of your life, every interaction is going to effectively become an Aadhaar linked database, which will then be available to the state when they want to glean information about you. Now, zoom out and look at the impact that can have on a democracy, and that impact that can have on an individual's agency, if the state has that much informational power over them. And so these are very dangerous times for us as citizens and for our rights. Also for the opposition parties, because you know, this government may not be that bad, but who knows five governments down the line, you will have a totalitarian entity that uses this information to effectively change the course of history forever."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:32.740",
+        "message": "I mean, every individual should just think of the government in power as being the absolute worst that he can think of, whatever that might be. And you give them this much power. And you said earlier that this reverses the relationship between the citizen and the state. I would actually say it illustrates it. And in the sense that it's pretty much been this way that the state has treated its citizens as its subjects. And the difference of Aadhaar and the control that they have over our lives, because our data now belongs to them, is that the state is empowered, like typically, you'd imagine that in these modern times, technology empowers individuals. But here you actually have Aadhaar empowering the state against its individuals instead"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:12.300",
+        "message": "of, you know, protecting the individuals. So one of the arguments that's being made is that Google has your data, Facebook has your data. That's voluntary. So one part is yes, that is voluntary, but also they have a lot of data about you. So you know, we're in an era where all of these entities have a large amount of information about us. But we really have little control over information that is us. In the sense, in today's day and age, we are data, you know, we, every single activity that we do generates data. You have, people are talking about the quantified self with, I mean, I have a friend who stuck some device in his arm, and he uses it to monitor his blood sugar levels, that's going to an app. So we're generating truckloads of information about ourselves and we'll continue to do that. The power equation with the platforms is also something to consider. So the state's solution for dealing with that changing power equation, and these platforms like, you know, whether it's Google or Facebook or it's Amazon, it's Microsoft, Tencent, Baidu, the state's solution there is to, hey, give us your data as well, so we'll also use that. So we're effectively in a situation where there is a global market failure in data protection and privacy. And the solution to that problem shouldn't be more data."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:31.860",
+        "message": "It should be giving us more control over our data. In fact, the fundamental role of the government should be to protect the rights of its citizens, and therefore the government should be putting that data, those data protection laws in place rather than trying to exploit its absence."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:45.460",
+        "message": "So this is one of the problems with Aadhaar, that Aadhaar was brought in through an ordinance initially, without a privacy law in place, there still isn't a privacy law. The current committee that's looking at the privacy law is essentially, it has people who've argued against a fundamental right to privacy in the Supreme Court, right? It has a CEO of the UIDA and the UIDA is really not one that's going to uphold privacy the way it's operating right now. So we have a problem here that we don't have a data protection law, Aadhaar, even when it was taken through Parliament, it was taken as a money bill, with the Rajya Sabha having no role except making recommendations which the Lok Sabha rejected, because the current government has a majority in the Lok Sabha. And those protection requirements were actually fairly good in the sense you had, one was for the definition of national security, because in India, there is no definition. So the state has complete freedom in terms of who, under what causes it goes and snoops on someone. You know, there was purpose limitation, which was another solution where you can only limit it to a few select services, and not build a whole private ecosystem or enable a whole private ecosystem on the basis of our data. So checks and balances were essentially rejected in Parliament. And therefore, even from like, it's almost been a journey of the state constantly trying to hoodwink its citizens over the last few years. And this is not just the BJP, by the way, it happened with the Congress as well. It's a DNA of the state. It's a state. And so I'm very worried about where we're going with this and how the future is going to be, if this is allowed, because, you know, I don't, I don't, I'm not sure whether the Supreme Court judges really realize the ramifications of what they're dealing with over here. We got a great judgment in terms of the fundamental right to privacy. But the way it looks at, there were exceptions that were brought in, especially for welfare. And that's what the lawyers, some lawyers that I've spoken with seem to think that, that is a means of justifying Aadhaar. So we don't know where this case is going to go, but I think it's pretty worrying."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:01.860",
+        "message": "Let's move on with your laundry list of objections to Aadhaar, which I know is a long one."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:05.700",
+        "message": "It's a long one. So the other is that, actually, this is about the permanence of the Aadhaar number, which is a single permanent number that is you effectively, and the permanence of biometrics as a password. Now that's just stupid, because if, imagine having an email address with a permanent password that you can't change. Mind boggling. So this is, and, and what's happened over the past few years is that government departments have been leaking Aadhaar numbers and a lot of personal information by the millions. I mean, a CIS report pointed out that only about four schemes had, have had details of over 135 million people. And all of this is available on Google search."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:56.740",
+        "message": "So sketch out a scenario for me, what happens if some, what can, what can go wrong if someone's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:01.820",
+        "message": "Aadhaar number gets leaked? First, let me tell you what information it had. Because I've seen some of these Excel sheets, because government departments uploaded Excel sheets with personal information on their websites. And you had to do a Google search for a file type xlsx in quotes Aadhaar number, and you would get some of these sheets, which you can download and get people's personal details. So they had Aadhaar number, bank account, address, date of birth, father slash spouse's name, you know, gender in some cases, caste and religion in some cases in Excel sheets."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:41.540",
+        "message": "So spell out for me, what can go wrong when this kind of data gets released or falls into"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:45.980",
+        "message": "the wrong hands? So, one is of course targeting, you know, if as Aadhaar gets linked to more and more things, individuals can be targeted in a manner which is predatory. And we've seen some of this happen, because the information that's being leaked where you had a situation where people were getting phone calls saying, I'm calling from so and so bank, is this your Aadhaar number? Is this, is this your bank account number? I'm sending you a verification code because you have to link your Aadhaar to your bank. And then people would give that detail and they would find that money's been transferred"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:19.660",
+        "message": "out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:20.660",
+        "message": "In fact, this happened to a member of parliament in Punjab, as well. I received a call in fact, and I have the audio of that because I recorded it, where, and it wasn't Aadhaar related, but because I don't have an Aadhaar, but it was related to PhonePe, which is a UPI payments app, which I use. And so the person didn't realize that I know about the payments ecosystem. He said, I'm sending you a verification code. When I looked at my phone, it was a password reset code. And so for most people who can't understand English, and because this, they're going to give this information away, because they think that the person who's calling them is legitimately calling from these places."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:03.140",
+        "message": "And how did you realize it was a password reset code? It would have just been a number, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:07.500",
+        "message": "No, it said your password reset code, so credit to PhonePe over here. It said your password reset code is so and so. So I think, but again, it was entirely in English, right? So you know, and so we are going to face problems because there are issues of information asymmetry and bounded rationality. And people may not understand the implications of what they're doing, and they might find that money's been funneled and they've been wiped out."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:33.300",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:34.300",
+        "message": "But they still have their Aadhaar number, they still have their Aadhaar number. So again, so going back to the issues, one major problem is a centralization of all this data in a single database. And so what we found a month or so ago, there was a story broken by Rasna Khera of the Tribune, where she was added to a WhatsApp group of people who were allowing, who were selling access to the Aadhaar database. So what the government had done was they had made some village level entrepreneurs at some common service centers, customer support people for you know, people who walk up to them saying we have these issues, etc, and that allowed access to the Aadhaar database. They were selling access to the database at 500 rupees a pop. And they were doing that because there were no checks and balances in place in terms of permissions. So you know, if you use WordPress, you have administrator, editor, contributor, etc, etc. So here's the thing, WordPress was started what in 2004-2005, WordPress then had a better permission architecture than Aadhaar does today. And so people who've got access get access to the entire database. From a centralization database, the other issue is that if it gets compromised, if access gets compromised, the access to the entire database gets compromised. It's not in silos, it's not like as per district and you have limited amount of access. So it's a bad idea because it creates a single point of failure. The other single point of failure is the Aadhaar number itself, because it's a unification of an identity into a single number. So you know, today you can give your driver's license somewhere as an ID proof, you can give your PAN, you can give your Aadhaar number. If you have federated IDs or separate IDs, then there is a certain amount of security that comes in because only one part will get compromised. Sometimes if people take a driver's license, they don't know what that is ID proof for. Correct. Right? No one knows what you've given as an ID proof for your bank. It could be one of multiple things. But if there's a single number that is the ID proof for everything, and remember, it's not an ID proof, right? It's effectively it can compromise you across the board. Once someone has your Aadhaar number, all they need is your biometrics, or they need an OTP. OTP is easily hackable. And biometrics have been cloned from fingerprints. There were school students, I think the college students in Bombay, who found faking attendance because they had cloned fingerprints and you had attendance based on fingerprint authentication. In Surat, biometrics were being sold, biometric databases were being sold. And I saw this photograph of a pink thumb impression, which someone could just take and put on a authentication machine. So again, because you're using biometrics and biometrics have been cloned, the iris has been cloned, the fingerprint has been cloned, a face ID is even easier to clone from from photographs. You are going to have problems going forward."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:54.900",
+        "message": "No, and also, you know, if any system can be gamed, it will be gamed. And here you have a government which is building a system and the government is always going to be staggeringly incompetent at this. And the ingenuity we have in our country, we can game anything. You put the two together, and it's a recipe for disaster."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:12.180",
+        "message": "And we've seen multiple instances of that. So again, from a security access perspective, in UP, there was a case where people had cloned fingerprints and they were generating Aadhaar numbers and they were selling that software bypassing the iris authentication for an enrolment officer by essentially patching the Aadhaar enrolment software."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:36.380",
+        "message": "Because of bad incentives, they were paid by the number of Aadhaars generated."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:40.780",
+        "message": "Exactly. Again, right now it is enrolment. Once enrolment is finished, if, let's say 100% or given that they're probably fakes in the system, 106% of this country is enrolled, then you will find other scams emerging bit by bit. We don't know the scale of this problem. And there are, like I said, 49,000 enrolment agencies whose license was cancelled. And we don't know how many fakes there are in the system right now. For all those people who were enrolled by those agencies, have they been re-enrolled or not? Is there any information to that effect so far? We don't know. And that's again because of a lack of transparency from the UIDAI. They are repeatedly rejecting requests of right to information. So they have something to hide it seems. But again, going back to the earlier point about this relationship between the state and the citizen, we're in a situation where transparency is expected of citizens but not"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:44.700",
+        "message": "of the state. Yeah. And there are millions of common citizens who are victims of this. And you know, you spoke about Debayan Roy and obviously he's privileged enough that"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:27:55.780",
+        "message": "you were speaking about him and asking questions about him."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:58.180",
+        "message": "But most common people have no recourse at all. They may not even know English. They may not know how to negotiate the system in any way whatsoever."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:04.260",
+        "message": "And I don't think, I mean, there's a separate debate to be had on the state of media and the economic health of media in this country right now. But really, most publications don't have people who can go out into the villages and see the kind of problems that they're facing. Scroll has done some great work on this. And one of the one of the main issues that's coming up is exclusion. So you know, I'm a ghost right now and I'm assuming so are you because neither of us"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:31.940",
+        "message": "have either. Exist. Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:34.940",
+        "message": "And the problem right now is that for a lot of people, especially in Rajasthan and Jharkhand where it's been made mandatory to the greatest extent for getting welfare, old people, daily wage laborers whose fingerprints either change or don't work or there isn't sufficient connectivity, they're not getting their welfare. So and there are people, instances of people who have died because they haven't gotten it. Think of an 80 year old woman who had to now has to go 20 kilometers to authenticate with her fingerprints that may or may not work and then therefore has to go repeatedly. Whereas earlier she could have given her ration card to a neighbor to go and get that. Now and there was pilferage that was taking place earlier. But there are also instances emerging in news reports of people, you know, for whom the fingerprint authentication has failed based on what the person who's giving rations is saying. And what they found is that that authentication actually worked and the rations were essentially pilfered out. So it's not really affecting pilferage or stealing of rations as much because you may have authentication that's taking place but you're not able to address quantity theft. So as an effective mechanism, it's not really working and even the numbers that they're talking about have been overstated. We've done detailed analysis, Anand Venkatanayanan is a person who's done detailed analysis on how the numbers are overstated by thousands of multiples, I mean, where it might be about 150 crore in savings is being posited as 49,000 crores of savings or something like that. So again, because there is lack of transparency from the government and because there's also attribution to Aadhaar where it shouldn't exist, for example, in case of West Bengal, ghosts and fakes were effectively removed through door-to-door surveys. But the savings from what we understand are being attributed to Aadhaar. So it's essentially, right now the system is geared up towards doing anything possible to save Aadhaar."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:45.620",
+        "message": "And again, within the welfare delivery system, it's had the effect of empowering the rent-seekers, which is the opposite effect that you'd want. But you know, just more than that, you know, people have died because they haven't got admission to hospitals because the people demanded an Aadhaar card. We've heard horror stories like that. And there is a moral cost to that. And it infuriates me that people sitting in air-conditioned cabins in Delhi treat this as collateral damage, you know, much as it did during demonetization. Talking about vague long-term benefits while there is actual suffering happening on the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:16.660",
+        "message": "ground. But I think that's kind of the state of political discourse today, that growth at any cost and people are being seen as collateral damage and you're trying to digitize the economy by forcing people into it. See, I'm, I'm someone who loves tech, I've covered the space for 12 years, love the internet. I've always been idealistic about the role that technology can play in the sense, even Medianama is built on this idea that our role is to help enable an open, fair and competitive digital ecosystem in the country. So I love the space. But really what turned my thinking around Aadhaar was this, this was around demonetization and digital payments and when people were primarily talking about forcing change upon the country, almost like it being, so, you know, I likened it to white man's burden as digital man's burden, that it is the role of the digitally enabled to force everyone to become digitally enabled. And that's not the, that's not how I became digitally enabled. It was by choice, it was his agency. And so there's a philosophical shift that has taken place where those who've benefited from it feel that it's their job to force others to conform to it. And because it brings in efficiency and savings and power for them, but I think this is largely about power."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:43.620",
+        "message": "And it's very interesting, you'll hear supporters of Prime Minister Modi talking about how they hate communism and so on. But all of this is right out of Chairman Mao's playbook. You know, the mass coercion during the time of demonetization, the kind of social engineering that is being attempted in various ways of which Aadhaar is a phenomenally powerful tool."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:03.540",
+        "message": "Well, if you if you look at the removal of agency, the one aspect that really stands out is in the Aadhaar Act, where if your data gets stolen, you can't go to court. My God. So the law disables you from going to court, only the UIDAI can go to court. Now, why would the UIDAI go to court against another government department? So far, they've only gone to court against journalists and researchers who've pointed out issues with Aadhaar, which is again a wrong thing to do, because it shoots the messenger. But they've not gone to court against at least 216 websites that were publishing Aadhaar information, even though the Aadhaar Act doesn't allow it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:48.180",
+        "message": "And the thing is, you should have, if your rights are infringed, you should be able to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:51.340",
+        "message": "go to court on your own behalf. It's not just that, what, what that system, if you're able to go to court, it helps correct the system. Right. So effectively, Aadhaar is not going to get fixed unless someone goes to court. If your data gets stolen, and you go to court, it forces people to make the systems more secure because they might get fined or someone might get jailed. But now those incentives don't exist. Exactly. So, so, so that's, and I think from what I remember, when, when Ravi Shankar Prasad, the IT minister was asked about this in Parliament, I think he said that, you know, if we do that, then there would be too many cases, which is almost an admission of a problem."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:31.380",
+        "message": "Yeah, which also indicates his government's unceasing focus on optics. They don't care what really happens. They just care how it's reported."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:41.220",
+        "message": "Well, I don't know about that aspect of it. But from one of the things that I've noticed is that there's also a great deal of lying that's going on, like this constant refrain that there has been no breach. And that's optics effectively, right? But the fact is that a breach is unauthorized access. So if Rasna Khera of the Tribune was able to get unauthorized access to the Aadhaar database by paying 500 bucks to someone, that is a breach. You know, if let's say Abhinav Srivastava, a developer in Bangalore, was able to access the Aadhaar database, because NIC, a government body was running access to it on HTTP instead of HTTPS. And it's a non secure connection, which can effectively data can be taken from that. That is a breach. If biometrics have been cloned or being sold, that is a breach. So you know, I think by denying that there's a problem, we're not going to solve it. Because, you know, if you think about it from a governance standpoint, the first part of the solution is to accept that there's a problem, then it is to involve the right minded stakeholders in trying to figure out the source of the problem, trying to find out the solution. And it and then solving it, and also informing about solving it and bringing in processes of transparency, so that there is accountability in the future. None of this is happening right now. And so we're just digging ourselves a deeper hole by denying that the problem exists. So you know, another part of the problem with the way Aadhaar is being run is that there is no monitoring mechanism. There is only there's only an audit mechanism, which means that someone has to do an audit to find a problem. Now, nobody seems to be doing that audit because journalists and researchers are finding problems, and the UIDA goes and sues them for it. If that problem hadn't been reported by a news agency, the UIDA probably would never have known about it and the leaks would have kept happening."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:50.140",
+        "message": "And you're actually disincentivizing people from finding the problems in the system you're supposed to run."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:55.180",
+        "message": "Absolutely. But more, I mean, it's just as important to remember, if there is a problem, and nobody reports it, going back to your tree falls in a forest example, who knows, there is probably data leaking everywhere that we don't even know about. So that's why you have researchers, there's some anonymous Twitter handle called F society right now that is, that's effectively, constantly, almost on a daily basis pointing out issues with Aadhaar. Because an anonymous handle probably has a better chance of doing that. Because if an Indian handled it, they'd probably get sued or they get put in jail."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:32.860",
+        "message": "Yeah. So I have a sneaky feeling that anonymous handle is also a ghost like us."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:38.020",
+        "message": "No, but, you know, so going back to the agency issue, the UIDA under the Aadhaar Act can also cancel your Aadhaar number for any reason they may deem necessary. And do you have recourse, can you go to court? I'm not sure about the recourse part. Because if you think about it, only the UIDA can go to court."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:00.860",
+        "message": "Yeah. And also only even if everyone could go to court, only the incredibly privileged people like us would actually be able to do so at a practical level. Most people in this country, they don't really have that option."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:11.220",
+        "message": "I mean, but you know, they also don't have it easy even getting an Aadhaar number. So you know, you've seen instances of enrollment agencies because of the atmosphere of desperation that has been created by the government, having to pay bribes to get an Aadhaar number. It's supposed to be very cheap, but the people who've had to pay 300, 500, 1000 bucks to get an Aadhaar number. And this is essentially rent seeking that's happening at an enrollment level right now. There will probably be rent seeking that will happen if you need to get some data changed. So we don't know where this is going, but really that's where the corruption has come in. If you look at it, Aadhaar has effectively enabled corruption at that level, even though the state may not see it as that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:58.220",
+        "message": "I mean, as the old saying goes, power corrupts. So the more power you give, the more corruption you will have. That's a truism."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:05.660",
+        "message": "What else is in your laundry list? So one of the things is that the people who've already been compromised forever. And so that's one of the problems I have with Aadhaar, that the leaks have happened at such a large scale that we really don't know what to do about it. So if someone's actual information about their bank account number, Aadhaar number, religion, address, date of birth, father's name slash husband's name, if all of that identifiable information that can be used to compromise them has been put in the public domain or has been leaked, how do you protect them? What do you do for them? They're compromised for the rest of their lives."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:52.180",
+        "message": "That ship has sailed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:53.180",
+        "message": "They're just unlucky. They can't do anything. I'd love suggestions on how we can fix that now. I don't know. So the way I look at it is that this is an increasing problem. And we need to suspend Aadhaar right now to mitigate the problem. I don't know if we can solve it. But at least for the time being, we need to recheck our processes. We need to figure out where all the leaks are happening. And you can't do that with an ongoing system because, you know, it's like you plug one hole and then you suddenly realize there's another one, there's another one, there's another one."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:27.140",
+        "message": "This is not something that can be done live. First you plug all the holes, then you think about repairing the wall at a fundamental"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:31.540",
+        "message": "level. Right. And that's what, so we first need to suspend the project and figure out where all the problems lie. You know, so I also mentioned about not being able to count the fakes in the Aadhaar system because there is no way of knowing if you've created a fake Aadhaar number or an ID. You will never know. In fact, you can essentially take a photo of an Aadhaar card, put in any random number, put in your photograph, put in any random name and it's an Aadhaar card. And most people will accept it as a proof of identification because of the environment that we've created where it's acceptable. So you know, in most countries they have chips and that chip is a means of authentication. You can't really put in a fingerprint scanner everywhere and I don't think people should be going and scanning their fingerprints everywhere because it's so easy to clone fingerprints. Like you know, someone can just place a machine before you, you put your fingerprint, you put your thumb on it and they say, oh, this one didn't work and they put another one and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:38.340",
+        "message": "that works. Yeah. And they could have just cloned it for the first one."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:41.340",
+        "message": "It's the same thing with credit cards, the way you clone it, yeah. So the other problem is that 15 states have already taken copies of the Aadhaar database under something called the SRDH or the State Resident Data Hubs. Now in Andhra, what we've seen is that all sorts of information is being linked to it. So you know, the UIDA and Ravi Shankar Prasad have gone out and said that we're only collecting demographic data, which you would give to your bank or your mobile operator and stuff like that. But at the state level, they're linking stuff like traffic violations to it. They're linking property records, petty crimes information, and this is happening in case of Andhra Pradesh. Now what you develop effectively over a period of time when you start collecting and linking all of this information is you get a 360 degree profile of each single individual. And that kind of data in the hands of a state is very dangerous, you know, because historically even income tax records have been out of bounds for other government departments. So the silos that existed, which protected us, are now being broken through the creation of the centralized database. And so the scale of the problems that this is going to cause is something we don't even realize right now. It's difficult to comprehend because there are also no checks and balances in place. So many of these states don't have a state level Aadhaar Act to regulate the collection and sharing of this information. Now one argument that UIDA is making is that the Aadhaar Act also applies to the states, where the states already have collected way more information than the Aadhaar Act allows the central government to take. So the ambiguity is actually there right now to be misused."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:31.900",
+        "message": "And just thinking aloud, the political repercussions of this on our democracy can be staggering. I mean, just to take two examples, in 1984, we now know that a lot of the rioters had electoral rolls, by which they identified which house the people they wanted to victimize lived in and they just went door to door to those houses and, you know, and that is just a very limited set of data and the damage it caused. And equally, you saw recently how T-Star Settle Wards credit card details were leaked out at a government press conference where they said that, listen, this woman spent her, used her credit card to buy alcohol, as if buying alcohol is a crime. And the fact is that data should not have been out there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:14.700",
+        "message": "Exactly in what right does a government have to release that data in the first place?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:17.620",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:18.620",
+        "message": "I mean, they should have the data and if they have it, you know. So that affects the opposition in a democracy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:26.980",
+        "message": "And it has a chilling effect on the opposition as well. If you know your bank account can be freezed, if your entire life can be shut down."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:32.660",
+        "message": "Well, look at it from another perspective, right? The beauty of digital is that the data is digital. And so therefore, the data can be manipulated. Exactly. So if, let's say, there's a murder that's taken place three, four kilometers from here, how do I know that Amit wasn't there? If his location data puts him there, if he's done a credit card transaction in the same building at some stop on the ground floor, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:59.280",
+        "message": "So these are things... You think you're giving ideas that will get me into trouble, buddy, you've got more enemies than I do right now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:05.220",
+        "message": "Well, so just going back to that last example, the other thing you have to keep in mind in terms of the databases that get created is that there is no control that the UIDAI has on private databases. So through this AKYC mechanism, which is why I started off by saying that this is the conversion of personal data into a public asset, and then privatized, is that private agencies are now and private entities are now creating their own databases built on this information. And so what we saw, for example, in case of Reliance Jio and the data that had leaked last year, was that someone launched a site called magicapk.com, because there was a vulnerability at some vendors database, I mean, this is what I read in the news reports, at some vendors code side that Jio had given them access to. They started a site where you had to put in a mobile number and they would give you demographic details. Now, the Aadhaar number area in that was kept blank. So I'm not sure whether they had access to it or not, but who's to say that there won't be other players that might actually store that and add more information? And how does a UIDAI keep this data secure after it has left the UIDAI? See, when you do a credit card transaction, you know that, you know, Amazon sometimes stores your card, you can allow, sorry, you can allow Amazon to store your card details. But Amazon goes through this compliance mechanism called PCI DSS, which is a data security standard that it has to follow in order to be allowed to store the data. In case of Aadhaar, I don't know if there is a mechanism to actually check whether people are maintaining certain data security standards or not. And given the way NIC has given access to the database on HTTP, and NIC is both an AUA, which is an Aadhaar user agency and a KUA, which is a KYC user agency, which again can share demographic information. I don't think it's following the protocols, but it's a government body, so I don't know what the government is going to do about it. Is it going to cancel the license of another government body?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:15.580",
+        "message": "Highly unlikely. So this is damn confusing, because I see like two contradictory dystopian situations. One situation is that we have a government which is so inept that it is messing everything up and is making a mess of the whole thing. But the other dystopian situation is that if you really look at it, this is if you wanted to be a totalitarian state with everyone's data under your control and everyone's, you know, life one fingertip away from destruction, this is a masterful way of doing it. Which do you think is more true?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:48.300",
+        "message": "I'm not going to second guess in terms of intent of the government."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:51.540",
+        "message": "Fair enough. So I don't know. That is somewhat the effect that it's ending up having anyway. They have all the data, they have complete control, and they have it in extra quick time."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:01.020",
+        "message": "Look, and it is not to say that the intent was bad when it began from that perspective, right? Because we can't, we don't know what the intent was. Like I'm someone who supported Aadhaar when it started, because I saw the massive benefits it would bring in if the KYC costs would be taken on by the government. Because at that point, I remember Nokia had done some presentation which talked about the cost of authenticating each individual was about 270 rupees. And therefore that is a massive cost if you want to bring everyone into the financial system. Now, the government through Aadhaar was taking on that cost, so that you would have financial inclusion that comes in. That's a great idea. But the beast that it has become on top of that, and the repercussions of collection of personal information is something which many of us had not considered. Which is why under the BJP, under Yashwant Sinha, there was this great Parliamentary Standing Committee report that came out, which pointed towards all of these issues. Which brings me to my last point, which again, we learned from that particular report, which was about biometrics being an inexact science. So there are always going to be people who will be excluded, because biometrics are a probabilistic means of authentication. So there will always be false negatives and false positives, which is that there will be people whose fingerprint is correct, but that they're going to get rejected. And there are people whose fingerprints do not match, but they will be accepted. And so, I'd like to see the government actually make Aadhaar mandatory for boarding a flight. Because there will always be someone who will be rejected. And the elitism problem that we have in terms of technologists talking about how probabilistic science is fine, when those guys get denied flights because the fingerprint doesn't match, I think they'll start thinking about things a little differently. I don't think for them it really matters that the people who are not able to get their daily rations or their monthly rations, and the people who are starving because of problems with Aadhaar, because it's not impacting them personally."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:15.700",
+        "message": "But let's make it mandatory for flights and see what happens. And also in this context, you can't talk probabilities. I mean, the duty of the state is to protect every single citizen. You can't exclude anybody to say that a 0.0 whatever percentage is not on, it has to be"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:28.700",
+        "message": "zero. No, no."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:30.700",
+        "message": "So there is always going to be exclusion. Because biometrics are fundamentally flawed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:36.060",
+        "message": "Because biometrics change, because your fingerprints get worn out, because as you age, they change. So you know, where effectively, this idea of having a probabilistic authentication, but also a permanent mode of authentication with biometrics, which can be compromised, is just bizarre. Because if by the way, if there is 100% match, there's probably a fake biometric being used."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:03.140",
+        "message": "So the whole edifice falls apart on this basically. So tell me this, you've, you've outlined a number of problems. And I think any one of them on their own is a disqualifier by itself. And together, they're quite overwhelming. But what are the sort of solutions that you think are possible going forward?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:18.620",
+        "message": "So one is an easy one, which is make it voluntary. If you don't want one, you shouldn't have to get it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:26.140",
+        "message": "Make it, make it mandatory, that ship is sail, right? 900 million people already have it and a lot of the data has already leaked."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:33.460",
+        "message": "So there's another solution. But the other one was make it optional. So Aadhaar should be one of the authentication mechanisms used one of many, so that people can then protect themselves. One is the idea of deprecating IDs, which is that, let's say if your passport changes and the passport number changes. So have Aadhaar deprecate over a period of time so that you have to go and get a new one that's a new number. So your, your, your exposure is limited from that perspective."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:02.260",
+        "message": "Or rather you can get a new one if you want to."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:04.260",
+        "message": "If you want to, of course. One of many IDs in use for any kind of, any kind of authentication. The other is to give users control to change and revoke their IDs. So if I want to change my Aadhaar number, I should be able to change it. If I want to just cancel it and never use it again, I should have the freedom to do so because that also gives people agency. One technical solution which is also being used, I think in Denmark is the idea of using derived authentication or pseudonymization. So the UIDEA initially had this idea of having a virtual ID, which is going to be built on top of Aadhaar so that you give your, instead of giving Aadhaar number at places, you give another ID. Now the problem with the way they're implementing it is that they're only allowing one virtual ID at a time. And the likelihood is that people will not know how to revoke it or change it. And so their implementation is not that great, but let's say in case of UPI, which is the payments mechanism, with every app you can create a new ID. So your bank account doesn't get exposed and one single ID doesn't get exposed. You also need to give citizens a right to legal recourse. If I can go to court, then it forces the system to fix itself because there might be monetary damages on the government or a court ruling might force it to change. You need a purpose limitation for Aadhaar, which is that it should not be linked to or usable for sensitive personal information and you should have a limited use case for which it is allowed. So as not to create a situation where people overexpose themselves or give their Aadhaar number or help create databases at a lot of places. You know, no uses of biometrics whatsoever. That needs to go. And in fact, the biometric data that's been collected needs to be destroyed. Of course, one thing which for this, that ship has sailed, but what other countries that are looking at similar mechanisms can do is that they need to have a data protection law and a privacy law before rolling something like this out. We've obviously done things the wrong way here. We need money to be spent on an awareness campaign and a disproportionate amount of the budget needs to be on that awareness campaign so that people understand what to do, what not to do. They have a ready reckoner for how not to compromise themselves because there is clearly there's information asymmetry. Most people don't realize the impact that this has. These are some of the ideas that I have. The push for 100% is actually what is hurting us a lot right now, because in that push we are more focused on getting to 100% rather than building a system that works."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:00.820",
+        "message": "So tell me something, in your interactions with policy makers, with politicians, with bureaucrats, how receptive have they all been to these ideas of yours? Where is the opposition coming from?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:11.260",
+        "message": "I think one is the sunk cost fallacy, that we spend so much money and therefore we can't destroy it now, which is why these are recommendations for fixing it rather than shelving it altogether because I think shelving it would be a better idea, but in the absence of that there needs to be a mechanism to fix it or at least limit the damage that gets caused. Most opposition members don't like this system because they are also worried about surveillance and exclusion is a very, very big problem that they are seeing in their own constituencies. One of the things again that I forgot to mention earlier about the problem with Aadhaar that it's become a national security risk. So they are also conscious of that because all this data available, accessible with such poor security in place compromises most citizens in this country. Like Aadhaar is the biggest honeypot that exists for any hacker to get into because effectively you can dismantle a country's financial system if you get access to all"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:17.620",
+        "message": "of this data, one way or another. Which seems fairly easy to do, I mean, given the protections in place."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:22.980",
+        "message": "Exactly. So we have a, but at least from the government side, I don't think they're really engaging or they're talking much right now because for them they don't want to admit that there's a problem because that's the way politics currently works. No one wants to admit to having made a mistake. I'm not sure where the Congress stands on all of this because at one level you have Kapil Sibal arguing very well in court, I mean, pushing back against some provisions in Aadhaar. But at the same time you have the Karnataka Congress which is pushing an Aadhaar bill. So you know, I think there is, it's almost two-faced the way they're behaving. We don't have, no one has a solution right now or no one wants to even try for the solution by the looks of it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:11.340",
+        "message": "So Nikhil, I'm going to, I'm going to ask you to sum it up by referring to a quote of yours from a TV interview I saw recently, where you said that the Supreme Court decision about Aadhaar is, quote, the most important decision in our history, unquote. And then you went on to say, quote, what we do, and by we you meant the citizens of India, what we do will impact generations, unquote. These are very big words. This is a very, very big issue. The consequences are very momentous."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:41.660",
+        "message": "Sum it up for me. No, I think that the amount of data that we're releasing right now through this, and remember this is, Aadhaar is going to get linked to the DNA database when it gets created, once the DNA bill gets passed, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:55.500",
+        "message": "So like you said, our lives are data, we are data."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:58.060",
+        "message": "Yeah, we are data. And so therefore, from an individual liberty perspective, this is, this is the biggest decision that's going to be taken about our future, about our data, about our interactions, because effectively, this is going to be used by algorithms to, on the good side, give us loans, but on the bad side, change the way we vote maybe in the future, or whether there is any totality in action by some government in the future. So really, these are our rights that are going to get impacted in ways that we can't really imagine right now. This is also the creation of a mass surveillance state with very limited checks and balances, because frankly, on under the guise of national security, very few checks and balances exist, if at all. So what we need to do as citizens is really push back now. I mean, it has to, I said this to some of the lawyers in the Supreme Court case a couple of years ago, that this only gets fixed when it becomes an election issue. I hope that the Supreme Court does the right thing, because they are effectively going to get judged for what they judge or for what they do. But we can't depend on courts entirely on this. This is a political problem. And I think there has to be a political solution."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:18.640",
+        "message": "And it is on citizens to force a political solution for this. So I think anyone who's been listening to this episode will, I think, agree with me that if we don't act now, it might be too late from a citizen's perspective. But if my listeners want to know, want to ask you that, okay, I'm really concerned, but what concrete thing can I do now as a citizen?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:38.460",
+        "message": "A whole bunch of things, right? Number one, we have a site called speakforme.in, which allows you to mail your MP. There's some pre-prepared text in that, go and change it, right, whatever you want, and just send it to your MP. Because once MPs know that their constituents are worried, there is a likelihood that they will again internally push their parties to improve the way they're thinking about it. Call them up, call them out. Whatever you can, inform more people about the issues, because right now what's happening is that most people don't understand the problems that we're dealing with. Share this podcast with as many people as possible, so that people realize that the scale of the problem that we're facing right now, and you know, this has been pretty exhausting because for a lot of us who've been talking about this issue over the past few years, and especially for Usha Ramanathan, who's been talking about this for almost six, seven years now, if not more, it's a very lonely battle because most people don't either understand the scope of the problem, understand the issues, and things are changing so quickly that every time a new solution comes up, you're wondering, or something that the UIDAI does, for example, with FaceID or with Virtual ID that they were doing, you'd think that that solves the problem even though it doesn't. So I would say do not trust the government on this, do not trust the UIDAI on this, because they're trying to retain a system which is flawed. Go out and tell them that you want them to either remove the system or fix the system, because the only thing that you have going for you is your vote right now. I don't think there is any other option to solve this problem."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:26.060",
+        "message": "That's an inspiring call to action. May you never walk alone. Thank you so much for coming on the show, Nikhil."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:32.340",
+        "message": "Thank you for having me here."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:36.060",
+        "message": "If you enjoyed listening to the show, do follow Nikhil on Twitter at nixxin, at Nixon. You can also read his writings and follow the work of his colleagues at medianama.com. You can follow me on Twitter at amitvarma, A-M-I-T-V-A-R-M-A. And for past episodes of The Seen and the Unseen, do hop over to seenunseen.in. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:23.700",
+        "message": "He bends down to test the warm water for his bath. He comes here to quench his thirst for a hot shower and some podcasts. You can witness how he enjoys having other people talk about cool stuff in his bathroom. Indeed, it helps him with his loneliness. You can find more of his species on ivmpodcast.com, your one-stop destination where you can check out the coolest Indian podcasts. Thank you for listening."
+    }
+]

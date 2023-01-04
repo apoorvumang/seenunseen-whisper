@@ -1,0 +1,347 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:04.000",
+        "message": "I often say that the greatest mechanism of social service, of improving the lives of other people, is free markets. Think about what happens in a market. Now everyone has needs. Those needs can be fulfilled by others, either out of benevolence or out of self-interest. Now benevolence cannot be relied upon, but self-interest always can. Let's say you are a greedy person. You're a sociopath who doesn't care about other people. In a free market, the only way you can make money and fulfill your own needs is by fulfilling someone else's need, by making them better off. Remember, every transaction in a free market is a positive sum game. Both people who transact are better off or they would not transact in the first place. So the only way you can make money for yourself is by adding value to somebody's life. Markets are the mechanism that enable people to help themselves by helping others first. The beauty and elegance of this is quite mind-blowing. And it also stands to reason, therefore, that the more someone messes with this mechanism, the more someone gets in the way, the more harm they cause to society. Remember, the crux of markets, the reason they exist, is a value that someone is trying to add to the life of another human being. Nothing should be allowed to get in the way of that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:23.000",
+        "message": "Welcome to the seen and the unseen. Our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:34.000",
+        "message": "Welcome to the seen and the unseen. Before we begin this episode, a word from our sponsors of this episode, which actually demonstrates a point I was making about markets. Indian Colors is a company that licenses art from contemporary Indian artists and adapts it into objects of everyday use. Now let's look at this from the consumer's point of view. I am a lover of fine art, I go to exhibitions once in a while, but I can't really afford to buy paintings to hang in my house. Indian Colors makes it affordable for an art lover like me to actually surround myself with art. The artists benefit too. Normally, artists get a one-time payment on their paintings, unlike authors who get royalties for each copy of every book that is sold. Well, with this model, in addition to what these artists might get for selling their original paintings, they also get royalties for each product sold. And after all of this, after the consumer and the artist benefit, after the company has paid its employees and suppliers, the company itself may or may not make a profit. In fact, when people talk of trickle-down economics, I point out how this is a strawman argument. In any free market, wealth always trickles up, not down. Anyway, you can head on over to IndianColors.com, Colors with an OU, to check out their products. They have home decor like cushion covers and table runners, accessories like tote bags. And I love their wearables, their kaftans, shrugs and strolls. They have some funky new strolls up by Deepak Shinde and Dilip Sharma. And their roster of artists includes luminaries like Sameer Mondal, Dhruvi Acharya, Brinda Miller, Shruti Nelson and Harin Vakil. Show them your appreciation. Use the code IVM20 for a 20% discount. That's IVM20 at IndianColors.com, Colors with an OU. And now, on with this episode. My guest today is the economist Anupam Manoor, who works as a fellow at the Takshashila Institution in Bangalore. And we are going to talk about protectionism, a tendency that should really have died out by this time in the 21st century, but is actually to my utter bewilderment, on the rise. Here's a conversation I had with Anupam. Anupam, welcome to The Seen and The Unseen. Thanks, Amit. It's an absolute pleasure to be here. Anupam, tell me something. Is protectionism on the rise worldwide?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:44.000",
+        "message": "The short answer is yes. It is definitely on the rise. There's various data points that kind of confirm this, especially in the big advanced economies of the world. Protectionism is on the rise. And as it often does, it started with the economic downturn. So historically, protectionism always rares its ugly head when you have a decline in income or overall GDP. And this is exactly what has happened since 2008."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:13.000",
+        "message": "Because in different countries, you have people saying that, you know, hey, what's the use of trade if people at home, you know, middle class workers are losing their jobs, our incomes aren't increasing. And the intuitive thing is to sort of blame the foreigner in terms of whether trade or whether immigration and ask for cutdowns on those. And that's kind of why Donald Trump also is such a big protectionist."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:34.000",
+        "message": "Precisely. So you see the kind of parallel trend in politics and in economics. So you have the entire political rhetoric, which I don't want to get into. And then you have actual trade policy and so on, which has been geared towards more inward looking sort of policies, right? So, for example, I mean, let me just throw this stat at you that in the EU since 2008, almost half, which is about 49% of all trade policies have been kind of harmful to global trade. And in the US there's been about 1297 economic precise economic policies, which are actually harmful to trade as against 206 policies, which have been helpful to trade. So this just kind of gives you an idea. And US tops the list, by the way, in the world over. And this is happening in India as well. Yeah, India actually is second in the world with a net kind of harmful protectionist measures of 458 since 2009."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:30.000",
+        "message": "And there's a common belief among people that, hey, protectionism is good, because one, it supports local producers, and therefore there are local jobs and you know, so on and so forth. Now, what you're going to do in this episode is you're going to break down eight myths around protectionism. So let's start with myth number one."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:47.000",
+        "message": "Okay, so one of the most I mean, and I'm going to start brushing with the as broad a stroke as possible. The first popular myth is that protectionism is good for the economy. Right. And that kind of breaks down when you start looking at the various seen and unseen effect. And I'm going to use the title of your show here."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:05.000",
+        "message": "Not my show, but Sia's famous essay. I mean, we are all inspired by that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:08.000",
+        "message": "Of course. So it essentially any kind of protectionism will start. Firstly, it might have a few good short term effects, which is obviously why it's so popular. But in the medium to long run, it obviously harms the producers, the consumers, and overall kind of job scenario and so on. Right. And ultimately it starts hurting economic growth. For example, just just again, another statistic is that an increase of, you know, dollar one in tariff revenue can result in as much as a 2.16 dollar fall in overall world exports and about 0.73 dollar drop in, you know, world income. So that's looking at as broad a stroke as possible. But even if you look at, you know, country level, because there can always be an argument saying, OK, it can be bad for the world. I don't care, but it can be good for my country. That is again gone because a one dollar increase in tariff revenue for each country leads to about 0.66 dollar decrease in overall GDP. So that kind of tells you that right at the beginning that, you know, protectionism harms the economy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:17.000",
+        "message": "So let's let's try to illustrate that with a hypothetical example. Let's say that I manufacture mobile phones, but no one's buying my mobile phones because better phones are coming from China and Asia and America and so on. And I'm like, no, I'm the local industry. I'll provide local jobs. I want the government to protect me. And so I pay off my local congressman or my whatever. I'm an interest group. I pay them off. And they say, OK, Amit, we'll have a law that protects you and it leads to local jobs. And they pass, let's say, 200 percent tariffs on foreign phones, which make me competitive. And now people start buying my phones and I am a local manufacturer. I'm benefiting. I'm paying taxes in the economy and I'm employing people. All seems hunky dory. That's a scene effect."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:57.000",
+        "message": "What's the unseen here? What happens? Yeah, that sounds really utopian in nature, right? But if you break it down and if you look at the unseen effect, what actually happens is that immediately when once an industry gets protection, they no longer have any incentives to be productive or to increase productivity, to innovate, to expand and generally be competitive in the marketplace. Right. Because now you're no longer under threat. You tend to take things a bit more lax. That's that's the first kind of at an incentive structure, how it plays out. But also now, because you have no kind of protection, you're basically your profit margins and so on would be much higher than what it would normally be. So your prices go up. So domestic prices go up. And now the consumers no longer have a choice of, you know, cheaper kind of import goods. Right. So you no longer also have. I mean, that choice is removed as well. So what you end up with is much higher domestic prices, an industry which is not competitive at all. So there's no way that that industry can actually go out and export to the world market. Right. If you had let it be, then this probably industry could have, you know, the good ones at least could have competed with the world market grown and actually bought an export revenue. But that's not happening anymore. So the firm stays small, barely manages to kind of meet local demand and at much higher costs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:19.000",
+        "message": "And an example of this threat comes from my childhood as I grew up in the 1980s. And, you know, you had one telecom company in the country that effectively, which was MTNL, which was a government company. Now, leave aside that it was a government company, but it was a protected marketplace. And what that did was that if you wanted a telephone, there was a seven year waiting list at times. And today is no longer a protected marketplace. You have all kinds of foreign players in the market and you can get a mobile phone in five minutes with all kinds of freebies and incentives for the consumer attached. And people often don't see the consumer point of view of this, that let's say that I am buying a mobile phone today for 3000 rupees. But because you have these protectionist measures, I have the local guy, Amit Verma mobile phones, which are available to me for 10,000. Now that's 7000 rupees that I would notionally be saving if I bought the foreign product. If I had saved that, I would have also spent it in the local economy only. I would have bought other things for it. The money would have gone out into the economy, provided other jobs, which it is not providing now. And that's the unseen effect."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:18.000",
+        "message": "Exactly. Far too often, I think, and this is an unfortunate aspect of this, is that you only look at the kind of specific sector that you're trying to save, which is more often than not in terms of protectionism is the producer. But you completely ignore the kind of effect that it has on the consumer. And as you said, the kind of consumer surplus is almost diminished when you bring in protectionism. And which, you know, when translated into reality means that they no longer have that kind of extra disposable income that they would have had if you had cheaper alternatives. So the amount of money that they would have spent on other things obviously reduces."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:54.000",
+        "message": "And that has a dual effect. One effect is that because of the incentives that you spoke about, the local company doesn't have the incentive to innovate. And the other effect that it has is when the consumer would spend this money out in the marketplace, that would increase the effect for others to also innovate wherever they were spending their money. So overall innovation goes down across the board."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:12.000",
+        "message": "Yeah, innovation goes down. Lots of inefficiencies creep in. Overall productivity decreases. And obviously all of this will have kind of a staggering effect on economic growth. Right, right. Let's move on to your second myth. Okay. The second myth is that protectionism should be removed only if it is reciprocated from the other countries."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:30.000",
+        "message": "So what do you mean by this is that let's say we have a tariff on products from China and they have a tariff on products for India. And the argument then goes that, hey, we should only remove our tariff on them if they remove their tariff on us."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:42.000",
+        "message": "Yeah. Because if not, you would feel completely cheated. And especially again, your producers would feel cheated that, you know, we are not able to compete in the marketplace in China. Why are we allowing Chinese producers to compete here? Absolutely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:55.000",
+        "message": "So what's your response to this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:56.000",
+        "message": "The response is actually that just unilateral reduction in trade barriers can have a huge kind of impact on your economy, a positive impact on your economy. Again, going back to this similar thread that we got off in the previous myth is that by reducing your trade barriers, what you essentially do is that you are making your domestic firms a lot more competitive. They are actually pressurizing them to innovate, to sustain themselves, to stay in the market for as long as possible and so on. Right. And that has positive knock on effects on the entire economy. But the other kind of curious thing that happens is that if you unilaterally decrease your trade barrier, then the, let's say the exporters in China would now suddenly want to take advantage of this. And one of the ways to take advantage of that is by having easier imports. So for example, again, if China wants to export mobile phones to India, they'd also want kind of software and that they import, let's say from India. Right. So then they would create a lobby and they would force the Chinese government to reduce the import tariffs on software. Right. So in this way, a unilateral reduction in trade barriers always leads to kind of the reciprocal later on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:12.000",
+        "message": "So the later on, even if it didn't happen, it would be fine because people have a benefit."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:16.000",
+        "message": "Yes, yes. Your consumers benefit and that's like the largest majority of this thing, right? I mean, India, 73% of the GDP or so comes from consumption, you know, so just by that one logic, it's good. But let me also again throw another stat at you. There was a study conducted of five big economies in the world and out of which as a result of, you know, unilateral trade liberalization. And these were unique cases where they just said, we're going to remove all our trade barriers in respect to what the rest of the world does. And this is, let's say, Singapore, Hong Kong, UAE, Chile, and Thailand. And it was found that just this unilateral trade liberalization led to, you know, expansion of 22 times of GDP for Singapore, 8 to 12 times for the other countries. And this was over a span of 35 years. Of course, it's a long period, but 22 times."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:08.000",
+        "message": "The figures are still staggering. And one thing people often don't realize is that countries don't trade with other countries. Individuals trade with individuals. And now every trade is a positive sum game. Two people trade with each other only because both of them benefit. And the extent to which you get in their way is the extent to which you reduce the benefit for both. So a government is actually harming its citizens every time produces friction in between a transaction between any two consenting individuals. And therefore, when the government has a trade barrier in place between, say, you, the consumer in India and me, the producer in China, it's not that it's harming me, it's harming you as well. Absolutely."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:49.000",
+        "message": "I think this, this approach towards trade, that it's not a zero sum game, is something that the policymakers across the world don't see at all. I mean, they tend to think of trade as a positive, I mean, as a zero sum game that, you know, if, if we are reducing our import tariffs, then we are actually helping someone else at the cost of ourselves. But it's often not the case. I mean, consumers always look out for the best deal. And importing isn't just, you know, your standard buying, but it's just from a foreigner. So, you know, consumers always look for a good deal and they want to buy from the place which gives them the best deal. So you're actually helping the consumer by not interfering with this at all. You're helping the consumer find a great deal. Let's move on to the third myth. The third myth is that protectionism increases saving and investment in the economy. So the corollary is that free trade would actually harm your saving and investment cycle in the country. And basis of that is that by having no kind of restrictions on imports, consumers would just go mad and buy everything from the world just because they can. And again, this is a very, very stupid argument in its essence, right? Because as I said, consumers would buy only if they have the money and if they want it and if the price is right, they just, you know, and it's the same as buying domestically or from internationally. And in the same way, I mean, every consumer has a set of incentives and a certain set of, you know, planning that they do for their own personal income. So they'll spend as much as they can. They'll save as much as they can and so on. So if a country as a whole is spending more than it is saving, then the problem is not with imports. The problem is with the domestic financial sector and so on and so forth, right? So actually increasing trade barriers or decreasing trade barriers have absolutely no effect on your saving and investment cycle. In fact, what I would argue is that it makes the situation worse because if you're putting up trade barriers and if you're forcing, you know, your consumers to spend more on, you know, costlier products in the economy, then that means that you're essentially taking away that extra bit of disposable income that they perhaps could have saved."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:01.000",
+        "message": "Saved or spent somewhere. And the myth like that, the way you articulated it, also condescends to consumers. They assume that you are like sheep who don't know what they're doing and can't take rational decisions in their own interest. While the fact of the matter is that every consumer, you know, we're using that general term, but every consumer is basically you and me. We are perfectly capable of making decisions in our own interest. We should have the right to do so. And the government's job is to get out of the way so that we have as many choices available to us as possible."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:29.000",
+        "message": "Absolutely. And again, if what the government has to look at and far more often than not, if there is actually depletion of savings and investment means that your domestic kind of, you know, financial sector is not doing all right, that there are no proper avenues for saving or there's no proper avenues for investment, which is why people tend to just consume the entire amount that they get because they don't have any trust in the economy to do well in the future."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:54.000",
+        "message": "Right. And honestly, if you just enable a free market and you don't put entry barriers and even the domestic finance sector would respond to the demand and the problem wouldn't arise in the first place."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:02.000",
+        "message": "Precisely. Yeah. Let's move on to myth number four. Okay. So myth number four is that protectionism will improve trade balance. And, and this is something that, uh, you know, politicians and policymakers in whatever level of capacity that they understand somehow care a lot about, uh, though they, you know, my, my intuitive guess is that they really don't understand a lot about balance of payment statistics and how the whole thing works, but having a negative, you know, or a trade deficit with another country. And especially if it is, you know, uh, in, uh, not very favorable terms in the geopolitical space is seen as a really bad thing. And let's take the example of India and China, you would remember that, you know, there were calls for banning of imports from China because of, uh, that India has a huge trade deficit with China. And, uh, this is again, a phenomenon that has observed the world over US lawmakers have forever been asking for, uh, protection against Japanese imports. And that's because they believe that US runs a huge trade deficit against Japan, and that can't be good for their kind of relative economic power. But, uh, honestly, again, it, it has nothing to do with, uh, trade barriers, but it's to do with what each country has a comparative advantage in. So, uh, India might actually be better off just importing a lot of things from China then, uh, then trying to, you know, manufacture it domestically because China obviously has a comparative advantage in manufacturing sector, right? So we're just probably better off importing those things and allocating our scarce resources towards something else that we're good at, and then trying to export that to the world, right? So, uh, in order to, you know, no, no single time in the history of, uh, you know, at least accounted world, do we have a situation where trade barriers has actually gone on to improve a country's trade balance?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:53.000",
+        "message": "Because always we find that the negative is the opposite is true. And even if that wasn't the case, why should it matter if you have a trade deficit? Like I remember this very old column by Tim Harford, I think more than a decade ago, but a memorable one where he pointed out that, look, you probably have a trade deficit with your maid servant. You buy her services, but she buys nothing from you. And this is a trade deficit that is perpetual and keeps growing. Is it a problem? I don't think so. Both of you benefit."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:18.000",
+        "message": "Yeah, precisely. Yeah. I couldn't have put it better, but there's, there's been this kind of alarmist viewpoint about trade deficit in the world. And I don't know why, because people are not as concerned about fiscal deficit, for example, the layman, at least, but somehow trade deficit get people get really touchy and emotional about it. Exactly. And it should be the other way around. But, uh, yeah, in the US, especially you've had a concern about US trade deficit with Japan before and now with China, uh, and there've been calls for protectionist measures."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:50.000",
+        "message": "Let's move on to point number five. Uh, what's myth number five about protectionism?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:54.000",
+        "message": "Okay. The fifth popular myth regarding protectionism is that it will help create jobs in your domestic industry. And I know we touched upon this separately, but, uh, again, it's, it's one of the things that's been used over and again by world leaders for, uh, instituting any kind of trade barriers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:12.000",
+        "message": "Right. I mean, again, back to the simple example, if instead of buying a mobile phone for 3000 and buying it for 10,000, that 7,000 surplus I would otherwise have had would have gone into the economy and created productive jobs. That's no longer happening because all of that money is going to the producer in question who probably has a much bigger profit margin and might well be paying his workers less."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:31.000",
+        "message": "Yeah. So it's, it's a complete myth. It works the other way. It works the other way. And, and this is especially true in, you know, uh, industries which have linkages forward and backward linkages. So, uh, I think one of the most, uh, favored kind of industry in the world for protecting is the steel industry, but actually no other kind of policy move makes more harm than trying to protect the steel industry. Because let's say you slap, uh, import duty on steel so that you can help your domestic steel producers. And of course the number of people involved, uh, you know, currently in, in a job in, in one of these, uh, steel firms. But what do you end up doing is that again, you raise the, you know, prices of steel, et cetera, et cetera. And, uh, basically it becomes uncompetitive and so on. And now let's say automobiles, which actually hires a lot more people now are no longer competitive because it has to buy expensive steel from your domestic manufacturers. Now your automobile industry will lose out. And the number of people there, uh, who are currently employed may start losing the jobs. So, you know, in terms of net effect on jobs, it's definitely negative."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:35.000",
+        "message": "Not just that. So what the initial scene effect is that, Hey, you're protecting some jobs in the steel industry, but the unseen effect is that, Hey, because the price of steel goes up, you are actually, uh, either losing jobs in the automobile industry or jobs that would otherwise have been there because of the growth are not coming about. And that in turn reduces the demand for steel and could eventually end up hurting jobs. So what this does is just as straight as a positive sum game, this kind of protectionism becomes a negative sum game where both players lose out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:05.000",
+        "message": "Yeah, absolutely. And it's just not that to add one extra layer to that, uh, by providing, let's say protectionism to the incumbent, he gets the kind of perfect conditions for creating a sort of monopoly or oligopoly with a few existing ones. And there's no way a new entrant can come in. So under normal circumstances, you know, if there is normal profits, you would have new entrants coming into the steel industry who would hire a lot more, which again is vanished now because of the protectionism."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:32.000",
+        "message": "Exactly. So it has the opposite impact to what the myth would suggest it does. Let's move on to myth number six."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:37.000",
+        "message": "Okay. So the myth number six is that protectionism saves the economy from dumping. And, uh, let's just look at what dumping means, uh, which is, I mean, there's no universally kind of agreed definition of what dumping is, but largely it would be that, uh, if, if, if another country is exporting its products to you at extremely low rate, which is deemed to be unfair. And we look at what unfair is later on, but, uh, it's, uh, exporting at unfair prices, which is lower than what it's selling at its domestic market. So that is generally called dumping. So basically it wants to capture your market, even if it undergoes a loss for the time period so that it can have a monopoly later on. Give me an illustrative example of this. Okay. So let's take the example of, uh, China and India. Again, if, uh, China is exporting, let's say alarm clocks to India and it is selling at $10 in China for, you know, uh, a piece and then it's selling the same alarm clock at, uh, $5 in India, then that is considered to be dumping because now the Chinese producer there is willing to take a hit on its profit margin so that it can actually conquer the market here. Uh, and this is frowned upon in, in all kinds of, uh, policy circles and as well as by the way, WTO and so on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:55.000",
+        "message": "And one can see why, because the logical thing that you think here is that, hey, you know, they are dumping their goods here. And because of that, local alarm clock manufacturers are getting screwed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:04.000",
+        "message": "Yeah. Now, again, there's a couple of ways to look at this. Now, one, your local alarm clock manufacturers might never be that good. Uh, and they might, you know, not really survive this onslaught short, but then your consumers are getting, uh, you know, alarm clocks at $5 instead of the $10, which they would have otherwise paid. So it's great for the consumers. Now you have to look at a net kind of benefit. Sometimes, you know, the kind of gain to consumers can outweigh the loss from the producers, but even then it would be deemed as, you know, unfair and it's, it's fair to think of it that way. Now, the problem is that you also, this is going into technical definitions, right? It, it looks at what the cost of production is and if it sells at, you know, a price lower than the cost of production, uh, the problem, and this is even, let's say, uh, in a market as analytically rigorous and, uh, regulatory, which has got sound regulatory principles like the US, uh, they talk about cost of production, but don't mention whether it's total cost, whether it's marginal cost, whether it's average cost. I've looked at the definition of dumping in according to the US rule book, uh, which is problematic. So that's the problem with the definition. But let's look at what happens in reality. Uh, in the US, what you would have is you'd have a local producer who would go up to the regulator and says, uh, listen, I, I think I'm being shortchanged here because I'm losing out on the competition because, uh, another country is kind of, you know, dumping and it would have to file a suit, uh, you know, formal complaint of sorts. And then the, the ministry of commerce or department of commerce would actually take a look at it. And there's another body which also takes a look at it. Now, both of them come at some kind of subjective, uh, discretion, you know, and a subjective and a discretionary kind of judgment on whether dumping has happened or not. And far more often than not it, what it is, is that the lobbying would take over and then declare something as dumping. And, uh, that would lead to, uh, slapping off, you know, import duty on whatever is being dumped. So this is what actually takes place in reality. And because of the kind of, uh, nebulous definitions, uh, lack of clear procedure or laws relating to dumping, you have countries all over the world, uh, when they don't like, you know, some kind of imports and their domestic producers getting hurt, they just say, this is dumping. And then the WTO can't do anything about it because, you know, uh, according to the WTO rules, you can take protective measures against dumping."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:26.000",
+        "message": "If I could just go back to that fundamental point, I'd say that, Hey, you know, why is dumping used in a pejorative sense? If a guy in China is manufacturing alarm clocks for $6 and selling them to me at five, I am benefiting. Your local consumer is benefiting. Let the Chinese guy take the hit."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:40.000",
+        "message": "And precisely, I don't see that. And this is, if you kind of want to broaden the horizon, this is the same kind of argument I'm making against, you know, uh, predatory pricing and so on. If Uber wants to spend a lot of its VC money and give me extremely cheap rides, I'm very happy with it. I don't see why I should complain against that at all. If something, you know, if someone wants to give me something for free or at extremely low prices."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:03.000",
+        "message": "And I think at the heart of this is a fundamental misunderstanding about markets. Now, what are markets? I call, you know, people privilege producers so much, which of course it would, because producers are the ones who are the special interest groups who are funding all politics. But the truth is, the consumer is at the heart of all markets. I regard free markets as the greatest form of social service, because what does a market does? It satisfies the needs of people. Every trade is satisfying someone's needs. If you just put the consumer, the heart at all of your policy and cater to getting the greatest benefit out to consumers as, as possible, then all of these things wouldn't be taboos. Dumping, bring it on, bro."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:41.000",
+        "message": "The entire approach towards policymaking would change. I mean, I not just, you know, international trade policy and tone, but yeah, domestic policies, the entire thing would change. And as to how you'd look at it, absolutely. I agree with you on that one. But let's get to the heart of this anti dumping kind of stance. A lot of the anti dumping measures are actually done as an equalizer of, or to create a level playing field. So that goes against the very nature of why people trade. People trade because of comparative advantage. Now you have something that I want, and I have something that you want, and thus it's beneficial for us to trade. But if you want to create that level playing field saying, you know, Amit, I'm going to give you exactly the same resources and Anupam, I'm going to give you the exactly same resources. And then what is our incentive to trade at all?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:26.000",
+        "message": "That sounds like a crazy dystopia, because then all positive sum games, which is to say all trades stop and we stop benefiting. I mean, here's the thing, trade happens because two people value two things separately. So when I buy a cup of coffee from you, let's say your Starbucks, I buy a cup of coffee from you. I value the coffee more than the hundred and eighty rupees I'm paying for it. You can make out I buy tall Americanos and you value the hundred and eighty rupees more than the cup of coffee. Both of us benefit. And if you want a level playing field, then you know, we eventually move to a sort of socialist dystopia where you don't get my money and I don't get your coffee and we are both worse off than we are."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:05.000",
+        "message": "Yeah. So that is where anti dumping kind of thinking comes from. And it's bizarre for me. So let's move on to the next myth then. Myth number seven. Myth number seven, which is protectionism will help your infant industries. And by Joe, I think this is again a big one, but let's try and keep it brief. The thinking behind this is that there are certain industries which have or even certain firms which are just starting off in your economy and you see great potential of good that the firm will do in the future. And thus you want to kind of protect it now because if you expose it to the evil kind of international traders, then it will get completely decimated and you will lose out."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:46.000",
+        "message": "So to go back to our earlier hypothetical example, I start making mobile phones. I am a infant industry, but at the start when I'm on my learning curve, I can't compete with the Chinese and American giants unless you put tariffs on them. So I have sales and I have the space to grow. And one day I become a giant myself. That's the thinking."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:02.000",
+        "message": "And once you become a giant, then you can come, you know, lower the trade barriers, though, by the way, that's never happened in the world. So that's the infant industry argument. But I think the same set of, you know, arguments that we've been talking about apply here. The minute you kind of protect an industry, it loses all the incentive to grow and to compete in the marketplace. And we've seen this the world over. But again, if you want to take India as an example, we did this from, you know, 1950s onwards until 1990s, right? We protected all our industries from the outside world. And in fact, we even protected certain, you know, domestic industries from other domestic industries. In fact, this started, this started under Nehru and the term people use for it, import substitution. Import substitution. So the whole thinking was that, okay, so instead of importing all of this, let's divert our resources and try to build these things ourselves. And then these industries will grow and then can compete in the marketplace. None of that has happened. And again, the same kind of thinking, as I said, applies in the domestic industry. So you want to kind of, you know, you want to kind of delegate a certain set of jobs for small industries. You want a certain set of, you know, tasks and a certain set of products for micro industries and so on. And protect them from the bigger industries. All sorts of protectionism of the sort has not worked. And I doubt it will ever work because again, the incentives to kind of grow and compete in the marketplace will not be there. And irrespective of how much you protect it, you will always end up with an infant. So, uh, this kind of protectionism or using tax policy to protect or using import duties to protect it, it's more like putting an industry on ventilator, right? It's not sustainable in the long run. It's just about, you know, you can save it for a day or two or probably, you know, years in, in, in terms of an economy's lifespan. Uh, but definitely not sustainable in the long run."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:55.000",
+        "message": "That's very well put. And what strikes me as particularly perverse about this is that while the intention is good, both the seen effect and the unseen effect are bad. The seen effect is that the infant industry remains an infant on ventilator, as you so eloquently put it, and doesn't grow at all because the incentives are all messed up. And the unseen effect, what we don't see is that the value that the consumer would have saved, they would have spent that on something. And we don't see that. And that would have given rise to more infant industries, which would have grown. And we don't see any of that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:24.000",
+        "message": "Absolutely. This is like the other common analogy used here is that, you know, there are infants and there are dwarfs. Infants actually grow up and become really big someday and can do a lot of productive things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:34.000",
+        "message": "But here we turn our infants into dwarfs."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:35.000",
+        "message": "We turn our infants into dwarfs. They'll always remain short, which means that they'll never grow. And this is seen in kind of India's manufacturing sector. You, you have this massive missing middle, right? Because we always keep protecting our small industries. We never actually allow them to grow. And we, of course, I don't want to get into labor laws and you know, all the allied factors, but the, the, when you look at it, you are not giving any kind of incentives for the small industries to grow up and become the big industry that you'd always hoped it would be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:04.000",
+        "message": "And because we force our infants to be dwarfs and because we have that missing middle, that's a big part of the jobs crisis that we face currently in India today. You know, we talk about, Hey, you know, uh, there is this big jobs crisis. What do we do about it? But the causes for it are something that have been coming down the line for 60 years and which continue. No government has ever taken the right land on this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:24.000",
+        "message": "No, I think it's too courageous a move to, you know, use as minister, uh, this thing, uh, it just seen as too courageous. So even in 91, when we liberalize, we liberalize parts of trade and so on. But there are, you know, factor markets that we didn't touch at all. Uh, but I think we are digressing far too much."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:41.000",
+        "message": "Yeah. And partly because, partly because they're so unintuitive that, you know, uh, voters understand into it. Voters see the world in an intuitive zero sum kind of way. And to talk about, you know, the positive sumness of trade or removing, you know, all of this is very unintuitive in a sense. All the myths that you're talking about today are things that you would naturally intuitively believe. Yeah. And, uh, you know, and you have to fight hard to get past the thinking on that. Let's move on to myth number eight."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:08.000",
+        "message": "Okay. So myth number eight and the final myth here is that protectionism is necessary for developing economies. Now this is a very peculiar charge that put up, uh, that, you know, the reason why, let's say the WTO or even sometimes, you know, IMF, World Bank and the big institutions or even the U S pushes for, uh, removal of trade barriers is that it actually helps the developed countries while it completely harms the developing countries. Now, uh, you know, my one kind of simple argument against this is that just as there is no kind of Indian physics, uh, as against, you know, us physics, there is no Indian economics and, and us economics, right? Uh, the principles of trade and principles of economics is exactly the same, whether it's for developing countries or developing, uh, uh, countries. I mean, is it positive some game everywhere? Everywhere. So just, just that is, you know, the kind of starting point. But again, we can look at certain data, which, uh, uh, which is done by, you know, I mean, of course, conspiracy theorists will cry foul, but again, I've got some data by a study done by a World Bank and it says that, you know, uh, by reducing kind of, uh, your trade barriers and going towards liberalization of in the goods and services market would help, you know, average rural incomes in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in, in developed countries increased by 0.76%. Uh, but it will help, uh, developing economies increase the real incomes by 1.3%. Uh, per year. So it actually shows that developing economies have a lot more to gain than developed economies. I mean, everybody gets from trade, but developing economies gain more so because you can leverage the comparative advantage that much nicely. And again, another small data point is that newly developing economies right. And these are, you know, newly industrializing economies that just kind of come on the scene, they tend to gain as much as three to 6% of GDP year on year by liberalizing that trade regimes. So the kind of data is out there, but because it's unintuitive to kind of understand this and then it's easy to cry foul saying that, you know, the developed world wants this so that they can dump their goods onto us and kill our infant industries. It's very hard for people to see it this way."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:20.000",
+        "message": "And that kind of rhetoric is very popular. I mean, I think you've pretty much covered all the myths that I can think of regarding protectionism and, and still the fallacies persist. Why is that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:29.680",
+        "message": "Oh, that is a very difficult answer for me to, I mean, you know, for me to address, but, uh, I, I honestly wouldn't, I wouldn't know because I think most of these myths, as you rightly said, they're intuitive to understand. And this is the same thing with any other kind of economic policies, right? Uh, why are price controls so popular? Right. Uh, because on the face of it, it seems that this is something good for me, right? As a consumer, let's say, uh, you would be happy with the price control in the beginning because you don't firstly have the vision for longterm, you know, to see what would happen in the longterm. Uh, but you can see immediately that the amount you're spending decreases. So you're immediately happy. But then, you know, economics tells you that there are lots of unintended consequences."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:12.040",
+        "message": "Price controls always lead to shortages and which perpetuate themselves for the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:16.280",
+        "message": "longterm. But I think one essential thing here is that that short and longterm kind of, uh, dichotomy that exists, right? I think most of these things, uh, would kind of lead to some kind of positive effect in the short term. Uh, if you protect the steel industry for the next two years, it might actually grow. And then politicians would happily say that, listen, this is because of my trade policy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:35.760",
+        "message": "Vote for me. I brought this policy. I brought this about and it saved the kind of jobs, uh,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:40.360",
+        "message": "that would have probably gone out if you had let the industry die. Uh, but then again, again, you know, who has the capacity to think and analyze and see for the next 10 years, what's going to happen to the entire steel industry and how many, and it's also easier to kind of look at the, the, the factual than the counterfactual. Exactly. Because most of these arguments are counterfactual in nature. You know, if you hadn't done that, you could probably generate 10 X more jobs in the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:05.520",
+        "message": "future. Uh, how can people believe that? And also politicians are focused on the short terms. There's always an election around the corner. So it's much easier to sort of doubt either an intended benefit or even sometimes a short term scene effect. And say that, Hey, you know, this is what I have done. And politicians don't care about what happens 10, 15 years down the line. That's someone else's problem, right? You know, so this has been a great episode, a great conversation where you've, uh, brought forth a number of economic reasonings against protectionism. All of those seem completely flawless and, uh, uh, have absolutely no holes as far as I can see. I want to end with making a moral case. I think there are lots of people who would agree that what two consenting adults do with each other is their business. No one should interfere. They would certainly agree, especially a lot of left liberals would agree when this is in a private domain, you know, two consenting adults in their bedroom, they can do whatever they want in our daily interactions. We can do whatever they want, but when it comes to trade, suddenly we, we come up with all these fallacious theories and we say that, no, we should interfere. And no, I think if it is immoral in the first case to interfere, it is immoral in every case to interfere. If you're consenting adults interact with each other because both of them benefit, uh, in various ways, which includes financial ways in the marketplace individuals trade with each other. Countries don't, we should never forget that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:26.800",
+        "message": "Absolutely. I think, uh, even before all of these eight myths, the, your point is, is probably the first amongst it, right? If, uh, uh, economic freedom should be kind of attractive in and off its own right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:40.280",
+        "message": "A moral imperative. Yes. Anupam, thanks so much for being on the show."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:44.400",
+        "message": "I've learned so much from you today. Oh, I absolutely loved it. Thank you so much for having me on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:50.120",
+        "message": "If you enjoyed this episode, you can follow Anupam on Twitter at Anupam Manoor. You can follow me at Amit Verma. Archival episode of the Seen and the Unseen are available at seenunseen.in. Thank you for listening. The Seen and the Unseen is co-produced by Indus Vox Media Podcast, and you can check out other IVM podcast shows on their app or website, especially a new one called Akanksha Against Harassment hosted by Akanksha Srivastava. This show discusses cyber crimes and how to make the internet a safe place. For one, you can stop browsing and start listening. Episodes out every Thursday."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:41:38.720",
+        "message": "There she stands, a podcast addict, outside the bank, having traveled several miles to get in with other poor souls like her. The journey, though daunting for this youngling, will have some comfort because she has downloaded her favorite podcast. You can see more of her species on ivmpodcasts.com, your one-stop destination where you can check out the coolest Indian podcasts. Happy listening."
+    }
+]

@@ -1,0 +1,567 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:31.000",
+        "message": "The Economist magazine coined this phrase in 1977 in the context of the Netherlands, which had a stroke of good fortune when natural gas was discovered in Groningen in 1959. Or was it really good fortune? Because of this natural resource, foreign exchange flooded into the country and their own currency became stronger. This meant imports became cheaper and people could now afford the best goods from across the world. As a result of this, the local manufacturing sector went into decline. What initially seemed like good luck, later appeared to be not quite so lucky after all. A classic modern case of the Dutch disease is Venezuela. Large reserves of oil were discovered there more than a century ago in 1914, and a relatively poor country, suddenly sitting on humongous oil reserves, became quite rich as the years went by. But what this also did was that it lowered the incentives for the governments that ran the country to learn the good habits that take a nation towards prosperity. There was so much oil wealth that governments quickly developed patterns of patronage and cronyism. Bad governance and poor economic policies did not have the cost they should have because there was always so much oil wealth floating around. In a situation like this, sooner or later, something always has to give. Venezuela is now going through an enormous humanitarian crisis, caused by bad economics but enabled by the bonanza of oil. I'll explore some of that in this episode, but before I do, here's a thought. Does the same process by which too much of a good thing can be bad for countries, can it also be bad for individuals?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:15.000",
+        "message": "Welcome to the Seen and the Unseen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:16.000",
+        "message": "The 19th century Venezuelan hero Simon Bolivar once said, to understand revolutions and their participants, we must observe them at close range and judge them at great distance. Stop quote. My guest today is Alexandra Ulmer, who spent a few years studying Venezuela at close range, as an oil correspondent for Reuters based in Caracas, the capital of Venezuela, but is now based in Bombay, at some distance from Venezuela. I asked her to join me on the show to chat not just about Venezuela, but also the craft of news reporting, as the title of this episode, Reporting Venezuela, indicates. But before we begin our conversation, let's take a quick commercial break. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vasvo X Vasvo, Brinda Miller, Dilip Sharma, Shruti Nelson and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, and even if you want to buy just for yourself or a friend, head on over to IndianColors.com. That's colors with an O-U. And if you want a 20% discount, apply the code IVM20. That's I-V-M for IVM Podcast. IVM20 for a 20% discount at IndianColors.com. Welcome to the scene in The Unseen, Alexandra."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:10.000",
+        "message": "Thank you, Amit. Such a treat to be here."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:12.000",
+        "message": "So tell me about how you became a journalist. What drew you towards journalism?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:17.000",
+        "message": "I had always had two twin passions, one of them was current affairs, and the other one was writing. And for some strange reason, I never really thought to put them together until I was at university and I started working on this school paper. And I remember not being able to sleep the night before my first article, which was something very mundane and uninteresting, came out. And that's when I knew I was hooked."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:36.000",
+        "message": "So where did you go from there?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:38.000",
+        "message": "I started as an intern with Reuters in Buenos Aires. I was fascinated with Latin America and wanted to get going there. Then went on to be a stringer for Reuters again in Chile, just on the other side of the Andes, where I did a lot of reporting on economics and mining and learned a lot more about how the world goes around, but was frankly a little bored as a journalist. And then Venezuela came to the fore, and about four years ago I moved to Caracas."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:05.000",
+        "message": "And what's a food chain of journalism like? Like you begin as an intern, then you're a stringer, then you're a full-fledged reporter. How does the job description change? What are the kind of things that you did on the job?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:15.000",
+        "message": "So as an intern in Buenos Aires, I had the best of all worlds. I was able to cover fun but also fundamental events like the legalization of gay marriage in Argentina, and I wrote soft features on being a vegetarian in Buenos Aires, the meat capital of the world."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:32.000",
+        "message": "You're a vegetarian? Yes, I am."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:34.000",
+        "message": "Horror. I've never been as happy as I am in India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:38.000",
+        "message": "Welcome to Mumbai! Yes, thank you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:40.000",
+        "message": "It's very refreshing after the barbecues of Latin America."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:44.000",
+        "message": "I'd trade places with you any day."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:47.000",
+        "message": "Yeah, well, then if you're a meat lover, Argentina is the place. And, you know, as you go up the food chain as a stringer, I had a lot of responsibilities for somewhat mindless tasks"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:06:01.000",
+        "message": "like at the time covering the local stock market,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:04.000",
+        "message": "running out to press conferences, learning the ropes, which is essential and is what you build on to become a better journalist."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:11.000",
+        "message": "And what are the sort of values that you picked up in, which you pick up in any good news organization, you know, like Reuters obviously is, in terms of the kind of journalism you do? What's the rigor that you have to follow?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:24.000",
+        "message": "It's incredibly rigorous. It's a fantastic school of journalism. It's daunting because you're learning on the spot, and journalism in that sense is much more of a craft than something you learn within an established school or institution. So you learn to be rigorous with your facts. You learn to check with sources. You learn to question everything. You learn to be fair. Of course, all these issues are deeply philosophical, and we can debate them at great length because there's no perfect recipe for it. But especially, I think, as a foreign news outlet in countries where sometimes the local media is coward or doesn't have the resources to cover something as well as it would have otherwise, you become a frame of reference. So there's great responsibility on having smart, articulate, fair coverage."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:10.000",
+        "message": "And, you know, one of the very clear demarcations in foreign media is the line between news and opinion, which sometimes gets muddy in India. And you were, of course, a reporter all along. So, you know, how do you sort of get to that level of objectivity where you sort of keep your feelings about what you're reporting out of your reportage itself? Like, do you have to make a special effort to do that? Can you go too far?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:35.000",
+        "message": "I think you always have to be careful. I think in some ways it's easier when you're not reporting on your own country because you're more detached from the situation. But, you know, being fair also entails portraying the situation accurately. Like one of the old adages in journalism is if one person says it's raining outside, the other person says it's, you know, a beautiful, glorious day and you should go to the beach, your job isn't to portray both sides. Your job is to open the curtains and tell readers what's going on. Now, that's a clean-cut example. In the real world, it can get muddier than that. But I think trying to find the sweet spot between being fair to the different sides and ideas involved, but also, you know, not just being a robot who's throwing out the facts coming from different sides and actually assessing how the situation is evolved, how politicians or whoever's claims stake up to what they've actually done is in essence an essential part of our job."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:26.000",
+        "message": "And in a sense, like you said, the example you gave is clear-cut. When it comes to something like covering a country like Venezuela, for example, where the economics is very complicated, the politics is very complicated, society is complicated, then does it involve a case of just having to learn a lot of things before you can even begin to report?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:46.000",
+        "message": "I think so. But I think in a place like Venezuela, which essentially has become devoid of fact, it's very difficult to do that. I'll give you an example. Venezuela has rampant corruption. We know that is one of the fundamental reasons this government has been so inept and has basically left Venezuela penniless. For a long time, it was very difficult for us to say that. We knew money was disappearing, but if you don't have the proof, you don't write it if you're a rigorous journalist. Of course, now there are multiple cases across the United States and in Europe where, you know, a single businessman has been accused and has pleaded guilty to embezzling, say, a billion dollars. That gives you an idea of the scale of graft we're talking about. But for a long time, it can be frustrating because to be a rigorous reporter, you can't just throw around baseless claims, but that also means you're missing a fundamental part of the story that you're struggling to tell the readers, and I think that's the deepest frustration there can be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:37.000",
+        "message": "Yeah, because there must be times when you absolutely know something, but you cannot say it, and you have to kind of get there from other places. So before you went to Venezuela, did you want to go to Venezuela, or was it something that Reuters offered you the opportunity, and then you looked into it and said, huh, that's interesting?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:52.000",
+        "message": "No, I had been fascinated by Venezuela, mesmerized for a long time. I had gotten a student grant when I was at university to do a project on political street art there, as one does when one is a bright-eyed, bushy-tailed university student. And I had spent two weeks in the country and had been reading obsessively ever since, but I was very deterred by the security situation there and never thought I could actually live there"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:14.000",
+        "message": "because it was too dangerous and scared me. Which year was this? I went there as a student in 2011."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:20.000",
+        "message": "And moved there in 2014 after going for a brief stint and seeing that I could live there, you know, despite the crime concerns."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:29.000",
+        "message": "So when you started reporting in Venezuela, how easy was access?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:35.000",
+        "message": "Well, access on the street to people was wonderfully easy. I mean, Venezuelans are expansive, fun, Caribbean people who love to chat. So after Chile, which is a much kind of more dour, closed society, it was a treat for me to just go out and be able to interview people in the supermarket lines and have them genuinely tell me about their lives and their sufferings. Because they wanted to, they wanted to be heard, and that's the way they are. Conversely, the government is fairly shut off. At the time, we still had the occasional press conference. Sometimes they would answer questions, but it was the kind of situation where GDP, inflation, crime data, emigration data, none of that was being published anymore. As you mentioned at the start of the podcast, I covered oil, and that meant covering the big, omnipresent state oil company. I spent four years in Venezuela, and I genuinely don't think they ever answered one of my questions. You know, when you're writing a story, you send in a request for comment by phone or by email to give the person concerned a chance to respond, and I never got a single answer to my emails. I mean, it's that kind of black hole situation you're talking about. So it forces you to be a kind of creative, enterprising reporter to get to the stories, which always means you're missing a significant chunk of data and the government side. At the end of the day, it's self-defeating for the government because they don't speak out, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:53.000",
+        "message": "Right, and of course, distrust towards the media is an attitude that really came out much earlier from the time Ch\u00e1vez took over because like a lot of populists, he kind of looked at the media as part of the elites who were antagonistic to him, and he tried to sort of control communications and all of that, parallels of which we see in many other countries. So tell me a little bit about how Venezuela got here, you know, starting from before Maduro, like when Maduro was president, starting from maybe even before Ch\u00e1vez, like a lot of people lay the blame quite correctly for what's going on to the bad economic policies in Ch\u00e1vez's time, which have continued with Maduro. But Venezuela was both oil rich and in deep trouble a lot before that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:39.000",
+        "message": "It's been a turbulent history. Tell me a little bit about that. Absolutely. I mean, it's been a cycle of booms and busts basically due to the oil barrel. So Venezuela was, by some metrics, one of the richest countries in Latin America where this elite, this filthy rich would travel to Miami and famously say, give me two of everything, it's so cheap. Of course, that fueled a lot of inequality and discontent and a sense that the political establishment, which was basically two political parties that would rotate power through democratic elections, but rotate power amongst themselves, wasn't representative. And there had been sporadic violence and turbulence in the country for a long time. And Ch\u00e1vez, who came from a poor family from the Savannah lowlands, really spoke to the people who felt marginalized by the system. And because Venezuela is an oil rich country, there's this idea that we are a rich country. We should not be poor. This something has gone wrong and someone is to blame for it. And Ch\u00e1vez diagnosed that problem brilliantly, as many populists do, and was elected in 1998. There was immediate virulent opposition to him from the elite in media and politics, etc. And that culminated in a series of marches in 2002 that led to a brief coup against him, where he was deposed for three days. It remains a very complex, fiercely argued about episode about exactly what happened to him. Ultimately, he was reinstated by military loyalists. And after that, some would say, he became much more paranoid about any attempts against him and clamped down much more on institutions, the press, and any opposition he could see."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:19.000",
+        "message": "In fact, there are memorable reports that during the coup, he chatted with a hero of his, Fidel Castro, on the phone. And Castro told him that, you know, whatever you do, don't surrender. And it's interesting to me how, you know, obviously, from 1958 to 1998, you had this sort of kleptocracy, this oligarchy of these two parties, which kind of controlled the economy in the system of patronage, where the oil wealth was sort of, and which was also incredibly corrupt. And Ch\u00e1vez detected that correctly and got to power. But what I always find kind of interesting is that for the first five or six years of his time, he professed himself to be non-ideological, where he said, I'm not a communist, I'm not a capitalist, even though, I mean, he had communist influences. He was a big fan of Marx and various other communist thinkers right from his student days."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:08.000",
+        "message": "But, you know, he said, I believe in the third way,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:10.000",
+        "message": "which was, you know, perhaps a reference to Tony Blair's third way. But after 2002 and then 2004, what seemed to happen is that he hardened enormously and spoke about 21st century socialism and went in all the directions that he went in. So do you think that sort of change in direction came from political imperatives?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:31.000",
+        "message": "It's a very interesting question. I undoubtedly think that he felt very vulnerable after the coup and after being reinstated. And his instinct was to try to therefore control whatever he could. And the influence of Fidel Castro and other politicians led to him pushing for much more control over the economy, especially. And he enacted a series of policies that would really be the downfall of Venezuela ultimately, namely imposing currency controls in 2003, which is what led to the mind-boggling distortions we see today in Venezuela that are to blame for much of the current crisis. And yes, I think he's a dominating personality and he was a dominating politician. He was a dominating president. His instinct was to control. Yes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:19.000",
+        "message": "And that kind of became worse, A, because he's got Castro advising him on one side and on the other side. I mean, the reason I sort of thought of that was when I was kind of reading through all of this, one parallel that came to mind was our own earlier Prime Minister Indira Gandhi who, you know, took over the Congress party in the mid-60s, but she was fighting against the established order in her own party. And to distinguish herself from them, she took this populist socialist line and did a lot of things which were economically disastrous, but which if you understand the political imperatives and a need to create a brand for herself and distinguish herself from them kind of made sense. And, you know, the other part of, I mean, a lot about Chavez reminds me of Narendra Modi as well. And the other part of his rise to power and what happened when he got there was just kind of like a dog chasing a car and catching the car and not knowing what to do because he was incredibly good at campaigning."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:17.000",
+        "message": "He had no idea whatsoever of how to govern. Interesting analogy. Yes, I mean, Chavez at heart was a showman, right? And he had the whole country or much of the country behind him. The masses loved him. It was like religious fervor going to his rallies. It was unlike anything anyone had seen before. And when you had that kind of unquestioning love, his worst instincts were unleashed, right? And Venezuela was a democracy, but it didn't have entirely solid institutions. And when Chavez was in power from 1999 to 2013, he had plenty of time to dig away at them. But I think, yes, his instinct was always to campaign. And he would always boast, we've had more elections than anywhere else in the world. How can you criticize us for not being a democracy? But that's what he reveled in, right? And that's what he loved, not the day-to-day nitty gritty. And that tendency was exacerbated by the fact that during 10 years of his governance, you had an oil bonanza. You didn't have to worry about the nitty gritty."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:19.000",
+        "message": "The oil money was just gushing in. And this happened because 9-11 happened, and therefore the oil spigot slowed down in the Middle East, and Venezuela was certainly much in demand. And also he kind of revived the OPEC at this time, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:33.000",
+        "message": "Yes, yes, he was instrumental in that. And I think the fact that the oil prices shot up was a saving grace. I mean, politics is also about luck, and Ch\u00e1vez was an incredibly lucky politician. You know, I obviously don't want to be morbid, but for instance, he also happened to die right before the economy took a turn for the worst. So even his exit was perfectly timed in terms of his legacy in the eyes of his supporters, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:58.000",
+        "message": "In fact, just looking through his career, I mean, there are various parts where he got so lucky. For example, he almost didn't get through into the army because he failed his chemistry exam, right? And had that not happened, the subsequent events wouldn't have worked out the way they did. That while in the army for years, he wanted to overthrow the government, not because he had anything against the government or any particular precedent, but he just wanted to get to power. And he was planning a coup as administrations changed one by one. He's single-mindedly planning a coup for the sake of power itself. And, you know, even when he, you know, he attempted a coup in 1992 and he failed, and he would have disappeared into oblivion and into prison. He had the powers that be not decided to put him on television. So he could tell his co-conspirators to surrender. And he suddenly became a media star after that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:45.000",
+        "message": "Absolutely. I mean, he capitalized on those few minutes on television and said, we failed for ahora, for now, which became the slogan that everyone repeated. And then he was pardoned, of course, and got out and became a political figure in his own right. So yes, from the chemistry exam to being pardoned,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:04.000",
+        "message": "the stars aligned for him. And it's interesting how, you know, people close to him talk about how his personality changed so suddenly at two different parts of his life. One is once he comes on television and he becomes a superstar, and he literally becomes a sex symbol. Women everywhere are dying to have his baby, so to say, as one biographer put it. And the other when he actually comes to power, that, you know, when he comes to power and he, you know, enters Miraflores, I think the presidential palace, he just becomes a completely different person and his allies from the period before that eventually all get disillusioned one by one and move on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:39.000",
+        "message": "And he ends up surrounding himself with yes-men."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:42.000",
+        "message": "And he ends up surrounding himself with yes-men. And, you know, if you look at Maduro today, just reading the biographies of Chavez, the one thing that kind of struck me is that the only extraordinary thing about Maduro is that he never said no to Chavez, that he was almost like, you know, like again Indira Gandhi said about a former president of ours, Gyani Zayal Singh, before he became president, that if I ask him to clean my toilets, he will. And you get the same kind of sense about sort of Chavez and Maduro. And that's really the reason Maduro kind of got to power to begin with."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:17.000",
+        "message": "Yes. I mean, he describes himself as the son of Chavez. He stakes his entire legacy on Chavez."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:24.000",
+        "message": "Right. So again, extraordinary luck for Maduro as well. Tell me a little bit about the confluence of oil and politics through the decades in Venezuela. Like, obviously, they discover oil, they're very lucky. Then they come to these deals where, for example, these foreign companies first come and they start taking the oil. And then they have these 50-50 arrangements where they get, share 50% of the profits with the state. And then that tilts further to the state. And then it's Venezuela, which actually forms OPEC. So all the power goes to the sort of \u2013 that actually pushes for the formation of OPEC. So all the power goes to the states rather than the companies. And then gradually that in the mid-'70s leads to the formation of the state oil company PVDSA. So tell me a little bit about the role oil played in politics through the decades."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:14.000",
+        "message": "Yes. Well, oil is indistinguishable from Venezuela. And the Venezuelan economy has always been hugely dependent on oil. You mentioned the Dutch disease, and that impeded Venezuela from having enough efficient industry and agriculture, although it did have those sectors in the 70s and 80s. But Ch\u00e1vez's big criticism was that the foreign companies were getting too sweet a deal in Venezuela under the former governments. And so very quickly, when he comes to power, he understands that PVDSA, the state oil company, will be crucial to his fortunes. And, in fact, the lead-up to the coup, there's a strike by PVDSA workers and engineers against Ch\u00e1vez. So they bring the oil industry to a standstill, which again shocks the oil market and completely attacks the Venezuelan economy. And ultimately, as we know, Ch\u00e1vez prevails, and he absolutely purges the state oil company. And so all these engineers who supported the opposition and walked off their jobs are fired. There's huge turnover. A lot of these people incidentally ended up immigrating to Colombia or Canada and helping basically create the Colombian oil industry, so benefiting other countries. And gradually, over time, PVDSA becomes a fiefdom for Chavismo. For a long time, it maintains operational capacity, even though it's highly indebted, inefficient, and corrupt, but it still kind of has the veneer of a functional company. But throughout my time there, you just saw it close off. And in the last year, Maduro put a general in charge of the state oil company because the military is absolutely the other kind of crucial part to understanding Venezuela. And generals have been sweetened by all these deals that Maduro's offered them, you know, mining stakes, control over imports, and the oil industry, which is the crown jewel, as a way of rewarding them for their loyalty and ensuring that they continue to be loyal to him. And it's led to an exodus of your low-level workers who are already unable to eat three square meals a day because they're just earning a handful of dollars a month. Of course, you know, any engineer or chemist has fled because they're not earning anything more. They're often working in dangerous refineries that haven't had proper maintenance work in years and are a big threat. And it's also actually very dangerous out in the oil fields because large parts of Venezuela are essentially lawless. And you're very exposed to theft and gangs looking to rob copper or rob you in the oil installations. So the whole industry is completely unraveled, which is a huge threat for Maduro given that more than 90% of the income, the country, comes from oil now because all the other industries have fallen by the wayside. And now, with the new sanctions from the Trump administration, it's getting even harder for him to export oil. So yet again, oil will be one of the big deciding factors"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:21.000",
+        "message": "in what happens in Venezuela. And this process was, like, it's common to all populists, really, that they attack the institutions in their countries which are supposed to act as checks and balances. And again, one of the things that Ch\u00e1vez did when he came to power is that he put military officers everywhere. So, you know, this whole trend of... So even in the PDVSA, after the strike happened and he laid off all the employees or whatever, he then put military officers in charge and completely changed the way the institution worked in terms of sort of doing what people call petro-diplomacy, where he would, you know, offer sweet deals to neighboring countries which had communist leaders he was friendly with to get them on his side. And a large chunk of petrodollars, therefore, started going into this kind of diplomacy and doing special favors to people and so on and so forth."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:10.000",
+        "message": "Exactly. Cuba has been one of the big recipients of this petro-diplomacy. You know, Venezuela still sends oil to Cuba and Cuba, quote-unquote, repays Venezuela by sending doctors and other security personnel to the country in what Maduro's critics say is a grossly unfair trade-off. And especially because it's fairly well-known in Cuba, then Cuba then resells a lot of the oil it receives from Venezuela for profit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:37.000",
+        "message": "Which is a marvelously capitalistic thing for Cuba to do. And let's talk about what happened to the currency, for example. So, you know, one of the books you recommended I read before we do this podcast was Crude Nation by Ra\u00fal Gallegos and that starts off with this fascinating chapter on how there are four currency rates, like three different official currency rates for the dollars and then there's another one which is black market and the top rate is like you pay a handful of bolivars for a dollar and then you increasingly pay more and more bolivars and obviously your cronies and people you favor get them at the cheapest rate and there's a whole industry where you're sort of, you know, buying dollars in the cheap and selling dollars in the black market for far more money. When you landed up there, how was it? How did you manage?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:23.000",
+        "message": "Well, it's an extraordinary system that you end up being very agile in because you're always jumping between different currency systems. But when I arrived, first of all, your bank card doesn't work. No foreign cards work. You could take money out but at an extraordinarily unfavorable rate so you'd be getting a dollar out, effectively getting what's worth a dollar on the black market but spending maybe $50 for it in your bank account. So what someone like me or others get is a middleman, right, who you wire money to from your bank account abroad to his bank account abroad and then he wires bolivares from his account to your account in Venezuela and that allows you to navigate the system. But it creates an enormous amount of distortions. So, for instance, for a long time, foreign airlines priced their airfare in local currency but at the pegged official rate. So that meant people could fly literally from Caracas to London for the equivalent of $40 if they were buying their currency on the black market, right? So it was a free-for-all. It was this bizarre distorted party that people were taking care of. Of course, someone has to pick up the bill and foreign airlines are now owed a total of about $4 billion because the Venezuelan government never then reimbursed them as promised. So that's the kind of distorted magical realism side of it. The real-world impact of it is that nothing worked, right, because what you're supposed to trust, which is money, which has a certain value and creates trust and creates your chain, was completely distorted. So things just didn't function. Importers wouldn't import because they wouldn't have access to the official currency because that was reserved for cronies and so had to go to the black market rate if they could afford it and then pass that cost on to customers. If not, they folded shop. So that was really the deathblow to the Venezuelan economy, the incredible distortions in the currency."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:11.000",
+        "message": "And then this differing access to the dollar then creates different classes of people, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:16.000",
+        "message": "Absolutely. I mean, the Venezuelans have a lot of vernacular for what has happened in the last 10 years and there's an expression which is boliburgues. So it's a play on burguesia, so the bourgeoisie, and boli being bolivariano, which is this kind of following that Ch\u00e1vez created based on Sim\u00f3n Bol\u00edvar. So basically, these are the new rich, those who benefited from the government's largesse. The other term for them is enchufados, so those who are plugged in. That's essentially what they are. They're plugged into the system, so they get dollars at a preferential rate. Their companies can be signed into the system to import food and get the juicy government contracts, etc., etc."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:55.000",
+        "message": "And on that note of juicy government contracts, we'll take a quick commercial break, which I promise you will be filled by a private party."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:03.000",
+        "message": "Hello, hello, hello everybody. Welcome to another great week on the IBM Podcast Network. If you're not following us on social media, please make sure you do. We are IBM Podcasts on Twitter, Facebook, and Instagram. As I mentioned over the last couple of weeks, we've been running a survey on our website. It's at ibmpodcast.com slash survey. Please fill it out if you haven't already. And just so you guys know, there is a prize involved for the 25 people we will select at random, and we will send them an IBM Podcast mug. So, this week on Cyrus Says, Cyrus' guest is Yash Banerjee, co-founder of Bombay Canteen and O'Pedro. He talks about the intricacies of the F&B industry in India and the origins of his ventures. On Geekfruit, Tejas Dinkar and Janam talk about Netflix's latest series, Russian Doll, and why you should finish watching it right away. On Ganatantra, the hosts unpack how political violence works in India and why the absence of large-scale communal riots does not necessarily indicate social harmony. On Dalle Harate, the hosts are joined by Ramaprasad, who translated the Amaru Shataka, a collection of love poems from Sanskrit to Kannada. He talks about the immortal nature of this work. On Football Twaddle, the hosts discuss the Kepa and Sari incidents along with everything that happened in the Premier League. On The Habit Coach podcast, Ashton guides you through starting a sugar-less life and the importance of substituting sugar with stevia. In the season finale of our Hindi show, Cinemaya, Swati Bakshi is in conversation with Alankrita Srivastav, who discusses her journey from journalism to filmmaking and everything in between. And with that, let's continue with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:21.000",
+        "message": "Welcome back to The Scene and The Unseen. I'm chatting with Alexandra Ulmer about Venezuela. I mean, the other thing everybody sort of notices about Venezuela is the mad inflation. You know, now it's at crazy levels, but even under Chavez, it was at like 60% a year, and it would balloon. And one of the things that I realized was, one, that inflation has been a common part of Venezuela for decades, not just a Chavez issue. And two, there's a quality which people often consider a cultural quality, but which really seemed to me to come out of economic imperatives, in the sense that people often say that so-and-so kind of people or so-and-so culture,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:32:02.000",
+        "message": "they are good savers, they like to save,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:04.000",
+        "message": "as if that's a cultural value. But what inflation did to Venezuela was, because inflation was so high, it just made no rational sense to save. And Venezuelans would, I mean, taking debt makes, I mean, just to give an illustration of this, you could buy a house today at regular EMIs, and a year later, your EMIs would really be as much as you are paying to buy a loaf of bread. So it makes, so the moment, whatever debt you can get, people would take it, you know, so even the poorest people would take debt and buy flat-screen TVs and whatever and spend it on consumer goods. And it's not because of materialism gone mad or consumerism or anything like that, it's just that those are the economic incentives. So it's like culture being driven by economics."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:50.000",
+        "message": "And Latin Americans, historically, have not been considered good savers, but that's because they've, almost every country has had some kind of spate of inflation. Venezuela has pushed it to a whole other level, right? We're looking at 2 million percent, even though, as I mentioned, we don't have official government data. It's wild, and it's really the only thing people talk about because it is such a disorienting and life-destroying phenomenon. It destroys your salary. It's as if you walked into a supermarket tomorrow and a sack of rice was priced at 18,000 rupees. How can you talk about anything else? It's your livelihood. It's everything you thought was stable that is being cut out from under you. And what's particularly fascinating about this spate of hyperinflation is that it seems to be the first one of the digital age. So Venezuelan government can't even print enough physical money to keep up with the money it's creating in general. So there's a perennial shortage of bills. So prices are going up all the time, but no one has any physical money, which is insane because it's not the kind of wheelbarrow image you have of hyperinflation, right? So what does that mean? That means every ATM you walk in front of has tens of people queuing up at any given time hoping to get a few bills out, even though the maximum is about $2 that you can take out of the ATM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:08.000",
+        "message": "Which you can't buy anything with."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:09.000",
+        "message": "You can't buy anything with that, especially when prices are changing every day. So you use your bank card. Wait, there's a catch there too. Venezuela hasn't invested in its telecom system and has fixed prices for years, so they're completely oversaturated and so point of sales collapse all the time. They're also rolling blackouts because ditto, no investment, no maintenance. So the power grid is incredibly shaky. Your phones, same issue. So there literally were times where I could not pay for something. I obviously had the money in my account. I wanted to pay for it, but nothing worked. I had no bills. The power system was down. The point of sale didn't work. And there's just no way to conduct a very basic economic transaction."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:53.000",
+        "message": "And just for my listeners' benefit, to talk about the monetary basis of inflation, what inflation is typically caused by is when the money supply goes up relative to the goods and services available. So what happens is when a government decides that it needs to up its spending or pay back its debts or whatever and it starts printing money, the amount of money relative to goods and services just goes up and therefore you have more money chasing the same number of goods. So obviously supply and demand, the goods and services out there become more expensive. And if you just keep indiscriminately printing money, this just gets worse and worse till it spirals to, you know, unmanageable proportions till, you know, what you used to buy a house with. One year later you buy a loaf of bread with that and the poor are most hurt by it. But what kind of surprises me is that despite a lot of this happening for even the early, since the start of Chavez's regime in a sense, he had popular support for a much longer time than you would have. I mean, is that because people disconnect what is happening to them from the economic policies that a government carries out?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:57.000",
+        "message": "I think what Chavez did masterfully was control the narrative. That's what he was the most successful politician to do. So he said that all the economic woes were to do with an economic war being waged against him and Maduro's government, right? So the evil businessmen are stockpiling goods, the evil businessmen are upping prices in a speculative manner to ruin your life, etc. And, you know, hyperinflation is an abstract concept and it's not that easy to understand. And if the government dominates the airwaves and you don't have a background in economics, or perhaps not a background in anything because you weren't able to pursue your education, it's actually much easier to blame a speculator. And once the situation became really difficult in Venezuela and we had those hundreds of people banging on supermarket doors, demanding food, which happened all the time, you had the creation of these men called bachakeros, which is actually a name that derives from ants that can carry a lot on its back, which is lovely poetry, but in practice was terrible, right? So these men who queue up, buy up products that they then resell at a heightened price, right? Because not everyone can stand in line all day waiting for food. They have to get to work and some of them do have disposable income to pay more. So it's a lot easier if you're poor, stuck in line for hours, waiting to buy a pack of pasta, and you see these bachakeros slip in line in front of you, threaten you, buy up the products, and then you see those same products on your street corner the next day for five times the price. Well, who's to blame? The bachakeros, right? Of course, bachakeros don't exist in countries where you have enough supply and you don't have controls, but that's harder to remember when you're in the thick of it and you want to survive. I'm speaking more about Maduro's time in this essence, but I think in Chavez it was similar. He dominated the narrative and there was an incredibly polarized country, right? Where it was us against them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:55.000",
+        "message": "No, and also one thing all these guys fell prey to, not just Maduro and Chavez, but even before that, is the temptation of price controls. Like you referred to magical realism earlier, and price controls really are magical thinking. If you fix the price of something that's where it'll stay. But as we know, price controls lead to shortages. And then when you have shortages, obviously the black market gets involved, as you mentioned. And a lot of the problem in Venezuela was, the way I understood it, was driven not just by the rampant inflation, but also then because inflation put the prices of goods out of reach of many people. Chavez and then Maduro reacted by imposing price controls, which completely changed the incentives for manufacturers who wouldn't manufacture anymore, and the domestic manufacturing industry died anyway. And therefore goods became"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:43.000",
+        "message": "extremely scarce. Exactly. It created a negative food bag loop, where inflation would be up, the government would panic and decide to take corrective measures. So Maduro would come on TV, as he does almost every day, because that's how he governs, through the television, and announce a 35% wage increase to tackle hyperinflation, for instance, which meant that in turn, everyone had to increase the prices of the goods or services they were offering."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:07.000",
+        "message": "Because the wage increase came from basically"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:09.000",
+        "message": "printing money. Exactly. And then the shop owners have to pay their employees more, right? And so then, they even had this, they still do, have a superintendence of fair prices. They have inspectors that are sent out, often with a state TV camera trailing behind them, and they inspect the evil businessmen and, you know, fine them, arrest them, or whatever, if they feel like they're price gouging. And so, of course, you know, how does your business survive"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:35.000",
+        "message": "in those conditions? And you have to raise prices, and yet at the same time, and you know, another trend that I noticed, which again became much worse under Chavez, was expropriations, where the government would just say, okay, these private businesses are, you know, cannibals, and we're just going to take them over. And, you know, there's, one of this even happened live on television, where he went to the square in Caracas, and he asked the mayor of that area with him that, you know, what is that shop? And he points to one building, and those are the jewellery stores, and he says, expropriate them. And before the show is over, the guy has bought the papers, and he signed them. And then in the middle of the night, the store owners come to take the jewellery in cardboard boxes. And, you know, then the reporter who wrote about this says that a year later, there was absolutely, I think this was Rory"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:40:19.000",
+        "message": "Gallagher in his book, Comandante, that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:21.000",
+        "message": "a year later, the building is just empty, and there's absolutely nothing there, and it's all gone to waste."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:25.000",
+        "message": "Right. So I think you're hitting on a very important point there, because, yes, there were flawed policies in the Maduro government, in the Chavez government, and yes, there was a lot of corruption. But one of the main characteristics of their governance was just incompetence. Right? Because there are ways of nationalising, compensating whoever was nationalised, and putting together a structure to keep that going. But this was just Chavez on TV saying expropriado. And there was no follow-up, and there was no attempt to really create a structure. So this happened in factories, in farms, jewellery stores, just deserted, abandoned, and it's just so wasteful"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:03.000",
+        "message": "and heartbreaking. So you're saying is it then the case, just thinking aloud, that it's not even happening for ideological reasons, which would be bad enough, but just out of Chavez's showmanship, you know, to create those kind of optics, and to feed into his narrative, that, you know, private guy bad, and I'm your saviour, and I'm going to save you all."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:19.000",
+        "message": "You know, I had the distinct impression that everything at a certain point in Venezuela was just being governed, it was governance through television. That's not only because I had the unfortunate luck of being a journalist there, meaning I had to watch state TV day in, day out, which killed my neurons. But Maduro comes on television every day to speak, just like Chavez did, and that becomes, you know, a proxy for governance, you know, a flawed one, of course, that becomes the be-all, end-all,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:45.000",
+        "message": "controlling the narrative. And how did kind of, like Chavez seems to me, like you pointed out, he kind of died, treated by doctors in Cuba. He died before the oil prices fell, and you know, but Maduro effectively was following out exactly the same kind of policies, and what has happened to Maduro, I imagine would have happened to Chavez, but what was the kind of change that, I mean, and those are the years where you enter the story, and you know, 2014 onwards you've been there, and so what really happened? Take me through these last five years."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:17.000",
+        "message": "Sure. So Maduro is very narrowly elected in a very controversial vote where the opposition still maintains it actually won. We're talking about the actual numbers"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:29.000",
+        "message": "around the whole vote, of course."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:31.000",
+        "message": "As in they're talking about the elections were rigged, basically. They were tweaked. That's what the opposition claims. Undeniably, the government used the state to its advantage, so busing people in, changing voting centers, all sorts of dirty tricks, but there's still a question as to whether the actual numbers were tweaked. So he gets elected with, you know, very slim majority and little credibility. As you said, he was a yes man to Chavez, a former bus driver and union leader who, you know, didn't have any grand vision of his own, was at the time seen as quite a conciliatory figure, was able to negotiate and had been a fairly decent foreign minister in terms of his approach to other heads of states. But, you know, not cut out to be a president. So he takes on the approach of, Chavez was loved. I was designated to be his successor. Therefore, I shall not tweak any of his policies. And he stands firm, you know, backing these increasingly ludicrous and destructive policies as Venezuela's economy utterly unravels. And there starts to be increasing pressure for, look, you have to devalue, you have to let private investment in, you have to start to lift the currency controls, you have to increase gasoline prices, and Venezuela has the cheapest gasoline prices in the world. It's essentially free. Another one of the wild distortions of this magical realist place. But Maduro does not do any of that. So progressively the situation just spirals entirely out of control. When I arrived in 2014, there were odd shortages, right? I'd go to the supermarket and I'd ask for coffee and they'd say, oh no, we don't have any. And I remember one security guard said, well, come back tomorrow, I think we're going to get a shipment tomorrow, you know, in kind of a conspiratorial whisper. Okay, so I came back the next day and I got my coffee, right? But over time, it became far more critical. And that's when you really started having people getting malnourished, people dying of preventable diseases, you know, like diphtheria returned because there was a shortage of vaccines and the whole health system disintegrated. Cancer patients couldn't find their oncological medicine anymore. Even people who had successfully overcome things, like gotten a transplant for a failed organ and were living and happy suddenly couldn't find the medicine they needed to help stop their organ from being rejected. So just the humanitarian crisis balloons. And Maduro and his acolytes just dig in, essentially ignore reality. They both ignore it and blame it on the opposition without ever kind of acknowledging how dramatic it's gotten. They undeniably live in a bubble. They limit their outside interaction with the people. Everything is very choreographed and stage managed. And, you know, it's gotten to a point of no return where it's so difficult to reform the economy now unless you have a major bailout. Because anything you would touch could be dynamite, right? If you lift currency controls now or something, it could just completely destabilize and wreck the country in the short term. And they don't have the economic know-how or the wherewithal to do that. So he's just dug himself into a complete hole."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:33.000",
+        "message": "And I believe there's a refugee crisis out of Venezuela which people have compared to Syria and said it's actually worse and anyone who can get out somehow, anyhow, is getting out because it's just not feasible anymore."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:45.000",
+        "message": "Oh yes. I mean, the initial wave happened during the Chavez era when wealthy people, especially businessmen said, this is not smelling right, I'm getting out. But they left, you know, they took a plane, they had their money, they settled in Miami and Madrid and continued being doctors or engineers. It was sad, of course, but their life went on and they're doing well. But what happened under the Maduro government is the poor people suffered the worst. The poor and the middle class that got thrown into poverty because of hyperinflation and the general economic situation. And initially a lot of them left by bus or short-haul flight to the rest of Latin America. But increasingly what we're seeing is dirt poor people just walking across Latin America to as far as they can,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:27.000",
+        "message": "as far as their money will carry them. And how does the international community deal with this? Because there's also a wariness over time of interfering with other countries' private matters. And this is also a complicated area for someone like the US to sort of do something about because there is also this narrative about how Chavez and Maduro after him are these great saviors of communism"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:46:51.000",
+        "message": "and these neoliberals are constantly interfering and they are to blame. A narrative"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:57.000",
+        "message": "pushed to a large extent by Chavez himself and quite masterfully pushed but obviously utterly untrue. So how does the international community then deal with that? They have to be wary of responding but at the same time when there is such a massive humanitarian crisis going on it's hard to also say we'll"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:13.000",
+        "message": "do nothing. Yes, I think that was a big quandary especially for Latin America where sensitivities to US involvement are so high. And for most of Chavez's governance, much of the rest of South America was also ruled by the left wing. It was very cozy with Chavez and in some instances possibly benefited from his oil largesse or just private funds for campaigns. So there's very muted criticism of him. Over time that pink tide, as it was called, has ebbed over Latin America with the commodities price crash. So now actually you have a string of right wing governments. Still there was wariness about confronting him directly but the fact that so many migrants and refugees were spilling into Colombia, Ecuador, Peru, Argentina, Chile and because the situation has deteriorated in terms of human rights and democracy so much in Venezuela those countries have spoken out. But there is still this unease with having the US lead the charge. And for a long time at least under Obama, the US administration was pushing Mexico or Brazil regional powerhouses to lead, to avoid having the US be at the forefront because the US has had a track record of supporting dictators or even coups in Latin America during the Cold War and there's a huge amount of resentment against the United States for that and that helps explain the rise of people like Chavez. I think now because Latin America is dominated by the right and because there's so much sense of such urgency"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:37.000",
+        "message": "they're all behind Trump. And a lot of the resentment of course is justified and it takes me back to the old story about when Chavez comes to power, shortly after he comes to power there's a massive earthquake where millions get affected and the US offers to send aid Venezuela agrees the aid is on its way and then in the middle of the night Chavez calls the minister concerned and he says tell them to go back and the minister says no, no but they're already on their way and we need the help we can't do anything about it and he says no, no I don't want the Americans here because and he gets paranoid about, you know, they'll snoop on us and blah, blah, blah and he gets them to go back and there is speculation that maybe he spoke to Castro overnight and Castro told him to do that but whatever the case may be but the interesting thing through the Chavez years was that although he kept ranting about George W. Bush in very funny and amusing ways, I'm not going to quote any of that but some great quotes Google it, although he kept ranting about the imperialists and the neoliberals and the Americans and so on when it came to oil, it was business as usual. Venezuela was super efficient in supplying oil to the US which was the biggest buyer and everything there went smoothly"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:45.000",
+        "message": "Yes and bilateral relationship had ebbs and flows and Chavez would kick out the US ambassador and vice versa and Maduro likewise but the oil kept flowing and the US was depending on what metric he used as the biggest cash paying consumer because over time Venezuela ended up mortgaging its oil to Russia and China to pay back loans that they were receiving so the US was of crucial importance those flows are not changing because of sanctions and India actually is I think becoming or has become the number one cash buyer of Venezuelan oil"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:23.000",
+        "message": "Ouch, is this something we should"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:25.000",
+        "message": "feel bad about? India's private companies"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:50:29.000",
+        "message": "are reporting, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:31.000",
+        "message": "It's a different calculation and everything leads to believe that Venezuela"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:35.000",
+        "message": "is offering nice discounts Money is fungible What's the politics in Venezuela like right now? One interesting sort of turning point in Venezuelan politics which is easy to identify and you mentioned it in our conversation before the podcast was obviously the 2005 elections when there was this where somebody reported that voting is no longer anonymous you can find out who's kind of voted and because of this the entire opposition decided to boycott the elections and Chavez basically swept the assembly seats obviously because his party was the only contender there. Did that have a long term impact? Did the opposition recover from that"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:19.000",
+        "message": "and come back strongly and what's the situation today? The Venezuelan opposition has long been elitist, very quarrelsome, dominated by a smattering of parties that no one's ever heard of abroad but who love to fight amongst themselves and their boycott of the 2005 vote essentially annulled them from the political scene and gave Chavez a complete blank check to do whatever he wanted because his party controlled the National Assembly It also fit into this the opposition would repeatedly cry wolf before when it wasn't necessary, right? Chavez was clearly problematic for institutions from the start but the opposition would be wildly exaggerating what was happening and lose credibility in the process so by boycotting the elections and saying this wasn't a democracy and Chavez is the dictator when I think a lot of political scientists would say he wasn't, he had autocratic tendency but it wasn't a dictatorship. They actually facilitated his road to creating a much more authoritarian government Over time the opposition has done some soul searching and Enrique Capriles who was a two time presidential candidate for the opposition actually said no we cannot demonize Chavistas Chavez supporters we must talk to them, understand why they voted Chavez and show them why we're the path forward so he actually did crisscross the country go into the slums and the poor villages and talk to people and won over a lot of them not enough to win the election"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:45.000",
+        "message": "again we don't know exactly what happened"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:47.000",
+        "message": "Maybe he won it but he changed the narrative and kind of shook up what used to be kind of a bastion of the wealthy Caracas old families but in the last few years the government crackdown on the opposition has been much more ferocious so you know you have exiled politicians in Washington and Colombia in Europe, others who are in jail or under house arrest or even one who's holed up in the Chilean embassy and has been holed up there for months if not a year by now so they've completely chopped up the opposition annulled political parties, annulled any kind of political movement they tried to create to unseat Maduro and so it's very hard for them to articulate themselves now"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:29.000",
+        "message": "So where do things stand now"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:31.000",
+        "message": "as of today? It's been a whirlwind since January so Maduro was sworn in for his second term in January after a very again a decried election where all the Western powers said this was a fraudulent vote and everyone kind of expected it to be game over after that but then this new kind of fresh-faced opposition leader, Juan Guaido who had just become the head of the Venezuelan congress which is still led by the opposition and incidentally he became head of the congress because most of the people or many of the leaders in his party are either in exile in prison or holed up in the embassy so he was kind of the last person standing and no one expected him to become the face of the rejuvenated opposition so Juan Guaido was 35 swore himself in citing the constitution, his constitutional right to do that and declared himself president and that just set in motion a whole chain of events the US supported him, other European countries and Latin American countries also recognized him, it sparked a huge wave of protests and we thought the Venezuelan people were kind of broken, right? Immigration was the way out, everyone has just lost hope that anything could ever change and almost overnight it seems that people took to the street with renewed hope there was hope in the US and amongst the opposition that the military would immediately defect and support Guaido that did not happen the military in Venezuela is essentially an extension of the government, it has control over whatever lucrative business is left in the country. Plan B was to try to force in humanitarian aid so we had a standoff at the Venezuelan border a few days ago where the opposition tried to drive in these trucks full with food and the Venezuelan soldiers blocked them and there were confrontations, tear gas and Molotov cocktails etc, but it failed there was a number of defections, an increasing number of defections from rank and file soldiers, I think we're at about over 500 now, which is interesting and it's increasing every day, it's not a groundswell and we're not talking about the big fish, but it's something to monitor. Guaido left Venezuela to see the aid through from Colombia and is now in Brazil, meeting the president there. He's vowed to come back to Venezuela but Maduro has said there was a travel ban on you, if you return you shall be detained. So there's a big question there and possibly"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:57.000",
+        "message": "a looming confrontation. It seems like the political scientist A.O. Hirschman once said that if you're dissatisfied with the government you have three options which are you comply, you complain or you leave. And when I first heard that quote, I thought okay, no one's going to leave, who can leave, you know, but now what's happening is that there are people who have simply no option they cannot comply because they do not have food and there's no point complaining so they're leaving and it's just, and this is again like you said, it's the poorest of the poor, so it's a kind of a ludicrous situation going forward for Venezuela then, given the state of the politics and the state of the economy, what's a best case scenario and what's a worst case"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:37.000",
+        "message": "scenario in your view? It's kind of difficult for me to pine as a journalist but I would say that because a majority of people seem to want elections and there are significant doubts about the previous election the ideal scenario for many people would probably be to hold fair and just elections where the people can actually express their desire and that is highly unlikely to happen there are many worst case scenarios it's hard to say which is worst Venezuela is constantly defied to expectations of how bad it can get and unfortunately I have no I know it can get worse, I think what's most worried me is how lawless it can become in many ways of course the government is autocratic but it also doesn't have control over many of the factions that rule the country, the gangs the crime rings and then just the kind of isolated rural areas where there's no state there's no infrastructure there are no services and nothing works, nothing works you can't make a phone call, you can't buy food you can't transfer money, you can't get on the internet you can't wash your clothes there's no water, you can't turn on the light switch I mean we're just talking about a complete collapse in every single way"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:53.000",
+        "message": "Sounds like Afghanistan at its worst with the exception that this is a country that has enough oil to last it for more than 300 years this country should be insanely rich"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:03.000",
+        "message": "Absolutely and it's also a tropical country the vegetation is somewhat similar to to Mumbai actually so it's so incongruent to see people who are famished who show you their ID cards and you can't recognize them because they were so plump four years ago and now are just a shadow of themselves and they're climbing up trees trying to get mangoes because this is a bountiful country and thank God because otherwise people would have been in even more dire straits and I'm not excusing hunger in deserts or in Siberia or what have you but it's just so shocking to see that in a country that is actually very fertile and where bananas and mangoes and coconuts are growing wildly on every corner"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:43.000",
+        "message": "Blessed by nature and cursed by humans Yes So this has been a very illuminating episode but I'm going to end it by asking a question that kind of takes a step back I mean in the current times that we live in there obviously is an upsurge of populism all across the world in fact you know just reading the biographies of Chavez it struck me in how many ways he's common to the likes of Modi, Erdogan, Orban I mean there are so many commonalities and one phrase I came across again and again"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:59:13.000",
+        "message": "which I thought was a lovely phrase was Chavismo"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:15.000",
+        "message": "So tell me a little bit about Chavismo and tell me a little bit about Chavismo not just in a Venezuelan context but Chavismo in a global context and do you think you know why do you think it's there and what can be done about it by people who are concerned"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:31.000",
+        "message": "about it? To be fair I think Chavismo at its best and in its heart was a dream of a people to have justice, to reap the rewards of this bountiful country and to"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:45.000",
+        "message": "right past wrongs"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:47.000",
+        "message": "But that's a rhetorical thing Yes but people really fervently believe that and as I mentioned they kind of believe it as a religion. So I remember speaking to a social worker who says how can I un-teach my children this is what I believe it's like a religion for me it's so deeply ingrained that it's almost like severing part of yourself to stop believing or to finally face the writing on the wall What it turned out to be is an obscene level of patronage, cronyism and perhaps a massive money laundering"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:23.000",
+        "message": "and drug trading operation Like all religions are false religions I think yes Sorry that's my view"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:31.000",
+        "message": "I mean it strayed so dramatically from the rhetoric of Chavez in the early days that it's absolutely shocking I've wrestled for a long time with what the global implications are for this because Venezuela is such a one-off it seems in many ways of course it's a cautionary tale in terms of squandering oil wealth or following for populist sellers of dreams but it's also pushed things to such an extreme that it's sometimes hard to extrapolate but yes I think certain certain themes certain boring but fundamental themes like fiscal responsibility and the importance of institutions come to mind as trite as that is you never realize their value more than when all of that is crumbling"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:17.000",
+        "message": "Alexander thank you so much for coming on the show"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:19.000",
+        "message": "I really enjoyed talking to you Thank you so much"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:23.000",
+        "message": "If you enjoyed listening to the show do follow Alexander on Twitter at Alexander Ulmer That's A-L-E-X-A-N-D-R-A-U-L-M-E-R You should also follow Reuters Venezuela at Reuters V-Z-L-A You can follow me on Twitter at Amit Verma You can browse past episodes at TheSeenAndTheUnseen and SeenUnseen.in and ThinkPragati.com"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:01:47.000",
+        "message": "Thank you for listening We could talk about how there's no such thing as love and it's all a load of crap and nothing can ever truly bring meaning to our lives You might need some help there Alright it's a yes then Dating is garbage Every week we break down all things from dating apps social media, texting, calling, dating rules and more with some really cool people Episodes out every Thursday on the IBM Podcasts app wherever you get your podcasts Don't forget to tune in to the Sponge Podcast Keep Sponging to Keep Learning"
+    }
+]

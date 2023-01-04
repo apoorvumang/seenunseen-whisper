@@ -1,0 +1,307 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:00.000",
+        "message": "But this is a real India and things are getting worse."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:07.520",
+        "message": "Welcome to the scene and the unseen our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:18.720",
+        "message": "Welcome to the scene in the unseen. Today's episode is about the impending jobs crisis in India, or rather the ongoing jobs crisis. And my guest is my old friend, the brilliant Yaza Chal. I first met Yaza around 15 years ago when he was an early blogger like me and used to work as CEO of Praja, a Mumbai NGO that works with government to make it more accountable. He then went to the US, got an MBA at Yale, worked as a consultant at firms like McKinsey and IBM, and then decided to come back to India. He now works at the Takshashila Institution in Bangalore and heads a project called 20 million jobs. The purpose of this project is to try and understand India's jobs crisis, to propose solutions and bring all of this into the public discourse. There'll be a book at the end of this, perhaps even films and so on. But that's down the line. As of now, Yaza and his team is collecting data and coming to terms with the enormity of the problem. I've been looking forward to this conversation. But before we begin a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to Indian colors.com. Indian colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art like stoles and shrugs, home decor like cushion covers and table runners and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price. And artists get royalties on sales just like authors do. What's more, Indian colors now has an exciting range of new products, including fridge magnets with some stunning motifs and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vazvo x Vazvo, Brinda Miller, Dilip Sharma, Shruti Nelson and Pradeep Mishra. They accept bulk orders for corporate and festival gifting. But even if you want to buy just for yourself or a friend, head on over to Indian colors.com. That's colors with an OU. And if you want a 20% discount, apply the code IBM 20. That's IBM for IBM podcast IBM 20 for a 20% discount at Indian colors.com. Yazad, welcome to the scene in the unseen. Hi, Amit. Thanks for having me. Yazad, I've actually done an episode in the past on the jobs crisis. I think it was with Vivek Kaul. But I get the sense that even I don't fully understand how bad things are. So so give us all a sense of what this jobs crisis is like. How bad is it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:50.480",
+        "message": "Okay, it's enormous, is perhaps the best word to put it. According to labor ministry data, we have 12 million people entering the workforce every year. That's 1 million a month. That's right. Additionally, we have approximately six and a half to 7 million jobs that are being lost in agriculture every year. Wow. So we have around about 18 to 19 million jobs that doesn't count other sectors and other job losses. So rounding it off, we have around about 20 million jobs that need to be created every year"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:26.160",
+        "message": "in India. That's about 16 or 17 lakh people coming into the workforce every month."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:32.000",
+        "message": "That's right. That's right. So when we look at that, we'd also somebody would ask, but of course, jobs are also being created. It's not that you know, we just have this gap. Different surveys give us different figures. For example, between 2011 to 2015, we created around about 7 million jobs total. Between 2013 and 16, we created between 1.5 to 1.4 million jobs. That's one and a half to 4 lakh jobs in the entire year. Wow. So other surveys show that we create 7 million jobs a year. Even the most optimistic of those, which I don't believe talked about by Sujit Bhalla, said that we created 12 million jobs in a year. None of those come close to the figure that we really need to create the 20 million jobs that we're talking about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:28.400",
+        "message": "And frankly, Sujit Bhalla's 12 million figure is just nonsense. He's kind of I mean, I don't want to be harsh and focus on personalities, but he's renowned for getting everything wrong through his career. So let's not even."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:38.880",
+        "message": "Yeah, I mean, for example, I'll give you one example where those figures don't work out. They take the employment, the EPA for data, the Employment Provident Fund Organization data, and then they look at new Provident Fund accounts that have been open for workers aged 18 to 21 years. And they assume that 80% of workers in this age bracket are first time workers. That assumption is not justified. So you arrive at a figure of 1.8 million new jobs in the sector and this age group without having any sort of firm foundation for that by just making a little bit of statistical, you know, jugaad, if one must say. So but the most optimistic of it is even is around about 60% of what is required in the economy today. That's the reason why when you have these things like the Railway Recruitment Board or the UP police, which, you know, notified for like a few thousand jobs, and they got inside 62 jobs, I'm sorry, the UP police gave an ad out for 62 jobs for a communications post, which required a fifth standard education. They got more than 3000 PhDs applying for that same job. My God. So we have this gap. And that is why you have people who are highly educated, looking for the first possible or any possible chance or opportunity they have. So in a sense, the situation is quite dire. And that, you know, that speaks to a number"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:12.240",
+        "message": "of things like that kind of a figure with 1000s and even lakhs of, you know, where you have more than 300 applicants for a single low level government job. And so many people are so well educated speaks to a number of things. One, it tells you that there's just a lack of jobs out there. Two, it tells you that there's a mismatch between education and employment that somehow that demand supply relationship that should exist between the two does not and obviously, we've both spoken about this many times in the past part of this is because markets aren't allowed to operate in either of those fields. And that causes a mismatch. And also, there is an interesting point that these people that there is this greater demand for public sector jobs, government jobs, because that just not only tells you that that kind of security is valued, but it also tells you the uncertainty and the insecurities that come with private sector jobs and private sector jobs across India aren't really the sort of jobs that elites like you and I might get where you get a salary and you have your perquisites and all and there's a contract and all of that. But they're pretty dire. Most of them are in the informal sector, which only exists because of bad regulation. But I'll come to all of these later. I'd like to explore all of these. But first, just sort of start with a basic point of misunderstanding that a lot of people have. Can"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:32.400",
+        "message": "you define what a job is for me? So that's that's actually difficult to do. So whether it's paid employment or self employment, there is no clear definition of a job. What we do have is we have formal jobs and informal jobs in India. So a formal job has an explicit contract. Okay, while an informal job has no such contract to it. And additionally, we have what we call the organized sector and the unorganized sector. So the unorganized sector is basically unincorporated private enterprises with 10 or less workers in them. Right. So these are the micro and the mini kind of organizations. And between 80 to 90% of working age population people either work in this unorganized sector. So a large percentage of these are self employed. And part of this unorganized"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:21.840",
+        "message": "sector might be formal or is all of it informal? Part of it could be formal, but very doubtful. So"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:29.040",
+        "message": "most of it the formal sector is in the formal organized sector, right, is what we really focus on. So when for example, there was a news item recently that we had tech firms were hiring. So those would all be formal jobs in the organized sector. These are large companies like TCS and Wipro and Infosys that were hiring. And a big hoo-ha was made about it. But the total number of jobs if I remember right was around about 24,000. Right. So and there was there was supposed to be big news that 24,000 jobs new jobs being created. So those would all be formal organized sector jobs. But the vast majority of people who work in this country work in the informal and the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:11.200",
+        "message": "unorganized sector. So I'll take a brief detour here. What is the informal or unorganized sector?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:16.320",
+        "message": "Why does it exist? It exists because most small organizations in the country haven't been able to scale up for a variety of reasons. And also because in this because of labor laws, it makes sense, you know, to kind of keep your organization small. So those are roughly the two reasons why you'd have a large number of organized unorganized sector workers in the country."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:44.000",
+        "message": "In fact, I had a rant on this a couple of episodes ago, I think the demonetization episode with our mutual friend Shruti, where we were lamenting how, you know, the informal sector is often treated as if there is something morally wrong in being informal, you're evading taxes or whatever. And what people don't understand and what I want to just keep stressing is that the reason the informal sector exists is because it is forced to because government regulations are so draconian and so stringent that most of those companies would not be able to comply and would not be able to exist in the formal sector. And therefore, they are forced to exist in the informal sector. And that prevents them from scaling up to the kind of level that they otherwise would, which would be great for both the nation and the economy in this whole virtuous cycle positive some kind of way where they would generate far more employment, and so on. So we should not look at the informal sector as people who are somehow outside the law, but as people who are not allowed to function because of the draconian nature of the law."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:48.240",
+        "message": "That's true. Sometime back, we were talking to an exporter of textiles, garment manufacturer and exporter, a quite large conglomerate. And they were telling me that they keep their factories to round about two and a half thousand workers max, because of infrastructure reasons as well. They want to make sure the workers you know, are able to come to the factory easily enough, while in villages and other areas, it's if it's more than an hour's journey, people simply won't come to work. And that infrastructure doesn't exist in rural areas to help people simply commute to work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:26.160",
+        "message": "Right. And the other interesting thing, and this will lead me to my next question. And the other interesting thing here is that you mentioned how there was so much hoo-ha and hype about the 24,000 new jobs, which were all created in the formal sector, and again, for relative elites. And what people don't understand often is that much of the data is either coming from the much of the data on jobs is either coming from the formal sector, or it's extrapolations from data that comes from the formal sector. The informal sector is very hard to get data that, you know, labor contractors kitne hain, pakore wala kitna hain and so on. Which is why when you look at something like demonetization, for example, it's hard to estimate the damage it did, because most of the damage would have happened in the informal sector, which runs mainly on cash. And, of course, 86% of the cash supply was cut off. And you have no idea of how many companies shut down in the margins, how many livelihoods were destroyed, because none of that is reflected in the data is that sort of accurate. And then the next broader question, which I'd like you to sort of expound on is, what are the problems you face when you're doing a sort of project like this, where you're trying to understand the jobs crisis with data?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:35.520",
+        "message": "So there's a lot of problems with data. I mean, the Prime Minister himself has talked about and confessed that, you know, regarding data, there's hardly any numbers available in employment statistics, he tried to get out of giving figures for this. But he's right in the sense that we have data from different sources. We have Labor Ministry data, we have the NSSO data, the National Sample Survey Organization data, we have data from sources like the Employees Provident Fund, which we shouldn't really be using for job markets data. But there is no central statistical kind of data repository. And apart from that, there is no consistent collection of data as well. So very often, one has to rely on private sector data, data from sources like the CMI, the Center for Monitoring the Indian Economy, and different sources of data then give different pictures. And one is confused at times at which source to take what kind of assumptions to make, how does one reconcile the data from different sources, it's something that we are still grappling with right now, looking at all these figures and trying to make sense of them is a huge part of the problem as well. And that's one reason why we haven't been able to estimate for example, how many jobs the economy is creating. So let's say you have certain data sets"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:58.240",
+        "message": "at your disposal, and you make of them what you do. But beyond that, what are the sort of broad metrics that you draw upon to kind of figure out how bad the problem is, is the problem getting worse. And also there is, you know, this added element of the fact that India is getting younger. And this was supposed to be what people call the demographic dividend. Because you know, the average age in the country today is 27 60% of the country is actually born after liberalization, so they can't possibly relate to what we went through before that. And which is why there's also a sort of growing romanticization among young people of socialist ideas, and so on, because they haven't lived through those years. But that's an aside. But leaving that aside, you know, we were supposed to benefit from this demographic dividend, where these 10s of millions of enthusiastic entrepreneurial young people will take the country forward. But what we instead have is more of a demographic disaster where you have these 10s of millions of young people coming into the workforce as the country gets younger, but they haven't been educated well, which is a whole different subject. And even those who have some education are misfits and cannot get the kind of jobs that the skill requires or don't have the skills that the jobs require. So what are sort of when you try to build a long term narrative of this, what are the different kinds of strands"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:22.960",
+        "message": "that you look at? Sure. So there, I wouldn't be that pessimistic. I think we still have a demographic dividend. I'm hoping that it does not turn into a disaster. Although we seem to be going that way right now. So for example, one of the things we look at is labor force participation rate. So what is the percentage of the population that is actually participating in the labor force? And that has seen a decline. So between 2011 and 15, we saw a 3% decline in the labor force participation rate from 55% to around about 52%. But what's far more worrying is that the female labor force participation rate has declined dramatically from around about 34% to 27% in the last two decades. So there are far fewer women working. And this is especially true in the middle income sector. So you don't see that really in poor women, and you don't see that in highly educated women, but you see that in the sector in between, where women are actually dropping out the labor force to stay at home. Now, one reason being given is that, you know, if you have higher income and the male is able to provide for the family, then, you know, the woman doesn't see any need to work. And there are also social kind of strictures or social conditions that, you know, create some sort of barrier for women working. But that's a concerning figure. I mean, countries like Bangladesh have higher female labor force participation rates that we do, close to 10% more than us. Apart from that, what we've seen recently is that jobs in agriculture are falling. We've seen 26 million jobs lost in agriculture in the same period 2011-15, while we've seen non-farm jobs grow by 33 million. So that's what gives us, we were talking earlier, the 7 million figure of jobs being created in those years. So that's one figure we look at the labor force"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:31.280",
+        "message": "participation rate. And just a segue for my listeners, as far as women's labor force participation is concerned, Namita Bhandare had an excellent series in India Spend last year. And your colleague Devika Kher has written about this on Pragati at thinkpragati.com, the magazine I read. So do check those out. And when I first realized this, this was very counterintuitive and mind blowing for me because I had always assumed that as India progresses, and as things get better for women, for example, I point to a figure like rising divorce rates as a very positive metric for the empowerment of women. And my assumption was that however slow it is, women are getting empowered. So to then find that the labor force participation has actually declined was a huge revelation for me, which I'm still sort of wrapping my head about. And to mention that, for the reasons you mentioned, and you know, you can check out the other articles, especially Namita Bhandare's analysis for more on that. And the interesting thing about the job loss in agriculture and is also that that is not necessarily a bad thing. You know, you and I have been arguing forever that, you know, around 50 to 60% of this country is employed in agriculture, the relative figure there in other countries is 5% or 6% in the US and in Europe. Part of the reason that so much of the countries trapped in the cycle of dependencies, again, bad government policy, and they're not able to escape. And we've had some episodes on this in the past, including the very last episode with Mr. Gunwant Patil in Hindi, please check that out. And one of the ways through which this has happened elsewhere across the world at that 50% becomes 5%, which is a natural process everyone goes through, is that productivity has gone up in those countries. And it hasn't to the same extent here. And I know you have some larger points to make on labor force productivity, not just in the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:15.280",
+        "message": "agriculture sector, but overall. So yes, labor productivity itself that we're looking at, once again, we're looking at these figures, the years 2011 to 15, for which we have proper data that fell to 3.84%. So during the first decade of the century from 2000 to 2010, our productivity grew at an annual rate of 5.52%. Now, labor force productivity is a very important figure when you're looking at GDP,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:46.880",
+        "message": "Can you define it for me? So I don't know the term. So I'm assuming that labor force productivity is you sort of divide the GDP by the number of people in the labor force. That's right. And therefore, you say that, okay, each person is producing this much value."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:59.120",
+        "message": "Correct. You defined it. Right. So now to obtain higher GDP growth, for example, if you have to obtain a GDP growth of 9%, we need to see our labor force productivity grow at around about 7.3%. In 2015, it was 4.2%. That was how much it grew by in 2015. If you want to see 10% GDP growth, we need to see our labor productivity grow at around about 8.3%. So these are important figures. To look at it another way, most of the workers that we have are medium skilled workers in India. 60% of workers in India are medium skilled. Only 15% are high skilled. And most economies that did make that transition from developing to developed, you know, moved into having higher labor force productivity. Now today, for example, economies, developed economies, their labor productivity grows around about 2 to 3%, but they have a much wider base. So for us to reach that percentage, to us to reach that GDP growth, we need our labor productivity to grow at a commensurate rate. France, if I'm not wrong, is the country with the highest labor force productivity. And their labor is round about 40 times as productive as ours is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:21.680",
+        "message": "And part of the point, if I read you correctly, you're making is, is a question of the level of skilling in a highly skilled job, you end up producing much more of value than say you're doing a lowly skilled job, like if you're a worker in a factory whose only job is to put nails into something. And you have a whole bunch of manual laborers like that, and that productivity isn't high. So part of the secret, therefore, is that you have skilling going up. So, you know, more and more people do sort of more highly skilled jobs instead of getting stuck there. And part of the issue is that scale brings productivity. And as we just discussed, Indian companies aren't really allowed to scale. And therefore, that keeps the productivity low. Even Indian agriculture, as my guest last week pointed out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:04.560",
+        "message": "So one reason why you know, you see only 5% of people working in agriculture is because you see those 5% are really highly skilled. You're using technologies, you're using harvesters, you're using tractors, and so on and so forth. And you have fewer people working on much larger tracts of land. While today in India, we have a lot of people working on smaller tracts of land. So that's why agricultural productivity isn't high. Even other sectors productivity in India needs to rise even in the manufacturing sector, where we've seen productivity stagnate"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:41.200",
+        "message": "by and large. Here people might naturally ask that, okay, 50% of the country approximately today survives on agriculture. 60 actually. Yeah. And it's a sort of a nebulous figure, because a lot of that is part time. And you know, it's associated. I mean, they're not directly farmers, but whatever, leaving aside, it's let's say it's around 50%. And it's much more than it should be. But if productivity in agriculture goes up, and that number comes to 5%, what happens to the rest of the people? Where do they get employed? How are those jobs being generated?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:09.360",
+        "message": "That's a really big question, because that would be even more than 20 billion that we'd require. Exactly. And what we see is, we do see a lot of disguised unemployment out there where we think people are employed, but they're not. And that bubbles up, you know, if it's not kind of taken"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:25.680",
+        "message": "care of, it bubbles up into social and political spheres. Give me an example of that disguised unemployment, like where we think they're employed, but they're not. So where, for example, an example"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:35.280",
+        "message": "is that you think that there are five people working on a farm, and that's what's being reported, but there are only two people working on the farm. And there are three guys who are just sitting around doing nothing. So those three guys are disguised unemployed. We think that they're employed, but they're not actually being employed. They're not actually doing any work. It's just two people doing that work. And you see that coming out in social unrest in the country, whether it be, you know, in these WhatsApp lynchings that happen where people get agitated, whether it be in, you know, these cow lynchings that are happening. So all of these bubble up in social unrest as well. And it's important to look at the fact that it's not just restricted to economics. You'd see these employment issues coming out in a variety of ways if they're not"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:28.000",
+        "message": "handled or dealt with. And our mutual friend, the economist Kumar Anand, he's from Bihar, and he had gone to Bihar recently to spend time at Saharsa, which is his hometown, and he came back and we were chatting and he traveled through Bihar during that trip. And we came back and he was chatting and he said that one of the images which will haunt him forever, and a recurring image which he saw not in his nightmares, but in, you know, in real life in actual Bihar, was that in so many public spaces, there would just be dozens and dozens of young men, young men just standing doing nothing. Maybe they're standing around the pawn shop, maybe they're just standing on the street looking at their phones or talking to each other or, you know, smoking cigarettes, or they're just standing there. And this was an image I asked Nigdha Poonam about when I did an episode on Young India with her. Nigdha Poonam, of course, has written the excellent book Dreamers. And she kind of corroborated that she said that that was a familiar sight for her as well. And again, one of the things a book does is kind of examine what, what these young men do, what they sort of go through the different directions they can go in and she had a very powerful chapter on anger, on what they do with their anger. And a lot of these men, like for example, she followed a guy who was part of a Gauraksha gang, and it lifted his social status to be able to express his bigotry in that way, instead of keeping it suppressed. And you know, 20 years ago, it would have been the opposite, you'd benefit from suppressing your bigotry and pretending to be a reasonable person. But now, it actually pays to sort of act out on those impulses. And there was another person she profiled who was a warrior against Love Jihad, for example. And, and it's kind of worrying that when you just spoke about the social cost of all this, this guy's unemployment or underemployment, which I shall also ask you about, or just flat out unemployment that people are coming into the workforce, they are young and they don't have jobs and where do they go and one of the things they do is they become foot soldiers for whatever movement appeals to their inherent tribalism. Correct. And, you know, political parties and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:31.440",
+        "message": "other institutions are taking misusing, you know, a lot of these foot soldiers for their own ends. And Siddhartha Poonam has talked about that. There's also this case where, you know, where you have farmers whose children who are educated, or somewhat educated, then no longer want to go into agriculture, but they don't find any other avenues for them. So they're, they think that they've evolved beyond agriculture, they have more aspirational objectives, they want to get to a government job, ideally, which they find it very difficult to get. And therefore, they're, you know, part of that group of people that you've seen around standing, you know, in village squares, doing nothing. And, you know, ready to do the bidding of the first person who comes along and says, I'll give you 300 rupees per day, would you go out and do that? You can kind of fill in the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:28.000",
+        "message": "blanks and what that could be. Right. So and I have a couple of questions and taking on from that. I'm going to ask you those after a brief commercial break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:38.800",
+        "message": "Hey, everybody, welcome to another week on IBM podcast. If you are not following us on social media, please do. We're IBM podcast on Twitter, Facebook and Instagram. Also, I wanted to ask everybody, you know, it would be really great if you could recommend a show that you like to a friend. That's the way that we're going to spread the word about podcasting. Please, please, please go ahead and do that. This week on Cyrus Says we have film critic Rajeev Masand. Cyrus and Rajeev discuss films they grew up on, the allure of movie stars and the bright future of Indian films. On Simplified, Chuck Narain and Sriket tell us about eco-friendly Ganeshas and how Ganpati immersions can be more environmentally friendly. On the scene in the unseen, Amit speaks to Yazad Jal, a fellow for economic policy at the Takshashila Institute about India's ongoing job crisis. On the Pragati podcast, lawyer and policy analyst Amaya Naik joins Pawan and Hamsini to discuss the Syrian civil war that's killed half a million people and displaced more than 10 million Syrians. This week on Pesa Vesa, Anupam talks to Deepak Shinoi. Deepak is the founder of Capital Mind and they discuss portfolio management schemes. The Rediscovery Project is coming out with his fourth season. Don't forget to catch Ambika and Hoshna with all new episodes from the 25th of September. And with that, let's go on with the shows. Welcome back to the scene in the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:43.200",
+        "message": "unseen. I'm chatting with my friend Yazad Jal who's heading a project at the Takshashila Institution called 20 million jobs, whose idea is to make sense of the jobs crisis in India. And if possible, if there are solutions, he's more positive about it than I am, suggest solutions. So Yazad, we were discussing these millions and millions of people coming into the workforce on a regular basis, and there are no jobs for them. And there's a very sort of interesting anecdote that, like, first of all, I like I have two related observations, one of which leads into a question, the first observation about people not wanting to do farming anymore, is an observation I've made in the past, I think I had an episode with Vivek Kaur where we spoke about this. But and I keep talking about it that all the recent youth agitations we have had in the country are not over some higher causes or some great noble principles of fighting for freedom, or so on and so forth. But they're all about jobs. And if you notice if all you know, whether it's the party that's in Gujarat, or the Jats in Haryana, or the Marathas in Maharashtra, they're all from landowning castes. And what's kind of happened there is that with every generation, the amount of land that a family has basically gets split among the descendants who are usually more than one, and therefore the land grows smaller and smaller. And what has happened with this generation, especially, is that land sizes across India of these landowning castes have gotten so small that they're simply not sustainable. Now, we've discussed in past episodes on agriculture, how you're not even allowed to exit agriculture, you can't sell agricultural land for non agricultural purposes. So these young men, even if they wanted to can't make a living of agriculture, there isn't enough. And therefore they are agitating for jobs which are not being generated by industry. And all of these agitations are for increased reservations and government jobs. And that's a really scary trend that all of these recent youth agitations are about jobs, and at some level, arising from the failure of our agricultural policy. And my second observation at the end of which I have sort of a question for you, which you are uniquely placed to answer is our mutual friend, Mohit Satyanand had once told us about how he in Himachal, he lives part of the year in Himachal and he's spent a lot of time there. And he had once retired and gone there before he came back and now lives in Delhi. And he lives in a village called Satholi. And he's seen these kids grow up there over this 20 year period. And he points out that how what often happens there is that the children of tradesmen like plumbers and watchmen and so on and so forth, they get a certain kind of education in the sense that they do their 10th, they maybe do their 12th also, whether it's in government schools or private schools or whatever. And having done that education, they then feel entitled to more than what their parents got. They don't want to be plumbers and they don't want to be sweepers and they don't want to be chowkidar. So they refuse those kind of jobs. But at the same time, they haven't learned those traits either. But at the same time, they have been enormously undereducated. So they're not really equipped to do anything else. And this brings me to one of the points I made at the start of the episode that there is an enormous that part of the jobs crisis comes from our education crisis, that there is a mismatch. Our education system is not turning out people who are good for anything. And it is also not responding to the demand from industry that, you know, give us these sort of people who do these sort of things. And you've also you know, in the past, you were one of the early members of the Center for Civil Society in Delhi in the late 1990s. And you're fairly familiar with education also. And would you say that's a big part of the puzzle?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:30.880",
+        "message": "That's definitely part of the puzzle. Agreed. Because most people that come out of even engineering colleges, you know, are not, you know, qualified to do basic tasks in an engineering firm. So that kind of mismatch between what our education says on paper and what skills are actually learned in education is true. We need to improve that. So that's one really big part of the problem. The other part of the problem is that we don't have an apprenticeship issue. So, you know, there are countries which have big apprenticeship programs where, you know, kids are apprenticed with, you know, somebody who's working in that area. And you spend one, two, three years as an apprentice, and then you learn that skill, and then you are able to do that on your own. So you are able, you then get to be much better skilled than just what an education"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:26.480",
+        "message": "would give you. And other countries also respect dignity of labor. Correct. Which is, you know, not the case here, as in these kids that Mohit speaks about, he's seen them grow up and for them being a plumber or a watchman is below their dignity, they would rather do nothing at all."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:41.760",
+        "message": "That's right. And I mean, I'll give you a personal example. My cousin's son is a plumber in Australia, and he's perfectly happy with it. It's it's something that he does, you know, out of great joy, you know, doing that. It's if you were to ask if he was living in India, would he be happy doing it being a plumber? Maybe not, because there isn't even that social kind of acceptance"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:05.680",
+        "message": "of certain trades. Maybe I'm just thinking aloud, and maybe caste also has something to do with it. Because those kind of jobs, menial jobs are done by the lower caste, and therefore that social"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:14.160",
+        "message": "angle gets into it. That's also possible. I was also looking at another aspect of this, which is vulnerability. When we're looking at jobs, we're also looking at wages. Now, one stat that really hit me recently was 80% of casual workers and 30% of regular salaried workers earn less than what is the minimum wage in this country, which is approximately 66 rupees on average, you know, depending on where you are, minimum wage is a local subject, so different areas have different minimum wages. 66 rupees for what unit? Per day. Per day. Per day, luckily. And around about 78% of people in this country are vulnerable in the sense that they're either self-employed or what we call unemployed, in which case they are not employed by somebody else. They are responsible for, you know, raising their own salaries or their own income. Prime Minister once talked about, you know, pakoda sellers being, you know, a viable job. And it really isn't because what people are looking for is security and stability. And what what we find instead is exactly the opposite, a large amount of vulnerability in jobs. So much so that, you know, Manish Sabharwal of Team Lease has talked about this not being a jobs problem in the country, but a wages problem and a vulnerability problem where it's important that when we're talking about jobs, we're talking about the jobs of people who are unemployed. And it's important that when we're talking about a job, we should talk about something that gives a certain level of stability to the worker. And that is missing today."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:57.280",
+        "message": "So which basically comes down to saying that, you know, you might say that on paper, there are X number of jobs, but if a significant percentage of them don't have a security and stability and B don't have high enough wages to really be meaningful in any sense of investing"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:12.320",
+        "message": "it, they very often are not. So that level of vulnerability is something that we need to look at. Another figure that I was talking about, what I was thinking of talking about when we're talking about productivity earlier, is employment elasticity. So this might be a slightly wonky economics term to discuss. You've already lost me. Carry on, I'm sorry. Tell us what it is. One thing that we've talked about a lot of times is that if the economy grows, if GDP grows, employment grows along with it. So one way to make sure that we have jobs is to simply let the economy grow. But that may or may not be true. So one of the things we look at is what's called the employment elasticity of income, which is a correlation of employment with GDP. Correct. So this percentage of change in employment associated with a one percentage point change in GDP growth. So it's the ability of an economy to generate employment opportunities for its population, as the economy grows. So if your elasticity is one, it means that for every point that GDP grows, you have a one percentage point growth in jobs as well, which is ideal. If it's zero, it means that jobs don't grow at all. Productivity grows, but jobs don't. So it simply means that the economy grows, but jobs don't grow at all. And the worst part is if it's negative, which means that the economy grows, but jobs actually shrink. It means that, you know, maybe you're getting more capital intensive jobs. So between 99 and 2000 to 2004 and five, our employment elasticity was around about 0.5, 0.5, which meant that for every percentage that the economy grew, we got 0.5% growth in jobs. So like if the economy grew 7%, you would have a 3.5% growth in jobs. Correct. The next five years, from 2004, five to 2009, 10, we saw an employment elasticity of 0.01, which meant basically as the economy grew, we got hardly any jobs. So virtually it was close to zero. In the last, from 2009, 10 to 2011, 12, the last years we had the figures for this was like 0.18. It's a worrying figure because what it tells us is that the economy will still grow, but jobs don't grow along with the economy, which is one thing that we would like to see."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:37.920",
+        "message": "And it might indicate that the economy is growing in the more highly skilled sectors rather than."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:43.520",
+        "message": "Correct. So part of it could be good when we're looking at say agriculture, we see that the agricultural employment elasticity is negative. It's minus 0.041, which means as the economy grows, agricultural sector loses jobs. What we would like to see, and some of it is heartening that we would like to see a corresponding growth in other sectors. So in manufacturing, we do see some amount of growth, we see an employment elasticity of 0.33. But in a sector like construction, we see an employment elasticity of one. So as the economy grows, construction adds the same number of jobs in a sense in its sector as the economy grows. And because farming can't"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:24.800",
+        "message": "sustain so many workers, they move to manufacturing, they move especially to construction, and they move into urban areas where there are more opportunities for them, which is a shift in"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:33.440",
+        "message": "the right direction, which is a shift that we should be seeing. We should be seeing a higher employment elasticity in manufacturing, because that's one sector that we see when people move out of agriculture, we see people largely moving into manufacturing. In India, we've seen a lot of people moving straight to services. So we see, for example, the guy who is unemployed in agriculture in the rural areas comes to the urban areas and most probably works as a swiggy driver."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:59.440",
+        "message": "Right, which is also great. I mean, now here's my next question to you. I mean, you know, this is clearly not something that any one party can be blamed for per se. Our whole system of governance is like this has been like this for 71 plus years. And I think we have broadly agreed that a lot of this has been caused by the draconian nature of the state. But having said all of that, what can the state now do to mitigate this, for example, all the recent agitations which have happened, Jats, Marathas, Partidas, etc, are all a demand to the state to be the solution to this and that in no specific cases give us reservations. But otherwise, broadly, people sort of tend to look at the Narendra Modi government and say that, hey, you know, okay, the previous guys might have done whatever, you create the jobs, can they create the jobs? To what extent can they solve this problem?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:50.960",
+        "message": "So let me talk about some of the government schemes that are there and see how those work out. So the flagship scheme that was started out by the UPA government before and has been continued by the Modi government is the National Rural Employment Guarantee Scheme, which is called NREGA or M Mahatma Gandhi National Rural Employment Guarantee Scheme. And one of the things we found out is that it does improve food security. So people there, you know, who enroll under it, do have a better chance of having better livelihood to some extent. However, what it has also done is it has killed the development of micro enterprises in villages. So small businesses, small enterprises in villages have largely been killed because of the income that it provides and farmers out there. The other thing that studies have found in NREGA is that it doesn't effectively target people. So only approximately 26% of those, you know, applying for jobs and getting jobs in that are below the poverty line. Ideally, that figure should have been 100%. But only 26% below poverty line are actually those who are getting benefit from this scheme. Another scheme that the Prime Minister has talked about is being the Mudra scheme, you know, the scheme that where he's looking at self-employment and trying to improve entrepreneurship. The Mudra scheme gives loans to, you know, micro entrepreneurs. And there are three kinds of loans given. There's Shishu loan, which is up to 50,000 rupees, the Kishore loan, which is 50,000 rupees to 5 lakhs, and the Tarun, which is 5 lakhs to around about 1 million, so around about 10 lakhs. And what we find out that out of the 32.7 million loans that have been given out, rupees and loans that have been given out, the vast majority, 30.3 are Shishu loans. So these are loans that are 50,000 rupees or less. And, you know, researchers said that this is not really enough to create jobs. There have been reports of 55 million new jobs being created. But it's highly unlikely that these loans have been given out to people who were previously unemployed. So these have been given out to people who were previously employed in something else. So these 55 million jobs that have been talked about in the Mudra scheme, as most probably no new net jobs have been created. We've just seen a shift in jobs from one area to another."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:28.080",
+        "message": "And also, you don't see the opportunity cost of all this, like if the money was spent elsewhere, it would have maybe created jobs there and that not happening has, you know, those are the unseen"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:38.480",
+        "message": "effects. Correct. So if money was spent in, for example, in infrastructure, we might have seen a much larger effect in it. There are other, you know, PM, EGP and the Pradhan Mantri Rozgar Protsahan Yojana and the Gram Sadak Yojana and there are a lot of schemes that come out. But my main issue with a lot of these schemes is that one assumes that the government is the one that should come out with the solutions. But what we've seen is a few things that we've been talking about internally about what could the ideal solutions be to these issues. The first would be a focus on large enterprises, not small and micro enterprises. We need to see a scale up in industry because that's where most jobs get created. So that's where we see a much greater labor participation, where we see a much greater need for a labor force. And currently what's happening is we are focusing on the small and micro and the unorganized sector, therefore, while the challenge is to bolster our organized sector, have more jobs come in the organized sector and the formal sector. And that will happen only when we see industry scaling up and we see"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:52.560",
+        "message": "larger and larger companies. And you'd say that the government should enable that by getting out"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:57.360",
+        "message": "of the way. Correct. That's right. Other thing, of course, that the government should do is reform labor laws. This is an issue perhaps for another podcast or series of podcasts on the problem that we're having in labor laws. But one of the things we see, why we see that even our employment necessity is low is because when companies do scale up, they'd rather invest in capital than take the trouble of hiring more labor because of all the issues that we have with labor laws in the country. So reforming labor laws is a big thing the government can do. And what reforming"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:36.080",
+        "message": "labor laws would also do is like your first point was about focus on large industry focus on getting companies in the formal sector to scale. But since most of this country's business is conducted in the informal sector, what reforming labor laws completely would also do is it would remove the disincentives for a lot of those companies to come into the formal sector. Correct. Because a lot of the compliance issues they face are because of these mad labor laws. Correct. That if you have more than 20 people, you have to do this, you have to do that, you have to do this. So typically, you just can't scale, you can't comply. And therefore, if you reform them and make them sensible, like in most of the world, then, you know, more of the informal sector comes into the formal sector in a natural, organic way with the right incentives rather than sort of be coerced into it and inevitably shut down. That's right."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:23.520",
+        "message": "The third thing that we're looking for is to create an environment for investment in new cities, because largely what we're seeing is we're seeing greater employment in urban areas compared to rural areas. We want to see that as well, because we want to see people moving out of agriculture and the rural areas into more urban areas. And one way of that happening is infrastructure development, the establishment of new cities. The prime minister had once talked about creating 100 new cities. I think we most probably had one most probably coming up Amravati in the new state in Andhra Pradesh. So, but is it the government job to create new cities? I don't think it's the government job to create new cities. It's the government's job to create incentives, right, or basically stay out of the way so that new urban centers can come up. Right. And it's these new urban centers that will create more jobs, which will create better infrastructure, just building new cities itself will create more jobs on a temporary basis. But beyond that, we have a lot of potential in areas of health care, in areas of education, things that we need to improve for our own country, and areas that, you know, for higher education that we can build for the rest of the world as well. So these are areas that are potential solutions for us, where we can absorb the 20 million that each year that is going to come out for the next few years for us. So we need to have a plan that can absorb that many new entrants to the labor force every year. So it's not that we have 20 million jobs as one final figure. It's 20 million jobs every year that need"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:09.120",
+        "message": "to be created. And even not just the 20 million jobs created for the new entrance into the workforce, but also taking into account that there's a lot of this guy's unemployment, that a lot of people are underemployed, that they don't have, for example, that there's that there's so much labor vulnerability where you're selling pakoras and that's not really a real job. It's not even you can't even call that guy an entrepreneur because he's not building a business. He's just surviving on a day to day basis. And you know, tell me if you agree, but I think the fundamental problem of why we are in this mess is a mindset problem we've had for 71 years. And that's a mindset problem of command and control, that an economy can be planned from above. And that essentially, you know, it's that whole thing about the citizens of a country being subjects to the rulers and the rulers will set the rules and decide what happens and give the requisite permissions for everything and keep every everyone on tight leash. And what that has done is that that that didn't allow a manufacturing revolution to happen in India when it should have because our greatest strength was our labor force in China stole the marsh there. And despite the limited liberalization of 91, and I always use the word limited with it because it really it was it was very limited and not a true liberalization and despite that that mindset still persists whether it was in the previous UPA government or whether it is with Narendra Modi that okay, government will do this, we'll build all these cities, we'll do this, we'll skill people will and that's completely the wrong mindset, the right mindset, which these people don't have, because they don't understand spontaneous orders and how economies and cities work in a positive some way is that you just allow the entrepreneurial energy of people to express itself, allow it fully. And when that happens, all this will take care of itself, growth will happen, jobs will come. And I think most people don't understand except people who run businesses themselves, the extent to which we are still tied up in chains."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:51:13.200",
+        "message": "True. That's quite true. So it's not the question of just creating lakhs and lakhs of entrepreneurs either. It's, you know, it's just perhaps creating a few 1000 entrepreneurs, who would then be able to employ hundreds of 1000s of people themselves, right. So when we talk because there's a lot of talk about, you know, how entrepreneurship would be the next revolution. And one must be careful that you know, when you're talking about entrepreneurship, we're not talking about the pakodawala as an entrepreneur, right? We are talking about an entrepreneur who actually employs a few 1000 people, at least himself or herself. Right. So, you know, I know that 20 million jobs"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:55.360",
+        "message": "project that you are on is still sort of at an early stage is still kind of gathering all of the data and you don't want to commit to sort of talking about solutions this early and at a later point when you're ready, we'll do a separate episode on that once you have better, more clarity on what specific policy measures and so on you'd like to suggest. But just looking at sort of the scenario of jobs in India, and it really looks bleak to me because you have all these young men coming out into the workforce, no jobs, all the relevant social problems that we discussed and it looks bleak to me, I know you're more hopeful about it. So my question to you is, what makes you despair? And what makes you hopeful about the medium term, let's say the next"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:37.920",
+        "message": "10 years of India, keeping our youth in mind. So what makes me hopeful is that we do have, you know, youth that are coming out and that are taking, you know, a lot of things and taking their own future in their own hands. In a sense, we talked about Snigdha Poonam's book in Dreamers, when you talk about the first few chapters of the book where you have the guy who's teaching, taking English classes, or the one who's setting up a clickbait factory. So these are young people who are taking their future into their own hands. And we are seeing a certain level of mental freedom in a sense, that they are able to do what they wanted to do. And, you know, they're taking charge of India in some sense. So that makes me hopeful. What makes me despair is that we don't have enough of them. And we're not creating the conditions that would encourage more such people to come up. That we're actually, you know, still stuck, you know, we may no longer have a planning commission, we may have something called Niti Aayog. But perhaps we're still stuck in that same mindset, where we expected something to be planned for us. Which is why, you know, so many people run after jobs in the railways or in the government police. While we should be really looking at both entrepreneurs as well as well as, as well as the private sector to be able to help us create the number of jobs that we need."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:16.880",
+        "message": "And you know, in the minds of some people, private sector is like it's a sullied term. But the thing is, what is private sector? What are entrepreneurs? It's society. You know, there's no public sector and private sector and public sector is noble and good and private sector is greedy capitalists. No, private sector is society. Markets are how society interacts with itself and how people take care of each other. And on that final positive note of hope that I know we both agree on. Thank you so much for coming on. Thank you for having me. If you enjoyed listening to this episode of the scene in the unseen do head on over to Twitter and follow at 20m jobs at 20m jobs is a Twitter handle of 20 million jobs. The project that Yazad Jal and colleagues of his run at the Takshashila institution, you can follow Yazad on Twitter at Yazad Jal. You can follow me at Amit Verma and you can browse past episodes of"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:55:11.360",
+        "message": "the scene in the unseen at seen unseen.in. Thank you for listening. Transcribed by https://otter.ai How about you change things a little. Even a small effort can make a big difference. And I'll tell you how and what exactly. Hi guys, I'm coach Urmi and on the kinetic living podcast, you can look forward to some interesting stories of people who have changed the way they look at fitness after their kinetic journeys. episodes out every Wednesday on the IBM app website and anywhere you get your podcast from. Transcribed by https://otter.ai"
+    }
+]

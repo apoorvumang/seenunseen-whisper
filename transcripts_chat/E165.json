@@ -1,0 +1,727 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "It sometimes seems both amusing and sad how many people behave as if they are the masters of the universe. I see this both at an individual level and at the level of the species. It reminds me of when Douglas Adams famously said, quote, Imagine a puddle waking up one morning and thinking, this is an interesting world I find myself in, an interesting hole I find myself in, fits me rather neatly, doesn't it? In fact, it fits me staggeringly well, must have been made to have me in it. This is such a powerful idea that as the sun rises in the sky and the air heats up, and as gradually the puddle gets smaller and smaller, is still frantically hanging on to the notion that everything's going to be all right because this world was meant to have him in it, was built to have him in it. So the moment he disappears catches him rather by surprise. I think this may be something we need to be on the watch out for. Stop quote. This is a familiar attitude. We are on the top of the food chain of mammals. We seem to have conquered the world and we strut around like perpetually signaling peacocks. But seen from another lens, we could just be useful vehicles for the true masters of the universe, bacteria colonized by them and used as an end to their means. And even if we were top dog, humans have existed for a tiny fraction of the time the universe has been around. And we will surely stop existing one day as the universe continues freed from distracting social media chatter. But as I point out that human existence is utterly insignificant and meaningless. I shall also concede that one thing does set us apart from other species, our level of self awareness. We are the only bot designed with the capability to edit our own source code and reprogram ourselves. The fact that we are able to do this is one small step towards controlling our own destiny. And it also ought to fill us with humility. After all, even if we are a self aware puddle, a puddle is"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:04.080",
+        "message": "what we are and puddles vanish. Welcome to the scene and the unseen, our weekly podcast"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:16.960",
+        "message": "on economics, politics and behavioral science. Please welcome your host, Amit Bharma. Welcome to the scene and the unseen. My subject for today is genetics, and I intend to explore the science of it, the ethical questions that arise from the ability to reprogram ourselves and others and the policy implications of all of this. And my guest is a scholar well placed to comment on all three aspects. Dr. Shambhavi Naik is a biologist who also runs her own startup and is a fellow at the Takshashila Institution. I've been trying to get her on my show for a couple of years now, but the stars never aligned. But with the supreme control of the universe that humans possess, we got the stars to align. And here she is. Before we begin our conversation, though, let's take a quick commercial break. If you're listening to the scene in the unseen, it means you like listening to audio and you're thirsty for knowledge. That being the case, I'd urge you to check out Storytel, the sponsors of this episode. Storytel is an audio book platform that has a massive range of audio books from around the world. The international collection is stellar, but so is a local collection. They have a fantastic range of Marathi and Hindi audio books. What's more, I do a weekly podcast there called The Book Club with Amit Verma, in which I talk about one book every week, giving context, giving you a taste of it and so on. Download that app and listen to my show. And as long as Storytel sponsors this show within this commercial itself, I will recommend an audio book that I liked on that platform every week. My recommendation for this week is Men Without Women by Haruki Murakami. I was first introduced to Murakami through a classic short story of his, The Second Bakery Attack. And while he is better known for his novels, I love his short stories more. This book is a collection of seven short stories that I thoroughly enjoyed. So do check it out on Storytel. Men Without Women by Haruki Murakami. Download the Storytel app or visit Storytel.com. Remember, Storytel with a single l, Storytel.com. Shambhavi, welcome to the scene in the unseen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:20.600",
+        "message": "Thanks, Amit. It's great to be here. I feel I've unlocked an achievement."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:24.440",
+        "message": "Oh my God. Just by being on the show. And also on the soundcheck, when I asked you for the soundcheck before we just started,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:30.560",
+        "message": "you were saying, Hi, I'm Yazad. Kindly explain."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:33.360",
+        "message": "So you know Yazad very well. Yazad was also part of Takshashila."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:37.280",
+        "message": "And he's been on my show a couple of times. So when we first started doing our daily podcast, Yazad and I were co-hosts, and this was supposed to be a mic check. Hi, I'm Yazad. Hi, I'm Yazad. And they just caught on. So at Takshashila,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:49.800",
+        "message": "Hi, I'm Yazad is what we say for mic checks. So, Hi, Yazad. Hi, Yazad. All roads lead to Yazad indeed. Okay, so you know, before we kind of get to the very serious subject at hand, tell me a bit about yourself. I mean, I don't know you very well. But in the little time that we've interacted, what has been very clear to me is that you are like super passionate about science, in the same way that you know, other people are about books and movies, and they'll discuss the Marvel Universe and all of that. And you are into science in that way. You're not someone who, you know, happened to do her education and then just kind of went along with that. Tell me a little bit about this love for science. And, you know, were you always going to be a serious scientist like you are? Or you know, how did that all that happen?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:31.240",
+        "message": "No, I mean, currently, I'm fascinated by science. Even though I have now moved away from doing wet lab research, I now focus more on the policy aspects of science. But still, it's just, it's what keeps me up at night, you know, a new paper that has come out, or a new technique that we learn, I love reading about it. When I started out, born into a middle class Maharashtrian family, I was told I was going to be a doctor, it was predestined. I think my parents decided that the day I was born, this one is going to be a doctor, my brother's an engineer, so obviously, and I lost my grandmother when I was eight. She passed away because of breast cancer, which spread to her lung. So I decided that was it, I was going to be a doctor, I was going to cure cancer, and I was going to be like this, win the Nobel Prize, eventually, you know, all of that. I always envisioned myself walking down the street and this kid comes running to me who says, Oh, you saved my grandmother, thank you. And that would be redemption. That was the environment I grew up into. Actually thought I was going to be a doctor till I passed my 12th exam, and this was in Mumbai. And I did not get enough marks to get into a good medical college. My parents thought that they could still fund me to go into somewhere which was decent enough. And I made a choice that I did not want that kind of education. I did not want to be that kind of liability on anybody. And so I instead went and did my BSc at Ruia College. And going to BSc, I think was a little risky then, it was not supposed to be the honourable thing to do. I did not know I was going to do a PhD afterwards. But I really truly enjoyed that experience. Because that's where I met science for the first time. I wasn't being taught science anymore, I could explore, I could go to go and sit in a library, and just learn about genetics and biology. And I was just completely like taken in orbit. And I decided I wanted to continue in basic science. It was also the first time that I realised that doctors don't cure diseases, they treat diseases. And as a scientist to figure out how diseases are caused and can actually come up with the cures for them. I was not saying doctors can't, but they are so engrossed in their day to day stuff. So that was when I realised that maybe doing a PhD in cancer biology would allow me that option to come up with diagnostics or therapeutics or whatever I wanted to do. So that's how I stayed in science. It was actually completely out of the love for understanding how life has evolved, how life works. And the DNA is just an elegant, beautiful structure. And the fact that you can encode for everything under the sun is simply marvellous."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:59.320",
+        "message": "I remember Douglas Adams, who I quoted in my introduction, was once asked why he didn't believe in God. And he said he didn't believe in God because of natural selection. And he said that just understanding that theory and what it meant filled him with so much awe that no divine awe could, you know, compare with something like that. So where did you"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:17.640",
+        "message": "go to do your PhD? I went to the University of Leicester in the UK. So I went to do my master's and that was I decided, obviously, pre-decided when I was eight, that cancer biology was what it was going to be. And University of Leicester was one of the few places that offered a master's in cancer cell and molecular biology. So I went to the UK. I was allowed to stay back in the lab to do a PhD as well. So the university actually gave me a scholarship. So I finished my master's, my PhD and a year's worth of postdoc in that same lab. And then I moved to the National Centre for Biological Sciences here in Bangalore, where I did my postdoc again, looking at breast cancer. This was all very lucky that I actually got to work in breast cancer that easily. So I did spend about nine years closely examining the pathways that cause cancer to be formed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:09.520",
+        "message": "And two questions really. And when did you get interested in genetics per se, as a sort of a subset of whatever you were working on? And also, how did you then move away from, you know, doing science to, you know, into the policy space and being an entrepreneur?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:25.440",
+        "message": "So, genetics has been something that has always, I mean, as I said, and I think this is the third time I'm using this word, fascinated by. It is just that the small molecule that can do so much and has survived the test of time for so long. And obviously, it goes wrong in so many ways in cancer. It is phenomenal. I mean, you spoke about humans being a puddle. I look at humans as a cancer. We have a lot of characteristics of cancers among us, right? We divide nonstop. We change the microenvironment around us to suit us, and we end up destroying everything apart from that. And if we are not careful now, we might actually end up killing the person, killing the ecosystem that hosts us. That, I think, is something about that we have a lot of lessons to learn from genetics that we can adapt and use. And if we are intelligent enough, hopefully, learn from to change our behaviour now. So, I have always been in love with genetics. It's just that it's micro level of doing things and things work so well. I mean, things could go wrong and having a baby, right, things could go wrong at so many levels, but they don't always. And you sometimes get this really complicated being come out of your bodies. I still don't understand how it works. It's superb."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:43.840",
+        "message": "Yeah, and that's one of the remarkable things about it that it's so incredibly complicated is far more complicated than any process we've designed. And yet we have this bias towards thinking that everything necessarily needs a designer or needs to be planned or engineered or whatever. And actually, what is happening in, you know, what has happened in nature, natural selection is a kind of spontaneous order. All of this design has sort of happened by itself and is way more complex than anything, any designer, even a divine one. And of course, she doesn't exist."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:16.960",
+        "message": "I think we're lucky for that. Because I think if a designer had to design what the DNA does, you might end up with a really complicated, huge, big entity, and not the small, elegant stuff that we have ended up with. We might have been bulky and huge. But yeah, because"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:31.160",
+        "message": "it has come out the way it has. I've been off my keto diet for a long time. So, I am still bulky and huge. And the second question. So, you know, you're doing science, it's obviously clearly something you're in love with. How do you then, you know, move into being a policy person, being an entrepreneur?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:45.320",
+        "message": "So, I was in the UK for nearly six years. And then I was in Bangalore for three years, working on more or less the same themes. But there were two problems which were very acutely I became aware of the moment I started working in the lab here. One is that supplies for any lab experiment that we do takes a huge amount of time to come to India. So, when I was in the UK, and if I ordered something, it would come in like two or three days, any glassware, enzyme, whatever I needed. Here, it takes two or three weeks. And that, at the core of it, is a data asymmetry problem. Labs don't know which suppliers to reach out to, and suppliers don't know when labs might need something. And that's where CloudCreate, my startup, was formed. It was to address this data asymmetry and help scientists get their products on time. It's been about two years now, still addressing the problem, but we now have a much better understanding of the nodal points that need to be changed. So hopefully, that will sort some things out. The policy bit is because, again, I found scientists in India not engaging so much in policymaking. And I felt as a result, our policymaking is not very attuned to help scientists. Our policymakers are not always using evidence based policymaking. They don't always seem very keen on talking to scientists and understanding what issues there might be. And so I thought I could be a bridge between that. And hence, I started coming to Dakshashila. The point was to understand how I could better engage with the government. And then once I actually saw how the government processes were, and there were parts of legislation where I could actually provide a scientist insight too, I wanted to. So that's how I got into policymaking and gene editing. And the fact that gene editing is coming up, and we did not have a good enough policy to support it, was how I got engaged in trying to write up a policy for gene editing itself."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:37.160",
+        "message": "So you know, just assuming that, you know, me and my listeners are kind of laymen, and, you know, we don't really know the science too much. And I know, it's a very broad question. But tell me about the state of where genetics is at today. Like, you know, obviously, genetics, you know, brings out explains very clearly and elegantly fundamental truths about what the universe is, you know, I earlier quoted Adams talking about natural selection and genes are obviously the vehicle through which natural selection happens, as you know, Richard Dawkins wrote his famous book, The Selfish Gene, which popularised that and you know, when he spoke about the selfish gene, obviously, that was a metaphor. I mean, a gene isn't actually thinking selfishly. But take me a little bit through the process of how it works, like how have we been designed if you can kind of speak about in layman's language? How have we been designed? How do our genetics? Yeah, in the sense that how are we what we are like, you know, human 30,000 years ago would have been very different. And 500,000 years ago, wherever we came from, I mean, to begin with, we came out of one celled organisms. And then that one cell organisms basically evolved into everything. And the process is so beautiful and elegant. And yeah, we did come from soup. And when I you know, catch a virus, I often go back to soup. But sorry. Take us through some of the elegance of this process and the role that genes the central role that genes play."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:01.800",
+        "message": "Okay, so there's there's a lot that we can unpackage here, right? Let me give you one example, which is my favourite example. So we obviously think that humans are different because our brains work very differently than all other species, right? We are intelligent. So the reason we have brains with that kind of firepower, there are two underlying reasons and one is nature, one is nurture. Okay, I don't remember timeliness, I'm sorry. But many, many years ago, there was one mutation in one of our ancestors, which changed the location of the jaw, because of which the skull moved a bit, and there was more space created for the brain. So the brain could actually grow more in our ancestors. And as a result of that, we actually have more brain space than apes. That was one thing that changed. The other was we discovered fire. And because we had fire, we could cook food. And because you're eating cooked food, we could now decrease the amount of energy that was devoted to digestion. And so more energy could be spent on the brain. At the same time, because we are eating cooked food, the amount of gut surface that we require for digestion was also reduced. So our gut size reduced, again, the energy consumption of the gut reduced, and all of that energy was diverted to the brain. And because of those two things, we actually managed to develop better brain power than the other species. So I've also like read a theory that it's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:27.400",
+        "message": "also because we see homo sapiens started eating non-veg. And you know, the proteins help them grow bigger brains to fit the craniums. And one theory is we ate the Neanderthals. So"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:37.800",
+        "message": "I don't know how. I don't know if we ate them or not. We all have a bit of Neanderthal in us. Yeah. Which did not come from eating them. Exactly. Yeah, it is likely. Look, at that point of time, this is pre-agriculture. So and they were hunter-gatherers. So there is also this theory that because we came from hunter-gatherers, we were more used to eating meat proteins than actually carbs. And then when agrarian practices came in, our bodies are still shifting to eating more wheat and rice. So we see some changes, for example, in some of the bones in our body that are still trying to fit together into this whole agrarian lifestyle. And so we are not meant to be eating carbs. Yeah, we just both of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:21.600",
+        "message": "us had masala dosa for lunch at MTR. And but of course, we both agree intellectually that"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:27.880",
+        "message": "sugar is poison, however hard it is to sort of. Yeah. And we are basically supposed to be protein eaters. So that shift has occurred. For our bodies to adjust to that shift is going to take a long time. They are still adjusting to that idea that we are now eating this carb, fat-based diet and obviously not doing as much work as the hunter-gatherers were doing at all, having this sedentary life. And we are still trying to fix up to that. My idea is that maybe in a few million years ago, there might only be slim humans around because obesity increases your chances of death. And maybe we will get naturally selected to be thin. And if I have a time machine, I would like to go into that era and just be thin and eat whatever I want to still be thin. That would be nice."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:11.480",
+        "message": "I think that is a common lament that both of us can sort of share. So I'll briefly for my listeners, I'll sort of give a very simplified understanding of what genes do. Tell me if I make a beginner's error or something. But essentially, what genes do is genes are sort of our programming. So all our characteristics are written down in genes and often mutations happen and different characteristics evolve in different ways. Now, for example, let's say due to an accidental mutation of my gene, I get, say, a bigger nose. And we're talking prehistoric times, I get a bigger nose. And it so happens that women find bigger noses much more attractive. And therefore I reproduce more. And because I reproduce more, that particular gene which gives me a bigger nose has a greater chance of proliferating through the population. So there are more kids with bigger noses who are having more kids while those with smaller noses are not mating as much. And therefore, eventually, the gene for small noses goes out of the gene pool. And this is, of course, extremely simplified because it's not as if one gene creates one characteristic. It's very complex. It's whatever, but women don't pick noses as a criteria for reproducing. Yeah, this was just an example. Yeah, I have"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:26.040",
+        "message": "no idea what women pick as a criteria. But I mean, this is the correct thing, right? That your nature basically chooses what, which specimen is best suited to survive in it. In fact, to reproduce. Yeah, yeah, to reproduce. So, and most likely driver is food. It's food resources. So if you're a giraffe and you have a longer neck and you can eat leaves which are at the taller part of the plant than other animals of average size and obviously have more food and so you will get, you'll reproduce more. So we used to at some point of time also have giraffes with shorter necks, but those died out in"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:59.960",
+        "message": "competition and the longer neck ones. Because one, the longer necks one would have survived and thus greater chances of having a kid. And two, at the level of the female giraffes, the ones who would have been attracted towards the longer neck giraffes would also have mated more with them and therefore their kids were not just the longer necks would have passed on to the kids, but also the attraction for longer necks because pretty much all our tendencies and everything is sort of, in a sense, comes from our genes. Like, you know, just talking about nature and nurture. Steven Pinker once gave a lovely illustration of this, which I think expresses it very well, because obviously it's a false binary and there's both nature and nurture in everything we do. And he said, nature gives us knobs, nurture turns them. So you could have a very big knob for something, like you could be someone who has a very bad temper and that's in your genes. But if you have the kind of upbringing where you're not supposed to get angry, then maybe that knob is not turned"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:58.120",
+        "message": "so much. That is actually true. So there are these genes, if they're mutated, you can be extremely aggressive by temperament, but obviously not all aggressive people are criminals. So there was a study done to try and figure out whether you could have a genetic basis for criminality and you can have a genetic basis for determining if someone might be more or less aggressive. But the criminality comes then as an add-on of nurture and the environment"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:25.840",
+        "message": "that they've been in and what they've learned. And this also reminds me of a study, and I've written a column on this as well, on how sociopaths, and now sociopath is a particular biological term, there's a part, I think the amygdala, there's a part of the brain which is slightly damaged, so they don't feel empathy. It's a biological characteristic that they don't feel empathy. And sociopaths are over-represented, like they're 5% of the population overall, something like that, but they're over-represented in criminals, bankers and politicians, as far as I recall, which indicates that these skills are, you know, what the genes are."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:59.200",
+        "message": "The lack of empathy might be very useful in getting ahead of... In banking sales, yes, I think so."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:05.840",
+        "message": "Yeah, but you know, the thing there is that before we pass judgment, like, are all sociopaths bad people? No, they are not, because you're born the way you're born. And I always, you know, try to judge people by their behaviour. If you are born the way you are, there is nothing you can do about that. And therefore, all of us have baser instincts. And, you know, we should not start loathing ourselves because we have those baser instincts, whatever they might be towards violence or tribalism or whatever. But we should, once we are aware of, once we have a certain moral view of the world, just as long as we behave properly, that's what matters. People should be judged by their behaviour. I'm getting extremely ahead of myself and ourselves here. Tell me a bit more about the development of the science and how we kind of reach this modern age."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:51.760",
+        "message": "Let me go back to something that you said about how the awe of the whole idea of genetics is better than the awe of divinity. And when scientists actually first figured out, so when Charles Darwin, for example, looked at evolution and natural selection, when James Watson looked at the structure of the DNA, both the scientists, the first thing that came into their head was that they were going to be challenging some of the most accepted religious knowledge back then, because they were basically saying that there is a natural cause to the way we are, and this is not divine intervention. And both have gone through this in their notes about the idea that whether the challenge was successful. Charles Darwin obviously got a lot of hate email, spam email, whatever, from the church for putting forth the principles of natural selection. But then science relies on facts, not on opinions. So they could clearly see that there was a way that nature was choosing to act in a way. So right from Charles Darwin, we had then we had Gregor Mendel, who was a monk and most of his scientific experiments were done in his parish. So, which was..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:59.840",
+        "message": "And his seminal paper was ignored for like 50 years because it came out in some obscure"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:04.760",
+        "message": "things. Yeah, that's an occupational hazard of being in science. But they did do meticulous work. Gregor Mendel obviously spent years working on peas. And what he did was basically show that there was a factor in peas that was controlling the way peas looked. So, the way this happens is that genes forms proteins, and proteins basically govern the characteristics of your body. So, physical, mental, to some extent behavioural, proteins play a role in literally most things that go on in your body. My favourite example is the colour of your skin, because not only is it dependent on proteins, but also on the way sun reacts and the amount of time you spend in the sun. And the colour of the skin also provides a nice ethical challenge for us to talk about. So, the way it works is that the DNA in the skin cells will form some proteins that will control the colour of the skin. Similar to that, the colour of your eyes, the strength of your heart muscle, the length of your gut, everything gets controlled by proteins. So, what Mendel was observing was the proteins in action. So, he was looking either at the way the peas were, whether they were smooth, whether they were wrinkled, the colour of the flowers, etc, etc. And what he found was that the characteristics could be passed from generation to generation. And so, he said that there must be some factor present inside the pea plant, which is crossing across generations. And this was the first indication that maybe God was not playing a hand at creating the pea plant. After that, his paper, as you said, was buried for a long time, till people again started looking at the DNA molecule. And this is where it is all started, because the DNA is so small, we knew that it was made up of only four alphabets, A, T, G, and C. It just did not seem likely that this would be that elusive code that was governing everything in life. It just seemed unrealistic. But then, in the early 20th century, a lot of experiments were done to show that whatever factor it was residing in the nucleus, then people did laborious experiments, they first killed off all proteins, all RNA, everything else in the cell, and they showed that it was a DNA that can pass on from bacteria to bacteria, and cause characteristics to also manifest once passed on. So, it took us about 50 years, and a lot of debate to figure out that the DNA was actually what was causing characteristics to be formed. And in the middle of all of that, we had this guy called Lysenko in Russia, who came and said that genetics is bullshit. There is nothing like genes, there is no genetics, we can give shock therapy to everything and make it behave the way we want it to. So, he was doing his experiments on plants. But then he came and said that, okay, why don't we also do it on humans? Stalin was by then the premier of Russia, and Stalin really bought into this theory. So, he was like, okay, let us do this. And a lot of geneticists were either killed in Russia or they fled Russia. A lot of the prisoners of war were then taken and given shock therapy to believe in Russian propaganda. And obviously, as I mentioned, none of that went anywhere. But we did have that phase. Germany, on the other hand, Germany, UK, US, had their own dalliance with genetics. Now I'm going into eugenics, because once they figured out that there was something like the DNA, which could actually encode for characteristics, they thought, well, then there must be pure DNA as well, because some characteristics are better than the others. And this, I think, is the ultimate flaw of genetics. And the ultimate flaw of the way we look at society today is that we choose what are the good and bad characteristics. We think we have a moral say on whether longer, bigger noses are prettier than smaller noses, and whether a very small nose is a freaky one. These are societal ideas. In nature, everything is okay. Everything is acceptable. So obviously, we had the entire phase of eugenics, started in the US actually, but then championed by Germany. And this was again, before we had figured out the structure of the DNA, this was when we realized that the DNA exists and that the DNA can actually pass characteristics on. Then in 1953, came the hallmark discovery of the structure of the DNA based on the work of James Watson, Francis Creek, Morris Wilkins, and obviously, Rosalind Franklin, who gets zero to minimal credit for it. To be fair, she was also not the most cooperative person to work on the project with, but it was her X-rays that eventually led to the discovery of the structure of the DNA. That changed a lot of perceptions in the game of molecular biology and opened up the field of genetics. Because once we knew the structure, people could actually go about in trying to then start reading the structure, editing the structure, amplifying the structure. And so from the 1950s, we have made remarkable discoveries. One of our chief problems starting out was that there is very less DNA if you think about it in a cell. So the first thing to do if we wanted to analyze the DNA was to amplify it. And that's where the most remarkable things came in the terms of polymerase chain reaction, which is so commonly used now. Any lab you go to will have a PCR machine. We learned to sequence the DNA so we were able to read it. A lot of these experiments were initially done in like flies, so the fruit fly that we see. That's a very commonly used model system in worms, which are so tiny that you need a microscope to see them. But a lot of, say the proteins in the field I work in, of cell death, of how cells die, were actually discovered in the worm. And then we found out the human equivalents of those. And all of these pathways are remarkably well conserved. So you might have an additional protein here or a slightly little detour of pathway there. But most of those things are pretty same from worms to flies to mice to humans, which is why you see a lot of the experiments being done in mice as well. So a lot of the initial work got done in them because the human is a complex organism to get the DNA out of. So bacteria only have genes in their DNA. Humans have something known as introns, which are massive stretches of DNA, which code for nothing or at least we don't understand what they code for. So we have a lot of junk DNA as well. So it took us a little bit of time to go from the bacteria to actually sequence the entire human genome. The first human genome was obviously made in 2003 and we spent a few billion dollars on trying to sequence it. But once we understood the sequence of the gene, we could start understanding what proteins it makes and therefore what pathways it governs, what characteristics it governs. And at the same time, we started to also learn how to edit the genes, but not in humans, in bacteria, because it's a pretty simple genome and it's usually a single cell. So it's easy for us to also send in material and in and out of the cell. So we've been doing this whole gene editing, but in bacteria for a very, very long time. We can also do it in single cells, which are derived from human beings. But the idea that we could rewrite the code on our own in a very precise manner only came with CRISPR technology. CRISPR, of course, is a dating app for genes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:09.880",
+        "message": "Of course it is. So CRISPR was discovered in 1987. So tell me a little bit more about that. What does CRISPR do and, you know, why is it so revolutionary?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:31:19.200",
+        "message": "As with most things we do, we have also adopted CRISPR from bacteria. So we have an immune system, we have antibodies, we have B cells, T cells, which basically kill any foreign particle that enters into our body. Bacteria are single cells, so they don't really have the luxury of having this entire complement of immune cells. And the most common adversary for a bacteria is a virus. So when people were doing these studies, looking at how bacteria fend off viruses, they found that there were repeats in the bacterial genome, which were actually repeats of DNA from viruses. So they thought, and it was like an entire library of different viral sequences that kept on repeating. So what scientists thought was that maybe these are viruses that this bacteria has already seen. And that is where the concept of this being an immune system response came in. So what the bacteria actually does is that when a virus comes in and it chops up the DNA, it takes a bit of the DNA, of the viral DNA, puts it into its own genome, and keeps it on file. So that the next time this virus comes in again, they can match it and chop it off immediately. So they can match the DNA to the existing one inside the bacterial genome, go and chop off the viral genome. And then they build a library that way of every new virus. And this entire idea that you can read a genome, and then you can go look for a similar genome, and cut it is the underlining part of CRISPR. So what we did is that we use those genes that develops this machinery and put it in humans. We also modulated a bit. So now you can specify this is the bit of the genome I want to cut, so that the machinery will go and cut there. But then you can also specify what genome you want to put in its place. And that is what the machinery does. It is basically like a copy and paste function, where you cut and paste function, where you specify where you want to cut and what you want to paste."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:12.280",
+        "message": "Let me try to sort of process the whole sort of historical arc that you've described. There's a theory that the pace of change doesn't, you know, accelerates over time. So for example, we took 1000s of years to get from the agricultural age to the industrial age, and then a couple of 100 years from there to get to the information age. And now it's getting faster and faster. And, you know, within the microcosm of what has been happening in this field, it seems to me a similar thing. I mean, you know, just to think of Mendel, for example, who on his own without a, you know, a body of a field of work to help him has discovered something has discovered that there is heritability, but not figured out that genes are a mechanism for it. Because obviously, he can't it must seem to him that there is a mysterious force which is doing that, which reminds me of the old saying that a sufficiently advanced technology is like magic, which is, I'm sure how it would have seemed to Mendel. And and then eventually 50 years pass, his paper is discovered this work happening on genes. And then of course, the DNA is, you know, after World War Two, the DNA is finally decoded, and we understand the structure and it's so beautiful and elegant. And gradually people start figuring that out, then it seems to me that there are like, two things which happen very fast in sequence. One is that people begin to figure out what genes cause, you know, what characteristics and what are the functions and the purposes of genes and the human genome project happens, which costs I think, $2.7 or $3.7 billion. And today, you can sequence it for $100, which shows our commonplace it's become. And after that, with CRISPR, and even, you know, technologies before it, but especially CRISPR onwards, people figure out not only what genes do, but how you can actually edit genes and change genes. And therefore, and what are the implications of that, like when we're talking about gene editing, I'm guessing there are two aspects to it. One aspect is that you do gene editing in an individual. For example, if I have some kind of deformity, which is caused by a gene, can you edit my genome and make me better or prevent something happening in future, which I'm inclined towards. And the second, I guess would be just changing the entire line, you know, editing my genes in such a way that I'm passing on the edited version to any kids that I might have, and therefore"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:24.000",
+        "message": "it passes on. Are these broadly the sort of... Yeah, so there are certain nomenclature issues that are currently going around in gene editing. One set calls them somatic versus germline gene editing. Somatic being in any cell of your body that will not contribute into your child's development. And therefore, any edit done in that cell will remain to you. Versus germline editing, germlines are those cells, which are those germ cells will basically contribute to the development of your child. So, any change we make in those will also go down to your child and any subsequent children that that child has, right. So, they will impact entire future generation that comes out of you. The way we do somatic gene editing in itself, there are two ways. One is either you take out cells from your body, you do the gene editing in a petri dish and you put the cells back in. Or you put in a virus into a person that takes the machinery for gene editing and transfers it into the cells in the body and does gene editing. If we do this in vivo, in vivo being inside the body kind of way, we do not have a guarantee that the germ cells in your body will not be edited, ok. We can hypothetically say that they should not, but we do not actually have any control."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:37.680",
+        "message": "So, if it was somatic thing in vivo only meant for me, it could also go into the germline?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:42.240",
+        "message": "Could go into your germline, right. We actually have very little proof. We do not, we need to do more extensive experiments for that. So, the way the WHO says we should call them is heritable versus unheritable gene editing. And so, somatic gene editing could also fall into the heritable part. We just do not know yet. We need to do more exhaustive experimentation to figure that one out. The ethical considerations of heritable versus non-heritable are extremely diverse. People are usually ok if you want to do something to change your body, you want to have a tattoo, you want to drink sugar-laced coffee, it is up to you. But if that is going to also impact your child and their child, then obviously people think that you are tampering with something that is likely beyond you. So, we are still to, that is a very grey zone and I am sure we will talk about it in further detail. But yes, at this point of time for humans there are these two ways, heritable and non-heritable. Also, we have been trying to do gene editing in plants, but that we have been doing for ages by one means or the other. We are trying to do gene editing in mosquitoes, in flies, and also some really weird applications where people are trying to say take the Indian elephant, genetically modify it so that it can survive cold weathers and put it in Siberia so that the Indian elephant does not die out. So, the Indian elephant does not die out, they want to send it to Siberia. Or they are trying to figure out how, why honeybees are dying and how we can use gene editing to actually prevent honeybees from dying. So, there is this whole concept of the clean honeybee. So, apparently there are some honeybees which keep their hives clean, some which are like me and do not. So, the clean honeybees live longer and so they are trying to figure out what genetic differences there are between the clean and the unclean honeybees and trying to create more clean honeybees."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:29.840",
+        "message": "And one thing that I think is worth pointing out is that when we talk about gene editing, we are of course talking about gene editing now with all these tools and, you know, designing these changes, so to say. But we are actually products of gene editing that right from the time there was that first one celled organism, there has been continuous gene editing, which has come down to us most of it completely random with natural selection having its way. And you know, gene editing has sort of happened by random and through nature and all that. But at the same time, there's been a lot of sort of conscious gene editing that has happened that has resulted, for example, like in dogs, like 15,000 years ago in Central Asia, you basically you know, these experiments started where there were some wolves which were friendlier than others. And then they were sort of, you know, bred by humans. And eventually you have domestic dogs. And similarly, mules are basically an example of, you know, you mate a donkey with a horse and you get mules. And that's, in a sense, gene editing that you're kind of carrying out. So, you know, a lot of the mysticism that is there around these terms as if it's some horrible dystopian science fiction thing happening, gene editing and all of that. The only thing that has changed is that we understand it better and we are trying to control it better. And actually, it's like it's been there forever."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:44.240",
+        "message": "Yeah, it has been there forever, except that the driver has changed. The driver in most cases was nature. And then, obviously, all your surrounding ecosystem got to play a role in your development. So, the other species also got to have some say in how, what your population was, what kind of skills you developed, whether you were a burrower or whether you were going to stay up on a tree, your entire ecosystem fed into that. We have moved from that to a system where humans can be as selfish as they want to be and pick on things that we think are necessary for our existence and only help those survive, which is a little scary, because I'm not sure whether we have a complete understanding of what we need to survive. But apart from the change in the driver, gene editing has been a part of nature ever since, before even we came along. I mean, that's how we came along, was through modification of genes. There is a distrust in the idea, like you said. When I was in the UK, this was about six or seven years ago. And Europe is extremely well known for its risk awareness and they really, really take it seriously. And one of the, this was when GMOs were making a mark on the scene. One of the headlines in the newspaper I used to get at home said, oh, but GMO tomatoes have DNA in them. And I was like, but all tomatoes have DNA in them. There is nothing unique about GMOs and I mean, the DNA is slightly modified, that's it. But so is every other tomato's DNA. Every time you regenerate, you gather a mutation. That's the way life works. So there's nothing, yeah, there's nothing fancy about gene editing itself. The only scary part is that now we are the ones who can do it. And so we have to do it intelligently enough."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:31.400",
+        "message": "Then one of the things, you know, one of the constant stories of humanity, for example, one of the constant battles within our species is a battle against our own nature. For example, in some ways we are wired to behave in certain ways. We are wired to crave children, but people like me fight that by deciding not to have kids or we are wired to be tribalistic. But many of us are, you know, we have a liberal global outlook and don't think in those terms, you know, we are wired to want sex more than, you know, some of us actually aim for. And it seems to me that a lot of human history is sort of mitigating the programming, mitigating the way we have been programmed, which is basically happenstance. But because we have also been programmed to think rationally and build a system of values, we then use those values to fight our own programming. And it seems to me that while we have been doing that at the level of culture, at the level of nurture, you know, what gene editing and the new science also does is it allows us to do that at the level of nature with far more precision than we could have, you know, like we have all striven to improve ourselves physically, you know, people will exercise, they will work out, they will go to the gym, they will run, they will build different capacities for themselves in different ways. If they want to stay awake longer, they'll have coffee, they'll use extremely blunt tools. And now all that is happening is that our tools are getting finer and finer. And in many ways,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:55.560",
+        "message": "it's almost magical and remarkable. It is magical. It's also it is scary, because I think first, we do need to check in where a lot of our values and morals come from. The classic case is about sex preferential rights, sexual preferences, right? We have been, at least I have been brought up to believe that being gay or lesbian is not right. It is, I mean, it is not acceptable, it is not socially correct, right. And a lot of the science that goes beyond understanding sexual preferences was also for some time tinged with this idea that we are looking for an abnormality, right, we are looking for the gay gene. And we figured out that, look, genetics has a role to play in choosing sexual preferences, then nurture also might have a role to play. But in nature, this is all acceptable. We have taken this social construct of, you have to be a boy and you have to be a girl. And if you're a boy, you have to like a girl. And if you're a girl, you have to like a boy and try to impose that on biology. And that doesn't work, right? We have not, we have taken the social constructs that we have been brought up with, but we have not been able to embrace our own biology. And there are those grey areas. And then you say, okay, we can actually genetically edit someone not to be gay anymore. That is scary. I mean, you don't, you cannot go into those levels, right? If you want to say that, okay, we'll do gene edit and try to figure out if someone has got a, and this is a very weird word, disease, because then you and I get to choose what a disease is. And I can say being gay is a disease, right? But that those are those areas of science and policy that, that really intrigue me, because finally, science has to interplay with society in some some format. But we seem to be for millennia now, just"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:46.560",
+        "message": "focused on our society and not enough on our science. The point you're making is really interesting, because, you know, in a sense, it feeds into my point and elaborates upon that, you know, it's true that we have been wired in certain ways, many of them undesirable. And because of the culture that we build through our rational thought, we try to fight that wiring. But at the same time, it is true that those ugly instincts remain within us. And now that we have the power to shape our nature, before our culture has completely mitigated all the dark sides of our nature, so to say, and even that, of course, is subjective, what is dark and what is not, you know, the danger is that we could actually undo some of the good work and, you know, enhance some of the hard wiring that we might otherwise disapprove of at a cultural level, for example, the preference for male children, or the preference for fair skin, for example, you know, and that opens up a lot of questions about the ethics of it, which we shall get to after a short commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more, head on over to Indian colors.com. Indian colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into products of everyday use. These include wearable art, like stoles and dresses for women, and evening shirts for men, home decor, like wall plates, cushion covers and table linen, and accessories like tote bags and pencil pouches. This allows art lovers to actually get fine art into their homes at an accessible price and artists get royalties on sales just like authors do. Their artists include luminaries like Dhruvi Acharya, Jaideep Mehrotra, Madhuri Kathe, Sameer Mondal, Brinda Miller, Tanmay Samanta, TM Aziz and Manisha Gehra Baswani. They accept bulk orders for corporate and festival gifting. But even if you want to buy just for yourself or a friend, head on over to Indian colors.com. That's colors with an OU. And if you want a 15% discount, apply the code unseen. U n s double e n. That's unseen for 15% off at Indian colors.com. Welcome back to the scene on the unseen. I'm chatting with Shambhavi Nayak about genetics and we finish kind of talking about the science of it briefly and brought you up to the current date. Let's kind of talk about the ethics of it because you know, as a Spider-Man's daddy, you know, in a previous episode, you know, misquoted the famous phrase with great power comes great responsibility. You know that it was Spider-Man and it's not Spider-Man's Peter Parker's dad who actually said that. His uncle. Yeah, with great power comes great responsibility. And now that we have so much power, which can have so many kinds of unintended consequences, not just on ourselves. Obviously, now there's a whole branch of ethics that is dealing just with this. And I'll try to sort of briefly sum up what the two kinds of schools talk about. And then you can give your perspectives on them. And one I think is summed up very well by Michael Sandel, who I disagree with on a lot of things. And Sandel says, quote, to believe that our talents and powers are wholly our own doing is to misunderstand our place in creation, to confuse our role with God's. Stop quote. And here, besides the invocation of God, who of course doesn't exist, it also sort of seems to deny our autonomy and agency. And I'm far more inclined to agree with the Oxford bioethicist Julian Savulescu, who in the context of in the context of parents gene editing for the children to give the children a better life, argued that parents have, quote, a moral obligation to create children with the best chance of the best life. Stop quote. And here, what this sort of school of thinking argues for is to say that, look, this is not some random mystical thing which we use, we do a lot of things to make our lives better to make our health better, and so on and so forth for our children. Now, if we have a tool by which we can help our children and fellow human beings and ourselves, why should we be coercively stopped from using that tool or getting access to that tool? And you know, again, this whole sort of romanticization of you know, what is natural and what is not I mean, first of all, gene editing is natural, except it's being done by nature. And Darwin famously described nature as, quote, clumsy, wasteful, blundering, low and horribly cruel. Stop quote. And if that sounds like some people, you know, it's not it's nature, people are nice or responding to incentives. So, you know, and I'm also a very powerful argument that, you know, really strikes a chord with me is Nick Bostrom's argument, where he talks about the reversal argument that, for example, if you are going to stop me from editing my kids genes to make him say smarter, then what would you what would you feel if I edited my kids genes to make him stupider? Because by stopping me, that is effectively what you're doing. It is the latter, you know, from a consequential point of view. So, and I get that there are sort of nuances here in terms of most people would say that what I do with my own body is my business, as you pointed out earlier, whether I get a tattoo or a funky haircut or go on a keto diet. But if I am doing something which has externalities, like on future humans, for example, that is a problem. For example, the classic example would be that I can inject whatever I want in myself. However, where the anti vaccine people have it very wrong is that their actions, which go against science, have externalities on a whole lot of people, because if 10 people in a neighbourhood don't get themselves vaccinated, it exposes the rest of the entire neighbourhood to that. So I've tried to kind of sum up the different kinds of arguments and you know, what are those sort of how do you see all"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:34.040",
+        "message": "this? Ethics of anything is extremely personal, and extremely contextual. And I might be an extremely unethical person to be saying this, because I myself feel that in a certain situation, I might take a different ethical stance of it in another situation. And this is the same person, but you know, if tomorrow, I have to have a child, and if someone comes and tells me that your child is going to suffer from a very debilitating disease, but there's a scientifically safe gene editing tool that you can use to now correct the child and make sure that he's healthy. I don't think I'm going to say no. I really don't. I think it would be stupid of me to say no. Yeah, it would be wrong of you to say no. Because it's not just for the baby, but for the baby's future generations are also likely to get that same kind of defect. And the fact that I would have to undergo, I might need support in raising this child, the amount of money that I would have otherwise spent on, you know, taking the child on holidays, maybe, or for schooling or whatever other advantages that I can give him, it will be spent on trying to fix this kid afterwards. And I really don't see why I do not get to make that choice. I mean, I think at the end of the day, what we can enable is for people to be allowed to make the choice. I'm sure there are other people who think that having kids born with a certain kind of disability is their karma, just God's way of punishing them for sins. That is their choice. I mean, I would like them to also embrace gene editing or any medical therapies that can be used to correct and alleviate the child's pain because I mean, to get better karma, do something else. Don't"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:10.080",
+        "message": "put that poor child under stress. Yeah, and I mean, you are dealt the cards you are dealt. But if you can change them, or if you can at least make sure your kid gets better cards and he or she otherwise would, why not? And at some level, is it also then a question"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:25.080",
+        "message": "of individual liberty versus the so called community good? Gene editing is so complicated, because there's so many ways you can use it. And I think every use case has a different framework of what you can scientifically is achievable, what is ethically acceptable at the societal and individual level, that we actually have to take a few use cases and maybe talk about it, right. So for example, getting rid of Down syndrome is a straightforward case. I mean, I don't think a lot of people will come and say that no, you shouldn't do gene editing. Getting fairer skin though, for your child is slightly more tricky. Because we don't know what kind of advantages that you're conferring the child if the child was not fair skin, probably, in terms of social perception, there might be a difference. But in terms of health, there might not be a perceptible change, right. But at the same time, would we just have like a society of fair skin children, because we think that fairer skin is better looking or something like that? I mean, the ethical questions that that are associated with that are very, very different."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:27.320",
+        "message": "And it's kind of also straightforward, sort of, again, like I said, individual liberty and a whole more community way of thinking, for example, let's say a parent wants fair skin. And they might well argue that it's not for other people to judge, well, you know, the value of fair skin and make those trade offs. I'm the parent, I'll make it in the same same way that I could teach my kid a math instead of drawing, or I could send my kid to drawing classes instead of physics classes. And you know, all that is up to me and they will enhance the kid in different ways, there'll be different characteristics. So I get to choose why shouldn't I and that's kind of a difficult argument to sort of counter and especially if, you know, you and I would both be agreed that, you know, that it's not good for society, definitely, if people display this kind of preferences, because then it affects, you know, people with darker skins and perspectives just change and it will aggravate"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:25.880",
+        "message": "what we see as societal inequalities for some time. If they persist, I think we might just end up with a completely fair skin society. And that would probably mark the end of humanity. Because the minute we all become genetically one, that is it, I mean, as a species, we are dead. So we have to guard against that in a way, but that doesn't actually trample on on individual liberties. And that is something I think we have not come to grasp yet. The idea that having fair skin children, or allowing that kind of gene editing is good or not is something that we have not understood it because there's an economic argument to this as well. Gene editing currently costs a few billion dollars to do in one person. We are not, a lot of people in India are not going to be able to afford that. People who can afford that might actually prefer these kind of luxurious, recreative gene editing therapies. Simply by allowing them to do those, we might bring down the cost of gene editing total. And then gene editing for disease alleviation might become cheaper, which will actually impact a lot of the poor people, vulnerable people who need access to gene therapeutics. So when we think about the morality of doing some of these actions, we also have to think about the impact that has on the access of those therapies to people who really need them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:44.720",
+        "message": "I'll come up with two thoughts here. One is, for example, let's for a moment leave genetics aside, if you're talking about individual choices, and what role the state should play in regulating them. Let's take another example from outside science, where if individuals make rational choices, it ends up with bad social outcomes and talk about what the different schools of thought would have been. What I have in mind, for example, is I live in Mumbai. Now, in Mumbai, it is very common, and every once in a while, somebody will do a feature on how landlords are not giving houses to, say, particular communities, or to single women, and so on and so forth. Now, at a social level, it's a huge problem, because it leads to ghettoization. And it doesn't lead to the kind of intermingling you would like to see though, by and large, Mumbai is a very cosmopolitan city, but you have these sort of enclaves and and that's not a nice thing. However, at an individual level, it is up to every individual who they want to give their house to. So if you have a Jan landlord who decides that I don't want non vegetarian people in my house, although I am non vegetarian, and I would not get that flat, I respect his right over his own property. Others would argue that so the argument for state coercion would be that this is a social problem, the state has to step in and make such discrimination illegal, to which my argument would be that you don't have state capacity to enforce it. And how do you know why a person is not giving a house to someone. So the law is completely pointless. But even if it wasn't, and even if you could enforce it, I would argue that you can't you shouldn't do it. Because state coercion should be used very sparingly. And certain social problems can only be solved by society itself. And what you want is over time, you know, the solutions to them have to lie within the realms of civil society and within the culture itself. To set the precedent of the state coercing on the basis of imposing some notion of virtue is very dangerous because today they might do it to support your notion of notion of virtue, but tomorrow it could be some other notion. So defending individual liberty is a better idea. And this thought came to me when you were, you know, talking about, for example, that thorny notion of what do we do if people sort of go for fair skin kids. And and my thought there again would be that this is a social problem. I'd be very worried if the state stepped in to decide what can and cannot be selected for."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:03.700",
+        "message": "Exactly. It is a social problem. And my fear is that gene editing might become a way for the society to kind of say, okay, we have gene editing, we can fix all problems using that. And instead of going to the root of the problem and trying to figure out why do people prefer fair skin to begin with, and the fact that it makes no sense, and that we as a society can change our perception of the way people of the way we feel about people and the way they look. And that is the crux of the problem. But we might just not look at it at all and just say, okay, now we have something that can magically change everybody to fair skin, which would be utter nonsense."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:41.980",
+        "message": "Yeah. And the other thought that strikes me, and I'd say this question for later, but since it comes up now is a question of inequality, where, you know, I would say that I do not foresee that can be a problem. Because when new technologies come up, a lot of people assume because there's new technologies at the start at the gestation period, especially are incredibly expensive. They assume that they will cause inequality, only the rich can afford it. And they'll create a gap between themselves and the poor. But the way I see it is, if you look at something like smartphones, for example, everybody has smartphones rather than increase inequalities, they have decreased them, they have equalize the field, they spread opportunities to everyone. Similarly, I would imagine with over time with over scale as more and more research happens, you will also like you know, like we like you mentioned earlier that the human genome project, sequencing cost billions of dollars, and now it's there for $100. And similarly, whatever technologies come up for gene editing or whatever someday will be affordable by the common person, which is an incredible thing, because what they are most likely to be used for most of the time is to solve diseases and illnesses and so on. And the amount of human misery that will be alleviated, you cannot put a value"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:59:49.460",
+        "message": "to that. I mean, scientifically speaking, the lowest hanging fruit is disease alleviation, right? Because a lot of genetic diseases particularly are caused by a single mutation. It is easy for us to do the cut and paste maneuver for a single thing and everything else in the body functions normally. The more genes that are involved in thing in a particular characteristic, the more complicated that cut and paste goes. And so, it is the less the more difficult it is for us to actually get away with doing CRISPR. Intelligence, for example, there have been a lot of reports that oh, we are going to have these designer babies and super soldiers and extremely intelligent beings. We simply do not understand the genetics behind intelligence. So, the idea that we might actually opt for more intelligent babies is kind of..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:36.740",
+        "message": "And it depends on how you define intelligence. Like, if you define a certain kind of pattern recognition and so on as intelligence, and you could even select for autism, for example. So, it depends on, you know, I mean, it is true that a lot of intelligence, however you define it is encoded in the gene, some scientists estimate, I think up to 60% is kind of the consensus, but a lot of it is nurture. It's again nature and nurture working together and one is not sure how to define it or what value to place upon it. I want to ask one last question about ethics, because I had taken a stand on this many, many years ago with a very controversial article. So, I'll ask your opinion on that. Before we get to politics and eugenics, which I think, you know, all of that, the political implications of it, which you had referred to earlier, and I think we should examine in more detail. And my question is really about gene doping. And this came up some 12 years ago. And my sense was that it should not be called gene doping. And that gene doping should in fact be allowed. Because my whole point was that look, we are taking protein shakes, we are going to the gym, we are training in high altitudes, we are doing all kinds of things to optimise our ability for sport. So why not do that? Why not extend that to genetics? Why do you draw a line there? And my second point was that look, in any case, it is not that gene doping will spoil a level playing field. On the other hand, sports depends on the playing field not being leveled. Every single sportsman has a genetic advantage that allows him to get there. It's obviously a combination of inborn talent and hard work. But without those inborn advantages, like how much oxygen your lungs can take, or so on and so forth, you know, all elite sportsmen are basically freaks of nature in a genetic sense, complete outliers in some way or the other. And what gene doping actually allows you to do is level the field a little bit. So I don't really see an ethical problem with it, per se, quite apart from the logistical issues of can you even detect it if it happens."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:31.020",
+        "message": "But what's your take on this? Yeah, you're right. A lot of, at least the most elite athletes seem to have some kind of genetic inheritance that they can be proud of. Most recently, we spoke about Michael Phelps and his ability to process lactic acid faster. And so he tires less because his body doesn't make that much lactic acid."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:51.340",
+        "message": "Common with many elite cyclists as well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:53.900",
+        "message": "Yeah, yeah. Then there was this family, I think in Norway, which has got a muscle, it's a family inherited mutation, which causes high muscular strength. So everyone in the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:04.580",
+        "message": "family are really... I think I was reading about this. There are 29 people in that family who have that thing"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:09.780",
+        "message": "and many of them are sportsmen at the highest level. So it does occur. And obviously, we can really counter the fact, because naturally or not. And I think you're right. I mean, I don't see why we should stop people from... Actually, I don't know. I have to think about this. Because if I was born with a mutation, that allowed me to be better at a sport or have better endurance to actually follow sport, I might from my childhood be put in an environment where hard work is required. But if I have access to a mutation that kind of takes away the hard work component from it... But it can't, right? A mutation can just get you up to the natural level of the other person. As long as it doesn't take away from the hard work component, I don't see why it's a problem. If we figure out at some point of time, the magic to do away with hard work, then I think"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:57.660",
+        "message": "we might have a problem. Oh, and the interesting thing is, if you ban gene doping, but you allow gene therapies in the population, then what you'll have is that everyone in the population can be a Michael Phelps, but not a swimmer, not a competitive swimmer."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:09.420",
+        "message": "I think eventually sports might be the biggest victim of gene editing. I mean, if you're not consciously either allow gene doping or ban it and monitor it meticulously, the whole idea of Olympics and elite sports is probably just going to become redundant."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:28.620",
+        "message": "Because all sports at some level are based on inequality. Some people get the luck of the draw. They have the privilege of being born with these immense skills. And I actually, because I love sport, I want that to continue that sense. But at the same time, there's there's no ethical reason I can think of for sort of banning gene editing, even banning gene doping, even if it were possible. And again, it's a function"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:04:49.780",
+        "message": "of the way the words plays, like calling it gene doping itself is making a value judgment on it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:55.500",
+        "message": "Let's kind of get to the politics, like the reason genetics gets a bad rap. And the reason that even today, it's almost politically incorrect in many places to speak of this or that trait being inherited, especially something like intelligence, for example, is what it has been used for, what genetics has been used for. And in fact, you spoke of eugenics. Eugenics was popular in both the US and the English among left wing intellectuals like George Bernard Shaw and so on, because, you know, they had that transformative vision of a better society. And then of course, Hitler used it in the way he did. So it's not some right wing fascist thing, it kind of spread across. And what can kind of seem to happen there to me is that the political associate the negative association of eugenics, the way it was used, has cast a bad light upon the field of genetics, which I think is unfair, because I think people don't often make the distinction between description and prescription. And today, what has happened is, if you are to say that, for example, A and B are not the same, that is a description, it is not a prescription that they be treated differently. And this conflation often happens in the public domain. What's your sense of this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:11.860",
+        "message": "Interesting. So for my for the Labcoats podcast, I had I had interviewed someone for rare diseases. And February is rare diseases month. And even that segment, and this is a clinician scientist, and even that segment ended with him saying about that this is not eugenics, right, that gene therapies for rare diseases is not eugenics. So there is this fear, not just among civilians, but even people who are actually very intimate with the field, that are we crossing a boundary of eugenics? I mean, truth be told, eugenics is the idea that we want better children. I mean, that that is the basic essence of the idea that you want your child to have the best resources that they can."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:51.660",
+        "message": "But that's the original meaning of the term, if you accept that language evolves, what eugenic basically means today in the popular imagination, is you're trying to reshape society"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:59.780",
+        "message": "through coercive means. I think that is basically the point that we need to make is that we all want better societies. But that doesn't mean we kill off what we deem to be bad eggs. It just means that we either, we redefine ourselves to be a society which is more homogeneous, and more acceptable. We do not say that everything has to come in binaries, we do not say that..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:27.180",
+        "message": "More heterogeneous, you mean?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:28.180",
+        "message": "Yeah, sorry, more heterogeneous. Yeah. Not everything has to come in a binary. Men can"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:33.140",
+        "message": "like men, if they want to. And not everybody has to have any kind of value judgment on it. You are like this, therefore"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:39.020",
+        "message": "you are bad. Yeah. So, so that is the first thing we really need to figure out. And then the second thing is that what genetic editing allows us to do is, if there are diseases that we think are particularly debilitating to somebody, they can have the option of choosing a healthier life. So, we are in no way saying that you are bad. It is like taking medicine. I mean, if you have a fever, obviously you're going to take paracetamol. You're not going to sit and say, oh, I've got fever. I'm different from my family members because they don't have fever, I have fever, there's nothing I can do in life. And nobody is, again, attaching a value judgment to the fact that you have fever. I have this entire problem with a lot of mental health diseases, for example, is that we put this stigma on to mental health diseases, which are probably also genetically linked, in a way which is very different from any physical disease that you see, right. And because of that, they are stuck in a corner and they're not able to progress. What genetic editing allows us now to do is just a better understanding of gene functions, a better understanding of how diseases are caused, and a better ability to accept and treat them. And we are now at that time in society where we can decide that, okay, we have the ability to do all of this. Should we do it? Should we decide to make ourselves better in a more progressive way? Should we be scared of our history, not learn from it and say, either look at our history, learn from it and go, no, no, we don't want to go down this route at all, because this might mess up. Or look at it and say, okay, we have made mistakes in the past. But now there's a new technology that can allow us to do things better. So should we take that chance?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:16.100",
+        "message": "In fact, in the words of Adam Cohen, who wrote in an editorial in the LA Times a couple of years back, where he said that eugenics was a war on the weak, but now what is happening in gene editing can be a war for the weak. So that has, you know, immense connotations of virtue. And the way I look at it is that the way the difference between eugenics and, you know, the sort of gene editing that you and I support is that the kind of gene editing that you and I support make the lives of individuals better. They have individual aims. They don't have communal aims that we must have a pure race or we must reshape society. And that's yeah, that's the second point that they are voluntary and not coercive. So as long as they are voluntary, I don't have an issue with it. The moment they become coercive, it's just flat out wrong and no other detail, frankly, matters to me. So tell me something in this field of science, particularly, it seems to me that politics is always hovering in the background, especially because of all the things that has happened, does it get in the way of the science, for example, just, you know, the question of intelligence has been so politicized, does it get in the way of what scientists research and what they say, you know, is a scientist who is choosing between subject A and subject B some in a university somewhere, going to think that no subject A could be controversial, because my descriptive words could be misinterpreted as prescriptive, and I could get into a controversy. So let me do subject B, do things like that happen? Does that affect the science?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:43.700",
+        "message": "Particularly in India, I don't think for gene editing in India per se, I don't think that has happened. Because"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:51.380",
+        "message": "It's not such a big thing here yet."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:52.820",
+        "message": "It is not a big thing. The guidelines have been written by scientists, not by policymakers or politicians. Our problem is that we have always looked westwards while forming our own policies. So we have not looked at gene editing as an opportunity at all. We have not thought about the fact that we are 1.3 billion people with a range of say rare diseases, other genetic diseases, mosquito-borne diseases, that could provide an opportunity for us to be world leaders in gene editing therapies. Instead, we are looking westward and saying that, okay, what is the West doing? Is heritable gene editing acceptable? No, then it's not acceptable to us as well. I don't think we have figured out why scientists from, say, the US Academy of Sciences or the UK Academy are saying that, actually only the US, I don't think UK Academies has said nothing, has commented on heritable gene editing, but the US Academy and the European Academy has come across and strongly said that germline gene editing is unethical. And so it is banned in India as well. I don't think we have figured out whether Indian citizens think that this is unethical or unethical. I don't think we have even bothered"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:06.980",
+        "message": "to ask. We'll come to the policy domain a little bit later. Another question that I think falls within the realm of the ethical is, and something that you brought up earlier, is a question of diversity, in that if within a society you have sort of certain, like the preference of fair skin, and the danger with something like the preference for fair skin is that it could set off an arms race towards people getting fairer and fairer skin till everyone is fair skin and that affects diversity. And that's just one example being fair skin, but there could be other examples of the way people behave and all of that, assuming that at some point in time, the science reaches a stage which it undoubtedly will, it's only a matter of time that you can basically select for everything. And sort of when that happens, there is a danger that we move towards homogeneity. For example, I had done an episode with Vikram Doctor on Indian food and how most of it is actually not Indian. And one example he gave there was of the banana, which basically India exported to the world. And we have a whole huge range of indigenous bananas. But what happened was for all kinds of reasons of economics and scale and whatever, one particular tasteless kind of banana called the Cavendish banana became popular everywhere. And now that is being sort of exported back to India, where it is overwhelming the other indigenous kinds of bananas. So and you know, could something like this, for example, happen with human beings? Because as a geneticist, diversity"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:27.980",
+        "message": "is great, isn't it? Yeah, it is great. And it's needed for survival of any species. So the idea that we might have this preference of having a cricket team with all Virat Kohli's is going to be a nightmare, right? I mean, we can't all be Virat Kohli. We shouldn't all be Virat Kohli. We need the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:44.380",
+        "message": "other players, right? We need a well-behaved Virat Kohli. We would like Hardik Pandey to come back as soon as possible, preferably. You are saying this? Okay. No, because Hardik is kind of politically incorrect for people to say good things about after that sort of kerfuffle he had on the..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:00.220",
+        "message": "Of course. And again, I'm not going to judge him as the person, but he is an all-rounder and we need an all-rounder in the team. And then it's up to the team to make sure that the all-rounder is well-behaved."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:10.220",
+        "message": "Cool. We shall do a high five right after this session, because I think he's a very fine player and underrated player and a much better batsman than he gets credit for, which distinguishes him from our other great bowling all-rounder, Kapil Dev. What are the sort of malicious uses of the deliberate malicious uses? I'm not talking about unintended consequences, which I'll come to and we need to discuss mosquitoes and bats. But what are the sort of malicious uses? Like right now, we are recording this on Jan 25th. And there's this corona virus thing that is happening somewhere in China. And you were telling me earlier while we were having carbs over lunch that there's a possibility that something that was being, you know, bioweapons might have been created in labs and something has escaped from there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:53.340",
+        "message": "That is the effect of carbs. So there is a lab in Wuhan, which is a biosafety containment lab, where they were researching the SARS virus from 2003. At this point of time, there is absolutely no link between the viruses that they were studying and the incident that happened at the Wuhan seafood market. But the use of gene editing to create and engineer such viruses exists, right. We can use gene editing to take a virus, say even something as simple as measles, which is common in India, you can take measles virus and turn it to be vaccine resistant and let it back out, right. Those are things that are really, really scary that are possible. And virus, the genomes are sometimes publicly available. There's this field of biology known as synthetic biology, where you create the entire organism out of scratch. And it was in 2002, that scientists made the first poliovirus out of scratch. And they put the sequence out in public domain, which basically meant that anybody couldn't go and see on how to create a poliovirus. And that was subsequently brought down. And now the public knowledge of some, at least some viruses is banned. So you don't want to put things like this out in the public domain. But CRISPR has now become so universal. And it's every lab in the institution I used to work previously has done gene editing in some form or the other by now. So the knowledge has become so, so universal that it is easier for people who want to use it maliciously to now use it and create something dangerous. And it might not take a lot of effort to do that. Whether they have the standards to be able to protect themselves from that is an entirely different thing. But A, the science has become universal. And B, there has been an increased attention at bioweapons again, mainly because the whole idea of genome editing, creating these kind of bioweapons was first flagged in a US intelligence agency report in 2016. And subsequently, a lot of other countries have put up notices that this might actually become reality. And I just think the renewed attention to the topic itself might have made it more appealing to non-state actors as well. That states now think that this is achievable. So maybe it is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:16.740",
+        "message": "No, in fact, that's like earlier people used to be worried about nuclear power. And, you know, you used to talk about suitcase nukes. But obviously, suitcase nukes are technically very, very hard to actually manufacture. Two guys sitting in a garage lab somewhere can't do it. The materials are expensive, uranium, proteinium, whatever. So is what you're saying that, for example, you know, is it far easier and far less resource incentive to manufacture"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:40.620",
+        "message": "a virus, for example, in a lab? It would be as compared to the other weapons. It depends entirely on the desperation of the people trying to create that kind of a weapon. And as we have seen in the past decades, we have become more and more stricter on the other weapon systems, right? And it's far"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:53.700",
+        "message": "easier to track nuclear weapons. This we can't control. This we can't control. This we really can't track. Like, hypothetically, if someone was to come to you and offer you some money, which would make you inclined to do whatever they wanted you to do, and they offered you their resources, would you be able to engineer a harmful virus?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:09.660",
+        "message": "I'm reading a few papers. And if I have a BCL4 facility, yeah. You would. Well, there are only two BCL4 facilities in India, so..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:17.900",
+        "message": "Sure, but like technology, you know, those will eventually, they'll be more common and,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:23.420",
+        "message": "you know... Now I'm regretting saying yeah. Maybe I shouldn't have said yeah. Okay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:28.420",
+        "message": "No, I mean, it'll be interesting if someone does approach you, let me know, but kindly don't accept because..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:33.500",
+        "message": "No, obviously, I have no intention of doing that. But what I think what we're trying to say is that it is feasible to be done. There are a lot more people now who can do it than they were 50 years ago, who can actually maybe have put together bits and pieces to create a sort of crude weapon. The other thing about biological weapons is that unlike a nuclear weapon, it doesn't have to be precise. It can literally be very crude. And the other thing I think which we often forget in this entire talk about weapons is that nations have, I feel, moved on from the traditional geopolitical warfare to more economic warfare. And in economic warfare, biological weapons are much more useful than a nuclear weapon"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:19.460",
+        "message": "is. Explain that to me."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:21.460",
+        "message": "Look at Wuhan now, right. I'm not saying it's a biological weapons attack, but just the impact it is going to have on China's economy, the impact it will have on China's morale because of them losing a lot of the celebrations of their Lunar New Year. The anxiety that is coming to whether she is a good leader or not, whether he has been able to handle things well or not, right. And this is in all likelihood a natural outbreak, but just the amount of suspicion it has brought in, you can realize the amount of impact it's going to have. And so economic warfare, using something like this to destroy somebody's food crops, for example, makes more sense than trying to nuke them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:02.980",
+        "message": "Yeah, I mean, absolutely. And there's nothing you can do about it. The genie is out of the bottle in a sense."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:08.220",
+        "message": "And you cannot tell, even with Wuhan, right. The assumption is that it is a natural outbreak. It is very likely going to be a natural outbreak. I mean, there was this entire thing about anthrax leaking out from the facility in Russia. But apart from that, we do not seem to have a lot of virus outbreaks that have happened as a result of virus escaping labs. But yeah, you cannot tell where it has come from. It is very difficult to trace it back. If it is a deliberate attack, you cannot even tell which country has done it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:38.620",
+        "message": "So let's let's since we can't do anything about this, we must be very dark. Yeah, we must instantly become in denial of the possibility of such a thing and instead turn back to subjects we can both talk about, which are science and economics, respectively, and talk about unintended consequences, like one of the famous textbook cases, which everyone talks about, and I believe has been tried in India is, can you genetically modify mosquitoes so they don't spread malaria? That is one instance. And another instance, can you genetically modify mosquitoes so they stop breeding? And therefore, there are no baby mosquitoes. Yeah. Which is your favorite scenario? My favorite scenario is the first because, you know, I the spoiler has happened. I know what can happen with the second one, which is basically if mosquitoes die out, what will bats eat and the whole ecosystem goes haywire. And that is incredibly scary to me. On the other hand, genetically modifying mosquitoes, assuming the scientists are fairly confident and it becomes a probabilistic game that there won't be other that they can control for other things going wrong. Sounds like a good idea to me."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:38.580",
+        "message": "What do you think? Tell me enlightened. So I first came across this whole genetically modified mosquitoes when Oxitec was doing its studies in Brazil. So Oxitec is a British company, which has pioneered this technology. Their technology is your scenario B, where you kill off the mosquitoes completely. And they have done this in the Cayman Islands. They have done this in Brazil, and they have an ongoing experiment in Maharashtra, in Jalna. It has been going on for I think a year and a half now. But I don't know what the results."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:10.980",
+        "message": "I don't know, don't even know if the results have been made public yet. But how does it work? They catch one mosquito and modify it and hope that it... No, no, no. So they make"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:18.220",
+        "message": "the mosquitoes in the lab, and they make it so that these are only male mosquitoes, so they won't go out and bite. So only the female mosquitoes will bite you. Yeah, the female anaphylis mosquito basically spreads. So the female mosquito bites you because poor thing needs your blood to give birth to baby. Okay, so she's not even selfish. Again, she's trying to perpetuate because it is natural instinct. So they breed the male mosquitoes in the lab and the male mosquitoes have a mutation. So such that when they mate with the wild type being the non-mutated female, the offspring doesn't survive. So the offspring dies. And that way, you don't get furthering of the population. And the idea is that once the male mosquitoes die, you replace them every year with newer and newer mutated male mosquitoes. So that is that model. The other model is in which you mutate the mosquito such that any larva that comes out, any baby mosquito that comes out cannot harbour the pathogen itself. So obviously, the mosquito is not causing dengue or malaria, it is the malarial plasmodium or the dengue virus, which once it goes inside you causes the disease. The other way is that you change the mosquito so that whenever the malaria plasmodium enters a mosquito, it dies within the mosquito itself. So even if the mosquito bites you, there is no plasmodium being transferred, so you're not going to suffer the disease. As you said, this is a preferred scenario over killing of all mosquitoes because we really cannot estimate the impacts that will have on the food chain. There are some people who argue that mosquitoes form only a tiny part of the bat's diet, so it might not actually impact the bat at all. But it's really difficult to tell. My other argument also is that if you completely remove, say, the anopheles mosquito, you might see a rise in some of the other mosquito variants in your area, which might not also be desirable. When it comes to the other scenario where the mosquito cannot harbour the plasmodium anymore, that sounds great. But again, we don't know how it will impact other mosquitoes. They did an experiment again in Brazil, where they took mosquitoes from two or three different countries and created this mesh mosquito, hybrid mosquito, and released it into confined field trials. And what they found was that some of the other mosquitoes also ended up getting pieces of DNA, which were not found in Brazil. So, somehow some gene transfer has happened. And then this was again a trial which is done by Oxitec. And Oxitec said that we did estimate that some level of this kind of gene transfer will happen. Now, suppose the mutation itself gets transferred to other species, what issues might that cause? We don't know. How effective this whole thing might be in replacing the entire mosquito population so that your complete malaria incidence goes down, we don't know. The problem with India is that we don't even know where our malaria incidence is. We first have to figure out what the hotspots of mosquito bleeding are to be able to then go and do something there. We need to have adequate monitoring mechanisms to make sure that if anything does go wrong after we release these mosquitoes, we can figure out in time to stop. The only difference between a genetically modified plant and a genetically modified mosquito is that we cannot recall the mosquito. Once it's released, it's released, it's gone. There is no way we can call it back. At least with plants, we can know which pharma has brought the seed and we can do something about it. So, I have my own doubts about the technology, about how effective it would be, how long it will take for nature to fight back and say that, no, no, no, we understand what you're doing. How long till the larva decides that we are, sorry, the malaria plasmodium decides to find another host. Whether we have the monitoring mechanisms to actually take control of the situation. And my biggest doubt is whether we will again use this as a nice way to say that, okay, we don't need to do fumigation, we don't need to stay clean, maintain clean household because, hey, we have got any mosquitoes. So, Sri Lanka, which is a tiny neighbour for us, managed to become malaria free after five years of intensive effort. Uzbekistan became malaria free after intensive efforts, neither of them used genetically modified mosquitoes. Whether we have given these other measures enough time and enough effort to see if they are effective or not, I don't know. And whether we can actually use those existing methods in a better way than trialling out something that might risk our ecosystem is something that we have to figure out. I mean, it could be a great tool if there were no caveats attached to it. But I do not want it to be used as this great solution. It's a great to buy over everything and say that, okay, we don't need to do anything now. We just have genetically edited mosquitoes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:10.140",
+        "message": "So, at the end of the episode, I really liked with Vijay Kelkar and Ajay Shah, who have written that great book, In Service of the Republic. And one of the, like they were talking about some of the characteristics of good public policy, and two of them seem to me applicable in this instance. One of them is that whatever interventions you make, make them on the smallest scale possible, so that you can control, you can measure, you can roll back. And the second one is that it should be reversible, so that if something goes wrong, you can turn track. And it seems to me that in the case of this whole mosquito thing, one the scale is actually very large, because once they are out in the wild, the consequences can be across the globe and forever. So, it's not a small scale at all. And two, it's not"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:52.860",
+        "message": "reversible. Ideally, a lot of these gene editing experiments at the population level have been done on islands. I have no idea why they picked Jalna. I mean, Jalna seems like a poor choice to have. You could have ideally picked an island where you could do this kind of a study"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:07.500",
+        "message": "and try to look at the impact on the ecosystem. Yeah. And you know, here, what do you think of like the common argument used against genetic modification, and especially being used and I think in that context, it's a bad argument against GMOs is a precautionary principle, right? Because we don't know what may happen, let's not do it. And my fundamental opposition to the precautionary principle, of course, is that no progress would ever happen if we followed the precautionary principle. And in the case of GMO, the politics behind it absolutely disgusts me because the science is pretty unanimous on, you know, GMOs being completely safe, and they've saved millions of life. And for, you know, since the 90s, when they became common across the Western world for millions and millions of hectares, there have been absolutely no side effects. And the benefits to nutrition and all of that have been remarkable. I wrote a column on this, which I'll link from the show notes about the different satyagrahas in India where farmers have fought for their rights against politically motivated NGOs. But in general, in GMOs, I know we'll both agree on this, but in general, when the precautionary principle is sort of invoked, what's your sense on that? Like, where do you draw a line and say that it's applicable here? And where do you say,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:20.660",
+        "message": "okay, it's not? I think for me, it is applicable when it allows for consent, right? So, for a GMO crop, for example, if I do not subscribe to the idea that GMOs are healthy, I can say that I don't want to buy this product because it says it's a GMO product, right? If you tomorrow decide that you're going to release GM mosquitoes in my environment, I really have no other choice apart from moving. I have no idea how you'll take my consent into account when releasing mosquitoes. So, for me, everything comes down to the idea of whether individual consent is enabled in a situation or not. And I think for GMOs, for the crops, it's the same. Farmers have the right to choose whether they want to use GM crops or not, and consumers have the right to choose whether they want to eat GM crops or not. And then you can let the market decide what happens."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:12.740",
+        "message": "That's tremendous clarity, which is a good time to segue into the policy questions. Speaking to you now and before, you've got a lot of clarity on how and why we should frame policy and how we should look at these issues, partly because you are both someone trained in the science and passionate about it, and you're also kind of trained in public policy. But what's been your experience of working in the policy ecosystem of this in India, which I assume must be young and growing and learning? And tell me a bit about it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:43.700",
+        "message": "It actually seems to be old and unlearning. A lot of the policy makers I've met have extremely rigid views about what should be done. There is this subservience to what comes from outside India and extremely risk covers, right. We do not look at any incoming technology proactively. We do not want, we do not take those decisions which might end up, how do I say this, upsetting certain sections of the society. So, I don't think we leverage the strong points that we have. A, we have got, well, not a lot, but we've got a bunch of really good scientists. We have got good infrastructure, and we have got a huge population riddled with problems that basically provides ample opportunities for you to try and do something about it. When I was in the UK, when I was doing my PhD on breast cancer, I was working with breast cancer patients. And in four years, I got to see 16 patients. That's it. And one of the reasons why I wanted to return to India was I thought that if I wanted to work on cancer, I need to see patients. And I'm going to get to see those patients in India, right. But here, we don't seem to appreciate the fact that we have that opportunity to be able to change so many lives. There's a fear that because there are a lot of vulnerable people, foreign companies might come in and exploit them. But I mean, that is your role as a policymaker to be able to protect your people, but also not shield them away from opportunities to a better life. So yeah, it is. It is surprising because this whole thing about heritable gene editing and the ethical causes behind it. I've had a number of conversations where I've asked people, do you think it's unethical? They will say yes, it is unethical. Then I asked them, why do you think it is unethical? And they say, oh, because the science is not up to date, it is premature. And then I go, but that's a scientific risk. It's not an ethical risk. So in their minds themselves, they have not understood the difference between what is ethically correct and what is scientifically correct. And then when you talk about ethics, which is very deeply rooted in religion and faith, that you have to make people make the choice. Again, in the US, there seems to be scientific consensus that germline gene editing is unethical. But when the Pew Research Group did a civilian study, they found that 87% people, US civilians, thought that using germline gene editing in babies to correct a debilitating disease or a life threatening disease is acceptable. So we don't even know where our concepts of ethics are coming from."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:32.260",
+        "message": "No, and it's interesting and a lot of it may be an instinctive ickiness. Like for example, when Louise Brown, the first rest of your baby was born, her parents, Leslie and John got trolled viciously, as you would be in those days before social media with a lot of hate mail, including parcels containing plastic fetuses, which had been splattered with blood. And you kind of wondered at what kind of anger causes someone to sort of do that and where these sort of, it almost seems as if some premium taboo has been breached."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:03.780",
+        "message": "Yeah, it just happens with every new technology, right? When the recombinant DNA first came in, so recombinant DNA is basically you can change your DNA, you can create a DNA inside a lab, and any change DNA fault, that's what is known as recombinant DNA. And when we understood that we could, say, take a human gene and express it in a bacterial cell to create a human protein, and then we could use that human protein back in humans, people were scared about what would happen, right? What would people be doing with such kind of technology? And there was a ban on recombinant DNA for many years. And then there was this entire episode of when HIV first came into America. And it quickly spread among hemophiliacs. So hemophilia is obviously this disease that means your blood doesn't clot. So if you have a tiny cut, you might actually bleed yourself out. It's very common among the European monarchy, for example. That's something I will come back to later. But so hemophilia, if you're hemophilia, you require a lot of blood transfusions. And because AIDS had made, HIV had made its way to the US, and people did not really know where it had come from or how it spread, a lot of tainted blood actually went into hemophiliacs without the knowledge that it had HIV. And then it became like a hemophiliac disease. And people really were scared, because as a hemophiliac, you really had no other choice than undergoing a blood transfusion. But you do not know whether you'll end up with HIV or not. And that is when recombinant DNA came to rescue because people had been creating the protein that was missing in hemophilia using recombinant DNA in labs. This was not tainted blood. This was the pure protein. It could be given without any worry of spreading HIV. And then the recombinant DNA just burst on the scene. People were more agreeable to it, more acceptable of the technology. But it came at the cost of many lives. And I think it might become very similar with gene editing. Question really is, can we just learn from what happened in the 1980s and 90s? And say that, okay, we don't want to pay that cost of life anymore."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:05.540",
+        "message": "It strikes me just looking at incentives, the incentive of a bureaucrat who's making a policy decision about this would be if he is if he doesn't understand this new technology, like say, in the case of recombinant DNA, and he says that, okay, I don't really understand this, why should I take a risk? Doing nothing and banning it is the safest way for me because if I allow it and something goes wrong, and would this and this is a very natural, rational way for the bureaucrat in question to behave. But would it then point to a structural problem in the system that there aren't enough scientists or people with scientific knowledge embedded in the policymaking mechanism, so that such fears don't arise and such decisions can be taken with much more in much more informed ways?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:36:48.780",
+        "message": "Yeah, and with transparent data, I think one of the things that we have really struggled with is getting data and being able to communicate that data in a coherent manner. We saw this happen with GMOs, we saw it happen with BT Cotton, we saw a lot of narrative being asserted by anti GMO lobbies simply because the government of India never released data on how good the crops were. We saw this happen with GM Mustard and GM Brinjal, which passed safety tests by the government of India, but were never approved by the government of India. They"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:18.980",
+        "message": "were approved in Bangladesh."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:19.980",
+        "message": "And they benefited Bangladesh enormously. And our poor farmers suffered. Yeah, but release the data we need to see, right? I mean, one of the other issues is that we have been unable to accept limitations. If something doesn't work, it doesn't work. It's okay to say that it doesn't work and try to figure out an answer. But we simply won't do that. With BT Cotton, I thought that it should be anticipated that the ballworm against which BT Cotton provides resistance will develop resistance because hey, nature finds a way, right? It will happen. We have seen it happen again and again and again, nothing's going to change now. So, it will happen. And to be able to anticipate that, to be able to work with farmers so that they don't suffer a loss is something that is completely undoable. But when technology comes and we either look at it as this miraculous cure that is going to be a one-stop solution that we never have to look at it again, is hurting us. Either we look at it from that way, or we look at it from the way that no, no, this is going to be a complete disaster. So, we shouldn't do it, right? And particularly for the GMOs, I've heard both the narratives. And they're so extremely deeming of the other one. They are so extremely, they're just not agreeable to hearing each other out. They are not agreeing to the fact that both of them have some merits, right? There are some risks. We are not going to say that everything is great. At the same time, we cannot say that nothing is worth it. But just getting them to the middle ground"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:38:58.620",
+        "message": "is very difficult. Exactly. And in the case of GMOs, for three decades, there were absolutely no side effects anywhere. The rest of the world adopted it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:06.300",
+        "message": "And we were making our... I was at the BRICS academic forum last year, on a panel on how the BRICS nations can cooperate on agriculture. And someone from the South African contingent stood up and asked, but GMOs are hazardous to health. So, I don't want them to come into South Africa. And I was thinking, okay, these people are probably the best that South Africa can send to academic forum. So, obviously must have an academic pedigree, must be extremely well educated, has come with scientific people from his community and yet believes that GMOs are bad for health. So, yeah, there's something wrong with the narrative shaping that we seem to have lost out on."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:51.620",
+        "message": "So how can this policymaking process in India be reformed? Like, for example, could you illustrate with the example of any specific policy decision? And what are the different sort of pulls and pressures that go in? What are the considerations? And, you know..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:05.820",
+        "message": "So, for the gene editing policy, the policy actually just came out in December 2019. The first meeting was held under pressure in 2017. I was not part of any meetings, I just know about this from outside. So, in 2017, they held the first meeting. This was the ICMR and DBT, which is the Indian Council for Medical Research and the Department of Biotechnology. And then nothing moved for two years until the babies in China were born, the genetically modified babies, which again put on a lot of international pressure on countries to pass some sort of policy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:40:45.180",
+        "message": "Tell me a bit about that, what genetically modified babies in China?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:49.220",
+        "message": "So, this Chinese scientist was working on HIV for a long time. And there is a particular receptor in the immune cells where the HIV virus binds and goes in. So, if you remove the receptor, the CCR5 receptor, you basically can afford immunity to HIV. So, he was working with couples in Africa, where HIV is pretty common. And he decided to find couples where the father had HIV positive, the mother did not. So, take the egg and the sperm, create an embryo and modify the embryo such that it removes a part of this receptor. And then ideally, the child should not get the HIV, which her father has. So, he created this twins Nana and Lulu. And they were born in November 2018. And he made this landmark announcement. And the world shook. Because then everyone was saying that no, no, germline genetic is something we will never get into, we should not get into. There were a lot of sceptics who said that someone or the others is going to do it. So, we do not see the point of a moratorium. But there was this supposed self-imposed moratorium."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:08.180",
+        "message": "And then Nana and Lulu come along."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:42:09.860",
+        "message": "And then these two kids come along. And obviously, then the Chinese Academy of Sciences decided to take swift action. They put him under house arrest. He is jailed now for three years. We still do not know what has happened with the kids. They were taken under state control. But it is China. So, everything is under state control, I guess. And there have been some studies which some would say that the babies are fine. Some would say that the babies might not live long. But we really do not know what is happening there. After that, there was a guy in Russia who said, I want to do the same experiment, but that the Chinese scientist's science was wrong. So, there were some arguments that the experiment that he did was scientifically incorrect. I mean, forget the ethics part, but scientifically could have done better. So, this Russian guy came and said, no, no, I will do the same experiment, but I will do it scientifically better. But then the Russian government said no doing. So, that fizzled out."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:43:00.780",
+        "message": "So, you're coming back to the question of, you know, the Indian policy on that. In 2017,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:05.700",
+        "message": "they met and then this happened in 2018. And how did all of that impact the policy? So then they came out with an actual draft policy. The draft policy came out in, I think, August last year, that they announced it and they gave four days for public consultation. So, it came out on Monday and they said Friday is your last year."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:43:27.180",
+        "message": "Good Lord, that's ridiculous."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:28.180",
+        "message": "And luckily I saw it. So, I gave back my comments, but I've not heard anything back from them. And the final draft that was released in December is exactly the same draft as the one for public consultation. So, I don't know if they've actually, if actually anyone has commented or if they've actually even looked at the comments or not. So, and one of my bigger issues about that draft, and I think it summarizes all of our comments so far, is that it says that gene therapies are going to be allowed for therapeutic benefits. And I have no idea what therapeutic benefits is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:06.260",
+        "message": "It can be defined anyway."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:44:07.260",
+        "message": "It can be anything. And the problem that such ambiguity in policy brings is that, A, India really requires investment in science, research and development. Our government spends very, very little on R&D. And no private investor is going to come in when you cannot promise that the product you're making is going to be acceptable or not at the end of the day. And when you have something called therapeutic benefits in it, I really cannot tell. It's then up to whoever is the decision making committee to decide what ambit that falls"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:41.300",
+        "message": "into. I mean, then it's again laid open to bureaucratic discretion, they may, you know, err on the side of safety and so on and so forth. So, what reforms could be made to it to make them more receptive to new science and to knowledge and to better data, as you pointed out earlier? You know, how could it work better? Because I'm imagining the pace of change is so fast that these are old world bureaucrats in an old world governance system actually designed in the 19th century by the British. And there is so much change happening so much information coming in. It's an archaic system in this modern world."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:45:13.740",
+        "message": "Yeah, it's a copy paste of the old guidelines. So they'll pick some old guidelines and say, you know, whatever we can copy paste, you can copy paste and wherever gene editing has to be inserted can be inserted. The gene editing guidelines actually are a little more progressive than the stem cell guidelines, which came out in 2017 that look at stem cell therapies. In that, A, the gene editing guidelines actually say that we will form working groups of scientists and patient groups and lawyers for particular diseases, right. This was something that even Takashi's working document has argued for the past two years that let's not have one committee that determines everything for all diseases. So, that was something that we found was very progressive. The other thing that I think they could have done and what we had suggested was that have the working group come out with detailed guidelines for the disease. Since you are the primary funder for a lot of the research anyways, you can actually have the luxury of saying that these are the 10 diseases I want to prioritize research on because data shows that they are most common in India. So, you can say that these are the 10 diseases, we have these 10 working groups who will say that if your solution can offer say 90 percent efficacy, then we will allow it to the next stage, right. If you have that kind of clarity built in, then we can actually see people getting more and more into research and creating gene editing therapeutics instead of just using it for fundamental research. The other thing that we thought was it is still a very bureaucratic system. So, we already have a few committees at the institution level. So, say at a research institution, you will have an Institutional Biosafety Committee, you will have a Stem Cell Committee, and then you will also have a National Apex Committee who has to see what you are doing. So, a lot of monitoring going on. This guideline actually forms a third committee on to sit on top of all of that. So, we are like why have all of these committees, just create one that says that ok, your research is ok or not ok. Streamline the decision-making, reduce the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:14.420",
+        "message": "lag. Yeah, because now you are just going through like four or five committees to figure"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:17.340",
+        "message": "out whether you can actually do what you want to do, after which you start doing what you"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:21.340",
+        "message": "want to do. And you kind of mentioned guidelines having things like ok, if you have more than an X percent chance of happening. And it kind of just struck me that new technologies in any field, new technologies have a far higher bar of acceptance than existing technologies. I mean, just to take an example, for example, in the case of technology in cricket, which I have, which I argued from from the early 2000s onwards, when I was in cricket for that we should embrace technology in cricket. And my only metric was that is the technology more reliable than the umpire? Not that it should be perfect, but is it better than what is existing? And it's not even a binary because technology is an aid to umpire. So, you're comparing umpire alone against umpire with technology. And say if umpires have a 90% accuracy rate, I am happy then if umpire plus technology has a 95% accuracy rate. I'm not going to use the remaining 5%, you know, to argue against technology and to build an alarmist case. And is that something that often happens in the case of new technologies?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:48:24.340",
+        "message": "I think it does. I mean, actually, I don't know, because it gets it really gets compared with what we have existing, right on and how we can improve whatever is existing. Your first mindset to look at new technology is to look at risks. People rarely look at benefits first. The most extreme scenario pops in your head first. And then you compare it to the most extreme scenario of what your existing technology has. And the problem is that with a new technology, you don't know what the risk is. So, your brain automatically starts thinking that you're on Battlestar Galactica, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:49:01.300",
+        "message": "Siberian elephants will suddenly come back to India and destroy everything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:04.980",
+        "message": "Yeah. So, that I think is bigger problem is that we have not been able to make a calibrated guess of what might actually happen. And for that, you need more scientists in the decision making process. But we also need more progressive scientists. We need more young scientists in policy roles. We need more young scientists trained in policy role. I think one of the other issues that I see with scientists who contribute to policymaking is that they're not being trained in public policy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:49:33.260",
+        "message": "So, they don't know how to frame a problem in policy terms."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:36.620",
+        "message": "Yeah. And they have always been in their nice academic luxury bubble. I might get a lot of flack for saying that, but it is true. They have not been exposed outside of their campus to see how technology can integrate with and change society and how society can actually adopt technology. So, for example, I work with a lot of patient groups, right? And when I speak to scientists, they're like, ha, gemline gene editing, makes no sense. We don't need it. I'm yet to come across a patient group representative or a family member of a patient group who has told me that let's not go down the gene editing because the pain is very real for them. I mean, you can put everything aside, but for them to see their"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:20.580",
+        "message": "loved one out of pain is the most important. I mean, if you have kids with Down syndrome or you have whatever, any kind of health problem to your near and loved one, you know, why"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:50:29.540",
+        "message": "should you not make your life better? So just to understand the whole thing of benefit to risk ratio, to take out opportunity cost, basic concepts of economics, supply and demand is something that scientists are not trained with. I mean, they're not supposed to be trained with. But if you're going to make a policy decision, then you really need to know these facts, these concepts."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:50.300",
+        "message": "Fair point. So, you know, before we kind of wind up, a couple of things I'd like you to talk about. One is haemophilia in Europe, something that you mentioned about how royals apparently had more of it and royal blood and all bled out faster and did not stop bleeding. And the other one, and this makes a whole episode non-structured because it's a very arbitrary thing and I didn't ask it at the right time. But about, for example, the effect that endogamy had on gene lines. For example, I had done an episode with Tony Joseph on his wonderful, wonderful book, Early Indians. And he had spoken about how after all the different waves of migration, first the out of Africa migration, and then the West Asian migration from Harappa and downwards, and then finally the Aryan migration, there was a lot of intermingling for a couple of centuries, everyone's having a party, everyone's having fun with everyone else. And then suddenly that stops. And it's endogamy. 2000 years ago, and it says David Reich describes it, you know, while the Han Chinese are a large population, India is actually a collection of many, many small populations, because it's endogamy. And, and people are, you know, a lot of it determined by the caste system that there simply isn't that much mixing going around. And I won't ask you to elaborate on the politics or the sociological aspects of that. But what did it mean in terms of genetics?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:52:10.060",
+        "message": "So these two questions. Right. So the first one about Monarchian hemophilia. So Queen Victoria actually had, was a carrier for the diseased hemophilia gene. Since this is an X linked gene, so women tend not to suffer from it so much unless both of their X chromosomes are impacted. But men because they only have the X from the mother will show hemophilia. So Queen Victoria actually passed it down to her sons and her daughters were carriers. And because back then, you know, European monarchy tended to marry with each other, you could see that gene pop up across many families. But I think the most impactful was in the Russian monarchy case. So Zarina Alexandra was related to Victoria, she was Victoria's granddaughter, and so was also a carrier for hemophilia. And she was very worried that her son Alexei would also have hemophilia. He actually did have signs of suffering from hemophilia. And it was a constant worry over Alexei's future that brought her closer to Rasputin. Because Rasputin came and said that he could cure Alexei. And all of that muddle obviously contributed to the Tsar's way of dealing with Russia. I mean, he had other problems as well. But all of that kind of catalyzed the revolution that saw the Tsar's end, which, I mean, how hemophilia can ruin families is, is amazing. And the way it actually figures along European lines"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:43.260",
+        "message": "is, is fascinating to me. And Rasputin, I guess, was a Baba Ramdev of Russia, and fascinating description of and this is really unintended consequences where, you know, a genetic mutation leads to boom communism. Yeah, Lord help us. Yeah. Now tell me about the caste system."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:53:59.820",
+        "message": "Yeah. So obviously, we have been practicing endogamy for many for more than 2000 years now. The direct result of this is that if my ancestor from 2000 years ago had a mutation that caused a disease, it continues to be perpetuated, simply because there is no new gene pools that are coming in, right. And so you see a lot of these founder mutations persisting in communities. The most commonly cited one, the most interesting one is in the Vaishya community of Andhra Pradesh. So they have a mutation in a gene that prevents them from metabolizing certain kinds of anesthesia. So what doctors are seeing is that if you give the anesthetic to the patient, the patient dies, doesn't come out of sleep. And then some back reasons, they figured out that it was in this particular community only that this was happening. And then they traced it back to the mutation that was common to the community. So now in Andhra Pradesh, they will ask first, which community belong to and if you belong to the Vaishya community, they will give you a different kind of anesthetic so that it doesn't kill you. So India has now embarked on projects to try and figure out what kind of founder mutations are present. We have, I think, about 5,000 sub-populations, if you look purely at genetics. To try and figure out what some populations might be more predisposed to what kind of diseases, so that they're at least self-aware and they can take proper healthy steps to either prevent the birth of children with diseases or preferably marry outside their community. But that is actually a very interesting thing. And I think because I have two cousins who are of eligible marriage age, right? Both are extremely well educated, one's a doctor, one's a dentist. And obviously, when the family decided that they should get married, they started looking within the community. And I understand that, you know, at a day to day level, you'd prefer to marry someone from your community because you will probably eat a similar kind of food, you're grown up with similar kind of values and all of that. But then came that entire, so the girls are like, nah, I don't want to get married within this community. I want to find someone outside. Then came the question of gothra, right? And elders in my family were like, nah, nah, it makes no sense. You know, you should marry within the community as long as not in your gothra. Genes doesn't make any problem. So, I mean, these are both extremely well educated girls, like they're like, no, no, but you have been doing endogamy for so long. I want healthy children. I want bigger gene pool. And the elders are like, no, no, you marry outside gothra, you're fine. The entire system of gothra, however, discounts for the fact that once a woman marries, her gothra changes, but her genes don't. So, it makes no sense, really. I mean, I can't marry my aunt's child because we still have the similar amount of DNA shared as I would with an uncle's child. And so, I think a lot of the genetic diseases that we've seen in families, in close group families, probably because of the remnant of that is the fact that we have automatically assigned different gothras to girls. So, marriage is where sexist behaviour actually also transcended into genetic disabilities. But it is..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:57:05.140",
+        "message": "This is actually an eye opening TIL for me, and I'm sure for many of my listeners to learn that so many physical ailments could have their root cause in a social disease, the social disease of caste. And which is, you know, another illustration of why diversity"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:57:20.080",
+        "message": "is just a bloody good thing. Yeah, but on the other extreme now, we have seen these things like Genome Pathari, like, where you can match your DNA and find a compatible DNA partner. We still don't know the science behind a lot of this, right? There are some extremely encouraging cases such as the Dor Yeshoram, which is a Jewish non-government organisation based in the US. The Jewish obviously also have been practising endogamy for a long time, at least certain communities have been. And so, what Dor Yeshoram does is that it looks at specific diseases that are common to those communities. And it takes DNA samples from teenagers, it takes no other information, no name, number, nothing. They will give you a unique ID, they'll take your blood sample, and they will just keep it on file. They don't even tell you whether you're susceptible to diseases or not. When you choose to marry somebody else from your community, you dial in both of your numbers, and they will tell you whether it's a compatible match or not. Right, so whether both of you have similar diseases or not. That's it. It allows you the right to privacy, they don't take any public information. It affords you the right to not know because if you know that you might be susceptible to something, but you're never going to have it, it might just end up taking steps that you don't need to, right? It might change your lifestyle in a way that you really don't require. So, that I think is a really good model. But we just don't know enough information about the Indian genome and predisposition to diseases in India to be able to make compatible matches yet. So, if someone does come along and asks you for a DNA sample, and they find you a match, might not buy in immediately. It is probably just as similar as a patrika."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:58.740",
+        "message": "But one day when the science is settled, it'll be a better way to do that than a patrika. Though ideally, you should go for a date and have a cup of coffee and ask your... Have carbs. Have no carbs. Okay, so we have come to almost the end of the time that you've so generously agreed to spend in the studio. Before we go, you know, I'll ask you to look ahead in the future, you know, you know, the science, you know, the policy environment, you know, what's going on, look 20 years ahead, okay, 20 years ahead, and tell me what is the best case scenario for humans and what is the worst case scenario with regard to where genetic technologies, our knowledge of genetics is taking us because my sense is and I think you'll agree with me is that this will be enormously consequential and will have huge impact on human welfare. So give me a best case scenario and a worst case."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:59:46.820",
+        "message": "My worst case scenario, which I'm tending to think is also the likely scenario, is that we selfishly use gene editing to change the nature around us for it to fit with us rather than for us to fit with nature. We have picked a handful of species that we want to survive, and we basically are going to end up destroying Earth doing that. Best case scenario is that we keep the tools ready for when we need to use them. And we can intelligently figure out what are the cases in which we really, really need to use this technology and cases where our existing technology or a change of our own convenience is enough to guarantee a better future. If we can figure out that gene editing is not going to be the one all solution that we are ready to give up some comforts to say real and climate change. And we opt to do that for our future generations. Then I see in 20 years, we are in a really good place on Earth, where we can leave to future generations with the hope that they can continue surviving."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:00:53.260",
+        "message": "Thank you so much for coming on the show, Shambhavi. Thank you for having me. If you enjoyed listening to the show, do head on over to Twitter and follow Shambhavi at The Naik Mike. I'll have to spell that out as one word. T H E N A I K M I C. The Naik Mike, one word on Twitter, Shambhavi. You can follow me on Twitter at Amit Verma, A M I T V A R M A. You can browse past episodes of The Scene and The Unseen at sceneunseen.in and thinkpragati.com. The Scene and The Unseen is supported by the Takshashila Institution, where Shambhavi and along with many other outstanding policy thinkers work. You can check out their public policy courses at takshashila.org.in. Thank you for listening."
+    }
+]

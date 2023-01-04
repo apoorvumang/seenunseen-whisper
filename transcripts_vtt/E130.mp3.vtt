@@ -1,0 +1,3254 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+[Unknown]: I.V.M.
+
+00:00:30.000 --> 00:00:36.000
+[Amit Varma]: was Article 231, also known as the War Guilt Clause. This required Germany to disarm,
+
+00:00:36.000 --> 00:00:40.960
+[Amit Varma]: to give up some territory, and most importantly, to pay reparations to some of the winners of the
+
+00:00:40.960 --> 00:00:46.160
+[Amit Varma]: war for the damage it had caused. The total cost of these reparations was later estimated
+
+00:00:46.160 --> 00:00:53.840
+[Amit Varma]: to be 132 billion marks, which would come to 442 billion US dollars today. Germany at the time
+
+00:00:53.840 --> 00:00:58.480
+[Amit Varma]: simply didn't have that kind of money, and in desperation resorted to just printing money.
+
+00:00:58.480 --> 00:01:03.360
+[Amit Varma]: Now printing money can lead to inflation, which is basically a tax on the poor. Germany printed
+
+00:01:03.360 --> 00:01:09.200
+[Amit Varma]: so much of it that it led to hyperinflation, which was equivalent to waging war on their own people.
+
+00:01:09.200 --> 00:01:15.280
+[Amit Varma]: The unrest that this caused led to the rise of Nazism, Adolf Hitler coming to power in the 1930s,
+
+00:01:15.280 --> 00:01:19.520
+[Amit Varma]: and eventually to World War II. Talk of unintended consequences.
+
+00:01:20.080 --> 00:01:24.480
+[Amit Varma]: Now this was not something that was unforeseen at the time. The economist John Maynard Keynes
+
+00:01:24.480 --> 00:01:29.200
+[Amit Varma]: wrote a book called The Economic Consequences of the Peace, which pointed out the reasons why
+
+00:01:29.200 --> 00:01:34.080
+[Amit Varma]: Article 231 would not work. Beyond saying that Germany could not afford these reparations,
+
+00:01:34.080 --> 00:01:38.240
+[Amit Varma]: it also pointed out the problem that policy makers of those times faced because they simply
+
+00:01:38.240 --> 00:01:44.240
+[Amit Varma]: did not know the national income of the various countries. Had a measure called the GDP existed
+
+00:01:44.240 --> 00:01:49.360
+[Amit Varma]: at the time, the other countries could have taken one look at Germany's GDP and known that
+
+00:01:49.360 --> 00:01:55.600
+[Amit Varma]: the reparations they wanted it to pay were just not possible. But they didn't. The GDP as we know
+
+00:01:55.600 --> 00:01:59.920
+[Amit Varma]: it was later born at the time of World War II and Keynes again played a part, publishing a book in
+
+00:01:59.920 --> 00:02:06.720
+[Amit Varma]: 1940 called How to Pay for the War. The title of the book reveals the impetus behind GDP calculation.
+
+00:02:06.720 --> 00:02:12.800
+[Amit Varma]: But I have a larger question that intrigues me. Had the GDP existed as a measure in 1919,
+
+00:02:12.800 --> 00:02:20.320
+[Amit Varma]: could we have avoided World War II? Welcome to the Scene and the Unseen,
+
+00:02:20.320 --> 00:02:25.600
+[Unknown]: our weekly podcast on economics, politics and behavioral science. Please welcome your host,
+
+00:02:25.600 --> 00:02:32.080
+[Amit Varma]: Amit Badma. Welcome to the Scene and the Unseen. The GDP has been the subject of controversy for
+
+00:02:32.080 --> 00:02:37.280
+[Amit Varma]: the last few years in India. And part of the reason for that has nothing to do with economics
+
+00:02:37.280 --> 00:02:41.600
+[Amit Varma]: and everything to do with politics. How can we tell if a government is doing a good job?
+
+00:02:41.600 --> 00:02:47.360
+[Amit Varma]: One measure is the economy. How can we tell how well the economy is doing? The most common metric
+
+00:02:47.360 --> 00:02:52.240
+[Amit Varma]: is the GDP. So no wonder there's been so much fighting over it, illustrating what a Greek
+
+00:02:52.240 --> 00:02:58.400
+[Amit Varma]: economist said a few years ago, quote, statistics as a combat sport, stop quote. So I decided to
+
+00:02:58.400 --> 00:03:03.920
+[Amit Varma]: get someone on the show who knows this combat sport intimately and could demystify GDP for me,
+
+00:03:03.920 --> 00:03:09.280
+[Amit Varma]: both the broad concept of it, as well as the contours of the ongoing controversies in India.
+
+00:03:09.280 --> 00:03:14.240
+[Amit Varma]: Rajeshwari Sengupta is an economist who works at the IGIDR and has written important papers and
+
+00:03:14.240 --> 00:03:18.560
+[Amit Varma]: articles in GDP, which will be linked from the show notes. Before we cut to my conversation
+
+00:03:18.560 --> 00:03:23.680
+[Amit Varma]: with her though, let's take a quick commercial break. This episode of the Scene and the Unseen
+
+00:03:23.680 --> 00:03:27.840
+[Amit Varma]: is brought to you by Storytel. Storytel is an audiobook platform which you can listen to on
+
+00:03:27.840 --> 00:03:32.320
+[Amit Varma]: your Android or iOS app. They have thousands of audiobooks that you can listen to on your mobile,
+
+00:03:32.320 --> 00:03:37.040
+[Amit Varma]: including hundreds in local languages like Hindi and Marathi and unlimited monthly subscription
+
+00:03:37.040 --> 00:03:41.840
+[Amit Varma]: costs only rupees 2.99 per month. And you can also get a 30 day free trial. If you hop on over
+
+00:03:41.840 --> 00:03:48.080
+[Amit Varma]: to Storytel.com slash IBM. I actually use Storytel myself regularly. So as long as I sponsor the
+
+00:03:48.080 --> 00:03:53.360
+[Amit Varma]: show, I'm going to recommend one book a week that I love. The book I want to recommend today is
+
+00:03:53.360 --> 00:03:57.840
+[Amit Varma]: actually in Bengali. It's a book called Ghore Bhaire by Rabindranath Tagore, which was also
+
+00:03:57.840 --> 00:04:03.920
+[Amit Varma]: made into a classic film by Shruthi Jitrai. Check it out on Storytel. And remember, you get a 30
+
+00:04:03.920 --> 00:04:12.320
+[Amit Varma]: day free trial only at Storytel.com slash IBM. Welcome to the Scene and the Unseen Rajeshwari.
+
+00:04:12.320 --> 00:04:16.080
+[Amit Varma]: Thank you so much. I'm very happy to be here. Tell me a little bit about yourself. Like what's
+
+00:04:16.080 --> 00:04:20.800
+[Guest]: your background? How did you become an economist? So that's a very loaded question. How did I become
+
+00:04:20.800 --> 00:04:28.160
+[Guest]: an economist? I feel I'm still becoming an economist. So I, I studied in Calcutta. And
+
+00:04:28.160 --> 00:04:32.880
+[Guest]: I went to Presidency College and I got into the economics program. So I've been there.
+
+00:04:32.880 --> 00:04:37.200
+[Guest]: And until then, I really didn't have very much of an idea of what economics is all about, except
+
+00:04:37.200 --> 00:04:42.400
+[Guest]: that I sort of liked it, the whole supply demand and how price gets decided and all of that.
+
+00:04:42.960 --> 00:04:47.840
+[Guest]: Now, while in Presidency College, those three years, I think had the biggest impression in my
+
+00:04:47.840 --> 00:04:53.600
+[Guest]: mind as far as my future career is concerned. Because the kind of professors that I had and
+
+00:04:53.600 --> 00:04:58.400
+[Guest]: the kind of books that we got exposed to, and the kind of friends and peers that I had and
+
+00:04:58.400 --> 00:05:03.600
+[Guest]: discussions that I had were absolutely phenomenal. And that kind of convinced me that if there is
+
+00:05:03.600 --> 00:05:09.200
+[Guest]: one subject that I want to study, and I always had sort of an academic bent of mind that I wanted to
+
+00:05:09.200 --> 00:05:13.920
+[Guest]: study, that's something that I just wanted to do. I thought that it has to be economics. And
+
+00:05:13.920 --> 00:05:19.200
+[Guest]: then after that, it was just a gradual progression from one step to the other. The usual things that
+
+00:05:19.200 --> 00:05:25.280
+[Guest]: people do, you do a master's, then I did a PhD, because I wanted to become an economist. And then
+
+00:05:25.280 --> 00:05:31.680
+[Guest]: after doing a PhD, I still had the impression that I did it in the US. And I thought, I will
+
+00:05:31.680 --> 00:05:37.520
+[Guest]: become a professor in the US, like my thesis advisor, and I'll have a career in the US
+
+00:05:37.520 --> 00:05:44.640
+[Guest]: University and that will be it. But luck obviously had a big role to play. This was after the global
+
+00:05:44.640 --> 00:05:51.520
+[Guest]: financial crisis. This was 2010-11. And the job market there was really bad. And I was not
+
+00:05:51.520 --> 00:05:57.120
+[Guest]: graduating from that one of the top 10 universities in the US, which meant that my job prospects in
+
+00:05:57.120 --> 00:06:01.600
+[Guest]: the US were not that great, all the offers that I was getting from not kind of places, but I wanted
+
+00:06:01.600 --> 00:06:08.080
+[Guest]: to be in. So then the obvious choice was to come back to India, which I did. And frankly speaking,
+
+00:06:08.080 --> 00:06:12.640
+[Guest]: other than the three years that I spent in Presidency College, whatever happened after that
+
+00:06:12.640 --> 00:06:17.520
+[Guest]: was a bit of a blur, because I learned the techniques, the tools, the jargon of economics,
+
+00:06:17.520 --> 00:06:22.480
+[Guest]: but I didn't really get the juice of the subject, so to speak. That happened when I came back to
+
+00:06:22.480 --> 00:06:28.160
+[Guest]: India, which I had not expected at all. I thought that my career was over. I am back in India. Who
+
+00:06:28.160 --> 00:06:33.040
+[Guest]: studies economics in India, especially my field was macroeconomics. How do you publish in journals,
+
+00:06:33.040 --> 00:06:39.120
+[Guest]: you don't have access to data sets. So I was in a doom and gloom mode. And then eventually,
+
+00:06:39.120 --> 00:06:44.560
+[Guest]: eventually after a couple of years in India, in Madras, I went to Bombay, I came to Bombay,
+
+00:06:44.560 --> 00:06:51.200
+[Guest]: and I joined IGIDR. And there I met a really interesting bunch of people who are really
+
+00:06:51.200 --> 00:06:56.480
+[Guest]: passionate about working about Indian economics, Indian public policy. And that's when I really
+
+00:06:56.480 --> 00:07:01.600
+[Guest]: started discovering my real joy and passion of economics. So what I thought was going to happen
+
+00:07:01.600 --> 00:07:06.560
+[Guest]: in my graduation and post graduation, ended up happening many, many years later in a very
+
+00:07:06.560 --> 00:07:12.800
+[Guest]: unexpected way when I landed in IGIDR in Bombay. And today, I think I'm still learning economics,
+
+00:07:12.800 --> 00:07:18.400
+[Guest]: but the joy that I'm getting out of it by studying Indian economics is something that I had never
+
+00:07:18.400 --> 00:07:24.480
+[Guest]: expected. So very long answer to your short question is, how did I become an economist
+
+00:07:24.480 --> 00:07:29.920
+[Amit Varma]: by coming back to India? No, no, it's not long enough. In fact, so just to kind of ask a follow
+
+00:07:29.920 --> 00:07:34.240
+[Amit Varma]: up question, I have to point out that the honesty is refreshing, because most people who took this
+
+00:07:34.240 --> 00:07:38.800
+[Amit Varma]: trajectory would probably say something like, oh, I could have, you know, taught at Harvard there,
+
+00:07:38.800 --> 00:07:42.880
+[Amit Varma]: but I wanted to save my country. And that's not what you said. But what also intrigued me about
+
+00:07:42.880 --> 00:07:47.520
+[Amit Varma]: what you just said was that, while you learn the techniques and the jargon and all of that while
+
+00:07:47.520 --> 00:07:52.560
+[Amit Varma]: doing PhD, you learn the juice of economics, when you came back. And that's a very intriguing
+
+00:07:52.560 --> 00:07:57.520
+[Guest]: phrase. What do you mean by the juice of economics? Okay, so what I meant is when I was studying in
+
+00:07:57.520 --> 00:08:02.160
+[Guest]: Delhi school and later on in the US, I learned the models and the tools and the techniques in
+
+00:08:02.160 --> 00:08:07.840
+[Guest]: a very mechanical way. So I was doing well, because I was learning the models. But the application of
+
+00:08:07.840 --> 00:08:13.120
+[Guest]: it to solve a real problem was not something that I was thinking about. I was not applying my mind
+
+00:08:13.120 --> 00:08:17.920
+[Guest]: to solve problems. I was applying my mind to solve other kinds of problems that would get me through
+
+00:08:17.920 --> 00:08:23.920
+[Guest]: the exams and the qualifiers. But in terms of a macro problem of a country, I definitely was not
+
+00:08:23.920 --> 00:08:28.400
+[Guest]: thinking about it. Also, because in the US, it's a very different scenario, because the US is just
+
+00:08:28.400 --> 00:08:33.680
+[Guest]: so developed by now, that the frontiers of research have gone to the next level. And you're just
+
+00:08:33.680 --> 00:08:39.200
+[Guest]: thinking of improving the field of economics itself and coming up with new models. But you're
+
+00:08:39.200 --> 00:08:44.320
+[Guest]: not really asking really interesting questions, fundamental questions, which is what happened in
+
+00:08:44.320 --> 00:08:50.160
+[Guest]: India, because of the stage of growth that India is in, because it is an emerging economy. And there
+
+00:08:50.160 --> 00:08:55.840
+[Guest]: are so many unanswered questions. And there are so few people who are working, especially in the
+
+00:08:55.840 --> 00:09:02.000
+[Guest]: field of macroeconomics, that the scope and potential to do good work is immense. And that's
+
+00:09:02.000 --> 00:09:07.440
+[Guest]: what I meant by the juice of economics, that I finally started thinking about how to apply those
+
+00:09:07.440 --> 00:09:13.840
+[Guest]: models and tools to solve questions, to answer questions that would benefit the country. Of
+
+00:09:13.840 --> 00:09:17.520
+[Guest]: course, when I say benefit the country, that's a very, very big statement that I'm making.
+
+00:09:17.520 --> 00:09:23.600
+[Guest]: But what I mean is, you read something in, let's say, a budget speech, you read something in a
+
+00:09:23.600 --> 00:09:27.840
+[Guest]: government document, in a central bank document, in an announcement, and you start thinking the
+
+00:09:27.840 --> 00:09:32.080
+[Guest]: replications of it, what are the effects of this on the economy, how this is going to trickle down
+
+00:09:32.080 --> 00:09:37.120
+[Guest]: to the rest of the sectors. And that's when I started applying my mind and the training that I
+
+00:09:37.120 --> 00:09:41.360
+[Guest]: had received to try to answer some of these questions. And that's when I thought I was
+
+00:09:41.360 --> 00:09:46.320
+[Guest]: getting into the juice of economics, because I was becoming an applied economist. And I was
+
+00:09:46.320 --> 00:09:52.880
+[Guest]: applying myself to come up with answers and to also think deeply into some of the problems that
+
+00:09:52.880 --> 00:09:57.200
+[Guest]: why this is happening, why that is not happening, which was not the case earlier. Because as I said,
+
+00:09:57.200 --> 00:10:02.000
+[Guest]: in the US, I was reading papers, and I was I was at the level of the literature of what the topics
+
+00:10:02.000 --> 00:10:06.800
+[Guest]: were, but not so much about what the economy was facing. And here, I finally got the scope to marry
+
+00:10:06.800 --> 00:10:10.960
+[Guest]: the topics and the techniques with what the economy is going through. So today, for example,
+
+00:10:10.960 --> 00:10:15.520
+[Guest]: when I read the news, or when I myself write articles, I feel that I'm really in the throw
+
+00:10:15.520 --> 00:10:19.840
+[Guest]: of things that you know, I understand what's going on, I'm trying to understand what's going on.
+
+00:10:19.840 --> 00:10:26.160
+[Guest]: And in a teeny weeny way, I can contribute a little bit to change things to make things better.
+
+00:10:26.160 --> 00:10:32.000
+[Guest]: And that's what really drives me that, you know, for the next n number of years, if I just keep at
+
+00:10:32.000 --> 00:10:37.760
+[Guest]: it, then I can see that something tangible can happen in this country, again, in a very small way.
+
+00:10:37.760 --> 00:10:44.320
+[Guest]: So that really drives my whole passion to continue to be an economist that I can keep
+
+00:10:44.320 --> 00:10:48.400
+[Guest]: extracting the juice more and more and keep understanding more and more and asking more and
+
+00:10:48.400 --> 00:10:53.600
+[Amit Varma]: more questions, which to me is just fascinating. No, and that really speaks to me, because like I
+
+00:10:53.600 --> 00:10:58.240
+[Amit Varma]: had a recent argument on Twitter with someone or the other about economics, and they were like,
+
+00:10:58.240 --> 00:11:02.960
+[Amit Varma]: why are you criticizing so and so person's economic policy and whatever, it doesn't matter
+
+00:11:02.960 --> 00:11:08.240
+[Amit Varma]: in the real world. And I was like, no economics has deep humanitarian consequences, especially
+
+00:11:08.240 --> 00:11:12.640
+[Amit Varma]: in a country like India, where there are millions of people who are in poverty. And that's really a
+
+00:11:12.640 --> 00:11:18.400
+[Amit Varma]: moral issue that we must all deal with. Bad economics has huge humanitarian consequences.
+
+00:11:18.400 --> 00:11:22.080
+[Amit Varma]: And I guess what you're saying is that, fine, you did all the theory, you read all the books,
+
+00:11:22.080 --> 00:11:26.320
+[Amit Varma]: but then you come to India and you're face to face with the notion that these policies are not
+
+00:11:26.320 --> 00:11:31.840
+[Amit Varma]: words on paper, they actually impact. Yeah, yeah, absolutely. Who are the sort of thinkers who
+
+00:11:31.840 --> 00:11:35.840
+[Amit Varma]: influenced you? You know, are there any books that you'd recommend to my listeners?
+
+00:11:35.840 --> 00:11:42.160
+[Guest]: So, frankly speaking, when I was going through the, I call it the program, because you do the
+
+00:11:42.160 --> 00:11:47.200
+[Guest]: undergrad and you're the grad and you're the PhD and you're in the job market. I was reading a lot
+
+00:11:47.200 --> 00:11:53.680
+[Guest]: of books just because I love reading. But I remember when I was in college, Fountainhead
+
+00:11:53.680 --> 00:12:01.440
+[Guest]: by Ayn Rand influenced me deeply. Just the whole notion of the book and the concept of it. But
+
+00:12:01.440 --> 00:12:06.000
+[Guest]: it's very hard to remember a book during those years of my life that influenced me, perhaps
+
+00:12:06.000 --> 00:12:11.680
+[Guest]: because there was no time to get influenced. There was no freedom and luxury to get influenced. But
+
+00:12:11.680 --> 00:12:16.160
+[Guest]: all of that also happened when I came back and I started reading a lot more and thinking a lot more
+
+00:12:16.160 --> 00:12:22.240
+[Guest]: about the schools of economic thought. So at first, and because I'm a macroeconomist, I only
+
+00:12:22.240 --> 00:12:28.240
+[Guest]: knew about that part of the subject really well, is I first used to think that I'm a Keynesian and
+
+00:12:28.240 --> 00:12:32.720
+[Guest]: I really liked telling people that, you know, I'm a Keynesian. It meant something that I belong to
+
+00:12:32.720 --> 00:12:37.680
+[Guest]: the Keynesian school of thought and what the government can do to uplift an economy and all
+
+00:12:37.680 --> 00:12:45.120
+[Guest]: of that. So I read a lot of books by, for example, John Kenneth Galbraith about what Keynes used to
+
+00:12:45.120 --> 00:12:50.080
+[Guest]: think about, how his entire thinking developed and all of that. But then as I started thinking
+
+00:12:50.080 --> 00:12:54.000
+[Guest]: more and more and started applying that to the Indian context, I realized that maybe that's not
+
+00:12:54.000 --> 00:12:58.640
+[Guest]: optimal today. Maybe it was really a good idea back then, when you're coming out of a Great
+
+00:12:58.640 --> 00:13:03.040
+[Guest]: Depression, you're coming out of Second World War. It was the time and place at that point of time,
+
+00:13:03.040 --> 00:13:07.680
+[Guest]: but maybe not in the 21st century. And that if you really push the government's role too much,
+
+00:13:07.680 --> 00:13:10.800
+[Guest]: there are many unintended consequences and then you just don't know what to do with it.
+
+00:13:11.520 --> 00:13:17.200
+[Guest]: That's when I started reading Milton Friedman, because he sort of gives the opposite view of
+
+00:13:17.200 --> 00:13:22.160
+[Guest]: how things can be, the entire free market, exactly the opposite of it. So there's a book by him
+
+00:13:22.160 --> 00:13:28.480
+[Guest]: called Freedom to Choose, which I really liked. And I would say that had a very, very deep influence
+
+00:13:28.480 --> 00:13:33.840
+[Guest]: on me. And then I could connect to some extent that with the Ayn Rand, Fountainhead philosophy,
+
+00:13:33.840 --> 00:13:40.960
+[Guest]: that whole notion of freedom and what individuals can do by themselves, very different from the
+
+00:13:40.960 --> 00:13:45.440
+[Guest]: Keynesian period phase that I went through. So I would say Milton Friedman, that freedom to choose
+
+00:13:45.440 --> 00:13:52.000
+[Guest]: had a very, very big influence. And Hayek, again, it's basically in the same line of thought.
+
+00:13:52.000 --> 00:13:56.880
+[Guest]: So that's what I started reading more into and getting more and more influenced by.
+
+00:13:56.880 --> 00:13:58.160
+[Guest]: And basically, that's it.
+
+00:13:58.880 --> 00:14:03.920
+[Amit Varma]: And in a sense, philosophically, what the subject of our episode is about GDP,
+
+00:14:03.920 --> 00:14:09.120
+[Amit Varma]: philosophically, what governments attempt to do with the GDP is the opposite of what Hayek wrote
+
+00:14:09.120 --> 00:14:13.120
+[Amit Varma]: in his famous essay about the use of knowledge in society, where Hayek's whole point was that
+
+00:14:13.120 --> 00:14:16.560
+[Amit Varma]: knowledge and it was an argument against central planning. And his whole point was that central
+
+00:14:16.560 --> 00:14:22.160
+[Amit Varma]: planning fails because knowledge is dispersed all through a society. And it's individuals
+
+00:14:22.160 --> 00:14:26.800
+[Amit Varma]: making their own decisions with the help of the price system that really helps an economy run.
+
+00:14:26.800 --> 00:14:32.000
+[Amit Varma]: And the GDP, on the other hand, comes from a centralizing instinct of, wait a minute,
+
+00:14:32.000 --> 00:14:37.280
+[Amit Varma]: we need to control the economy and the nation and we need a metric that helps us understand that
+
+00:14:37.280 --> 00:14:42.160
+[Amit Varma]: and therefore the GDP. But the origin of the GDP goes well before even the 20th century,
+
+00:14:42.160 --> 00:14:44.800
+[Amit Varma]: it goes back into the Middle Ages. Tell me a little bit about that.
+
+00:14:44.800 --> 00:14:48.160
+[Guest]: Yeah, so I'll come back to this point that you made about Hayek and GDP later,
+
+00:14:48.160 --> 00:14:55.920
+[Guest]: but to answer that question. So GDP, the way we know it has its origin in the 20th century,
+
+00:14:55.920 --> 00:15:02.640
+[Guest]: but the whole concept of measuring the income of a country or the national income actually goes back
+
+00:15:02.640 --> 00:15:10.000
+[Guest]: to the 17th century, sometime around 1650s. There's a man called William Petty. He was a
+
+00:15:10.000 --> 00:15:15.120
+[Guest]: physician in the British army, if I'm not wrong. He took on himself the task of surveying the
+
+00:15:15.120 --> 00:15:22.240
+[Guest]: national wealth of Ireland. And this was in the context of Oliver Cromwell promising his soldiers
+
+00:15:22.240 --> 00:15:27.280
+[Guest]: that he's going to give everybody a piece of land. So William Petty went about the task of valuing
+
+00:15:27.280 --> 00:15:33.920
+[Guest]: agricultural land, valuing labor, and in general, to build a system of accounts that would enable
+
+00:15:33.920 --> 00:15:39.840
+[Guest]: the king or the ruler to impose taxes, essentially. So back then in those days,
+
+00:15:39.840 --> 00:15:45.520
+[Guest]: the whole concept of measuring national income was so that the government or the ruler or the king
+
+00:15:45.520 --> 00:15:53.920
+[Guest]: could use that for imposing taxes on the subjects, and also to limit accumulation of wealth in very
+
+00:15:53.920 --> 00:15:58.480
+[Guest]: few individual hands, because he would not want few people to become really rich and really wealthy,
+
+00:15:58.480 --> 00:16:04.240
+[Guest]: more than him, for example. So that was the origin of measuring national income. Even in France,
+
+00:16:04.240 --> 00:16:09.600
+[Guest]: around the same time, there were a group of people called the physiocrats, right? They decided that
+
+00:16:09.600 --> 00:16:13.920
+[Guest]: you divide the economy into three kinds of people. You have the bourgeois class, who's basically the
+
+00:16:13.920 --> 00:16:18.800
+[Guest]: land owners, and then you have the productive people who's using the land to come up with
+
+00:16:18.800 --> 00:16:24.880
+[Guest]: agricultural crops, etc. And then you have what he called the unproductive set. And these are the
+
+00:16:24.880 --> 00:16:30.480
+[Guest]: these are the, he called it the sterile set, I think, these are the artisans, who are the king
+
+00:16:30.480 --> 00:16:35.440
+[Guest]: himself, in fact, who doesn't really do anything to contribute to the national income. And there
+
+00:16:35.440 --> 00:16:40.320
+[Guest]: again, the idea was that you measure the value of land that's owned by the bourgeois, and that
+
+00:16:40.320 --> 00:16:47.280
+[Guest]: is being used by the productive class, so that it can be used for taxation purposes. So the taxation
+
+00:16:47.280 --> 00:16:52.320
+[Guest]: purposes and also how to pay for war, you know, as you mentioned, it was in Keynes title, but
+
+00:16:52.320 --> 00:16:59.120
+[Guest]: way, way back then, how do you cover the costs of war is when you get a sense of how much income the
+
+00:16:59.120 --> 00:17:03.280
+[Amit Varma]: nation is producing. One of the impetuses for William Petty, you know, and he introduced
+
+00:17:03.280 --> 00:17:09.120
+[Amit Varma]: double entry bookkeeping also, was the second Anglo Dutch war, which was between 1664 and 1667,
+
+00:17:09.120 --> 00:17:13.040
+[Amit Varma]: as you pointed out, and that was one of the impetuses, because if you've promised land to
+
+00:17:13.040 --> 00:17:16.400
+[Amit Varma]: your soldiers, you actually need to know how much land you have and how much you can realistically
+
+00:17:16.400 --> 00:17:22.080
+[Guest]: promise. And what struck me about William Petty's exercise was that I think he thought of the
+
+00:17:22.080 --> 00:17:28.000
+[Guest]: national income as essentially a system of accounts that would benefit the king or the ruler.
+
+00:17:28.640 --> 00:17:34.720
+[Guest]: And the ruler would be able to use this to appropriate taxes. He did not think of it at
+
+00:17:34.720 --> 00:17:40.160
+[Guest]: all as anything inducing welfare. He did not think of it as something that the subjects would benefit
+
+00:17:40.160 --> 00:17:46.400
+[Guest]: from. It was entirely something in the interest of the British Kingdom or whichever the nation was.
+
+00:17:46.400 --> 00:17:50.560
+[Guest]: And that was the narrow purpose. And it was again, very important to keep in mind that when he's
+
+00:17:50.560 --> 00:17:56.720
+[Guest]: valuing agricultural land, he's monetizing the value. So it's a monetary value of the income
+
+00:17:56.720 --> 00:18:02.880
+[Guest]: from land. There's no social or psychological or ethical notion associated with that value.
+
+00:18:02.880 --> 00:18:07.520
+[Guest]: It's just cutthroat and dry that, you know, you are just assigning a monetary value to land
+
+00:18:07.520 --> 00:18:11.680
+[Guest]: so that your king can use that to impose taxes. That's it.
+
+00:18:11.680 --> 00:18:15.200
+[Guest]: So that he can figure out, okay, what kind of, how much tax should I charge, how much is too much.
+
+00:18:15.200 --> 00:18:18.720
+[Guest]: And how much money do I have at my disposal if I want to conquer the next territory,
+
+00:18:18.720 --> 00:18:23.440
+[Guest]: right? If I want to wage a war. So that was the origin of national income as we know it.
+
+00:18:24.160 --> 00:18:31.840
+[Guest]: But GDP, the way we know it today is actually a more recent concept with the origins do go
+
+00:18:31.840 --> 00:18:37.760
+[Guest]: back to petty, but in the true form of it, it actually came up in the 20th century.
+
+00:18:37.760 --> 00:18:44.000
+[Guest]: And I think there's a quote that warfare is the mother of invention. And many people would say
+
+00:18:44.000 --> 00:18:49.280
+[Guest]: that the second world war was the reason for the invention of GDP, but that's not entirely correct.
+
+00:18:49.280 --> 00:18:55.360
+[Guest]: Because GDP actually came about before the second world war with the start of, as you were saying
+
+00:18:55.360 --> 00:19:00.400
+[Guest]: in the introduction, it actually started with the great depression, because other than Germany,
+
+00:19:00.960 --> 00:19:04.800
+[Guest]: not knowing how much income they were producing, when the great depression,
+
+00:19:04.800 --> 00:19:09.520
+[Guest]: you know, the mother of all crisis hit the US economy in the late 1920s,
+
+00:19:09.520 --> 00:19:14.880
+[Guest]: there was no estimate of how much income the US economy is producing. And therefore,
+
+00:19:15.440 --> 00:19:20.160
+[Guest]: when the government, whatever policies President Hoover was implementing at that point of time,
+
+00:19:20.720 --> 00:19:26.400
+[Guest]: what is the recovery effect of those policies? It was very hard to assess that because you did not
+
+00:19:26.400 --> 00:19:32.080
+[Guest]: have a consistent measure of the total output. And if you don't have a measure of the total output,
+
+00:19:32.080 --> 00:19:37.920
+[Guest]: how do you know whether the economy is recovering or not? So I think it was already known by then
+
+00:19:37.920 --> 00:19:44.400
+[Guest]: that you need to measure income slash output of the country to know what the performance is,
+
+00:19:44.400 --> 00:19:50.480
+[Guest]: to assess the performance. I think that was clear from Petty's time onward. But the measure of it
+
+00:19:50.480 --> 00:19:57.040
+[Guest]: and how to go about doing it was not known till the 1920s. And that is why when Hoover came up
+
+00:19:57.040 --> 00:20:02.800
+[Guest]: with his policies, he actually based his policies on really sketchy details like he had data on
+
+00:20:02.800 --> 00:20:08.080
+[Guest]: freight car loadings, he had data on stock market indices, and that's pretty much it. And some very
+
+00:20:08.080 --> 00:20:13.360
+[Guest]: sketchy indices of industrial production, far from enough, when the country is going through
+
+00:20:13.360 --> 00:20:18.320
+[Guest]: something like the Great Depression, and you needed regular assessment of how the economy
+
+00:20:18.320 --> 00:20:24.560
+[Guest]: is recovering, if at all. And I would say that a big reason why Hoover failed miserably,
+
+00:20:24.560 --> 00:20:29.600
+[Guest]: was because there was no assessment, there was no metric available to evaluate the situation.
+
+00:20:29.600 --> 00:20:34.240
+[Guest]: And to come back to the point that you said about Keynes and GDP and all of that,
+
+00:20:34.880 --> 00:20:38.160
+[Guest]: we have to keep in mind that by the time Great Depression hit the US,
+
+00:20:38.720 --> 00:20:44.160
+[Guest]: that was the era of classical economics. Of course, Keynes was not there till then, right? So
+
+00:20:44.160 --> 00:20:48.720
+[Guest]: classical economics is all about, again, free market. It's all about, there's no role of the
+
+00:20:48.720 --> 00:20:53.040
+[Guest]: government whatsoever. When Hoover was hit by the Great Depression, he was still thinking that
+
+00:20:53.040 --> 00:20:58.240
+[Guest]: the market is going to solve itself, and the government need not do anything. And all of that
+
+00:20:58.240 --> 00:21:04.080
+[Guest]: also goes, is consistent with the idea that you did not need a measure of the economy, because
+
+00:21:04.080 --> 00:21:07.760
+[Guest]: the market doesn't need the measure of the economy, and there's no role for the government.
+
+00:21:07.760 --> 00:21:12.720
+[Guest]: So why do you need to measure GDP or national income? All that changed with the Great Depression.
+
+00:21:12.720 --> 00:21:19.600
+[Guest]: So while as much as I would say that Hayek, or the free market economists, Friedman, etc,
+
+00:21:19.600 --> 00:21:25.920
+[Guest]: would champion the cause of individuals, free markets, back then it would have been very
+
+00:21:25.920 --> 00:21:30.960
+[Guest]: difficult to keep championing it, when the country is in the throes of a Great Depression,
+
+00:21:30.960 --> 00:21:37.760
+[Guest]: and the market was in no situation to solve itself, or individuals for that matter. And perhaps you
+
+00:21:37.760 --> 00:21:43.120
+[Guest]: needed the government to step in, because there were just no alternative. So the time and place
+
+00:21:43.120 --> 00:21:48.800
+[Guest]: was ripe for Keynesianism to develop. And that goes hand in hand with the development of GDP,
+
+00:21:48.800 --> 00:21:53.440
+[Guest]: because Keynesianism would not have come about without GDP, and GDP would not have survived
+
+00:21:53.440 --> 00:21:59.040
+[Guest]: without Keynesianism. And that was perhaps just not the time for the free market ideology, because
+
+00:21:59.040 --> 00:22:03.680
+[Guest]: the country was in absolute shambles. And you get two shocks, you get the Great Depression,
+
+00:22:03.680 --> 00:22:08.400
+[Guest]: you get the Second World War, then what do you do? You can't just wait for the markets to solve
+
+00:22:08.400 --> 00:22:14.320
+[Guest]: things. So I would think that that time and place in that context, perhaps that was the right thing
+
+00:22:14.320 --> 00:22:22.240
+[Guest]: to do. And once Roosevelt became the president, there's this history that 1920s was when
+
+00:22:22.240 --> 00:22:27.120
+[Guest]: there's this institution called the National Bureau of Economic Research, the NBER in the US.
+
+00:22:27.120 --> 00:22:32.960
+[Guest]: It was set up in the 1920s by Wesley Mitchell, a very famous economist. And Wesley Mitchell's
+
+00:22:32.960 --> 00:22:38.880
+[Guest]: student was Simon Kuznets, basically the founding father of modern GDP. And that was the time the
+
+00:22:38.880 --> 00:22:43.920
+[Guest]: Great Depression was coming up, that 1929 and 1930s. So there's NBER that has been set up,
+
+00:22:43.920 --> 00:22:50.480
+[Guest]: and Kuznets had already started a bit of a work on estimating national income. Unbeknownst to him,
+
+00:22:50.480 --> 00:22:55.040
+[Guest]: what was going to happen to it as a result of the depression. Now, when the depression hits and
+
+00:22:55.040 --> 00:22:59.760
+[Guest]: Hoover loses the election, Roosevelt comes to power. At that point of time, Roosevelt realizes
+
+00:22:59.760 --> 00:23:05.680
+[Guest]: that we need a measure of what of the country to figure out what the heck to do and how the
+
+00:23:05.680 --> 00:23:10.320
+[Guest]: recovery can happen. And the Department of Commerce, the White House, tells the Department
+
+00:23:10.320 --> 00:23:15.280
+[Guest]: of Commerce, the Department of Commerce is told that we have to figure out a research program by
+
+00:23:15.280 --> 00:23:20.720
+[Guest]: which technically, the output of the country can be measured. Then the Department of Commerce
+
+00:23:20.720 --> 00:23:26.960
+[Guest]: contacts NBER. And because in NBER by that time, under Wesley Mitchell, Kuznets had already started
+
+00:23:26.960 --> 00:23:32.800
+[Guest]: that work, that task falls upon him, that come up with a comprehensive measure of the total output
+
+00:23:32.800 --> 00:23:38.640
+[Guest]: of the country. So that's basically the starting point of how GDP came about in very turbulent
+
+00:23:38.640 --> 00:23:43.360
+[Amit Varma]: times. So for those of my listeners who are not kind of familiar with Keynesianism and so on,
+
+00:23:43.360 --> 00:23:48.960
+[Amit Varma]: just to kind of simplify that, perhaps in simplistic terms, would it be then fair to say
+
+00:23:48.960 --> 00:23:53.440
+[Amit Varma]: is that what Keynesianism basically is, is that if the economy is in a very bad space,
+
+00:23:53.440 --> 00:23:57.840
+[Amit Varma]: if the government spends a lot of money, then you're putting money in the hands of consumers,
+
+00:23:57.840 --> 00:24:02.960
+[Amit Varma]: and they start spending it on goods and all and a virtuous cycle starts and the economy revives.
+
+00:24:02.960 --> 00:24:07.600
+[Amit Varma]: But if you want to do this, you also have to be able to measure whether the money you're pumping
+
+00:24:07.600 --> 00:24:12.080
+[Amit Varma]: into the economy is actually working, you need a metric for this, and therefore the need for
+
+00:24:12.080 --> 00:24:16.880
+[Guest]: something like the GDP. Is that accurate? Absolutely, that's bang on. So because
+
+00:24:16.880 --> 00:24:22.480
+[Guest]: Keynesianism gives so much importance to the role of the government, and the whole idea is when you
+
+00:24:22.480 --> 00:24:26.960
+[Guest]: are going through such turbulent times, the government can save the economy by pumping in
+
+00:24:26.960 --> 00:24:32.240
+[Guest]: more money, by spending more money, and therefore the government is the most important player.
+
+00:24:32.240 --> 00:24:36.480
+[Guest]: And when the government is the most important player, it becomes essential to have a measure
+
+00:24:36.480 --> 00:24:42.000
+[Guest]: like GDP, which will tell the government that what is the impact of your policies in the short run,
+
+00:24:42.000 --> 00:24:44.960
+[Guest]: in the short run meaning let's say in one quarter, two quarters, three quarters,
+
+00:24:45.520 --> 00:24:50.240
+[Guest]: is it helping, is the economy recovering, is the growth of the economy going up, going down,
+
+00:24:50.240 --> 00:24:56.000
+[Guest]: whatever it is. So that's why the two concepts went hand in hand, the Keynesian emphasis on
+
+00:24:56.000 --> 00:25:01.600
+[Guest]: government saving the economy and pulling it out of a slowdown, and the government having access to
+
+00:25:01.600 --> 00:25:06.800
+[Guest]: national income numbers of the country to say that are the policies really effective or not.
+
+00:25:06.800 --> 00:25:13.360
+[Guest]: So that's why I think the confluence of events was such that GDP had to develop the way it did,
+
+00:25:13.360 --> 00:25:21.760
+[Guest]: and it perpetuated the role of the government too, because you need GDP to do policies,
+
+00:25:21.760 --> 00:25:25.440
+[Guest]: government policies, and you need government policies to keep GDP alive.
+
+00:25:25.440 --> 00:25:29.360
+[Amit Varma]: Because if you make GDP the one sole metric, then suddenly you're focused on that,
+
+00:25:29.360 --> 00:25:33.600
+[Amit Varma]: and then the role of the, and they kind of feed into each other. What I also find very
+
+00:25:33.600 --> 00:25:39.680
+[Amit Varma]: interesting about this phase in the mid 30s, late 30s, is that there's also a philosophical
+
+00:25:39.680 --> 00:25:44.800
+[Amit Varma]: debate happening. And while Kuznets is, as you said, the father of the GDP and one of the
+
+00:25:44.800 --> 00:25:49.200
+[Amit Varma]: gigantic figures behind it, he ends up on the wrong side, he ends up losing the debate,
+
+00:25:49.200 --> 00:25:52.480
+[Guest]: basically. Tell me a bit about that. Yeah, so at that point of time,
+
+00:25:52.480 --> 00:25:57.360
+[Guest]: when Kuznets was given the task of developing the measure of total output of the country,
+
+00:25:57.360 --> 00:26:02.480
+[Guest]: he was of the opinion that, you know, GDP is just going to be an aggregate measure of total
+
+00:26:02.480 --> 00:26:07.040
+[Guest]: goods and services produced in the country. But he was not too much in favour of including
+
+00:26:07.040 --> 00:26:12.080
+[Guest]: government expenditure, because he thought that the main government expenditure, and this was
+
+00:26:12.080 --> 00:26:17.120
+[Guest]: again, you're coming out of the Great Depression, and then inching closer towards the Second World
+
+00:26:17.120 --> 00:26:23.440
+[Guest]: War. So his first task was to give a sense of economic growth for 1929, 30 and 31, the Great
+
+00:26:23.440 --> 00:26:28.880
+[Guest]: Depression years. But then the World War comes, and then government expenditure in the US shoots
+
+00:26:28.880 --> 00:26:34.160
+[Guest]: up, because the government starts spending so much on producing arms and ammunition. And that
+
+00:26:34.160 --> 00:26:39.920
+[Guest]: point of time, GDP became an extremely useful tool, because you could assess the capacity of
+
+00:26:39.920 --> 00:26:44.400
+[Guest]: the country or the economy to produce arms and ammunitions. You know, how could you convert
+
+00:26:45.120 --> 00:26:50.400
+[Guest]: simple industries like an automobile industry into a military aircraft manufacturing industry,
+
+00:26:50.400 --> 00:26:55.200
+[Guest]: right? How do you increase the productive capacity in terms of arms and ammunitions,
+
+00:26:55.200 --> 00:27:00.240
+[Guest]: without affecting individual consumption? All of these concepts became very, very useful,
+
+00:27:00.240 --> 00:27:06.400
+[Guest]: because you had GDP as a tool. Now, Kuznets did not want to include government expenditure
+
+00:27:06.400 --> 00:27:10.880
+[Guest]: in his calculations of GDP, because his opinion was that if the government is spending on warfare,
+
+00:27:11.680 --> 00:27:17.040
+[Guest]: that is essentially a negative thing. And which basically gives us the notion that he did have
+
+00:27:17.040 --> 00:27:22.800
+[Guest]: that notion of welfare in mind, right? He was not just thinking of a physical material output the
+
+00:27:22.800 --> 00:27:27.280
+[Guest]: way, for example, Petty may have thought about. He did have that welfare notion, whether consumers
+
+00:27:27.280 --> 00:27:34.960
+[Guest]: are benefiting or not. In fact, an interesting insight here, when Wesley Mitchell in NBR was
+
+00:27:34.960 --> 00:27:42.480
+[Guest]: given the first NBER report of 1929, of 21, was about GDP. There, the founding fathers of NBER
+
+00:27:42.480 --> 00:27:48.240
+[Guest]: had said, is the three things, is there enough income to provide a decent living to everybody?
+
+00:27:49.280 --> 00:27:55.120
+[Guest]: Is the income growing at the same rate as the population? And is the income getting distributed
+
+00:27:55.120 --> 00:28:01.680
+[Guest]: in a more or less unequal manner? So there was that thinking of distribution, welfare
+
+00:28:01.680 --> 00:28:05.920
+[Guest]: in the minds of the NBER guys. So I think that's why Kuznets said that you can't include government
+
+00:28:05.920 --> 00:28:09.840
+[Guest]: expenditure, because why would you want to include war expenses, which is subtracting
+
+00:28:09.840 --> 00:28:14.160
+[Amit Varma]: from the welfare? I mean, one of the standard criticisms is that GDP measures both biscuits
+
+00:28:14.160 --> 00:28:18.480
+[Amit Varma]: and bombs. Absolutely, absolutely. And that at one level doesn't seem to make sense. Because
+
+00:28:18.480 --> 00:28:23.120
+[Amit Varma]: you know, the more bombs you explode, the more the GDP figures look good. In fact, if you just
+
+00:28:23.120 --> 00:28:27.680
+[Amit Varma]: have an all out war, if India goes to war with Pakistan tomorrow, our GDP will go up. That
+
+00:28:27.680 --> 00:28:31.920
+[Guest]: doesn't make sense. And that's why US had that wartime expansion of the economy, because the
+
+00:28:31.920 --> 00:28:37.360
+[Guest]: major part of the government spending was on defense budget, and was on building on arms and
+
+00:28:37.360 --> 00:28:43.040
+[Guest]: on arms and ammunition factories. But then the people, the other people, others who were in the
+
+00:28:43.040 --> 00:28:47.600
+[Guest]: debate did not like what Kuznets was thinking, because they wanted to include government
+
+00:28:47.600 --> 00:28:52.320
+[Guest]: expenditure, because it was such a big component. So Kuznets lost that, that debate, and government
+
+00:28:52.320 --> 00:28:57.520
+[Guest]: expenditure became a very integral part of GDP, as a result of which, of course, US, the size of
+
+00:28:57.520 --> 00:29:01.440
+[Guest]: the economy went up manifold, because as I said, the defense budget was massive. And doesn't it
+
+00:29:01.440 --> 00:29:05.360
+[Amit Varma]: kind of become self fulfilling, like if you include government spending in that, then the
+
+00:29:05.360 --> 00:29:09.520
+[Amit Varma]: government can just keep spending more and more and say, look, the GDP is going up, it's working.
+
+00:29:09.520 --> 00:29:14.800
+[Guest]: Now, now, therefore, you come to Keynesianism. So that kind of paves the way exactly for what
+
+00:29:14.800 --> 00:29:19.040
+[Guest]: Keynes said, that listen, if you want the economy to grow out of a slowdown, all that you have to
+
+00:29:19.040 --> 00:29:23.840
+[Guest]: do is the government has to spend. Because the moment you include government expenditure in GDP,
+
+00:29:23.840 --> 00:29:28.880
+[Guest]: you get this magic wand in your hand, that all that the government has to do is spend,
+
+00:29:28.880 --> 00:29:33.840
+[Guest]: which is what the governments end up doing. So that's where I think Kuznets lost the battle.
+
+00:29:33.840 --> 00:29:38.960
+[Guest]: And the whole notion of welfare or distribution, all of these things went out of the window. And
+
+00:29:38.960 --> 00:29:44.080
+[Guest]: the entire focus was on how do you increase the size of the economy. And when you are stuck in a
+
+00:29:44.080 --> 00:29:48.480
+[Guest]: slowdown, John Maynard Keynes has said, all that you have to do is the government has to spend.
+
+00:29:48.480 --> 00:29:53.280
+[Guest]: So the government kept spending. So after the Second World War, when the war has ended,
+
+00:29:53.280 --> 00:29:59.440
+[Guest]: Kuznets was also the opinion that, okay, fine, we are building a wartime measure of GDP, because
+
+00:29:59.440 --> 00:30:04.160
+[Guest]: it's for the cause of national survival, and it's important, and I'm doing it. But once the war is
+
+00:30:04.160 --> 00:30:10.240
+[Guest]: over, we must spend time thinking about a peacetime measure of national income. But of course, that
+
+00:30:10.240 --> 00:30:15.360
+[Guest]: never happened. Because once you get, I think, addicted to this notion that, you know, growing
+
+00:30:15.360 --> 00:30:20.880
+[Guest]: at a fast rate is just so easy, because the government defence budget has to keep increasing,
+
+00:30:20.880 --> 00:30:26.400
+[Guest]: people are consuming, consumers are happy, you get a post-war expansion of the US economy.
+
+00:30:26.400 --> 00:30:31.680
+[Guest]: Why would you rethink GDP at that point of time? And that's the second battle that I think Kuznets
+
+00:30:31.680 --> 00:30:39.040
+[Guest]: lost. And Keynes won because Keynesianism got sealed after the Second World War. And there
+
+00:30:39.040 --> 00:30:43.520
+[Guest]: is a quote by Keynes, and I don't remember the exact words. He basically said that a grand
+
+00:30:43.520 --> 00:30:50.320
+[Guest]: experiment has begun. If what is true of the wartime can also be true of the peacetime,
+
+00:30:50.320 --> 00:30:56.880
+[Guest]: then it'll be a great thing. Meaning that during the war, the US became such a big economy by
+
+00:30:56.880 --> 00:31:02.240
+[Guest]: the government spending on defence and military, if the same thing can continue, basically government
+
+00:31:02.240 --> 00:31:08.080
+[Guest]: spending, then that's great. And that's exactly what the US economy kept on doing through the
+
+00:31:08.080 --> 00:31:14.800
+[Guest]: 40s, 50s, 60s. So basically, this is called the golden era of US economy, when the government
+
+00:31:14.800 --> 00:31:19.760
+[Guest]: spending just went through the roof, everybody was consuming, it was a happy period, and GDP
+
+00:31:19.760 --> 00:31:24.880
+[Amit Varma]: and GDP was growing. And I guess part of the impetus for the GDP also came from other events of
+
+00:31:24.880 --> 00:31:28.640
+[Amit Varma]: those times. For example, there was a Marshall Plan where the US was rebuilding Europe and they
+
+00:31:28.640 --> 00:31:32.960
+[Amit Varma]: said, look, we need to know whether it's working or not. So we need the GDP. There's a Cold War
+
+00:31:32.960 --> 00:31:38.560
+[Amit Varma]: where you're in this hardcore male ego battle about who is bigger. And there again, what you
+
+00:31:38.560 --> 00:31:42.640
+[Amit Varma]: know, you need some metric and hey, we got the GDP and we got, you know, how do you make the GDP
+
+00:31:42.640 --> 00:31:47.680
+[Amit Varma]: go up? I'm just I'm just wondering, I'm just thinking aloud here. Has anyone actually surveyed
+
+00:31:47.680 --> 00:31:52.400
+[Amit Varma]: that if you did not include government spending this kind of destructive spending in the GDP,
+
+00:31:52.400 --> 00:31:55.520
+[Amit Varma]: would the economy still have done apparently so well?
+
+00:31:56.080 --> 00:32:02.800
+[Guest]: So I don't know whether we have disaggregated data for the US economy dating that far back.
+
+00:32:02.800 --> 00:32:07.920
+[Guest]: And I'm sure the data is there NBR itself would have the data. But I think it's a great question
+
+00:32:07.920 --> 00:32:12.560
+[Guest]: that one if you have the data, and if you know the techniques of constructing GDP, if you can
+
+00:32:12.560 --> 00:32:17.840
+[Guest]: just take out government expenditure from that and recalculate US economy size to see what would
+
+00:32:17.840 --> 00:32:22.880
+[Guest]: have happened. And my sense is, it would show a smaller economy, and it would show a significantly
+
+00:32:22.880 --> 00:32:27.360
+[Guest]: lower growth rate. Because once you take government expenditure out, there was nothing much else that
+
+00:32:27.360 --> 00:32:31.280
+[Guest]: was happening. Because remember what Cain said, and what you say also that once the government
+
+00:32:31.280 --> 00:32:36.320
+[Guest]: starts spending, it's like you're triggering a spiral through the economy. And what Cain's called
+
+00:32:36.320 --> 00:32:41.600
+[Guest]: it technically the multiplier effect, it just keeps feeding on itself and the economy starts
+
+00:32:41.600 --> 00:32:45.120
+[Guest]: growing and growing. Because the government is putting money in the hands of people, people are
+
+00:32:45.120 --> 00:32:49.680
+[Guest]: using that to consume, therefore you're producing more goods, and more incomes are getting generated,
+
+00:32:49.680 --> 00:32:55.680
+[Guest]: so on so forth. Once you take government out of the GDP account, you just don't have it. I mean,
+
+00:32:55.680 --> 00:33:02.160
+[Guest]: what would you calculate, right? So it's tricky. I mean, in the sense that my sense is you would
+
+00:33:02.160 --> 00:33:04.320
+[Guest]: probably end up getting a smaller size of the economy.
+
+00:33:04.320 --> 00:33:08.880
+[Amit Varma]: And this whole notion of how war helps the economy commits what is called the broken
+
+00:33:08.880 --> 00:33:14.000
+[Amit Varma]: window fallacy after Bastia's parable of the broken window from which this podcast takes
+
+00:33:14.000 --> 00:33:19.360
+[Amit Varma]: its name, the seen and the unseen, it emerges out of this. Bastia's parable basically was that if
+
+00:33:19.360 --> 00:33:22.880
+[Amit Varma]: somebody throws a stone and breaks your window, and you have to get the window repaired, people
+
+00:33:22.880 --> 00:33:27.760
+[Amit Varma]: will say, hey, it's good for the economy, because, you know, it's helping the guy who repairs the
+
+00:33:27.760 --> 00:33:32.320
+[Amit Varma]: window is good for everyone, which is the seen effect. But the unseen effect, as Bastia pointed
+
+00:33:32.320 --> 00:33:36.000
+[Amit Varma]: out, is that if the money had remained with the person with the broken window, if he didn't have
+
+00:33:36.000 --> 00:33:40.080
+[Amit Varma]: to spend it on getting the window repaired, he would have spent it on something else,
+
+00:33:40.080 --> 00:33:45.200
+[Amit Varma]: which would have had a productive impact somewhere else in the economy. So while it appears that all
+
+00:33:45.200 --> 00:33:50.400
+[Amit Varma]: this destruction is good for the economy and indeed for GDP, we need to look at the unseen
+
+00:33:50.400 --> 00:33:57.200
+[Amit Varma]: sort of effect of that. I'd like to talk now about, you know, the sort of GDP measures output
+
+00:33:57.200 --> 00:34:03.520
+[Amit Varma]: fine, it ignores welfare. So Kuznets lost there. But even in terms of output, there are all these
+
+00:34:03.520 --> 00:34:08.080
+[Amit Varma]: curiosities and quirks in terms of what it cannot measure. For example, while researching this,
+
+00:34:08.080 --> 00:34:12.480
+[Amit Varma]: I read about this thing called the widower paradox, which is if a widower marries his
+
+00:34:12.480 --> 00:34:16.960
+[Amit Varma]: domestic help, the GDP of the country goes down because suddenly he's not paying her anymore,
+
+00:34:16.960 --> 00:34:19.920
+[Amit Varma]: which, you know, illustrates that a lot of productive work that is happening in the
+
+00:34:19.920 --> 00:34:24.800
+[Guest]: economy is not being measured. Yeah, yeah. So, absolutely. But before I come to that,
+
+00:34:24.800 --> 00:34:29.440
+[Guest]: Amit, can I just because I just like this story so much, I just I'm just going to describe in
+
+00:34:29.440 --> 00:34:33.680
+[Guest]: very short what happened during the Cold War period since you brought up Cold War. And that
+
+00:34:33.680 --> 00:34:37.760
+[Guest]: also highlights the obsession with GDP that had already started since then, because that's what
+
+00:34:37.760 --> 00:34:44.080
+[Guest]: we see today. So what happened during the Cold War years is because the US was just so obsessed
+
+00:34:44.080 --> 00:34:47.680
+[Guest]: about showing to the rest of the world that they were growing at a really high rate, and they were
+
+00:34:47.680 --> 00:34:52.880
+[Guest]: doing great economically. And the USSR, the Soviet Union at that point of time, had a very different
+
+00:34:52.880 --> 00:34:58.080
+[Guest]: measure, by the way, they were measuring something called net material product, which was just the
+
+00:34:58.080 --> 00:35:02.240
+[Guest]: physical goods, because they were so high on industrial production, they were not measuring
+
+00:35:02.240 --> 00:35:06.800
+[Guest]: government expenditure, they were not measuring services. But even within that, they were showing
+
+00:35:06.800 --> 00:35:10.160
+[Guest]: that they were also growing at a very high rate, the economy size is big, because industrial
+
+00:35:10.160 --> 00:35:14.640
+[Guest]: production was massive. And the US did not believe it, they didn't obviously want those numbers to
+
+00:35:14.640 --> 00:35:22.400
+[Guest]: stay in people's minds. So the CIA was actually appointed and told to spy on the Russian GDP,
+
+00:35:22.400 --> 00:35:28.880
+[Guest]: so called whatever national income numbers, and find flaws in it. So the CIA actually spent decades
+
+00:35:29.520 --> 00:35:35.760
+[Guest]: and enough resources and spies to get all the information about Russian national income
+
+00:35:35.760 --> 00:35:41.360
+[Guest]: generation, and started poking holes in it, to the extent that in the 1982, I think,
+
+00:35:41.920 --> 00:35:48.480
+[Guest]: this was the fag end of communism, so to speak, the CIA held a big conference to expose all the
+
+00:35:48.480 --> 00:35:54.960
+[Guest]: flaws of the Russian national income generation, which showed that the USSR GDP was actually half
+
+00:35:54.960 --> 00:35:59.120
+[Guest]: of what the official number had been. And that was victory for the US because they're just shown
+
+00:35:59.120 --> 00:36:03.280
+[Guest]: to the world this and they are just fudging the numbers, they don't know how to calculate GDP.
+
+00:36:03.280 --> 00:36:08.320
+[Guest]: And as luck would have it, by that time, Mikhail Gorbachev was the leader, and the fall of the
+
+00:36:08.320 --> 00:36:14.640
+[Guest]: Berlin War happened. And at that point of time, Gorbachev admitted that yes, there are problems
+
+00:36:14.640 --> 00:36:21.120
+[Guest]: with our national income statistics, we need to reestimate it. And he invited the CIA and the
+
+00:36:21.120 --> 00:36:27.760
+[Guest]: Bureau of Economic Analysis of the US to teach them how to use the US GDP calculation method
+
+00:36:27.760 --> 00:36:32.720
+[Guest]: to get the Russian GDP. And I think with that fall of the Berlin War, of course, is important
+
+00:36:32.720 --> 00:36:39.200
+[Guest]: for many reasons. But this was one, the GDP literally became the global metric for measuring
+
+00:36:39.200 --> 00:36:44.240
+[Guest]: economic progress anywhere else, because you had basically won over the communist side of the world
+
+00:36:44.240 --> 00:36:50.240
+[Guest]: as well. And I just find that story so fascinating that you know, it's just, it's a number and it
+
+00:36:50.240 --> 00:36:54.720
+[Amit Varma]: just became so political. I think I know why you find it fascinating. In another day and age,
+
+00:36:54.720 --> 00:36:57.440
+[Amit Varma]: a GDP expert like yourself could have worked with the CIA.
+
+00:37:00.000 --> 00:37:03.680
+[Guest]: I mean, come to seriously come to think of it, right? That's that's seriously cool.
+
+00:37:04.240 --> 00:37:10.320
+[Guest]: I mean, CIA spies getting information on national accounts and being called by Gorbachev to talk
+
+00:37:10.320 --> 00:37:16.560
+[Guest]: about national income building is just a very different kind of notion that we have the GDP
+
+00:37:16.560 --> 00:37:20.480
+[Amit Varma]: is only a statistician's boring world. Also, what I find very interesting about
+
+00:37:20.480 --> 00:37:24.320
+[Amit Varma]: how the Soviets do their thing is, of course, we know every metric can be gamed. If you have
+
+00:37:24.320 --> 00:37:29.440
+[Amit Varma]: a metric, you'll game it, whether it's a GDP or the ease of business ratings recently or whatever.
+
+00:37:29.440 --> 00:37:34.640
+[Amit Varma]: And even in the USSR, exactly that was happening, because their thing just measured that industrial
+
+00:37:34.640 --> 00:37:39.360
+[Amit Varma]: output or whatever. It didn't measure things like quality or satisfaction or how many voluntary
+
+00:37:39.360 --> 00:37:43.920
+[Amit Varma]: transactions are taking place. So for example, there's this famous apocryphal thing about how,
+
+00:37:44.560 --> 00:37:48.160
+[Amit Varma]: you know, the factory would be given a target, you make so many TVs, and they would just put
+
+00:37:48.160 --> 00:37:53.840
+[Amit Varma]: bricks in the TV thing, and it absolutely wouldn't work, which is amusing. But it also raises
+
+00:37:53.840 --> 00:37:58.560
+[Amit Varma]: a deeper question that remains to the day that how do you measure qualitative output, for example,
+
+00:37:59.520 --> 00:38:04.160
+[Amit Varma]: you know, I might spend less money on buying a laptop today than I would 10 years back,
+
+00:38:04.160 --> 00:38:09.600
+[Amit Varma]: or I might spend the same money, but the laptop can do so much else and the value like just with
+
+00:38:09.600 --> 00:38:14.320
+[Amit Varma]: smartphones, for example, a phone of 2019 can just do things you couldn't dream of with the
+
+00:38:14.320 --> 00:38:19.280
+[Amit Varma]: phone of 2004. And all of the value in that, for me, there's no way of capturing that.
+
+00:38:19.280 --> 00:38:24.560
+[Guest]: Absolutely. And that's very well said. So, you know, so again, as we are seeing from this
+
+00:38:24.560 --> 00:38:29.120
+[Guest]: discussion as well, that when GDP was invented, so to speak, it was just supposed to be a measure
+
+00:38:29.120 --> 00:38:34.160
+[Guest]: of goods and services back in the day of the depression and war, etc, etc. But once you've
+
+00:38:34.160 --> 00:38:39.760
+[Guest]: come through such a complexities of the modern economy, and so many things have changed in the
+
+00:38:39.760 --> 00:38:45.600
+[Guest]: structure of economies, the main question is, is that same measure of GDP well equipped to
+
+00:38:45.600 --> 00:38:50.880
+[Guest]: capture all of these complications? And the short answer is no, because back then it was a very
+
+00:38:50.880 --> 00:38:56.160
+[Guest]: physical economy, the service sector was big, but still not as big. You did not have all these
+
+00:38:56.160 --> 00:39:00.480
+[Guest]: technological innovations. Of course, the big difference is information, communication and
+
+00:39:00.480 --> 00:39:06.000
+[Guest]: technology age, you did not have any of that. And these are mostly intangibles that you can't
+
+00:39:06.800 --> 00:39:12.320
+[Guest]: value in the market. And GDP is all about valuing the products at the market price.
+
+00:39:12.320 --> 00:39:16.480
+[Guest]: If you can't value all of these products, and as you said, variety of commodities or
+
+00:39:17.040 --> 00:39:22.640
+[Guest]: quality improvements of commodities and services, how do you value them? And one way to value them
+
+00:39:22.640 --> 00:39:27.520
+[Guest]: would be that the prices of these commodities are falling, as you said, like it's computed today,
+
+00:39:27.520 --> 00:39:33.280
+[Guest]: significantly cheaper than what it was earlier. And the price index should capture it. And that
+
+00:39:33.280 --> 00:39:37.760
+[Guest]: would get reflected in what we call the real GDP, because the real is basically you're just dividing
+
+00:39:37.760 --> 00:39:43.440
+[Guest]: the nominal number by the price. So if the price falls, because the quality has improved so much,
+
+00:39:43.440 --> 00:39:48.000
+[Guest]: then the overall real number should increase even more. But what happens is the price indices
+
+00:39:48.000 --> 00:39:54.000
+[Guest]: themselves don't capture these improvements over time. So altogether, the measure of the output of
+
+00:39:54.000 --> 00:39:58.960
+[Guest]: the economy has become an imperfect measure at its best. And actually, it's almost like an
+
+00:39:58.960 --> 00:40:04.160
+[Guest]: artificial construct. It doesn't even exist in reality, because you're just sampling one part
+
+00:40:04.160 --> 00:40:08.960
+[Guest]: of the economy and calculating what that output is. There's so many other things that are not
+
+00:40:08.960 --> 00:40:14.480
+[Guest]: measuring quality of services, quality of goods, varieties, innovation, all of these things you're
+
+00:40:14.480 --> 00:40:19.760
+[Amit Varma]: not. I mean, just one illustration of that is that, you know, in 1836, the richest man in the
+
+00:40:19.760 --> 00:40:23.600
+[Amit Varma]: world was a guy called Nathan Rothschild. And he died of an infection because there were no
+
+00:40:23.600 --> 00:40:29.680
+[Amit Varma]: antibiotics. And now he might have spent more than people spend today in the medicine of that day.
+
+00:40:29.680 --> 00:40:34.000
+[Amit Varma]: But hey, so how do you measure this? Something like you know, cheap antibiotics being available
+
+00:40:34.000 --> 00:40:38.560
+[Amit Varma]: at will and what it does to life expectancy and quality of life. And I mean, it's just infinite.
+
+00:40:38.560 --> 00:40:43.120
+[Amit Varma]: I mean, the very fact that you are here recording this podcast for me for no compensation,
+
+00:40:43.120 --> 00:40:46.880
+[Amit Varma]: unfortunately, though, I did buy you a cup of coffee. How do you measure something like that?
+
+00:40:46.880 --> 00:40:50.800
+[Amit Varma]: And how do you measure the sort of the insight that the listeners might get from listening to
+
+00:40:50.800 --> 00:40:54.240
+[Amit Varma]: you, which, you know, you could not have had for love or money 50 years ago?
+
+00:40:54.240 --> 00:40:58.720
+[Guest]: Absolutely. So, so the way I see it, Amit, is, you know, when we start talking about the
+
+00:40:58.720 --> 00:41:03.040
+[Guest]: shortcomings or the weaknesses of the GDP concept, there are two angles to it. One is,
+
+00:41:03.040 --> 00:41:07.840
+[Guest]: what all what are the omissions, what the GDP concept does not include, which is what we are
+
+00:41:07.840 --> 00:41:13.680
+[Guest]: discussing. And the other part is the unintended consequences of countries desperately pursuing
+
+00:41:13.680 --> 00:41:19.600
+[Guest]: a high GDP growth at any cost. There's a very famous example that this Italian economist did
+
+00:41:19.600 --> 00:41:25.520
+[Guest]: a survey that in Japan is just basically surveying the number of air conditioners that the houses
+
+00:41:25.520 --> 00:41:31.760
+[Guest]: have. And over a period of time, because the air conditioners are, you're cooling the air inside,
+
+00:41:31.760 --> 00:41:37.680
+[Guest]: but you're also emitting hot air outside. And because the outside scenarios become so unlivable,
+
+00:41:37.680 --> 00:41:41.840
+[Guest]: more and more houses start buying air conditioners. So the GDP would go up because,
+
+00:41:41.840 --> 00:41:46.480
+[Guest]: you know, you're producing more air conditioners, but is that really a good quality of life to have?
+
+00:41:46.480 --> 00:41:52.240
+[Guest]: So I think in that pursuit of growth, you are ignoring a lot of unintended consequences or
+
+00:41:52.240 --> 00:41:58.800
+[Guest]: what we call negative externalities. For example, polluting industries may be rewarded because they
+
+00:41:58.800 --> 00:42:04.320
+[Guest]: are adding to the output of the country. But is that really what we want when our water pollution,
+
+00:42:04.320 --> 00:42:10.720
+[Guest]: air pollution is so bad? So I think we've reached a really tricky territory today that what Keynes
+
+00:42:10.720 --> 00:42:15.440
+[Guest]: or Kuznets would not have envisioned back then, that the economy is a really complex,
+
+00:42:16.000 --> 00:42:20.640
+[Guest]: and there is a rat race of GDP growth that's going on. I call it the status good. You know,
+
+00:42:20.640 --> 00:42:26.160
+[Guest]: I mean, countries are ranked today on GDP tables. There is a hierarchy in the world today of
+
+00:42:26.160 --> 00:42:30.960
+[Guest]: countries with the US leading, and the entire hierarchy is based upon GDP, the size of the
+
+00:42:30.960 --> 00:42:36.240
+[Guest]: economy and the growth rate. Think of club memberships, right? I mean, G8, G20. All of
+
+00:42:36.240 --> 00:42:42.000
+[Guest]: these club memberships are based on GDP. There was a time when entry into IMF and World Bank
+
+00:42:42.000 --> 00:42:47.280
+[Guest]: as a member country was contingent upon whether you are following the international standards
+
+00:42:47.280 --> 00:42:52.080
+[Amit Varma]: of national… And not just that, I believe at a point in time, if not even today, that how much
+
+00:42:52.080 --> 00:42:56.320
+[Amit Varma]: foreign aid you receive from the World Bank and IMF depended on how low your GDP was,
+
+00:42:56.320 --> 00:43:02.640
+[Guest]: you see opposite impetus. Absolutely. So you have incentives going haywire about portraying the kind
+
+00:43:02.640 --> 00:43:07.360
+[Guest]: of growth that your economy is experiencing. And either you want perceiving a really high growth
+
+00:43:07.360 --> 00:43:11.840
+[Guest]: at what cost, there are environmental concerns and many others, or you're trying to show the
+
+00:43:11.840 --> 00:43:16.480
+[Guest]: economy is not doing well, as you said, because you want to get aid. So what has gotten lost in
+
+00:43:16.480 --> 00:43:21.840
+[Guest]: all of that is the notion that all that GDP was supposed to do is measure the output of the
+
+00:43:21.840 --> 00:43:28.080
+[Guest]: country. That's it. Nothing more, nothing less. But if you use one measure or one indicator to
+
+00:43:28.080 --> 00:43:33.200
+[Guest]: measure too many things, then you end up getting what we call an indeterminate world because you
+
+00:43:33.200 --> 00:43:38.480
+[Guest]: will not do anything well. So I think we have lost the narrative somewhere that we want this
+
+00:43:38.480 --> 00:43:44.080
+[Guest]: one indicator to capture everything. And we are not satisfied that it's not doing it. But at the
+
+00:43:44.080 --> 00:43:49.120
+[Guest]: same time, countries and politicians are using this in a rat race in a global level to say,
+
+00:43:49.120 --> 00:43:53.040
+[Guest]: my country is the fastest growing country or I'm the third largest, sixth largest country in the
+
+00:43:53.040 --> 00:43:58.640
+[Guest]: world. So there is this inconsistency between the two. There are people who are saying GDP does not
+
+00:43:58.640 --> 00:44:03.280
+[Guest]: capture A, B, C, D, E. It's causing negative consequences. But there are these governments
+
+00:44:03.280 --> 00:44:08.000
+[Guest]: of the countries are saying, this is the biggest metric, the most important number in the world
+
+00:44:08.000 --> 00:44:14.720
+[Guest]: today. And I'm fighting a rat race, which I need to win at any cost. And this is far, far from what
+
+00:44:14.720 --> 00:44:21.280
+[Guest]: the founding fathers had thought. And it's just, it's become an irresolvable situation that
+
+00:44:22.080 --> 00:44:26.240
+[Guest]: questions are raised. Should we continue with GDP? Do you discontinue? You come up with other
+
+00:44:26.240 --> 00:44:33.200
+[Guest]: numbers? I think a lot is, I would say, too much is made of this. A mountain is made out of a mole
+
+00:44:33.200 --> 00:44:38.320
+[Amit Varma]: hill. And what is kind of fascinating is that how from just being an arcane economic subject for
+
+00:44:38.320 --> 00:44:43.440
+[Amit Varma]: economists like you, which you discuss in your economist cabals and conferences, it's become a
+
+00:44:43.440 --> 00:44:48.800
+[Amit Varma]: hot button political issue. It's like, you know, like I say, GDP is a new pseudo secularism,
+
+00:44:48.800 --> 00:44:54.000
+[Amit Varma]: that it's just part of the political discourse. And, you know, you have so much debate going on,
+
+00:44:54.880 --> 00:44:57.840
+[Amit Varma]: are these metrics correct? Are these numbers correct?
+
+00:44:57.840 --> 00:45:02.480
+[Guest]: Yeah, in fact, as you said, GDP is everywhere. It's in media, it's in policy debates,
+
+00:45:02.480 --> 00:45:07.840
+[Guest]: it's the most ubiquitous number quoted. And, you know, I find fascinating that most of economic
+
+00:45:07.840 --> 00:45:15.840
+[Guest]: concepts are mysterious for even a well informed lay person to understand. But the way GDP is thrown
+
+00:45:15.840 --> 00:45:22.800
+[Guest]: about in a casual way would imply almost that it's a very simple, uncomplicated, comprehensive
+
+00:45:22.800 --> 00:45:27.680
+[Guest]: measure that everybody understands. But it's exactly not that, it is just the opposite.
+
+00:45:27.680 --> 00:45:32.880
+[Guest]: It's a very complicated, not at all a perfect measure of the size of the economy. And there
+
+00:45:32.880 --> 00:45:39.120
+[Guest]: are many, many problems with it. But it's this usage in common parlance has become so widespread,
+
+00:45:39.760 --> 00:45:45.200
+[Guest]: that we tend to make the mistake thinking, oh, it's a very simple measure, it's just a number.
+
+00:45:45.200 --> 00:45:49.920
+[Guest]: And you just track the number every year. And you figure out whether you're doing good or whether
+
+00:45:49.920 --> 00:45:53.360
+[Guest]: you're doing bad. And if you're doing bad, the government should do something about it.
+
+00:45:54.080 --> 00:45:59.280
+[Guest]: And if you're doing good, then hey, let's try to do better. So it's become a very simple narrative.
+
+00:45:59.280 --> 00:46:05.920
+[Guest]: But the actual concept is quite complicated. It is a relatively narrow one in scope. And
+
+00:46:06.960 --> 00:46:12.720
+[Guest]: more importantly, we have to keep in mind that, you know, state capacity has to be really,
+
+00:46:12.720 --> 00:46:19.600
+[Guest]: really well formed to measure a number like GDP correctly. I mean, it's not just our country or
+
+00:46:19.600 --> 00:46:26.160
+[Guest]: China or Argentina, any country, even developed countries struggle to come up with a good number
+
+00:46:26.160 --> 00:46:30.480
+[Guest]: or good measure of GDP, because it's a very, very complicated thing. Economies are getting more
+
+00:46:30.480 --> 00:46:35.520
+[Guest]: complex, and you're trying to measure everything with that one number. So it's getting more and
+
+00:46:35.520 --> 00:46:40.880
+[Guest]: more complicated. And you understand, I mean, the statistical agencies understand it. But you can't
+
+00:46:40.880 --> 00:46:44.240
+[Guest]: prevent the politicians and the governments from making a very big deal out of it.
+
+00:46:44.240 --> 00:46:49.440
+[Amit Varma]: No, and in the popular imagination is almost as if the GDP is an objective fact, a single number,
+
+00:46:49.440 --> 00:46:54.320
+[Amit Varma]: like two plus two is equal to four. So you know, if one party is saying it's 5%, the other party
+
+00:46:54.320 --> 00:46:58.560
+[Amit Varma]: saying it's 7%, they'll be each will behave like the other one is lying. But maybe they're both
+
+00:46:58.560 --> 00:47:02.080
+[Amit Varma]: lying. And maybe they're both telling the truth. And it's such a nebulous thing. And there's a
+
+00:47:02.080 --> 00:47:09.040
+[Amit Varma]: great illustration of that, that I read about recently, which is that in 2010, Ghana changed
+
+00:47:09.040 --> 00:47:15.200
+[Amit Varma]: the way they tweaked the way they measure their GDP. And between November 5 and November 6 2010,
+
+00:47:15.200 --> 00:47:20.560
+[Amit Varma]: their GDP rose 60%. And nothing changed in the economy. They just changed one of the small
+
+00:47:20.560 --> 00:47:27.360
+[Amit Varma]: metrics. And similarly, in 2014, Nigeria added 89% to its GDP. But again, nothing changed in the
+
+00:47:27.360 --> 00:47:31.920
+[Amit Varma]: economy. It's just the way that you measure it, which is subjective, complicated, you know,
+
+00:47:32.560 --> 00:47:38.160
+[Guest]: I mean, in the same spirit, in the US, as I said, it's not just the emerging on the developing
+
+00:47:38.160 --> 00:47:45.920
+[Guest]: countries in the US around 2006, seven or so, or maybe a little bit later, the idea was you include
+
+00:47:45.920 --> 00:47:52.160
+[Guest]: software purchases as investment, and R&D as investment rather than as an input cost. And
+
+00:47:52.160 --> 00:47:58.880
+[Guest]: because you started counting this as investment in 2013, the US GDP growth went up by 3% or more.
+
+00:47:58.880 --> 00:48:03.440
+[Guest]: I mean, nothing has changed in the world. All the other countries haven't changed anything. But
+
+00:48:03.440 --> 00:48:07.440
+[Guest]: suddenly us look so much better than the rest of the world, because you've just changed this one
+
+00:48:07.440 --> 00:48:13.120
+[Guest]: small thing. And that shows you how imperfect the measure is. And it's constantly changing.
+
+00:48:13.120 --> 00:48:17.360
+[Amit Varma]: And I think even in the 90s, there was something called hedonic pricing, which came into vogue,
+
+00:48:17.360 --> 00:48:22.320
+[Amit Varma]: which kind of took into account not just the price of a product, but the increase in quality,
+
+00:48:22.320 --> 00:48:26.160
+[Amit Varma]: and therefore priced it differently. And again, it suddenly appeared to the rest of the world
+
+00:48:26.160 --> 00:48:30.800
+[Amit Varma]: that wow, the US is doing so well. And all they changed was they introduced this new little trick.
+
+00:48:30.800 --> 00:48:35.280
+[Guest]: Exactly. So then therefore, it's far from being a perfect or a comprehensive measure.
+
+00:48:35.280 --> 00:48:40.000
+[Guest]: And you can do any small changes and the number will go up. And then exactly as you said,
+
+00:48:40.000 --> 00:48:47.360
+[Guest]: politicians start debating about, oh, it's a 5.5 versus six or 7.2 versus 7.5. But it's such an
+
+00:48:47.360 --> 00:48:51.840
+[Guest]: imperfect thing. It's complicated. It's imperfect. Why do you want to give so much importance to it?
+
+00:48:51.840 --> 00:48:56.400
+[Amit Varma]: And the thing is, all of those debates should really happen in good faith. And instead,
+
+00:48:56.400 --> 00:49:01.040
+[Amit Varma]: they are so filled with all of this political nonsense. It's so suffocating that we need a
+
+00:49:01.040 --> 00:49:05.920
+[Amit Varma]: break. We'll take a quick commercial break. And we'll come back to talk about how exactly your
+
+00:49:05.920 --> 00:49:10.480
+[Amit Varma]: exactly your measure GDP, what does it include? What does it not include how difficult it is?
+
+00:49:10.480 --> 00:49:36.880
+[Unknown]: And oh, my God, we are going to help.
+
+00:49:41.280 --> 00:49:45.840
+[Unknown]: IVMpodcast.com slash careers. We're really happy to announce the second season of Marvel's Lost
+
+00:49:45.840 --> 00:49:50.320
+[Unknown]: and Found which premieres on the 23rd of July. This season, Zen and Avanti cover issues like
+
+00:49:50.320 --> 00:49:54.400
+[Unknown]: addiction, mental health and kids grief, eating disorders and more. There are a number of special
+
+00:49:54.400 --> 00:49:58.640
+[Unknown]: guests that will be on the podcast catch new episodes every Tuesday. On Cyrus's Supreme
+
+00:49:58.640 --> 00:50:02.080
+[Unknown]: Court lawyer and founder of Swayam Farmer Foundation, Harshit Kohli talks to Cyrus
+
+00:50:02.080 --> 00:50:05.600
+[Unknown]: about how he got started with Swayam, their objectives and why people in cities need to
+
+00:50:05.600 --> 00:50:09.600
+[Unknown]: take more interest in farming. Also, in case you missed it, check out Cyrus's review of the 2019
+
+00:50:09.600 --> 00:50:13.600
+[Unknown]: World Cup final with comedian Mikhail Almeida on last week's cricket special Lanceau.
+
+00:50:13.600 --> 00:50:17.120
+[Unknown]: On the Ronnie Scruvalla podcast, Ronnie and I discuss the chapter second innings where Ronnie
+
+00:50:17.120 --> 00:50:20.640
+[Unknown]: updates us about his current ventures and talks about how problem solving is different in a
+
+00:50:20.640 --> 00:50:24.560
+[Unknown]: nonprofit organization. On the Filter Coffee podcast, Karthik is joined by award winning
+
+00:50:24.560 --> 00:50:28.640
+[Unknown]: journalist and fellow podcaster Amit Verma. They discuss India's performance in the 2019
+
+00:50:28.640 --> 00:50:33.280
+[Unknown]: Cricket World Cup, sports analytics and poker. On the Empowering series, Zarina is joined by two
+
+00:50:33.280 --> 00:50:38.720
+[Unknown]: guests, theatre and TV actor Binaf Dadachanji and Chinese chef and serial entrepreneur Norman Ho.
+
+00:50:38.720 --> 00:50:42.080
+[Unknown]: Together, they talk about their 10-year relationship, the importance of commitment
+
+00:50:42.080 --> 00:50:46.080
+[Unknown]: and loyalty and how one should sustain, grow and evolve in a relationship.
+
+00:50:46.080 --> 00:50:50.160
+[Unknown]: On our Kannada podcast, Thale Harate, Pawan talks to researcher Lingaraj Jayaprakash about
+
+00:50:50.160 --> 00:50:54.000
+[Unknown]: Buchanan's journey, offering a unique insight into the life and times of the regions he travelled
+
+00:50:54.000 --> 00:50:58.240
+[Unknown]: at the dawn of the 19th century. On Geekfruit, Jishnu is joined by the IBM staffers Abbas and
+
+00:50:58.240 --> 00:51:02.240
+[Unknown]: Alka to talk about Stranger Things' latest season. And with that, let's get you on with your show.
+
+00:51:03.360 --> 00:51:06.800
+[Amit Varma]: Welcome back to The Scene and The Unseen. I'm chatting with the economist Rajeshwari
+
+00:51:06.800 --> 00:51:12.240
+[Amit Varma]: Sengupta on the GDP and we spent the show so far talking about what the history of the GDP is,
+
+00:51:12.240 --> 00:51:16.640
+[Amit Varma]: how it evolved, the philosophical issues around it, what it measures and what it does not measure.
+
+00:51:17.680 --> 00:51:23.440
+[Amit Varma]: And now I want to turn to A, how do you measure GDP? Gross domestic product, what is it? This
+
+00:51:23.440 --> 00:51:28.160
+[Amit Varma]: is technical stuff. How do you measure it? And B, after that, come to what are all these
+
+00:51:28.160 --> 00:51:32.800
+[Guest]: controversies in India all about? Okay, so a quick trivia before I go
+
+00:51:32.800 --> 00:51:37.200
+[Guest]: into the technical measure of GDP. So since we talked about the history, when Kuznets and others
+
+00:51:37.200 --> 00:51:43.200
+[Guest]: came up with the measure, it was called gross national product, GNP. The idea was that it's the
+
+00:51:43.200 --> 00:51:50.080
+[Guest]: total market value of all goods and services produced by the people of a country within a
+
+00:51:50.080 --> 00:51:54.240
+[Guest]: particular year. And the people of the country, that notion was important for gross national
+
+00:51:54.240 --> 00:51:58.800
+[Guest]: product. I mean, the people of the country could be in US, could be in Japan, but it would be
+
+00:51:58.800 --> 00:52:07.440
+[Guest]: included in the US GNP. And that continued till about 1990s GNP. Around 1990s, we had this notion
+
+00:52:07.440 --> 00:52:14.000
+[Guest]: of gross domestic product. And gross domestic product is the total market value of goods and
+
+00:52:14.000 --> 00:52:20.080
+[Guest]: services produced in a country in a particular year. And sold in the country. Yeah, produced and
+
+00:52:20.080 --> 00:52:24.400
+[Guest]: sold in the country, doesn't matter whether it is just by the people of that country.
+
+00:52:24.400 --> 00:52:29.440
+[Guest]: So therefore, basically, it means that if an Indian is sitting in Dubai producing something,
+
+00:52:29.440 --> 00:52:34.880
+[Guest]: that will be counted in India's gross national product, but not a part of India's gross domestic
+
+00:52:34.880 --> 00:52:39.920
+[Guest]: product. But if there is a Japanese guy sitting in Tamil Nadu in an automobile factory producing
+
+00:52:39.920 --> 00:52:44.480
+[Guest]: something, that will be a part of India's gross domestic product. And the reason this became
+
+00:52:44.480 --> 00:52:50.960
+[Guest]: important in the 1990s is once we had globalization, a lot of companies basically got the
+
+00:52:50.960 --> 00:52:57.840
+[Guest]: license to set up subsidiaries in emerging markets and other countries. So it got delocalized. And
+
+00:52:57.840 --> 00:53:03.200
+[Guest]: once it got delocalized, it became important to measure the output produced just within the
+
+00:53:03.200 --> 00:53:07.680
+[Guest]: geographical boundaries of the country. And the interesting thing that it did was, when you went
+
+00:53:07.680 --> 00:53:14.480
+[Guest]: from GNP to GDP, the size of the emerging economies just went up. Because emerging economies
+
+00:53:14.480 --> 00:53:19.280
+[Guest]: were then at that point of time, post globalization, were the hosts of all the subsidiary
+
+00:53:19.280 --> 00:53:25.280
+[Guest]: companies, outsourced companies, etc. So their output actually went up because you changed the
+
+00:53:25.280 --> 00:53:30.320
+[Guest]: definition from GNP to GDP. And of course, the emerging economies have been growing at a
+
+00:53:30.320 --> 00:53:36.160
+[Guest]: phenomenal rate since then. And I think a lot of that has to do with the definition change. But of
+
+00:53:36.160 --> 00:53:40.240
+[Guest]: course, they themselves have been doing quite well. Now, in terms of how it's measured, as I
+
+00:53:40.240 --> 00:53:47.760
+[Guest]: said, you basically value the, you assign a market price, market value to the total goods and
+
+00:53:47.760 --> 00:53:52.880
+[Guest]: services produced in the country in a particular year. And there are three different ways of
+
+00:53:52.880 --> 00:53:58.160
+[Guest]: measuring it. So think of a good or a service going through different stages. So there is a
+
+00:53:58.160 --> 00:54:04.480
+[Guest]: production stage, there is a distribution stage, and there is a consumption stage. So exactly to
+
+00:54:04.480 --> 00:54:09.920
+[Guest]: mirror that, Kuznets came up with three different ways to measure. You have a production approach,
+
+00:54:09.920 --> 00:54:14.560
+[Guest]: expenditure approach, and an income approach. So in the production approach, what you're doing is
+
+00:54:14.560 --> 00:54:20.400
+[Guest]: you are just estimating what is called value added. It's just as simple as total output minus
+
+00:54:20.400 --> 00:54:25.760
+[Guest]: total cost, whatever the total revenue of the companies minus whatever the value of the inputs
+
+00:54:25.760 --> 00:54:31.440
+[Guest]: used. That's the production approach. Then you have the expenditure approach, where you are just
+
+00:54:31.440 --> 00:54:37.680
+[Guest]: summing up different expenditure components, and the total that you get is the GDP. And in the
+
+00:54:37.680 --> 00:54:42.640
+[Guest]: different expenditure components, you have consumption expenditure, you have investment,
+
+00:54:42.640 --> 00:54:47.920
+[Guest]: you have government expenditure, you have exports, and you would subtract import because import is
+
+00:54:47.920 --> 00:54:52.240
+[Guest]: something that you're spending on goods and services of other countries. Now, this expenditure
+
+00:54:52.240 --> 00:54:57.920
+[Guest]: component is actually, again, closest to the Keynesian idea, because Keynes was all about
+
+00:54:57.920 --> 00:55:03.440
+[Guest]: boosting demand by increasing expenditure of the government. And that fits really well with this
+
+00:55:03.440 --> 00:55:08.400
+[Guest]: Keynesian idea of the expenditure approach. And the third approach is the income approach,
+
+00:55:08.400 --> 00:55:13.520
+[Guest]: where it's basically one is equivalent of the other, because if the companies are producing,
+
+00:55:13.520 --> 00:55:18.640
+[Guest]: and you and I are consumers, we are consuming, then we are also getting some income because we
+
+00:55:18.640 --> 00:55:23.760
+[Guest]: are the factors of production. So the labour, land, capital, these are the usual factors. So
+
+00:55:23.760 --> 00:55:28.880
+[Guest]: the factored incomes that are being paid in the process of the production, get calculated in the
+
+00:55:28.880 --> 00:55:34.080
+[Guest]: income approach. And the idea is that all of these three approaches will yield the same number.
+
+00:55:34.080 --> 00:55:39.360
+[Guest]: There are some discrepancies here and there. But that's the overarching idea of measuring GDP.
+
+00:55:39.360 --> 00:55:43.600
+[Guest]: And that's pretty much what is followed in every country. So that's, that's the main measure of
+
+00:55:43.600 --> 00:55:48.160
+[Amit Varma]: GDP, so to speak. It's complicated, because in India, especially is complicated because
+
+00:55:48.160 --> 00:55:52.800
+[Amit Varma]: of so many bad labour laws and industrial laws, we have a very large informal economy.
+
+00:55:53.360 --> 00:55:59.200
+[Amit Varma]: And therefore, those statistics are very hard to come by. So, you know, how do we get around that?
+
+00:55:59.200 --> 00:56:06.640
+[Guest]: That's actually a very good point. Because so around the 1930s and 40s, after the World War,
+
+00:56:06.640 --> 00:56:10.800
+[Guest]: the United Nations was developing what is called the System of National Accounts,
+
+00:56:10.800 --> 00:56:18.720
+[Guest]: called the SNA. And the guy who was instrumental in building the SNA was Richard Stone, who actually
+
+00:56:18.720 --> 00:56:23.920
+[Guest]: won the Nobel Prize for that. The SNA was the idea is that it's going to set international standards
+
+00:56:23.920 --> 00:56:30.160
+[Guest]: for national income accounting for all the countries. Now, at that point of time,
+
+00:56:30.160 --> 00:56:34.560
+[Guest]: because it was primarily done for the developed countries, there was not much of a problem in it.
+
+00:56:34.560 --> 00:56:39.440
+[Guest]: But gradually, when GDP got exported to the rest of the world as the main metric of economic
+
+00:56:39.440 --> 00:56:44.400
+[Guest]: performance, it was realised that emerging countries or developing countries do have a
+
+00:56:44.400 --> 00:56:49.840
+[Guest]: very big informal or unorganised sector. And how would you value the output of this sector?
+
+00:56:49.840 --> 00:56:55.280
+[Guest]: Now, there is no easy answer to that. And in fact, the SNA is not really a very helpful
+
+00:56:55.280 --> 00:57:01.200
+[Guest]: outline to understand what's to be done. And in fact, the size of the informal economy is massive.
+
+00:57:01.200 --> 00:57:06.160
+[Guest]: I mean, in some estimates, it's about 40 to 50% in emerging countries. Even in India,
+
+00:57:06.160 --> 00:57:11.200
+[Guest]: it's a very, very big portion. And we don't have a very good measure of the informal sector,
+
+00:57:11.200 --> 00:57:17.520
+[Guest]: which means that you end up excluding a big productive part of the economy from the official
+
+00:57:17.520 --> 00:57:22.720
+[Guest]: measure of the size of output. And that's just a shortcoming that we live with. Because if you're
+
+00:57:22.720 --> 00:57:27.920
+[Guest]: following the international guidelines, we have no guidance there. And we ourselves,
+
+00:57:27.920 --> 00:57:33.200
+[Guest]: we have some crude measures of doing surveys, of figuring out what the informal sector contribution
+
+00:57:33.200 --> 00:57:38.880
+[Guest]: is, but they are far from perfect. So that's a big gaping hole in the GDP calculation of
+
+00:57:38.880 --> 00:57:44.080
+[Guest]: emerging countries, that we can't estimate what is the informal sector. And if I may digress,
+
+00:57:44.080 --> 00:57:50.160
+[Guest]: I think one reason why when demonetization happened in the country, we could not estimate
+
+00:57:50.160 --> 00:57:54.480
+[Guest]: the negative effect of demonetization, because majority of the effect was going to be on the
+
+00:57:54.480 --> 00:57:59.600
+[Guest]: informal sector, which is the cash-based economy. But because we did not have a good measure of the
+
+00:57:59.600 --> 00:58:05.200
+[Guest]: informal sector output, we could not measure what was the shock of the informal sector. And therefore,
+
+00:58:05.200 --> 00:58:08.800
+[Guest]: today we think maybe demonetization did not have that much of an effect, because we just don't
+
+00:58:08.800 --> 00:58:15.280
+[Guest]: have a measure of it. So it's very costly, when you can't measure about 40-45% of the economy.
+
+00:58:15.280 --> 00:58:19.200
+[Guest]: And then you have a measure of the organized sector, so to speak, and you make such a big
+
+00:58:19.200 --> 00:58:22.560
+[Guest]: deal of it. But that's just the state of the things today.
+
+00:58:22.560 --> 00:58:26.880
+[Amit Varma]: In fact, that even answers the question of why is a metric like the GDP important? It's important
+
+00:58:26.880 --> 00:58:33.120
+[Amit Varma]: because then you have a sense of where the government is messing up and what it's doing right,
+
+00:58:33.120 --> 00:58:37.680
+[Amit Varma]: you know, even if you don't think of it as a tool of central control. And I've had many episodes
+
+00:58:37.680 --> 00:58:41.360
+[Amit Varma]: in the demonetization, and all my guests make pretty much the same point that it absolutely
+
+00:58:41.360 --> 00:58:44.960
+[Amit Varma]: devastated the informal sector, but it's not going to show in statistics anywhere.
+
+00:58:44.960 --> 00:58:45.440
+[Guest]: Absolutely.
+
+00:58:45.440 --> 00:58:52.160
+[Amit Varma]: And that's kind of sad. So how has thinking towards the GDP evolved in India over the years?
+
+00:58:52.160 --> 00:58:57.760
+[Amit Varma]: Like, give me a sense of who measures it? Is there like a government agency whose responsibility it
+
+00:58:57.760 --> 00:59:02.640
+[Amit Varma]: is to measure it? How have they arrived at a methodology? Is there a consensus around the
+
+00:59:02.640 --> 00:59:07.520
+[Amit Varma]: methodology? How reliable is the kind of data which they get? Tell me a bit about all of those
+
+00:59:07.520 --> 00:59:08.080
+[Guest]: problems.
+
+00:59:08.080 --> 00:59:14.240
+[Guest]: So, we have actually a very rich history of national statistics in India. And the reason I
+
+00:59:14.240 --> 00:59:18.720
+[Guest]: mentioned SNA earlier is because I wanted to talk about it, that when the system of national
+
+00:59:18.720 --> 00:59:24.880
+[Guest]: accounts was developed by the UN, in the 1950s, Indian economists and statisticians actually
+
+00:59:24.880 --> 00:59:30.800
+[Guest]: played a very important role there. In fact, VKR V. Rao, who was actually the founding father of
+
+00:59:30.800 --> 00:59:37.120
+[Guest]: Delhi School of Economics, he was a part of the system of national accounts building. And he
+
+00:59:37.120 --> 00:59:39.760
+[Guest]: contributed his intellectual inputs to their SNA model.
+
+00:59:39.760 --> 00:59:44.240
+[Amit Varma]: In fact, brief digression, our mutual friend, Niranjan Raj Thaksher, told me recently that
+
+00:59:44.240 --> 00:59:48.560
+[Amit Varma]: Dadabhai Naoroji had tried to calculate the national income in 1870.
+
+00:59:48.560 --> 00:59:54.320
+[Guest]: See, there you go. So I think Indians, and of course, then later on, we have a professor of
+
+00:59:54.320 --> 00:59:58.960
+[Guest]: Mahalanobis, right? I mean, he's like the father of statistics, so to speak, in India. So we had
+
+00:59:58.960 --> 01:00:04.800
+[Guest]: a very, very rich history of good statistics and statisticians and economists in India.
+
+01:00:04.800 --> 01:00:09.840
+[Guest]: And in fact, VKR V. Rao, again, interesting tidbit, was offered a position at Harvard
+
+01:00:09.840 --> 01:00:15.600
+[Guest]: University at the same time when Kuznets was, and he did not take it, he instead came and
+
+01:00:15.600 --> 01:00:21.280
+[Guest]: built the Delhi School of Economics. So that's how rich our background is. So we had the potential
+
+01:00:21.280 --> 01:00:25.760
+[Guest]: to really be, you know, at the frontier of the GDP statistics, but we have actually gone exactly
+
+01:00:25.760 --> 01:00:31.440
+[Guest]: the opposite way. So what happened is, in the past, we had, we were following the system of
+
+01:00:31.440 --> 01:00:37.520
+[Guest]: national accounts off and on, and we had a very good bunch of statisticians. There's an organization
+
+01:00:37.520 --> 01:00:43.680
+[Guest]: called Central Statistics Office, or the CSO. For the longest part till 1990s, a lot of the
+
+01:00:43.680 --> 01:00:49.040
+[Guest]: statistical work was done out of ISI Calcutta. And that's where the National Sample Survey
+
+01:00:49.040 --> 01:00:54.560
+[Guest]: Organization, the NSSO, was also set up. So the CSO, the Central Statistics Office, is primarily
+
+01:00:54.560 --> 01:01:01.440
+[Guest]: responsible for calculating GDP in the country. The CSO collects data from multiple agencies,
+
+01:01:01.440 --> 01:01:05.920
+[Guest]: ministries, etc., and collates everything together. There is a model that they use,
+
+01:01:05.920 --> 01:01:12.400
+[Guest]: you put in all the numbers, and you get a GDP size, and the sectoral disaggregations, etc., etc.
+
+01:01:12.400 --> 01:01:17.680
+[Guest]: And that is what has been happening for a very, very long time. Now, what happened recently is
+
+01:01:17.680 --> 01:01:27.200
+[Guest]: that in 2015, the CSO released a new base year series. Now, after almost every five or six years,
+
+01:01:27.200 --> 01:01:32.240
+[Guest]: the base year of the GDP is revised, because you need to calculate GDP in the benchmark of one
+
+01:01:32.240 --> 01:01:36.080
+[Guest]: particular base year, because otherwise the prices are fluctuating, and you want to keep the prices
+
+01:01:36.080 --> 01:01:41.600
+[Guest]: constant for one particular year. So the CSO releases in 2015, a new base year series,
+
+01:01:41.600 --> 01:01:48.160
+[Guest]: but the base year is 2011-12. The earlier base year was 2004-05. Now, when the series was released
+
+01:01:48.160 --> 01:01:56.560
+[Guest]: in 2015, what happened was the growth rate of the economy jumped significantly for all the years
+
+01:01:56.560 --> 01:02:03.120
+[Guest]: where we have overlapping data available for the old series and the new series. Now, why was this
+
+01:02:03.120 --> 01:02:07.760
+[Guest]: surprising? Because when you do a base year revision, base year revision is a very regular
+
+01:02:07.760 --> 01:02:12.400
+[Guest]: thing. All countries do it, we have done it many times, and you should. So when you do a base year
+
+01:02:12.400 --> 01:02:17.440
+[Guest]: revision, typically the size of the economy may change because you're probably doing a better
+
+01:02:17.440 --> 01:02:23.040
+[Guest]: capture, but the growth rate never changes a lot. It's just the economy is just maybe getting bigger
+
+01:02:23.040 --> 01:02:27.520
+[Guest]: in size, you're using better data and better methods, because you're capturing better,
+
+01:02:27.520 --> 01:02:31.520
+[Guest]: you're getting a bigger size of the economy, but the growth rate doesn't change. What happened
+
+01:02:31.520 --> 01:02:38.000
+[Guest]: in 2015 was we got a phenomenally increasing growth rate, especially in one sector, which was
+
+01:02:38.000 --> 01:02:43.840
+[Guest]: the manufacturing sector. In fact, in one year, it went from negative growth rate in the old series
+
+01:02:43.840 --> 01:02:50.480
+[Guest]: to almost 6 and 7% in the new series, which is a huge jump. And that happened consistently for
+
+01:02:50.480 --> 01:02:55.200
+[Guest]: all the three years for which we had data of the old and the new we could compare. After one point,
+
+01:02:55.200 --> 01:02:58.720
+[Guest]: of course, the old data got discontinued, we couldn't compare it with anything else,
+
+01:02:58.720 --> 01:03:04.800
+[Guest]: we just had the new data. But the seeds of suspicion were planted in the minds of whichever
+
+01:03:04.800 --> 01:03:09.600
+[Guest]: economist and statistician was looking at this series and wondering to themselves, what is going
+
+01:03:09.600 --> 01:03:17.440
+[Guest]: on? How can you have such a high growth rate? And at that time, by 2016, we also got a feel of the
+
+01:03:17.440 --> 01:03:21.920
+[Guest]: economy by looking at other things, you know, we were in the basically in a banking crisis,
+
+01:03:21.920 --> 01:03:27.200
+[Guest]: exports were not growing, investment had stagnated. Now in a country where investment
+
+01:03:27.200 --> 01:03:32.560
+[Guest]: has stagnated for a few years, the banking sector is in a non-performing asset crisis,
+
+01:03:32.560 --> 01:03:40.160
+[Guest]: exports are not growing, how can you have an economy growing at 7%, 7.5%? And these kind of
+
+01:03:40.160 --> 01:03:46.400
+[Guest]: disconnects, these kind of questions started getting raised a lot in the academic circles of
+
+01:03:46.400 --> 01:03:53.360
+[Guest]: people who knew about the GDP measurement. And it was constricted within a group of a few economists
+
+01:03:53.360 --> 01:03:58.000
+[Guest]: and statisticians who knew about the process. And there was a lot of debate back and forth
+
+01:03:58.000 --> 01:04:04.640
+[Guest]: in journals and media and etc, etc. And that's when it started becoming more and more doubtful,
+
+01:04:04.640 --> 01:04:10.320
+[Guest]: that there are some problems in the new series, and it's much more than what meets the eye. And
+
+01:04:10.320 --> 01:04:17.040
+[Guest]: because GDP is such a complicated construct, as I said, not many people understand it. In fact,
+
+01:04:17.040 --> 01:04:21.840
+[Guest]: Robert Solow back in the 70s had a quote that every quarter you have economists talking about
+
+01:04:21.840 --> 01:04:25.600
+[Guest]: the GDP, but very few of them really understand what they're talking about, which is true even
+
+01:04:25.600 --> 01:04:31.760
+[Guest]: today. So it became clear that there's something wrong in the GDP. And some people started writing
+
+01:04:31.760 --> 01:04:37.040
+[Guest]: about the technical details of it, the methodology and etc. But the debate just went out of hand,
+
+01:04:37.040 --> 01:04:42.880
+[Guest]: because the moment I think media and whatever it is politicians, they started getting a sniff of
+
+01:04:42.880 --> 01:04:48.080
+[Guest]: that, oh, things are not right. It just went completely out of control. It was no longer a
+
+01:04:48.080 --> 01:04:53.120
+[Guest]: debate restricted within 10 people understood the process, it became a debate involving many,
+
+01:04:53.120 --> 01:04:57.840
+[Guest]: many people who did not understand the process at all, they just knew something was wrong,
+
+01:04:57.840 --> 01:05:04.400
+[Guest]: the GDP did not pass what is called the smell test. And therefore we need to attack, we need to
+
+01:05:04.400 --> 01:05:10.880
+[Guest]: criticize. And from then on, I think it just completely took its own form and shape. And the
+
+01:05:10.880 --> 01:05:18.400
+[Guest]: cost of it was that very little was written about in public media. But exactly what is wrong,
+
+01:05:18.400 --> 01:05:23.040
+[Guest]: and what can be done about it, it got so politicized so fast, that the Central Statistics
+
+01:05:23.040 --> 01:05:28.800
+[Guest]: Office got very defensive. They started defending saying, whatever we have done is in keeping with
+
+01:05:28.800 --> 01:05:34.480
+[Guest]: the system of SNA that I was talking about SNA 2008. It's in keeping with international guidelines,
+
+01:05:34.480 --> 01:05:38.720
+[Guest]: everything is perfect. So it almost became like two camps, like there's a camp of people
+
+01:05:38.720 --> 01:05:43.040
+[Guest]: who's criticizing the series. And there's a camp of people who's defending saying everything is
+
+01:05:43.040 --> 01:05:48.560
+[Guest]: right. And is this camp partly driven by politics? I would think so. Because it also unfortunately,
+
+01:05:48.560 --> 01:05:53.520
+[Guest]: or fortunately, whatever it is coincided with the time when BJP government came to power in 2014.
+
+01:05:53.520 --> 01:05:59.440
+[Guest]: And right after that, the new series was released. And then the new series showed this government in
+
+01:05:59.440 --> 01:06:04.400
+[Guest]: really good light because the economy was growing at breakneck speed. So automatically got politicized
+
+01:06:04.400 --> 01:06:10.800
+[Guest]: with people thinking that is there a political motive, or what's going on. And the CSO increasingly
+
+01:06:10.800 --> 01:06:15.120
+[Guest]: started withdrawing from the debate. Other institutions which are more political started
+
+01:06:15.120 --> 01:06:22.000
+[Guest]: talking about GDP. And it just got a really noisy debate, so to speak. And I think what we forgot in
+
+01:06:22.000 --> 01:06:28.400
+[Guest]: the process is that state capacity in India is weak. And there are many, many sectors of India
+
+01:06:28.400 --> 01:06:34.320
+[Guest]: where things don't work. You take crime, you take anything, basically. Now in a country where the
+
+01:06:34.320 --> 01:06:39.760
+[Guest]: state capacity is inherently weak, why would we expect a very complicated number like GDP to be
+
+01:06:39.760 --> 01:06:45.360
+[Guest]: perfect? I mean, it's almost obvious that there will be problems, there will be measurement flaws,
+
+01:06:45.360 --> 01:06:50.240
+[Guest]: and maybe people are trying to do the best that they can. But there are issues. But if you blow
+
+01:06:50.240 --> 01:06:56.800
+[Guest]: it out of proportion saying, oh, no, it's not 7.5, but it's seven, then it really becomes problematic,
+
+01:06:56.800 --> 01:06:58.560
+[Amit Varma]: unless you really understand what you're talking about.
+
+01:06:58.560 --> 01:07:03.280
+[Amit Varma]: So I have a couple of questions here. One is the methodology and the data,
+
+01:07:03.280 --> 01:07:10.560
+[Amit Varma]: are the methodology and the data that is used to calculate the GDP, are they open and available to
+
+01:07:10.560 --> 01:07:15.280
+[Amit Varma]: all to kind of look at? And the second problem that strikes me thinking from a point of view
+
+01:07:15.280 --> 01:07:21.200
+[Amit Varma]: of incentives is that if a lot of this data is coming from government agencies, and if it is
+
+01:07:21.200 --> 01:07:26.240
+[Amit Varma]: obviously an incentive, I mean, the government is incentivized to make itself look good,
+
+01:07:26.240 --> 01:07:31.840
+[Amit Varma]: then how can this data be reliable? And are there independent ways of either verifying this data,
+
+01:07:31.840 --> 01:07:35.360
+[Amit Varma]: or using other proxies to get a sense of I mean, whether it causes a smell test?
+
+01:07:35.360 --> 01:07:43.040
+[Guest]: Yeah. So what happened in 2015 was that there were many changes done to the GDP series other than
+
+01:07:43.040 --> 01:07:48.720
+[Guest]: just a base year revision. For example, for the manufacturing sector, which underwent the biggest
+
+01:07:48.720 --> 01:07:55.440
+[Guest]: changes, the entire data set that was used in the earlier series was replaced with a new data set.
+
+01:07:55.440 --> 01:08:00.480
+[Guest]: And since I need to mention the name, otherwise, it'll be difficult. It's called MCA. It's the
+
+01:08:00.480 --> 01:08:05.440
+[Guest]: Ministry of Corporate Affairs data set, MCA21 data. So earlier, we were using Annual Survey
+
+01:08:05.440 --> 01:08:10.320
+[Guest]: of Industries, ASI, and now we started using MCA21 data. So it was a big change.
+
+01:08:11.360 --> 01:08:16.320
+[Guest]: Then there were many other methodological changes in the way GDP was estimated in the new series.
+
+01:08:16.320 --> 01:08:19.920
+[Guest]: Now, these data are not coming from the government agencies. For example,
+
+01:08:19.920 --> 01:08:25.200
+[Guest]: MCA21 is a database where companies voluntarily file their financial returns,
+
+01:08:25.200 --> 01:08:29.760
+[Guest]: and on the basis of the financial returns, you're computing the GDP of the manufacturing sector,
+
+01:08:29.760 --> 01:08:35.520
+[Guest]: or of the services sector, basically. So many methodological data related changes were introduced.
+
+01:08:36.160 --> 01:08:42.080
+[Guest]: And it's possible that some things went haywire in that. But unfortunately, we can't test it
+
+01:08:42.080 --> 01:08:47.280
+[Guest]: because it's not publicly available. So as a researcher today, I cannot access the MCA21
+
+01:08:47.280 --> 01:08:53.520
+[Guest]: database. So while I may suspect that there are some problems with it, I can't conclusively prove
+
+01:08:53.520 --> 01:08:56.960
+[Guest]: that yes, there are problems because I don't get access to the database.
+
+01:08:56.960 --> 01:09:02.080
+[Amit Varma]: Why don't you get access to the database? I mean, just using the same RTI principle,
+
+01:09:02.960 --> 01:09:05.600
+[Amit Varma]: should not all citizens have access to these databases?
+
+01:09:05.600 --> 01:09:11.520
+[Guest]: Yeah, if you file an RTI, so MCA21 data, let's say there are 11 lakh companies that register
+
+01:09:11.520 --> 01:09:15.760
+[Guest]: with the Ministry of Company Affairs in any given year. Out of 11 lakh companies,
+
+01:09:15.760 --> 01:09:19.840
+[Guest]: let's say six or seven lakh are filing returns. You basically need all their data.
+
+01:09:19.840 --> 01:09:25.520
+[Guest]: And the MCA does not provide it publicly. You can pay a very small fee and get the data for
+
+01:09:25.520 --> 01:09:30.400
+[Guest]: one company for one year. And it just becomes a mammoth exercise if you want to get the full
+
+01:09:30.400 --> 01:09:35.920
+[Guest]: data set. So unless the MCA decides to make it publicly available in a user-friendly manner,
+
+01:09:35.920 --> 01:09:40.320
+[Guest]: it is very difficult for us to get that data. And just getting the data itself is not the end
+
+01:09:40.320 --> 01:09:46.240
+[Guest]: of the story, because you also need details of the methodological changes that the CSO
+
+01:09:46.240 --> 01:09:52.720
+[Guest]: had brought about. We don't even know that. So when the CSO brought about all these changes,
+
+01:09:52.720 --> 01:09:58.000
+[Guest]: there is a document which kind of gives an idea, but it's very vague. And there's a lot of opacity
+
+01:09:58.000 --> 01:10:03.040
+[Guest]: about it, that what were the exact changes and other technical details. Now, if they had been
+
+01:10:03.040 --> 01:10:07.520
+[Guest]: transparent about it, that listen, these are the changes that we did. This is the current method,
+
+01:10:07.520 --> 01:10:12.560
+[Guest]: all the nitty-gritty and details of it. And here is the database that we used. Now you are free to
+
+01:10:12.560 --> 01:10:18.240
+[Guest]: do whatever tests you want to do. They did not do that. So there's a lot of guessing game that
+
+01:10:18.240 --> 01:10:24.400
+[Guest]: researchers had to do to figure out what's wrong. And that, I think, kind of got the CSO more on
+
+01:10:24.400 --> 01:10:28.560
+[Guest]: the back foot. They got more defensive. And there was no release of information coming from their
+
+01:10:28.560 --> 01:10:33.920
+[Guest]: side at all. So end of the day, there is this opacity. There is a big suspicion that things
+
+01:10:33.920 --> 01:10:39.600
+[Guest]: have gone wrong. And there is absolutely no response from the CSO admitting that, yeah,
+
+01:10:39.600 --> 01:10:43.920
+[Guest]: maybe there are some problems or you guys find it out for yourselves. We are making the documents
+
+01:10:43.920 --> 01:10:49.440
+[Guest]: transparent. And that ended up this camp thing that, you know, I mean, some people are just
+
+01:10:49.440 --> 01:10:54.960
+[Guest]: convinced that there are problems with the GDP data, the CSO. And now the government basically
+
+01:10:54.960 --> 01:11:00.000
+[Guest]: says that, no, no, everything is fine. And you're almost at an impasse because what do you do? And
+
+01:11:00.000 --> 01:11:05.200
+[Guest]: what ended up happening, the negative effect of that is that I think people started losing the
+
+01:11:05.200 --> 01:11:10.640
+[Guest]: trust in GDP. When I talked to many of my financial market friends in Bombay, they tell me that
+
+01:11:10.640 --> 01:11:16.640
+[Guest]: routinely when the GDP number comes out, they always subtract 2% from that number. And they
+
+01:11:16.640 --> 01:11:22.320
+[Guest]: take that as the actual growth rate because they feel they can't trust the actual official number.
+
+01:11:22.320 --> 01:11:27.680
+[Guest]: There's no reliability of it. I often tell my own students that, you know, you can work on macro
+
+01:11:27.680 --> 01:11:32.400
+[Guest]: research, but you can't use the GDP data. Imagine what a handicap that is if you're studying the
+
+01:11:32.400 --> 01:11:38.240
+[Guest]: macroeconomic situation of the country, but you can't use GDP data. Also, what happened with this
+
+01:11:38.240 --> 01:11:45.280
+[Guest]: revision, we don't have a continuous series going backward. So we have a GDP data now from 2011-12,
+
+01:11:45.280 --> 01:11:51.840
+[Guest]: but nothing going back to the 1950s. So when you don't have a continuous series, how do you
+
+01:11:51.840 --> 01:11:57.200
+[Guest]: track the progress of the economy over time? So even that got affected. In fact, there was a,
+
+01:11:57.200 --> 01:12:01.120
+[Guest]: typically what happens when you do a base year revision, you're also supposed to release a back
+
+01:12:01.120 --> 01:12:08.000
+[Guest]: series to link it with the older one. And the CSO did that, except the back series showed that
+
+01:12:08.000 --> 01:12:14.560
+[Guest]: during the boom period, what you and I know as the boom period of 2004-2008, the Indian growth
+
+01:12:14.560 --> 01:12:20.720
+[Guest]: rate was lower than what it has been over the last five years. So you just change our perception of
+
+01:12:20.720 --> 01:12:25.280
+[Amit Varma]: history. And there is a smell test issue to that, quite frankly, because you know, just having
+
+01:12:25.280 --> 01:12:29.680
+[Amit Varma]: lived through that time and living through this time. Exactly. And I think with that release,
+
+01:12:29.680 --> 01:12:34.800
+[Guest]: they actually lost all credibility, because when you just tell the country that, oh, it was not the
+
+01:12:34.800 --> 01:12:39.920
+[Guest]: boom period that you thought it was, because we have changed things. And that also, they were
+
+01:12:39.920 --> 01:12:44.640
+[Guest]: really opaque about the back series method, how they did it. I mean, we tried to recreate it,
+
+01:12:44.640 --> 01:12:49.760
+[Guest]: and we could not because we just didn't have access to information. So all of these things,
+
+01:12:49.760 --> 01:12:54.720
+[Guest]: it just was no longer just a base year revision or just a methodological improvement in keeping
+
+01:12:54.720 --> 01:13:00.240
+[Guest]: with SNA. They started doing many, many things, which really affected the credibility of the
+
+01:13:00.240 --> 01:13:06.080
+[Guest]: statistical office itself. And when that started happening, you know, you just, as I said, you
+
+01:13:06.080 --> 01:13:10.320
+[Amit Varma]: don't trust the GDP number anymore. And, you know, typically, the first instinct would be that,
+
+01:13:10.320 --> 01:13:14.160
+[Amit Varma]: okay, they changed the methodology a little bit and all, maybe they did it in good faith,
+
+01:13:14.160 --> 01:13:18.320
+[Amit Varma]: and let's not bring politics into it and so on. But then when you say that they are not being
+
+01:13:18.320 --> 01:13:23.120
+[Amit Varma]: transparent about it, and they're just asking us to trust them blindly, then I think the default
+
+01:13:23.120 --> 01:13:26.160
+[Amit Varma]: mode has to be suspicion and to say that there is something fishy here.
+
+01:13:26.160 --> 01:13:30.320
+[Guest]: Exactly. Because when you see that there are so many people criticizing it, some of them
+
+01:13:30.320 --> 01:13:34.480
+[Guest]: know what they're talking about, some of them may not know, but still, all you had to do as the
+
+01:13:34.480 --> 01:13:38.640
+[Guest]: statistical agency of the country is just come out in the open and say, listen, guys, this is
+
+01:13:38.640 --> 01:13:43.600
+[Guest]: the details of what we have done. And yeah, maybe there are some problems here or there, maybe you
+
+01:13:43.600 --> 01:13:48.320
+[Guest]: should have had some caviar, take it with a pinch of salt. But this is in the interest of the
+
+01:13:48.320 --> 01:13:51.920
+[Guest]: economy, because we want to do a better capture, blah, blah, blah. But we are going to give you
+
+01:13:51.920 --> 01:13:55.600
+[Guest]: all the information, there is no reason for them to withhold information from us.
+
+01:13:55.600 --> 01:13:57.680
+[Guest]: I mean, they could literally crowdsource all the hard work.
+
+01:13:57.680 --> 01:14:04.160
+[Guest]: Absolutely, absolutely. And you know, the quest should be to improve GDP estimation method,
+
+01:14:04.160 --> 01:14:08.400
+[Guest]: and to involve more and more stakeholders. And it's extremely important, I think,
+
+01:14:08.400 --> 01:14:14.240
+[Guest]: when it's a national statistic number, you need to buy in the trust of the stakeholders. Otherwise,
+
+01:14:14.240 --> 01:14:18.560
+[Guest]: who are you really creating this number for? I mean, are you just creating the number in
+
+01:14:18.560 --> 01:14:21.920
+[Guest]: because you want to participate in a global rat race of being the fastest growing country when
+
+01:14:21.920 --> 01:14:27.040
+[Guest]: nobody in your country believes in the data? So what is it that the objective is? And especially
+
+01:14:27.040 --> 01:14:33.680
+[Guest]: when you are in a country with such a rich history and heritage of statistics, then why would you do
+
+01:14:33.680 --> 01:14:37.680
+[Guest]: something like that? Why can't you just be transparent and say, this is all that there is,
+
+01:14:37.680 --> 01:14:42.160
+[Guest]: and you guys figure out if you really have the expertise. And I personally have not just been
+
+01:14:42.160 --> 01:14:46.160
+[Guest]: able to understand what is the resistance and what what's the reason behind this opacity.
+
+01:14:46.160 --> 01:14:50.320
+[Guest]: And if there is so much of a criticism, instead of being defensive and saying,
+
+01:14:50.320 --> 01:14:54.800
+[Guest]: no, no, it's an attack, and blah, blah, blah, everything is well, and doing more stuff like
+
+01:14:54.800 --> 01:14:59.280
+[Guest]: releasing a back series, which says the boom period was not a boom period. Why would you do
+
+01:14:59.280 --> 01:15:02.960
+[Guest]: something like that? Right? I mean, unless you were really convinced, which I don't think they
+
+01:15:02.960 --> 01:15:08.640
+[Guest]: were, because, again, that method document was also opaque. I just don't get the motive that,
+
+01:15:08.640 --> 01:15:13.760
+[Guest]: you know, you're a statistical agency, all you do, like all statistical agencies in all countries is
+
+01:15:13.760 --> 01:15:18.320
+[Guest]: you follow a method, you try to improve, you come up with a number, it's a statistical process.
+
+01:15:18.320 --> 01:15:25.680
+[Guest]: But what's this obsession with defending a number, instead of just saying, this is what it is,
+
+01:15:25.680 --> 01:15:28.240
+[Guest]: this is a method, this is the data, figure it out for yourself.
+
+01:15:28.240 --> 01:15:31.520
+[Amit Varma]: So I'll ask a very, I mean, forgive me if this is too much of a newbie question.
+
+01:15:31.520 --> 01:15:36.960
+[Amit Varma]: I get why the state needs to know what the GDP is, because it's doing whatever economic planning it
+
+01:15:36.960 --> 01:15:40.080
+[Amit Varma]: is doing, though there could be an argument, it should do much less of it and just do the
+
+01:15:40.080 --> 01:15:45.680
+[Amit Varma]: basic things that it's supposed to do, like maintain the rule of law. And I get why political
+
+01:15:45.680 --> 01:15:50.640
+[Amit Varma]: parties need to know the GDP, because they want to make it part of their campaigns and the government
+
+01:15:50.640 --> 01:15:54.400
+[Amit Varma]: needs it for the optics of we are doing such a good job, the opposition needs it for the opposite
+
+01:15:54.400 --> 01:16:00.240
+[Amit Varma]: reason. But why do you and I, why do people in the actual regular participants in the actual
+
+01:16:00.240 --> 01:16:03.440
+[Amit Varma]: regular economy need to know what the GDP is? Why is it important?
+
+01:16:03.440 --> 01:16:08.960
+[Guest]: So the answer to that question is we don't need to know. You know, I mean, your life or my life,
+
+01:16:08.960 --> 01:16:13.440
+[Guest]: we won't be any worse off and nothing will be taken away from our life if we don't know how
+
+01:16:13.440 --> 01:16:17.360
+[Guest]: Indian GDP growth is doing. I mean, if I come to think of it before the internet age,
+
+01:16:18.000 --> 01:16:22.160
+[Guest]: did people really know about how India is doing and what's the growth rate? No. I mean, because
+
+01:16:22.160 --> 01:16:26.880
+[Guest]: I think because of the internet age, because communication has become such a commodity today,
+
+01:16:26.880 --> 01:16:31.520
+[Guest]: that everybody starts taking interest in this one number in this GDP growth without even thinking
+
+01:16:31.520 --> 01:16:36.720
+[Guest]: why do we need to bother about it? I mean, it's another thing that newspapers are or media or
+
+01:16:36.720 --> 01:16:40.880
+[Guest]: whatever, they discuss it, because they want to question the government, which is perfectly fine
+
+01:16:40.880 --> 01:16:46.160
+[Guest]: in good faith. But is it really necessary to take the debate to this extent and make such a big deal
+
+01:16:46.160 --> 01:16:50.400
+[Guest]: of it? I don't think so. I think if there are economists or statisticians who know what they're
+
+01:16:50.400 --> 01:16:54.160
+[Guest]: talking about, and they are questioning the statistical agency, it should just remain between
+
+01:16:54.160 --> 01:16:59.520
+[Guest]: them. And end of the day, we should not give so much importance to GDP. I think what has happened
+
+01:16:59.520 --> 01:17:05.280
+[Guest]: over the last five years is we have given excessive importance to a number which is produced
+
+01:17:05.280 --> 01:17:11.680
+[Guest]: in a weak state capacity environment, and attempt to be consistent with international guidelines.
+
+01:17:11.680 --> 01:17:18.080
+[Guest]: But we have just given it this holy grail notion, or in other words, we have basically made a cult
+
+01:17:18.080 --> 01:17:23.280
+[Guest]: out of GDP. And therefore, the entire debate policy discussion just rotates around that number.
+
+01:17:23.280 --> 01:17:27.520
+[Guest]: It really doesn't have to be that exactly as you said, your life, my life doesn't change at all,
+
+01:17:27.520 --> 01:17:31.760
+[Guest]: if you don't know how the country is doing, and it's perfectly fine. But I think the debate should
+
+01:17:31.760 --> 01:17:36.880
+[Guest]: remain within the people who know what they're talking about, and should not become this popular
+
+01:17:36.880 --> 01:17:42.960
+[Guest]: debate. Because it is really a very complicated concept. And I would much rather it stays so,
+
+01:17:42.960 --> 01:17:48.960
+[Guest]: because otherwise, we end up assigning too much importance to an obscure, artificial number. And
+
+01:17:48.960 --> 01:17:53.520
+[Guest]: then you just lose the narrative, because then the focus is not on fixing the problems,
+
+01:17:53.520 --> 01:17:58.240
+[Guest]: the focus is defending, saying no, no, no, everything is fine. The focus all throughout
+
+01:17:58.240 --> 01:18:02.640
+[Guest]: the last four years should have been either acknowledging that there are some issues,
+
+01:18:02.640 --> 01:18:06.640
+[Guest]: fixing the problems, and all that the public gets to know is, yeah, the number has changed,
+
+01:18:06.640 --> 01:18:08.560
+[Guest]: and some other number has come out. So what big deal.
+
+01:18:09.520 --> 01:18:12.880
+[Amit Varma]: On the one hand, as we discussed earlier, it's a very nebulous number, like another
+
+01:18:12.880 --> 01:18:17.040
+[Amit Varma]: measure of that, which I was hearing about recently is that, you know, the states all
+
+01:18:17.040 --> 01:18:21.600
+[Amit Varma]: measure their own GDP as well. And when you put them all together, it doesn't add up to what the
+
+01:18:21.600 --> 01:18:26.320
+[Amit Varma]: India GDP is. Or if you measure the India GDP, you know, through a different approach, you said
+
+01:18:26.320 --> 01:18:31.520
+[Amit Varma]: there are three approaches, production, expenditure, so on, even those don't add up to each other. So
+
+01:18:31.520 --> 01:18:36.480
+[Amit Varma]: it's a very nebulous number. And we need to recognize that. But also the counter view to
+
+01:18:36.480 --> 01:18:41.680
+[Amit Varma]: that which strikes me is that in a democracy, especially a democracy, which you could argue
+
+01:18:41.680 --> 01:18:47.360
+[Amit Varma]: is going through turbulent times as ours might be, in a democracy, you need to hold you need to speak
+
+01:18:47.360 --> 01:18:52.720
+[Amit Varma]: truth to power, and you need to hold it accountable. And you need a metric for that to judge
+
+01:18:52.720 --> 01:18:58.720
+[Amit Varma]: how it is performing. For example, you know, it is plain common sense. And we see it all around
+
+01:18:58.720 --> 01:19:04.880
+[Amit Varma]: us that demonetization was an absolute disaster. But if they are throwing a GDP number at us,
+
+01:19:04.880 --> 01:19:10.000
+[Amit Varma]: which doesn't really indicate that you need a way to fight that and argue that and which is why
+
+01:19:10.960 --> 01:19:15.120
+[Amit Varma]: the counter view to this whole thing of you know, that GDP should not be a political issue
+
+01:19:15.920 --> 01:19:20.640
+[Amit Varma]: would be that because it is the metric out there of our government is performing in an economic
+
+01:19:20.640 --> 01:19:25.040
+[Guest]: context, it has to be a political issue. So the two ways to address what you're saying,
+
+01:19:25.040 --> 01:19:29.760
+[Guest]: and I completely agree with what you're saying to see, it's like, think of an example where if
+
+01:19:29.760 --> 01:19:36.240
+[Guest]: you tell students in a school or university that all that matters is your rank in class and your
+
+01:19:36.240 --> 01:19:41.600
+[Guest]: grades, and nothing else, then the students will try by hook or by crook by cheating by gaming,
+
+01:19:41.600 --> 01:19:46.000
+[Guest]: whatever it is, to get the high rank and to get get up the grades, which is exactly what countries
+
+01:19:46.000 --> 01:19:49.840
+[Guest]: are doing today. I mean, countries like ours or other countries that all that matters is the
+
+01:19:49.840 --> 01:19:54.640
+[Guest]: number and the growth rate and we will try to do whatever it takes. We'll game the system and get
+
+01:19:54.640 --> 01:19:58.480
+[Guest]: the growth rate up. There is a saying that if you can measure something, you can control it.
+
+01:19:59.120 --> 01:20:02.480
+[Guest]: So that's exactly what governments and it's not just our government, whatever, not government,
+
+01:20:02.480 --> 01:20:07.120
+[Guest]: but our country. It is happening in Greece, in Argentina, many, many other countries.
+
+01:20:07.120 --> 01:20:12.000
+[Guest]: But the thing is, if you want to hold the government or the system accountable on the
+
+01:20:12.000 --> 01:20:17.200
+[Guest]: basis of one number, that majority of the people don't even understand, then I think it's a very
+
+01:20:17.200 --> 01:20:22.080
+[Guest]: problematic scenario. I would much rather say that, and especially when it doesn't affect your
+
+01:20:22.080 --> 01:20:25.840
+[Guest]: day to day life. I mean, look at it this way, demonetization happened. Did anything show in
+
+01:20:25.840 --> 01:20:30.080
+[Guest]: the GDP? No. Is it just a function of flawed methodology or is it the case that really
+
+01:20:30.080 --> 01:20:35.840
+[Guest]: nothing happened? We don't know. So that metric itself is not a perfect measure of what you want
+
+01:20:35.840 --> 01:20:41.920
+[Guest]: to measure. And in a flawed metric, which is complicated and all of that, would you want to
+
+01:20:41.920 --> 01:20:47.360
+[Guest]: use that to hold the government accountable? As opposed to, let's say, for example, is jobs a
+
+01:20:47.360 --> 01:20:52.240
+[Guest]: better metric? Because jobs is something that does affect you and I. Today you and I would care about
+
+01:20:52.240 --> 01:20:56.240
+[Guest]: the fact, do we have a job? Do we have an income? That's something that immediately affects us.
+
+01:20:56.240 --> 01:21:00.080
+[Guest]: I would much rather be in a situation where I can hold the government accountable for the jobs,
+
+01:21:00.080 --> 01:21:03.920
+[Guest]: or not just the government, even the markets, whoever it is, right? That if the unemployment
+
+01:21:03.920 --> 01:21:10.080
+[Guest]: rate, or I call the non-employment rate, because non-employment also measures people who are not
+
+01:21:10.080 --> 01:21:15.760
+[Guest]: even looking for jobs. The situation has become so desperate that you're not even out there searching
+
+01:21:15.760 --> 01:21:20.800
+[Guest]: for a job. So I would much rather that that kind of a measure, that kind of a metric for an emerging
+
+01:21:20.800 --> 01:21:27.040
+[Guest]: country like India, is perhaps much more important. And it's relatively harder to fudge because people
+
+01:21:27.040 --> 01:21:31.600
+[Guest]: in their day-to-day lives can observe whether they have jobs or not. And we do an extremely
+
+01:21:31.600 --> 01:21:36.320
+[Guest]: poor measure of unemployment rate. I think there should have been a lot more discussion about
+
+01:21:36.320 --> 01:21:41.360
+[Guest]: improving unemployment or non-employment measures, as opposed to improving GDP measures,
+
+01:21:41.360 --> 01:21:46.160
+[Guest]: because it's a very, very abstract notion as opposed to jobs. But you'll see there's not much
+
+01:21:46.160 --> 01:21:52.480
+[Guest]: of a, other than the government withdrawing, not basically withholding that report, we don't see
+
+01:21:52.480 --> 01:21:57.600
+[Guest]: a lot of discussion in general about jobs and unemployment. It has become a recent fashion
+
+01:21:57.600 --> 01:22:02.400
+[Guest]: because of this withdrawal of the report and the Centre for Monitoring Indian Economy coming up
+
+01:22:02.400 --> 01:22:07.760
+[Guest]: with very high unemployment numbers. I think that needs a lot more focus. And if people really want
+
+01:22:07.760 --> 01:22:12.080
+[Guest]: to question something and really want to hold the government accountable for something, maybe that's
+
+01:22:12.080 --> 01:22:18.480
+[Guest]: that's it. Otherwise, I think if you pay too much emphasis on this one GDP number, it is very easy
+
+01:22:18.480 --> 01:22:22.640
+[Guest]: for the statistical agency to say, oh, we have done everything right. And what can you do after
+
+01:22:22.640 --> 01:22:27.760
+[Guest]: that? As I said, we are at an impasse. You know, it's been four years since the series came out.
+
+01:22:27.760 --> 01:22:30.960
+[Guest]: Have we achieved anything by holding the government accountable? Nothing. In fact,
+
+01:22:30.960 --> 01:22:35.760
+[Guest]: they are just doing more egregious things, like, as I said, releasing a back series and all of
+
+01:22:35.760 --> 01:22:39.760
+[Guest]: those things. Maybe we'll have another base year revision coming up, which can increase the growth
+
+01:22:39.760 --> 01:22:44.880
+[Guest]: rate even more. What can we really do? I mean, despite the noise that that has been created,
+
+01:22:44.880 --> 01:22:48.960
+[Guest]: the statistical agencies say, oh, we are perfect. We are following the international standards.
+
+01:22:48.960 --> 01:22:54.000
+[Guest]: This is the rate at which the economy is growing, as opposed to saying, let's get down to measuring
+
+01:22:54.000 --> 01:22:57.920
+[Guest]: unemployment or the job situation, because you look around and you see your friends don't have
+
+01:22:57.920 --> 01:23:02.800
+[Guest]: jobs. The salaries are not increasing commensurately with the growth or whatever inflation
+
+01:23:02.800 --> 01:23:09.040
+[Guest]: it is. That's something or not just jobs. Look at multiple things. Again, instead of holding the
+
+01:23:09.040 --> 01:23:13.200
+[Guest]: government accountable for one thing, you hold the government accountable for a few other things.
+
+01:23:13.200 --> 01:23:17.920
+[Guest]: If you want to talk about welfare, should India just measure its performance in terms of GDP
+
+01:23:17.920 --> 01:23:22.560
+[Guest]: growth? We may be the fastest growing country in the world, but we do so poorly in all the
+
+01:23:22.560 --> 01:23:27.040
+[Amit Varma]: other metrics of development, environment, climate change, etc. Like one of the alternative metrics,
+
+01:23:27.040 --> 01:23:31.200
+[Amit Varma]: which came up a couple of decades ago is the HDI, the Human Development Index, where again,
+
+01:23:31.200 --> 01:23:34.560
+[Amit Varma]: we don't do so well. And many economists have proposed that you don't look at the GDP,
+
+01:23:34.560 --> 01:23:38.960
+[Amit Varma]: you have a dashboard of metrics. And you know, you were speaking earlier of common sense metrics.
+
+01:23:38.960 --> 01:23:44.960
+[Amit Varma]: And I remember Donald Reagan's 1984 political campaign, where he basically asked the American
+
+01:23:44.960 --> 01:23:49.120
+[Amit Varma]: people to ask themselves one question, am I better off now than I was four years ago,
+
+01:23:49.120 --> 01:23:52.880
+[Amit Varma]: because he was fighting for re-election. And the thing is, if you ask the Indian voter for that,
+
+01:23:52.880 --> 01:23:58.880
+[Amit Varma]: that's a very nebulous question. Because number one, he may feel more at ease with a particular
+
+01:23:58.880 --> 01:24:04.080
+[Amit Varma]: sort of cultural narrative, even if he is not physically better off. Secondly, and this is
+
+01:24:04.080 --> 01:24:08.320
+[Amit Varma]: an objection which permeates through every single metric, what are the counterfactuals?
+
+01:24:08.320 --> 01:24:12.560
+[Amit Varma]: You know, if the labor laws were reformed, would he be much better off? That is just such a,
+
+01:24:12.560 --> 01:24:15.600
+[Amit Varma]: you know, I mean, how on earth do you measure something like that? You simply don't know the
+
+01:24:15.600 --> 01:24:22.480
+[Amit Varma]: counterfactuals. And that could really apply to, you know, any of all this. And therefore,
+
+01:24:22.480 --> 01:24:26.240
+[Amit Varma]: when it comes to something like the GDP, which is such a complicated number, like you put it,
+
+01:24:26.240 --> 01:24:29.600
+[Amit Varma]: essentially, I think what is going to happen is people are going to believe what they want to
+
+01:24:29.600 --> 01:24:32.480
+[Amit Varma]: believe, they're going to go with the narrative they want to believe, it's essentially going to
+
+01:24:32.480 --> 01:24:37.360
+[Amit Varma]: be tribal, where someone who supports the Prime Minister Modi will say, oh, the GDP is doing great
+
+01:24:37.360 --> 01:24:41.920
+[Amit Varma]: and the other side will say it's not. And it's ultimately a tribal decision and not a rational,
+
+01:24:41.920 --> 01:24:46.640
+[Amit Varma]: mathematical one. So my question to you now turning away from all of this, turning away from
+
+01:24:46.640 --> 01:24:52.480
+[Amit Varma]: the politicization of GDP and all of that, is that as an economist, and in your case, as an economist
+
+01:24:52.480 --> 01:24:59.200
+[Amit Varma]: who's written a lot on the GDP, and, you know, you are a sort of an expert on it, how do you now look
+
+01:24:59.200 --> 01:25:05.840
+[Amit Varma]: at where we are today? Like, if it's a completely useless metric, how do we move forward from here?
+
+01:25:05.840 --> 01:25:10.080
+[Amit Varma]: Is there any way past this? Or is it just basically, you know, given that the methodology is
+
+01:25:10.080 --> 01:25:14.720
+[Amit Varma]: now opaque, and given what the incentives are, is it just a completely nonsense figure, which you
+
+01:25:14.720 --> 01:25:20.320
+[Guest]: have to ignore as an economist? That's, that's exactly the question that I've been grappling
+
+01:25:20.320 --> 01:25:26.160
+[Guest]: with Amit for the last several, several months, if not a couple of years, is that as an economist,
+
+01:25:26.160 --> 01:25:31.120
+[Guest]: and especially as a macroeconomist, where my bread and butter, or my passion, so to speak,
+
+01:25:31.120 --> 01:25:36.000
+[Guest]: it depends a lot on using GDP as a statistic, because I'm an applied economist, is what do I
+
+01:25:36.000 --> 01:25:41.200
+[Guest]: do? What research do I do? Where do we go from here? And I have come to the conclusion myself
+
+01:25:41.200 --> 01:25:48.240
+[Guest]: that we cannot use the GDP number in our research, in our policy debates, in public discussions,
+
+01:25:48.240 --> 01:25:53.440
+[Guest]: because simply, A, B, or at least I, from whatever research I have done shows there are problems.
+
+01:25:54.240 --> 01:25:57.760
+[Guest]: And it's very difficult to trust that number unless the problems get fixed, or unless the
+
+01:25:57.760 --> 01:26:02.960
+[Guest]: statistical agency openly comes out about the caveats and qualifications. It is very hard. And
+
+01:26:02.960 --> 01:26:07.920
+[Guest]: where do we go from here? I would say, as you pointed out, dashboard of indicators that I think
+
+01:26:07.920 --> 01:26:11.840
+[Guest]: people are already looking at a bunch of indicators to get a sense of how the economy is doing.
+
+01:26:11.840 --> 01:26:14.160
+[Amit Varma]: The thing is, even those can be gamed eventually.
+
+01:26:14.160 --> 01:26:17.520
+[Guest]: Those can be gamed. But essentially, at that point, you just have to say that,
+
+01:26:17.520 --> 01:26:21.920
+[Guest]: you know, we are at a situation where we can't get a sense of how the economy is doing.
+
+01:26:21.920 --> 01:26:26.080
+[Guest]: I mean, the extreme pessimistic scenario, I would say, if you ask me how the Indian economy is
+
+01:26:26.080 --> 01:26:30.720
+[Guest]: doing, my answer would be as an economist, I don't know, because I have no way of measuring
+
+01:26:30.720 --> 01:26:35.840
+[Guest]: and assessing the performance. If I can't trust the national number, that's GDP. And if some of
+
+01:26:35.840 --> 01:26:39.840
+[Guest]: the indicators are also extremely volatile, because they fluctuate a lot. I have basically
+
+01:26:39.840 --> 01:26:44.720
+[Amit Varma]: no way of... And your point is that because the data which goes into all of this is so complicated,
+
+01:26:44.720 --> 01:26:48.800
+[Amit Varma]: it's really not possible for independent economists to sit down and come up with their
+
+01:26:48.800 --> 01:26:53.680
+[Guest]: own number. I mean, basically, a lot of attempts can be made using disaggregated information. So
+
+01:26:53.680 --> 01:26:58.240
+[Guest]: for example, if you collect household level data, or if you collect firm level data,
+
+01:26:58.240 --> 01:27:03.600
+[Guest]: you can assess sector wise performance. So you can get a sense of how the corporate India is
+
+01:27:03.600 --> 01:27:08.720
+[Guest]: performing, you can get a sense of how households are consuming, saving, etc. You can get a
+
+01:27:08.720 --> 01:27:13.200
+[Guest]: disaggregated picture. And then maybe you can just try to put things together in your mind and say,
+
+01:27:13.200 --> 01:27:18.720
+[Guest]: okay, this is roughly what the economy is doing. But it's very, very difficult to get a comprehensive
+
+01:27:18.720 --> 01:27:23.680
+[Guest]: view saying, oh, is economy is in a, what we call technically a recession, or an expansion meaning
+
+01:27:23.680 --> 01:27:28.800
+[Guest]: is it is it slowing down? Or is it accelerating? It's just very hard to say at this point of time.
+
+01:27:28.800 --> 01:27:34.400
+[Guest]: So I would say going forward, it's, it's a dark phase for, especially macroeconomists, you have
+
+01:27:34.400 --> 01:27:40.080
+[Guest]: to basically bank on non GDP, non performance related stuff. And you can't say anything about
+
+01:27:40.080 --> 01:27:44.240
+[Amit Varma]: the performance of the country. Can't. That's horrendously sad and depressing.
+
+01:27:44.240 --> 01:27:49.200
+[Amit Varma]: Let's, you know, before we end the episode, let's kind of take a step back out of India and go back
+
+01:27:49.200 --> 01:27:54.640
+[Amit Varma]: to the overall concept of the GDP per se. And again, it seems to me that just as a measure of
+
+01:27:54.640 --> 01:28:00.240
+[Amit Varma]: progress is very inadequate. You know, there's the example of the 1836, the world's richest guy dies
+
+01:28:00.240 --> 01:28:04.800
+[Amit Varma]: because he doesn't have an antibiotic. Just looking at my own life, you know, like when I was
+
+01:28:04.800 --> 01:28:11.520
+[Amit Varma]: growing up in the 80s and early 90s, you know, we had so little access to music, I remember how much
+
+01:28:11.520 --> 01:28:16.080
+[Amit Varma]: I would feel enriched if I managed to get together a mixtape from somewhere of music that was
+
+01:28:16.080 --> 01:28:21.200
+[Amit Varma]: otherwise not available in India. And today we can go to Amazon Prime or Google Play or Spotify and
+
+01:28:21.200 --> 01:28:26.320
+[Amit Varma]: press play and everything in the world is available to us. And we are hardly paying anything for it.
+
+01:28:26.320 --> 01:28:31.520
+[Amit Varma]: And the value that has been added to my life by technology in the last 20 years cannot possibly
+
+01:28:31.520 --> 01:28:37.440
+[Amit Varma]: be calculated. And none of it is because of the bloody status despite the state. You know, so
+
+01:28:38.800 --> 01:28:42.880
+[Guest]: if I can interrupt there. So one question, and again, I don't know the right answer to this,
+
+01:28:42.880 --> 01:28:48.080
+[Guest]: but it's something that I am questioning myself that how much do we really need to measure these
+
+01:28:48.080 --> 01:28:53.280
+[Guest]: things? Exactly. I mean, in the sense, yeah, there are many intrinsic implicit improvements happening
+
+01:28:53.280 --> 01:28:58.160
+[Guest]: in my life because of the day and age, because of access to better quality products and better
+
+01:28:58.160 --> 01:29:04.800
+[Guest]: quality services. But do we really need to measure all of these in an aggregative number? Or do we
+
+01:29:04.800 --> 01:29:09.200
+[Guest]: not? I mean, are we just are we just satisfied with saying, okay, there is this part of the economy
+
+01:29:09.200 --> 01:29:14.160
+[Guest]: that we can measure goods and services, physical, whatever it is, and we just start satisfied with
+
+01:29:14.160 --> 01:29:18.320
+[Guest]: that number, because it gives some idea of where the economy is going. You know, there's a saying
+
+01:29:18.320 --> 01:29:24.160
+[Guest]: that it is very hard to feed the soul when your stomach is empty. So there is some value in having
+
+01:29:24.160 --> 01:29:30.000
+[Guest]: that physical or whatever this GDP notion as well, if properly measured to show how the economy is
+
+01:29:30.000 --> 01:29:34.160
+[Guest]: performing over time. And yeah, there are shortcomings environmental where all of these
+
+01:29:34.160 --> 01:29:38.880
+[Guest]: things that that we have discussed, but maybe you come up with other measures, you know, there is a
+
+01:29:38.880 --> 01:29:43.520
+[Guest]: Human Development Index, where you can at least measure some life expectancy or literacy rate,
+
+01:29:43.520 --> 01:29:48.080
+[Guest]: or you figure out which cities are worth living in, you know, all of these rankings that come up
+
+01:29:48.080 --> 01:29:53.200
+[Guest]: with multiple, multiple things with their own flaws, etc. But do you really need a comprehensive
+
+01:29:53.200 --> 01:29:57.520
+[Guest]: measure of quality of life? Is it really necessary? I'm not so sure at this point of time, it's just
+
+01:29:57.520 --> 01:30:01.840
+[Guest]: that it's so difficult to measure. And something which is difficult to measure, do you really want
+
+01:30:01.840 --> 01:30:07.760
+[Guest]: to put resources of a state which is already struggling with weak state capacity? Do you
+
+01:30:07.760 --> 01:30:13.040
+[Guest]: really want to put the resources to do something like that? I'm not so sure. Or is it that the case
+
+01:30:13.040 --> 01:30:17.920
+[Guest]: that countries like the US, Australia, Canada, which have already achieved a very high per capita
+
+01:30:17.920 --> 01:30:22.640
+[Guest]: level of income, they should stop worrying about GDP growth, because they've already achieved that
+
+01:30:22.640 --> 01:30:28.960
+[Guest]: level. And they have the luxury of now coming up with all of these other things. And at some point
+
+01:30:28.960 --> 01:30:34.080
+[Guest]: of time, when we have crossed all our major obstacles, then maybe we can figure out whether
+
+01:30:34.080 --> 01:30:38.000
+[Guest]: we can do that or not. Again, these are just questions, I don't have the right answers. But
+
+01:30:38.000 --> 01:30:44.080
+[Guest]: it's worth also asking ourselves, how much I'm all for economic measurement. But how much do you
+
+01:30:44.080 --> 01:30:49.120
+[Guest]: really want to measure, knowing that all the measurements will be perfect? These are very wise
+
+01:30:49.120 --> 01:30:53.840
+[Amit Varma]: words. So basically, what you're saying, correct me if I'm wrong, is that the GDP is a very flawed
+
+01:30:53.840 --> 01:30:58.960
+[Amit Varma]: measure. And while we can tweak it and do this and that, there's really no need to look for a
+
+01:30:58.960 --> 01:31:03.280
+[Amit Varma]: better measure than that. Because why measure all of these things, just go to Google Play,
+
+01:31:03.280 --> 01:31:06.480
+[Amit Varma]: press play, enjoy the music, right? That's absolutely the thing. I shouldn't have said
+
+01:31:06.480 --> 01:31:10.640
+[Amit Varma]: that because I don't even sponsor it. And it's like a random plug that I'm giving, go to Amazon
+
+01:31:10.640 --> 01:31:15.280
+[Guest]: Prime. Yeah, sometimes I think we should just, you know, as I said, relax a little bit, not
+
+01:31:15.280 --> 01:31:20.000
+[Guest]: overthink, not overthink it. As I said, I keep saying the same thing. You have weak state capacity
+
+01:31:20.000 --> 01:31:23.520
+[Guest]: do not attach so much importance to a number that is coming out of the state agencies.
+
+01:31:24.080 --> 01:31:28.080
+[Guest]: It is what it is. Yeah, there are debates that economists and statisticians will do it.
+
+01:31:28.080 --> 01:31:32.240
+[Guest]: But do the common public really need to get so involved in it when they don't even understand
+
+01:31:32.240 --> 01:31:36.800
+[Guest]: what it is and it doesn't affect their daily life? Perhaps not. So I think if the debate
+
+01:31:36.800 --> 01:31:44.480
+[Guest]: gets a little bit more confined and the emphasis is put on fixing things and improving things
+
+01:31:44.480 --> 01:31:49.840
+[Guest]: and moving on, it will probably be better rather than sensationalizing it. And as far as alternative
+
+01:31:49.840 --> 01:31:54.000
+[Guest]: measures are concerned, I think this debate is going to be continuing because it's coming up
+
+01:31:54.000 --> 01:31:57.440
+[Guest]: from the developed countries and anything that starts in the developed countries will continue
+
+01:31:57.440 --> 01:32:03.360
+[Guest]: for a very long time. So I think till they figure out in their peace of mind, what are the alternative
+
+01:32:03.360 --> 01:32:08.000
+[Guest]: measures or what are the supplementary measures? It's too premature for us to get into that debate
+
+01:32:08.000 --> 01:32:12.800
+[Amit Varma]: because we haven't even fixed our main basic thing. Rajeshwari, I understand GDP so much
+
+01:32:12.800 --> 01:32:16.240
+[Amit Varma]: better now that I've spoken to you. Thanks so much for coming on the show. Thank you so much.
+
+01:32:16.240 --> 01:32:22.480
+[Amit Varma]: My pleasure. If you enjoyed listening to this episode, you can follow Rajeshwari on Twitter
+
+01:32:22.480 --> 01:32:28.560
+[Amit Varma]: at wait a minute, you can't she's not on Twitter. And that's a secret of a wild productivity. I,
+
+01:32:28.560 --> 01:32:33.920
+[Amit Varma]: however, am not nearly as productive. You can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A.
+
+01:32:33.920 --> 01:32:38.800
+[Amit Varma]: You can browse past episodes of The Seen and the Unseen at seenunseen.in, thinkpragati.com and
+
+01:32:38.800 --> 01:32:43.360
+[Amit Varma]: ivmpodcast.com. The Seen and the Unseen is supported by the Takshashila Institution,
+
+01:32:43.360 --> 01:32:48.080
+[Amit Varma]: an independent center for research in education and public policy. Takshashila offers 12-week
+
+01:32:48.080 --> 01:32:53.200
+[Amit Varma]: courses in public policy, technology policy and strategic studies for both full-time students
+
+01:32:53.200 --> 01:33:20.160
+[Unknown]: and working professionals. Visit takshashila.org.in for more details. Thank you for listening.
+
+01:33:23.200 --> 01:33:52.160
+[Unknown]: Transcribed by https://otter.ai
+
+01:33:54.000 --> 01:33:58.800
+[Unknown]: Hi, my name is Anupam Gupta. I'm B-50 on Twitter. I am the host of Pesa Pesa,
+
+01:33:58.800 --> 01:34:05.280
+[Unknown]: the show that talks money. On my show, I speak to experts from every field of money and finance,
+
+01:34:05.280 --> 01:34:10.160
+[Unknown]: from stock markets, equities, debt funds, credit cards, life insurance,
+
+01:34:10.160 --> 01:34:15.600
+[Unknown]: every possible area of money and finance that you can think of. We even did an episode on
+
+01:34:15.600 --> 01:34:21.120
+[Unknown]: cryptocurrency. I've got fantastic guests from mutual funds to personal finance experts everywhere,
+
+01:34:21.120 --> 01:34:26.640
+[Unknown]: robo-admin startups, just name it, we've got it. At Pesa Pesa, we help you make smart decisions
+
+01:34:26.640 --> 01:34:32.480
+[Unknown]: about money. You work hard for money, now make your money work hard for you. New episodes out
+
+01:34:32.480 --> 01:34:38.240
+[Unknown]: every Monday and you can listen to my show on the IVM podcast app or any other podcasting
+
+01:34:38.240 --> 01:34:51.680
+[Unknown]: app that you have. Pesa Pesa is brought to you by Paytm Money.
+

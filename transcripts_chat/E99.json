@@ -1,0 +1,717 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "I.V.M. I.V.M. I.V.M. I.V.M."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:13.440",
+        "message": "Welcome to The Scene and the Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:24.080",
+        "message": "Welcome to The Scene and the Unseen. In recent years, we've seen the rise of populist authoritarians across the world. Trump in the US, Erdogan in Turkey, Orban in Hungary, Modi in India. What do they have in common? Well, the author Jean-Werner Muller wrote a book a couple of years ago where he pointed out a number of things that populists tend to have in common. I wrote a column on the book for the Times of India, which is linked on the page for this episode. One of the things he pointed out is that populists tend to try and consolidate their power by undermining the rules and institutions that otherwise act as a check on them. These rules and institutions are the subject of our show today. My guest on the show is Amaya Naik, who is a lawyer and policy analyst, a graduate of the Fletcher School of Law and Diplomacy and a former research scholar of the Takshashila Institution. He also writes regularly for the magazine I edit, Pragati, at thinkpragati.com and is one expert in foreign policy I have a lot of time for. But before I get to my conversation with him, let's take a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to Indiancolors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price. And artists get royalties on sales just like authors do. What's more, Indian Colors now has an exciting range of new products including fridge magnets with some stunning motifs and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Wazvoo x Wazvoo, Brinda Miller, Dilip Sharma, Shruti Nelson and Pradeep Mishra. They accept bulk orders for corporate and festival gifting. But even if you want to buy just for yourself or a friend, head on over to Indiancolors.com. That's colors with an OU. And if you want a 20% discount, apply the code IVM20. That's IVM for IVM podcast. IVM20 for a 20% discount at Indiancolors.com. Ameya, welcome to the scene and the unseen. Hi Amit, it's good to be here. Ameya, if you know if you ask young kids at the age of 10, what do you want to be when you grow up and they'll say all kinds of things, you know, they want to be astronauts or they want to be rock stars or they want to be even engineers or doctors if they're too influenced by their parents. Very few people kids say hey, I want to grow up and be a policy analyst and I want to specialize in international relations. How did you get into all this? So if you asked me at 10, I'm guessing my"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:00.380",
+        "message": "answer would have been something like I want to be a lawyer. And you are a lawyer. And I did I did go to law school. I'm a lapsed lawyer. I've never practiced in part because the kind of law I specialize in is public international law, which means not people but states are parties. I guess I read a lot of like, it's like thrillers, but more about negotiation and diplomacy than about spies and shooting. That was one part of it. So like not John le Carre, but Morgenthau. Yeah, there's fiction to be had in the diplomacy space as well. I did a bunch of like debates and model UNs and things in school and I remember just being you know, the experience of playing diplomat for a day was fascinating enough that I was like, this might be what I actually want to do with my life. In India, that's not necessarily the easiest thing to do because you sort of have exactly one professional path, which is get into the foreign services. And so I sort of spent college and law school trying to do that and didn't quite make it and then had to look around and be like, okay, so now if I want to study this professionally and find other ways and other places to do it, how do I go about that? And you know, that's where an international law focus and sort of policy analysis of the field grows in."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:18.740",
+        "message": "And you know, when you started studying, say, international relations and international law and so on and so forth, and you look through the last from the time India has been independent and all of that, what are the kind of coherent themes or strands that emerge?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:33.820",
+        "message": "Well, especially given the episode we're going to do this, there's obviously a strand around the development of a liberal institutional order, especially post World War Two, you really can't escape nuclear non proliferation and disarmament as a theme. And it's a big one both in its successes and its failures. You know, if you want the jargon term for it hegemonic transition is the third one. So how the US rises from the ashes of the British Empire. Superbook, you can read about this, by the way, it's called Safe Passage by Corey Shawkey on precisely the peaceful transition of power from the British to the United States peaceful within quarts because you know, World Wars, and now potentially with China rising, what might the next hegemonic transition look like?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:20.660",
+        "message": "And you know, what we're talking about, obviously, is a sort of in a sense impelled by the rise of authoritarian leaders, like Trump and Orban and Erdogan, and to some extent, Modi and I'd once written a column last year about populism, which looked at John Werner Muller's book about populism, and he identified seven or eight things that populist leaders had in common. And one of them, which all of these people we named have have in common is that they immediately start attacking and eroding institutions. And it's almost as if you know, guys like Trump believe that democracy is all about elections. And that's it, you win that particular beauty contest, and you're king for five years and nothing else matters. But actually, democracy is a lot more than that, as much as the act of the people expressing themselves through voting. It's the you know, the rules and institutions matter a great deal. Why is that? How did this understanding evolved at rules and institutions matter? How do we design a system of government?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:20.740",
+        "message": "It's a great question. First of all, you're absolutely right that democracy is a lot more than just voting. Voting is a lot more than just voting. There's a whole bunch of systems around on, you know, who gets to vote and how much each vote counts for and how the votes are counted. Public choice theory. Whether it's machines doing them or humans and so on and so forth. None of those are trivial decisions. But zoom out to sort of the big philosophical question, right? In a sense, what you're asking is, do we need governments? And why do we need them? And I would say, yes, we need them. And we need them because there are a set of problems that individuals acting in their own best self interest, unfortunately, are not able to solve."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:59.420",
+        "message": "I think we all kind of agree that we need them. But then the question is, how do they evolve? And how can they be designed?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:05.580",
+        "message": "You know, if you take as a given that basically, the goal of a government is to solve collective action problems, right? It's to solve situations where each individual person finds themselves in what you know, what game theory would call a prisoner's dilemma. If everybody cooperates, you're going to do better. But really, you have a higher payoff right now for defecting rather than cooperating. So again, phenomenal book you can read. This one's old. It's by Robert Axelrod. It's called the evolution of cooperation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:32.140",
+        "message": "Evolution of cooperation. One of my favorite books and one of my recent guests, Matt Ridley talks about as well. And Ridley, in fact, was I did a recent episode with him where he was talking about the evolution of government. And he said that all governments or the state essentially first began as a protection racket. And then they evolved to other things. So what you're talking about, you know, all this collective action and looking after rights as classical liberals would say and all that is kind of post facto rationalizations. It begin as protection rackets. And then we've, you know, figured out how do we rationalize it and then how do we bring it under control? I mean, one of the great dilemmas of any society is that you want the government to serve the society instead of the other way around."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:13.860",
+        "message": "That's exactly right. So this is a famous school in political science and political theory, right? Best developed by Charles Tilley in politics and Mancur Olson in economics. Tilley's essay is famously war making and state making as organized crime. And it's right. It's sort of the function that it served was, hey, I'm a feudal lord. I'm going to stop other feudal lords from raising you. And Olson's book, in fact, was called Stationery Bandits. Exactly. But let's make a distinction here between sort of the historical reason that governments evolve. Absolutely. And the theoretical function that rules or institutions serve, right? And so on the latter on the on the theoretical function that they serve, it is precisely that if you let the guy in power do whatever he or she wants, then that person is going to do things that are good for them and not necessarily for the people in whose interest they are supposed to be acting. And the reason that Axelrod's work is just so defining of the field is because he shows that if you actually play out that game and by the way, he did this by mailing a version of that game to a bunch of people and asking them to play it. There is a clear superior strategy that emerges. That strategy is what he calls nice tit for tat. Right? Start by assuming the other guy will play by the rules. If they don't punish them as you go on punishing them, that sort of devolves into a situation where clearly you're not able to work together. If they do continue cooperating and as that builds up, it goes beyond the point where you're just building trust between those two people related to that interaction. That trust itself becomes a valuable commodity that can be used to do other things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:57.300",
+        "message": "And if I remember correctly, he termed it reciprocal altruism."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:00.180",
+        "message": "Exactly. Right. He's, I mean, the piece of this that I find most fascinating, right, is at some point of time after you've had the good experience of somebody abiding by the rules for a number of turns, two things happen. One, those rules themselves take on a sort of existence of their own. Right? This is famous experiment. It's been done on the negative side, but it is famous experiment of like five monkeys in a cage and every time they try to walk towards the ladder in the middle that leads up to the fruits, they get doused with cold water. Right? And then one of the monkeys is taken out and a new monkey is put in. This new monkey has no idea about this cold water thing. That monkey starts walking towards the ladder because hey, fruits, the other four will jump and pull it back before it gets anywhere near the ladder because they know what's going to happen. Then you have three old monkeys, two new monkeys, two old monkeys, three new monkeys, four, five new monkeys, none of which have experienced cold water and yet they pull each other back, but they know that there's a rule. The rule is if you go close to the ladder, something"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:00.660",
+        "message": "bad will happen. We don't let that happen. Right. And you know, and conservatives would love this because it tells you that rules evolve for a reason. Traditions evolve for"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:08.220",
+        "message": "a reason. Absolutely. No. And you know, it might not be as blatant as you will experience something unpleasant if you try to go and grab that reward."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:17.500",
+        "message": "And the reason may not always be a nice thing. Here it's you want to avoid cold water, but you know, you have other kinds of impulses and instincts."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:24.060",
+        "message": "But the insight is that there are some things that we don't mess with because we know that there are going to be negative consequences. In a game that's played out long enough with enough trust builds out, the rule actually takes on that sort of existence of its own. You know, if you read like Fraser's work in sociology on like the evolution of religion, for instance, it's precisely that first it's the divine that's sacred, then it's the rules that you have to follow in interacting with the divine that becomes sacred. Eventually, you know, the divine is forgotten, but the rules and the people who enforce them still have sacred authority. You could substitute government for sacred authority there if you like. Right. The church is one form of government in itself. And the government is one form of religion. And the government is a form of religion in itself as well. So as I said, one thing that happens is that the rules take on a life of their own. The other thing that happens is that there is a sort of social and political capital that emerges. And somebody who's a reasonably talented political entrepreneur can say, here is this other risky area where we haven't really solved this cooperation problem yet. But you know that you can trust me from this other arena. So come let's try and do this here as well. Right. And this is a development of alliances as a concept over a period of time. And so what you get is you get these rules that stand on their own and then you get these institutions that are built on a shared understanding of the rules and on a shared set of values that, you know, are the philosophical equivalent of we don't go near that ladder. So your insight"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:53.460",
+        "message": "really here is like, you know, when I read Axelrod first and I read about all of this work and Robert Rivers work and so on, and my sense was, okay, this really explains how society works or cooperation within society works. But what you're putting out is that these rules that emerge lead to institutions, and then whatever government forms, whatever the state is, they have to abide by these rules in these institutions. And at some point, they get codified and they become part of the law or the constitution or whatever. And these are the rules of the game and that they evolved first and the state came later. Is"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:24.780",
+        "message": "that sort of a correct understanding of it? Again, I mean, let's keep the conceptual apart from the historic, right? If you're going to look at the timeline, they probably evolved co-evilly at the same time, you know, and they didn't evolve in silos, right? Like, not every country had to go through the collapse of the Soviet Union to decide that fully planned system of government was not necessarily a bright idea. And so there is an element of vicarious learning that goes on as well. But certainly, if you're going to talk about laws, I think that that timeline holds, that there were rules and norms and sort of soft customs or something before eventually somebody codified them. And they got formal sanction behind them and they became laws."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:10.140",
+        "message": "And if you just look at the foundation of the United States of America, for example, there was this value, for example, for individual freedom, for the pursuit of happiness, all the things laid out in the Declaration of Independence were already values that were being articulated by the people. And that led to a system of government where you had those rules and institutions in place to protect citizens from the state, which is, you know, a key purpose of the rules and the institutions. For example, you had the Constitution that was really your set of rules and you had the First Amendment protecting everybody's free speech and blah, blah, blah, all the way down the line. And all of that kind of falls into place. But in sort of other states across time, like if you look at India's formation, what we really did was we adopted a hodgepodge of rules and laws from everywhere. We kept a lot of the colonial rules that had been formulated in the first place to suppress a populace. And you know, the rules and institutions for that reason in India aren't so robust and aren't so liberal, as for example, they are in the USA evolved differently in different places. So what are those sort of do those processes move in a particular direction necessarily? And can we pass a value judgment on the process? What if the rules that a constitution sets merely reflect the norms of that particular society?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:32.620",
+        "message": "So, you know, the first half of that question of like, do these processes move in a specific direction or predictable trajectory is an easy one. The answer is no. It really is too generous. It really is. You know, each historical case sort of has to be dealt with on its own"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:47.620",
+        "message": "merits. There's no arc of history here, which always goes in the same direction, the arc of justice."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:53.940",
+        "message": "Yeah, I mean, I wish the answer was yes, right. But clearly, from what we see, I mean, so again, the caveat is that more and more as we get into the 19th century and the 20th century and the 21st century, states are not evolving and societies are not evolving in isolation, right? The most closed societies on the planet right now are North Korea and Eritrea. Even those states are not sealed off from the world, right? Part of how Eritrea makes its money is by taxing overseas citizens. They are able to collect that tax because they threaten family members of those people who are still within the country. Protection racket. But protection racket in its simplest form, right? But international, right? And so, the more that the world itself is interconnected, the more that these institutions are interconnected, there's something like a tipping point that comes about, right? So, the way that the institutions and the rules will evolve is still distinct within each country. But the range of possibilities that it can hold are getting progressively constrained. They're falling within a certain band of things that other countries share, and especially post the creation of the UN that they have formally stated a commitment to sharing. There is a Declaration of Principles that starts the UN Charter as well. The first of those is that every country is a sovereign equal and nobody shall intervene in its domestic matters. But historically, even that is quite the exceptional commitment for a country to make, right? And clearly, many countries have failed to abide by it, even since the adoption of the UN Charter. But it's no longer really open to a country to say, you know, as part of our constitution, we're going to say, we espouse the virtue of territorial conquest. It won't fly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:48.820",
+        "message": "That's because there are rules at the international level also now."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:51.940",
+        "message": "Yes. And like, let's use that softer term rules to mean a lot of fuzzy things and a"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:56.180",
+        "message": "lot of hard things. But yes, there are. Right. And, you know, so to kind of cut to the present day, so what we've always sort of had is that we have a bunch of these safeguards. Some of these are in the form of these rules embedded in the constitution or the laws or whatever, which restrain a government. And we have this bunch of institutions and limits to the sort of interplay between them to make sure that no one institution gets too powerful or domineering. So in India, you know, you'll have your in the US, you have your Congress and you have the Senate and the President only has so much power and he can't really be an overlord. And by and large, have there been US presidents in the past who have because power always corrupts anyone who comes to power will want to be as powerful as he possibly can. And therefore, the urge is always going to be to push back against these institutions and against these rules. And what's that process been in like in America?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:51.380",
+        "message": "Yeah, so so two things, right. One is I'm going to sort of contest the power always corrupts rule just my training in in base is I'm a psychologist. And there's fantastic research on how when you increase power distance between two people, what's happening is not an abandoning of values or principles. When that happens, it actually happens on the person who's on the low end of the power scale. The person who's on the high end of the power scale, what happens is a weakening of communication and empathy. And so you're on guard, and we're sort of the father of peace research. This is really great quote that says power does not corrupt power obscures powerlessness corrupts. What power does is it separates you from the consequences of your actions. And the way that that actually happens,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:36.340",
+        "message": "which leads to a kind of moral corruption in a sense, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:39.460",
+        "message": "It does. So what what happens for a lot of people is even if you believe in theory that the you know, the ends do not justify the means, if you can't actually observe the impact that the means are having, why would you believe that there's a problem with the means? That's a great point, right? I immediately thought of demonetization. Indeed, among other things. And so what happens is no, actually, that's a great example. Because what happens is that people who manage to hold a certain amount of power, hypothetically can have two somewhat competing goals, right? They can have specific policy goals and outcomes that they want to achieve. And they can be invested in the health of the institution and the system itself. Right? Not every powerful person is, but many are. And in wanting to pursue or achieve a particular policy goal, and in sort of gathering the amount of power and doing the things that are necessary to see that happen, they might find that they have undermined the institutions and in fact done, you know, a lot more harm than they originally thought possible or set out to do. Obviously, the more isolated from reality, the more separated from the experience of the daily life of the average person, the leader is the easier this is to happen. And so in fact, demonetization is a great example, because it's precisely"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:54.540",
+        "message": "And like I talk about how Modi probably never went to a grocery store to buy something himself for the last 20 years. And therefore he had no idea that a 2000 rupee note is actually used by the common man. To him, it was a store of value as it indeed was in 1978. And therefore only black money holders must be using it. But actually, everybody used it and he had no idea because like you said, he was so insulated from the common man that I mean, it was an error in knowledge."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:20.660",
+        "message": "Yeah, so I think that's a that's a process that we can generalize. We can say that a lot of people who don't necessarily say, listen, like, my goal in life is to become the Shahenshah still walk that path because they find that to achieve the specific policy goals that they want, they end up having to centralize power. Recent American history, there is no sort of, you know, Shakespearean tragicomic hero that illustrates this better than Barack Obama, who was a constitutional law professor himself, cannot have been ignorant to sort of the institutional ramifications of what he was doing. But at the same time was a political leader confronted with another branch of government that was held by the opposing party and said that its stated objective is to undermine everything that he does. And so it's funny because this guy, this guy who again is like a balance of powers enthusiast, becomes one of the strongest practitioners of executive power, becomes one of the most frequent users of executive orders in recent American history, because he's like, I can't get anything done otherwise. Can you elaborate on that a bit? So for instance, Obama, when he was still a candidate, and was running for office, was deeply critical of the wars that his predecessor Bush had started. Correct. Right. And he had this very lawyerly critique of them, which was that within American domestic law, the authority to declare war is actually vested in the Congress and not with the president, right? The president has authority to command the military, and to take actions that are necessary in defense of the country. But the president cannot declare that the country is at war with another sovereign power. That's actually for the Congress. Right? This is extremely important part of US history called"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:15.140",
+        "message": "the war powers resolution. And this actually tells you how an institution acts as a check"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:20.580",
+        "message": "on the overreach by any one person, for example. Absolutely, because in Congress, it would take a vote, right, as opposed to like an executive decision. And so his sort of very, as I said, very nerdy critique of the US wars in Iraq, not so much Afghanistan, but Iraq, was that we don't actually have proof that the party that we went after in Afghanistan is present in Iraq, or that there's any connection between them. Hence the legal document, it's called an authorization for the use of military force that pertains to Afghanistan, really can't be transferred easily to Iraq. Okay, there's a separate authorization for the use of military force in Iraq, that really can't be transferred easily to Syria or to like wherever else we think or like Somalia or Mali or wherever we think that this group is cropping up, right? Obama as president oversaw a vast expansion in the number of military actions, not just in Afghanistan and Iraq, but in Syria, in Yemen, in Mali, in Somalia, in Niger, that's just the countries I know about now. I'm sure that when records are declassified, there will be even more. One of my favourite law professors is Rosa Brooks at Georgetown Law. And she wrote an op-ed about this somewhere at the midpoint of the US presidency, which was titled AUOMFG. So she smushed together AUMF and OMFG. Just to say, how far are you going to stretch this authorization to like, you're in 17 countries when you said that it shouldn't even be two, right? And Obama's sort of dodge on this was, I'm going to authorize drone strikes, but I'm not going to deploy. So have you heard the phrase boots on the ground? Yeah, of course. I'm not going to deploy boots on the ground. And you know, this got roundly mocked in Washington, they were like, cartoons of like, you know, people doing like, Tom Cruise Mission Impossible style hanging from a wire and like, my boots are not touching the ground. And it's just an example of there were probably more productive ways to handle whatever threats there were to American national security at that time, right? But they would have required the executive and the Congress to work together. But Obama found himself in a situation where having once said, no, look, it's within my power to decide you gave me the authorization, I'm going to target these guys, whatever these guys are, I can go. If he walked that back, he'd have to walk back everything else he wanted to do as well. Right. And so it was no longer in his interest. He became a strong"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:53.020",
+        "message": "executive power theorist. I mean, if he makes the same principled argument in 2007, he doesn't become president because he's for the war on, you know, then he can't criticize George"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:02.460",
+        "message": "Bush at all on the grounds that he did. Yeah. So I, my sense is that the criticism that he made of the views that he espoused as a candidate were genuine and principled at the time at the time. And then he was confronted with the reality of having to enact security policy with especially post the midterms, a split government. Healthcare was originally introduced by executive order, right? Like massive healthcare reform in the United States with like the largest, I mean, by financial value, the largest healthcare industry in the world. Right. And you're going to reform that by fiat, like, you know, running roughshod over the institutions, which were there for a reason, like, forget about the effectiveness of it, right? Just as a matter of political strategy, it's so much weaker to be in that situation. Right. Right. And in fact, his successor has done his best to undermine it on precisely that basis. Right. And so there were a lot of people who even in, let's say, 2010, 2012, were already saying, listen, we're comfortable surrendering a bunch more executive authority to this guy because it's this guy. Yeah. And we know that he's a constitutional law professor. And we know that, like, he agonizes over these things. And like, look, his hair is turning white thinking about them, literally. And but if we're not ready to do it for any other precedent, then, you know, we should really be careful about how much"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:32.900",
+        "message": "ground are willing to give this guy. And what that kind of seems to illustrate is that the Obama who's campaigning and the Trump who's campaigning are entirely different creatures. But when in power, the imperatives of power, the incentives of power, what I would call the corrupting influence of power, though you've, I mean, not in a direct way in terms of but the kind of moral corrosion that happens, they're all the same. So that would be true of anyone before Trump. Right. And that also leads you to a dilemma that you know, we discuss the importance of rules and institutions. But the argument that say Obama could have made is that look with with the kind of gridlock that there is with the Congress and the Senate, and they're not cooperating with me on anything. I can't get anything done because of these rules and these institutions. So therefore, I have to go past them. How does one answer that? I mean, regardless of whether that's Obama saying that or Trump saying that because it's the same thing being said you it's a mistake to look at the one guy or and it's hypocritical to approve of one guy saying that and disapprove of the other. In principle, either one agrees with it or one doesn't. I mean, one draws a line and says that, you know, the rules and institutions are this important and no more or no less."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:46.340",
+        "message": "How does one reconcile that? Creatively? No, I mean, again, so I like my about half the classes I took in graduate school were about negotiation and negotiation in like, quote unquote, intractable and wicked problems, right? This is one, right? Do you care about the policy goal? Yes, of course you do. Do you care about the health of the institution? Yes, of course you do. Are these two related? Yes, they are. Because if you constantly fail at delivering policy goals, the institution is going to be undermined in a different sense. Even if you're sort of complying by the rules, at some point of time, the electorate is going to be like these are stupid rules, right? Because nobody's able to do the things that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:26.820",
+        "message": "we need to get done. Give me a concrete illustration of this. I mean, thought experiment way, not"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:31.700",
+        "message": "something that has happened, obviously. But yeah, because I don't necessarily have one off the top of my head. I mean, you can imagine that actually, so most countries that have like a split executive and legislature have rules on the adoption of any law, right? And they require that a certain majority in one house and a certain majority in another house, then the executive gets to either sign or reject. If the executive rejects, typically, the legislature gets to give it another pass. If the legislature sends it back, then that has to be passed. If you think about it, if the outcome of this was basically that for like eight years, no laws were passed, I can imagine that people would sort of be like, okay, this is no longer working. We need to change this. We need to either like mess with the majority margins that are involved. Or we need to make one or the other party be bound by the decision of the other, right? And but the thing to keep in mind there is that even within the existing rules about sort of you need this much majority and you need this sequence of approvals. It's not like people are taking each policy issue as an individual thing and being like, no, but this is the exact thing that I need to happen on this. And this is separate from the rest of the world and the rest of politics. No, people are trading off their priorities on competing legislations, right? I mean, this sounds bad in practice, because you're like, you know, oh, if I like let you export onions, then you will let me allow children with disabilities to be adopted or something like that. I, you know, hypothetical example, but not implausible. And so, you know, we don't like to think about policies, being formed with this sort of like, you know, bazaar style trading of whose interests are what, but that's a democratic government functioning is designed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:24.180",
+        "message": "In fact, in public choice series, there's a term called log rolling, which is about how different interest groups, very disparate interest groups come together to increase their bargaining power in this political marketplace, pretty much the same process playing out."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:37.020",
+        "message": "Absolutely. And so you're seeing it play out even now where Trump is basically saying to his entire Congress, I want money to build a wall at the border. And I'm going to hold anything and everything that you'll want done hostage to this. Right? Again, it sounds like it sounds deeply odious to us, because the particular thing that he's holding the stuff hostage for is this ridiculous border wall. But he's far from the first president to say I'm going to hold proposals hostage to like my pet policy thing that you all have to approve, right? Obama also tried this with healthcare. Right? Right. Again, he failed. Congress was like, nope, we're like, it's a bigger priority for us to make sure that your healthcare reform does not pass, then that anything we want to pass does pass. And so, actually, no longer a hypothetical, because for a number of procedural votes within the US government, they actually did change the rules to overcome this sort of logjam. Right? They actually did change the levels of majorities that you had to get in the Senate on a bunch of things to do with like appointments and budgets, precisely because the the institutional logjam was causing too"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:48.140",
+        "message": "much damage. The existing distribution of seats was leading to a complete lockdown. Right? Right. So, you know, we'll take a quick commercial break. And when we come back, we'll get to the orange haired giant himself, Donald Trump. Quick commercial break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:03.420",
+        "message": "Hello, hello, hello, everybody. Welcome to another great week on IBM podcast. If you aren't following us on social media, please make sure you do we're IBM podcast on Facebook, Twitter and Instagram. If you guys want to catch Cyrus's rant on Cyrus says live, you can definitely check out Instagram. We kind of publish that live every time we're doing it on Tuesday afternoons. Make sure you check in for that. On Cyrus this week, actually, we had a really great guest Roshan Abbas. Roshan talks about a wonderful career spanning radio, TV, live events, entrepreneurship, and now he's an author too. It's full of funny stories. I think you guys will really enjoy it. On Simplified, Chuck, Naren and Shrikant simplify the central banks and RBI, how they work and why they've been making the news off late. On the 99th episode of the scene in the unseen, Amit is joined by lawyer and policy analyst Amaya Naik. They talk about the rules and institutions that keep populist readers in check and how they are being meddled with. On Vartalaab, Akash and Naveen have a fun and insightful chat with Nikhil Udupa and Himanshu Vaswani. They're the founders of 4x4 experiences and have created Control or Delete, India's largest crowdsourced live music gathering. On the first three episodes of The Habit Coach, Ashlyn talks about dopamine, fidgeting and melatonin. Episodes are out every Monday, Wednesday and Friday. Give it a listen to improve your habits. On Football Twaddle, the boys discuss Chelsea beating Manchester City, the Raheem Sterling incident and the Oba Mayang incident. On Geekfruit, Dinkar and Jishnu get into the holiday spirit by discussing the best Christmas movies of all time and their favourite Christmas songs. And with that,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:15.260",
+        "message": "on with your shows. Welcome back to the scene in the unseen. I'm chatting with Amaya Naik about the importance of rules and institutions with specific reference to the August figure of Donald Trump. Trump fits that classic populist mold that you know, John Werner Muller wrote his book on and that I referred to of a populist who's come and you know, he shares all the things that populists tend to have in common through the ages and in the world today in the sense that they have this sense of victimhood and they are ranting against the elites and they are constructing all these simplistic narratives and they are breaking down institutions. And the interesting thing about Trump is that this works at two levels. One, it works at the domestic level where there are so many institutions and there is this constant interplay and like you pointed out, he's not the first person to have, you know, tried to push those boundaries. But it's also more worrying at the international level because the US is simply still the reigning superpower in the world. And, you know, one mad guy on top who is trying to undermine all the international institutions and rules which do a lot of good is extremely dangerous for all of us."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:27.980",
+        "message": "That's exactly right. You know, I think we can we can sort of deal with each of those sequentially. Yeah, exactly. So, yeah, it is important to keep in mind that Trump's political beliefs don't necessarily make him unique, especially in the US political spectrum. There are other people who had those same views. His views on the US role in the international order also don't really make him unique. There's a smaller chunk of people that have those views. But they exist. I mean, John Bolton was the United States ambassador to the UN in a previous administration as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:10.620",
+        "message": "I mean, there have been isolationists and there have been anti free traders and all of that isn't"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:15.020",
+        "message": "really new. There are two things that make Trump unique. The first is just the fact that he actually got elected. Right. Because generally people who have these views haven't actually gotten into the most powerful seat in the country slash the world because the nature of democratic politics is to generally privilege moderation. Right. You need to build a broader coalition to build a broader"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:42.540",
+        "message": "coalition. You need to sort of tone down your rhetoric. That's a median voter theorem where basically all parties during the general election sort of go towards the middle. And therefore, there is an acceptable spectrum from which all leaders tend to emerge. And then they do the same crappy things because power corrupts. But they emerge from that limited spectrum. And Trump is"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:01.580",
+        "message": "just way out. He's an outlier in that sense. And that's why I said, you know, he's also the exception to like the people campaigning within the median and then like do extreme things. He campaigned on the extremes. Right. Right. He campaigned saying, you know, openly racist things about Mexicans, for instance, he campaigned accusing a judge of Mexican heritage of being"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:24.620",
+        "message": "biased against him. He said Mexicans are rapists, if I remember correctly. And bringing crime and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:29.420",
+        "message": "bringing drugs, etc, etc. So, yeah, he's unique in that he did that and won, which I currently have to think of as a historical accident, and which I sort of hope is a historical accident. The other thing that makes him unique is that, or at least unique in like modern history in the US, is that he is so blatantly out to enrich himself. So, you know, we said that there are institutions, there are rules, some of the rules are formal, so their laws, others are just norms and customs. If you ask sort of, why do all of these exist? They exist so that people in power will serve the public interest. And so sort of the, you know, almost rule zero of government is avoid conflicts of interest. Right. Right. Trump is like, Trump actually shares that opinion about we should not have a conflict of interest, but he's, you know, he's flipped it on its head. So he comes in saying, what is the conflict, I'm going to pursue my own personal interests, national interests be damned. And it's, it's pretty amazing. Like we have a number of actual or wannabe autocrats, right, some of whom have been elected, others have gotten power in other ways. Trump is a wannabe kleptocrat much more than he's a wannabe autocrat. Well said. Right? He's not fixated on, well, I take this back, I was going to say he's not fixated on power so much as he is on wealth. I'm not sure that that's a meaningful distinction in his head. So, but, but you know, he's, the way that he thinks about power and the way that he thinks about interest is the accumulation of basically money for himself and his family. And I think in a way,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:11.100",
+        "message": "I see him as this megalomaniac duffer who was winging his way through life and all of this shit just happened. And in that sense, he's both an accidental autocrat and an accidental kleptocrat. This shit just happened. It's not like he had a grand plan and he made, I mean, he was actually expecting, perhaps even hoping to lose the election by some accounts. And simply, I mean, he didn't have a transition team in place. He didn't expect to be president and he's kind of"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:36.220",
+        "message": "been winging it all the way. Well, so I mean, there's multiple pieces to, by the way, before I get into that, right, can I just say, you know, I told you I'm a psychologist by training, right? And the last like century plus in psychology has basically been pushing back on this like great person theory of leadership. Thomas Carlyle. You know, even like, let's not fixate on the personality of the person in power because the situation and like sort of the exigencies and the constraints of historical currents are what they are, are much bigger. And so it's really frustrating to me to have to spend this much time analyzing the personality of this guy, because it sort of cuts in the exact opposite direction of what I've been arguing so far. But again, he actually did get into power. And he does believe that everything is shaped by his singular interests and personality. And at that point of time, I mean, it's who, Louis XIV who said, I am the state. Trump shares that view, but for the time being, temporarily, he's kind of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:39.660",
+        "message": "right. No, and the interesting thing is, it's not as if a leader like him was a historical inevitability. Honestly, you take Trump out of the picture. I don't see anyone in the political landscape who's remotely like this, you know? Yeah, I mean, yeah, Ted Cruz would have appealed to many of the same people and could have come to power and all that. But he was essentially also a guy who believed in these rules and institutions to some extent and accomplished lawyer himself. And, you know, you wouldn't have a complete madcap guy like Trump in power, no matter what happened."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:09.100",
+        "message": "Yeah. Again, there are other countries that have been led by small time crooks who then become big time crooks. But in the current American context, it's kind of hard to imagine anybody except Trump pulling this off. I agree. And so this is why Trump is so, so corrosive to institutions, right? Because the sort of again, the sort of virtue zero of all institutions in the public spaces, no self dealing, no conflicts of interest. And he demonstrates time and time and time again, that he does not share that value. He does not understand the reason or the purpose or the virtue of that. And so every time he interacts with any institution, he's doing it out of some sort of just very blatant, very crass self-interest. And he almost acts aggrieved and behaves as if"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:01.500",
+        "message": "this is unfair. It's like, hey, the people elected me and now I'm the king. And, you know, who was anyone to be a check on me? Let me do what I want. The people elected me. I have sort"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:12.140",
+        "message": "of ultimate authority. And also, isn't this what being president means is that I give orders and people follow them. And of course, every previous president could have told him and probably did tell him, no, it does not. But the man is determined to behave as if it actually is, right. And so there's just so many ways that this plays out in the domestic space. Right. So the most obvious one, again, has to do with just making money. There is a clause in the United States Constitution that has suddenly sort of like nobody used it, nobody heard about it. And then in the past couple of years, it sort of made its way back into public discourse. It's called the Emoluments Clause of the Constitution, right. It's roughly the same as like the Office of Profit Act that India had. It basically said, if you are a functionary of government, you should not be making money on the side. The Emoluments Clause is a little more specific. It says you should not be accepting money or anything of value from a foreign government. Right. But foreign government is pretty broadly defined, right? Like it's, it's also agents and representatives of a foreign government, counters from a foreign government. Things of value is also fairly widely defined. It's not literal money. There can be various things that would be useful. This is why there are like protocol vetted and approved gifts for state functions, right. And this is why any senior like an ambassador or whoever or whatever, if they receive anything, they have to like report the gifts that they get. If it's above a certain value, then it's actually, I mean, confiscated is too harsh a word, right? They voluntarily surrender it. And it's either like given to a museum or something, or it's put into this big auction and the proceeds are used towards, you know, whatever, like a widows and orphans fund or something. Trump owns multiple commercial properties around the country. Around the world. He actively promotes them. The shining example is the Trump International Hotel in Washington, DC, which was renovated and reopened right about when he became president, and which has been booked out by foreign governments ever since. Right. And of course, this is money going into the president's pocket. Of course, people are like booking large venues and like keeping it booked into like stay in his good books. He has golf courses around the country. He has whatever that holiday resort is in Florida that he keeps escaping to as well. The name escapes me for a second. But where like they were actively like they hiked up membership fees after he became president. They were selling spots at like an adjacent table to him at like the holiday party or stuff. When I say he does"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:53.020",
+        "message": "it in a really crass way, I pay a premium for that seat. Though I don't have any money, but if I did,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:59.260",
+        "message": "I would. I mean, I would pay a premium for it. And then like, you know, install like that bloated Trump baby blimp there or something maybe. But it's just really, really obvious that he has commercial interests that are benefiting from his being president. The norm, but not the law that previous presidents have followed, is to either divest their assets or put them under a blind trust. Right. Right. The point of the blind trust, of course, is then you don't know what that person is doing and you don't know how the policies that you're working on might affect those outcomes. Right. Jimmy Carter famously had to sell his peanut farm before he became president."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:45.420",
+        "message": "Hopefully not for peanuts."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:46.700",
+        "message": "And Trump has refused to do this. And it's a norm and not a law. And so every time he's sort of like, but there's nothing that says I have to do it. Technically, he's right. Right. But starting from I mean, that's exactly where the corrosion starts. The second thing you can look at for the sort of Trump's domestic corrosion of institutions is the people that he's put in charge of different offices in government, different ministries, different departments, different secretaries. Betsy DeVos, who's his education secretary, has massive commercial interests in charter schooling. Right. Of course, the way that he argues is that she is a prominent educationist. So, of course, she would know. Right. But you are putting the person whose entire business model is dependent upon students leaving public schools and going to charter schools in charge of public schooling. I don't think I need to spell out the rest of that. Right. His secretary of the interior, I think, a guy called Ryan Zinke, is the subject of I don't even know how many like ethics and misbehavior investigations. It's like in double digits and like 40 plus or something at last count. And remember, they've been in power for less than two years. Right. So these are all things that either he's done or that have come to light in the period of like the last 18 months or something, which is like, you know, a new infraction every other week."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:48:16.460",
+        "message": "So we kind of look at this and we say that, okay, you know, he's running roughshod over all these rules, but they apply to the executive branch. And surely the other institutions in the US government will prevent too much damage from happening. In theory, yes. It could still"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:33.500",
+        "message": "happen. Right. I mean, Zinke, for instance, I said he faces investigations. Right. Sure. Yes, he is being investigated. Part of the problem is that by the time they stopped, some of the damage is already done. There's no automatic process. That means that because we think that the way that you did this was shady, hence, whatever you decided to do is now reversed. Right. Again, that would be a normative or a customary way to approach that question. But there isn't necessarily a black letter law that makes it that way. People who saw value in preserving the institutions would act that way voluntarily to say, no, I want to avoid even the appearance that there is a conflict here. Right. Right. Clearly not this group of people. Added to that is the fact that politically and electorally, the Republican Party lawmakers who currently hold the majority in the upper house and until a couple of weeks ago held the majority in the lower house as well, believed that their political success and their political survival depended on being seen as sort of sticking close to Trump and not frustrating his agenda. The late Senator John McCain famously torpedoed Trump's effort to repeal Obama's healthcare law and like got tons of hate mail for it, which is pretty exceptional because the guy is sort of like a folk American hero, right? Exactly. Former prisoner of war during the Vietnam War,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:03.100",
+        "message": "legendary law, like Senator in his own right. You spoke about how there's no Shakespearean drama, but I'd say just a fact on how his own people turned on John McCain in the winter of his years is a Shakespeare tragedy in itself. King Lear in DC, I guess. Whether or not you agree with that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:20.700",
+        "message": "I agree with the guy, that's irrelevant. Yeah, yeah, I'm not, I'm not trying to eulogize John McCain as such. I'm just saying he was a politically popular figure. Exactly. And fighting Trump on healthcare cost him a lot of that. And a lot of Republicans looked at that and said, do I want to be that guy? Right, right. Another senator, Jeff Flake sort of started walking that path, but has been quite silent since then and has not actually voted against his party on issues where he says Trump is doing the wrong thing. Right. So here is a term that I will generally not use because I think it gets abused a lot, but I'm going to use it of Jeff Flake. He's virtue signaling. He really is. Because he has the ability to vote differently. But he sort of furrows his brow and says, this is a very sad thing. And then he votes for it. And he's not even running for re-election. His seat has now been taken over by somebody else. Right. Or will be. Sorry, his seat is falling vacant and somebody will be appointed to it in the near future. So Congress is a check, iffy, right? With the Democrat Party taking control of the lower house may start being more effective as a check. It's possible. The judiciary has been being a check in many ways. Absolutely. The problem, so there's a little bit of a tangent, right? But if there's listeners who are sort of interested in the comparative legal system between India and the US, one of the biggest differences between the US and India when it comes to litigation, especially litigation against the government, is that the US has extremely strict rules on standing. Standing is who actually has the right to bring a lawsuit. Right. So we have phenomenally lack sort of PIL style standing, right? If somebody somewhere is harmed, you as a civic minded citizen can sort of approach the court saying, look, somebody is being harmed, violation of fundamental rights, please do something. Right. And different judges over the years have sort of had their own attitudes towards this. In the US, the rules are a lot stricter. You have to typically show that you, the person bringing the suit, are experiencing some kind of harm. And it can be even more complicated. You might have to show that, say, for instance, you're not actually a national of the country, you might have to show that even though you're not a national, you actually have the right to approach that forum because the nature of the harm that you're facing offends the right that is not guaranteed just to nationals or just to citizens. It's guaranteed to like all people who happen to be within the territory of the country or something. So you could bring a freedom of speech action even as a non-citizen, because that's not limited to citizens. It's guaranteed to everybody in the country. You might not be able to bring a right to bear arms action. Right. And so suing the federal government in the United States is actually a lot harder than suing the central government in India. That said, a number of Trump's policies have landed up in court. Right. He revoked a reporter's press pass a couple of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:23.420",
+        "message": "what last week? Yeah, something like that. Yeah, we're recording this on November 20. By the way, the CNN guy Costa, I think is right. CNN went to court. And interestingly, Fox stood by CNN"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:34.300",
+        "message": "in that which was refreshing. Yeah, no, I think the entire White House Correspondents Association was like, wait, you can revoke a pass for people being rude to the president? Like, none of us is going to get to get in here eventually. Right. And the court stayed it. It's a stay. It's not a final ruling. It's an interim ruling. But generally speaking, in matters like this, if you can win the interim relief, you have a pretty good shot of winning the final thing as well. Right. Because the basis for winning the interim thing is that you were experiencing harm while that thing was in effect. And so it needs to be stopped. If the judges basically already conceded that you're probably facing harm, yeah, it's likely to be reversed. A bunch of executive orders he signed around immigration and deportations, famously the bans that he wanted to sign. All of these things were"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:27.340",
+        "message": "challenged successfully in court, which is therefore sort of a sign of hope that, you know, the rules and institutions are working. Would you would you say that? Yes. Or you'd qualify it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:40.620",
+        "message": "I mean, so this is why I really like that we started with like the game theory of this and like the evolution of cooperation in this, right? There are the formal institutions and the formal laws. And they will, to some extent, jealously guard their powers and their remits and like see to their enforcement. But then surrounding all of that are these entire sets of norms and customs and beliefs that if left to run in a positive feedback cycle, start guiding people towards greater trust and greater cooperation. That stuff is being damaged. That stuff is being harmed. It is being reversed. You know, again, let me not be so sort of ahistorical as to put the blame or to put all of the blame on Trump, right? But as the guy in power who is constantly sending out the message saying the institutions don't matter, the rules don't matter, what I want matters, that's I think doing sort of a, it's doing a degree of harm that is not necessarily visible now, but that is actually going to outlast his presidency by a long time. So that's what"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:43.180",
+        "message": "my question is about. I mean, there's one view of Trump that look, this is an accident of history. It's an outlier. Here's one mad guy who's gotten to the presidency. But hey, the rules and institutions are robust and we'll outlast this and we'll have a sensible president next time, or at least a time after that, and things will be back to normal and there'll be no lasting damage. But your point is that there can be lasting damage out of all this, all of this man shenanigans, which would indicate that the rules and institutions weren't strong enough to begin with."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:10.700",
+        "message": "I mean, if you Yeah, sure. Like I'll sign on to that. Yeah, they weren't nearly as strong as we like to imagine they are. They look strong when like somebody who already believes in them is"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:20.460",
+        "message": "operating them. So what is the lasting damage? Is it a lasting damage to for example, the norms that govern conflict of interest and you can't do anything with personal profit or is a greater"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:30.700",
+        "message": "damage than that? So it's hard for me to answer that question, basically, because it depends on what us lawmakers do next, right? Right. US lawmakers can say, Hey, we used to have all these norms. And we were happy with their functioning because people are bided by them. And then we elected a guy who's been destruction testing them. And now that he's actually breached a bunch of them, we're going to reinforce them, we're actually going to turn them into laws. Right. In which case, the potential damage will be greatly mitigated. But if they don't, right, the next chap who finds himself in that situation, and for some completely unrelated reason decides, it's going to be embarrassing for me to release my tax returns. And there's a precedent for not doing so suddenly, you know, no longer has to lift this great burden of being the first person to do so."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:20.460",
+        "message": "And what Trump has also done is in a manner of speaking, he's already caused lasting damage, not specifically to the US, we can't say that yet to the institutions and rules, but he's demolished the Republican Party, the Republican Party today is a different beast from what it was the way I see it. And that morally corrosive effect that power can have on one person has in a manner of speaking spread through the party."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:44.780",
+        "message": "Yeah, I, again, it's a very chicken and egg question, right around sort of who started turning more extreme first, right? There's a book by..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:00.540",
+        "message": "And there are really three parties here. It's not as if who between Trump and the Republican Party is between who between Trump, the Republican Party, and the voter base that they traditionally appeal to."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:11.260",
+        "message": "Right. And yeah, I mean, look, the question gets broader and broader every time we take a stab at it, right? Like, oh, there are actually 17 parties. No, the core point is just that. How do I say this? Bad behavior gives permission for future bad behavior. Yeah. Yeah. That's the lasting damage."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:31.180",
+        "message": "And that's a vicious cycle. I mean,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:33.180",
+        "message": "Absolutely. Well, and the things that are most vulnerable to it are precisely the things that are not actually written up into formal law."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:40.140",
+        "message": "And the benchmarks go lower and lower. So I can easily see, you know, if the future president from the Democratic Party can easily resort to whataboutery anytime he's questioned and say, but hey, look what that guy did. And the benchmarks have then just come down a long way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:58.060",
+        "message": "So this is a live debate within the Democratic Party this instant, right? And, you know, a number of my friends who are about our age, so they're not necessarily active in terms of being representatives, but they are very active in terms of being campaign workers, in terms of being staffers, in terms of being fundraisers, in terms of being policy experts. It's a very, very live debate about whether the Democratic Party, having gotten a measure of power, should respond to Republican or Trump hardball tactics in kind, or whether they should sort of model a different kind of behavior. I would say Obama tried this as well for a while, right? He tried to model Trump's sort of consensus model of decision making. And at some point, he was just, I think he said something to the effect of like, you know, you can't dance without a partner or something like that. And at least on a certain set of issues, stopped trying. So yeah, one possible outcome is that all like the general nature of politics in the United States becomes coarser and more divisive and more aligned to groups and more aligned to what some theorists, although again, I disagree with this characterization, but what some theorists will describe as identity politics, it's possible, because it's the classic, it's the domestic political equivalent of the security dilemma, right? You chose to escalate one step more, I can either escalate to match you, or I can put my faith in the existing rules and institutions to prevent you from getting away with it. And that could take me further behind. And in the short term, that's almost guaranteed to put me further behind. Right? And this is a dilemma. If you abide by the rules, while somebody else is undermining them, you can be modeling good rule abiding behavior, you can also be losing so much power that then the other person is able to completely ignore the rules at some point of time. And, you know, thankfully, it's not my job to decide where that is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:11.340",
+        "message": "This is in a sense a classic game theory problem. What do you do? Do you take that step back now to take the high moral ground? Or do you say I got to play as dirty as the other guy? Fuck the rules and the institutions."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:22.460",
+        "message": "I mean, again, I think that the smart strategy for the Democratic Party, at least to do, is to say we're going to play by the rules. But that also means that we're going to crack down pretty hard on people who are messing with the rules. Right? It's a hardball strategy of its own. But it's not hardball on the same field or on the same arena as the Republicans. Yeah. Right. You don't necessarily respond to the same sort of provocations on issues of identity or race. You do have your own set of things that you want to hit. And again, this is I'm sure I'm not saying anything that's not in like some Democratic politician's script book or playbook already. Yeah. Right. But yeah, I mean, I think that even with that strategy taken, even then, there is something being I'm not familiar enough with the history of US politics to say whether the Republican or Democratic Party shared sort of a history of working together on progressive causes. Right. I know they did on like certain sort of pure economic causes. But if at all, they did, or if there was the potential for such a thing,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:31.900",
+        "message": "I think it's largely gone now. It's pretty much gone. And in a sense, I think the opposition in India faces the same dilemma when it comes to Modi that do we take the high moral ground or do we get as down and dirty as him and it's something I lament constantly that the Congress in fact has completely rejected the high moral ground and you know, on social media, for example, their IT cell is as vicious and bad as a BJP IT cell in many ways. I mean, I've been targeted by both. And, you know, even the kind of soft Hindutva which they are going for and the identity politics they're playing, which is, I mean, of course, in India is ubiquitous. And I disagree with you and say that even in the US, I think identity politics is a massive growing problem. But leaving that sort of aside before we move on to the international arena and what Trump is doing there. If I had to ask you to say, outline within the domestic arena, a worst case scenario and a best case scenario for how the country will look say, two elections from now, let's say into, you know, 2028. You know, what would your worst case and your best case be?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:39.740",
+        "message": "The worst case is easy. The worst case is that Trump has already won re-election for a second term and flouts the Constitution to stand for a third. Right? And at that point of time, the institutions are undermined to the extent that he makes Ivanka vice president and then dies and she becomes president. I mean, it's, you know, choose your specific nightmare ending, right? I think that's pretty far fetched. Right? I think that like, a full blown constitutional crisis is not likely to happen. Because there are not actually that many people who are willing to serve like the personality cult of Trump. But if it happened, then we'd have to like strike out the wannabe, right? Like then he would be genuine autocrat, genuine sort of, you know, Central Asian or like Georgian head of state or something like between crime and government and business. There's very blurry lines. That would definitely be the worst case because again, this is like the country that sort of stands as a historical example of like, we can build honest politics out of a criminal past. New York politics used to be criminal in every sense of the word, right? Chicago politics used to be criminal in every sense of the word. They've built something better out of it. So it would be very sad to see it regress. Best case scenario is that he loses in the next election. And I don't care about graciously but concedes defeat. Doesn't sort of raise this entire stink around like questing the legitimacy of it. And then one election later is a non-issue in whatever is being campaigned, right? Like it's almost, you know, irrespective of what sort of codifying of norms actually happens in between or not. By the time it's time for whoever's Trump's successor is to stand for re-election, the debate is about them. 05.05 Right. 05.05 They're not able to use the plank of like, would you rather have Trump in the election then? I don't have the information to sort of put a probability estimate on this. 05.05 Yeah, yeah. 05.05 It's just sort of, this is what I would like to see happen is continuing with democratic transitions of power. And basically, whatever Trumpism is, it's sort of shoved out of the marketplace of ideas by better, more compelling things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:01.100",
+        "message": "05.15 One would hope so. And now moving on to the, you know, the international domain, and there is kind of more worrying because in the US, you have all these checks and balances, like you said, you have a strong judiciary, which has acted at times as an effective check on him. 05.30 You have all of that happening. I mean, despite the erosion of norms, institutions are still kind of standing up to some extent. But internationally, there really aren't that many checks and balances. The US is a huge superpower with huge clout and every decision that Trump makes, especially with those regarding trade, for example, affect billions of people, literally."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:37.420",
+        "message": "05.40 Yeah, so this is where it's hard to find a silver lining, right? The international system or the international order as we know it in its current form, is only about 70-75 years old. UN was formed right after World War Two. And the sort of, in that period of time, it has not been able to develop to the extent that there are strong institutions or independently enforced rules. There is a field called international law. But there are also people, notably in the United States and in law schools in the United States, who will even now write articles arguing that there is actually no such thing called international law, because there is nobody who can enforce it. 06.00 And your response to that would be? 06.00 Just because it doesn't look like domestic law doesn't necessarily mean that it's not law. 06.00 Right. And equally, as somebody who's trained as a lawyer, I promise you that both enforcement issues and variation are very much a part of domestic law as well. 06.00 Right. 06.00 Right. The last thing that a lawyer will find convincing is if you say, but it's the law. 06.00 Right. 06.00 They're like, yeah, that's my job. They're like, that's where my job starts. Right. But because there isn't necessarily like an overarching institution to sort of be the 06.00 guarantor of the rules, or to punish bad behaviour, international law is still very much a system that largely follows the wishes of the most powerful, and military and financially is the United States. And so this is why Trump is just this grand experiment, right? And I say that because I don't want to say anything more despairing. You've taken someone who is fundamentally opposed to the principles of the international system. 06.00 Right, who's opposed to the idea of long term cooperation, who's opposed to the idea of treating states as equals, who is opposed to the idea of any sort of constraint on the power of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:34.620",
+        "message": "the powerful, and who sees the world fundamentally in a zero sum way. And you know, where everything is transactional. And if you win, I must be losing and you know, doesn't understand the"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:46.140",
+        "message": "positive sumness of international relations. Absolutely. Well, so Trump is like, he's truly the worst kind of like zero sum theorist, right? Like, he's a megalomaniac simpleton. He's a zero sum theorist with the ability to flip over the gaming table. You know, he's the, I'm out, so I have a bat, I'm taking it. Exactly. And that's incredibly scary. Because in this case, he really has the ability to like ruin the game by walking away or by like, as seems more likely, you know, using it as a weapon as opposed to a sporting implement. So the post World War International Order was built upon largely the willingness and the impetus and the enlightened self interest of successive US government leaders. Right? This is not to detract the role that literally everybody else in the world has played. But to say that the fact that the US was willing to play along was a necessary condition. Only then were we in a place where it was conducive for these things to develop. And like Trump's inaugural speech was from now on, it will be America first. Right. Right. And his, you know, his national security advisor is literally the most famous, most vehement anti international law American diplomat that there is John Bolton of the flamboyant mustache, who in his in his time as the US ambassador to the United Nations was"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:28.620",
+        "message": "the most hated man in that building. In Bush's time, he was one of Bush's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:32.380",
+        "message": "most hated operatives, which is saying a lot. So he was I mean, he was hated by his own colleagues in the White House, right. And he was hated by diplomats in the UN. It says something to his skills as like a bureaucrat and a maneuverer, that he was able to actually keep his position for that long. And by the way, he's one of those few people that I have not heard accused of, like, crime or dirty dealings. Right, right. It's there's there's no argument made that the man is corrupt. Right, like Modi. Bolton genuinely believes that like, anything that detracts from the sovereignty of the United States is the equivalent of like an attack on the United States. And he firmly believes that any treaty automatically detracts from the sovereignty of the United States. And so you have you have like the guy who's saying from now on, it will be America first. And the guy who's saying treaties are an unacceptable infringement on one team with the power to do the things that they want to do. And it's a complete misunderstanding of America"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:38.380",
+        "message": "first, because America first really means you can only be first through cooperation, everybody benefits at the same time. And this will actually take America backwards what he's doing. But the greater problem is it'll take the rest of the world backwards as well. Absolutely. I mean,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:11:51.660",
+        "message": "this is exactly what Macron said, right. By the way, there is a history to that slogan as well. To America first. That history relates to sort of like the proto fascist movement within the US itself. And so it's not like Trump took like an innocent idea and sort of cast his own view on it. By design or accident, I suspect accident, he tapped into exactly the vein of things that he"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:17.900",
+        "message": "wanted to tap into. Both Occam's razor and Hanlon's razor, I'd say probably by accident, I never ascribe to malice, but you can ascribe to stupidity and he is a simpleton."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:29.020",
+        "message": "But in his case, he's stupid and malignant. And so it's over determined. This was Ben Wittes, I think, of lawfare on Twitter at some point of time was like, the only thing that tempers this administration's malignance is its incompetence. Like it's the living version of sort of like, would you rather have like a bumbling well intentioned person? Sorry, would you rather have like an ill intentioned bumbling person or like an effective ill intentioned person? You've got the bumbling ill intentioned person. But I mean, just look at like the list of treaties that this administration and again, they've been here less than two years. Right. So this is quite the piece. I was trying to like, total these up on my phone on the way in right. The Paris Agreement on climate change, literally the only country left out or like one of two countries left out at this point. I forget which the other country was, but their argument was that Paris was not stringent enough, which is why they were not signing the Trans Pacific Partnership. Right, which was basically going to be the biggest trade agreement in the world. Exactly. Right. And whose entire purpose was to contain China, whose stated goal repeatedly stated while it was being negotiated was we need to have a counterbalance to China on trade, which you would think would make it attractive to, but no. Trans Pacific Partnership, NAFTA, right, the North American Free Trade Agreement, which is considered sort of like the landmark free trade agreement for, and not to say that NAFTA didn't have negative effects, but for the most part, those negative effects were exported to Mexico and Canada. They weren't showing up in the United States. NAFTA has now been renegotiated. It is a new agreement called the US Mexico Canada Agreement, which, you know, you read reporting from when the negotiation was going on. And one of the conditions for whatever was supposed to replace NAFTA was that it could not be called NAFTA. Like this was a thing that the United States diplomats had instructions to make sure happened, right? Which is like, again, it's sort of like simultaneously stupid and like really petty. The Korea US agreement was threatened. I think they sort of worked out an arrangement as well. But again, this is sort of one of those historic agreements that's been around for like 50, 60 years chugging along. Nobody has a problem with it. Trump somewhere in his head, like still has a memory of like auto tariff wars or something of like US Japan and US Korea manufacturing wars, which is so completely in the past, right? Neither of them is competing in that space anymore, really, right? But he threatened it. And he threatened it while there was like a North Korea, US South Korea negotiation going on, right? It was just confusing. The universal postal union, which is literally like 140 plus year old treaty that just has to do with like, you know, like, stamps. Yeah, like it's literally like, I think it's the it's the thing on which the zip code system is built. The idea that there will be a numerical code that designates a geographic location. And here is like sort of the register of them. And like, here is the system, you know, US you get like code starting with these numbers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:43.020",
+        "message": "Yeah, so something basically no freaking consequence."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:46.780",
+        "message": "But Trump believes that something in that treaty is allowing China to like, send freight cheaply within the United States or whatever. And so he's like, we'll punish them by pulling out of it. And"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:58.940",
+        "message": "like, you know, it's just like most egregiously the trade wars he started with China, which of course, if China reciprocates, and you know, the entire world suffers the consequences of that,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:16:10.060",
+        "message": "including India, hugely. So I mean, the only reason I haven't put the US China trade war on this list is because he hasn't literally like broken a treaty to do it. Yeah, but it's just the same thing. Yeah, yeah, no, I and and I'm very sure that the existence of a treaty would not have stopped from doing it either. So, you know, yeah, the US China trade war, right, which is just like the, I mean, it's sort of basic economics, right? Like comparative advantage"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:41.020",
+        "message": "theory of trade. I mean, I had an episode on this. I mean, just again, it shows his zero sum view of the world that he looks as a trade deficit as something that is bad. And no, fiscal deficits are bad. Trade deficits are perfectly fine. I mean, I run a trade deficit with my domestic help, you know, I pay them every month, they never pay me, it's perfectly fine, both parties are benefiting. It's a positive sum game and to sort of impose tariffs and all of that not just hurts the Chinese, it hurts your own people. It's crazy. I mean, this is the exact"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:10.140",
+        "message": "illustration of not just zero sum, but also wrong. Yeah, like it's like, you think you're hurting China, you're committing a crime on your own people. Indeed, no. And I mean, fundamentally, the idea that the way that Trump describes a trade deficit is to say they are taking our money, right, which is kind of true, but they're selling you stuff back for it. Like you're getting the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:36.300",
+        "message": "goods and you're getting value out of that, both parties are benefiting. It's a payment,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:41.020",
+        "message": "it's not theft. And I mean, can you imagine having a conversation with the head of state or you have to explain this? Yeah. Right. Because like, that's what White House staffers actually have to do. And clearly, they're not succeeding at it. And, you know, it's unclear if it's because the man doesn't get the concept, or it's just too invested in this narrative. But the other area also that we have to touch on when we talk about like dismantling treaties and the trade wars is in nuclear nonproliferation, right. And so the Iran nuclear deal that he's pulled out of, which was sort of the, you know, the landmark achievement of nonproliferation of the past decade. I did an episode for this with Pawan on the Pragati podcast before. Trump basically pulled out of it on the grounds, not that the deal was not working, but that it was not stopping Iran from doing other things that he didn't want them to do. Excellent. Right. Which again, sort of negotiation 101 is that you hive off issues. Yeah. And then you reach agreement on things that you can and you kick down the road the things that you can't. And then you cooperate on the things that you do when the trust builds up. And then you're actually able to re-imagine a solution to the things down the road because now you trust each other more. So it's not that you're kicking it down the road just because you have nothing better to do at that time. Right. But eventually"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:56.540",
+        "message": "it'll become a non-issue if you keep cooperating. Right. I mean, this is the... So tell me something, let's kind of deviate up and perhaps I'm being simplistic here. And if I am, please correct me. But let's kind of deviate up into, let's say security implications on the world and economic implications on the world. Obviously, the two are related and deeply intertwined. But what is the role that global institutions play in each of these domains? And what are the ways in which"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:21.900",
+        "message": "Trump is undermining them? Two big things in security. One, the norm of non-aggression. You're not supposed to conquer territory by war. Russia broke this in Ukraine. A very simplistic version is that Trump is going amazingly soft on Russia. Right. Again, apply Occam's razor, apply Hanlon's razor. A range of explanations emerge. But the fact that territorial aggression is not being punished and other countries can consider it hugely destabilizing and damaging. Again, not something that we'll see play out immediately, but potentially down the line, somebody else who decides that they want to be adventurous has the Russians to point to and has the fact that the world sort of acquiesced in that. Right. Or has Trump's actions to point to as proof that the world has acquiesced in it, which is not at all a positive development. The other is non-proliferation. Right. And non-usage and like steps towards denuclearization, independent of any specific thing that's been done. Right. Let's just say this is the very last subject on which you want someone who is zero-sum, short-termist and uninformed by science to be in charge of things. Right. The potential for disaster is enormous to the extent that actual proliferation does continue, which is a very real threat because the North Koreans have shown that they are extremely willing to sell nuclear technology. They're an extremely poor country. This is one of the most valuable things they can export. If they get the opportunity, they'll try. Anybody who's willing to buy nuclear science or material from the North Koreans is almost by definition someone who should not be getting their hands on nuclear materials or science. And if the US sort of has this blas\u00e9 attitude towards North Korea of like, no, the president and your leader met and like they worked out a deal and they now they have a love story or whatever it is, then it's going to be hard to keep track of those things. So that's my two for security. Economic, I would split into, I mean, look, whatever we have to say about the trade war is still inadequate, right? Like it's just so harmful on so many levels."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:34.860",
+        "message": "I mean, Trump has turned it literally into a negative sum game where all parties suffer."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:38.860",
+        "message": "Exactly. Exactly. Yeah. It's not even zero anymore. It's, you know, those, those like fantasy novels where like to resolve a duel, each person will like gash themselves with a knife and the person who gives up first, like loses the duel or whatever. That's what we're playing now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:56.540",
+        "message": "Right. Yeah. I have one limb left, but you have none."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:01.180",
+        "message": "Monty Python references. I'll bite you. I will. Independent of independent of the US China anger, right? I don't know what stance Trump has taken on WTO. But I like I find it very easy to believe that the moment something in the WTO goes against the US, he'll jump to undermine it as well. And the WTO is the basis of one of the rarest and most valuable kinds of things in international law, which is an agreed forum for dispute resolution. So if that loses its effect, right, to be fair, the US is a very spotty track record of actually complying with WTO rulings and enforcement in the first place. Right. But I mean, this is the difference between Obama or some other president saying, I'm going to find a loophole that lets me do this, but that keep the optics right. And they'd still be seen as upholding the role or the value of the institution. Right. And Trump just sort of being like, they took our money. Yeah, they were rude to me and whatever. And so we're not going to, oh, sorry, I actually have to backtrack and add one to security. NATO, the fact that he's like, so averse to NATO that he claims that NATO is like taking American money so that it doesn't spend on defence, which is not a implausible interpretation of the collective defence agreement. It's just that that agreement doesn't really mean that European countries have to pay money to the United States, right, to loop back to where we started. It's not that kind of protection racket. And Trump had to be cornered into saying something that should be just like, like a casual statement for any US president, which is, we believe in Article 5 of the NATO treaty, which is the assurance of mutual self defence. And he resists it, he fights every time because he doesn't want to say I'm willing to come to the defence of, in fact, he says the opposite. He's like, why should I care if like X country in Europe is being targeted? Right. And like, of course, it's not about X country. It's about the value of the existence of this alliance. And to be fair, he's been very consistent,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:24:17.820",
+        "message": "Trump, the president has been consistent to Trump, the campaigner, he used to say pretty"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:24:22.220",
+        "message": "much the same kind of nonsense on the campaign trail. Right. He did target NATO even while campaigning on exactly these grounds. The sad thing is that like he's been corrected multiple times on this, right. And again, he's not willing to give up his pet narrative on it. But so on economy, China trade war, WTO, migration, right? Like we should not lose track of the fact that one of the major ways that global flows happen and that value moves around the world is through people. Right. And Trump is clearly trying to build Fortress America that like people cannot actually get into that multiple levels, whether that's like asylum and refugee policy, whether that's like labor migration, whether it's migration by skilled workers, whatever. And again, if he just does it in the United States, arguably, like the people who could have gone to the United States lose out, obviously, the United States itself also loses out. The danger is that other countries either retaliate or take it as a precedent, right, which is not implausible at all, right. When he when he first brought those travel bans, one of the things that he said was these will apply even to dual citizens who have one of their citizenships from these countries. But if the other citizenship is France or the UK or something, I mean, technically under like the letter of the diplomatic relations or the consular relations treaties, these are subjects of reciprocity. And if you're not allowing someone who's a French citizen into the country, you know, in theory, the French are supposed to like suspend access for US citizens into France. Right. The French will obviously make a decision about whether they want to do this or not."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:03.100",
+        "message": "And they obviously won't because they're not led by a madman yet."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:06.460",
+        "message": "Right. But you can see this starting to, not that we're at the situation where there really is like global free movement of people, but there is at least global regulated movement of people. Right. And you can see this sort of leading to a situation where like bits of that become islands that don't speak to each other."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:25.260",
+        "message": "Right. And we move backwards, like we're moving backwards on trade, we move backwards on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:29.260",
+        "message": "So if we regress on migration as well, then that's another vector of the creation of value and global flows that drops."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:38.860",
+        "message": "So, I mean, I was going to ask you about the worst case scenario and the best case scenario in the international domain. But I think the worst case scenario is fairly obvious, is nuclear war and we all get wiped out. Are there less worse?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:50.380",
+        "message": "Oh, so I don't think that interstate nuclear war is actually sort of likely, right?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:26:56.300",
+        "message": "What is your worst case?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:57.420",
+        "message": "You know, it sort of strains credibility, but I have to, I mean, I have to believe that a country that, well, many countries that currently have nuclear weapons, arguably even including Russia, might make the enlightened choice to absorb a nuclear strike and not retaliate. Right? Like, there's again, there's really great game theory work on this on sort of like, what is your decision tree like after you've faced the first strike?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:24.940",
+        "message": "Yeah, but how does sort of game theory take into account an irrational fool like Trump?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:30.380",
+        "message": "I mean, correct. No, that's why I said many, including even maybe Russia, but not the United."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:27:36.460",
+        "message": "So, I mean, I'd say Putin is much more rational than Trump for that matter."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:27:40.700",
+        "message": "At least in affairs like this. Much more evil, but much more rational. Yeah, no, one believes he's the other, right? He's the evil competent one. Yeah. No, my worst case in the nuclear space has to do with proliferation to like non-state or rogue actors, which I think just like slips under the radar, because the US is not doing the same good job of like, global coalition"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:00.940",
+        "message": "building and enforcement that it does. So like they set off a dirty nuke in Bombay and you and I are wiped out and the Delhi people are laughing and saying, hey, you said our air was polluted."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:28:09.180",
+        "message": "That would be terrible. The worst part of that would be the joke. But yes, the joke is terrible. Best case again, I think, is that especially European leaders sort of lead a concerted effort to say, since we know that these are the kinds of stresses and like variations that we have to deal with, let's invest in building sort of more robust, more codified things against this possibility. This is sort of not let a good crisis go to waste. Yeah. And actually improve the robustness of your institutions in the process."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:40.940",
+        "message": "And sort of to move on from Trump right at the end of this episode, you know, Trump isn't an isolated phenomenon in the sense that there are populists all over. And we do have a populist authoritarian in power right now in India. But Trump is very unusual in the sense that, you know, Narendra Modi at least is a conventional politician who's come up in politics for, you know, all those decades. And you could say that in certain ways, he's a rational player. He's responding to political incentives and so on. Trump was a pure freak of nature who is completely irrational, who doesn't lie as much as he bullshits, to use Harry Frank's famous phrasing of it. Is there a threat for you in that, for example, we could one day miss Modi, that there could be a leader in charge who is more like Trump, less rational, less rational, or more willing to play to whatever extremes seem to work at the moment? And I mean, is there a cautionary tale there? Or is there a lesson to be learned about, say, India's rules and institutions, and how good they are or how weak they are?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:45.900",
+        "message": "Yeah, absolutely. Not even to single out India, right? Globally, there is a trend of established political parties usually growing more extreme, right? More reactionary elements sort of capturing or whatever, what do you want to call them? More purist elements, capturing power within the party."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:03.340",
+        "message": "Do you have any thoughts on why that is? Because typically, like in public choice theory, what you learn is you learn the medium voter theorem, which is basically that even in the US, you have the Democratic and the Republican Party, every election in the primaries, they'll go towards the extremes to win the primary votes of the committed guys. But in the general election, they'll immediately swing towards the middle. And you've seen that trend changing, where more and more, the voters themselves tend to swing to the extremes. And that brings a guy like Trump into power. And maybe Bernie Sanders would have given on the other extreme would have given him a tougher fight than Hillary Clinton. And we don't know. So why does"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:36.940",
+        "message": "the median voter theorem no longer work? Two or three things I can think of. One, as with a lot of other theorizing in, especially in public choice economics, right? We should not assume perfect information or even unmanipulated flow of information."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:56.860",
+        "message": "Yeah, I mean, there's rational ignorance and so on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:59.340",
+        "message": "There's one set of issues around basically, who is able to get information out there, who is able to get the narrative out there. Trump visibly, I mean, you if nothing else, you have to give him credit for completely hijacking the media's decision making cycle. Right. And for doing that masterfully. Yeah. Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:20.460",
+        "message": "He perhaps unintentionally again. Oh, that's one where I think he knew the rules of that game. And like,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:31:25.980",
+        "message": "he knew how to spin them to his favor. Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:28.060",
+        "message": "So one of his metrics was how much news I get, how much, you know, airtime I get."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:31:33.020",
+        "message": "Yeah, no, I mean, he I mean, he's confessed in like other speeches since that, like, he basically decided what he would make his slogans based on what the crowd was responding to. Right. So one to do with flow of information and media, one to do with especially in democracies."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:51.420",
+        "message": "All of which are forever held, though they've held over the last few decades, imperfect information, rational ignorance, the tendency to prefer simple narratives over complex ones. And yet the median voter theorem held and now it suddenly doesn't. Now it's profitable for you to go to the extremes in the general elections."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:09.180",
+        "message": "So I suspect and I'm not very well read in this. So I sort of have to caveat. But I suspect that the development from earlier is the fact that the sources of information themselves have fragmented and tribalized. And that you're no longer arguing over what is a good response to an agreed reality. Right. You're arguing over like, a reality that itself is partisanly constructed. Right. And, you know, might not bear all but the most passing resemblance to what the other person sees. Which I think would start leaning you towards greater"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:32:58.780",
+        "message": "Polarization. Polarization, exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:33:02.620",
+        "message": "There's an entire set of theories, at least within the US around what kind of voters are more likely to actually go out and vote or not. And the fact that like, you know, it's the extremes that actually vote on either side or on each side of how many ever sided a distribution this is. And that the median actually tends to sort of assume that they don't have much of a swing capacity and not. That's very well put. And I've argued before"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:33:27.500",
+        "message": "in columns that social media has actually exacerbated this tribalism and polarization and this creation of alternative narratives. I may have taken a lot of your time today. And, you know, thanks so much for your patience. And thanks so much for coming on the show. Thanks so much for coming on the scene in the unseen. I learned a lot from you and I hope you'll come back soon. I would love to be back. Thank you. Thank you."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:34:45.340",
+        "message": "Thank you. Thank you. Thank you."
+    }
+]

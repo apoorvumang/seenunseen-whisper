@@ -1,0 +1,617 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Before you listen to this episode of The Scene and the Unseen, I have a recommendation for you. Do check out Pulya Bazi, hosted by Saurabh Chandra and Pranay Kotesane, two really good friends of mine. Kick-ass podcast in Hindi. It's amazing. Imagine that you are the minister in charge of Mumbai breakfast. All the millions of people in Mumbai want breakfast every morning and you have to make sure that whatever they want to eat reaches them in time. Some people want eggs, some want dosa, horror of horror, some even want poha. But who are we to judge them? This means that you have to calibrate egg procurement, dosa batter procurement, poha procurement, tea and coffee and milk procurement and make sure that everyone gets their breakfast alright and the system never breaks down. Do you think you'd be able to do that planning? All the logistics, the thousands of excel sheets, the contingency plans for everything that could go wrong, is that a job you'd like? What if you failed at it and the people of Mumbai did not have breakfast for a day? A city of hungry people. Sounds like a dystopian nightmare, doesn't it?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:07.920",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioural science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:16.560",
+        "message": "Please welcome your host, Amit Badma. Welcome to The Seen and The Unseen. The question I just posed is plainly absurd. No one person or agency can coordinate the logistics involved in producing breakfast for an entire city and feeding it. But that doesn't mean that people haven't tried. The Soviet Union once attempted to manage a nation's food supplies that way and it led to famine, starvation and food lines. You cannot, as we now know, plan an economy from the top down. Mumbai feeds itself because millions of people pursue their own self-interest and manage to feed themselves by fulfilling each other's needs. Economy works best in a bottom-up way. Languages evolve, culture grows, cities form, economies run in a bottom-up way through what economists call spontaneous order. And our universe and life itself was formed in a bottom-up way. What we call spontaneous order can also be called natural selection. They're basically the same thing. Processes that lead to intricate and complex mechanisms. Designs without the need for a designer. Because of natural selection, we don't need a god to explain this wonderful complex universe we live in. Equally, spontaneous order explains why we do not need government, another false god, to run an economy or a society. We do need government, but not to direct things from the top. And yet, humans tend to instinctively think in top-down ways, to seek command and control, and resist bottom-up explanations. In fact, it's so absurd that many on the right hold on to the religion of God and deny natural selection, while many on the left hold on to the religion of government and deny spontaneous order. They are both making exactly the same creationist mistake. My guest for today is Matt Ridley, author of many fine books, including the one we'll discuss today, The Evolution of Everything. In this book, he writes about how the universe, life, culture, language, cities, our brains, our economies, and even our future, all evolve in a bottom-up way. And thank God for that. But before we move on to the conversation, let's take a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art, like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vazvo x Vazvo, Brinda Miller, Dilip Sharma, Shruti Nelson, and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to IndianColors.com. That's colors with an O-U. And if you want a 20% discount, apply the code IVM20. That's I-V-M for IVM Podcast. IVM20 for a 20% discount at IndianColors.com. Matt, welcome to the scene and the unseen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:40.440",
+        "message": "Thank you, Amit. It's great to be on the show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:42.440",
+        "message": "Matt, it's very interesting how humans tend to think of the world in top down ways in all its different aspects. We've invented God to explain the universe, whenever we think of something that needs to be done, we say, hey, government should do it because someone has to centrally plan it and so on. Now, you studied zoology in college. At what point did you sort of become firstly aware that, you know, the bottoms-up approach to the world is a better way of looking at it? And when did you begin to look at all of the world this way, not just, you know, not just"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:14.560",
+        "message": "zoology and not just natural life? It's a good question. And I don't really remember when this dawned on me. It dawned on me gradually. It dawned on me in a bottom-up way, perhaps. But you're right to say that this for me begins with the natural world, with biological evolution, natural selection, and Charles Darwin's theory, which I learned first about in school and then in more detail at university when I studied zoology, as you say. And I wrote several books about evolution and genetics. And it became more and more clear to me that there is an incredible complexity in the natural world. There is an unbelievable complexity in your body and mine as we sit here with trillions of cells, millions of proteins, tens of thousands of genes, all working in coordination at exactly the right levels of speed and concentration. It's mind-boggling. I mean, it's more complex than any machine that human beings have ever devised or even could imagine devising. And yet we have satisfied ourselves, those of us who understand evolution, and indeed a large chunk of the world, that this can happen without direction, without creation. And it just struck me relatively recently, actually, just in the last few years, that we were being equally creationist about the human world as we used to be about the natural world. And we were thinking of the complexity of a city. We're sitting in Mumbai. It's an enormous city. It's incredibly complicated. Lots of people will have lunch in Mumbai today. Who's in charge of making sure they get enough to eat? The answer is nobody and everybody. It's a bottom-up system."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:01.320",
+        "message": "Right. So what I want to do in this episode is really talk about your book, The Evolution of Everything, which deals exactly with this. I'll just quote a sentence from your book so listeners get a sense of what the book is about. The way that, quote, the way that human history is taught can therefore mislead because it places far too much emphasis on design, direction, and planning, and far too little on evolution. Stop quote. And your book, of course, is called The Evolution of Everything. And in a series of like 16 chapters, you take readers through essentially starting from the universe all the way to the internet, talking about how everything in between cultures, cities, languages, all of them emerge bottom up. And at best, they can be taught, but, you know, people who try to teach them are making a mistake. They can only be learned, as in the case of languages, for example. So I thought we'll just follow the structure of the book and just go kind of chapter by chapter because that made intuitive sense to me when I was reading it. That's fine. And your first chapter was called The Evolution of the Universe. And there's a very interesting concept in there called skyhooks."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:08.240",
+        "message": "Can you explain what that's about? This is a phrase that Daniel Dennett first brought into the conversation, although it was actually invented by a pilot in World War I who was told to stay up there till we need you. And he replied, this machine is not fitted with skyhooks. I can't attach myself to the sky. And obviously, you can't build a building with a skyhook, which is a pity because it would be a nice way to build a building if you could hook a device to the sky and start from the top. But that concept, which Daniel Dennett talks about, is a metaphor for the way we talk about human society all too often and the way we talk about the natural world as well when we're talking. So skyhook is really just a euphemism for God, if you like, in the natural world. But it's often a euphemism for government in the man-made world. But in this chapter on the evolution of the universe, I'm really talking about the way it dawns on Isaac Newton and other people that God doesn't need to be moving the planets directly. They could be moving under their own force. The pattern and structure of the universe could have come about completely spontaneously without intervention by a higher power. And that was obviously an idea that started to take root in the 17th century and gradually developed and that in many ways was resisted. Newton himself conceded that you don't need God to explain the movement of the planets today, but something must have started it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:53.400",
+        "message": "So perhaps that was God. And it's very interesting you talk about this notion starting in the 17th century, but you also write a bit about the 5th century BC Roman philosopher Lucretius, who in a sense anticipated both natural selection and spontaneous order, both Darwin and Adam Smith, in a manner of speaking."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:11.640",
+        "message": "Yes, Lucretius is a really interesting character. We know very little about him. We have this one poem that he wrote. It was rediscovered in the 1400s after being lost for a century, even though people had referred to it. And when it was rediscovered and examined, it was found to be unbelievably modern in its way of looking at the world, and it was heavily influential on philosophers like Spinoza and people like Thomas Jefferson had five copies of it in his library. Very important part of the Enlightenment was the influence of this one poem by Lucretius. And Lucretius himself was harking back to Democritus and Epicurus, yes, thank you, that was the name I was looking for. And it's a poem, so we mustn't get too carried away. He doesn't give details, diagrams, or references for his ideas, but he keeps saying things like, look, are you sure you need a god to explain this? Don't you think actually there's a way in which it could have happened spontaneously? And he comes agonizingly close to describing the process of natural selection, if you interpret it generously. And again and again, he has this refreshing way of saying, look, actually, you can think about this in a bottom-up way. You can think about it coming from below. And it's tempting to think that we were on the brink of a major intellectual breakthrough in the first century AD. Lucretius roughly lived at the same time as Cicero and Caesar and people like that. And then something comes along, and we turn our back on this way of looking at the world for a very long time, and we have to rediscover it in the Enlightenment in the 16th, 17th"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:57.680",
+        "message": "century. And Lucretius was practically branded as a heretic, and his work was lost and forgotten, and possibly because he challenged those top-down notions that the elite sort of had. And that's the same process that anyone who challenged those notions went through. I mean, Newton faced it, Darwin faced it, Adam Smith himself faced it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:16.320",
+        "message": "That's correct. And this is one of the fascinating things, is that it is the ultimate heresy to go around saying, actually, we don't need God. We maybe don't need government. And as you say, I mean, Lucretius was suppressed, actively and violently suppressed, I mean, not himself, but his works were, by the Christian church when it took over the Western world. And fast forward to Adam Smith, a lot of what he says gets him into real trouble and gets his followers into real trouble. People are prosecuted for saying the kinds of things that he's saying. And my feeling about Adam Smith is that if you look at what he's saying, both in the theory of moral sentiments and in The Wealth of Nations, is that he's giving a sort of general theory of evolution, while Charles Darwin is giving a special theory of evolution, by analogy with the special theory of relativity and Einstein, a century before Darwin. So the theory of moral sentiments comes out in 1759, Charles Darwin's Origin of Species comes out in 1859. And so Smith is saying society evolves, society emerges, and he's talking about a morality, how morality emerges, how ethics emerge in the theory of moral sentiments. And he's doing so very much with the view of it coming about through the interactions of ordinary people, how you calibrate what is moral and what is not through the reaction of people in your society. And we don't actually need priests to tell us to behave well. We work it out ourselves, more or less, depending on how well society is constructed by people's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:51.880",
+        "message": "interactions. In fact, your second chapter is called The Evolution of Morality. And one of the things I learned in that chapter is that famous phrase, a metaphor of the invisible hand, was not used by Smith in The Wealth of Nations, but before that, in a theory of moral sentiments, where he was talking about how morality emerged in a bottom up way, exactly as you're saying, and that, you know, moral strictures are not dictated by gods on high or priests or whatever. But they emerge through human interaction, as we learn how to get along with each other"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:20.560",
+        "message": "on society in a manner of speaking. Yes. And so it's worth remembering that people think of the invisible hand as purely an economic idea, but actually, I don't think it was, I think he was. It's a delightful phrase, and it's teasing and it sort of hints at this idea that morality emerges."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:39.080",
+        "message": "Right. So you gave an example of morality emerging, for example, where you contrast the disapproval of homosexuality with the disapproval of paedophilia. And how one that is a disapproval of homosexuality has sort of receded in the past decades. And the other has sort of, you know, more people disapprove of paedophilia, for example."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:59.880",
+        "message": "So if you know, Very striking, I think, in my lifetime, that, I mean, paedophilia was not condoned, but it was, you know, there was very little fuss about it. There were a lot of schoolteachers who were probably behaving badly in the 1950s. And, you know, they weren't prosecuted, they were just, well, you know, get out the way or something. Whereas homosexuality was illegal at the time, and people were prosecuted. People like Alan Turing, you know, committed suicide under pressure from this. Today, quite rightly, we are extremely tolerant in society, generally, of people being gay. And we say, well, that's completely up to them. That's, you know, that's none of government's business. But we've become extremely intolerant of people raping or seducing children. And again, rightly so. But my point is that those changes didn't come about because somebody in charge said, look, we're being too lenient about paedophilia and too strict about homosexuality. They came about because ordinary people changed the conversation themselves. Politicians followed suit in these cases, you know. Politicians were catching up with the way society was changing its mind about these things. And I think that's a very important lesson in how morality changes. It tends not to be because some leader tells us what to do. This word leadership that everybody uses about how we are going to come on to leadership, I think. Yeah, exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:32.400",
+        "message": "It is a great mistake. Right. And I was particularly struck by one paragraph in that chapter, and I'm just going to read it out again. Quote, a Smithian child, you mean Adam Smithian child, a Smithian child developing his sense of morality in a violent medieval society in Prussia, say, by trial and error, would end up with a moral code quite different from such a child growing up in a peaceful German suburb today. The medieval person would be judged moral if he killed people in defense of his honor or his city, whereas today he would be thought moral if he refused meat and gave copiously to charity and thought shockingly immoral if he killed somebody for any reason at all,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:08.760",
+        "message": "and especially for honor, stop quote. Isn't that interesting? I know. This is the Norbert Elias theory of how culture has changed, which Steven Pinker also writes about it at great length. And what was virtuous in the Middle Ages, it was often to kill bad people, whereas today it's virtuous not to kill people at all, except possibly in self defense."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:33.280",
+        "message": "In fact, recently, I saw this meme on the internet about some 1920s advertisement, which told women how they should be the ideal wife, and you and you kind of read all of that, and it's completely shocking. And thankfully, social morals have sort of evolved away from that and changed completely. But would you say that morality always evolves in the right directions? I mean, of course, we're defining right from our vantage point."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:55.620",
+        "message": "But isn't that interesting? Why should it evolve in the right direction rather than the wrong direction? We've lived through a couple of hundred years in which morality has tended to evolve towards liberalism, towards tolerance, towards being less judgmental, except in cases like pedophilia. And to some extent, that must be arbitrary. I mean, it must be possible for morality to evolve in the other direction. And maybe you see that in some of the more theocratic societies today that Islam has gone from on the whole being perfectly tolerant to somewhat less tolerant moral code in some countries towards various forms of blasphemy, homosexuality being an example in that case. So fundamentalism does emerge by the same process. And intolerance can emerge by the same process. And some of the things we're seeing today on how intolerant people are of free speech, etc., could be seen in that light. So I think we can take it for granted that morality will continue to evolve in a generally"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:02.680",
+        "message": "liberal direction. Right. Moving on to sort of your third chapter, which is the evolution of life. And again, one hardly sort of I think most reasonable people are now except natural selection. And the interesting thing here is that you talk about how Darwin was inspired by the ideas of Locke and Smith, and before them, obviously, from Lucretius. And the great quote, which you referred to earlier in this episode is, quote, the general theory of evolution came before the special theory, stop quote, when Darwin sort of got his ideas, were they kind of heretic or were they an idea whose time had come?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:38.880",
+        "message": "I think if Darwin hadn't come up with a theory of natural selection, we'd still have got it around the same time. I mean, we know that's to be the case because of Alfred Russel Wallace, obviously, who simultaneously stumbled upon the same idea. Now, Wallace wasn't going to have quite such a good catalogue of anecdotes and evidence to buttress it and quite such good connections as Darwin to push the ideas that might have struggled more, it might have come forward in different forms. And Darwin was remarkably intellectually consistent in a way that Wallace wasn't, you know, Wallace refused to believe the human brain could have come about through natural selection, for example. So it would have been different if Darwin hadn't been there to do it. But I think you're right in the sense that evolution by natural selection was ripe to appear around that period. We had the pieces in place. And as I say, to a surprising extent, it comes from these Enlightenment thinkers from the 18th century, people like Locke and Smith and so on, influencing people like Darwin. The milieu that he grew up in was very much based around these ideas of Smith and people like that about free markets, about freedom generally. And I think, you know, you needed to plow the ground before you could sow the seeds of Darwinism. But it was still very heretical. I mean, it was still hugely resisted, mainly from the point of view of religion, which it was seen as a threat to. And of course, still is, I mean, in many parts of the world, particularly parts of America, natural selection is rejected out of hand, because it seems to contradict the Bible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:17.160",
+        "message": "No, and it's very sort of interesting that before Darwin, all the thinkers who sort of expressed such ideas, you know, God was a thing you couldn't touch. So even Newton, when he would say things which would normally lead you to atheistic conclusions, or even Descartes, would, you know, the hedge at the very end, and sort of pay lip service to theistic concepts, at the end of the day."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:40.440",
+        "message": "Well, Amit, I'm curious as to what, to the extent to which I'm seeing everything through the lens of Christianity, whereas, of course, there are many, you know, there's always been many people living under different religious dispositions. And I'm curious as to how easy or difficult it would be under Hinduism or under Buddhism or under Islam, for these bottom up ideas to emerge. And of course, they must have done. And sometimes unsuccessfully and been suppressed, and sometimes come through more successfully. It sort of feels like the Buddhists should have been quickest to this, because in a way, the deity in Buddhism is a bit of a bottom up deity, if I could put it that way. I don't know what you think about that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:28.420",
+        "message": "It's interesting. And also, I think, Hinduism is evolving in more intolerant directions today, there's a tradition within Hinduism that talks about that is an atheist tradition, the Charvaka tradition and so on. Having said that, most of the Enlightenment ideas, to be quite frank, came from the West. You know, a friend of mine was attempting to write a book on the history of liberalism in India and actually trying to examine whether there are sort of liberal ideas that took root in India spontaneously, and it's very hard to come across them, they're all sort of guided by God or other sort of top down ways. So you know, all of these ideas of spontaneous order and natural selection have definitely come to us now from the West, but I think all the world is one now. So it's sort of kind of moot. Your fourth chapter was very interesting, especially because the first book I read of yours was Genome, all those years ago, and your fourth chapter is about the evolution of genes, and where you talk about how most people, even scientists tend to think of genes in terms of a skyhook, that genes are the master plan for the body, but you say it's"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:35.920",
+        "message": "not so. Yes, this is an interesting one, I think, because when we first decoded the human genome, there's a lot of literature out there in genetics talking about wanting to find the master genes, the genes that control the other genes, and so on, and this is just the wrong way of looking at it. This is a network, not a hierarchy. Every gene is affecting every other gene, and so on, not every gene, but most genes are affecting other genes in different ways. And we had to get used to the idea that there were only 21,000 and not more genes, and that while there are genes that switch on earlier in life, or whatever, and start a cascade of events that result in other things, most genes are contributing proteins that are parts of a machine, rather than chains in a series of events, and I think that is an idea that hasn't quite sunk in. So even geneticists confronted with this extremely bottom-up system, which is the development of an incredibly complex body from 10-20,000 genes, have tended to think in terms of leadership by certain genes over other genes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:53.400",
+        "message": "And your point is that every gene, if you use a metaphor of acting, because genes don't actually have volition, but every gene, in a sense, is acting in its own self interest. It doesn't really give a damn about the master plan. You know, in the same way as you spoke about feeding lunch to the city of Bombay, and here I am in the city of Bombay, and I'm just doing my own thing, but I am, in a sense, contributing to this master plan of giving lunch to all of Bombay, including to myself. But it's not a conscious directed way, it's sort of, I just do what I do, everybody does what they does, and the city runs as it does."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:24.520",
+        "message": "Yeah, and I think that's, it's a very good analogy, a cell is like a city. You know, there's lots of individuals do going about their business doing their different things. And for the city to function, all it needs is for everybody to do their bit, not to try"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:39.280",
+        "message": "and tell everyone else what to do. And I'm sort of struck by another quote of yours, which, again, harks back to Dawkins in his classic book, quote, it is a selfishness of the genes that enables individuals to be selfless."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:53.200",
+        "message": "Stop quote. Well, Richard Dawkins wrote The Selfish Gene in the 1970s, very influential on me, I read it when I was just starting at university, and he then was one of my teachers. And I think he had a blinding insight that the generous behavior that human beings show could come about because of the self interest of genes rather than because of genes for generosity sort of thing. And it's, you know, it's quite a hard concept to get your head around. And you know, how could we be anything other than the results of replicating devices trying to ensure their progression into the next generation. And that is, when you think about it, a very Smithian concept. Now, a lot of biologists, evolutionary biologists are convinced by this kind of selfish gene argument would not find themselves at the free market end of the economic or political spectrum and probably haven't understood that parallel, in my view."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:52.440",
+        "message": "And that's a pretty stunning dissonance. You sort of end the chapter by saying, quote, the more we understand genomics, the more it confirms evolution, stop quote, moving on now to your fifth chapter, which is the evolution of culture. And again, I'm going to quote a para from the start quote, one of the great intellectual breakthroughs of recent decades led by two evolutionary theorists named Rob Boyd and Pete Richardson, is the realization that Darwin's mechanism of selective survival resulted in cumulative complexity applies to human culture in all its aspects to I think I read that somewhere. But anyway, our habits and our institutions, from language to cities are constantly changing. And the mechanism of change turns out to be surprisingly Darwinian. It is gradual, undirected, mutational, inexorable, combinatorial, selective, and in some weak sense, progressive, stop quote, and an illustration you give of how culture evolves is language."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:51.200",
+        "message": "Yeah, I think language is a very good case to think because we can see language changing before our eyes. We see pronunciation changing, we see vocabulary changing, we see new words, we see words changing their meanings and so on. And we know, don't we, that no one is trying to do this. No one is setting out deliberately to introduce a new word into the English language or something like that. It's coming about very gradually by mutation and selection, by relatively random changes, some of which are accepted and some of which are rejected. And one of the things that people used to say is, well, hang on, culture cannot be Darwinian because a lot of the things we do are deliberate. We are conscious, we're planning things, we're trying to change something. That makes it very, you know, that's directed mutation. The point of natural selection is that it has to be random mutation in order to discover new things. But actually, there's been some good mathematical modeling that shows that while even if most of the things people try and do are conscious and are deliberate, as long as there's an element of randomness, as long as there's an element of trial and error in there, you will get a surprisingly powerful Darwinian evolution happening. And Joe Henrich and his colleagues particularly have made this argument that actually, and once you drill down into human culture and understand how it works, it looks much more evolutionary and much less led and planned than we have tended to assume."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:19.680",
+        "message": "In fact, one of the points you make is that language is learned, not taught. And an example you give of this is top down language teaching versus bottom up language teaching and top down would be like, say, if I at the age of 44, try to learn a foreign language like French is for me, and, you know, I really struggled, I, you know, start learning it in a superficial way, and it could be really hard going. But every baby born in France just does it so naturally in the bottom up kind of way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:50.840",
+        "message": "That's right. And, you know, I think we've made a mistake in trying, I mean, I was taught Latin and Greek when I was a child, I remember almost none of it now, it's faded. And learning from being taught those kind of languages is surprisingly difficult, whereas if I had lived in France or Germany or India, I would have, as a child, I would have very quickly absorbed. And, you know, I did pick up, I mean, I lived in India for a few months, one year, and I didn't become proficient in Hindi, but, you know, I absorbed it without anybody teaching me. Now, of course, it helps to have a language teacher. But essentially, what a language teacher is, is just, you know, a good one, it's just immersing you in the experience so you can do the learning. And I think that's a good example of how we learn rather than teach."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:37.120",
+        "message": "And I found that you also outlined a number of rules on how sort of language tends to evolve. For example, frequently used words tend to be short, common words change slowly. For example, the meaning of the you said is never really going to change because, you know, you'd have to make too many people learn a new meaning. But something like prevaricate has, in fact, changed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:58.680",
+        "message": "Yes, exactly. So the word prevaricate is now routinely used, certainly in the UK, I don't know about elsewhere in the world, to mean delay. It doesn't mean that. It means to lie, actually. People when they say prevaricate, they're thinking of procrastinate. But they actually, for some reason, they use the word prevaricate instead. That's changed in my lifetime, there's no point getting cross about it and saying we've lost a perfectly good word, procrastinate, and we've, you know, we've lost the meaning of the word prevaricate. These things happen. But it's not going to happen to a small word like me or and or the, you know, those don't change. Those regularities, those rules look like they were, you know, set down by some Supreme Court of the English language, which, of course, is not the case."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:42.560",
+        "message": "It's that it's a natural pragmatism of all of us. It's natural pragmatism is a very good way of putting it. And in fact, before we started recording this podcast, I told you, I'll record the intro and the outro later. And then it strikes me that outro also in a manner of speaking is a word that is evolving. Because there's really no such word as outro. But well, I would argue now there is because people use it that it's everyone understands what one means by it."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:07.120",
+        "message": "Well, who invented it? When?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:09.440",
+        "message": "Who started the word outro? Who knows, if you're listening to this podcast, eight centuries later, I'm going to take credit for it. Yeah, no, there's no central planning directory, which marks the date on which it was invented by a committee, we're now going to take another word that, you know, didn't mean what it now means a while ago, a break, a short commercial break, so we'll be back after that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:32:31.360",
+        "message": "Hey, it's been another great week on IBM podcast. If you're not following us on social media, please make sure you do we're IBM podcast on Twitter, Facebook and Instagram. This week, we have a new history podcast echoes of India with Anirudh Kanisetti. The inaugural episode narrates the story of Gandhara, the melting pot of the ancient world where Indo Greeks worshipped Greco Indian gods. On Cyrus says Cyrus is joined by Varun Duggirala, co founder and content chief at The Glitch. Varun recollects his early days as an intern on MTV Pakra, his many oddball jobs and his new podcast advertising is dead. Yes, that's right. He has a new podcast launching on the 27th. Each week, Varun will discuss the changes and developments in the business of advertising, branding, content, media and a whole range of issues that exist within the industry. Episodes are out every Tuesday. On the scene in the Unseen, Amit Verma is joined by author and journalist Matt Ridley to discuss the evolution of the universe, life, culture, our minds and our futures. On the Geekfruit podcast, Tejas and Dink are slowly lose their mind while they're trying to process just how much they were disappointed by the Fantastic Beasts sequel. Next week on IVM Likes, Abbas and Surbhi talk about Homecoming the podcast versus Homecoming the show. Also, we're reaching 100 episodes of IVM Likes soon. Share your favorite moments from the show with us and your most memorable recommendations. You can write to us at shows at IndusFox.com. Also send us a voice note if you can and we'll play it on the 100th episode. And with that, let's continue on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:43.880",
+        "message": "Welcome back to the scene in the Unseen. I'm chatting with the author Matt Ridley about the evolution of everything. To go back to your fifth chapter about the evolution of culture, there was one sentence I'm going to ask you to explain to me, which I didn't really quite understand, but it's very intriguing, which is you write that in people, genes are probably the slaves, not the masters of culture."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:05.360",
+        "message": "Ah, yes. Well, what I think I'm trying to argue here is that gene culture coevolution is the idea that if culture changes, that could put pressure on the genes to change. So for example, we have tended to argue that in order to become modern linguistic people, something had to change in our brain. And after that, we began speaking because at last we had the circuitry to use language in our heads. I've argued, and I've published peer-reviewed papers arguing this actually, that it could be the other way around. So for example, if we started using our voices a lot to communicate, that would put selective pressure on whoever could articulate particularly well to have more children because they're better at communicating. So it's the culture that starts the change and the genes that follow. The culture is the horse and genes are the cart."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:10.880",
+        "message": "And it's like the virtuous cycle in that case."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:13.320",
+        "message": "Yes, that's true, exactly. It's a virtuous circle. But we have very nice examples of this. For example, in tolerance of milk, the ability to digest milk, which is something that Western Europeans have and some Africans have, but is relatively rare elsewhere in the world. I think it's relatively common in India, but I'm not sure. But in the Far East, it's really quite scarce. Now why is that? We're talking about adults, I mean obviously children can digest milk. Lactose is the key thing. Lactose is a sugar-founded milk that adult human generally can't digest unless they come from certain cultures. Now what happened? Did people say, oh good, I'm lactose tolerant, therefore I'm going to invent dairy farming? Or did they invent dairy farming and get some benefit out of eating milk because after it's got proteins and other things in it and you could turn it into cheese and eat that, which is fine. But they all had a bit of indigestion from the lactose. And then people who genetically found that their infant genes for lactose digestion remained switched on throughout life were suddenly at an advantage. They got more energy out of the milk than other people. And so the genes started changing. So we know in that case, I mean that's far more plausible as to what happened, is that the culture changed towards keeping animals for their milk and that was followed by a genetic change."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:49.920",
+        "message": "But with that sort of natural selection not happening now, it's kind of moot, right? You can look at the past and talk about culture influencing genes, but that's no longer happening"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:58.560",
+        "message": "obviously, right? Well, I'm not so sure. I think there are things that are happening today that are bound to be changing, putting genetic influences on us. It's hard to think of an example. One of the problems with modern culture is it changes so fast and often not consistently in the same direction for a long time. But suppose there's a lot of people who have relatively small numbers of children today. Now if there's some cultural habit that's leading people to be less likely to have babies and other cultural habit that's leading people to have lots of babies, then these will change."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:37.360",
+        "message": "Then we're in trouble because I always argued that smarter people have less babies."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:41.640",
+        "message": "Well, there is that. And actually, if you look at all religions around the world, whether you look at Protestant Christianity, Catholic Christianity, different forms of Islam, Judaism, Hinduism, on the whole, the more orthodox and fundamentalist people are, the more children they're having. There's a very good book called The Religious Shall Inherit the Earth, I think it's called. And the argument here is that now that we're limiting family size voluntarily, and it used to be that everybody tried to have as many children as possible, but now that most people are settling for one or two children, the exceptions are going to be dominating posterity to a surprising extent. Now those exceptions tend to be fundamentalist. So if there is a gene for fundamentalism, like, exactly, it's on, it's on the rise."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:30.440",
+        "message": "You end that chapter on culture by writing about cities. And you point out, you know, in India, these days, our Prime Minister Narendra Modi keeps talking about smart cities, he wants to design new cities, and, you know, a huge amount of top down thinking. And what you actually point out is that most big cities emerge spontaneously, they weren't planned by some government or higher power or whatever. And an example you give of this is England in the first half of the 19th century."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:56.320",
+        "message": "Yes. No, I mean, the growth of industrial cities like Manchester or Birmingham in the UK is an entirely spontaneous phenomenon, there's there's no, you know, government didn't set out to say, right, we're going to build some bigger cities. It's true that when people realized how cities were growing, they then said, hang on, let's plan the infrastructure so that it's more user friendly. So for example, the grid system that you get in the middle of many American cities, and indeed, curiously, in Glasgow, for example, is an example of top down and, and we're often very grateful for it. I mean, you couldn't get around Manhattan so easily if it was a higgledy piggledy city like, well, you could, I mean, we get around London, okay, we get around Bombay, okay. Obviously, you know, you can't have zero government in a city, you can't have no police, you can't have no ability to build the roads, you can't have no traffic lights, you know, that's not what we're saying. What we're saying is that you do have to take into account that these things will change spontaneously and you may be wrong if you plan for them to change in one way, and they actually want to change in a different way. It's a bit like the way if you set up a park, and you put the paths across the park wrong, and people say, no, actually, I want to work from that corner to that corner, not this corner to this corner, then people will make what they call desire lines, which is tracks across the grass. And you're much better moving your concrete to where the tracks are than trying to put up big signs saying keep off the grass, stick to these tracks."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:26.440",
+        "message": "And in a sense, it's much better, therefore, letting a city or an urban settlement evolve as it will, and then building the infrastructure to service it and, you know, getting all of that done rather than trying to second guess what people may want and putting that in place."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:39.480",
+        "message": "Correct. And I mean, although, as I say, you can go too far, you do have to anticipate demand to some extent, for example, for water or something like that. But it's important to be flexible and say, look, hang on, the way people want to live in cities these days is actually changing, and we shouldn't disapprove of it, we should just change the way we're operating so as to make room for it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:01.200",
+        "message": "And a magnificent book I'd recommend to my listeners, and I know you must also be a fan of it is Death and Life of Great American Cities by Jane Jacobs."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:07.880",
+        "message": "Oh, yes. I mean, Jane Jacobs is the genius behind these ideas for cities, because she was the one who, who campaigned against the sort of central planning of infrastructure in New York that was ruining neighborhoods."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:22.360",
+        "message": "Epitomized by Robert Moses. Robert Moses. Exactly. Yeah. Yeah. Let's move on now to chapter six, the evolution of the economy, which begins by your invoking Frederick Bastia, who is also the inspiration behind the name of this podcast, the seen in the unseen. And Bastia wrote about just as you were talking about, you know, giving lunch to the people of Mumbai. Bastia wrote about feeding Paris, where he said that who feeds Paris, that if you have a central planner who tries to feed Paris, the task will simply be too overwhelming. But hey, Paris manages quite fine on its own."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:56.480",
+        "message": "Yeah. Yeah. I think this is a great insight. It's a great way of looking at the world and Bastia really nails it here. Because with food, people immediately get what you're talking about, I find, that if you say, look, there's a better way of feeding Bombay, and that is to put one food commissioner in charge of it, and he can plan well in ahead and make sure that the right amount of food is available to the right kind of people. Well, we know that doesn't work. It's called central planning. It was tried in the Soviet Union and other places, and it's a disaster wherever it's tried. But we know that the way to achieve the feeding of a city is supply and demand, that if there's not enough demand for fish and there's too much supply, there's not enough supply of bread, and there's too much demand for bread, then the price of fish and bread will reflect that, and that will automatically adjust without anyone anticipating it, without anyone ordering"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:59.520",
+        "message": "it, without anyone leading it. And there's a nice dystopian novel to be written there, the food commissioner."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:04.840",
+        "message": "There is, that's a good point. Let's do it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:07.840",
+        "message": "Yeah. And one interesting point you made, which, you know, and so for a moment, I'll ask you to kind of digress, you say here, today, few people appreciate just how similar the arguments made by Smith and Darwin are. And the thing is, essentially, to me, the way I see it, it's an identical argument. I mean, natural selection is spontaneous order, which is a term people use for the way the economy sort of forms itself, that you don't need a central planner, that all of these things happen by themselves. And it's a beautiful, almost mystical process, in a sense, like Douglas Adams once said that he didn't need God because the wonder of natural selection was enough to fill him with that kind of amazing awe. But yet we find that when it comes to politics, you have, you know, people on one side who are creationists of one sort, and people on the other side, people on the left are actually creationists when it comes to the economy. Why do you think that is?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:01.640",
+        "message": "This is a fascinating phenomenon, isn't it? So I've, in my career, mixed with free market economists and evolutionary biologists. And I've often said to them, you guys are saying the same thing. Do you realize it? And the evolutionary biologists will all vote for, nearly all, not all, but will mostly vote for a sort of socialist view of the economy, and the free market economists will quite often be found saying, well, no, I, you know, I don't really think Darwinism's right. You know, because they're on the, free market economists tend to be associated with the right wing, certainly in the United States, whereas evolutionary biologists tend to be on the left wing because they're academics and scientists, and most are."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:45.360",
+        "message": "And I long to bash heads together and say, hang on, yeah, exactly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:50.360",
+        "message": "And you know, forget right and left. This idea of spontaneous order is more important than that. And it's neither one thing nor the other. I mean, it's certainly, you know, if by right wing, you mean authoritarian, it's certainly not that. It's the very opposite of that. And you know, what could be more liberating than the idea that ordinary people are in charge of their own destiny through a slightly messy, but rather beautiful system of spontaneous"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:14.160",
+        "message": "order? And in fact, that's something where you talk about the economy as well. Again, I'll quote from you, quote, free market commerce is the only system of human organization yet devised where ordinary people are in charge, unlike feudalism, communism, fascism, slavery, and socialism, stop quote, where you kind of point out that the decisions about what companies should exist, who should make a profit, who is doing a good job of serving others or whatever, are made by ordinary people, not some central power in that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:42.240",
+        "message": "Yeah, look at the way big companies are vulnerable to their consumers. You know, if Kohler launches a product and it's not good, then the whole Kohler company is in trouble. You know, I mean, look at the way big companies have to rush to, you know, if they offend their consumers, their customers in some way, they're in real trouble quite quickly. So in a proper commercial system, as long as these big companies don't have the ear of government and can get defense that way, they are very vulnerable and the people in charge are the ordinary people, the customers, which is by the way, one of the reasons I never use the word capitalism for this system if I can, because capitalism is a much more top-down view. I think it's an idea of big capitalists being in charge and I think that's the mistake. I think we need to think of it as consumers being in charge of the pull from consumers rather than the push from producers. That said, through crony capitalism, through the links between business and government, it is sometimes possible, of course, for big business to behave in a very heavy-handed and top-down way and insist that rival small competitors don't get a chance and so on. So I think that's, you know, one has to watch out for that. But that isn't free commerce."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:02.680",
+        "message": "I mean, I've heard historians who defend Nehru's sort of Fabian socialist vision say that, listen, in the late 40s, he set up, he got a group of industrialists together to form what was called the Bombay Plan, to talk about their vision for an independent India, whenever India became independent, what the economy should look like. And they say that, look, they endorse Nehru's view of a top-down, socialistic planned economy model. And my reply to that is, of course, they would, they're protecting their markets. In an actual free market, no one is protected. The government simply doesn't have the power to protect this player or that player and, you know, and a classic example of how this kind of creative destruction happen is in the fact that, say, a company like Kodak, which was such a behemoth a while ago doesn't exist anymore. And you know, 12 years ago, if you had to buy mobile phones, you know, Nokia was a big player and people who wanted to send emails on their phone would use Blackberry and look what happened, you know, things change so fast, because the consumer is always kind of in charge. And yet there is this sort of tendency to look at government as a solution for everything and I'm going to quote another sort of paragraph which also spoke to me where you say, quote, take six basic needs of a human being, food, clothing, health, education, shelter and transport. Roughly speaking, in most countries, the market provides food and clothing, the state provides health care and education, while shelter and transport are provided by a mixture of the two. Now, stop quote. And what is kind of obvious to anyone listening to this is that look in terms of what the market provides in terms of food and clothing, we have like far greater variety than we ever did before we get far greater value for money, anyone can kind of afford those. But when it comes to health care and education, which the government provides, it is such a mess."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:50.480",
+        "message": "Yes, I think this is a very striking point, actually, that, you know, it's not immediately obvious why we haven't got a National Food Service in the UK and allowed health care"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:04.640",
+        "message": "to be provided by the market. I mean, there are reasons, but it's, you know, health, you never know quite when you're gonna need health care, and so on. But as you point out, there was a sort of a National Food Service, we've seen that counterfactual"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:15.920",
+        "message": "in the Soviet Union. Indeed, and in the UK, we had food rationing, right through in the 1950s, Germany gave up food rationing much sooner than Britain, because they saw that if they stopped food rationing, supplies would rise to meet demand. And Britain kept thinking, no, no, food's still scarce. So we're still gonna, well, the reason it was scarce, because you had rationing, you know, I mean, it's a circular argument. Just look at the way food and clothing are cheap, varied, responsive to demand, and evolving all the time. Just look at the way health and education tend to get stuck in these ways of dealing things and tend to be starved of resources, and everybody's complaining that there's an off budget, and so on. It's no coincidence that on the whole, they are provided by the government, whereas food and clothing are provided by the market. We need to try and find more market mechanisms to deliver health and education. Now, that doesn't mean we dissolve all government intervention overnight, and some countries have found quite good ways of government making sure that poor people don't suffer for lack of health care or education. The obvious thing is a voucher system. You know, you essentially say, look, here's a voucher for educational health, go out and buy it from whichever provider can provide it for you best, that would provoke a ferment of innovation in trying to deliver effective health care and food and education to people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:41.240",
+        "message": "For those of my listeners who don't know what a voucher system is, I've had an episode on this in the past, I've had different episodes on education, a voucher system basically means that the government continues to spend what it is spending on education, but it empowers the parents. So instead of funding the schools, it gives vouchers to the parents and wherever the parents choose to send their kid, that school can encash the voucher, whether it is a government school or a private school. And parents are really in the best place to make decisions about their children's education rather than the state. I've got a couple of episodes of this in the past, which will be linked from the page of this podcast. So you can kind of have a look at that the analog I tend to give to people about you know, the difference between private provision and government provision is that back in the 1980s, when I was growing up in India, telecom and airlines were government monopolies, you had one government telephone company, and it would take up to five years to get a telephone connection. So if you want to, you know, if you want to telephone today, you get on the waiting list, it takes maybe five years. And a ditto the one government airline was so expensive, most people couldn't afford to travel. But those got privatized in the liberalization of the early 90s. And today, anybody can, you know, buy a phone, which is like ludicrously cheap compared to what it was, and you'll get a phone in five minutes today. And equally airlines also are extremely cheap. But what the government did not allow the private sector to do enough in was, for example, education and healthcare. And the argument with education always is that listen, it's too important to be left to the market."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:13.200",
+        "message": "And I would actually argue that dammit, it's too important to be left to the state. I think you're exactly right, and you know, we're constantly talking about market failure. Well, we need to talk about government failure. You know, I mean, the government is chronically bad at delivering certain things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:28.960",
+        "message": "And government failure is literally ubiquitous and market failure only tends to happen when the government doesn't allow the market to operate. On the whole, I think that's true. Yeah. Let's let's kind of move on to your next chapter, chapter seven, which is the evolution of technology. And again, you wrote a piece in the Wall Street Journal, if I remember correctly, which kind of summarise the arguments made in this and this I found really interesting where you talk about how technological innovations seem to come about almost as a matter of course. And it's not like there was one great inventor who invented something and without him, we would not have that invention. But it's just like when there is a time for it, they kind of happen, you give an example of the light bulb and everyone says that, you know, Edison was the inventor. But the point you make is if Edison didn't invent it, it was inevitable someone would have because there were 26 simultaneous."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:21.040",
+        "message": "I think it's either 21 or 23, depending on who you count. People who can lay claim, according to Robert Friedel, who's researched this, to have invented the light bulb independently of Edison. And there is no question that if Edison had been run over by a tram, we'd still have had light bulbs. Because the ability to create a vacuum with a vacuum pump, the ability to blow glass, the ability to make light with filaments had all been developed. And these technologies were bound to come together. And you've got lots of people doing it. And actually, you find this phenomenon with pretty well every technology that there is a phase of simultaneous invention when lots of people arrive at the same idea at the same time, because the idea is ripe."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:01.640",
+        "message": "It's evolved."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:54:02.640",
+        "message": "In the late 1930s, computing is sort of inevitable. You know, you've got lots of different people trying to do it. Some more electronic than others, some more mechanical. But you know, they're basically the ideas that come together to make computing are ready to marry and mate and produce a new idea. And so this makes the changing technology of the world a much more inexorable process than we tend to think of it. We tend to think, my goodness, if Einstein or Edison hadn't come along, the world would have remained stuck in a different state. And that's simply not the case. There's a paradox here, though, which is that if that's the case, then why didn't we invent everything hundreds of years before? And also, why does it happen in certain parts of the world? Why does Silicon Valley have to invent the software or whatever? Why does Victorian Britain have to develop the steam engine? Why does it happen when and where it does? And I'm still wrestling with those. And actually, that's going to be a big part of my next book is writing a book on innovation to try and understand this process. But the idea, it has to be seen as evolutionary. It's the combination of ideas, the recombination of ideas, and they turn into new ideas as a result. And Kevin Kelly has a wonderful book, which he writes about, which is called What Technology Wants. And he's trying to turn it upside down and say, look, it's technology that's doing the evolving and it's choosing the inventors to do it. And actually, that's a surprisingly fruitful way of looking at it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:38.720",
+        "message": "In fact, there's a great sentence in your chapter, which says the same thing, quote, we ride rather than drive the innovation wave, technology will find its inventors rather than vice versa, stop quote, and you also use this to sort of make the point that, you know, we should kind of rethink patents, therefore, because patents tend to favor the lucky guy who just happened to file the papers first. So, you know, technology, in a sense, is inevitable, it's evolving, it's going to happen anyway."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:05.440",
+        "message": "Well, I do think that intellectual property is overrated. The more you study it, the more you see that it's actually being used for exactly the opposite purpose for which it's intended. It's intended to incentivize innovation. It has tended to morph into a system whereby people keep competitors out and hang on to monopolies longer than they deserve to. You've obviously got to have a balance here, because you can't simply throw open to all competitors something that you've, through regulation, insisted be tested very carefully before it's released on the market, like a drug or something like that. And it's the same with copyright. I think the metaphor that we use for intellectual property for copyright or patents is wrong. It's not a property, because the thing about physical property, a building or a house or a field or something, is that I can own it and prevent anyone else having access to it. But if I were to share it, then I lose something. Then somebody else is using my house and we can't both live in the house at the same time. Whereas with an idea, you can give it away and still have it, although you're less likely to be able to make money out of its monopoly. So actually, the way Paul Romer talks about this kind of thing with his endogenous growth theory is that by being the first mover, by getting there first, you get a brief monopoly anyway. You've got to figure out how to put this together, and that's enough to keep you going. And if you look at most of the software industry, it hasn't been made possible by patents. It's been made possible by people getting there, being smart, doing it first, and doing it well. You know, Apple and Amazon and people like that don't rely on patents to keep their competitive edge. They rely on innovation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:52.280",
+        "message": "And that's the way we should be thinking about the world. Chapter eight is called Evolution of the Mind. And I found it really interesting and counterintuitive because people think that if there is one thing that is top-down, it is surely the self, that I am in charge and my body and my brain are under my control. And I've recently sort of come to rethink free will, and I pretty much don't see how free will can be there. I kind of follow in the path of Sam Harris and Robert Sapolsky in this. And your chapter does a fascinating overview of that whole debate and shows that how a lot of what we think we are doing, we aren't actually doing it. We are sort of, the causation is sort of the other way around."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:32.840",
+        "message": "Yes, this is a very different chapter to the rest of the book, and I delve into philosophy and as always with the free will argument, and I've wrestled with it in previous books before, I'm never entirely satisfied that I've reached the right answer. But I do think that we have to move away from thinking of a homunculus in the middle of our brain in charge, sitting at a little control. In the movie Men in Black, they open up a corpse and they find this little person sitting in there with a control panel, and of course, that's not what's going on. And when it comes to things like responsibility for your behavior, for example, somebody who commits crimes and it turns out to be a tumor in their head that's causing it, that sort of, we're clearly then saying, okay, so it wasn't you that was responsible, it was the tumor. Well, what is you? You know, I mean, who would you be? And actually, we need to turn this over and start thinking it the other way up, you know, that after all, we know that the mind is simply the product of the brain, there's nothing else in there, you know, there's no, we're never going to find some sort of secret source called the soul."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:45.880",
+        "message": "No, and it's always been fascinating to me how personality and identity are so contingent. You know, you tweak the chemical balance of your brain a little bit, or you, you know, if there's a tumor somewhere, you suddenly become an entirely different person. And I think this should introduce humility in a lot of people about who they really are."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:04.480",
+        "message": "Correct. So at three in the morning, I'm a pessimist. At noon in the daytime, I'm an optimist. I don't, you know, it's nothing to do with the world, it's to do with the brain chemistry of my head."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:15.440",
+        "message": "You're a rational optimist."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:16.440",
+        "message": "I am indeed a rational optimist. Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:20.440",
+        "message": "I know we are running kind of short of time, I need to wind this up. So let's kind of go through the different chapters. Your ninth chapter is the evolution of personality, where you refer to that classic book by Judith Rich Harris, A Nurture Assumption, you know, one of my favorite books and one of the most"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:35.920",
+        "message": "important social science books of the 20th century. Correct."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:39.400",
+        "message": "I agree with you. She kind of, I mean, her conclusions essentially are that, to quote you, differences in personality are formed roughly half by the direct and indirect effects of genes, and roughly half by something else, which did not include the home environment at all."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:55.920",
+        "message": "Unquote. Isn't this amazing? And Robert Plomin has now written a book called blueprint, which makes exactly the same argument with it with even better data. And this is a remarkable discovery and an unexpected one, I have to say, I'm surprised by it, that our parents are not a great influence on our personalities. Our personalities are the product of our genes to a large extent, and also to sort of experiences which can often be quite ephemeral or quite accidental things that happen in our lives. Plomin gives the example of Charles Darwin, who was selected for the Beagle voyage by the captain who liked the shape of his nose, and he believed in phrenology that your nose told you something about your personality, and he thought this would be a good person to share a cabin with for five years because of the shape of his nose. Now, because of going on the Beagle, Charles Darwin, obviously his personality must be influenced by that as is, of course, his future life course, et cetera, an incredibly accidental thing that should shape his life. Some people feel threatened by this, what do you mean I'm just a product of my genes? I would like to be the product of my family. Well, actually, being the product of your genes means you're you, you're not what someone else has made you. And that actually is a very liberating thought, I think."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:14.720",
+        "message": "Although it's an accident. It's an accident. Exactly. Right. And, you know, one of the really interesting revelations in this chapter, interesting factoid, if I may call it that, and that's another term that's evolved factoid, was that people's incomes, men's incomes are actually determined by how tall they are, taller men tend to earn more. But this is a height at the age of 16. Not their height at the age of 30."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:42.480",
+        "message": "Isn't that fascinating? I know. Mind blowing. I'm very tall, but I wasn't particularly tall at 16."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:48.880",
+        "message": "So I'd be richer if I was doing fine. Your next chapter is again, extremely fascinating to me, which is the evolution of education. Education is something that's always kind of been top down. And we this is particularly sort of a disturbing subject for me, because in India, what we right now have is education system has always been buggered. But now what we have is our demographic dividend, what people call it is really a demographic disaster, where you have more than a million people a month coming into the workforce without jobs. And one of the key sort of problems there is that not only are there no jobs for them, they don't even have any skills. Our education system doesn't even give them the skills to go out there and do something. And there's this massive mismatch between demand and supply, that the education supply is not providing the kind of skills that the markets actually need. And this is, to me a classic fault of it being top down and markets not allowed to operate."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:54.360",
+        "message": "And, you know, I trace this back with the help of the wonderful Indian thinker about this, Sugata Mitra, to the idea that the British Empire decided it needed clerks who would be the same in Canada and India, so that the people in the center could understand, could treat them the same. And so they needed to be cogs in a machine. And so they needed to give them this very systematic, similar education, a lot of which is still found around the world and we, you know, here we are in the 21st century with all sorts of technologies and we've not really changed the way we educate, enabling children to learn. And that often means using new technology is very important. And I also, I think, touch on James Tooley's work in Hyderabad and other places where he finds that actually the people are voting with their feet and seeking out low-cost private education of an extremely cheap kind, but rather than going for the state provision. And this shows how there is demand out there for change. It's interesting to hear that in India you're just as frustrated by the mismatch between what schools are doing and what the workforce is demanding, the employment world is demanding. We feel the same in Britain anyway."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:09.000",
+        "message": "No, and one quote that really spoke to me was you quoted a gentleman named Albert Shankar and he said, start quote, it's no surprise that our school system doesn't improve. It resembles a communist economy more than our own market economy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:23.040",
+        "message": "It's correct, isn't it? I mean, you know, it really is a centrally planned system, most education systems in"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:05:28.560",
+        "message": "most countries."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:29.560",
+        "message": "And he was a union official, actually, American union official."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:33.280",
+        "message": "Your 11th chapter is about the evolution of population, about the harm that Malthusian thinking does. What I'll do is, because we're kind of running out of time and you need to check out of your room where we are recording this, I'll skip over the rest of your chapters, I'll mention them and just end with a couple of broad questions. Your 11th chapter is the evolution of population, your 12th chapter is the evolution of leadership, where you question Thomas Carlyle's great man theory, and, you know, which is again extremely fascinating. And actually, I do want to stop for a moment on chapter 13. That's the evolution of government. And you begin the chapter by writing about how gangs arise in prisons and what that sort"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:14.200",
+        "message": "of indicates. Can you tell us? Yeah, no, this is fascinating work that shows that within prisons, people tend to self organize into gangs. And the gangs then impose order on the prisons and tend to suppress violence, actually, because"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:32.160",
+        "message": "in male prisons where the population goes over a certain size, and therefore some kind of government is needed."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:38.480",
+        "message": "Correct. Exactly. And in fact, it's starting to happen in female prisons now, which are on the whole once a population reaches exactly, yeah. And I think this is an analogy for what happened in societies as to when government spontaneously arose. Because after all, what is government, it is a monopoly on violence, essentially, that's the sort of core point of government is to say, we will have all the weapons or most of the weapons ourselves, and we will have the right to violently or forcibly suppress certain behavior. No one else has that right. And once you've got that, you can live your life free from the threat of being arbitrarily assassinated by one of your rivals. But of course, you've now got the threat of being arbitrarily assassinated by your government, if it takes against you, as indeed, people have experienced in communist and fascist"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:34.000",
+        "message": "regimes. And the government can do a variety of things, which if someone else did would be criminal, but the government because of the government, they can do it, they can abduct you, they"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:43.000",
+        "message": "can steal from you, they can just do whatever they want. It's extraordinary, isn't it? They can tax you, you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:48.000",
+        "message": "I did say steal free."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:07:49.000",
+        "message": "You did say steal free."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:50.000",
+        "message": "And they never say thank you either when they do that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:53.360",
+        "message": "Right. So there's a great paragraph of yours, which of course, I'm going to quote, which is government began as a mafia protection racket, claiming a monopoly on violence and extracting a rent tax in return for protecting his citizens from depredation by outsiders. This is the origin of almost all government. And today's mafia protection rackets are all in the process of evolving into government stop code. And it's kind of very interesting how in a democracy like ours, for example, what an election amounts to is you have different criminal gangs vying to be the one legal mafia"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:24.560",
+        "message": "for a period of five years or whatever, correct. It's a very good way of looking at it. You know, there's a guy who stands up there says, I want to spend other people's money for five years. I want to be in charge of spending other people's money on a massive scale for five years. And we are expected to find him a moral leader. You know, why are we surprised when we end up with people like Donald Trump in charge of the world? If that's if that's the recipe way, which we're choosing people, essentially, you will"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:58.600",
+        "message": "have the most sociopathic power hungry people coming to power anyway, of course, yeah. And you end the chapter with by talking about, quote, the equally mistaken belief that fascism and communism are opposites. In reality, they are closely related historical competitors for the same constituents. Stop quote."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:18.640",
+        "message": "And they're both top down. Yes. And I think there's much a lot of people realize that there's much more similarity between the different types of totalitarian regime. And actually, if you look at the origins of fascism, you know, Mussolini was a communist before he was a fascist. Hitler was a socialist before he was a Nazi and so on. And you know, they end up being very, very similar. The one difference is that the fascist regimes tend to allow private business to depredate on their behalf, whereas communist regimes tend to encourage state owned businesses to depredate on their behalf."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:55.400",
+        "message": "But that's about the difference of the structure of coercion. But the bottom line there in both cases is coercion and top down mass coercion."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:03.020",
+        "message": "And of course, communism is slightly better at pretending that it's acting on behalf of ordinary people. But it isn't really. I mean, it ends up being an incredibly unequal society in terms of access to resources."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:13.760",
+        "message": "Your last three chapters are about the evolution of religion, the evolution of money, the evolution of the Internet, all really fascinating, but I don't want to hold you up now. So I'll end with these broad questions. One of which is that, why is it that people crave top down explanations for everything? Is it the way we've evolved? Is it possibly selected for?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:36.720",
+        "message": "It's a difficult question this and I don't really know the answer. And it talks about the intentional stance, which is the tendency to see agency behind everything. So if there's a thunderstorm, we assume that it's a God. If there's an earthquake, we assume we're being punished for our sins or something like that. And perhaps there is an evolutionary psychology explanation for this. Because if you walk around thinking the world is full of accidental happenings that don't have any agency behind them, you will occasionally miss out on insights into how your fellow human beings are behaving. So if a rock hits you on the back of the head as you're walking down a path, you will think, oh, well, I was unlucky. A rock flew off the ground and hit me in the back of the head. Whereas if you turn around and say, right, who threw that? You've got a point, actually, that you're probably better off having a hair trigger for assuming intentional actions. It probably won't get you into too much trouble, and it will enable you to be. But it leads to what is essentially living in a state of constant conspiracy theory. That's what we are as human beings. We're constantly in a conspiracy theory that God created the world, that God is running the world, or that government is in charge. These are conspiracy theories."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:58.040",
+        "message": "And I guess the world is so complex and mind-boggling that it's natural to imagine that this is selected for that we look for simple narratives to explain the world. And whatever narrative fits as many of the facts as there are, that narrative will make the most sense to us. And a top-down narrative can fit everything. So you make sense of the world originally by invoking a God early on, it's their nature gods and then the gods themselves evolve as religion evolves."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:24.320",
+        "message": "Which of course is why this book has not been terribly successful, is because this isn't something everyone really wants to hear. I'm fighting against human nature here. I'm trying to get people to reject their instincts."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:38.760",
+        "message": "Instead of the evolution of everything, you should have called your book the design of everything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:12:43.280",
+        "message": "Exactly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:44.280",
+        "message": "And then I might have sold more copies. Let me ask my last question. Given the sort of resistance to our ideas of spontaneous order and natural selection and all these beautiful processes which explain the world, what is it that gives you sort of hope and despair, it's a two part question, about the future of human society, about the evolution of human society, so to say?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:04.400",
+        "message": "Well, the track record of the last 200 years is the rational, behind my rational optimism, that we have sufficiently managed to embrace enlightened ideas to unleash a torrent of innovation that has improved the lives of millions of people. And it's continuing. And it's quite hard to put that genie back in the bottle, that despite ourselves, despite our intentional stance, despite our top-down view of the world, nonetheless, in our interactions we do enough bottom-up things to cause this increasing amelioration of the state of human beings. And actually, in order to do bad things with technology, in order to release computer viruses or anything, you have to on the whole be secretive, cut yourself off from the ferment of experimentation and bottom-up stuff that is driving the good stuff in the world. So on the whole, I think the good will win out for that reason, because it can happen in the sunshine, whereas bad stuff has to happen in the dark. And that gives me some hope for the future. But, you know, somebody sitting in the Roman Empire or just before the First World War or something might have said something similar. So I might be the man who's fallen out of the skyscraper and says, so far, so good as"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:27.000",
+        "message": "he passes the second story. Matt, thanks so much for coming on the show. It's a great honor."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:31.640",
+        "message": "Well, thank you, Amit. You've been incredibly perceptive in your understanding of what I was trying to say and said some of the things much better than I say them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:39.800",
+        "message": "I just quoted you. Thanks a lot."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:14:42.840",
+        "message": "Thank you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:43.840",
+        "message": "If you enjoyed listening to this episode, do hop on over to Amazon and pick up Matt Ridley's excellent book, The Evolution of Everything. You can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A, and you can browse past episodes of The Seen and The Unseen at seenunseen.in and thinkpragati.com. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:15:03.400",
+        "message": "Every week comes a show where three people come together to tell you about stuff they like. A movie, a TV show, a book, and other stuff. Tune in every Monday on the IVM podcast app to IVM Likes. Batman approves this message. Thank you, Batman. Do you have a night routine? Well, everyone has one, and the to-do list usually looks like this. Brush your teeth, set that alarm, get into your pajamas, and switch off those screens. But here's one more to add to that list. Tune into the Positively Unlimited podcast for a dose of positive action and tips on how to build powerful mindsets. Tune in every Monday on the IVM podcast app, ivmpodcast.com, or wherever you tune into podcasts."
+    }
+]

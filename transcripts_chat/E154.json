@@ -1,0 +1,917 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "A famous expert in political philosophy, Spiderman, once said that with great power comes great responsibility. I'd put my superhero cape on here, you can call me podcast man, and add that what you really need with great power is great humility. I think of this especially in the context of public policy. Those in charge of the levers of the state, especially in a country like India, possess great power. They imagine they can design and control. Indeed, their mandate is to design and control complex systems which cannot be run from the top down, like an economy, for example. And while ignorance is a problem, it is made worse by hubris and ignorance of that ignorance. As Frederick Hayek, one of my heroes, once said, quote, the curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. Stop good. I would argue that this problem is worse in India than elsewhere. It is an almost intuitive notion in our culture that the solution to every big problem lies in state intervention. And our state is designed to intervene. It has been given too much power and discretion. Coercion is in its DNA. The question then arises, when even smart, well meaning people enter this vast parasitic beast known as government, how do they keep their heads around them? How do they not get carried away by the power they possess? And even if they manage to be an oasis of humility and rationality, is it even possible to tame this beast from within?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:38.320",
+        "message": "Welcome to the scene and the unseen, our weekly podcast on economics, politics and behavioral"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:43.520",
+        "message": "science. Please welcome your host, Amit Baruman. Welcome to the scene and the unseen. The subject of today's episode is two related questions that fascinate me. One, how do we define good public policy? What are the heuristics by which we arrive at public policy and the parameters by which we should judge it? Two, what do the bowels of the great Indian state look like from within? And how does one navigate them? My guests on the show today are Vijay Kelkar and Ajay Shah, who've written a remarkable book called, In Service of the Republic, The Art and Science of Economic Policy. At one level, this book is a primer on how to formulate and craft public policy. But you can also read it as a book of philosophy, which crisply and lucidly lays out the first principles from which we should proceed and elaborates upon the implications of those principles on policy, and therefore, on human welfare. What's more, these two gentlemen are not armchair observers. They have been in the trenches fighting policy wars. They have been generals leading the forces of reform. They know what they're talking about. Vijay served the Government of India as Petroleum Secretary, Finance Secretary and Chairman of the 13th Finance Commission of India. He has served as Director of the United Nations Conference on Trade and Development and as Executive Director of the IMF. He was awarded the Padma Vibhushan in 2011. Ajay Shah is an old guest on the show. He's appeared on a couple of prior episodes and an old friend of mine. He's worked at the Centre of Monitoring Indian Economy, the Indira Gandhi Institution for Development Research and the Ministry of Finance. He's a professor at the National Institute of Public Finance and Policy. Ajay has, of course, been on the show before. So I'm actually going to begin this conversation by asking Vijay a bit about his background and how he got into being a policy person,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:03:36.720",
+        "message": "basically. You know, when I look back, my life was full of accidents and turns and twists. After my PhD, I came back and in talking of my own sort of that dimensional history, I learned neoclassical economics from Professor Debreu in the classrooms, but understood what it means in the Barrow's Hall of Berkeley, which at that time was, you know, was full of free speech movement sort of environment. And so I grew up in that sort of understood that two sides of the coin. One is what one learns and very pristine theory and what really happens in the society. Then I came back and joined teaching, I teach a teaching profession. Teaching but then I went to Planning Commission, worked as a mid-branch chakravarti and then continued in different, then I went to Ministry of Commerce and now thinking, looking back, I'm surprised that I'm not advised by any of my friends. Every job was contract, I was a contract labourer, I didn't have a permanent job. Because unlike, you know, one thing in a way is good, one is bad. Every increment was a post in Government of India is a fresh post, advertised by UPSC and you go to UPSC interview. So one can be a term contractor. So there's an advantage and disadvantage because there's a much freer entry because unfortunately increasingly it's getting what they call encoded. So that's how I went from and then my, in Planning Commission my other mentor I met was Lavrash Kumar. So I was in Geneva actually, he said why don't you come and work with me in Petroleum Ministry. I said I don't know what petrol is, I don't use petrol in my scooter. He said no, no, no, don't worry, I'll teach you. He was a petroleum man. And that's how I sort of spent a lot of many years in Petroleum Ministry."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:44.880",
+        "message": "One question for both of you really. Ajay before this when we were at breakfast, we were talking about how in India there are sort of these two competing in two contradictory intuitions rather, which are one there is the personal intuition where we are fairly liberal in our personal lives. But then there is also the intuition in our culture that the state is the solution to all our problems with all the attendant issues of coercion and all the things that go wrong with intervention and so on. So at like, how deeply ingrained were was especially the second intuition for you when you came to thinking about government and how common was it within government itself that the society's problems will be solved"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:26.280",
+        "message": "by the state? You know, I mean, there our training saved us from that. Because one thing, economics teaches the role of incentives. And so it's not that difficult. But I've seen this a major major major sort of paradigm within the government. I'll give a simple example in Ministry of Petroleum. I met a very sophisticated man as Cabinet Secretary. And we were proposing giving international prices of oil. I said, if you want to promote exploration, give the prices which is what is the value is of that product. He said, why do you want? You are a Petroleum Secretary. Just order, won't you find oil? Just put more money. I said, no they have to incentivize to because they just would not see. He says, when this is a publicly owned company is under your ministry, just tell them to invest more in exploration. So this is somehow, he was a very sophisticated man. I mean, in terms of sheer mind power is, you know, par with anybody else. But so I think, your training helps you escape that. You learn that I mean, the importance of incentive. That's one, you know, first thing you learn. But it's quite ubiquitous, that you order and things happen, because your government is ordered."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:52.320",
+        "message": "And Ajay, you also worked in government since the 90s. And you worked in the Ministry of Finance, you worked elsewhere and all that. Is economic thinking commonly understood within government like there's a whole section in your book about the science of public policy where you talk about what I would imagine would be sort of econ 101 concept in terms of sort of, like, why does this need to be told to policymakers kind of thing? What spontaneous order is and how prices work and all of that. And it seems to me that the impetus for that possibly it's not as commonly understood as one would think."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:08:20.800",
+        "message": "Yeah, so all of us have funny stories about what happens inside government. And here's my funny story. I was new to government. I joined the Ministry of Finance and there was a discussion, a big elaborate discussion on what the export target next year was going to be. And I was just this bewildered child in the room saying, excuse me, none of you blokes in the room export. The exports are all done by some private people out there. Who are you to set a target for them? And it's really, you know, in a civilized society, it is private people that decide to export, decide to not export. And no government has a target for exports. But I was overruled. The room was clear that we will set an export target every year. And the Ministry of Commerce will then work towards that target. And the Ministry of Commerce will be held accountable for delivering on that target. And what do they do? Then they try to come up with export incentives. So you try to pay subsidies to people to export, which is just a very negation of the whole point. Export orientation is good because we get firms that are globally competitive, that are good at what they do. If you pay a guy a subsidy to export, you haven't actually got the productivity. It's, you know, it's mixing up means and ends. Exporting is valuable because it reflects productivity in firms. It forces firms to compete in world markets and get good at what they do and match global standards of quality. If you're going to pay a guy in terms of an export subsidy or a distorted exchange rate, then what's the point? You've actually not got what you really wanted, which is productivity. Instead, you met a target, which is exports. So this kind of paradox comes up all the time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:58.440",
+        "message": "Saeed Khan-And so bureaucracies are basically set up where they're taking all these boxes and they have all of these parameters, but there's no deeper thinking about what is sort of tell me the sort of"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:10:07.360",
+        "message": "Amit Bhandari, can I just pursue this point? It's a very important point. You know, our export policy is designed to give export subsidies. And we give export subsidies to inefficient products. Because you end up with a more costlier, that's why you give subsidy because they say textiles don't require subsidies because they're efficient. So instead of promoting what is efficient, you try to promote something else. And then there's other, it's very difficult to persuade simple point, which Abba Lerner wrote about almost 100 years ago, that when you put due to the imports, you're also taxing exports. This simple, very difficult to persuade them that don't have the protection regime because you're already creating a problem for more efficient lines of your country's production structure. So his point is, he's absolutely right, that somehow, incentives, I just don't understand the role of incentives, how it can play, and what we're trying to do. We know better. And that's where we want to go. And we end up doing exactly the opposite. You don't know where you want to go because namely bind Indian economy, and you have inefficient production structure."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:25.840",
+        "message": "Let's kind of talk about how the book came about, like very early in the book, there is this sentence, which kind of struck me as being very reflective of your urgency towards these issues, Ajay, which is, quote, we must get rich before we get old, stop quote, which is like, but it's sort of, you know, like, you know, every time I've met you, Ajay, in fact, that there is this urgency that we have to do something now that, you know, otherwise we shall lose what they call the demographic dividend and so on."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:11:52.200",
+        "message": "You know, I mean, if you look at historically after the Second World War, all the Asian miracles, starting with Japan, then these four tigers, and in China, all have one thing in common, not Confucianism, but demographic transition. All of them are a sweet spot where the share of working population has the highest. And there is no rocket science because that's where you have a major advantage in terms of supply side of the productive forces. And that's what exactly we are. We're just 15, 20 years behind China, you know, demographic transition. That's where the urgency, because then it's a, I may be exaggerating, but it's really one apportioned lifetime of country, not just your human being, because when the aging starts, then evidence is that your productivity doesn't go up, but mainly these savings drop. And so I think, and we're just missing an apportion of four decades, two decades already"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:12:57.760",
+        "message": "gone. And the evidence is around issues that he talked about, such as the savings decline. We don't know enough about what young people do, but it is my view and my opinion that the creative and entrepreneurial capacity that you get in that young population is part of the miracle of what you can do in a younger population, which would be much harder to do in an older population. This is not something that we economists understand enough, but I can't but worry that today in India with the median population in the 20s and 30s is the time when amazing things can happen. And we're really missing this opportunity, that 20 years from now, the same economic policy will yield inferior results compared to what it can do today. Freedom can be so powerful today in opening up the opportunities of the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:49.240",
+        "message": "country."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:13:50.240",
+        "message": "So just to sort of give perspective to my listeners. You know what I mean? Most of Nobel Prize winners got a Nobel Prize for their work in the 20s and 30s."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:59.400",
+        "message": "So just to sort of give perspective to my listeners and tell me if you agree with this bodily the summation is that for the last 20 years, we've been hearing the phrase demographic dividend. What does it really mean? What it really means is that India is getting younger and younger. For example, today, more than 60% of the people in India are born after the liberalization of 91, something that maybe we older middle aged fogies have a sort of often don't realize we take it for granted that people have the same frames of reference as we ask, and what this country being so young means that it's filled with creative and entrepreneurial energy with dynamism, and societies grow economies grow, where this energy is allowed a field in which it can express itself. Now, one traditionally over the last 70 years, we have been too statist and interventionist and haven't allowed these forces to sort of play themselves out. And that is even worse today, because it's all going to waste, we have a jobs crisis where you have a million people coming into the workforce every month, and there aren't enough jobs for them. And therefore, the risk there is a demographic dividend becomes a demographic disaster. And even ignoring the social consequences of this in the short run, the economic consequences of this in the long run is that we are a much"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:15:15.640",
+        "message": "poorer country than we would otherwise be. Yes, we agree. I'm now 77 years old, and I was disabled. What is my contribution? No, I'm not saving. I'm not investing. This was younger age has a tremendous advantage of sustained high savings, sustained investments, and plus productivity and creativity. And it sort of sort of there's a sweet spot for"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:43.440",
+        "message": "development. No, and it feels especially tragic, because given technology, given globalization, given what is happening, there's an even greater scope for young people to actually make a difference in the world. And, you know, that opportunity is sort of just being lost."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:15:57.080",
+        "message": "Can I riff on these themes? I want to now say something larger. I want to talk about my own evolution of ideas. As a child, when we studied economics, we were told this story about a growth model, where a country puts labor and capital and gets output. And we were told that you have to mobilize the labor and you have to mobilize the capital. And then it all turns on productivity growth. And you get more and more productivity growth. And that's how you get GDP growth. And this is the simple fable that we were told as children. And increasingly over the years, I have moved away from this way of thinking in pretty radical ways. And let me go through each of these components. Let's start at labor. Okay, it was a complete eye opener to me to gradually understand and realize that actually most of the Indian working age population is just not at work. This is not a small unemployment problem. It is a large non-employment problem. So in the age group 16 to 64, unemployment is that tiny fraction of people who say that they're looking for work and don't have work. A very large number of people are just not even looking for work. They've given up or for whatever else is going on in their lives. They're not in the labor force. Only 40% of India in the age group from 16 to 64 is at work. 60% is not. 60% of adults in the age group 16 to 64 are not at work. There is this army of people out there that are not being harnessed in the economy. So there's no using growth of labor to grow GDP in India. Our problem is that we've just not utilized this labor force. The firms of India are not building businesses that create jobs for most of India. So this is one big realization that there is no GDP growth in India that comes because of increased population. The GDP growth in India will come because firms invest and firms hire more people and the amount available is infinity. There's a very large number of people who are available who are not being harnessed. So in a way, it's both a tragedy and an opportunity that if we could get our act together overnight, there's a lot of labor out there that can be put to work. Similarly on capital. In an old India, in the India that Dr. Kelkar used to grapple with, there was a capital constraint. There was not enough capital. We couldn't build stuff in India because we were stuck with a pool of domestic savings. But today we live in a world of financial globalization. There is essentially infinite capital available in the world. A good business project in India will be able to raise infinite capital in the global market or well-structured financial intermediaries in India will be able to raise capital and deploy it into the local economy. So again, a capital constraint is out. There is no shortage of capital. So there is no constraint on capital. There's no constraint on labor. What gives? Why can't we get GDP up by 5x, by 10x? And then that takes you to what holds us back. It's our institutions. It is all the impediments we put on the minds of firms to organize themselves and use these opportunities. Why do people not put together firms using this infinite pool of labor, using this infinite pool of capital to create output, to sell into India, to sell into the global market? What are all the things hampering the mobilization of labor and capital? Rather than saying that we will save every year and then we will multiply some Indian savings by some I-Corps and we will get an estimate of the impact of incremental savings on Indian GDP, I've just stopped thinking like that. What holds us back is institutions. What holds us back is all the things that interfere with the mind of a manager, with the mind of a firm, with the mind of an entrepreneur, with the mind of a farmer. A farmer is a business. Why do people not use capital and labor, put it to work? That is the way we should think."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:58.960",
+        "message": "Right. So, you know, like in your book, one of the sort of articulations which struck me and, you know, gave me a frame to think about these things was how you describe ways of thinking about public policy in three different phases, where you say there is a Mark 1 way of thinking about public policy, which is basically from independence to the early 80s. And then there is Mark 2, which is from the 80s to 2011. And now we are in a crisis and we need a Mark 3. And your book essentially is an attempt to get people to think in the right ways about public policy. Tell me a little bit about what is Mark 1, what is Mark"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:20:38.160",
+        "message": "2, and what went wrong in 2011? You know, one way of thinking about it is that when you're trying to make policies for the, as a meta-policy, the country as a whole, one way of thinking about it by policymakers has been, what are the binding constraints which is not allowing our productive forces to find the expression? When we became independent, we had two problems. That's what our thinkers thought. One is the production structure was distorted because it was colonial. It was linked to metropolitan. For instance, there was a great debate between textiles versus steel, if you remember. And second was that very large transformation takes coordinated investments. And there are missing markets. There's no capital market, as Ajay said, that there was no capital market also. So state had to play a role. That's happened every lagging, or by those late entrants. The famous book by Gharsankaran, which shows that every late comers, the state played a very important role. Even the beautiful book by Boltho and Japan. It was shown in Japan, same thing happened. So state plays a role of to, as it becomes entrepreneur. So it was state-led capitalism. It was still a non-socialist state, we call it socialist state, but it was capitalism. But state, so that was Mark 1, which was binding constraint was non-existent of capital markets or factory markets or missing market. That's what we have said. It gave you a lot of mileage because it was essentially made enormous investment, which led to breaking this colonial stagnation. And it was a remarkable jump in growth rate. But we also dealing with the world economy was a part two. We completely forgot foreign trade plays a transformative, gives a larger possibility set up. There's a beautiful paper by, simple paper by Jagdish Bhagwati on this. Bhagwati's old fashioned economy, some say uses a lot of geometry. If you remember, a simple diagram, it shows what foreign trade does to economy. And that we forgot. And that was he started critiquing and Manmohan started critiquing that, look, you're losing out your world for exchanging your capabilities. And sort of second, I think important insight was that India, you know, we were brought up in the Sujalam, Sofalam, that means a lot of natural resources. We are a natural resource poor country. So you have to augment it with trade. You augment it with trade, also use for augments and non-availability of certain natural resources. So things like this, and second, you also thwarted domestic entrepreneurship through licensing. So whole thing got, so that got, went to a major, major, major crisis. 1991 crisis. But till then, a lot of intellectual work was done. It was available and mark two came, paradigm two came, which involves, no, we can use very creatively. Let's look at world as an opportunity rather than a problem for India. We opened up, and anyway, beautifully it was done. It was done also, both science and art, one can say it is best. They hold that reform period. And that was mark two. But that also now went into problematic, because the biggest constraint on institutions for, if you want a mature market economy, in fact, I have been writing about the mature market economy, and everywhere the constraint was the institutions. So I think binding constraint, as I mentioned, is our non-functioning institutions, because all mature market economies have very, we've all instituted structure and capacity of the state. And, and my sort of problem with state capacity further got stricter because all my working life was in Delhi. For the last 10 years, I, one decade I was in India and I was working with my government in Maharashtra. And I'm a, you don't know what the problems are at state level. And city level is, of course, even worse. So capacities are just not there, and increasingly important problem of building public goods, which are vital, simple things like running a solid waste management. Everywhere institutions are a problem, capacity is a problem. So that's why binding constraints, we came to conclusion, it's really the capacities."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:25:02.320",
+        "message": "I wish to add three things to what he just said. The first is that it's interesting to think about the dates. So as we say in the book, roughly speaking, Mark I is what Nehru and Mahalanobis and others began in 1947. Mark II took off in the late 70s and 80s and saw its full fruition from 91 till 2011. But as Kelkar has emphasized, each of these is the product of an intellectual ferment of the preceding 30 years. So the thought process that Nehru and Mahalanobis put into motion after 1947 was actually the fruit of the labor of the Indian intellectual community from the 1920s onwards. In similar fashion, Manmohan Singh's PhD thesis was 1964. Jagdish Bhagwati and Arun Shourie and T. N. Srinivasan were writing about this stuff from the mid 60s. There are these absolutely remarkable articles by Arun Shourie in the EPW, which are so clear headed about understanding what was going wrong in India in that period. And that laid the intellectual foundations for the great changes that took place from 77 onwards and of course, were amplified from 91 onwards. So I feel we should see the long lags between the development of the ideas and their translation into society more widely. And I think that when people think of dates like 47 and 91, we don't give enough credit for the intellectual ferment that comes before. The second thing I'd like to say is that too often, it is too easy for us to become very critical of the great men and women who came before. And I think that that's not a fair way to do it. And that's really a wrong way to do it. Nehru and Mahalanobis and others were great men. They thought about the world and they exerted a powerful and valuable transformative influence. And with the benefit of hindsight, we see they got some things right and they got some things wrong. So, you know, I feel we should be careful about both extremes. We should not venerate our elders to the point where it becomes a straitjacket, it becomes an ideology and I'm not willing to move away from it. And we should respect what they did. They made a great contribution in similar fashion. We should admire and respect the world of the economic reforms that began in the late 70s and the 80s and the early 90s. And, you know, Dr. Kelkar is always very careful in saying to me that what was done in the 90s was just about as well executed as you could ask. It was this beautiful combination of good politics and good economics. And there were amazing teams and it all came together. And with the benefit of hindsight, of course, we will complain about many things. We will criticize many things. But let's not take away from our respect and our praise and our gratitude for the people who did that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:05.960",
+        "message": "And we should probably get to talking about, you know, the book per se, but I can't help sort of thinking aloud and responding to what you just said that it seems to me and there's a related question then therefore, it seems to me that when you speak of an intellectual tradition that paved the way for what Nehru and Mahalanobis did and what Manmohan did later in 91, it strikes me that that is, you know, I get the point in the second instance. But in the first instance, there were many competing sort of intellectual traditions. And it almost feels like happenstance to me that Nehru and Mahalanobis, their vision sort of won out and Nehru happened to be Prime Minister because in a different context, outside the context of economics, in the context of politics, what I have been exploring over a series of episodes on sort of Indian politics. It seems more and more to me that Nehru was in a sense a man apart. If you see the people who surrounded him, you know, there are strains of greater conservatism from people like, you know, Patel and all the others, Patel, Rajaji, even Rajendra Prasad, you know, there's a there's that Hindu conservative strand, which is there, there is a free market strand, which is there. And it just happens to us that the one guy who was Prime Minister happens to be Fabian socialist. And my related question there is, and I completely agree with you that with hindsight, it's very easy to judge people. I mean, I'm far more judgmental of say someone like Indira Gandhi, who really should have known better than of someone like Nehru who built whatever great institutions we have. But the related question there is that it seems to me more fair to say that 91 was inevitable, because I am perhaps of the naive belief that the arc of history does tend towards freedom. And therefore, at some point, we would have had to move away from the statism and towards greater freedom. And that seems sort of more inevitable to me in that context. Of course, everything in history looks inevitable, right?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:29:57.120",
+        "message": "No, I mean, you're not. That's not correct. Look at all the latecomers. Every state play a very important role in industrialization. China, Japan, Germany, Russia, because you're substituting the market. I mean, states substitute capital markets. No, I'm not. I'm not disputing that. So Nehru was, and even if you read the Bombay plan of Adhesar Jalal, very large role it had."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:23.360",
+        "message": "I'm not. I'm not disputing."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:30:24.360",
+        "message": "Or Vishnu Shreyas."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:25.360",
+        "message": "Yeah, but I'm not litigating the correctness of the approach. All I'm saying is that maybe it wasn't as inevitable."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:32.160",
+        "message": "I think that if you were a dispassionate observer and got into a time machine and looked at the world in 1947, and by the way, I've endlessly debated this with my father, who was a product"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:42.880",
+        "message": "of those times."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:43.880",
+        "message": "Any other leader in his place would have done the same thing. Yes, that was the intellectual climate of the age. In that age, Hayek was the exception and a fairly statist approach was the norm. Look back at those years. The Great Depression was a disaster."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:56.280",
+        "message": "But you also have Mahatma Gandhi arguing for an entirely different model."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:59.160",
+        "message": "But I'm just saying Nehru was a reasonable aggregator of the intellectual climate of that time. Nehru was a real intellectual. He read books. He was personally well connected with all the thinkers of that age. And I think it is hard to argue with the idea that Nehru was reading the times and in that age, we had had the Great Depression. We had had the first globalization collapse in the barbarism of the National Socialist Party and the nationalism and the communism of the USSR. It was disgusting what had happened. Keynes was leading this idea that you need to be a little more social democratic because otherwise, the masses will do nationalism on you. Okay, so this was Nehru reading the world at the time. With the benefit of hindsight, it's different. I think that was a reasonable read of the world at the time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:48.800",
+        "message": "Fair enough. I mean, let's kind of get back to the book. What I sort of loved about the book is that it's almost like a textbook on how to think about public policy before even how to do public policy. And you start off by laying this analytical toolkit where you talk specifically about the purpose of the state. And I'm struck by this quote from Gandhi who's quoted a number of times in your book, where he says, quote, the individual has a soul but the state is a soulless machine. The state can never be weaned away from violence to which it owes its existence, stop quote. And, you know, I often sort of keep arguing every time somebody wants a government intervention that every act of government is an act of violence. And we have sort of normalize the coercion that the existence of the state implies. And you have sort of made this the central starting point of your analytical toolkit that start by accepting that the existence of the state implies great coercion. And therefore, we have to be responsible about where the state should act and where it should not. Can you elaborate a bit on this?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:32:56.040",
+        "message": "Saeed Khan-This goes back to Max Weber. And again, early 20th century was also the time when Gandhiji was starting to think about these issues. Today, it's not a unusual or controversial idea. As Weber says, the state is a community that achieves a monopoly on violence in a certain territory. That is the state. The state is a tool of violence. And Gandhiji understood that. And you see that coming together in many of his thoughts and his writings and some of his letters to Nehru, and so on. So I feel we should understand that at heart, what is a state? It is the power to coerce. It is the power to inflict violence. It is the power to tell you that you shall do this. And if you don't do this, then I will punish you. That's it. That's the state. It's a monopoly on violence. It is all about violence. And the sooner we recognize that, the better, as you would have seen elsewhere in the book. We also have some paragraphs where we say some people think the state is like a nice NGO. Like, no, please, the state is not a nice NGO. The state is a creature of violence. And our challenge in liberal democracy is how to channel that violence into fair play and justice. So the state is supposed to be a machine that converts coercive power into human welfare. And that's a tall ask. A moment ago, you said that you're an optimist, and you think that the arc of history leads to freedom. I suffer from no such optimism. Okay, I think the history of the 20th century teaches us that political and social catastrophe is always possible. It is only through agency by people like us, by all of us, that we'll ever ever that. So I think of catastrophe as always knocking on our door, the wolf is always at the door. And it is we who have to think, who have to write, who have to work to turn the state into something that is characterized by justice and fairness, because by default, violence is an ugly thing. And it will all too readily turn into something horrible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:51.440",
+        "message": "I mean, who said that the price of liberty is eternal? Jefferson. Yeah, yeah. No, in fact, now that you've said this, I agree with you as well. I'm also extremely pessimistic at the same time, because as Walt Whitman said, I contain multitudes. So allow me both my optimism and my pessimism. So you know, and therefore having taken this extremely important insight about the state, which you know, is so obvious, and all of us should be aware of it at all times, but we normalize the violence and assume that the state is a benevolent beast that you know, keeping that into account, you guys, therefore posit that the only reason that the state should act is to prevent market failures. And then you point out four different kinds of market failures. Can you elaborate a bit upon that?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:35.760",
+        "message": "One example, I can think of really public goods and one where market failure is ubiquitous. And we have defined it for why, when it occurs. And that's existed in different levels of the Federation of our country, national level, state level, and city level. And one can see the continuous failure of many supply of public goods has been to my mind, what a motivator for writing this was how to improve the decision making, policymaking when we're dealing with supply of public goods. So because state is wasting resources, value resources into doing something they shouldn't be doing. So in fact, and this came most recently when Nadia and I wrote a, unfortunately, in my world, this was one of the best report is Ministry of Finance for 21st century. In which we pointed out how Ministry of Finance was re-engineered. It was essentially raised by, to us the question was posed to us by Jaswant Singh. Jaswant Singh was a historian. So Jaswant Singh was telling me, is there a good book on Ministry of Finance? So we tried, I tried to dig it up, there's no good book. He said, how strange, I mean, you know, we should, can we think about how it should look like? So he posed a question that triggered a thought. And that's where we came to this two way classification is what's Ministry of Finance should do, which is not doing and what is doing, which it should not do and this kind of separation. So essentially, doing a little better, I mean, I personally have not great ambition for this book. My ambition is that it should go to students of public policy and just improve the outcomes, improve the decision making, improve the policy making over time. Because as Rajesh said, it's going to require the efforts of many others. And this is really, I call it yajna. This is our contribution to the yajna of this great transformation of India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:36.360",
+        "message": "No, and I should actually clarify here that we are using these dry terms about the state interfering, but the state acting when there are market failures, but I just want to sort of state it in simple language, what it really means. I mean, I think of markets as a mechanism by which society solves its own problems. You know, we fulfill each other's needs through markets. That's all it is. So when you talk about a state, you know, doing something to address a market failure, is it then correct to say that what we basically mean is that there are social problems that are not being somehow for various reasons being solved by society itself within the existing mechanism. So that's where the state should stand."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:38:14.720",
+        "message": "Economic problems. Economic problems. This is about economics. So to stay on public goods. Okay. I just wish to engage in the three sentence homily here. The words market failure, public goods, asymmetric information, externalities, market power. All these are technical phrases that are overloaded on ordinary English words. And all of us need to be careful about how we use them and what we mean by them. And one of our objectives in this book is to bring a better vocabulary to our discussions because many times these words are being abused. So the essence of a public good is that it is non-rival and it is non-excludable. Non-excludable means that you cannot even in principle exclude a newborn child from the benefit of that public good. And that creates a free rider problem because that newborn child comes along and benefits from the public good, but will not pay anything for it because even if the child did not pay for it, they're still going to benefit from that public good. So it is in the very essence of a public good that there cannot be a private firm that will produce those public goods and have a revenue model where they will raise an invoice on somebody because that's somebody who just refused to pay because it is non-excludable. And that's how societies need to organize themselves around the state who would have a monopoly on violence, who would be able to keep the peace, who would be able to charge taxes and use some of the tax money to produce the public goods. And only the state will do public goods either by production or by financing. Either way, there's really an important"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:52.520",
+        "message": "role for the state. Clean air is a public good, for example."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:39:54.520",
+        "message": "Clean air is a great example. That is very difficult for all over North India. So I've"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:40:01.480",
+        "message": "been doing these discussions with my colleague Ila Patnaik at the office that surely there's a better Coasean bargain that the folks in Delhi are willing to pay billions of dollars in return for better air. And what is going on in Punjab is actually the most low value crops are being produced, which is actually a bad use of land and labor in Punjab. It's the worst deal in the world. It's like what we have here is a failure to negotiate. And there just needs to be a way to put it together. And that's what should happen in a liberal democracy. That's what our legislators are supposed to negotiate with each other and find those bargains, whereby the folks all over North India will pay some taxes and the agriculture policies will be reset. And then the air quality will improve. These are contracts that are infeasible for us to find those negotiations by ourselves. And that's where just the simple insistence on freedom and people negotiating with each other doesn't work. And that's why we need this intermediary called the state."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:02.680",
+        "message": "So let me sort of unpack it for my listeners. And this particular example is probably too more granular than I intended to go. I intended to stay with the broad ideas, but nevertheless is very illustrative of a lot of problems. So I'll sort of unpack it a bit. Now, I, for example, had an episode in the past on the smog in Delhi. And one of the main reasons why the smog in Delhi gets so bad around October, November, is that the farmers are burning the leftover of their rice crop at that time, and they have to burn it because they have no option. That's the cheapest possible way out for them. And at one level, it's a state capacity thing. There aren't enough policemen to really be able to stop them. You also see various perverse incentives come into play. Punjab is arid. Why are they growing rice, which is water intensive? They are doing it because number one, they're incentivized by minimum support prices set by the government on rice, which causes them to grow rice even when they normally would not if they got signals from the marketplace. And two, because there is free electricity for agriculture, and therefore they can use their bore wells to pump up as much water as they need. So they end up producing rice. So that is, you know, that's an aside, but at one level, that's part of the failure. But the larger question remains, even if this was not the case in Punjab wasn't arid and it made sense to grow rice anyway. So now the issue here is it's also a political economy problem, because the people of Delhi want fresh air. And but the government of Delhi is powerless to do anything about it because it is farmers in Punjab who are causing this problem. And the government of Punjab cannot do anything against the farmers because the farmers are an important vote bank. Now what you meant by Coasean solutions, and you of course elaborated on this in your book, is that a Coasean solution would be that let's say that I am producing something in my house which pollutes your house, which is a neighbouring house in some way. One way of solving this is saying that you are a victim and the state should stop in and make me stop. Another way is that because both people have property rights, I own my property, you own yours, we can actually bargain, either I can pay you something to put up with the pollution, or you can pay me to stop. And because every voluntary exchange makes both people better off, you actually have a situation where both people are made better off instead of the state intervening in a clumsy manner, which could even leave both people worse off in certain cases. So what it is what you're saying that the Delhi Punjab situation with the smog is that a Coasean solution isn't really possible, because how do you get, you know, who negotiates with whom and how do you drive a bargain? And therefore, the state needs to step in what are the possible solutions? Like this is a market failure."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:43:39.720",
+        "message": "Can I just not go into the rabbit hole? But right now, I just want to say, all of market failure fits under this concept. We are not able to find ready ways in which individuals will talk to each other, negotiate with each other, make beneficial business deals, and come up with good solutions. So the role of the state is where there is a failure of negotiation. That's a recurring theme. So amongst the economists, we say, market failure is a situation with market power or asymmetric information, externalities, or public goods. And there's a section in the book, where we come at each of these from a negotiation point of view. And I think that's a useful way to think about it, that our first port of call should always be private people talking to each other, negotiating deals, making each other better off, because when you and I negotiate, we'll always find a better answer than some coercive third party intervening inside our life and saying thou shalt do X. But there is a class of problems where negotiations don't work so well. And that is the role of the state. So that's a nice, unifying theme to think about. Why do you have a state? Where should the state intervene?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:43.200",
+        "message": "And to add a nuance to that, sometimes the state gets in the way of negotiation. For example, farmers aren't allowed to sell agricultural land for non-agricultural purposes. So if I'm a farmer, and I want to sell my land to Reliance, I'm not allowed to negotiate with them. Otherwise, we would have sorted it out. So and then the state further intervenes saying because you can't negotiate, we will expropriate your land and give it to the big company. Whereas a negotiation itself should have been."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:45:05.080",
+        "message": "So this negotiation perspective of thinking of humans as rational, sentient, capable beings who will negotiate with each other and who are not stupid, who are not children, you don't need a nanny to take care of what they're doing. And, you know, a lot can be done in society by people talking to each other. And let's respect the capabilities of people to talk to each other to negotiate with each other. And I think also what's happened in India is that because of this long tradition of an interfering state, I think we've had a certain infantilization of the people that the people have stopped using their organizing and negotiating muscle. We've had a shriveling of civil society, because the state rushes in on every problem."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:44.320",
+        "message": "And we see ourselves as subjects, not citizens."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:45:46.660",
+        "message": "So I think that in the long run, in a steady state point of view, that the retreat of the state from a lot of this will actually create more civil society will create more social capital, it will create significant conversations and discussions between people who are otherwise not even talking to each other and just looking up, trying to wield the coercive power of the state to hit at each other."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:09.960",
+        "message": "Right. So can you briefly take me through these four different kinds of market failures and does Delhi in a sense illustrate all of them? Because externalities, you have, you know, the pollution, which is an externality created by certain people which hit certain others is a negative externality. So yeah, that's a market failure. Asymmetric information could have been the case if the people of Delhi were simply not aware if they didn't have the information that the pollution is so harmful to them."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:46:33.920",
+        "message": "The best place to focus on asymmetric information is like a consumer, you're going to a shop, you're buying a strip of paracetamol, it's unreasonable to expect the consumer to take those medicines and put them into a testing lab and verify that the tablets are actually sound and not counterfeited. So, you know, think of this asymmetric information to the point where it becomes impossible to contract, because the burden of verification on small value transactions is too great. If I was buying 1 million strips of paracetamol, I would hire a statistician and do random sampling and get them tested in a lab. But if I'm buying one strip, it's really an unreasonable burden to cross. And that's where you should think"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:12.240",
+        "message": "about that asymmetric information. And aside for my listeners, there's a very good book out recently called Bottle of Lies, which talks about the pharmaceutical industry in India and the kind of fraudulent behaviour which goes on here in the absence of the sort of regulation the US has and it's really scary because a lot of the over-the-counter medicines that you buy may not even work and worse may harm you. So that's externalities, asymmetric information. You also talk about market power"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:47:35.720",
+        "message": "by which you basically mean monopolies. Pharma is not as bad in India as everywhere, it's a pretty big problem when it happens. You see, the whole concept of sovereignty breaks down. Me as a consumer, when I, first, I don't know which drug to use. It's the doctor who's intermediary, tell me what to use. Then the argument is generic. Now, I don't know as a consumer, but generic is really going to perform as good as the branded. Now, out of which brand? So, consumer sovereignty breakdown is happening in United States. So, it's not just India, I mean, there's a ubiquitous breakdown of consumer sovereignty in this business. It's the same to the hospitals. Now, I went to recently a procedure. I didn't have a choice which strain to use. I mean, I'm not an expert, so I had to guide it and price difference is very large, but so it was not as if that prices determine my choice, but choice was because I didn't have the adequate information on what is pros and cons of different alternatives. So, consumers, complete failure, I mean, there's no consumer sovereignty. It's a ubiquitous failure of, this is a great problem in UK, USA, everywhere on health policy. So, not just India, so that book is, there's a difference to that book also. I'm not taking, with some grain of salt, because what has happened, it was also attacked by US pharma industry against Indian generics, which is challenging their markets. But some parts are true, but some part I will vary about taking everything what the book said. But basic point is ubiquitous everywhere, not just India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:13.640",
+        "message": "Fair enough. But as you point out, that while the problem is ubiquitous, there are different incentives at play in different places. Like in your book, you have a section on why HMOs in the UK are a much better institutional way of tackling public health and healthcare than the way the Indian system works. But that's a different matter. And maybe we'll get to it later, just to, you know, finish off this thing on market failures. You said there are four kinds of market failures, externalities, like pollution, asymmetric information, like the pharma situation, market power, which, you know, monopolies and so on, and public goods."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:49:46.920",
+        "message": "And what I like about this is this is a great toolkit. Okay, so by default in India, you are in too many discussions and debates, where somebody is saying, let's use the government to do X. And it will be so great if more of us will put it into this little classification system and say, is it a market failure? Are we convinced that there's a market failure or not? So straight away, I think there's a value added right here, that there are lots of things that the Indian state is doing, which are not related to market failure. And you know, that's a good case for getting the government out of our life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:17.040",
+        "message": "So your fundamental heuristic is that, look, can society do it on its own? If it can, we don't go there. We only go there for problems at that level, where there is a market failure,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:50:26.240",
+        "message": "society can't do it. You know, if you look at my book, look at the comments, Professor Avinash Dixit, he says this is the most important thing the book tells you, what you should not do. I mean, you should not intervene in the best policy. But I think I would tell you, I mean, the best chapter of this book is his policy. That's the best chapter."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:46.560",
+        "message": "That's a really good chapter. And I enjoyed that. We'll sort of come to that. Tell me about the, like, you then pointed out that, okay, we only intervene when there's a market failure. Now you say that there are three ways in which we can intervene, the three"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:50:59.400",
+        "message": "pillars of intervention, as you call them. Can you elaborate a bit on those? You see, the three pillars, government can either produce, the service, mines, supplies, if there's a supply problem, or finance, to produce, and third, regulate. There are three different pillars. My personal choice is the government should shy away as much as possible in producing part of it. Because the government is a very inefficient producer."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:30.640",
+        "message": "And also, like you've pointed out with various examples, there are conflicts between when"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:51:35.120",
+        "message": "the government is producing and regulating at the same time. Exactly, exactly. When you become player, umpire, and judge. Every role, and that's where, in fact, both Ajay and I wrote a piece on privatization. And this is one of the major arguments we have made. The reason is that this combination of these three roles completely destroys the whole market. The government is player, arbitrator, and umpire."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:01.400",
+        "message": "In fact, your conclusion, therefore, is that it is okay sometimes to finance, and it is okay sometimes to regulate. It is usually not okay to produce."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:52:09.280",
+        "message": "I just want to say how my opinions have shifted on some of this. If you'd asked me 20 years ago, I would have been clear-eyed and confident that, yeah, get out of producing and do regulating and financing. I think one of the arguments of this book is that there is a generic thing called state capacity. And when there is low state capacity, this runs deep, and this hampers everything that you do. A state that is inept at producing is also a state that is inept at regulating is also a state that is inept at financing. So our problems run deep. I think certainly I was way too optimistic about our ability to do regulation well. We actually do regulation very badly. So we have to worry more about these things. Similarly, financing. Many of us have thought a lot about things like education vouchers, and at first blush, we're very positive about it. But you do have to reckon with the Indian state capacity crisis that are we able to build an organization that will actually find the household correctly, the money will not just be embezzled, and the money will be correctly and efficiently transmitted. As an example, consider RSBY, the health insurance system. When it first came up, I was very supportive. But now with the benefit of hindsight, we see RSBY has actually not worked well. There is large scale insurance fraud all over the country. So state capacity is a barrier in everything. And low capacity government will do everything wrong. It will not know how to wage war. It will not know how to do intelligence operations. It will not know how to run a voucher system. It will not know how to gather statistics. It will not know how to make a budget. So that fundamental streak of low capability runs all across everything that the Indian state does is done badly."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:53:57.200",
+        "message": "In this context, it just occurred to me, I mean, listen to, in our next edition, if it comes, we should write about this type 1 and type 2 errors and what kind of problems occurs in the state. Why we should be wary? And what are the sources of these problems and which are likely to be more often and how to go about it? We should probably write"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:19.160",
+        "message": "on this. That's also, I think later in your book, you talk about public-private partnerships, PPPs. And you point out that how people assume that because we don't have state capacity, we'll just do a partnership."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:54:28.680",
+        "message": "Just to be careful not to make it sound like we're the smarty pants. Dr. Kelkar and I were equally enthusiastic about those positions in the 90s. And it's for the benefit of hindsight that we understand that actually these failures run deep, that a government that is bad at contracting, the government is bad at drafting contracts, negotiating contracts, managing contracts, handling disputes, making payments. All these fundamental homeostatic processes of the Indian state are broken. And then, yeah, you'll do badly when it comes to having a PPP vendor to build a bridge or to build a power transmission system and so on. So,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:09.240",
+        "message": "these things will go wrong. No, in fact, to finish your point, your point there was that just because you don't have state capacity to produce a PPP is not the solution because you also need state capacity to regulate and that has been a failure of ours. You also have a great chapter on state capacity itself where you talk about how the sort of solutions you should be thinking about with a weak state capacity are very different from what, say, Sweden would do with a strong state capacity, because you can do so much less and you do it so much more inefficiently. You therefore have to limit the interventions that you do. I think you quoted someone as saying that it's almost a sort of, I think you quoted Kaushik Basu as saying that it's a libertarianism."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:55:46.480",
+        "message": "Yeah, Kaushik Basu's priceless quote, there is libertarianism of necessity, and there is libertarianism of choice. And he says in India, we all have to be libertarian because we do not have a well functioning state."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:59.240",
+        "message": "Yeah, so since the state can't do anything anyway, let it get the hell out except where it's absolutely required. Let's sort of give a context to all of this by talking about what you call a long history of failure. That's one of your chapter headings, the sort of the various basic ways in which we have failed by misunderstanding state intervention, by misunderstanding, by ignoring unintended consequences, and especially your important insight, which is that, as you put it, quote, a coercive agent is poorly placed at solving failures of negotiations, top quote, which you were talking about earlier. Elaborate a bit on"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:56:34.920",
+        "message": "that. We were saying a moment ago that if you think that at the heart of market failure is a failure to negotiate, and all you have is a coercive agent. Now, let's bring these two things together. Okay, so start from Max Weber and Gandhiji and others, and you understand, actually, all the state can do is coerce. And what the people have not been able to do by themselves is negotiate. How do you use a coercive agent to solve inadequacies of negotiation? It's not entirely clear and obvious. And a little bit of rumination around this will again help us see how it's a difficult job to build a state and run a state and do this well. Like the people were not able to negotiate with each other and figure out a solution to Punjab and North India and so on. And it is hard for the legislators at the union government, at the state government to all come together and figure out what kind of bargains will be done, which will actually reflect the best interests of the people and will add value. While that's a nice way to think about it and say it, it's actually extremely difficult to do it. So I think this is a very valuable combination, a juxtaposition. By the way, this is originally from Suyash Rai, that all you can do as state is to coerce. And the problem that you have to solve is failures of negotiation. When you put these two together, you see that this is going to be really hard. How can I add value? It is really hard to"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:58.800",
+        "message": "add value. And from this, what follows is, again, I was very struck by the phrase of your subheading here, quote, the impossibility of paternalistic policy. Stop quote, why is paternalism impossible?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:09.600",
+        "message": "In the sense, why it can never work? In so many ways, paternalism is like the state is like my parent, but my parent knows me. My parent knows a lot about me. My parent cares about my welfare. The state is a coercive agent. The states tend to amass power and the individuals inside states relish amassing power. They don't particularly care about my welfare. The state doesn't even know my preferences and so on. We could go on and on. So, this whole my-bop conception that the state is like some replacement for a parent is really something we should be skeptical"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:58:45.280",
+        "message": "about."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:46.280",
+        "message": "How have you seen this transition?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:58:47.280",
+        "message": "No, I mean, the final government in my-bop circle is ingrained in our political class. They think they have sort of do everything themselves and they know everything what needs to be done. And given India, which is really a very large country, I mean, it's impossible to do, to be sitting in Delhi, to know what the problems in Cochin are. And can't take the view that I know everything about Cochin problem or for that matter, Mantrala in Mumbai know what's the problem in Sangli or in Usmanabad. So, there are whole problems, different levels of government where the sort of, if it's hierarchical terms, the higher levels of government think that they know everything what the lower levels want. And that's why you get a simple thing like, I'm not giving my mind exam, like Pune and even Pune. The alignment of Pune metro, the Pune citizens were never consulted properly. So, because they knew, because why because Shri Jain did in Delhi. And with all due respect to Mr. Shri Jain, he has a marvellous job, but he's not God. And unfortunately, some Pune citizens lost the battle because they didn't have the voice. So, the paternalism like this, and I think it's ubiquitous, it happens everywhere that I know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:23.800",
+        "message": "No, in fact, you make a case later in the book for decentralization, also more and more"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:00:28.760",
+        "message": "decentralization principle of subsidiarity."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:00:30.760",
+        "message": "That's one reason. That's one important lesson. I want to add to this discussion. I feel that it's good to have an intuition that the fundamental DNA of a firm is to make money. Okay, so firms can layer all kinds of other objectives and you can try to have better governance and you can try to have regulation and all that. But we understand and we accept and we respect the fact that at heart firms exist to make money and that is the fundamental driver and firms will always come back to make money. Okay, I think in similar fashion, we should have a parallel intuition that the state is a community that has monopolized violence. And that community seeks to amass power and the fundamental DNA of the state is to achieve more and more power over its subjects. And the puzzle of being a humane, civilized, liberal democracy is how to push back against that inherent DNA of states. By default, states will extend themselves. By default, states will increase their power. States will try to amass power. The state is a community that amasses power. Don't think about it as an institution. Think of it as a bunch of people. It's a bunch of people that wish to lord over you and me. And they will use every opportunity, every situation, every excuse to gain power and make you the subject and make me the subject. And once we start seeing the state like that, I think we will become more hesitant, we'll become more skeptical and I think that'll be good. So it is the citizenry that has to constantly push back and say, no, I will not be ruled. And that is the way we will get to a civilized"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:13.720",
+        "message": "society. In fact, on the subject of different approaches to the state, I'm reminded of this quote by David Bowes, where he basically says in an American context, conservatives want the state to be your daddy. They want to tell you what to do and what not to do. Liberals want the state to be your mommy. They want to feed you and clothe you and all of that. He means left liberals, of course, in an American context. And libertarians want to treat you like an adult. They just want the state to leave you alone."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:02:37.760",
+        "message": "On a side humor, I think Churchill said that dogs look up on us, cats look down on us. Pigs treat us as equals. I like pigs."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:50.480",
+        "message": "So, you know, so in your narrative so far, which is just so beautifully logical and everyone must read this book, but in your narrative so far, you've spoken about the first principle about why the state should intervene only when society is not being able to solve its problems itself, which is market failure. You've spoken about the three pillars of intervention that you can produce, you can regulate, and you can actually finance or fund something. You also then go on to talk about the various common reasons of policy failure, why public policy doesn't work. Can you take me through that a bit?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:03:23.320",
+        "message": "At heart, there is a principal agent problem. So we the people vote in elections, and we aspire that our legislators are our agents. But we have very little time and attention to understand their daily actions. And they may do things that are not in our best interest. But that keeps on going. Then the legislators vote to choose a cabinet and the cabinet may not work for the best interest of the legislators. The cabinet has a minister who may not work in the best interest of the cabinet. The minister has a secretary who may not work in the best interest of the minister. And you see, it's so diffused, it goes on and on. So basically, in one heart of the problem is principal agent problems. The state is an entire administrative machinery that has coercive power. And it is all too easy to engage in corruption. And when I say corruption, I don't mean suitcases of cash. I don't just mean suitcases of cash. I mean, really doing things that are in your own self interest, rather than doing things that are good for the people, and pursuing self aggrandizement and earning political favors. This is really pervasive in the state. So that's why states fail."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:40.240",
+        "message": "So, if I can just read out sort of the four points that you made about this, which is that the state is not necessary in a situation where freedom works well, doing nothing is the best option. That where policies sometimes go wrong is if there is a market failure, but the politics goes wrong in the sense where the search for the right intervention is hijacked by special interest groups, which we'll talk about in a moment, because we need to talk about public choice theory a bit more. Third, where there is a market failure, and the objectives of policymakers was sound, but the design of the intervention was wrong. And fourth, where the correct intervention was attempted, but the implementation itself failed because of state capacity or sort of other reasons. And therefore, you outline and that there are three key steps in policy thinking, which we've sort of discussed so far, which is, one, are we facing a market failure? If not, don't act. Two, does the proposed intervention address this market failure? And three, do we have the ability to effectively implement the proposed intervention? Now, what you also then point out in your next chapter is, okay, we've got so far, but you talk about the various reasons things go wrong in terms of the constraints of five constraints, which public policymakers always have to confront. Can you elaborate a bit on this?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:05:54.400",
+        "message": "If you were in this, it would be really hard. If you were senior bureaucrat, or you were a politician, things would be really hard. The five constraints we run through are, there's an information constraint, we just don't measure India enough. And so we don't know what is going wrong. And we don't know what to do. There is a knowledge constraint. We're not standing on an adequate body of knowledge, so that we can figure out where is the market failure, go upstream, find the root cause, find the correct intervention. Then the third is a resource constraint, which is you would want skilled, capable people and money to be able to go do the things that we want to do. Then there is an administrative constraint, which is we don't have the organization structures, the basic processes of government in India today don't work. The homeostatic processes of government is there is an HR process, there is a contracting process, there's a finance process, these processes are malfunctioning badly. And finally, there is a voter rationality constraint, which is that we should not be too optimistic about how liberal democracy works, because it is not efficient for most voters to take time and trouble in understanding policy questions. There's no shortcut. So some people think that we should just ask the people, we should run opinion polls, we should run referendums. And that doesn't work very well. There's no running away from building the republic from building a representative democracy, and doing all the hard work of creating accountability mechanisms, feedback loops, that incentivize various elements of the system that overcome these principal agent problems. But we should go into this knowing"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:38.800",
+        "message": "it's hard. No, in fact, the term for the last of these constraints of voter rationality constraint in public choice theory is rational ignorance, where every voter knows that like the election is not likely to be decided by that one vote. So the benefit from that vote is very, very little, but the cost of making an informed vote of understanding economics of understanding public policy, though all voters should read this book, but the cost of it is so high that it is rational for them to be ignorant, which becomes a problem in a democracy. What you know, another concept that I think deserves to be more widely known, and which comes into the third of these constraints that you mentioned, the resource constraint is a marginal cost of public funds. And and this is something I think every Indian citizen, especially those who favor government spending in this area or that should kind of be aware of. Can you"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:08:26.240",
+        "message": "explain? You see, one of the insight of tax theory of public finance is that most taxes distort relative prices, either relative price in terms of work or leisure or different price of products or services. So, the theory is that the best tax is a pooled tax, that means per head tax is least distorted, but that is not possible for many other reason because mainly because it is a difficult to administer and considered as a regressive. So, once as soon as you introduce taxes, you distort prices. And the one insight in theory is that the welfare cost of distortion are logarithmic, that means they are not directly, where would they go exponentially. So, the cost of any financing, which depends on taking money from a private agent, that goes up increasingly. This is on just on the collection side. The further distortion or cost increase because of implementation inefficiencies. So, there is further loss. So, if you take all these losses, once we computed roughly for every one rupee you collect, the total loss to society of truly distortion inefficiencies, roughly three times more. So, that is why one has to be very mindful that, you know, sometimes very easy to finance it, but financing means there are positive costs and positive costs can be very, very high. That is the reason that mindful of this mild cost of public funds is very important, thinking about the intervention. But can I come back to earlier problem?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:09.320",
+        "message": "Please, please, yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:10:10.320",
+        "message": "We just, you know, trigger a thought, multiple objectives and inefficient. I will give you a concrete example of, we used to have old eras of planning era, we used to look at Bureau of Industrial Costs and Prices, which I used to chair. And one of the tasks was functional pricing. Now, because all the BICB staff was very committed and good people, but when you are deciding about prices, the system of data collection data was so wrong, that we used to create either prices were too low, which would mean the markets, there will be complete absence of that product, it can't be vital product. Thing like vaccines, I don't know, you are too young. Those days, God forbid, if there is a dog bite, people had to go from places to places, sometimes just to get that vaccine, vaccine dog bite. So, there was a committee was set up and I was asked to look into it. So, we looked at it. Now, what is the problem? First, what is the essential drug? What is essential to you, may not be essential to me or somebody else. So, there is one ambiguity, we don't know what we are trying to regulate. Second, at what, we don't know the supply response. So, if we keep it too high, too low, what will happen? Third, you also have the objective of improving consumer sovereignty, which means you want to move away from branded, because the argument was branded. So, various objectives or multiple objectives, only one is to measure prices. So, that was how we got it wrong. So, you have to then unmindfully different, I will not go over what we went to do it. But it was a classic problem of this policymaking, information constraint, knowledge constraint, because you didn't have the knowledge. Third is the implementation constraints, because after all the price administration was done by BICB sitting in Delhi, we had no notion what it means a supply in Coimbatore or in Chhattisgarh. So, everything was done and policy was being made. So, that's a one example in which it was failure of all the, and you need to require public policy, because there is a reason for public policy, which is market failure. But it was, it's like, making problem is a problematic, you have to take into account the, and one instrument and multiple objectives."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:37.080",
+        "message": "Which is another point, in fact, that you make later in the book, that one of the things that policymakers should be aware is that you should have one instrument for one objective."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:12:45.480",
+        "message": "And if you can, Can I just stay on marginal cost of public funds? It's useful to think that there are three boxes that work together to produce that number. Okay, so one is tax policy. Do you have a rational tax system, the ideal tax system, as he just said, is a poll tax that each human being pays x rupees a year. And after that, there are no distortions to anybody's incentives. This is not politically feasible. The real world taxation system that we have will always introduce distortions. For example, taxation of corporations is a certain amount of double taxation. So, you and I have incentives to not incorporate. And we would rather work as individuals or proprietorships or partnerships, even when these are inefficient forms of organization, because we want to avoid the corporate form, because it is being double taxed. Now, that's a cost to society, because we are less productive as a consequence of the aversion to incorporate. So, there are distortions introduced by tax policy. Then there are distortions introduced by tax administration. We all suffer record keeping costs, tax filing costs, we suffer raids by income tax inspectors, okay, and so on. All those things impose a cost upon the economy. There's the litigation, there is arbitration, all sorts of things happen. All that is the box called tax administration. And that imposes a cost upon society. And then the third is the debt management, that when a government runs deficits, how does it finance itself and what is happening in India is effectively the debt management is one more layer of taxation, where government bonds are being forced upon financial firms. And effectively, if you are so imprudent as to hold money in banks, then you're being taxed, because there is a whole financial repression system whereby bonds at artificially low interest rates are being thrust upon the banks. And that's one more layer of taxation. All these inefficiencies are the source of the marginal cost of public funds. When the government of India spends one rupee, each of these layers is inducing a cost upon the people. And while it's hard to estimate, our opinion over the years is that we've coalesced around a number about three rupees. We don't want to sound scientific. It's probably 2.5, it's probably 3.5. But a good thumb rule to keep in our mind is three rupees that for each one rupee that the government spends, GDP goes down by three rupees. It's a nice valuable way to think and what that means is that if ever you're planning to think of doing a government expenditure, you got to be sure that the value to society is at least three. It's a nice test that do things which"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:26.720",
+        "message": "will add value."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:15:27.720",
+        "message": "So that is serious bang for the buck. That's serious bang for the buck. Number for the expression bang for the buck. What bang you want?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:35.880",
+        "message": "Yeah. So if it's something where there is no option like clean air, for example, or there's a public health epidemic, then you know, that's one thing."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:15:43.360",
+        "message": "And think about it, hypothetical, I'm just going to make up wild numbers. I have no idea about the numerical estimates, but it was probably going to cost 5000 crore to solve the North India air quality problem. I'm making up a number, it will involve setting up a statistical system of air quality measurements, some regulatory system, and some large scale revamp of agricultural policy, some side payments. Bottom line, there'll be some 5000 crore that I involved, 10,000 crore that I involved. So the 3x rule will say the gains should be a minimum 30,000 crore. Now the gains are easily 300,000 crore. Because if you think of the health of the entire North India, one of the most densely populated regions of the whole world, the gains are easily 300,000 crore. So yeah, it's a 10 to 1 bang for the buck. So that's like saying that, yeah, we should think of using 5 to 10,000 crore rupees of public money to solve the North India air quality crisis because it meets the 3x test. But there are many, many other kinds of expenditure of the Indian state where you don't pass the 3x test. So it's good for all of us to think public money is not free. It's not even one is to one. In fact, it is three is to one. There is an instinct in many parts of the Indian establishment that public money is free. I'll spend it on whim. And oftentimes, the adults in the room are saying, no, it is one rupee. In this book, we are saying, no, it's not one rupee, it is three rupees. That when you spend a rupee of public money, you're actually spending three rupees of the people of India. Now think for yourself that are you getting bang for the buck?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:12.360",
+        "message": "No, and in fact, this is an added dimension because already what I argue is that spending public money, spending government money carries a moral cost because that money has been taken"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:17:21.020",
+        "message": "from coercion. You're adding to the moral cost by saying that look, one rupee is an"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:25.640",
+        "message": "economic cost. That, you know, is hopelessly and you know, we should keep this stuff in mind where we see the government spending on anything, you know, whether it is a space program or a statue or advertising for different government departments, or whatever the case might be, we might all differ in terms of the ideology we have as to government spending that government should do this or not do this. But as long as we can justify the coercion and this marginal cost of public funds, you know, that is how we should frame our arguments."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:17:57.120",
+        "message": "So a healthy debate would be that you may think that X is an important expenditure program. I may think Y is an important expenditure program. He is the finance secretary who's resolving all these rival claims upon a scarce pot of money. And we should all be conducting our argument around this kind of framework, where you would argue that my bang for the buck is seven. And I would argue that my bang for the buck is five. And there would be a debate around that or what is the best use of money, but that would be a nice rational discourse. And that's not what we have in India today."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:29.200",
+        "message": "And I'm thinking the effects of this coercion are, you know, to go with the title of my show, they're an unseen effect, that if they were somehow to be made tangible in some form, then many people would just feel embarrassed asking for government spending, because the cost would be visible. And now the cost is invisible. And we sort of..."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:18:46.320",
+        "message": "But this example reminded me of a true story about how decisions are being made. There's a debate between Minister of Highway and Planning Commission. The number of lanes a particular highway should have, whether four lanes or two lanes. As a finance secretary, I was asked to sort of decide. Now, I had no information to work out the marginal benefit. And so when a gentleman made a presentation, I mean, he argues, I asked him one question. I said, if Shershah was alive, what he would have done? The general concept was four lanes. I said, let's go with four lanes. Because the long term benefits obviously are much greater if Shershah could foresee what he has done in the entire system. So, but I mean, that was the most rational way of doing it. But in the absence of any information, I thought that's the only way to decide. Go by the precedent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:41.320",
+        "message": "Sometimes you just have to have creative heuristics. We'll take a quick commercial break and we'll continue talking about this amazing book on the other side of the break. One of the great joys of doing the seen and the unseen is that it forces me to read a lot more than I used to. I was a voracious reader as a kid. But once I entered adulthood, I lost that habit. And it's an incredibly important habit. The more we read, the better we understand the world and the people around us. We make sense of the world through stories by connecting dots. And the more dots we have, the clearer our vision. Reading gives us those dots. I've been working hard on my reading habit. And now I invite you to join me. My new podcast, The Book Club by Amit Verma begins in early January exclusively on Storytel. This is a weekly show that I run for a year. Every week on The Book Club, I will recommend one book that I enjoy reading. And I will speak about what it brought to me and why you should read it. You can use my show to take random recommendations yourself. Or you can start a reading club of your own using my show as a starting point. I'll discuss all genres of fiction and nonfiction. And hopefully together we can understand the world a little bit better. Coming soon, The Book Club by Amit Verma, only on Storytel. Welcome back to the scene in the unseen. I'm chatting with Vijay Kelkar and Ajay Shah about the excellent book in service of the Republic, the art and science of economic policy. And before the break, we were talking about constraints that the state sometimes faces in the government sometimes faces in terms of public policy. Well, the three of us have a slight constraint of our own in the sense that in another 40 minutes, Vijay has another appointment which he has to rush for. But Ajay and I will continue talking or diminishing in podcast capacity. But I promise you we'll do our best. What I also sort of wanted to talk about and what is sort of a strand running through your entire book and a strand that as you know, interests me greatly is public choice theory. You know where especially in India, we often assume that market failure to have the state must step in, but government failure, if anything, is even more ubiquitous. In fact, government failure is ubiquitous market failure is rare, is how I would see it. Vijay, especially in all your long decades in government, I'm assuming that most of the insights of public choice theory would have come to you by lived experience rather than actually reading the theory of it. Can you tell me a little bit before you begin apologies to the listener for not clarifying public choice theory basically uses the tools of economics to look at how the state functions. And the key insight is that people within a state respond to incentives, just as individuals outside do. Sorry, Vijay."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:22:21.640",
+        "message": "Yeah, the one example was about policy problem was that how to increase energy independence, because India's imports of oil was going up and it is a reasonable policy objective that you don't want to be dependent on entirely rest of the world because this is such a crucial commodity and you can't. So, what are the ways of doing this? So, one of those instrument was stocking it, but second was giving domestic exploration and production. Now, we designed policy we call new exploration licensing policy. What happened? It required the regulatory function both in terms of what they call to ensure that the private sector does not deplete the resource by inefficient production system, because there's a finite resource and non-renewable. You don't want to ensure the society, you want to use it as efficient as possible. This second problem is that two contiguous blocks, very possible to take away oil from the neighboring block without the neighbor knowing it. So, that's also has to be regulated because their property rights can be. So, one is this issue. Now, here the incentives for the people who man this regulatory authorities, we thought were sort of same as what the society has, but soon you realize that there is a systematic difference. One major and I'm not talking about malfeasance, but that's one of the objectives of the civil servants of public authorities is easy life. Because he's not trying to, he's not going to follow completely all the system and procedures which are required to ensure what the obligations are. So, you have to be mindful of that there is the objectives of the people who do it are very different than what the state has. And because of this simple reason, they completely change, want to change the policies at the expense of internal society. You know, to ease the problems of the civil servants or the regulatory authorities, they've changed the nature of contract, which was rational and optimal use all over the world. And if I don't know, I remember debate but debate took place to move towards what they call revolutionary contract. Now, Econ 101 will tell you that it's like putting excise tax, under those conditions production will go down. If you have excise, if you're going to shift the tax to consumer, the only implication of excise tax is that production will go down. But the civil servants are not concerned because that's the give them easy life. And I was quite disappointed that I could not persuade the government, because again, government, they are not willing to accept the what's the correct thing to do for country as a whole to optimise country's scarce resources, and they opted for a contract. And I mean, the number, the cost to the society, the number of which we are given and I was surprised by look at number of people were challenging us about the number, we did very careful analysis, would not be less than $500 billion. It's the cost of resource foregone to be exploited. 500 billion. $500 billion. Now, we could be wrong, because this is a waste of future. But nobody has a single question, or nobody start up in the civil services. Oh, my God, is that the cost? Maybe that report is wrong, they double check it. Because even if you're wrong, 500% even $100 billion is not a small number. So that is the most vivid example, in which the functionaries objectives are very different than the society's objectives. And society pay very, very heavy price potentially."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:37.120",
+        "message": "No, and is it then fair to say that the principle of public choice theory, which this illustrates, is that if you look at the incentives of a bureaucrat, his incentives are to reduce the friction in his own life. And he is naturally risk averse, because there's not much of a reward for doing something right, because the payoffs are so much down the road, and they're hard to ascribe. But the cost of doing something wrong could be great. And therefore, he will tend to be risk averse, sticking to the status quo and basically playing it safe."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:27:06.400",
+        "message": "But I just want to say, I agree with the sentences you just said as a description and a characterization of the Indian state today. But as we say in the book, public choice theory is also an extremely optimistic message. In that it tells us that the behavior of the bureaucrat and the politician is not immutable. These are not wood, these are not stones, but men and being men, they will optimize, which means that when we change the rules of the game, this behavior can change. So this behavior is actually the product of rules of the game. And then it is our puzzle to find the rules of the game that address all this. So if we will create an incentive structure that good work by an official is not valued and bad work destroys the entire career of the official or one investigation will mess with the life of an official, then yeah, you will get certain kinds of behavior. But that means we've got to go to those foundations. We've got to understand how we hire people, how we incentivize people, how we do promotions, how we respect people, how we investigate people. Each of these things shapes the behavior. And behavior is actually endogenous. So our good friend, Percy Mistry taught me a great thing. I used to always whine about the mindset problem in Indian financial regulators. I used to say, the mindset is wrong. They don't understand financial markets and the financial system. And we have to change the mindset. And Percy would say to me, you can't complain about mindset. What you can complain is about rules of the game. So whatever you want to do in policy reforms is in some document. It's a law. It's a rule. It's a manual. That's what you change. You can't change anything else. And the nice thing is when you change the law, when you change the rules, when you change the manuals, the behavior will change. And in 20 years, the new behavior will get ossified into culture to a point where your grandchildren will hate you and complain about your mindset. So mindset is just a response to rules. And that way, it's a very optimistic message that let's change the rules of behavior will change. There's nothing innate about that behavior. So people say the Indian bureaucracy is bad. Well, there's nothing Indian about it. It is about our rules of the game. And we change the rules of the game, the behavior will change."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:23.440",
+        "message": "I think you're trolling my emotional state of mind earlier, I was a pessimistic, you made me optimistic. And now, you know, and the other way around, because I you know, what we've really done so far in this episode, we've spoken for more than an hour and a half, is we've sort of spent a lot of time on the early part of the book. But the really sort of the radical and revelatory part of your book for me is really the second half, which is original and where you're laying out your insights and your framework about thinking about public policy. So I'll skim over the rest of the first half, where you have a section called the science, the science of public policy, which is basically looking at what I would say are traditional insights of economics, even econ 101, like how the price system works and competition is good, and you have to look at general equilibrium effects. And, you know, why redistribution is fraught with trouble, as you put it, and so on and so forth. Let's not dwell on that all of this is sort of understood. And I recommend people read the book if they want to get a sense of your arguments in really simple language. Let's go to part four of your book, which is called the art. In other words, the art of public policy, where a lot of what I read is stuff that some of it conformed with my intuitions, and some of which I hadn't really read before in this form. And what I'm going to do is I'm going to you have 11 chapters in this section. So I'm basically just going to read out chapter headings because they were illustrative, and ask you to elaborate on them. And the chapter heading of the first chapter in this is evolutionary change for society, revolutionary change for government, as in one of the if I may quote from your book, where you talk about how social engineering is inappropriate, and you of course, give mouse a sparrow fallacy, where basically, Mao spoke about how he wanted all the sparrows of China to be killed and what big so the crops, the sparrows won't eat the crops, but because the sparrows were killed, locust proliferated and they ate the crops. And I gave this as an example, I cited Mao's sparrow campaign"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:31:19.400",
+        "message": "as an example for demonetization. Exactly, I was going to say that. Demonetization is a classic example of this, where you wanted to suppose I'm willing to accept the government objective, that you want to abolish black money. Now, first of all, the specification was wrong. Black money is not a stock problem, it's a flow problem. So, so that was one major concept. But even in terms of, you accept the stock, if you remember, the difficulties of doing it, given the size of India, more than 100 people died. That was the cost of organizing the so called large change in the behavior of not using cash, using plastic money, whatever you want to call it, suppose it was large behavioral change. It was done in extremely, extremely irresponsible manner in my view, in terms of but cost is imposed. And many ways, many of the aggravation of Indian economy's problems, growth problems, are probably linked to that episode. So costs are very high of social engineering. But government can be, you can make radical changes in the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:37.360",
+        "message": "government. Evolutionary for government, revolutionary for government. I mean, I've done a few episodes on demonetization, in fact, around three of them. And I, you know, pointed out it was in a column I wrote in the Times of India at the time, which I link from the show notes where I compared that to Mao. And that sort of also illustrates the one central problem with social engineering, which is Hayek's knowledge problem. Like one of the reasons I think that Prime Minister Modi thought it was a good idea is because he had never bought anything from a store in the last 15 or 20 years. And therefore, he did not realize that a 1000 rupee note is no longer something used for storing black money, but everybody uses"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:33:15.680",
+        "message": "1000 rupee notes. So I want to say two things. One is just continuing on these themes that large actions by governments tend to go wrong, because we just don't know enough about society. And we have some notions in our head. And these grand schemes generally go wrong. And particularly with the kind of capabilities of the Indian state, these kinds of things will not work very well. That's one practical idea that you just don't know enough, so don't mess with it. Okay, so that's one way to think about it. It's also good to bring political values into this to bring enlightenment values into this, that is there a relationship between us and the state as that of a subject to a ruler, or are we citizens in a republic. And there is something very awkward about a ruler telling you that I shall decree that you will do this. And I think that fundamentally gets you into the wrong place in the nature of the relationship between citizen and state. The nature of the relationship between the citizen and the republic has to be one where the citizenry thinks and dreams and devises its own life on its own terms, rather than being ordered by the state. And I want to tell you a funny story of this nature. I was at the U2 concert two nights ago, and some central planner thought that it would be a very cool thing to do to have some newfangled payment system, which where there would be electronic payments. And what was wrong was that they created a forcible monopoly, that you would only be able to do payments inside the stadium using that electronic money system. So there were many establishments selling food, and you were supposed to pay for them only using that electronic system. So cash was not allowed or not permitted. Cards were not allowed or not permitted. Some central planner had decided that we're only going to do it one way and it all sounds nice. I can bet that there had been some slideshow in some room where it all sounded clean and tidy. But reality is not clean. Reality is not tidy. What actually happened at the venue was that there was a comprehensive technology failure and nothing worked. And 50,000 people went hungry. And I bet hundreds of kilos of food had to be thrown away because there was nobody who was able to buy them. Okay. So there was some engineering failure and the thing broke down. And I would just, you know, beseech everybody concerned that don't be so cocky in your knowledge to think that you will engineer this whole thing and it's going to work. Let there be diversity. It's good that there's cash. You know, so I think people have become religious about cashless. I think cash is great. Cash has a lot of good property. Cash is freedom. Yeah. Cash is freedom. Cash is anonymity. Cash is safety from the state. There are many good things about cash. And then there are credit cards. And then there are many rival alternative credit card platforms and systems. And that is good. Okay. And then there can be more modern conceptions of electronic money. There should be opening up of the RBI, RTGS system for technology players. So the central planning instinct that some engineers will use the coercive power of the state to build one single national system and we'll roll it out everywhere. This is really something we should be nervous about. You know, in Nehru's time, there were people who tried that. Okay. And arguably Nehru and Mahalanobis and others were decent people and brilliant people. And you can never get better people like that. And we know how badly it worked out. Do we really want to do that all over again? So I think learning history is humbling because you see amazing people having tried to do central planning and having failed. It's not for want of trying. We admire those people. Okay. You can't get a person better than Jawaharlal Nehru. You can't get a thinker better than P.C. Mahalanobis and their entire generation. They were great people. They came out of the freedom movement. They tried to choose there shall be this technology for this factory. There will be this use for aluminum. They tried to centrally plan. It was all very tidy. It was all very nice. It did not work. It just went wrong over and over."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:35.320",
+        "message": "No, in fact, in one of the core principles of this chapter, which is that whenever you have to choose between interventions, take one which has the smallest impact. Has this roots I think both in deontology and consequentialism. Deontology because you're going back to the core value that coercion is bad. So coerce as little as possible, choose the least coercive intervention. And to consequentialism because you're saying that we don't know what the consequences will be because we don't have enough knowledge. You know, harking back to the point about humility that, you know, I'd made right at the start of the program and you know, and therefore, limit your actions to as small as possible so that, you know, the unintended consequences will obviously fall less. And another theme through your entire book, in fact, is that public policymakers have to communicate, communicate, communicate. So whatever you're planning, you have to sort of and that again, harks back to what you just said about the subject versus citizen, that we are not subjects that the government tells us that, okay, this is our decree, but the government consults us and through that"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:38:32.840",
+        "message": "consultative process, something emerges. You see, the subtitle is communicate, communicate, we didn't give, what I call Lata-Kerriker theorem. Lata is my wife and when I was Petroleum Secretary, the issue came up about increasing the prices of petroleum barrels. Her point was, in public policy, surprise should be never unpleasant. You can give pleasant surprise, but unpleasant surprise gives a revolt. And this is, you see repeatedly, when your price is very high, there is resistance. First, you're not going to communicate the need for it, you know, told them in advance the implications of this. So communicate, communicate, communicate, because you have to make people understand. If you, especially if the change is very large, so introduce changes in small, give surprise which will be pleasant. If it's an unpleasant surprise, communicate, communicate, communicate. So it's very important in public policy, is communication."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:32.000",
+        "message": "In fact, you gave a great example of this in your book where you talk about Yashwant"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:39:36.080",
+        "message": "Sinha decision to reduce customs duties by 5% a year. Can you elaborate on that a little bit? No, because it was, in fact, unnoticed at that time. But look at, we have brought down our import duty levels to that time, almost ASEAN levels. Had it done in one go, first"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:55.680",
+        "message": "there would have been resistance."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:39:56.680",
+        "message": "So if you just say it's 25%, they're obviously going to resist. Tomorrow, the next day, they would have reversed it. So the credibility of the government would have gone. But this is a way, because it's also a lot of privacy to plan in advance. They could do the planning, they've taken long-term investment decisions. They know what's going to come. And it was predictable, change was anticipated, no sudden shock, no sudden shower, because people don't like unpleasant surprises. So 5% is not a big deal, but they think that in five years, it'll be 25%, we have to work for it. And similarly, if you remember, his objective was one single excise duty, which he called same number as given by Chanakya in his book. What is the optimal rate of taxation? He said Shadbhag, one-sixth. If you remember, his sovereignty should not take more than Shadbhag. So I wanted to have 16% as a single rate of taxation. Had it done in one go, there were a lot of problems when the pricing went down. So it was done, if you remember, a myriad of numbers were brought to three bands. I think if I remember correctly, 6, 16, and 28 or something like that. So again, it was done slowly. Change, but people knew the direction that we were going to reduce rates. People knew there was going to be no arbitrary changes. And second, no, what was happening there and there, tremendous of lobbying and rent-seeking in changing the rates. So that also reduced. So giving enough time, you gave the direction we were going, people could adjust slowly, and it didn't give a sudden shock. Because it always happened, you know, I studied the episodes of price increases in petroleum products, over 12 episodes I remember, because every time it was reversed, when it was very large. So people don't like surprises. And very simple reason, because petroleum products demand elasticity, price rises very low. There are no substitutes available. So price rise has immediate implications in the consumer basket. But other, there's one kind of substitute, if a certain price goes up for my shoes, I can use chappals. But there's no choice for especially for transportation fuels. So the lesson is, don't give large changes. It takes time for people to adjust. People don't like shocks."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:39.280",
+        "message": "So this Lata Kelkar rule, of course, as you said, applies to, you know, how the state acts with regard to society, evolutionary change. But for government, you don't favour this, you said evolutionary change for government. Can you elaborate on that?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:42:51.440",
+        "message": "For example, when we became independent, the kind of introduction were policy changes were made by that generation, were revolution changes for the government. Whole colonial government was replaced by the independent. So the bureaucracy had to change, bureaucracy had to be sort of given culture, the whole culture change, how you treat the citizens. So there's revolution change for the government. One example I can think of."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:43:20.600",
+        "message": "But in a prescriptive way, would you say that even today, the revolutionary changes for"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:43:25.320",
+        "message": "the... I would be a little wary because the quality of leadership is not same as what we had at the time of independent movement."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:43:31.040",
+        "message": "That's very true. And that's also possibly a response to incentives, as I keep saying that back then the leaders had a sort of, they weren't animated by the lust for power, because power was, you know, not within their reach. So they were animated by higher ideals, and they were incentivised by that. And that's obviously not the case today. So as an incentive"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:43:49.800",
+        "message": "changed, our leaders changed. You know, I mean, extraordinary. Freedom Party, like his father, when they were sacrificing, they didn't even know whether they'll get independent lifetime or not. So it was amazing generation, which really animated by higher public good. There's no private gains were, they didn't, I don't even thought about it. That anything private gains are involved."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:15.840",
+        "message": "In fact, I'm recording this on December 17. And it strikes me that those leaders are more in common with the students who have been protesting all across the country today than with the actual political leaders."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:44:27.400",
+        "message": "You're right. In fact, it's the wrong thing was what happened, which provoked this, but as it is, the response has been heartwarming. And it has happened all across India. It's happened Ajmer, Pune, Coimbatore, Bihar. So that's heartwarming, in that sense. That we can still be animated by larger public good."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:52.480",
+        "message": "And perhaps a realisation that that freedom struggle never quite got over, there was enclosure for that. Let's sort of move on to the next chapter title, which is cross the river by feeling the stones."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:45:04.080",
+        "message": "Yeah, this is my favourite learning from China. You know, China's revolutionary change came, they say, by Deng Xiaoping. And he's a famous leader from the south, he toured south southern China. And you know, first changes were made in agriculture sector by the agriculture minister. And reforms that people respond to prices, incentives, was first experimented when they want to change in a small, large, if it's absolutely small in some Chinese size of economy, in small province of China, that later on became a famous minister in his government. So learning from this experiment, and he started expanding. Then again, he created this SSS. SSS against coastal region, started small, and then enlarge learning from them. So everywhere he started with this feeling they want to call the stones because we don't know so little, frankly, when we embark on policies, it's always better to start with what you call sharding, sharding is a Chinese word which is used in policy experiments."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:19.760",
+        "message": "In fact, the example you gave was of the recent plastics ban in Mumbai last year, where you said that instead of doing it in a large city like Mumbai with such effects, they should have tried it in a small town somewhere, gathered the data, seen the effects, seen the consequences"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:46:33.120",
+        "message": "and then decided to do it in a new terrain of knowledge."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:40.880",
+        "message": "I'll sort of, you know, quickly go through the different elements of this chapter, which you point out element one, you point out that there are no silver bullets in public policy, don't look for a magic pill that will solve everything. Element two, it should be a participatory and therefore slow process. Element three, small moves coupled with feedback loops, do something small, see what happens, see the effects, the plastics, of course, being an example of that. And in that participatory process, you talk about you give nine stages of drafting a legal document, which I'll quickly rush through for our listeners, because I think it's valuable as a structure of thinking about the problem, which is number one, clearly identifying a problem that needs to be solved. Number two, demonstrating that there is a market failure. Number three, using a systemic process that is cost benefit analysis to identify the lowest cost intervention that would address the problem. Number four, drafting a legal instrument that expresses the chosen best intervention. Number five, releasing those draft documents for public discussion. Number six, responding to all substantive points that are made through public comment, including modifying the legal instrument in response to some comments which prove to be correct. Number seven, a senior level discussion about the entire documentation packet and the consequential modifications. Number eight, releasing the final legal instrument with a future date to which it becomes effective. Number nine, conducting an ex post review, three years later, nine clear stages. Has this sort of thinking been implemented anywhere? Like, is this how it actually works today in parts of the government?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:48:11.460",
+        "message": "Not in the Indian state, but yeah, it's very much used all over the world. We have we're just importing ideas. This is part of the world of new public management, which came up in the UK, Australia, New Zealand, Canada, etc, in the early 80s, that there is this kind of stylized process through which a legal instrument is done. And I think it's a great discipline. It's a formal procedure for each of the stages, manuals are written, staff are trained. And you see how well it works in terms of bringing the society on the table when the legal instrument is drafted. Once again, you're citizen and state, not a subject. And the whole thing evolves through a long time period, which gives the private sector ample time, both to influence the process saying, you know, you really should not be doing this, this is wrong, and to change the business plans. Otherwise, needlessly, you impose disruptive costs on society when something changes. So as an example, think of the last and the second last points. At point eight, whenever the legal instrument is issued, it should always be effective at some point in the future, not tomorrow. It is so harmful that in India, things are being announced, it's effective from tomorrow. And really people have not been given time to even wake up understand this, and they have to comply with a brand new law by tomorrow. This is not right. This is not fair to the citizenry. And we should really stop doing these things. And the last point, three years later, look back, did you get the job done that you wrote that regulation because you believed that there was a problem in society that you sought to solve? Okay, did it happen? If it didn't happen, please reverse your regulation. Otherwise, in India, we're just accumulating a detritus of more and more interference with human freedom. And we've never ever gone back and checked whether any of this actually helped. So how do you undo laws because you find that they"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:50:00.800",
+        "message": "did not work? And there's also the United States, there's almost I think, sort of standard operating procedure to have sunset clause in many of the major proposals, because it forces you to do the review all over again, all over again. And this litany of in India, we will take the Bombay Raid Control Act, a simple example. It has done exactly opposite everything what you wanted. Maharashtra Revolutionary Land Stealing Act. It was revolutionary in 1940s, 50s it was done, but today it has become major concern in Maharashtra culture. So one can keep on, but if we had a sort of mandatory sunset clause, then this would have been compulsorily reviewed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:48.280",
+        "message": "So I'm guessing that there's an inertia in the system, which is inbuilt and natural given the incentives of bureaucrats to favour the status quo. Is this something that you had to fight? Is it possible to fight this kind of large inertia in the system?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:51:00.560",
+        "message": "Yes, by having this kind of standard operating rules, rules of behaviour, that once you make laws, even political system is told that it will be reviewed as a by sunset clause. Then that means you have to continue to defend and you can get rid of the laws which have become counterproductive or which you would have anticipated how they will function. And this is really, I see the Maharashtrian culture, the basic constraint is our laws, which are outdated. They were revolutionary, I have no problem when they came about, they played a very important role. But now they've become a constraint."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:39.200",
+        "message": "Now I've had episodes on agriculture, which deal with the subject and on rent control also with the damage that is still causing the common people of Mumbai, but all sort of unseen effects. And I just like to stress that the value of the participative process is not just at a moral level that citizens should be consulted, they're not subjects, but also at an efficiency level, because you're getting diverse inputs and far more knowledge into the system. And you have in fact spoken\u2026"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:52:06.320",
+        "message": "Very, very low cost. Very low cost. And third, that the private sector gets time to change business strategies, because it is a cost that private people have building firms, they're investing in technology and processes and training, along a certain understanding of the policy environment. And then suddenly the policy environment changes. And you do this too often to people, then the response will be, I'm not going to invest. It's a chilling effect on business and investment. It's a chilling effect on investment, because when you will disruptively destroy the organizational capital that firms have built, firms become very bitter. Nobody likes to have their hard work being destroyed because of a change in rules. So, changing rules in a participatory way with ample discussion, elapsed time, forward starting date, then becomes a part of normal business planning that I get time, I know this is coming, I will evolve my processes gradually to be ready for that when it comes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:02.480",
+        "message": "And it's almost time for Vijay to go. So, before Ajay and I continue our discussion, Vijay, thanks so much for coming on the show. It's a great honor to meet you."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:53:10.560",
+        "message": "No, I would just request your listeners do look at the book. It is much richer than even today's discussion in terms of content. And we propose to bring out next edition. So, if you have any suggestions, please let us know because then we'll, in which areas you find it more should be done or something can be sort of deleted. But that'd be helpful. And thank you for having me. It was a great learning experience. Every time I interact with Ajay, I learn. You do. I do. And now I find every time I interact with you, I'm going to learn also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:49.200",
+        "message": "That's very kind of you. Thank you so much."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:53:50.480",
+        "message": "Thank you very much. So, if I permit, I'll take your leave."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:53.680",
+        "message": "Yep. Right. And Ajay, you and I will now have to deal with this reduced podcast capacity, as it were. And it's very interesting. You were telling me about how this nine stage process of drafting a legal document is international best practice in some places. And your very next chapter is titled adapting from the international experience question mark, where you actually give cautionary advice against necessarily just blindly picking up"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:54:17.600",
+        "message": "things from international policy. This is a response to what I call the curse of Google. I find too many people will look at a problem that is presented in the world of public policy. We'll do a little Googling, which will generally take you to some German and UK and Singapore websites. And you'll do some cut and paste and you'll say, this is what we should do in policy. Or more generally, the discussion and the debate in India tends to be disproportionately influenced by the blogs and the policy journals that are present in the world, who are discussing problems present elsewhere. And that kind of transplantation really doesn't work. Each place is different. You have to look at the place, you have to figure out from first principles. So, for example, I would ask you that that nine part procedure, does it make sense to you? You live in India, you're deeply rooted here. Can you visualize how that would operate here? And would it add value? And, you know, we get excited that, wow, this is really good. It would help us, we would do better if we use that kind of thing. But primarily, we've got to be grounded here in the Indian landscape. We've got to have deep experiential local knowledge, and we've got to solve problems here. So, we should be careful about copying."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:55:32.800",
+        "message": "In fact, I'll quote from your book again. At one point, you say, quote, as Lan Pichet says, a first world policy practitioner is a bit like a New York taxi driver. The taxi driver knows how to perform rides and get paid, but has no conception of why the taxi system of New York works. Policy institutions and advanced economies have been refined for hundreds of years. And most people in close proximity to those institutions lack an awareness of why things work. Stop quote. In other words, and this again goes back to the seen and the unseen theme, you talk about the invisible infrastructure behind societies and behind how states work. And that is very local, like the term you use for it, which you got from James Scott from the book, Seeing Like a State is metis, which is that local understanding of the system and the culture, and then you have to design solutions based on that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:56:21.520",
+        "message": "So, invisible infrastructure. My favorite example is from the field of health. If you go to the UK, you go to France, you see a very nice health system. When you walk around France, you really admire those people and how well a reasonably socialistic health system works. But if you try to transplant that in India, it will absolutely not work. Why? Because there are a thousand subtle aspects. Why does that nurse show up to work in the morning? Why does that nurse work? What happens when a doctor engages in malpractice? What is the legal system that deals with malpractice? There are so many other elements that are reshaping the incentives of the individuals. So, when a visitor goes in and sees a little dance between a doctor and a nurse and a hospital and a patient, it all looks so nice and tidy. And unfortunately, many times a visitor is also a doctor and doctors know how to think about my liver malfunctioning, not how human societies work through incentives. It gives you the worst possible transplantation. So, we should be very conscious that in a short visit or in any one vertical domain expertise, you will really not understand why a first world institution works well. So, we admire first world countries and there is a lot to learn about how things have been done well in the first world. But at the same time, we've got to think deeply about the incentives that hold it together."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:57:47.280",
+        "message": "No, in fact, and the term Pritchett used for it, of course, is isomorphic mimicry, which I think my friend Shruti Rajgopalan and Alex Tabarrok, who have both been on the show before in multiple episodes, have written a paper on and hopefully I'll chat with them soon about the paper. Another part of this chapter, which I was really struck by, I found amusing also, was when you talk about the three levels of intellectual capacity, where I will quote from you, quote, at level one, we come up with foolish proposals unmoored in logic or analysis. At level two, we use Google and unthinkingly copy what other countries are doing, stop quote, and then you come to level three later, quote, at level three, we have acquired metrics, we are authentically grounded in our backyard and engage in creative problem solving for first principles, stop quote. But the flip side of this also is that, of course, we can't just transplant policies from head to there, like you point out, because invisible infrastructures are very different, and we have to take that into account. But what we can do sometimes is that if we don't have state capacity here, we can free ride on state capacity from outside."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:58:50.000",
+        "message": "Shruti Rajgopalan So in the rest of that chapter, there are some tantalizing examples that in certain settings, there are things happening outside that one can use, and you use the word free riding. And that's exactly right. As you have seen, the defining theme of this book is that we in India have very little state capacity. So, the best battle that you can fight is a battle that you don't have to fight. So, are there some things that you can not do? Okay. And I think the best example of that is the role of the United States FCC in global spectrum management. Okay, so everywhere in the world, there would have been an externalities problem that does this device interfere with that device? And what are our rules of the game of the use of electromagnetic spectrum? And in theory, the Indian state would have had to develop an organization, which would test devices, award licenses, get permissions. Okay, and that would have been quite a job of establishing state capacity. And in fact, we've not done that. What have we done? We've just said, we will have free import of devices. Most of the electronic devices in any case are not made in India. India is not much of an electronics manufacturing center. And so effectively, every device sold in India is US FCC certified, which is what ensures that they don't conflict with each other, which is why your cordless phone does not interfere with your cell phone. You know, somebody else is doing all that hard work. We're running on that for free. But that same idea can be extended. We could do more things with it. For example, you mentioned that book on the problem of drug safety in India. And many Indian factories that make drugs are actually inspected by the United States FDA, which is a far more effective inspection inspection organization than our Indian drugs regulations. So, could we use that creatively here in India? For example, could I go to a shop and buy paracetamol that is branded with a logo saying US FDA approved? Okay, maybe that'll give me more confidence that this paracetamol is made well. You could charge a premium for it. You could charge a premium for that. You'd have to remove the drug price control order for this purpose. Yeah. Okay. Could we go further? Could we say that the only terms under which you're allowed to sell drugs to the Indian consumer is if your factory is certified by a first world country? So, let it be an Australian inspector, let it be a German inspector, let it be an American inspector. But basically, those inspection systems have legs, have deep capacity, have deep capabilities. Let's ride on those. You know, so now this sounds very irritating to a certain kind of person in India, but we should be pragmatic. We're here to get things done. And we're holding a very scarce supply of state capacity. Let's put that same attention people onto things that you can't outsource. But what you can get rid of, should always get rid of."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:01:37.600",
+        "message": "Your next chapter has an intriguing title. And I was hoping you would finally start talking about cricket so we could have a discussion about a subject I know something about. The title is Test Match, not IPL. Explain."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:01:48.720",
+        "message": "Well, I know almost nothing about cricket and that title is from Bhuvana Anand. So, you'd have to ask her. The idea is that too often in India, we have this notion that you want to start with solving a policy problem and you want to finish in a few weeks. And we just want to say nothing gets done like that. The stuff that matters are long journeys. You have to lay a foundation. You have to build a community. You have to very often create a statistical infrastructure, a measurement infrastructure from scratch and cross the river by feeling the stones, which takes time. So, in any field, we have to organize ourselves for these long marches. It takes time. And if we are going to rage against those delays and try to get it done quickly, we're actually going to mess it up. So, it's very important to build a community. It's very important to build capabilities. Whatever got done in India in the last 30 years, got done because in a certain field, a certain self-appointed community came together, which took interest in the field, which invested in that field, which learned that field, which stayed engaged in that field year after year after year and developed that knowledge and capability and played a stewardship role in the evolution of those policy frameworks. And where we've been able to nurture the continuity of these teams over long time horizons, we got things done. Where there have been disruptive events and an entire community"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:03:23.120",
+        "message": "got ejected, we've got a collapse. And you say in your book, quote, the pain comes early and the gains come with a lag. The political puzzle of reforms lies in managing these two tensions, stop quote. And it seems to me that the tensions are huge because, obviously, politics, as you point out in the book, in this chapter, functions on an election clock, that the politicians incentives, going back to public choice, the politicians incentives are always tailored towards winning the next elections. And the next elections aren't necessarily five years away. They could be because there are state elections happening every year. There is always an election somewhere around the corner. And our parties, even when they are in power, instead of governing are basically always in campaign mode, the optics are very important. And therefore, populism often wins out when it comes to agriculture, for example, they will never see the benefit of doing the sort of structural reforms that you and I talked about, because it could be 10 years down the line. But an immediate anesthetic like a farm loan waiver is obviously very popular. And I don't have anything against that particular anesthetic when it's accompanied with the right medicine to actually get to the core of the disease, which it never is. Is this an insurmountable"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:04:33.520",
+        "message": "problem in the political economy? So this is Kelkar's big idea, which is in the chapter, is that this is actually very surmountable. Okay, so let's talk through precisely the phrases you used. The political party is laser like focused on winning five years from now. And that's good. That's the consequence of the rules of the game that are encoded in the constitution. So if you were advising that political party on what would be a management strategy for public policy, that are going to improve my odds of winning the next election, what would you say? And what Kelkar says is, step one, it is very important to develop intellectual capacity and a point of view on policy when you're out of power. Because that's the time where you lay the groundwork, you think deeply about the world when you have no distractions of being in power. And you actually make a plan for what will I do when I win elections one day. And that's a very important formative period. You develop your ideas, and you also develop your communities. So you think of who are the people who are going to participate in this. Most of the time in India at the union government, when an election is completed, there is a coalition government and that coalition government negotiates a common minimum program and the common minimum program flows from the manifesto. So Kelkar has always argued that we need to do more as a community as a political system to develop high quality manifestos and feed better material into the negotiation and into the common minimum program. Okay, so these are all places where we need to make progress and do things better. Because when the rubber hits the road, a new coalition takes charge and it wins the election. Now the clock is ticking. You've got five years, you've got only five years. Now every day matters. So in those early days, it is crucial to not waffle around. Okay, so nobody should have the idea that winning power is something easy. Now we just hire our friends into the right positions and we'll make it up as we go along. That's not going to get you results by 2019 or 2024, or whatever it may be. So what is required is that after elections, there has to be a transition plan and a new team that comes together that has a clear plan for what it wants to do. But there has been significant development of people and ideas and documents and capabilities so that you hit the ground running. And that's where the five years clock can be handled better. Roughly speaking, you want to implement the difficult decisions in the first year, be unpopular in year one and year two. Take year two and year three to build state capacity for implementation of those results and reap fruits in year four and year five. That's roughly the way an ambitious political party should think about the Indian five-year cycle. Hit the ground running, do the difficult decisions in year one, build state capacity to implement them in year two and year three, reap the fruits in terms of improved performance in year four and year five, and then you're ready for judgment day in front of the electorate. And this is efficient for the narrow objectives of the political party to get re-elected. And this will actually give better performance through the entire policy process."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:08:02.880",
+        "message": "Which is, you know, a couple of responses to this. One, of course, is that it sounds all hunky dory in the world of theory to say that this is how an opposition party should do, get an idea, think tank and build intellectual capacity and come up with these great plans at the ground running. But I am still looking at their incentives even as a political party and those incentives are more likely to be tailored towards populism and so on. So what is to say, number one, I have a couple of multi-part questions. What is to say that, number one, that those incentives won't be aligned with populist moves that don't actually address structural reform? Because they're easy, right? It's, you know, now it's almost actually become a hygiene factor for everyone to offer a farm loan waiver. There's no getting away from it. No one talks about the more risky structural stuff. The second thing is that if I just look at India, for example, at the moment, I look at a say the manifesto that the Congress came up with the for the last elections, which was much praised on Twitter, and some of it some of the points that I agree with entirely, and I'm sure you would as well. But the questions that come up is that number one, it wasn't a credible manifesto, because many of the things they spoke about, like empowering cities, were things that were state subjects, and they were actually in power in many states, and they haven't done any of those things. They're not empowering cities in Madhya Pradesh, they're protecting cows. And number two, a lot of what Rahul Gandhi has, for example, spoken about, actually repudiates the mark two policy movement and goes back to mark one, which is like so completely shocking for me looking back instead of looking ahead."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:09:37.760",
+        "message": "No, but Amit, you are debating the manifesto of the INC. I'm not. I'm on a larger idea. That this is what we should do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:09:45.760",
+        "message": "Correct. So the incentives."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:09:47.760",
+        "message": "So I'm on those incentives. So what Khelkar and I would like to say is that an integral part of our journey in India is the maturation of political parties as institutions. At present, political parties seem to view the world in terms of a marketing department that has to run a campaign and get elected. And they're almost surprised when they win an election and say, oh, now what do I do next? Okay. And we're saying that's not wise, because then you're actually not on the pathway to winning five years from now. Okay. That winning is actually a crisis when you have not done that developmental work. So what we would argue is that consider it possible that you may win. And then that means laying certain infrastructure that can be built political parties as an institution, which means you should have a shadow cabinet. You should be connected into data and research and intellectuals and thinking capacity on policy all the time, not just when you're in power. That you should be developing a manifesto as really the coming together of all your thinking into a careful, well done manifesto, which is, of course, a political product because you'd like to win elections. But it's also thought through that what will I be able to implement? What will I execute? And then that goes typically into the NCMP discussion, because there is a negotiation there. And I think Vajpayee taught us the coalition dharma about how to work with partners and have an NCMP and respect the NCMP. So I think these are important elements of the maturation of Indian democracy for how do coalition parties learn to work together and do business with each other. You treat the CMP as a bit of a contract. So let's take that discussion more seriously. And then all the multiple rival manifestos feed into that negotiation. And then comes the problem of planning and execution and very simple idea, do all the unpleasant stuff up front, because then the pain is front loaded. And by year four and year five, you've got the benefits from the good policies, and you're ready to stand in front of the voters and hope to win. And we would argue that this is a wise and rational approach for each"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:11:55.280",
+        "message": "political party. And also, I think to add to that, it's also a costless approach, because nothing is stopping a party from doing all the things it needs to do to win an election. But if you also do this, and you also have an intellectual capacity and a shadow cabinet, it doesn't hurt you. It's there, you know, if you want to use it, you use it. So this is our idea at saying that,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:12:13.040",
+        "message": "how do we plan this whole thing better? Economic policy in India has become tied around a bit of a budget cycle that we make announcements in a budget speech. And that's really the wrong clock, the clock to think of is five years. So when a new team wins power, you've got to play for five years. And that's what gives you the space to do the things that are a little less populist and will incur a short term the wrath of the electorate in year one and year two."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:12:40.000",
+        "message": "Yeah, I mean, the other way of looking at it is that no matter what you do to the electorate, you know, the wrath is a very, I mean, where's the, you know, if you just look at the last government, they did demonetization, and then they did, you know, their botched implementation of GS3, and they won by a landslide. So sometimes there seems to be no correlation with how the world is and how people vote. But leaving that pessimistic note aside, before you try to convert me into optimism, your next chapter, I found extremely insightful, it's called what is hard and what is easy. And over here, you lay out four dimensions of complexity, which you have to consider when you think about public policy. And, and I found this fantastic frame to think about policy. In fact, can you elaborate on these four dimensions of complexity?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:13:20.400",
+        "message": "So here we are building on work by Lant Pritchett and Michael Wilcock, who in 2004, first posed this question, and all credit to them for inventing the question, and first gave a part of the answer. And we've built further on the answer. So the question is like this, you are a person in the world of public policy, I present you with a challenge. For example, I say, let's roll out HPV immunization for all young kids in the country. Okay, that's a question. And it's a very valuable thing to be able to analyze this problem and classify it into is it easy? Is it hard? Have an intellectual framework on how to think about what is easy and what is hard. So straight away, we should be able to talk to each other over coffee and say, that's a really hard problem, or this is an easy problem, we'll be able to do it. Okay, so can we have an intellectual framework through which we can classify problems into easy versus hard? Lant Pritchett and Michael Wilcock proposed two tests to help us think about what is easy and what is hard. They said that count the number of transactions, the touch points between the state and private persons. If there are a large number of transactions, it is more difficult. Okay, so if you have a small number of transactions, maybe you can get by with a small elite core of well motivated, highly trained people, and you'll get the job done. But if you have to have millions of civil servants all over the country, who are interacting with private persons, it's more difficult to solve those principal agent problems and build a large scale machinery that works in a consistent and predictable way. The second test that they posed is, is there discretion? Okay, so for example, if you had to do immunization, there's really no discretion, it's a fixed protocol. Find a child, here's the steps of a polio drop or find a child, here's the steps of an HPV immunization. Okay, so there's no discretion at the front line. All you have to do is find the child, live by a manual. For a contrast, consider something where there's discretion. I'm a schoolteacher, I'm standing in front of a class. What do I do? Do I speak? Do I look at the ceiling? Do I look at the students? Do I make eye contact? Do I engage? Do I lecture for two students sitting at the front desk? Do I try to include everybody in the conversation? Do I ignore girls in the class? Okay, and so on. All this is the discretion of the schoolteacher. And if you want good learning outcomes, we're going to have to work through the behavior of that schoolteacher and it's so much harder because there is high discretion. Okay, so Pritchett and Wilcox argued that there are two dimensions that shape the analysis of whether something is easy or something is hard, which is, are there a large number of transactions or not? And is there high discretion or not? Kelkar and I feel that there are two more dimensions that add greatly to this analysis. Third, we say, are the stakes high or is the stakes low? Okay, so consider going through a red light. If the fine is 200 rupees, the stakes are low. Okay, so the incentives of the policeman are something and yeah, you have to worry that the policeman will take a bribe, but you'll be broadly okay. But if the fine for going through a red light is 20,000 rupees, then suddenly you have a collapse of state capacity because the policeman will only take a bribe. He's never going to charge you the fine of 20,000 rupees, he's going to take a bribe. So the stakes change the complexity of the system. How do you manage and incentivize and incentivize the civil servants to do their work? The answer is, when the stakes are high, it becomes more difficult. So when tax rates are high, when fines are high, when there is arbitrary power of investigation, when there is arbitrary power to raid, when there is arbitrary power to punish, when there is arbitrary power to imprison, the functionaries who wield this power are going to become a law unto themselves. And it is very difficult to rein them in and get them to do the things that they're supposed to do. They will actually pursue their own power. And the last and the fourth dimension that we think is very important is secrecy. If something is done in the open, there is likely to be more hygiene because those individuals will be shamed when they make mistakes. The parts of the Indian state that are shrouded in secrecy, think of the army, think of the intelligence operations, think of the intelligence bureau, think of RAW, think of the secrecy of budget making, think of the secrecy of trading inside the Reserve Bank of India. These are the things that are going to be done badly because there is no check and balance."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:18:02.880",
+        "message": "Less transparency means less accountability."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:18:04.960",
+        "message": "And where there's less accountability, you will get less performance. So you will get some of the lowest capabilities in the Indian state where there is the highest secrecy. So add up these four, okay? So where there is a large number of transactions, where there is more discretion, where the stakes are high, and where there is high secrecy. These are the hardest places to build state capacity. So it's a nice toolkit that when you face a question classified in these four dimensions, and you'll immediately get a flavor, this is easy, this is hard."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:18:34.640",
+        "message": "No, and in fact, for example, the example you point out is that monetary policy is easy, financial regulation is hard. Because monetary policy, not too many transactions, three or four times a year, you are sort of setting the interest rate."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:18:46.080",
+        "message": "You need about 10 guys who will think about six times a year or four times a year, and you're done. It's not very complicated."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:18:51.280",
+        "message": "And there's no secrecy, it's all out in the open and blah, blah, blah. Well, financial regulation is, of course, much harder because so much. This leads on to your next chapter, which is titled Confident Policymakers Work in the Open. And you quote Ashok Desai there, quote, in public policy, we don't just dine with friends, we also sup with fiends, stop quote. The supping with fiends sounds much more fun to me, but yeah. So tell me more about this, about confident policy makers working in the open."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:19:22.800",
+        "message": "There is a kind of person who thinks of political economy as poison. The play of interests that will shape and influence policy is viewed as a bad thing, as a dangerous thing. But that kind of person views herself as benign, as benevolent. And as all of us grow up, as I grew up, we realized that nobody is benevolent, okay, that we are all frail, we are all bad, there is evil in our hearts. And so there is no good person who's going to come up with the right policies, okay, we are all frail creatures. And in that sense, we stop viewing the tug and pull of political economy as illegitimate. But actually, that is the meaning of democracy. Democracy is a place where many people have a voice. And we engage with all of that. So we sup with fiends, we'll talk with all the characters in the landscape about what is thought to be done. And we will revel in that interaction, we will be part of a legitimate political economy, rather than trying to hatch things in secret and unveil them upon the world. Because I'm so smart, I figured it out. And I will do the right thing. And I will not tell anybody because oh my God, if we tell somebody, then maybe the plan will get delayed. Money bill kar do. So there is this elite conception of policy, versus there is the deepening of Indian democracy. And now that we are older, and we understand these things better, and I freely admit, on most of this book, I have been wrong on these subjects x years ago. So this book is a chronicle of all the mistakes of my life. And in a sense, we're just pulling together the things that we've figured out, which we did not know well previously."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:21:06.080",
+        "message": "So it is a confessional and an autobiography."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:21:08.400",
+        "message": "Yes, this is a confessional and an autobiographical book. There is an elite conception that there are a few people that know the right thing. And if you only hand over the reins of power to those right people, then in secret, they will hatch the right plans, and they will spring those upon the country. And really, you know, do you believe that that's a good way to proceed? There is no guarantee that power will be in the hands of good people. There is no guarantee that the best people actually understand the complexities of society. And even if you had a benevolent dictator, that is a negation of the fundamental principles of democracy. We are not subjects. So once you learn to respect the concepts of a constitutional democracy, then we must be part of that mainstream, which means talk about it, discuss it, do things in the open, tell the whole world what are the concepts that are being planned, let there be a public debate about rival visions of what has to happen, and then may the best vision win."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:22:09.280",
+        "message": "We are now subject to what I call Parkinson's law of podcasting, or maybe Verma's law of podcasting, let me name it after me, which is the subject to be discussed keeps expanding as the time left for discussion keeps contracting. And so what I'm now going to do is I'm going to skim over the rest of the section about the art of policymaking and get down to your section called the public policy process. But before that, I'm going to skim over these titles very briefly. Your next chapter was titled criticism and conflict of great value, which is taking on from the thought you just expressed. The one after that coming out right always is too high a bar, where the point you make very simply put is that because policy is so complicated and so multifactorial, that not everybody is, you know, things will often go wrong for no fault of your own. So if you always want to be right, if your incentive is to always be right, you will never do anything, because that reduces the risk of being wrong. And therefore, if you want people to act, you stop giving credit for right or wrong, and you appreciate the complexity in the process. Is that correct?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:23:09.440",
+        "message": "And also, you know, we should get off this high horse that somebody is a great genius, and he'll get everything right. There is this whole hype in the media that put some frail person on a pedestal. And as a consequence, what I've seen is that those persons just freeze up. Because when you are pushed to such a high bar, then the response is to do nothing. I think we will all become a better community, if we will all accept that most of the time things are going to foul up. That, you know, fouling up is a norm and winning is the exception. I think we will all become better human beings, make better decisions, make fewer mistakes. If we go into this with the sense that doing public policy is very hard and social systems are impossibly complicated."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:23:52.400",
+        "message": "Right. And for more elaboration, just buy the book and read the chapter. Your next three chapters are sort of titled A Country Is Not A Company, which kind of speaks for itself, that much harder to administer, different principles comes into play. You talk about system thinking and your final chapter is Beware the Rule of Officials. Like what we want to be governed by is rules and institutions. And if you give too much discretion to officials, and they take over the sort of process with the incentives that are in play."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:24:18.960",
+        "message": "Let's just want to underline the democratic legitimacy problem that we in India, especially we the elite in India, tend to think that bureaucrats are people like us. And we slip into giving legitimacy to the rule of officials. But there is a fundamental negation of democratic process there, because the power of officials is very often unaccountable. There are lifetime jobs and there's really no consequences for making mistakes. It is only politics that protects us. And the biggest mistake that we the elite make is the negation of politics. It is only politicians that are accountable. It is only politics that listens to the people and fixes problems and solves problems. So I think that the cultural gap between the Indian political class and the Indian elite has led to a very harmful conception that let's just find some IIT guy who will rule us and things will be okay. And that could be no more profound mistake than that. What we need is genuine democratic politics. We need more democracy, not less. And all too often, I fear that the elite thinking in India has become like, I just want some official, I want some IIT guy to be my ruler, and I'll be the subject and I'll get on and make money. And that is going to bring you to grief over and over."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:25:39.200",
+        "message": "And there's too much of this sort of great man theory of history mindset or a feudal mindset where you imagine individuals will make the difference. While what is important is you need the rules of the game to be such that even the worst, most incompetent, most malign person you can think of cannot do much damage. And therefore, the individual should not matter too much, just fix the rules of the game. And as you pointed out, what is fixable is through politics. So that's something that elites like us have to stop condescending and looking down on and engage with more fiercely. Let's go to the public policy process where a very important chapter in your book is chapter 27, which talks about, you know, policymaking as a siege. Am I pronouncing that right? Policymaking as a siege-style assault, where you talk about how there are two strategies in mountaineering. In the siege-style assault, a large team has a base camp, and then there is a camp above it, and a camp two, and a camp three, and a camp four. And from here, a few climbers try to get to the top. And the other alpine-style assault is just a couple of great man of history people just go climb, try to climb all the way up. And your point is that public policy should be a siege-style one step at a time. Elaborate on this."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:26:48.320",
+        "message": "That every now and then we get these two guys, Reinold Messner, who are going to run up a mountain, and they try to do some great things, and it doesn't get done, and it doesn't work very well. Those reforms are superficial, they're not well thought of, and they crumble and fall apart as you go along. And that is why in every field where things got done, what worked was a community came together, where there were 50 people, 100 people who thought about things, debated, wrote papers, argued with each other, complained and wrote articles in the newspaper attacking whatever the government was doing, and took a sustained interest in a field for a long time, and chipped away, crossing the river by feeling the stones and fixing things. So that's how things get done. So you need to organize that community for a siege-style assault. It needs 100 people, not two."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:27:41.200",
+        "message": "100 people, not two. And it needs seven stages. So I'll quickly go through the seven stages of your policy pipeline, and then you can elaborate. Quote, stage one of the policy pipeline is the establishment of the statistical system. Stop quote. Stage two of the policy pipeline is descriptive and causal research. Stage three of the policy pipeline is a creative phase of inventing and proposing new policy solutions. Stage four, the public debate where rival solutions compete with each other. Stage five, the internal government process of decision making. Stage six, the translation of the decisions into legal instruments. Stage seven, the construction of state capacity in the form of administrative structures that enforce the law."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:28:20.720",
+        "message": "So this is what we call the policy pipeline. And this is a general framework to think about essentially everything in the public policy landscape. That first, you've got to start with the data. If you don't have data, you are living in some fictional world and you have no idea what's going on. So you have to build statistics. And you can see how it may take many years for the statistics to come together. So again, if you rage, rage against the problem that you see, that doesn't mean you'll solve it. Because if you don't have data, you might as well just stop. So you can't do anything. And you have to first establish the measurement systems and you have to let some years go by and then the data comes about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:29:00.320",
+        "message": "And what you take head on also in this chapter is that old saw about a crisis is too good a thing to waste. And what you point out is that a crisis on its own is not enough. You also need a framework before it, like the first three steps of the six stages that you prescribed. And you use 1991 as an example."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:29:17.120",
+        "message": "So if I may just quickly run through the pipeline, then once you've got the data, you've got to have a bunch of researchers who will study that data and mine it for insight and develop knowledge about the world. And we need an ample supply of researchers. And there are many problems in the academic community. But ultimately, you want people who care about the world and will study the world and produce knowledge about the world. Descriptive knowledge is important. Causal knowledge is important. So you develop deep insights. Then comes stage three that, okay, I've got all this knowledge about the world. And now you need creative leaps to think about policy that, okay, what would be a nice, efficient, minimum coercion, government intervention that will address the market failure? And we'll get the job done in a feasible and implementable way under Indian conditions, under our constraints of bureaucratic capabilities and so on. But there will always be, there should be multiple rival conceptions of how we might go about. And that's the only healthy way for the republic that there should not be one, there should be five or 20. And then there is a public debate stage where many alternative conceptions argue in conferences, in seminars, in newspapers, in quiet meetings between you and me before the podcast recording began. We argue about the world and we disagree, and that's perfectly good and healthy. And then that sets the stage for some government decision-making process where some legislators get together and think this is the right way we should approach the law or some people in the executive field that this kind of bureaucratic structure needs to be changed from this to that. And then once those decisions are made, they need to be encoded into legal instruments. That's where we need a unique kind of programming where the coder is the author of the law. So those coders are required who have the full understanding of the domain and the problem space and the solution space and are able to draft high quality laws. And this is our tiny breed that is barely available in India today. And then finally, you come to the management problem that, okay, I've got the law, who's going to enforce it? What is the public ad problem of the management structures through which government organizations will come about? And this is the whole pipeline that has to come together to get things done. And if we don't have the whole pipeline, things don't get done. And that again, it's a siege-style assault that we think of it as camp by camp. We have to go solve these problems from left to right. And if you try to just sprint to that outcome, and you've not laid those foundations, then it doesn't work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:31:46.560",
+        "message": "And the point you made about the 91 crisis is that you had base camp, camp one, camp two already."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:31:51.680",
+        "message": "So Kelkar emphasizes that when the 91 crisis came along, there was an entire intellectual community that had thought hard about these issues. And what we call the IMF conditionality was actually drafted by the Indian side. There was a strong, capable community in India that had understood these things and was ready to run. And that is how the crisis led to the change. If you merely want a crisis, as you know, we say in the book, we talk about the horrific rape event in New Delhi. It was an amazing moment when the envelope of what is possible in the political system had enlarged. But the previous stages of the pipeline were not there. There hadn't been intellectual capacity. There was no data, there was no research, there was no intellectual community. There had not been a debate. So at that moment, when you think, what do I want to change about the criminal justice system? We were not ready. The criminal justice system is laws, courts, public prosecutors, prisons, forensic labs, that entire institutional arrangement is broken. But we just don't have the statistics. We don't have the intellectual community. We don't have the public debates on how to fix this. So then those amazing moments come about and nothing much gets done. And in fact, potentially very harmful stuff gets done in that moment of crisis, because the people in charge want to be seen as doing something. And then they're just operating on seat of the pants or populism or both, because they want to be seen to be doing something. But frankly, the capabilities are not there. And we're not able to utilize those moments."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:33:24.800",
+        "message": "We've got like 15 minutes left of the recording and there is a ton of material still left in your book. Extremely insightful. I recommend everyone read it. I think it's absolutely an essential read for not just people who are interested in public policy, but anyone who wants to sort of understand the country and understand because everything eventually comes down to this interplay between the state and society and the incentives under which all of us function, which are a combination of, you know, what is happening in this larger field of play. I want to now turn to sort of questions about like, I know you've been very motivated to write this book. We spoke about it a few months ago, right? You expressed an anguish that the policy community was actually losing intellectual capacity and that these ideas needed to be preserved. Tell me a little bit about that, about your experience. You've been working in government, in the finance ministry and fine IPFP, which is sort of almost a government think tank for, you know, since the 90s. What are your incentives? Why do you do this?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:34:25.440",
+        "message": "That's a very difficult question. I want to go back to something I said to you in a previous podcast. I said that I'm a visitor from the 20th century to this world. And I think that's really the guiding metaphor, that I think we learned something about politics and state in the 20th century, which has been forgotten today. We understood something about the importance of democracy and markets and liberal values and basic humanity in the 20th century. And I think there is a whole world today that has lost touch with those grand questions. And we are embarking on lots of mistakes because the institutional memory has gone away. So I think that this book is as much a part of that experiential development of knowledge about India and also something about the connection to the grand themes about the state and the republic on a larger timeframe. We have come to a very difficult moment in India's history. We got 20 years of great growth because Mark II played out well. Mark II began in some ways in 1977. We got a small increase in GDP growth right from 79, and then an amazing period, 91 to 2011."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:35:44.320",
+        "message": "But then we've run out of steam. With 350 million people coming out of poverty, which has like tremendous moral implications. I mean, you consider the counterfactual of keeping those people in poverty. It's horrendous. It's a crime."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:35:58.560",
+        "message": "And we've lost our way. And after 2011, things have not gone well. And I don't want to emphasize the idea that there is any event in 2011 that did it. No, all these things are long, slow processes. The growth acceleration of 91, the foundations of this had been laid over many years before. In similar fashion, 2011 is the end of the high growth period. But the foundations of that slowdown had been laid over the previous decade. So it's 10 years of difficulties that added up to the loss of private sector confidence and the decline in investment, which has brought us today. And so in the Indian political discourse and the economic policy discourse, there's a lot of people shopping for measures that let me do this measure or that measure. And our big idea is that no, you need to go back to foundations, that there is something bigger that is amiss, that the concepts and principles of Mark II have not quite played out in the way that was intended. And so we need to think deeper. And in one line, it is, can we think more deeply about state capacity? Can we think about market failure? Where do you have a government? Instead, what we've landed up in India is an administrative state, where we've just got the rule of officials. We've got officials intruding upon the mind and the space and the sanctity of private persons all over the place, to a point where private persons feel unsafe. And that does not create conditions for creativity and risk-taking and imagination. So we need to go back to the foundations of what is the Indian state and how might we change things so as to come back to that vibrant period of excitement and optimism and creativity and risk-taking and commitment to building organizations and organizational capital in private firms, which is the heart and soul of every society."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:37:54.640",
+        "message": "And what do you sort of think about what I look at as a twin political events of the last 10 years, enabled and exacerbated by social media, which is one, the extreme polarization of the discourse, where a lot of those reasonable conversations where people are talking to each other have been replaced by posturing to people's own in-groups to raise their status within them and people talking past each other as one increasingly sees on social media. And the second, the ease of building and sustaining a false narrative through social media, for example, through the military use of WhatsApp by a military, I don't mean the army is using it, but in that sense, through the assault on social media, on the people where we can believe in narratives that don't conform to reality and vote accordingly. And if these two are happening, then is the space for discourse and therefore reform actually shrinking? And, you know, the two questions I often ask my guests at the end of a show, depending on the subject of their expertise is, what gives you hope and what gives you despair?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:39:01.840",
+        "message": "Shreyas I share your concerns about the world of social media. As you know, I do not participate on Twitter. I do not have a Facebook account and so on. So I feel that there's something about you and me meeting as human beings and talking over chai and on omelette, which is fundamentally more civilized. If we were trading insults on Facebook or on Twitter, it would be fundamentally infeasible for us to find common ground."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:39:29.440",
+        "message": "Hamid I just realized that I am an Hamid and you are a Shah."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:39:32.480",
+        "message": "Continue. Shreyas Yeah, so I think it's very important for us to build an intellectual community, to build conversations between all of us without being intermediated by social media platforms. And in the Indian policy community, there is a need to think more deeply about what is economics, what is politics, what is the state. We need to step away from some of this China model stuff, where there are people who just want some engineers to run the place. And I'd like to be a subject that makes money. And I think that's a very limiting vision and it does not work and it won't work in India. And it probably won't work in China either. But there has been a very wasteful detour for 10-20 years in the Indian body politic where there is an attempt at copying the Chinese approach of some engineers commanding power and reshaping society. And I think it is important to go back to basics and think more deeply about what is the economics and politics of a liberal democracy and for all of us to develop a shared vocabulary and a conceptual framework on how to think about it. And that's our attempt in this book, that can we find some common ground? Can we find some shared vocabulary? Because in a way, we are all today partly grappling with an unknown. We are dealing with this China model streak in our body politic, which is a truly harmful development of really a low quality version of Nehru and Mahalanobis, of some engineers trying to design society and roll out one system after another. And there shall be one this and one that. And we're doing this in a context where the civility of our discourse and the human bonds that tie you and me together are being damaged every day by the experience of social media. You worry about what social media is doing to the masses and you are right to worry. I also worry about what social media is doing to you and me. We, the elite, have been damaged by social media. So we have to be very conscious of the destruction of mutual respect and shared vocabulary that has come about in this world of the social media. And I think we all need to talk to each other much more and learn to give and take and learn to respect and stop hating so much. Respect that the world is complicated and there are many different legitimate points of view that if you disagree with me, it's not because you're a bad person, it's not because you're a fool, but because you see the world differently and I am the beneficiary of stepping into your shoes and seeing the world from your point of view of why might it be that a reasonable person sees this differently. I think we will all benefit if we are able to restore some of those old ways. The optimism and the solutionism that came with the early age of the internet is mercifully ebbing. And I think it is time for all of us to start questioning the ways in which we have learned to talk to each other in this electronic age. And I think we need to restore some of that old culture."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:42:39.760",
+        "message": "Very wise words. Ajay, I learnt a lot reading this book and I've in fact learnt a lot by reading you over the years and chatting with you over the years over chai and omelette. Thank you so much for coming on The Scene and The Unseen. Thanks, Amit. If you enjoyed listening to The Scene and The Unseen, do hop over to your nearest bookstore, online or offline and pick up in-service In Service of the Republic, The Art and Science of Economic Policy by Vijay Kelkar and Ajay Shah. An outstanding book. Absolute must read and there's a very good chance it will change the way you think about a lot of things. Ajay, as he just mentioned, is not on social media and neither is Vijay. Wise people. You can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse past episodes of The Scene and The Unseen at sceneunseen.in. The Scene and The Unseen is supported by the Takshashila Institution and Independent Centre for Public Policy."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:43:28.640",
+        "message": "Thank you for listening."
+    }
+]

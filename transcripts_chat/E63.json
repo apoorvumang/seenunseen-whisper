@@ -1,0 +1,447 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:04.000",
+        "message": "How should a person act? When I ask myself this question, I know where to look for answers. I have a set of first principles that I derive these answers from. I have supreme respect for the autonomy of other people. We should never do anything to infringe on other people's individual rights. And everything follows from there. I'm a libertarian, which basically means that the most important word in my dictionary is consent. But let's look beyond how a person should act and ask one more question. How should a country act? Welcome to the scene and the unseen. How should a country act? Are the sole imperatives of a nation to look after the interests of its citizens? Should there be other limitations on it? What meaning does the word morality have in the context of international affairs, which are often a zero-sum game in nature? To discuss all these issues and to talk about foreign policy and the different ways in which foreign policy has evolved through the centuries, I have as my guest today, Nitin Pai. Nitin is an old school blogger like me. He started his blog, which we knew then as Akon, at around the same time as I started India Uncut, in the early 2000s. We became friends back then, and we've had tons of interesting discussions on many subjects, not always in agreement with each other. But my focus was always on individual rights and personal freedoms, and Nitin's was on foreign policy, so we travelled different paths. Nitin quickly became one of the most respected foreign policy experts in this country and started the Takshashila Institution, which he still runs. The online magazine Pragati, which I relaunched as editor last year, is run by the Takshashila Institution. I've been wanting to get Nitin as a guest on the show for quite a while, and now that he's finally agreed, I figured I'd use this chance to take a broad look at foreign policy itself. Here's our conversation. Nitin, welcome to The Scene and The Unseen. Hi Amit, glad to be on your show. Nitin, tell me something. As you know, I'm a libertarian, and when I started forming my views of the world, I've always looked at everything from the perspective of individual rights, thinking about what human behavior is like, what is the moral course of action, and so on and so forth. But there's another way of looking at the world, where you look at, not at individuals as units, but as nation-states as units, and where you talk not of human behavior being between individuals, but between foreign policy where states engage with each other to safeguard their own interests. Now, this is something that I haven't really given much thought to, and there's no one better than you to educate me on this. So, tell me about foreign policy. When did it start evolving? What are the sort of different directions it went in? How should we think about this?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:02.000",
+        "message": "Yeah, I think, let's start from the beginning. I think one of the very interesting conversations I have with my libertarian friends is that the libertarian discomfort with the idea of a state. But you look at it as a practical matter. Individuals have rights and freedoms and all that, but all those liberties become real only when they are protected by some entity, and that entity is a state. Now, you could have a state like North Korea, which just protects its own liberties and the liberties of its leaders and nothing else. Or you could have a liberal democratic state, which takes some of your freedoms, mainly your right to use force, and guarantees the rest of the freedoms to you by means of a social contract. So, the state is a very important institution in the protection of liberty. And this sits very, you know, uncomfortably with very strong classical libertarians, right? But the state is important. Now, the state operates, unfortunately, in an anarchy. And when you say an anarchy, it's not about chaos and disorder, but the idea that there is no international government, there is no authority over and above a nation state, which ensures that states behave and follow the rules of the road or the international law. Now, because states have to operate in this anarchic outfit, they have to be able to protect themselves. Survival of the state is the most important thing. Now, I would look at it from the perspective of a liberal democratic republic like India. The reason why I am interested in the survival and the security of the Indian Republic is because the Indian Republic is what makes my liberties real. I have an interest in ensuring that the Republic of India is not internally overthrown or externally taken over by foreign invaders or by foreign regimes, which might not give me the same kind of liberty and freedoms that I have. Now, the question of how do you protect the state? How does the state secure itself and its way of life has been one of those eternal questions, which has preoccupied the minds of statesmen and scholars and intellectuals since thousands of years. And one answer which most of these people have come to, regardless of their tradition, is that you need to have power. How much power? As much power as you can get. Why do you need as much power as you can get? Because you can't be sure that the other state out there will not accumulate more power and use that power to overthrow you or take over you or bully you or dominate you. So, the quest for more and more power relative to everybody else is what animates most states and that lies at the heart of foreign policy. And foreign policy is as old as human civilization. Since the time probably when humans came together and started forming bands and groups of like-minded or with kin relationships, they would have had to interact with other tribes or clans or groups of a similar nature and that's when foreign policy started."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:04.000",
+        "message": "So, your point which I entirely agree with, by the way, is that while it may seem discordant for some libertarians because they distrust power, at the same time, it is necessary for a state to try and magnify its power in whatever way possible because that is the best way to ensure that it continues to protect the rights of the individuals who constitute the state. That's broadly, if I've summed it up correctly. Now, when we talk about foreign policy and how it evolved and so on, a point that you often made is that it's evolved differently in different parts of the world. It's not this one monolithic body of thought, but there are different traditions. Can you tell me a little bit more about that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:42.000",
+        "message": "Yeah, let's talk about international relations as you know, the field in which foreign policy plays, right? I think we've had this conversation long ago once over copious amounts of alcohol and I think we disagreed with Samuel Huntington and we said, no, it's not about a clash of civilizations. We just said the whole of international relations can be explained by a divide between the people who consume alcohol and the people who don't. So, you look at any international conflict on either side of which you have a drinking country and a non-drinking country. Now, of course, I'm trivializing it and generalizing it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:22.000",
+        "message": "You're being flippant just in case people take you seriously because in social media, we have to make everything idiot proof."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:27.000",
+        "message": "More seriously, you would see that there are a few civilizational trends in the way civilizations look at foreign policy, right? Or international relations, rather the relationship between one state and the other, right? Let's start with the ancient Indian way of looking at things made famous by the Arthashastra, which was supposedly written in Takshashila, after which our institution is named. Now, if you look at the Arthashastra view of interstate relations, he looks, Kautilya, let me say, Kautilya is the guy who wrote this. It's a shorthand for a number of authors, but let's use the word Kautilya for now. So, he sees the center of the focus of policy as this character called a Vijigishu or the person who wants to be a victor. So, he's a king and he sees that around him are a bunch of kings who are sovereign equals and the business of the Vijigishu is to prevail over those neighboring kings and impose his domain on those. So, it is about conquest. Sort of imperialism in a sense. It's imperialism in the sense that it's a conquest of other kings around you. So, he says that, okay, the guys immediately around you are your foes, are your adversaries and the guys one hop away are your allies because they are the adversaries' adversaries and so on and so forth. So, he creates a very geometrical kind of a thing where you have concentric circles, everybody in an even numbered circle is your ally and everybody in an odd numbered circle\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:06.000",
+        "message": "Which is kind of dynamic because if you conquer the guy next to you, then the guy next to him who was once your friend is now your enemy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:12.000",
+        "message": "Exactly. And that's the heart of realism, which says that there are no permanent friends and permanent enemies. They're just permanent interests, right? So, as your empire grows, people who are probably formerly your allies now become your adversaries because you are interested in that domain. There is a caveat to this because Indian international relations did not envisage looking invading territories which are not part of the Indian subcontinent. So, it was almost considered a dharma to go and impose your rule on people who don't accept that way of life. So, there was a sort of a psychological geographical border to or a frontier to how much expansionism Indian strategic thought\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:54.000",
+        "message": "But did that foreign policy also have, by and large, have a sort of a zero-sum way of looking at the world in which case your neighbour is your enemy and you have to conquer him rather than, hey, you could also trade with him to mutual benefit?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:06.000",
+        "message": "That's right. There was a, at least in the strategic sense, there was a zero-sum. Within the bounds of the subcontinent, your job is to expand your empire until it occupies the natural boundaries of the subcontinent. And, of course, you could trade and do business and all that even when you are at war or when you are not at war. But the strategic objective of the Vijay Gishu was to expand his empire and to cover the whole of the subcontinent. But note that while the Vijay Gishu was engaged in expansionism, the Vijay Gishu would recognize sovereign equals. He would recognize that there are other kings who are sovereign equals in terms of status. They are the kings of their own kingdoms. It so happens that I am interested in conquering you, but I accept the fact that you are a sovereign equal. Now, this is important because the Indian strategic thought accepted the idea of multiple sovereignties. Now, this is very different from the Chinese perspective. You see, how it evolved in China, at least for the last 2000 plus years, is that the Chinese strategic thought looks at Han Chinese civilization as the middle kingdom, which is led by an emperor who has a mandate from heaven and who imposes his heavenly rule on the entire planet or on the entire earth. They might not have seen it as a planet, but on the whole of the earth. The Han Chinese middle kingdom is where civilization is and everybody outside the middle kingdom is either a tributary or a barbarian. They distinguish this to say that, okay, if we have a chance to subjugate the people beyond our borders and make them accept the primacy of Chinese culture and make them pay tribute, then we recognize them as tributaries. They are not our equals, they are our tributaries. But let's say there are people who are nomadic, who are, you know, who are warlike and who we consider uncivilizable, we look at them as barbarians. Now, this is a very different way of looking at the world as compared to what the Indians, the ancient Indians looked at. Because you recognize only one entity as the sole sovereign on earth and there are no other equals. So, the emperor of China did not recognize sovereign equals. Now, this led to very interesting situations like, for example, in the 15th and the 16th centuries when European travelers and emissaries first went to China, they presented their credentials to the people there and said, look, we come in the name of our emperor and we want to establish relationships with you. And the Chinese said, what nonsense is this? We don't recognize, we don't recognize any other emperor. If you insist that there is another emperor in Europe, we are going to imprison you. So, many diplomats and emissaries from both the Catholic Church as well as European kingdoms were imprisoned by the Chinese because they did not accept, you know, conceptually that there can be another emperor. The only way that foreign ambassadors would get an interview with the emperor is to say that, look, okay, I come in the name of this guy who is your tributary and I kowtow to you. So, that's a very profound difference between the way the Indians and the Europeans see things and the Chinese see things."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:19.000",
+        "message": "So, would it be correct to say, for example, that because the Chinese are so insular and they believe that their vision of the state is divine, that it is God's will which is being spread across the universe, that for them, foreign policy was a moral imperative, their foreign policy was a moral imperative, while for the Indians, it was more practical considerations."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:37.000",
+        "message": "Well, yes, I think you could say that. It was not God's will, but they looked at it as an emperor, they call it heavens, you know, it's not God in the\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:45.000",
+        "message": "But the foreign policy was a moral imperative."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:48.000",
+        "message": "Yeah, foreign policy they considered as a moral civilizational imperative to say that, look, we are part of a superior civilization and here are these people who are around us and who can be given the benefits of our civilizations if they accept our way of life, which means language, which means sense of dress and customs and so on and accept that our emperor is also their emperor and they pay tribute to this guy. But there might be people like the nomadic types of Central Asia, like the Mongols, for example, the most famous ones. They have been these tribes for a long time and they don't accept Chinese, Han Chinese authority. So, you would try and subdue them using war or you would build a huge wall to protect your civilization from the barbarians to your west. So, that's how they saw it. Yeah, it was both a moral imperative as well as a security imperative because you also had to secure your boundaries against these people who might come and raid your territory."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:42.000",
+        "message": "And in contrast, and just to clarify before we move on, then the Indian approach, was it driven purely by practical considerations that we have to expand because that is better for our security because it makes us stronger?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:52.000",
+        "message": "Well, the Indian formula is very mysterious, like we don't know why the king, you know, why the Arthashastra says you have to expand your kingdom. If you want to interpret it to say it could be that look, you have to expand the kingdom because if you don't, somebody else is going to be doing it. So, it's like a prisoner's dilemma. You might as well do it first and be the Vijayakishu. It forces all parties to be aggressive. I would think that would be the reason why the injunction was that you go and expand your empire so that you can be the Chakravarti of the whole subcontinent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:26.000",
+        "message": "So, we've gone through the Indian approach and the Chinese approach. What are the other approaches?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:30.000",
+        "message": "Now, here are two other ones, right? Let me start with the European one, the Westphalian one, which evolved due to 1000 years of war in Europe, the Catholic Church was there, the Holy Roman Empire was there, various principalities were there. They had, you know, 1000 years of conflict and war and developments, political developments in Europe. And then in the 16th century, after a particularly bloody period of war, they decided that look, let's agree on a system where whoever controls a particular country becomes the absolute sovereign of that country. Because this is interesting, because before that, if you were living in, let's say, a village in what is today Germany, you would be paying tribute to your local feudal lord. You would be known to be in the principality of a certain baron or a prince of Germany. You would also be under the jurisdiction of a bishop, who was part of the of the church system, Catholic or Protestant, and would also be perhaps part of the Holy Roman Empire. Right? So, there was your political\u2026 This independent and overlapping jurisdiction. Independent and overlapping jurisdiction and was a huge source of confusion. For example, the Pope could claim jurisdiction over the Catholics in Italy and in France and in England. And the kings of those places would say, hey, these are my subjects and I have authority over them. But the church would say, no, it's, you know, they're Catholics, so they are under my jurisdiction. And suddenly the Holy Roman Emperor would come out from somewhere and said, no, they're actually my subjects. So, this confusion ended in a series of treaties called the Treaties of Westphalia, where they came to the simple conclusion that there is a territory and whoever rules the territory controls the subjects, you know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:24.000",
+        "message": "Around when were these treaties?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:26.000",
+        "message": "This was in the 16th century. I think my history is not too good. I think the Treaties of Westphalia were in the 1560s, something like that. Right. I can't remember this. Anyway, so, from that point onwards, the international order evolved in the West around the system that there is a king who rules a kingdom and all the people in that kingdom are subjects and citizens of that kingdom. And nobody else can interfere in the internal affairs of that kingdom, which is in a way very similar to the Indian system because you recognize multiple sovereigns. You realize that there's a king of Germany, there's a king of France, there's a prince of Bavaria and so forth who are sovereign."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:05.000",
+        "message": "Except the Indian system is expansionist."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:07.000",
+        "message": "The European system also is expansionist, although there was not hard-coded anywhere, but the idea was that you would be an expansionist king because for the same reasons, because if you don't expand and become more powerful, somebody else will come and do that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:21.000",
+        "message": "So, you recognize that, say, the ruler of Hungary has control over the jurisdiction, but you also don't mind fighting to take it over."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:28.000",
+        "message": "And you would intend to take that over because in those days, of course, you know, the reason was land and agricultural land and people were the source of power. Because the land would give you agricultural produce and taxation and money and people were the people who needed to draft them into war, right? So, the source of power was land, which is why many of these kingdoms were trying to be expansionist in the sense that you get more and more power by controlling more and more land. It's not the same today, right? Now, the other system which is very interesting is the Islamic system."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:57.000",
+        "message": "But before you move on, what is the difference then between the Indian system and the European system?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:02.000",
+        "message": "The big difference between the Indian and the European system, I think, would be the idea of dharma, very loosely, because the Indian system did not envisage conquering people who did not subscribe to dharma or the, you know, the Indian, the Hindu thinking or the Indian thinking, whichever word you want to call it. And, for example, the Indian kings had no designs on Persia, had no designs on Central Asia, had no designs on people of the Indian Ocean."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:33.000",
+        "message": "But part of this could also be because of reasons of distance in geography as much as\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:37.000",
+        "message": "Not necessarily, because there were always invasions the other way. Right. Because you had people, Central Asian nomads, Central Asian kingdoms, the Persians invading India, but you had very few invasions on the other."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:47.000",
+        "message": "So, there was a sense that this is our civilization and we'll stay with it, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:50.000",
+        "message": "We are content with it. And in a way, that's also the grand strategy to this day, where you see people in India, we are comfortable as long as we are allowed to, you know, live in our own way and we have no designs on conquering other countries."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:02.000",
+        "message": "Yeah, but other countries come and conquer us."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:04.000",
+        "message": "Yeah, that's probably the difference between the Indian and the European way, because Europeans did not have such injunctions or such things ever. Maybe it was geography, maybe it was the way they were thinking, but this is what it was. They would still conquer. Of course, you had the British Empire, you had the Dutch Empire and, you know, the Russians had their own empire."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:21.000",
+        "message": "So, they came here and conquered us, but we never tried to kind of do the reverse."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:24.000",
+        "message": "Now, let's look at the Islamic model, right? This is interesting because it sees the world as being divided between a community of the faithful, which is Darul Islam, and the house of war, which is Darul Harb, which is everybody else. Right. And the whole idea was that Islam was on this global mission to conquer everybody and bring them into the folds of Islam, right? So, it was naturally expansionist, which is borne out empirically, because I think the Islamist expansion after the Prophet is just phenomenal in terms of historical terms. The conquest was to bring people under the word of God as revealed by the Prophet and as revealed by the Prophet in the Quran, right? So, there was religious zeal in this to conquer people and bring them into the house of Islam."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:18.000",
+        "message": "So, again, foreign policy is moral imperative almost."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:20.000",
+        "message": "Very moral imperative. It's almost a divine imperative. It's a duty, in fact. It's a duty, exactly. It's a divine imperative that you're enjoined by God to go and conquer these people and bring them into the house of Islam. And if they resist, then you destroy them, right? So, if you look at modern Islamic fundamentalism, like people like Bin Laden and the others, they see the world very much in these terms. The Islamic state currently talks about, you know, the Islamic state being the core Islamic state, and it's going to expand and take over other countries and make them Islamic. And if they resist, you're going to be destroying them. Now, what is interesting is, in between these two very stark house of Islam and house of war, Dar-ul-Islam and Dar-ul-Harab, there were also places which came out in practice called Dar-ul-Sulayh. These were grey zones between the Islamic world and the non-Islamic world. For example, they would recognize that there are non-Islamic rulers with Muslim populations or there might be Islamic rulers with non-Muslim populations. And these were convenient places for trade, for discussions, for negotiations, and as stepping stones for conquest."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:29.000",
+        "message": "So, for example, you mean, otherwise Dar-ul-Islam would not trade with Dar-ul-Harab. They were only for conquest."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:34.000",
+        "message": "That's right. Because, not just conquest, enslavement and so forth, for exploitation. Because you did not recognize them as having the same moral status as the people of the house of Islam. So, you could exploit them, you could enslave them, you could kill them, or literally do anything that you wanted to do with them. But the presence of Dar-ul-Sulayh, you know, tells you that even in a very hardline Islamist construct of international relations, there was space for, you know, for negotiations, for trade. And as in practice, many parts of the world after the advent of Islam were Dar-ul-Sulayhs, where people could come and trade. There were Muslim populations, non-Muslim populations, not all of them were treated equally. But there was space between the, you know, the Islamic world and the non-Islamic world."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:18.000",
+        "message": "And the difference between the Chinese and the Islamic ways of looking at foreign policy probably would be that where they are both a kind of moral imperative, the Islamic vision is much more ruthlessly expansionist. While the Chinese are insular and they are happy just to sort of\u2026"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:32.000",
+        "message": "I wouldn't call the Chinese insular as much as the Chinese were content being where they were. Because it's a big old civilization. They had no imperative to push their civilization beyond their borders. They would just accept and assimilate people, you know, maybe using what you would call today a soft power and say, look, you are part of the Chinese sphere of influence. They had no necessity to go and conquer and plant their flag or, you know, even convert people into Chinesism. As opposed to Islam being a revealed religion filled its adherence with a zeal to spread that faith. So, the conquest of other lands was as much indicated by faith with assurances that because this is a superior faith, you are necessarily going to win. And that was a confidence which they had. And early Islamic invaders were all filled with unnatural confidence, which maybe allowed them to make these conquests fairly easily because you would do things which you would not do if you were a rational person."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:31.000",
+        "message": "And would you say that some of this aggression also comes out of existential angst because the Chinese could be secure in their status as a civilization and in the geographic domain and so on. But Islam was new and it could not be secure in that. And therefore, it was almost a way of sort of seeking validation and asserting its identity itself by expanding."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:50.000",
+        "message": "Geographical context also has a lot to do with it. Because if you look at the core territories of China, they are very fertile lands. Of course, they had flooding and natural disasters, but they were largely fertile lands with adequate manpower and a very stable social system. But you look at Arabia during the time of the Prophet Muhammad and after. These were tribal societies, natural resources were scarce. You would not be able to, although Arabia is a huge landmass, the amount of places where you could sustain civilization and sustain livelihoods was very small. So you had to expand and there was a natural inter-tribal rivalry, which was almost like the Old Testament where, you know, each tribe had its own God. And then inter-tribal rivalry was also conflict between the adherence of two gods. So we read the Islamic texts, the injunctions against worshipping other gods and, you know, worshipping the one true God, which is the most important thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:49.000",
+        "message": "And then sort of uniting as many tribes as you can under the banner of Islam then has a strategic advantage of, you know, strength in numbers."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:25:56.000",
+        "message": "That's right. So you would, I think that is the strategic genius of Prophet Muhammad. The strategic genius of Prophet Muhammad was his ability to amalgamate or his success in amalgamating a number of Arabian tribes into a bigger unit called the House of Islam, which was then capable of strategic successes in terms of his conquest of Northern Africa, on the Middle East, Persia, and even the borders of India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:21.000",
+        "message": "Now, the interesting thing is, as world history proceeds, we globalize more and more, we come closer and closer to one world and these approaches then come up against each other."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:29.000",
+        "message": "How has that played out? I think that's the biggest question of this century, right? For the almost all of the 20th century, the world operated within a Westphalian model, right? You know, the West was dominating, the victors of the Second World War created an international system, which is largely based on the Westphalian pattern, where if you're the, you know, you could be Angola, you could be Tanzania, you could be India, you could be Bangladesh, these are independent nation states, which would be recognized each other as sovereign equals, everybody has one vote in the United Nations General Assembly, so on and so forth. Now, that construct is really a Westphalian construct. And it was held together by the power of the West. Now, the West could have been the Soviet Union or the United States or the NATO countries. But it was generally a Western mental model, which is imposed on the rest of the world. Now, as you see the West diminishing in power relative to China and India, as the center of gravity of world order moves away from the West, the question is, what kind of a world order will be shaped? And what would be the rules of the game, right? It's not clear that the new powers that will rise relative to each other and relative to the West in the next 10, 20, 30 years, will necessarily agree to the rules of the game, which were agreed upon 100 years ago, by the victors of the Second World War. The Chinese definitely do not see the Westphalian system as something which they're comfortable with. I've spoken to many Chinese scholars and asked them this question to say that, you know, how much of modern Chinese foreign policy adheres to the Middle Kingdom mindset, the Tiansha Middle Kingdom mindset. And many of them told me that it is a serious factor in the mental models of the policymakers in modern China. In other words, China would, if given a chance, would like to see a return to this way of looking at international relations, where China is the Middle Kingdom and everybody else is either a tributary or a barbarian. What are the practical implications of this? What this means is that at one end of the spectrum, we know that the United States and China will fight for global dominance. This is not just a question for being number one, but it is also a fight for what kind of rules of the games are we going to have in the international system going forward. The other end of it is, how does China look at its neighborhood? For example, if the Chinese mental model sees itself as the heaven, Middle Kingdom, and everybody else has different levels of status as a tributary, do they recognize Vietnam? Do they recognize Thailand? Do they recognize India and Nepal as sovereign equals? Or do they see us as tributaries of some kind? Now, the question is different if you're a small country on the border of China, you don't have much of a choice. You know, if Chinese power becomes so strong compared to you, you will have to kowtow or toe the line in one way or the other. But it's different for a country like India, which is large enough to not easily succumb to the Chinese intellectual dominance in the way you look at foreign policy or international relations. The question for India is, how do we deal with a neighbor who might not necessarily see you as a sovereign equal and might want you to be a tributary? India does not see itself as a tributary of anybody, right? And we are happy to see others as sovereign equals, including very, very small countries like Nauru. But we are not in the business of seeing anybody as a tributary, nor are we in the business of being seeing ourselves as a tributary."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:59.000",
+        "message": "And would it be fair to say that India is actually now in the Westphalian mindset?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:02.000",
+        "message": "Very strongly in the Westphalian mindset. And this, you know, the good news for us is that Westphalian mindset and the Indian traditional mindset are consistent. So there is no conflict between the two models. And after 1947, the Republic of India occupies almost all of the subcontinent, you know, taking up a few parts, which are Pakistan, Bangladesh. Expansionism is not an issue. I don't think anybody, you know, other than a few really, really radical minds who probably have way too much of drink or have too little education might want to recombine the subcontinent and form one."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:38.000",
+        "message": "Akhand Bharat."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:40.000",
+        "message": "I think we are quite happy with the size and the shape we are, apart from a few border disputes, which we probably can solve it in the fullness of time. But nobody has a case in India to say that we should expand or make some other countries our tributaries. In fact, if you look at foreign policy of India in the last 20 years, even the smaller countries who used to be largely under India's dominance, whether it's Nepal, Bhutan, or the Maldives and Sri Lanka to some extent, have been allowed with New Delhi's acquiescence to go their own way. Bhutan has its own constitution. Nepal has its own constitution. India, for example, changed the terms of the friendship treaty with Bhutan to allow the Bhutanese government a lot more autonomy in its foreign relations. So I think that's the trend. I don't think the Republic of India ever sees itself as being a hegemon and dominating or maybe conquering territory. It doesn't make sense in the 21st century in any case. But China is different. One thing about China is that I think they are right now under President Xi Jinping of a mind, which I would call the geopolitical front foot. They feel that they are already much bigger and much stronger than is understood and felt. And therefore, they have the need to actually be on the front foot and impose and assert themselves in various places, whether it's the South China Sea, whether it's in Central Asia and Eastern Europe, and of course, the Indian Ocean."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:12.000",
+        "message": "And the ironic thing is, and I'm just thinking aloud here is that while in the past, this power would come from zero sum means like you conquer nations and so on. Now it comes mostly from the positive sum game of trade. They're economically powerful, which has come about by, you know, interactions, which benefit both parties and are not necessarily at the cost of countries they might think of as a tributaries."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:32:34.000",
+        "message": "Yeah, you're right. I think territory is no more the source of national power. It's probably one component of national power, but there are far more important components. I was talking to the great Indian strategist K Subramaniam 10 years ago, and I asked him, you know, what do you think is the currency of power in the 21st century? And he said knowledge. So knowledge is the currency of power in the 21st century, not land anymore. Land is matters to you because it, you know, it supports the population. So it's knowledge in terms of technology, how to do things. We are in a knowledge economy and knowledge can be used to create all other forms of power, right? Knowledge can be turned into wealth and wealth can be turned into military power. So knowledge at the end is at the heart of military power. So territorial conquests are not so meaningful. I think what the Chinese are trying to do is not so much to conquer territory, but to acquire enough influence in enough parts of the world so as to reshape the world in the way they want to see. So they want to change the, you know, the Westphalian system enough that it becomes more Chinese in its nature. For that, they'll need to have influence in many existing parts of the world because, for example, if you want to win a vote in the United Nations General Assembly, you need the support of so many countries. What's the best way to acquire the support of so many countries is when you control them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:55.000",
+        "message": "In a sense, you could say the whole Westphalian notion of nation states becomes irrelevant if, you know, Chinese companies are dominating economies everywhere then, you know, and buying influence and who cares?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:05.000",
+        "message": "Yeah, that was also talked about when we were, you know, in the 70s and the 80s and when McDonald's was spreading and people are saying that, oh, now that there is McDonald's everywhere, the Westphalian model doesn't work. General Motors is more important than General Colin Powell and things like that. I don't think that is necessarily true because ultimately\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:27.000",
+        "message": "But is that one way they would look at it is what I'm asking? Oh, the Chinese?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:31.000",
+        "message": "Yeah. I don't think they see these as two different things. Right. They see trade and economics as one constituent of their national power and, you know, you project power to acquire more power. That's how economics works for them. And it's all part of this overall general front footedness of China."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:50.000",
+        "message": "And how does the Islamic way of looking at the world come into all of this, given the turmoil of the last few decades?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:56.000",
+        "message": "See, the Islamic worldview today is not quite different from the Christian worldview before the Enlightenment and before Renaissance and Enlightenment, where, you know, they looked at the world as Christendom and everybody else. The Islamists are now looking at Darul Islam and everybody else. And as the evolution of Europe tells you that that's not quite a sustainable model, because you will never be able to conquer everybody, you will never be able to put them under the same religion, and you will never be able to control the people in your own territory, even if you have the same religion and the same emperor. So that model that you can conquer the world with one old idea called religion is just bunk, you know, and I think enough people in the world realize it. The appeal for this is weak and going to be much weaker in the future."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:43.000",
+        "message": "And that's especially in modern times where there's growing prosperity and also technology empowers individuals in ways that just weren't happening decades ago."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:51.000",
+        "message": "Yeah. And I think in the modern world, you know, there is this trend right now towards greater populism and a greater religiosity and faith and all that. But if you look at it in a slightly longer lens, people know that, you know, there are certain ideas which are more successful and give them a better quality of life and certain ideas that are not. And if you go, you know, if you look into the next 10, 20, 30, 40 years, people will want to be part of successful countries, people will want to move towards countries which give them a better quality of life. There used to be this t-shirt in the US says, I was not born in America, but I got here as soon as I can. Right. So why is it that people want to be American citizens, despite the political dispensation which you have today? Why do you have people who want to migrate to Western Europe? Why do you have people want to migrate to India? It's because they see that there are certain rules of the game, there are certain ways of life, there are certain political structures, which allow them to live happily, pursue happiness, wealth, prosperity, and others that don't. So I think the model, which we present, as I said, liberal democratic model is successful, is an empirically shown to be successful. Right now, there are people who are now having doubts about it. But you know, in the long arc of history, there's absolutely no doubt certain models are successful, and people will gravitate towards successful models."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:13.000",
+        "message": "So would you say that out of all the out of these four strands of foreign policy, one, the Indian one pretty much doesn't exist, but it doesn't matter, because it's been supplanted by the Westphalian model, which sort of aligns with it in all the important ways. So it's not a big deal. And the Westphalian model is a one which is eventually destined for success in the long arc of history. This one is at the moment restricted to China. And yes, that's the greatest challenge we face currently in foreign policy terms on how we can avoid talking past each other and actually, you know, talk on the same terms. And the Islamic model, again, is sort of doomed to fail fundamentally. Would you say that's correct?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:50.000",
+        "message": "I think that's right, except that the Indian way of thinking about international relations has not completely gone away. It just sits very comfortably with the Westphalian model. But it still animates some of our thinking in terms of our approach to global issues, our approach to foreign policy, our approach to trade, and all of that. Of course, it's no Indian leader has any designs on conquest. But conquest is just one part of the old model. It's not, it's not the whole thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:20.000",
+        "message": "And also, I should probably clarify here for our listeners on both your behalf and mine that when we talk about these different strands of thought, we're talking about broad strands of thought. They're not all inclusive, and they do allow for exemptions. I mean, every country contains multitudes, and there are various streams of thought which come up."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:36.000",
+        "message": "Yeah, you know, that's the that's what is called the constructivist school of thinking, where it says, look, foreign policy and international relations is what the elite of the country make of it, right. So, if the elite of a country decide to follow a Westphalian thought mindset, like, for example, in the Nehruvin era, probably you will end up looking at the world in a Westphalian terms. If the elite of the country take a different view, let's say we go more towards a Kautilyan view, then maybe we'll see the world in Kautilyan terms. I think there is something to be said for this, because ultimately, all policy, especially foreign policy is the outcome of an elite conversation. It's not that a peasant in a village is going to have much of an impact on how India deals with China or with Maldives or with Bangladesh."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:22.000",
+        "message": "So absolutely. So now that you've sort of traced out the development of foreign policy, do a couple of things for me. One, you call yourself a foreign policy realist. What does this mean? And does this evolve out of the Westphalian model? And second, give me a sense of over the last three or four decades, how the conversation between these different streams of thought has proceeded so far?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:43.000",
+        "message": "See, realism, in essence, is about seeing the world as it is, and not what you wish it to be. It's about following a template of looking at the world and say, look, this is how the world is, and this is how it's going to be. So let's play accordingly. In international relations terms, realism means that you understand that you're operating in an anarchy, there's no world government, and all states are trying to maximize power. And what you have to do is to maximize your power relative to everybody else so that you can protect yourself and secure your country. So survival and security of your state is your primary national interest, which because it also means happiness, prosperity and well being of your people, in case of a liberal democracy. That's what realism essentially is. It understands that national interest involves the accumulation of power, and using as much power as you can get to protect your national interests, however you might."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:39.000",
+        "message": "And it's probably most closely aligned then with the Westphalian way of thinking? Well, no, not necessarily, because... Like the Chinese way of thinking, where they see everyone as a tributaries is a little out of touch with reality, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:50.000",
+        "message": "Well, not necessarily, because you can be in the Westphalian system and yet be a liberal internationalist. Let me give you the contrast. The liberal internationalist believes that there is this ideal that we can reach. And this ideal involves less war, less violence, more trade, more human rights, and so forth. And there is an ideal state that the world can achieve. And we should put our foreign policies in line with this vision. Right. Which means we will try not to go to war, we'll try not to spend too much on defense, we'll not, you know, we'll respect human rights in other countries."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:21.000",
+        "message": "Sounds like me, basically."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:22.000",
+        "message": "It sounds like you, but you know, it's a good vision to aspire for. But it cannot stand on its own. Because if you have this liberal international worldview, and the guy next to you is hardcore realist, you know, you're going to be eaten up for lunch, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:36.000",
+        "message": "So because between states at some level, it is a zero sum game."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:39.000",
+        "message": "It is a zero sum game. And there are different states here. And that's the biggest realization. There are different states here who look at the world differently. I mean, you can't preach liberal and internationalism to Chinese president because he doesn't buy into it. He doesn't even understand it. Right. So he looks at it in a very, very different"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:56.000",
+        "message": "He doesn't even treat you as an equal at the table."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:57.000",
+        "message": "Exactly. And when you have different players playing with different rules, you need to have power. So the Westphalian system can support any number of views. You can have liberal internationalism, you can have realism, you can have constructivism, Marxism, radical, feminism, any kind of school of thought to pursue international relations in a Westphalian system. But the argument that you can do away with the need to accumulate power and use power to guarantee your national interest is a very strong one."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:27.000",
+        "message": "And the individual rights of your citizens for those who are inclined to, you know, give that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:31.000",
+        "message": "But that's very much a matter for the internal politics of a state. Exactly. Because once the state has enough power to defend itself and secure itself, what it does within its borders is a very different story. For example, India has nuclear weapons and we could say our nuclear weapons are used to protect our liberal democratic republic, you know, human rights and fundamental rights of all its citizens. North Koreans have nuclear weapons and they could be using their nuclear weapons to protect the Kim family. Right. So what the state does within itself is a very different story from saying that you need to have power."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:03.000",
+        "message": "But basically a strong sovereignty is a necessary but not sufficient condition to ensure human rights for the citizens."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:09.000",
+        "message": "That's right. Strong sovereignty is a necessary condition but not sufficient to protect human rights of citizens."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:14.000",
+        "message": "Now let's talk about world affairs in the last few decades, like given that these different approaches must necessarily be at conflict with each other and therefore you will have nations talking past each other very often. How have international relations spanned out?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:43:28.000",
+        "message": "Last few decades has largely been a Westphalian model with a realist foreign policy. There's been talk about liberal internationalism, values, freedom, which is nicely thrown about, you know, during the Cold War, you had the Americans supporting autocrats and dictators in the name of protecting freedom, right? So obviously you know that these are just constructs, optical illusions, which you put out to satisfy yourself and your population that you're doing the right thing. The right thing in terms of strategic logic, not the right thing in terms of moral logic. We have seen this kind of logic operating in almost every part of the world ever since the Second World War. There have been attempts to craft a different vision. Nehru, for example, at one point, got very interested in this idea of a one world. Manu Bhagwan has a very good book called The Peacemakers where he talks about Nehru's enthusiasm to create this liberal international paradise where, you know, the United Nations would become effectively a world government and defend the rights of citizens of various countries. So human rights in all countries, you know, the United Nations being a being a super government which would ensure that. Well, there's no harm in having such dreams. And I think we should appreciate people who can think of a better world. But the here and the now is most important, right? You can't get to that kind of an ideal vision if you, for example, being a liberal democratic republic are undermined or eaten up by a country or by a force that is has absolutely no interest in liberal democratic republics."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:09.000",
+        "message": "So now speaking as a foreign policy realist and with India's interest in mind as you do, here's a hypothetical question. When strategic interest comes up in conflict against moral imperatives, how do you draw the line? For example, if you had to kill a thousand Pakistanis to save one Indian soldier, would you do so?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:45:31.000",
+        "message": "It all depends on context. This is a version of the trolley problem. First of all, let me say this. International relations is amoral. The morality that obtains between individuals within a country is very different from morality in relationship between states. For example, it would be morally wrong for me to bash you up for asking me this question, right? But it would be the question of morality does not arise when India and Pakistan are having a negotiation because these are states and they're not anthropomorphic. They're not people and they're operating in a moral kind of a space. The question is, would I countenance the killing of a thousand Pakistanis to save an Indian soldier depends on whether we are at war or whether we are not at war. If we are at war, of course, we I would support that. But if you're not at war and think what what else is the context? So there are no absolute answers to this and and morality in the sense the interpersonal morality or a domestic morality which we have just does not apply to international relations and we'll end up with very very wrong outcomes if we try and apply the morality of interpersonal relations to international relations."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:33.000",
+        "message": "Absolutely. I mean it's very different from the trolley problem and the significant way in which that is so is that every human life is equal in the trolley problem and you just have to choose between doing the action or not doing. And here I think a question also is that you fundamentally place a value on say your own citizen, which is much higher than those of other nations. But I think my question is half-baked and we'll leave that discussion for some other time. Looking ahead as someone involved in the foreign policy space in India, what do you think are the greatest challenges we face and what do you think are sort of the recent mistakes we might have made in terms of mindset or strategy?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:11.000",
+        "message": "I think the greatest challenge we face is to change our mindsets in keeping with our rising prosperity. You know, 50 years ago, India was not a prosperous country, at least compared to now. We could absorb, for example, wars on our borders or even within our country because the costs of those wars were rather small. As India becomes more and more prosperous, we will not be able to suffer the damage on our borders or within our countries. So you need to be able to keep threats as far away from the borders as possible to defend the homeland because you can't sustain damage on the homeland. The United States, for example, has a huge military presence across the world, not because they want to conquer the rest of the world, but they don't want conflict on their homeland. So you deploy military forces as far away from your borders as possible so that you can defuse the threats as far away from your homeland as possible so as to protect the homeland so that the homeland can grow and enjoy prosperity, peace, and so on. The problem with India is that throughout our history, we have subscribed to something which I call the Panipat school of thought. It says that don't worry about external enemies until they turn up on the plains of Panipat. And when they are on the plains of Panipat or maybe on the gates of Delhi, then you muster your forces and then you go and try and fight them, which means all these conflicts take place within our territory. There might be advantages to fighting on your own soil, but the fact is that damage occurs on your territory and you have to expel the invaders from your territory. I don't think this kind of a Panipat model is sustainable as India becomes more and more prosperous. I've argued that we need something which I call the Hindu Kush model, where you foresee the threat far away from home on the borders of the Hindu Kush mountains, metaphorically, as far away as possible and sort of defuse the threats there, which means you need to be able to project power far away from our shores in order to prevent those threats from coming onto our shores and our borders. And that I think has been the biggest challenge for Indian foreign policy because it requires us to overturn over, you know, maybe centuries or millennia of thinking."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:22.000",
+        "message": "And the nature of the enemy has also changed, has become much more diffused, hasn't it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:26.000",
+        "message": "Well, the nature of the threats have changed, but are also cumulative. The old threats haven't gone away. We just have a new set of threats which are more diffused, which could, for all you know, be non-state actors, could be environmental, could be technological. All these threats have sort of added up onto our basket of threats. The old ones have not gone away. Regardless of the kind of threat, all the damage that occurs on the homeland will be increasingly more and more expensive, both in economic and strategic terms. We will not be able to sustain damage on the homeland. Any attack on the homeland comes with massive economic costs, comes with massive political costs and creates massive amount of tensions among the plural society that we have. So we should be able to fend off the threats as far away from our borders as possible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:13.000",
+        "message": "Nitin, it's been really enlightening talking to you and I've learnt a lot today. And I hope the Hindu Kush model of foreign policy becomes more and more popular. Good luck with that. Thanks for coming on the show. Thanks, Amit. It was very nice talking to you today. As you can see, we have a podcast listener in his natural habitat."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:51:23.000",
+        "message": "Billions of years of evolution have led him to this point. He's on his way to work and listening to podcasts makes his miserable day better. He will now head to work and use all his knowledge to communicate with other colleagues and possibly future mates. You can find more of his species on ivmpodcasts.com, your one stop destination where you can check out all the coolest Indian podcasts. Happy listening."
+    }
+]

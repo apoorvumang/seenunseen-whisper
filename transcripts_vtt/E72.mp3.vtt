@@ -1,0 +1,2078 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+[Unknown]: IVM
+
+00:00:30.000 --> 00:00:49.340
+[Amit Varma]: I am Amit Varma, and in my weekly podcast, The Seen and the Unseen, I take a shot at
+
+00:00:49.340 --> 00:00:54.280
+[Amit Varma]: answering all these questions and many more. I aim to go beyond the scene and show you
+
+00:00:54.280 --> 00:00:59.960
+[Amit Varma]: the unseen effects of public policy and private action. I speak to experts on economics, politics,
+
+00:00:59.960 --> 00:01:29.760
+[Amit Varma]: It's quite common these days for me to be at a restaurant or a retail
+
+00:01:29.760 --> 00:01:32.320
+[Amit Varma]: outlet and the cashier asks me for my phone number.
+
+00:01:32.320 --> 00:01:33.540
+[Amit Varma]: I always say no.
+
+00:01:33.540 --> 00:01:37.600
+[Amit Varma]: I value my privacy and I'm not giving my phone number to anyone.
+
+00:01:37.600 --> 00:01:41.840
+[Amit Varma]: This is all very well in the offline world or meet space as we used to call it once upon
+
+00:01:41.840 --> 00:01:42.840
+[Amit Varma]: a time.
+
+00:01:42.840 --> 00:01:43.840
+[Amit Varma]: But what do you do online?
+
+00:01:43.840 --> 00:01:48.480
+[Amit Varma]: Apps on your phone these days have permissions to your photo library and your SMSs and your
+
+00:01:48.480 --> 00:01:54.000
+[Amit Varma]: microphone and whichever folder in your brain contains your innermost thoughts and feelings.
+
+00:01:54.000 --> 00:01:56.680
+[Amit Varma]: Everything we do is constantly being tracked online.
+
+00:01:56.680 --> 00:02:01.280
+[Amit Varma]: You're usually too exhausted to do anything about this so we just give in thinking, hey,
+
+00:02:01.280 --> 00:02:02.280
+[Amit Varma]: what difference does it make?
+
+00:02:02.280 --> 00:02:04.880
+[Amit Varma]: At the most, they'll give me targeted ads.
+
+00:02:04.880 --> 00:02:07.700
+[Amit Varma]: But actually, your data is worth a lot more than that.
+
+00:02:07.700 --> 00:02:12.460
+[Amit Varma]: And it can be misused in more ways than just a serving of targeted ads.
+
+00:02:12.460 --> 00:02:20.080
+[Amit Varma]: Your data is who you are and someone else may be in control.
+
+00:02:20.080 --> 00:02:22.520
+[Unknown]: Welcome to the seen and the unseen.
+
+00:02:22.520 --> 00:02:26.600
+[Unknown]: Our weekly podcast on economics, politics and behavioral science.
+
+00:02:26.600 --> 00:02:29.520
+[Amit Varma]: Please welcome your host, Amit Bharma.
+
+00:02:29.520 --> 00:02:32.000
+[Amit Varma]: Welcome to the seen and the unseen.
+
+00:02:32.000 --> 00:02:38.240
+[Amit Varma]: My topic for today's show is the GDPR or the General Data Protection Regulation, a regulation
+
+00:02:38.240 --> 00:02:43.560
+[Amit Varma]: that has just come in place in Europe to protect the data and the privacy of its citizens.
+
+00:02:43.560 --> 00:02:49.640
+[Amit Varma]: It has come about with the very best of intentions and has both intended seen effects and unintended
+
+00:02:49.640 --> 00:02:51.200
+[Amit Varma]: unseen effects.
+
+00:02:51.200 --> 00:02:56.240
+[Amit Varma]: My guest on the show today is Manasa Venkatraman, a legal expert and a policy analyst who is
+
+00:02:56.240 --> 00:02:59.560
+[Amit Varma]: a special interest in privacy and data protection.
+
+00:02:59.560 --> 00:03:02.780
+[Amit Varma]: She works at the Takshashila Institution in Bangalore.
+
+00:03:02.780 --> 00:03:07.540
+[Amit Varma]: But before I begin my conversation with her, a quick commercial break.
+
+00:03:07.540 --> 00:03:11.080
+[Amit Varma]: If this happens to be the only podcast you listen to, well, you need to listen to some
+
+00:03:11.080 --> 00:03:12.080
+[Amit Varma]: more.
+
+00:03:12.080 --> 00:03:15.960
+[Amit Varma]: Check out the ones from IBM podcast who co-produced the show with me.
+
+00:03:15.960 --> 00:03:21.520
+[Amit Varma]: Go to IBM podcast.com or download the IBM app and you'll find a host of great Indian
+
+00:03:21.520 --> 00:03:24.120
+[Amit Varma]: podcasts that cover every subject you could think of.
+
+00:03:24.120 --> 00:03:28.560
+[Amit Varma]: From the magazine I edit, Pragati, I think, Pragati.com, there is the Pragati podcast
+
+00:03:28.560 --> 00:03:31.240
+[Amit Varma]: hosted by Hamsini Hariharan and Pawan Srinath.
+
+00:03:31.240 --> 00:03:35.880
+[Amit Varma]: There is a brilliant Hindi podcast, Hulia Bazi, hosted by Pranay Koteswamy and Sourabh
+
+00:03:35.880 --> 00:03:36.880
+[Amit Varma]: Chandra.
+
+00:03:36.880 --> 00:03:42.920
+[Amit Varma]: And apart from these policy podcasts, IBM has shows that cover music, films, finance,
+
+00:03:42.920 --> 00:03:50.600
+[Amit Varma]: sports, sci-fi, tech, and the LGBT community all under one roof or rather all in one app.
+
+00:03:50.600 --> 00:03:55.000
+[Amit Varma]: So download the IBM podcast app today.
+
+00:03:55.000 --> 00:03:57.060
+[Guest]: Hi Manasa, welcome to the scene in the unseen.
+
+00:03:57.060 --> 00:03:58.060
+[Guest]: Thank you for having me.
+
+00:03:58.060 --> 00:04:03.520
+[Amit Varma]: So we're going to try a new experiment from this episode onwards, which is I always sort
+
+00:04:03.520 --> 00:04:08.880
+[Amit Varma]: of presume that the listener has the same familiarity with the guest as I may, which
+
+00:04:08.880 --> 00:04:10.560
+[Amit Varma]: may not always be the case.
+
+00:04:10.560 --> 00:04:17.120
+[Amit Varma]: So before we start talking about GDPR, let's talk a little bit more about yourself.
+
+00:04:17.120 --> 00:04:18.360
+[Amit Varma]: Where do you come from?
+
+00:04:18.360 --> 00:04:19.760
+[Guest]: What do you do?
+
+00:04:19.760 --> 00:04:21.960
+[Guest]: I am a lawyer.
+
+00:04:21.960 --> 00:04:25.840
+[Guest]: And right after law school, I started working in corporate law in Bombay.
+
+00:04:25.840 --> 00:04:30.560
+[Guest]: Then I decided to sort of redeem my soul, do some good deeds for a change.
+
+00:04:30.560 --> 00:04:37.440
+[Guest]: And I, I think I always knew I wanted to be part of the law making process than the law
+
+00:04:37.440 --> 00:04:45.080
+[Guest]: interpretation and navigating an existing space, which is why I moved to Takshashila.
+
+00:04:45.080 --> 00:04:50.480
+[Guest]: And over my time there, I've developed an interest in technology law and technology
+
+00:04:50.480 --> 00:04:51.480
+[Guest]: policy.
+
+00:04:51.480 --> 00:04:53.760
+[Guest]: And here we are.
+
+00:04:53.760 --> 00:04:54.760
+[Amit Varma]: And here we are.
+
+00:04:54.760 --> 00:04:57.240
+[Amit Varma]: And were you always interested in law?
+
+00:04:57.240 --> 00:05:00.440
+[Amit Varma]: It just happens to be something that you did and you fell in love with it later.
+
+00:05:00.440 --> 00:05:03.680
+[Guest]: You know, I always wanted to be a journalist.
+
+00:05:03.680 --> 00:05:08.640
+[Guest]: And it's funny because I went to Xavier's submitted my BA application.
+
+00:05:08.640 --> 00:05:12.920
+[Guest]: I was like, government law college is right here.
+
+00:05:12.920 --> 00:05:14.480
+[Guest]: It's just after one signal.
+
+00:05:14.480 --> 00:05:18.240
+[Guest]: Let me just go put in my application there.
+
+00:05:18.240 --> 00:05:25.520
+[Guest]: And when I got through to GLC, I was like, let's see where it takes us.
+
+00:05:25.520 --> 00:05:31.440
+[Guest]: And then eventually I ended up sort of liking dissecting law and stuff like that.
+
+00:05:31.440 --> 00:05:34.480
+[Amit Varma]: And what are the areas of the law which you found most fascinating?
+
+00:05:34.480 --> 00:05:39.640
+[Amit Varma]: Like who are the writers and law who you would, you know, enjoy reading the most?
+
+00:05:39.640 --> 00:05:44.520
+[Amit Varma]: And how did you sort of discover yourself as someone who thinks about, you know, the
+
+00:05:44.520 --> 00:05:48.240
+[Guest]: law and in general legal philosophy?
+
+00:05:48.240 --> 00:05:55.640
+[Guest]: So the great thing about the college I studied at is that it has a rich history of alumni.
+
+00:05:55.640 --> 00:06:01.280
+[Guest]: So Ambedkar was once the principal of the college.
+
+00:06:01.280 --> 00:06:03.760
+[Guest]: Various freedom fighters were alumni of the college.
+
+00:06:03.760 --> 00:06:09.200
+[Guest]: But you know, all of that aside, I think the that space allowed me to participate in a
+
+00:06:09.200 --> 00:06:11.320
+[Guest]: lot of competitions.
+
+00:06:11.320 --> 00:06:16.760
+[Guest]: Law students have this fun competition, which is called a mock trial.
+
+00:06:16.760 --> 00:06:18.480
+[Guest]: And I did a lot of that.
+
+00:06:18.480 --> 00:06:23.320
+[Guest]: And I just liked going up there and sort of being like, no, clause B of section eight
+
+00:06:23.320 --> 00:06:25.400
+[Guest]: does not allow you to do this, my lord.
+
+00:06:25.400 --> 00:06:31.520
+[Guest]: And a lot of milliards later, I sort of figured that I liked it.
+
+00:06:31.520 --> 00:06:38.400
+[Guest]: There is one particular, two particular judges that I really loved reading through law school.
+
+00:06:38.400 --> 00:06:45.840
+[Guest]: One was Lord Denning, who was a sort of judge in England a really long time ago, sometime
+
+00:06:45.840 --> 00:06:48.120
+[Guest]: in the 1700s, 1800s.
+
+00:06:48.120 --> 00:06:50.680
+[Guest]: And one was MC Chagla.
+
+00:06:50.680 --> 00:06:51.920
+[Amit Varma]: Right.
+
+00:06:51.920 --> 00:06:53.720
+[Amit Varma]: And apart from law, what else interests you?
+
+00:06:53.720 --> 00:06:54.720
+[Amit Varma]: What do you do?
+
+00:06:54.720 --> 00:06:55.720
+[Guest]: I like to sing.
+
+00:06:55.720 --> 00:07:02.080
+[Guest]: But you know, when I sound like a, I don't want to say I sound like a creepy nightwatch
+
+00:07:02.080 --> 00:07:04.080
+[Guest]: man on a podcast.
+
+00:07:04.080 --> 00:07:05.080
+[Guest]: You already said it.
+
+00:07:05.080 --> 00:07:06.080
+[Guest]: We're not editing this out.
+
+00:07:06.080 --> 00:07:12.960
+[Guest]: I like to sing, I do a little bit of yoga on the side.
+
+00:07:12.960 --> 00:07:13.960
+[Guest]: But that's about it.
+
+00:07:13.960 --> 00:07:17.640
+[Amit Varma]: Mostly, I just watch Netflix.
+
+00:07:17.640 --> 00:07:23.280
+[Amit Varma]: And if there's one book or movie that has really influenced you and made you a different
+
+00:07:23.280 --> 00:07:26.880
+[Amit Varma]: person, is there something you'd be able to name?
+
+00:07:26.880 --> 00:07:30.760
+[Guest]: A movie that's made me a different person.
+
+00:07:30.760 --> 00:07:33.360
+[Amit Varma]: Or a book or, you know, doesn't have to be just one.
+
+00:07:33.360 --> 00:07:39.520
+[Guest]: Well, there are a couple of books that sort of cemented my, the fact that I wanted to
+
+00:07:39.520 --> 00:07:42.440
+[Guest]: do public policy.
+
+00:07:42.440 --> 00:07:46.920
+[Guest]: There's this particular book called Banishing Bureaucracy.
+
+00:07:46.920 --> 00:07:51.080
+[Guest]: And I read that when I was studying public policy at Takshashila.
+
+00:07:51.080 --> 00:07:56.160
+[Guest]: And that was just fascinating how much you can do within the government and outside the
+
+00:07:56.160 --> 00:08:01.160
+[Guest]: government to sort of ramp up how the system works.
+
+00:08:01.160 --> 00:08:03.640
+[Guest]: And there's this other book called Public Policymaking in India.
+
+00:08:03.640 --> 00:08:05.960
+[Guest]: It was a textbook.
+
+00:08:05.960 --> 00:08:11.840
+[Guest]: But I think just the way in which, just the kind of things that you can do to be part
+
+00:08:11.840 --> 00:08:20.080
+[Guest]: of the process of making your state a better state was kind of, it shaped the way I looked
+
+00:08:20.080 --> 00:08:21.080
+[Guest]: at the...
+
+00:08:21.080 --> 00:08:23.640
+[Amit Varma]: So in a sense, you actually want to make the world a better place.
+
+00:08:23.640 --> 00:08:24.640
+[Guest]: That's where you're in.
+
+00:08:24.640 --> 00:08:25.640
+[Guest]: That's the grand idea.
+
+00:08:25.640 --> 00:08:26.640
+[Amit Varma]: Yes.
+
+00:08:26.640 --> 00:08:27.640
+[Amit Varma]: Yeah.
+
+00:08:27.640 --> 00:08:29.840
+[Amit Varma]: And what is Takshashila like for the benefit of my listeners?
+
+00:08:29.840 --> 00:08:34.920
+[Amit Varma]: Of course, the institution which publishes Pragati, the magazine I edit at thinkpragati.com.
+
+00:08:34.920 --> 00:08:35.920
+[Amit Varma]: But what else is it?
+
+00:08:35.920 --> 00:08:36.920
+[Guest]: Tell us.
+
+00:08:36.920 --> 00:08:43.760
+[Guest]: Takshashila is a think tank and it's a school of public policy.
+
+00:08:43.760 --> 00:08:50.440
+[Guest]: So these two things are, you know, one can think of them as very parallel tangents, but
+
+00:08:50.440 --> 00:08:52.960
+[Guest]: we kind of managed to marry them both.
+
+00:08:52.960 --> 00:08:59.320
+[Guest]: On the one side, we do research on international relations, geopolitics, public finance and
+
+00:08:59.320 --> 00:09:00.320
+[Guest]: technology.
+
+00:09:00.320 --> 00:09:04.600
+[Guest]: And on the other side, we teach the basics of public policy to students.
+
+00:09:04.600 --> 00:09:07.720
+[Guest]: We also have started teaching geo strategy to students.
+
+00:09:07.720 --> 00:09:15.080
+[Guest]: So we tell them how the learnings that you have from it and other such things.
+
+00:09:15.080 --> 00:09:26.440
+[Guest]: Takshashila to me is, it's my place of comfort where I can learn, where I can make mistakes
+
+00:09:26.440 --> 00:09:30.720
+[Guest]: and where I have the space that I need to grow.
+
+00:09:30.720 --> 00:09:34.320
+[Guest]: And I think that's really what you look for in your workplace when you're starting out
+
+00:09:34.320 --> 00:09:35.400
+[Guest]: in a career.
+
+00:09:35.400 --> 00:09:38.140
+[Guest]: So it's a fantastic bunch of people.
+
+00:09:38.140 --> 00:09:40.560
+[Guest]: It's also increment time there.
+
+00:09:40.560 --> 00:09:44.100
+[Amit Varma]: I can attest to a fantastic bunch of people.
+
+00:09:44.100 --> 00:09:46.040
+[Amit Varma]: So let's move on to the subject of the day.
+
+00:09:46.040 --> 00:09:53.680
+[Amit Varma]: But before we talk about GDPR specifically, let's talk a little bit more about privacy.
+
+00:09:53.680 --> 00:09:56.480
+[Amit Varma]: Like why is privacy a more important issue today?
+
+00:09:56.480 --> 00:10:02.640
+[Amit Varma]: And would you say it's a more important issue today than it was, say, 30 years ago?
+
+00:10:02.640 --> 00:10:03.640
+[Guest]: Definitely.
+
+00:10:03.640 --> 00:10:11.800
+[Guest]: You know, privacy is an important issue today can be attested by the fact that the statement,
+
+00:10:11.800 --> 00:10:15.760
+[Guest]: we're in a global village today is now a cliche, right?
+
+00:10:15.760 --> 00:10:20.500
+[Guest]: And it is a cliche because you hear it every other day.
+
+00:10:20.500 --> 00:10:27.120
+[Guest]: Because it's happening every minute, we're becoming more and more interconnected.
+
+00:10:27.120 --> 00:10:31.760
+[Guest]: And that's the thing about technology is that while technological developments multiply
+
+00:10:31.760 --> 00:10:34.880
+[Guest]: from year to year, the law can only catch up.
+
+00:10:34.880 --> 00:10:41.360
+[Guest]: Or what the law can do is just create a safe playground for technology to develop.
+
+00:10:41.360 --> 00:10:47.320
+[Guest]: And in India, we didn't have that safe playground for privacy, which is why last year, the Supreme
+
+00:10:47.320 --> 00:10:53.920
+[Guest]: Court had to come in and say that no, guys, there is a fundamental right to privacy.
+
+00:10:53.920 --> 00:10:59.920
+[Guest]: Privacy is important because of how simple it is for us to be connected to one another
+
+00:10:59.920 --> 00:11:02.840
+[Guest]: from one end of the globe to another end.
+
+00:11:02.840 --> 00:11:09.600
+[Guest]: And we all know that in the process, our data is trading several hands.
+
+00:11:09.600 --> 00:11:12.920
+[Guest]: We don't know who has access to our photos.
+
+00:11:12.920 --> 00:11:16.060
+[Guest]: We don't know how many apps know our phone number.
+
+00:11:16.060 --> 00:11:21.720
+[Guest]: And we don't know how many apps know our home address and what we look like from the window
+
+00:11:21.720 --> 00:11:24.480
+[Guest]: of our bedroom.
+
+00:11:24.480 --> 00:11:31.920
+[Guest]: Privacy is more important now because there are more technologically advanced ways of
+
+00:11:31.920 --> 00:11:35.600
+[Guest]: knowing about a person than say 50 years ago.
+
+00:11:35.600 --> 00:11:41.160
+[Guest]: There was probably the telegram 50 years ago, the telephone, the radio, but today you have,
+
+00:11:41.160 --> 00:11:46.040
+[Guest]: you can look at a person's face when they're sitting in America and you're sitting in India.
+
+00:11:46.040 --> 00:11:52.560
+[Guest]: While technological developments have opened up a lot of doors in the sense, we don't know
+
+00:11:52.560 --> 00:11:56.840
+[Guest]: if our private lives have also walked out of these doors.
+
+00:11:56.840 --> 00:12:01.560
+[Guest]: And that is why it's important to discuss the subject of privacy and how we can still
+
+00:12:01.560 --> 00:12:05.360
+[Guest]: maintain that while allowing technology into our lives.
+
+00:12:05.360 --> 00:12:09.680
+[Amit Varma]: Now an argument I've heard from some people is that, listen, okay, our data is out there.
+
+00:12:09.680 --> 00:12:14.200
+[Amit Varma]: But the only thing that really happens is we get spookily targeted ads.
+
+00:12:14.200 --> 00:12:18.520
+[Amit Varma]: So if I'm, you know, if I do a search for say shoes, I'll get ads for Reebok and Nike
+
+00:12:18.520 --> 00:12:21.820
+[Amit Varma]: surf to me the next time I go to Facebook and that's okay.
+
+00:12:21.820 --> 00:12:25.400
+[Amit Varma]: That's the use of their private data that some people see.
+
+00:12:25.400 --> 00:12:28.960
+[Amit Varma]: And that's the only interface, so to say, with their data coming back at them that people
+
+00:12:28.960 --> 00:12:30.160
+[Amit Varma]: are aware of.
+
+00:12:30.160 --> 00:12:34.040
+[Amit Varma]: What are the dangers of your data being out there unfettered, unprotected?
+
+00:12:34.040 --> 00:12:37.720
+[Guest]: There are two examples that I want to talk about.
+
+00:12:37.720 --> 00:12:42.160
+[Guest]: One is from the USA and one is from China, the other end of the world.
+
+00:12:42.160 --> 00:12:49.720
+[Guest]: We all know what happened between Facebook and Cambridge Analytica and the whole democracy
+
+00:12:49.720 --> 00:12:54.200
+[Guest]: being taken for granted, being targeted the way they were targeted for ads.
+
+00:12:54.200 --> 00:12:59.880
+[Amit Varma]: Assuming someone has heard about this for the first time, can you sum it up?
+
+00:12:59.880 --> 00:13:06.040
+[Guest]: So what happened in the US is two years ago when they held federal elections, elections
+
+00:13:06.040 --> 00:13:09.640
+[Guest]: for the president.
+
+00:13:09.640 --> 00:13:16.720
+[Guest]: It came to light later on that this analytics firm called Cambridge Analytica was mining
+
+00:13:16.720 --> 00:13:28.560
+[Guest]: data of US voters from their Facebook profiles and it managed to target voters in a way that
+
+00:13:28.560 --> 00:13:31.280
+[Guest]: no other campaign could before.
+
+00:13:31.280 --> 00:13:37.180
+[Guest]: And while this seems fairly innocent when you hear it, it's problematic because none
+
+00:13:37.180 --> 00:13:43.360
+[Guest]: of the voters knew that they were being approached for their votes.
+
+00:13:43.360 --> 00:13:44.360
+[Guest]: This wasn't made clear.
+
+00:13:44.360 --> 00:13:46.320
+[Guest]: So in a way it was manipulative.
+
+00:13:46.320 --> 00:13:51.080
+[Amit Varma]: It was deceptive that the voter who signed on to Facebook did not know his data was going
+
+00:13:51.080 --> 00:13:52.800
+[Guest]: to be used like that.
+
+00:13:52.800 --> 00:13:53.800
+[Guest]: Exactly.
+
+00:13:53.800 --> 00:14:00.280
+[Guest]: So that's one example of how your data can actually be used to influence democratic processes.
+
+00:14:00.280 --> 00:14:04.480
+[Guest]: The second example is all the way across the globe in China.
+
+00:14:04.480 --> 00:14:08.840
+[Guest]: They're doing something called the social credit system.
+
+00:14:08.840 --> 00:14:14.720
+[Guest]: So apparently China doesn't have a rich history of banks lending money to people.
+
+00:14:14.720 --> 00:14:20.120
+[Guest]: And banks generally give out loans when they know that someone has the ability to pay back.
+
+00:14:20.120 --> 00:14:25.040
+[Guest]: But now China wants to move towards a more institutional credit giving system, which
+
+00:14:25.040 --> 00:14:27.840
+[Guest]: is allow banks to do it.
+
+00:14:27.840 --> 00:14:31.320
+[Guest]: But banks don't know if they give money to the next person, if that guy is going to pay
+
+00:14:31.320 --> 00:14:32.800
+[Guest]: back or not.
+
+00:14:32.800 --> 00:14:39.280
+[Guest]: So what China is doing is something, it's collecting data about every person within
+
+00:14:39.280 --> 00:14:45.280
+[Guest]: China through their behavior on apps like WeChat, Alibaba, this and that.
+
+00:14:45.280 --> 00:14:51.240
+[Guest]: And it's putting all of this data together, creating a very personalized profile of this
+
+00:14:51.240 --> 00:14:52.240
+[Guest]: person.
+
+00:14:52.240 --> 00:14:58.400
+[Guest]: And on the basis of what he looks like, on the basis of what his data tells the government
+
+00:14:58.400 --> 00:15:01.480
+[Guest]: about him, loans will be given out.
+
+00:15:01.480 --> 00:15:12.120
+[Guest]: Now, the problem with this is that it can be easily used by the state to discriminate.
+
+00:15:12.120 --> 00:15:17.720
+[Guest]: And I think they saw a couple of examples of this in the US, when black people were
+
+00:15:17.720 --> 00:15:18.920
+[Guest]: not given loans.
+
+00:15:18.920 --> 00:15:23.240
+[Guest]: Basically, black people were discriminated against because of the areas that they lived
+
+00:15:23.240 --> 00:15:24.240
+[Guest]: in.
+
+00:15:24.240 --> 00:15:32.400
+[Guest]: And because they generally did not have the kind of information that the computer was
+
+00:15:32.400 --> 00:15:36.800
+[Guest]: able to think was believable or reliable.
+
+00:15:36.800 --> 00:15:37.880
+[Amit Varma]: Right.
+
+00:15:37.880 --> 00:15:43.840
+[Amit Varma]: And what you protest here, is it the intended use of what appears to be a really efficient
+
+00:15:43.840 --> 00:15:48.520
+[Amit Varma]: credit rating agency where it gets much more information than credit rating agencies otherwise
+
+00:15:48.520 --> 00:15:49.520
+[Amit Varma]: would?
+
+00:15:49.520 --> 00:15:53.880
+[Amit Varma]: Or is what you're protesting the fact that it's a state which has this data at its fingertips
+
+00:15:53.880 --> 00:15:58.440
+[Amit Varma]: and states are of course, always subverted, there is always regulatory capture.
+
+00:15:58.440 --> 00:16:02.520
+[Amit Varma]: And it's not good for democracy, which is moot in the example of China.
+
+00:16:02.520 --> 00:16:06.320
+[Amit Varma]: But in general, it's not good for democracy if the state has all this information.
+
+00:16:06.320 --> 00:16:07.320
+[Guest]: Absolutely.
+
+00:16:07.320 --> 00:16:08.800
+[Guest]: I'm protesting both.
+
+00:16:08.800 --> 00:16:14.040
+[Guest]: On the first point, yes, we don't know the intended usage today, maybe to give out loans
+
+00:16:14.040 --> 00:16:16.160
+[Guest]: to people who can pay back.
+
+00:16:16.160 --> 00:16:19.560
+[Guest]: But you don't know if five years down the line, that will still be the purpose.
+
+00:16:19.560 --> 00:16:23.400
+[Guest]: And by then, they would have been empowered with all the data they need to do what they
+
+00:16:23.400 --> 00:16:24.400
+[Guest]: can with it.
+
+00:16:24.400 --> 00:16:31.240
+[Guest]: And the second point is, you're absolutely right, all the data, let's take Aadhaar data,
+
+00:16:31.240 --> 00:16:36.840
+[Guest]: for example, that rests with the ruling government today.
+
+00:16:36.840 --> 00:16:41.560
+[Guest]: And that's one of the dangers of giving all your information to the ruling government,
+
+00:16:41.560 --> 00:16:47.320
+[Guest]: that they can use that and manipulate that to stay in power.
+
+00:16:47.320 --> 00:16:52.480
+[Guest]: Democratic processes are at a very dangerous place if this is going to happen.
+
+00:16:52.480 --> 00:16:56.640
+[Amit Varma]: And the thing to remember is, and I'm actually old enough to remember this, but in the 1984
+
+00:16:56.640 --> 00:17:02.560
+[Amit Varma]: riots, the rioters, if we call them that were actually given electoral roles, so they could
+
+00:17:02.560 --> 00:17:05.960
+[Amit Varma]: identify which houses Sikh families lived in.
+
+00:17:05.960 --> 00:17:07.760
+[Amit Varma]: So it was, you know, targeted to that extent.
+
+00:17:07.760 --> 00:17:11.440
+[Amit Varma]: And that's just a very small subset of the data that is actually out there.
+
+00:17:11.440 --> 00:17:16.480
+[Amit Varma]: If you can target better than that, and if you can do more insidious things and necessarily
+
+00:17:16.480 --> 00:17:22.640
+[Amit Varma]: go to their houses and burn them, then the scope for the state harassing a citizen just
+
+00:17:22.640 --> 00:17:23.640
+[Amit Varma]: goes up exponentially.
+
+00:17:23.640 --> 00:17:24.640
+[Guest]: There's no limit to it.
+
+00:17:24.640 --> 00:17:25.640
+[Guest]: Absolutely.
+
+00:17:25.640 --> 00:17:29.960
+[Guest]: Just like tech developing exponentially, the power of the state to do whatever it wants
+
+00:17:29.960 --> 00:17:31.520
+[Amit Varma]: also increases that much.
+
+00:17:31.520 --> 00:17:32.520
+[Amit Varma]: Right.
+
+00:17:32.520 --> 00:17:38.280
+[Amit Varma]: So the question here is that, in general, does the citizen need protection from the
+
+00:17:38.280 --> 00:17:39.320
+[Amit Varma]: state as well?
+
+00:17:39.320 --> 00:17:44.640
+[Amit Varma]: And if so, how does that come about, given that any laws and any regulations that would
+
+00:17:44.640 --> 00:17:48.400
+[Amit Varma]: happen would have to come from the state itself?
+
+00:17:48.400 --> 00:17:51.040
+[Guest]: I think that's where the GDPR comes in.
+
+00:17:51.040 --> 00:17:59.600
+[Guest]: Any law that seeks to protect a citizen has to obviously have their rights at its centre.
+
+00:17:59.600 --> 00:18:06.200
+[Guest]: So for example, if I have 60 apps on my phone, that's 60 terms and conditions that I haven't
+
+00:18:06.200 --> 00:18:07.200
+[Guest]: read.
+
+00:18:07.200 --> 00:18:13.500
+[Guest]: 60 privacy policies that can do whatever they want, because I haven't read them.
+
+00:18:13.500 --> 00:18:19.700
+[Guest]: If the state wants to protect my rights and to protect my privacy, the law should say
+
+00:18:19.700 --> 00:18:24.320
+[Guest]: that irrespective of what is contained in these terms and conditions, the person collecting
+
+00:18:24.320 --> 00:18:26.160
+[Amit Varma]: them is still accountable for it.
+
+00:18:26.160 --> 00:18:28.600
+[Amit Varma]: And there's XYZ things you cannot do.
+
+00:18:28.600 --> 00:18:29.600
+[Guest]: Exactly.
+
+00:18:29.600 --> 00:18:30.600
+[Guest]: Yes.
+
+00:18:30.600 --> 00:18:31.680
+[Guest]: And that's where the state comes in.
+
+00:18:31.680 --> 00:18:37.440
+[Guest]: Of course, like you're saying, the state finally holds the pen to the paper.
+
+00:18:37.440 --> 00:18:44.520
+[Guest]: And in that sense, the power is a little lopsided, because we want them to do one thing, but
+
+00:18:44.520 --> 00:18:49.200
+[Guest]: they have the ultimate word on the matter, which is why what we're doing in India is
+
+00:18:49.200 --> 00:18:50.200
+[Guest]: really great.
+
+00:18:50.200 --> 00:18:54.320
+[Guest]: There are public consultations that are being held.
+
+00:18:54.320 --> 00:18:59.140
+[Guest]: There is an independent committee that is proposing what the law should look like.
+
+00:18:59.140 --> 00:19:05.400
+[Guest]: And then there's a Supreme Court that has this matter in its mind, and that is thinking
+
+00:19:05.400 --> 00:19:06.760
+[Guest]: correctly about this topic.
+
+00:19:06.760 --> 00:19:12.040
+[Guest]: So I think we're at a comfortable place in India, a place that we've never been before.
+
+00:19:12.040 --> 00:19:14.920
+[Guest]: But this moment is also temporary.
+
+00:19:14.920 --> 00:19:17.520
+[Guest]: And we need to cash in on it as fast as we can.
+
+00:19:17.520 --> 00:19:18.520
+[Amit Varma]: Right.
+
+00:19:18.520 --> 00:19:23.680
+[Amit Varma]: So and we've done a brainstorm on Pragati, which you led, where a bunch of the people
+
+00:19:23.680 --> 00:19:28.920
+[Amit Varma]: who are stakeholders, speaking on behalf of civil society actually wrote long pieces about
+
+00:19:28.920 --> 00:19:34.280
+[Amit Varma]: their vision of what data protection should look like from Rahul Mathand to Nikhil Pawar
+
+00:19:34.280 --> 00:19:37.920
+[Amit Varma]: and Malvika.
+
+00:19:37.920 --> 00:19:41.560
+[Amit Varma]: Before we come back to India, which I want to do at the end of the show, in any case,
+
+00:19:41.560 --> 00:19:47.320
+[Amit Varma]: let's talk a little bit about GDPR now, like, what was the evolution of the GDPR at around
+
+00:19:47.320 --> 00:19:49.560
+[Amit Varma]: what time did it begin to take shape?
+
+00:19:49.560 --> 00:19:54.880
+[Amit Varma]: And what were the different kinds of demands and pressures on it?
+
+00:19:54.880 --> 00:20:00.080
+[Guest]: Europe was thinking about privacy and data protection long before we were long before
+
+00:20:00.080 --> 00:20:02.800
+[Guest]: even the rest of the world was.
+
+00:20:02.800 --> 00:20:07.680
+[Amit Varma]: And by Europe, you mean EU or do you in general mean different countries within Europe, the
+
+00:20:07.680 --> 00:20:08.680
+[Guest]: EU?
+
+00:20:08.680 --> 00:20:12.320
+[Guest]: I mean, the EU as one collective body.
+
+00:20:12.320 --> 00:20:19.480
+[Guest]: So in 1996, EU had a directive on data protection.
+
+00:20:19.480 --> 00:20:24.840
+[Guest]: And before that, in the 80s, they had another law talking about privacy.
+
+00:20:24.840 --> 00:20:29.500
+[Guest]: So EU has actually been thinking about this subject for a long time now, 20-25 years.
+
+00:20:29.500 --> 00:20:33.760
+[Amit Varma]: So very proactively and long before the internet reached anywhere near its current extent.
+
+00:20:33.760 --> 00:20:40.000
+[Guest]: And if anything, they've kind of walked alongside the internet, walked alongside technology
+
+00:20:40.000 --> 00:20:47.240
+[Guest]: and tried to make robust laws in that sense, which is how the GDPR was born two years ago.
+
+00:20:47.240 --> 00:20:54.120
+[Guest]: And while it came into effect last Friday, 25th May, it was actually passed two years
+
+00:20:54.120 --> 00:20:58.080
+[Guest]: ago and they gave like a two year window for all companies everywhere in the world to comply
+
+00:20:58.080 --> 00:21:00.520
+[Guest]: with their law.
+
+00:21:00.520 --> 00:21:12.080
+[Guest]: The GDPR is a great format from the perspective of the kind of rights that an individual has.
+
+00:21:12.080 --> 00:21:18.760
+[Guest]: Right from, you know, asking a company what kind of information they have about her to
+
+00:21:18.760 --> 00:21:21.460
+[Guest]: the right to be forgotten.
+
+00:21:21.460 --> 00:21:23.040
+[Guest]: Everything is there in that law.
+
+00:21:23.040 --> 00:21:31.240
+[Guest]: So in that sense, it's a very ambitious project and it's great that they've seen it to fruition.
+
+00:21:31.240 --> 00:21:36.480
+[Guest]: But the GDPR also has its drawbacks because it puts a lot of pressure on businesses.
+
+00:21:36.480 --> 00:21:44.460
+[Guest]: So it's like a seesaw where the user was once at the lower end, the user has gone up now
+
+00:21:44.460 --> 00:21:50.640
+[Guest]: considerably, but the businesses have taken all the burden.
+
+00:21:50.640 --> 00:21:59.080
+[Guest]: Be that as it may, to my mind, the GDPR is a great precedent for us to work off of because
+
+00:21:59.080 --> 00:22:00.600
+[Guest]: of how comprehensive it is.
+
+00:22:00.600 --> 00:22:07.880
+[Guest]: So like I was saying, it talks not only about the rights of every individual, it also says
+
+00:22:07.880 --> 00:22:13.000
+[Guest]: that, you know, you will, if you don't comply with the GDPR, your punishment will be up
+
+00:22:13.000 --> 00:22:16.560
+[Guest]: to 4% of your annual turnover.
+
+00:22:16.560 --> 00:22:21.400
+[Guest]: For a big company that might, you know, that might just be like a pinch in their pockets,
+
+00:22:21.400 --> 00:22:25.480
+[Amit Varma]: but for startups working in Europe, it's death.
+
+00:22:25.480 --> 00:22:29.520
+[Amit Varma]: Even for a big company, 4% of turnover is a hell of a lot because it's not 4% of profits
+
+00:22:29.520 --> 00:22:30.520
+[Guest]: is 4% of turnover.
+
+00:22:30.520 --> 00:22:31.520
+[Guest]: Yes, yes.
+
+00:22:31.520 --> 00:22:36.840
+[Amit Varma]: So before we proceed, did the GDPR come about more because of pressure from civil society
+
+00:22:36.840 --> 00:22:42.000
+[Amit Varma]: activists as we see in India, for example, or was it a proactive bureaucracy, which in
+
+00:22:42.000 --> 00:22:45.720
+[Amit Varma]: any case was seized with the need to do something about this space?
+
+00:22:45.720 --> 00:22:52.120
+[Amit Varma]: Or was it even a lucky consequence of every bureaucracy's tendency to try and overregulate
+
+00:22:52.120 --> 00:22:53.240
+[Amit Varma]: everything?
+
+00:22:53.240 --> 00:22:56.040
+[Guest]: That's a very interesting way to put it.
+
+00:22:56.040 --> 00:23:04.600
+[Guest]: While I'm not sure how proactive the civil society was in pushing this law forward, there
+
+00:23:04.600 --> 00:23:13.560
+[Guest]: definitely seems to be a sort of bureaucratic action that was taken over time, which led
+
+00:23:13.560 --> 00:23:16.880
+[Guest]: us to the GDPR.
+
+00:23:16.880 --> 00:23:21.760
+[Guest]: The third point, yes, I think a lot of it was also serendipity, in a sense, because
+
+00:23:21.760 --> 00:23:26.440
+[Guest]: when Brexit happened, turns out that Cambridge Analytica did some, you know, a little bit
+
+00:23:26.440 --> 00:23:30.040
+[Guest]: of games over there as well.
+
+00:23:30.040 --> 00:23:35.140
+[Guest]: And over the years, there have been enough data leaks, enough data breaches, enough phishing
+
+00:23:35.140 --> 00:23:39.140
+[Guest]: incidents for governments to sit up and take notice.
+
+00:23:39.140 --> 00:23:45.400
+[Guest]: Not so much for us in India, maybe, but, you know, several incidents do come to mind in
+
+00:23:45.400 --> 00:23:48.400
+[Guest]: the Western world, which might have prompted this to happen.
+
+00:23:48.400 --> 00:23:52.440
+[Amit Varma]: Right, and governments do take threats to their power seriously, which, you know, all
+
+00:23:52.440 --> 00:23:53.440
+[Amit Varma]: of this is.
+
+00:23:53.440 --> 00:23:54.440
+[Guest]: Yes.
+
+00:23:54.440 --> 00:23:55.760
+[Amit Varma]: So what do you feel about the GDPR personally?
+
+00:23:55.760 --> 00:24:00.800
+[Amit Varma]: I mean, I can see that you are glad that it takes the rights of the individual seriously
+
+00:24:00.800 --> 00:24:06.400
+[Amit Varma]: and puts them, you know, firmly at the centre of what the law is all about.
+
+00:24:06.400 --> 00:24:10.740
+[Amit Varma]: But on the whole, what are your feelings about the law?
+
+00:24:10.740 --> 00:24:18.180
+[Guest]: My only sort of worry with the GDPR is that it might not be an enduring law.
+
+00:24:18.180 --> 00:24:24.120
+[Guest]: And that's the danger that every law that deals with technology faces.
+
+00:24:24.120 --> 00:24:29.140
+[Guest]: Like I said earlier, because tech sort of leaps into the future, whereas the law sort
+
+00:24:29.140 --> 00:24:33.800
+[Guest]: of crawls behind it, it's very easy for a lot to become redundant.
+
+00:24:33.800 --> 00:24:38.140
+[Guest]: The Information Technology Act in India is now, you know, it's there in the background
+
+00:24:38.140 --> 00:24:39.140
+[Guest]: somewhere.
+
+00:24:39.140 --> 00:24:42.300
+[Guest]: That's my worry with the GDPR.
+
+00:24:42.300 --> 00:24:48.680
+[Guest]: So for example, it says that the user has all of these rights, and that's great.
+
+00:24:48.680 --> 00:24:53.580
+[Guest]: But it still says that every company has to communicate the terms and conditions to the
+
+00:24:53.580 --> 00:24:57.220
+[Guest]: user and they have to communicate it in simple terms.
+
+00:24:57.220 --> 00:24:59.700
+[Guest]: They can even use pictures.
+
+00:24:59.700 --> 00:25:02.820
+[Guest]: That's a great idea that I will come to later.
+
+00:25:02.820 --> 00:25:07.900
+[Guest]: But the fact is that I as a user, I'm going to get tired of reading the same terms and
+
+00:25:07.900 --> 00:25:10.220
+[Guest]: conditions reading the same language.
+
+00:25:10.220 --> 00:25:14.700
+[Guest]: As an example, over the last week, we've all received a lot of spam.
+
+00:25:14.700 --> 00:25:18.020
+[Guest]: Whenever we logged into the internet saying we've changed our privacy policy, how many
+
+00:25:18.020 --> 00:25:20.020
+[Guest]: of us actually read them?
+
+00:25:20.020 --> 00:25:22.660
+[Guest]: So this is the first failing of the GDPR.
+
+00:25:22.660 --> 00:25:26.060
+[Amit Varma]: We're recording this on June 1, by the way, it'll it'll release a while later, week and
+
+00:25:26.060 --> 00:25:27.060
+[Guest]: a half later.
+
+00:25:27.060 --> 00:25:28.060
+[Guest]: Okay, great.
+
+00:25:28.060 --> 00:25:31.140
+[Amit Varma]: I hope we'll get more of this spam.
+
+00:25:31.140 --> 00:25:34.660
+[Amit Varma]: The weird thing is, I know that there's been all the spam, but I haven't noticed a single
+
+00:25:34.660 --> 00:25:36.860
+[Amit Varma]: mail which has come to me asking me to re-read anything.
+
+00:25:36.860 --> 00:25:37.860
+[Amit Varma]: Really?
+
+00:25:37.860 --> 00:25:38.860
+[Amit Varma]: Really nice.
+
+00:25:38.860 --> 00:25:42.380
+[Guest]: They don't care about me.
+
+00:25:42.380 --> 00:25:43.540
+[Guest]: So that's one thing.
+
+00:25:43.540 --> 00:25:49.540
+[Guest]: And that's the problem because the crux of the issue is not lack of consent.
+
+00:25:49.540 --> 00:25:54.140
+[Guest]: Yes, there is when I am accepting terms and conditions.
+
+00:25:54.140 --> 00:25:58.100
+[Guest]: I don't do it knowingly, because I don't read them.
+
+00:25:58.100 --> 00:26:03.540
+[Guest]: So the problem is consent is just a symptom of the larger problem of fatigue.
+
+00:26:03.540 --> 00:26:10.740
+[Guest]: Even if you use pictures, even if you use a video as your terms and conditions, at some
+
+00:26:10.740 --> 00:26:13.020
+[Guest]: point I will just stop caring.
+
+00:26:13.020 --> 00:26:18.020
+[Guest]: Because I will be downloading so many apps, I'll be going on so many websites, that I'll
+
+00:26:18.020 --> 00:26:21.100
+[Guest]: be sort of bombarded with these things all around.
+
+00:26:21.100 --> 00:26:22.820
+[Amit Varma]: And the fatigue will catch up.
+
+00:26:22.820 --> 00:26:25.020
+[Guest]: The term you used for this was consent fatigue.
+
+00:26:25.020 --> 00:26:27.100
+[Guest]: Yes, consent fatigue.
+
+00:26:27.100 --> 00:26:31.860
+[Guest]: GDPR does not solve for consent fatigue.
+
+00:26:31.860 --> 00:26:33.540
+[Amit Varma]: That's the first problem with the law.
+
+00:26:33.540 --> 00:26:36.100
+[Guest]: How could it solve for consent fatigue?
+
+00:26:36.100 --> 00:26:42.680
+[Guest]: By saying that, by shifting the onus from the user to the person collecting the data.
+
+00:26:42.680 --> 00:26:46.260
+[Amit Varma]: So every data collector would then have a list of A, B, C, D, these are the things you
+
+00:26:46.260 --> 00:26:47.260
+[Amit Varma]: need to do.
+
+00:26:47.260 --> 00:26:52.340
+[Amit Varma]: And so it's like a standard, like if you exist, you are automatically, you have to fulfill
+
+00:26:52.340 --> 00:26:53.340
+[Guest]: those requirements.
+
+00:26:53.340 --> 00:26:54.340
+[Guest]: Yeah.
+
+00:26:54.340 --> 00:26:58.380
+[Guest]: It's like, you know, something like an auditor going to a company once a year to check their
+
+00:26:58.380 --> 00:27:00.380
+[Guest]: books of accounts.
+
+00:27:00.380 --> 00:27:06.260
+[Guest]: If you do the same kind of thing with data, if you have a bunch of people who are now
+
+00:27:06.260 --> 00:27:11.380
+[Guest]: qualified to be data auditors, then you shift the burden from every user to actually the
+
+00:27:11.380 --> 00:27:15.900
+[Guest]: company, because the company has to show year on year that it's complying with the law,
+
+00:27:15.900 --> 00:27:20.580
+[Guest]: it's complying with the A, B, C, D things that it can and cannot do.
+
+00:27:20.580 --> 00:27:22.660
+[Guest]: So that's one way to solve for consent fatigue.
+
+00:27:22.660 --> 00:27:23.660
+[Guest]: There are many.
+
+00:27:23.660 --> 00:27:27.580
+[Guest]: But that's the first that comes to mind.
+
+00:27:27.580 --> 00:27:32.380
+[Guest]: To come back to your earlier question, actually, the GDPR is a mixed bag, because it's the
+
+00:27:32.380 --> 00:27:40.540
+[Guest]: first, you know, in history, when you trace back to how a thing started, you find that
+
+00:27:40.540 --> 00:27:45.660
+[Guest]: the first act that started an entire momentum had many flaws, but it kind of gave the push
+
+00:27:45.660 --> 00:27:47.820
+[Guest]: that the rest of the world needed.
+
+00:27:47.820 --> 00:27:50.340
+[Guest]: I have a feeling that GDPR will be something like that.
+
+00:27:50.340 --> 00:27:55.180
+[Amit Varma]: Eventually, we'll get to a very good mean that solves all these problems, but we'll
+
+00:27:55.180 --> 00:27:58.380
+[Amit Varma]: jugaad our way to that situation.
+
+00:27:58.380 --> 00:28:03.140
+[Amit Varma]: So I want to delve more deeply into the unseen effects of the GDPR as it now stands.
+
+00:28:03.140 --> 00:28:05.860
+[Amit Varma]: But before we do that, let's take a quick commercial break.
+
+00:28:05.860 --> 00:28:11.500
+[Unknown]: So it's been another great week on IBM, and we're hoping that you enjoy all of the podcasts
+
+00:28:11.500 --> 00:28:13.340
+[Unknown]: that we're being able to get out to you.
+
+00:28:13.340 --> 00:28:16.960
+[Unknown]: As always, if you're not following us, please do follow us on IBM podcasts on all the social
+
+00:28:16.960 --> 00:28:18.300
+[Unknown]: media platforms.
+
+00:28:18.300 --> 00:28:21.460
+[Unknown]: This week on Keeping It Queer, Naveen spoke to Ankit Das Gupta, the social media content
+
+00:28:21.460 --> 00:28:22.860
+[Unknown]: manager at Mirror Now.
+
+00:28:22.860 --> 00:28:26.780
+[Unknown]: On Who's Your Mommy, Vedha discusses mom bods and the toll a pregnancy can take on women.
+
+00:28:26.780 --> 00:28:30.660
+[Unknown]: On Vartalav, Akash and Naveen exchange stories with boys from the Bombay Hem Company.
+
+00:28:30.660 --> 00:28:35.020
+[Unknown]: On Pragati, Pawan and Hamsini are joined by Dr. Shambhavi Nayak to discuss the Nipah virus
+
+00:28:35.020 --> 00:28:37.340
+[Unknown]: and discuss the nitty gritties of this new disease.
+
+00:28:37.340 --> 00:28:40.240
+[Unknown]: On Simplified, Narayan and Chuck break down the difference between schizophrenia and split
+
+00:28:40.240 --> 00:28:41.240
+[Unknown]: personality on a shorty.
+
+00:28:41.240 --> 00:28:43.780
+[Unknown]: It's been a really, really great week, and I hope that you're going to listen to all
+
+00:28:43.780 --> 00:28:44.980
+[Unknown]: of these shows, or at least some of them.
+
+00:28:44.980 --> 00:28:48.140
+[Unknown]: In the meantime, let me get you onto this one.
+
+00:28:48.140 --> 00:28:49.580
+[Amit Varma]: Welcome back from the commercial break.
+
+00:28:49.580 --> 00:28:55.420
+[Amit Varma]: While you were away, we have collected all your data and hey, good looking.
+
+00:28:55.420 --> 00:28:58.820
+[Amit Varma]: So Manasa, coming back to the GDPR, let's talk about I mean, the show is called the
+
+00:28:58.820 --> 00:28:59.820
+[Amit Varma]: seen and the unseen.
+
+00:28:59.820 --> 00:29:05.380
+[Amit Varma]: So let's talk about some of the unseen effects or rather the unintended consequences of the
+
+00:29:05.380 --> 00:29:07.180
+[Amit Varma]: GDPR as it stands now.
+
+00:29:07.180 --> 00:29:11.260
+[Guest]: Well, the first unintended consequences what we spoke about.
+
+00:29:11.260 --> 00:29:12.260
+[Amit Varma]: Constant fatigue.
+
+00:29:12.260 --> 00:29:13.260
+[Amit Varma]: People won't read it anyway.
+
+00:29:13.260 --> 00:29:14.260
+[Amit Varma]: Yes, yes.
+
+00:29:14.260 --> 00:29:20.060
+[Guest]: And, you know, I'm actually interested to know if there are any behavioral economics
+
+00:29:20.060 --> 00:29:26.100
+[Guest]: papers or sort of trivia that prove consent fatigue to be real.
+
+00:29:26.100 --> 00:29:30.940
+[Guest]: And if you do have any examples, do comment below.
+
+00:29:30.940 --> 00:29:31.940
+[Amit Varma]: Do comment below.
+
+00:29:31.940 --> 00:29:34.260
+[Guest]: We don't have comments enabled.
+
+00:29:34.260 --> 00:29:39.660
+[Amit Varma]: I'm sure your colleague Nidhi, who's an expert in behavioral economics would be able to conduct
+
+00:29:39.660 --> 00:29:41.700
+[Guest]: experiments with those kinds of data.
+
+00:29:41.700 --> 00:29:42.700
+[Guest]: Yes, yes.
+
+00:29:42.700 --> 00:29:44.700
+[Guest]: Even if you're listening.
+
+00:29:44.700 --> 00:29:53.020
+[Guest]: Well, the second unintended consequence of the GDPR is that I don't know if many startups
+
+00:29:53.020 --> 00:30:02.540
+[Guest]: are going to start up in the EU region anymore because of the high costs of doing it.
+
+00:30:02.540 --> 00:30:08.860
+[Guest]: And while you know, this this feels like a very careless argument to make, why should
+
+00:30:08.860 --> 00:30:13.140
+[Guest]: a business thrive if it does so at the cost of my privacy?
+
+00:30:13.140 --> 00:30:18.900
+[Guest]: And I'm not saying that's the way for it to do, for it to thrive.
+
+00:30:18.900 --> 00:30:25.580
+[Guest]: But the GDPR tilts everything against a startup.
+
+00:30:25.580 --> 00:30:30.160
+[Guest]: It puts unbearable pressure on the startup to comply.
+
+00:30:30.160 --> 00:30:34.860
+[Guest]: And eventually just kills that kind of ecosystem over them.
+
+00:30:34.860 --> 00:30:41.860
+[Guest]: The kind of next unintended consequence of the GDPR is how long it will actually last.
+
+00:30:41.860 --> 00:30:50.220
+[Guest]: I want so we're already seeing examples of US media stopping to serve people in the EU
+
+00:30:50.220 --> 00:30:54.060
+[Guest]: region because of the high costs of complying with the GDPR.
+
+00:30:54.060 --> 00:30:58.460
+[Guest]: I want to know how much further this will deteriorate.
+
+00:30:58.460 --> 00:31:04.160
+[Guest]: And my sense is that in a couple of years, we'll see all of these unintended consequences
+
+00:31:04.160 --> 00:31:05.480
+[Guest]: come to life.
+
+00:31:05.480 --> 00:31:10.820
+[Amit Varma]: And also, there's also the broader philosophical question that ultimately every transaction
+
+00:31:10.820 --> 00:31:13.820
+[Amit Varma]: in the marketplace is between two consenting parties.
+
+00:31:13.820 --> 00:31:18.880
+[Amit Varma]: And here, of course, because it's impossible for most users to really consent or even understand
+
+00:31:18.880 --> 00:31:22.700
+[Amit Varma]: what is being proposed to have the GDPR to protect their rights and so on.
+
+00:31:22.700 --> 00:31:29.260
+[Amit Varma]: But if the GDPR goes too far and over regulates, then it actually, it creates a negative sum
+
+00:31:29.260 --> 00:31:32.540
+[Amit Varma]: game because it's harder for the business to exist.
+
+00:31:32.540 --> 00:31:36.300
+[Amit Varma]: And it's harder for the consumer to get the benefit that he would otherwise have gotten
+
+00:31:36.300 --> 00:31:39.340
+[Amit Varma]: out of that business existing.
+
+00:31:39.340 --> 00:31:43.180
+[Amit Varma]: And just in the last week since the GDPR has been implemented, and we're recording this
+
+00:31:43.180 --> 00:31:49.260
+[Amit Varma]: on June 1, a lot of international websites because they cannot comply or don't want to
+
+00:31:49.260 --> 00:31:52.220
+[Amit Varma]: comply have been blocking EU users entirely.
+
+00:31:52.220 --> 00:31:57.660
+[Amit Varma]: For example, you know, there are newspapers like the Chicago Tribune and the Los Angeles
+
+00:31:57.660 --> 00:32:03.620
+[Guest]: Times, there is unrolled.me, Instapaper, which have all blocked EU users, suddenly that entire
+
+00:32:03.620 --> 00:32:08.220
+[Amit Varma]: group of users doesn't have access to them, or they get stripped down versions of the
+
+00:32:08.220 --> 00:32:12.700
+[Amit Varma]: service, which is especially hurtful in the case of NPR, National Public Radio, which
+
+00:32:12.700 --> 00:32:16.060
+[Amit Varma]: EU is now getting a stripped down version of not the full version because they simply
+
+00:32:16.060 --> 00:32:17.660
+[Amit Varma]: can't comply.
+
+00:32:17.660 --> 00:32:23.540
+[Amit Varma]: And a bunch of companies such as cloud, KLOU2, and various online video games have stopped
+
+00:32:23.540 --> 00:32:27.380
+[Amit Varma]: operating in the EU, have stopped, they were operating now they've stopped operating
+
+00:32:27.380 --> 00:32:28.380
+[Amit Varma]: there.
+
+00:32:28.380 --> 00:32:30.580
+[Amit Varma]: Because of this.
+
+00:32:30.580 --> 00:32:34.860
+[Amit Varma]: All this is an unseen cost, all the value that these companies and services were bringing
+
+00:32:34.860 --> 00:32:37.900
+[Amit Varma]: to users are an unseen cost.
+
+00:32:37.900 --> 00:32:39.980
+[Amit Varma]: But how would you mitigate for that?
+
+00:32:39.980 --> 00:32:44.420
+[Amit Varma]: Like when you know, you're regulating what is essentially virgin territory, no one's
+
+00:32:44.420 --> 00:32:46.460
+[Amit Varma]: really done that no one knows the consequences.
+
+00:32:46.460 --> 00:32:48.740
+[Guest]: Where have they gone wrong?
+
+00:32:48.740 --> 00:32:56.260
+[Guest]: So this is something that I read in Justice Shri Krishna's white paper, which is our own
+
+00:32:56.260 --> 00:32:58.820
+[Guest]: Indian way of arriving at a data protection law.
+
+00:32:58.820 --> 00:33:01.740
+[Guest]: There are three kinds of regulation.
+
+00:33:01.740 --> 00:33:08.140
+[Guest]: One is self regulation, which is when you let the market sort of develop its own practices.
+
+00:33:08.140 --> 00:33:14.340
+[Guest]: The second kind is a core regulatory model, which is you handhold companies, you handhold
+
+00:33:14.340 --> 00:33:16.580
+[Guest]: private players as much as you can.
+
+00:33:16.580 --> 00:33:20.140
+[Guest]: And the law steps in and says, you know, broadly, you can't do these three, four things.
+
+00:33:20.140 --> 00:33:24.220
+[Guest]: But everything else you guys figure out how you want to develop best practices.
+
+00:33:24.220 --> 00:33:28.500
+[Guest]: The third kind of regulation is full on state.
+
+00:33:28.500 --> 00:33:31.140
+[Guest]: It's called command and control regulation.
+
+00:33:31.140 --> 00:33:39.100
+[Guest]: And the GDPR resembles command and control because there is almost no room for companies
+
+00:33:39.100 --> 00:33:45.420
+[Guest]: and for industry bodies to come together and to develop their own best practices to protect
+
+00:33:45.420 --> 00:33:46.700
+[Guest]: privacy.
+
+00:33:46.700 --> 00:33:51.300
+[Guest]: And that I think is the ultimate.
+
+00:33:51.300 --> 00:33:55.980
+[Guest]: If I had to give like a TLDR of the GDPR and why it won't last, that would probably be
+
+00:33:55.980 --> 00:34:00.700
+[Guest]: it because it doesn't engage with all of its stakeholders.
+
+00:34:00.700 --> 00:34:06.540
+[Guest]: It doesn't give enough room for them to wiggle and sort of figure out what is most comfortable.
+
+00:34:06.540 --> 00:34:08.660
+[Guest]: It just says you guys have to do this.
+
+00:34:08.660 --> 00:34:11.860
+[Guest]: These are the rights that every user has.
+
+00:34:11.860 --> 00:34:14.700
+[Guest]: These are your punishments if you go wrong.
+
+00:34:14.700 --> 00:34:17.260
+[Guest]: And I don't care what happens, comply.
+
+00:34:17.260 --> 00:34:20.700
+[Guest]: However big or small you are, comply right now.
+
+00:34:20.700 --> 00:34:25.860
+[Guest]: And you're right in that that might not be feasible for companies of all sizes.
+
+00:34:25.860 --> 00:34:30.140
+[Guest]: That might not even be feasible for companies like, I don't know if Pokemon Go would still
+
+00:34:30.140 --> 00:34:34.940
+[Guest]: be able to survive in the EU.
+
+00:34:34.940 --> 00:34:41.700
+[Guest]: So I feel like a core regulatory approach, engaging with the stakeholders before...
+
+00:34:41.700 --> 00:34:44.380
+[Amit Varma]: Which is the second approach that Justice Shri Krishna proposed.
+
+00:34:44.380 --> 00:34:45.380
+[Guest]: Yes, yes.
+
+00:34:45.380 --> 00:34:51.860
+[Guest]: And I hope that it's the approach that we take in India, because there is a lot of opinions
+
+00:34:51.860 --> 00:34:54.700
+[Guest]: floating around about what we can do for privacy.
+
+00:34:54.700 --> 00:34:58.700
+[Guest]: And that's the best approach when you're talking technology law, right?
+
+00:34:58.700 --> 00:35:03.780
+[Guest]: Because the government might not know everything there is to know about technology.
+
+00:35:03.780 --> 00:35:06.940
+[Guest]: Businesses might know 30%.
+
+00:35:06.940 --> 00:35:10.940
+[Guest]: Me as a consumer might know 30% and everyone else might know 5%.
+
+00:35:10.940 --> 00:35:12.740
+[Amit Varma]: So you find a way of bringing everyone to the table.
+
+00:35:12.740 --> 00:35:17.380
+[Amit Varma]: The people who favor the command and control approach could say, hey, look, you know, people
+
+00:35:17.380 --> 00:35:22.420
+[Amit Varma]: like your Facebooks and your Googles or whatever, and the Ubers, you know, are the people you
+
+00:35:22.420 --> 00:35:23.420
+[Amit Varma]: should be worried about.
+
+00:35:23.420 --> 00:35:24.420
+[Amit Varma]: Why bring them to the table?
+
+00:35:24.420 --> 00:35:29.220
+[Amit Varma]: I mean, their interest is obviously in having as lax regulation as possible, because after
+
+00:35:29.220 --> 00:35:31.300
+[Amit Varma]: all, data is where they make their money from.
+
+00:35:31.300 --> 00:35:35.220
+[Amit Varma]: They want to harvest as much data as they can.
+
+00:35:35.220 --> 00:35:41.260
+[Guest]: But these companies are also reliant on people believing in their products.
+
+00:35:41.260 --> 00:35:43.740
+[Guest]: And take Google, for example.
+
+00:35:43.740 --> 00:35:53.180
+[Guest]: There is no sort of motivation for Google to up its privacy policy game in India.
+
+00:35:53.180 --> 00:35:55.660
+[Guest]: But it does a fantastic job of it.
+
+00:35:55.660 --> 00:36:00.540
+[Guest]: Every, whenever they update their privacy policy, if it's a big enough update, then
+
+00:36:00.540 --> 00:36:06.340
+[Guest]: you as a user of Gmail or whatever, are taken through it in great detail.
+
+00:36:06.340 --> 00:36:10.140
+[Guest]: And it's sort of broken down to you beautifully.
+
+00:36:10.140 --> 00:36:12.700
+[Guest]: That's because Google has a vested interest in simplifying it.
+
+00:36:12.700 --> 00:36:17.260
+[Amit Varma]: So that actually then seems to favor the first approach that Justice Shri Krishna mentioned,
+
+00:36:17.260 --> 00:36:22.100
+[Amit Varma]: because if the market itself is the best regulator, then that's going to do the best job.
+
+00:36:22.100 --> 00:36:26.020
+[Amit Varma]: Like even with what happened with when, you know, when the Cambridge Analytica scandal
+
+00:36:26.020 --> 00:36:31.140
+[Amit Varma]: broke, a lot of people reacted with that whole hashtag uninstall Facebook and you know, so
+
+00:36:31.140 --> 00:36:36.460
+[Amit Varma]: on, which was itself the market sort of striking back.
+
+00:36:36.460 --> 00:36:40.420
+[Amit Varma]: And do you feel that that's not effective on its own and the government does need to
+
+00:36:40.420 --> 00:36:43.220
+[Amit Varma]: step in and there needs to be the second approach?
+
+00:36:43.220 --> 00:36:51.420
+[Guest]: It does just largely for the reason that there is way too much happening right now.
+
+00:36:51.420 --> 00:36:59.620
+[Guest]: And if each player, if each company is given its own leeway to do to develop it over time,
+
+00:36:59.620 --> 00:37:00.620
+[Guest]: that's great.
+
+00:37:00.620 --> 00:37:02.500
+[Guest]: That's a very democratic way of doing it.
+
+00:37:02.500 --> 00:37:08.220
+[Guest]: But the fact is that we kind of need some level of uniformity at some point, which is
+
+00:37:08.220 --> 00:37:13.340
+[Guest]: why what the law needs to do is it needs to just have a few principles on which it will
+
+00:37:13.340 --> 00:37:14.340
+[Guest]: survive.
+
+00:37:14.340 --> 00:37:18.500
+[Guest]: So for example, let's say accountability is a principle.
+
+00:37:18.500 --> 00:37:22.660
+[Guest]: Then on the basis of that principle, Google can do whatever it wants to make its product
+
+00:37:22.660 --> 00:37:23.660
+[Guest]: better.
+
+00:37:23.660 --> 00:37:26.820
+[Guest]: Uber can do whatever it wants, Facebook and the government can do whatever it wants.
+
+00:37:26.820 --> 00:37:32.060
+[Amit Varma]: There are these minimum benchmarks it has to meet, which are agreed upon by all stakeholders
+
+00:37:32.060 --> 00:37:33.060
+[Amit Varma]: and come through that consultative.
+
+00:37:33.060 --> 00:37:34.060
+[Guest]: Yeah.
+
+00:37:34.060 --> 00:37:40.100
+[Guest]: So what the law should look to do is just sort of have everyone agree on these frameworks
+
+00:37:40.100 --> 00:37:46.540
+[Guest]: and on these principles and tell them that you can do three, four things.
+
+00:37:46.540 --> 00:37:51.300
+[Guest]: You can collect data for the limited purpose of your app.
+
+00:37:51.300 --> 00:37:56.700
+[Guest]: And you can't say collect data of, you know, their grandmother and their great grandmother
+
+00:37:56.700 --> 00:38:01.500
+[Guest]: who have passed away before we got freedom.
+
+00:38:01.500 --> 00:38:03.460
+[Guest]: Before we achieved independence.
+
+00:38:03.460 --> 00:38:05.460
+[Amit Varma]: We have never got freedom.
+
+00:38:05.460 --> 00:38:06.460
+[Guest]: We don't.
+
+00:38:06.460 --> 00:38:07.860
+[Guest]: We're all slaves.
+
+00:38:07.860 --> 00:38:17.300
+[Guest]: What the law should do is just set out these basic principles and the sort of scope of
+
+00:38:17.300 --> 00:38:23.140
+[Guest]: what a company can and cannot do, within which the economy can thrive as it does.
+
+00:38:23.140 --> 00:38:24.140
+[Amit Varma]: Right.
+
+00:38:24.140 --> 00:38:29.500
+[Amit Varma]: Within which they can get like consent for micro things here and there, you know, additional
+
+00:38:29.500 --> 00:38:30.740
+[Amit Varma]: forms of.
+
+00:38:30.740 --> 00:38:36.740
+[Amit Varma]: So let's quickly go through the unseen effects of the GDPR once again, and tell me if I missed
+
+00:38:36.740 --> 00:38:37.820
+[Amit Varma]: anything.
+
+00:38:37.820 --> 00:38:42.220
+[Amit Varma]: The first one, of course, is consent fatigue, where consent is required.
+
+00:38:42.220 --> 00:38:46.820
+[Amit Varma]: But if somebody has 60 apps on their phone, they're having to give consent 60 times and
+
+00:38:46.820 --> 00:38:51.540
+[Amit Varma]: eventually they just get tired and that consent becomes meaningless per se.
+
+00:38:51.540 --> 00:38:57.020
+[Amit Varma]: The second is that the cost imposed on businesses goes up drastically.
+
+00:38:57.020 --> 00:39:02.500
+[Amit Varma]: And that might stop businesses from existing in the first place where they might have been
+
+00:39:02.500 --> 00:39:03.500
+[Amit Varma]: there.
+
+00:39:03.500 --> 00:39:07.580
+[Amit Varma]: And the unseen effect of that is all the value which would have been brought to the lives
+
+00:39:07.580 --> 00:39:11.740
+[Amit Varma]: of users and citizens through those businesses, which now no longer exists.
+
+00:39:11.740 --> 00:39:15.500
+[Amit Varma]: So what would have been a positive some game effectively is completely reversed.
+
+00:39:15.500 --> 00:39:18.700
+[Amit Varma]: Both parties lose and no one really gains.
+
+00:39:18.700 --> 00:39:23.140
+[Amit Varma]: And the third is because technology is always advancing by leaps and bounds ahead of the
+
+00:39:23.140 --> 00:39:24.140
+[Amit Varma]: law.
+
+00:39:24.140 --> 00:39:25.900
+[Amit Varma]: The law simply can't keep up.
+
+00:39:25.900 --> 00:39:28.940
+[Amit Varma]: And therefore it will prove to be inadequate.
+
+00:39:28.940 --> 00:39:29.940
+[Amit Varma]: Is that an accurate summary?
+
+00:39:29.940 --> 00:39:32.140
+[Guest]: Have we left out any unseen effects?
+
+00:39:32.140 --> 00:39:35.860
+[Guest]: That's broadly the accurate summary of the GDPR on its own.
+
+00:39:35.860 --> 00:39:42.260
+[Guest]: But when we look at it from the context of what it means for India, everyone in India
+
+00:39:42.260 --> 00:39:44.580
+[Guest]: today knows about the GDPR.
+
+00:39:44.580 --> 00:39:49.340
+[Guest]: Everyone with a smartphone and enough apps on it knows about GDPR.
+
+00:39:49.340 --> 00:39:52.700
+[Guest]: And so you know, it's in our conscious mind.
+
+00:39:52.700 --> 00:39:56.900
+[Guest]: What is important for us is to distinguish ourselves from this law.
+
+00:39:56.900 --> 00:40:01.380
+[Guest]: It's a great law because it has all these fantastic qualities to it.
+
+00:40:01.380 --> 00:40:05.580
+[Guest]: But it's also a very controlling law in that sense.
+
+00:40:05.580 --> 00:40:06.580
+[Guest]: And we are at a...
+
+00:40:06.580 --> 00:40:09.060
+[Amit Varma]: Give me an example of that if you can.
+
+00:40:09.060 --> 00:40:11.660
+[Amit Varma]: I mean, what do you mean by a controlling law?
+
+00:40:11.660 --> 00:40:17.660
+[Guest]: Like I said, it doesn't allow companies and industries to come up with their own regulatory
+
+00:40:17.660 --> 00:40:26.140
+[Guest]: guidelines or best practices to sort of accommodate to the larger principles of the GDPR.
+
+00:40:26.140 --> 00:40:32.580
+[Guest]: It's also a controlling law in the amount of penalty that looms over every business's
+
+00:40:32.580 --> 00:40:34.700
+[Guest]: head.
+
+00:40:34.700 --> 00:40:37.780
+[Guest]: So in that sense, the GDPR is kind of stringent.
+
+00:40:37.780 --> 00:40:42.580
+[Guest]: And in India, we're at a great point because we don't have to clean up any mess.
+
+00:40:42.580 --> 00:40:45.980
+[Guest]: This is the first time we're going to be writing a data protection law.
+
+00:40:45.980 --> 00:40:50.380
+[Guest]: We don't have a history of it that went wrong and we have to clean that up.
+
+00:40:50.380 --> 00:40:55.060
+[Guest]: So we should be careful to not be too influenced by the GDPR.
+
+00:40:55.060 --> 00:41:01.860
+[Guest]: We should adopt a co-regulatory approach so that we avoid the unintended consequence of
+
+00:41:01.860 --> 00:41:06.620
+[Guest]: over controlling and becoming the new license raj.
+
+00:41:06.620 --> 00:41:14.700
+[Guest]: We should also try and solve for consent fatigue and sort of stay away from the approach that
+
+00:41:14.700 --> 00:41:15.700
+[Guest]: the GDPR used.
+
+00:41:15.700 --> 00:41:19.180
+[Guest]: Yes, user consent is absolutely important.
+
+00:41:19.180 --> 00:41:24.740
+[Guest]: And I need to know what they're taking from me when I'm getting the benefit of an app.
+
+00:41:24.740 --> 00:41:27.180
+[Guest]: There is no arguing that.
+
+00:41:27.180 --> 00:41:32.860
+[Guest]: But the idea is to reduce the information gap between the data collector and the data
+
+00:41:32.860 --> 00:41:33.860
+[Guest]: user.
+
+00:41:33.860 --> 00:41:36.740
+[Guest]: And there are more than one ways of doing this.
+
+00:41:36.740 --> 00:41:42.820
+[Guest]: The terms and conditions are just one instance that the GDPR looks at.
+
+00:41:42.820 --> 00:41:50.140
+[Guest]: So we need to sort of develop our own flavors of what a data protection law should have
+
+00:41:50.140 --> 00:41:53.540
+[Guest]: to kind of circumvent the unseen effects.
+
+00:41:53.540 --> 00:41:58.500
+[Amit Varma]: And how receptive have governments been to this argument about a needing a data protection
+
+00:41:58.500 --> 00:42:03.780
+[Amit Varma]: law and the right to privacy being important and B to the importance and optimality, if
+
+00:42:03.780 --> 00:42:08.900
+[Amit Varma]: that's a word, of this consultative process where all the stakeholders together can arrive
+
+00:42:08.900 --> 00:42:11.860
+[Amit Varma]: at a framework for the law?
+
+00:42:11.860 --> 00:42:12.860
+[Guest]: Yes.
+
+00:42:12.860 --> 00:42:21.620
+[Guest]: So some government wings like the TRAI have shown a lot of interest in this process.
+
+00:42:21.620 --> 00:42:28.540
+[Guest]: And there have been a couple of bills in the parliament over the last two years on a data
+
+00:42:28.540 --> 00:42:29.540
+[Guest]: protection law.
+
+00:42:29.540 --> 00:42:36.340
+[Guest]: While I don't know enough to comment about, you know, whether as a collective body where
+
+00:42:36.340 --> 00:42:43.700
+[Guest]: the government stands, it's very evident that, you know, individually, people representing
+
+00:42:43.700 --> 00:42:47.780
+[Guest]: the government are thinking about these things, because they are engaging with their voter
+
+00:42:47.780 --> 00:42:50.420
+[Guest]: bases on social media.
+
+00:42:50.420 --> 00:42:56.900
+[Guest]: And they are also benefiting from these services just as much as we are.
+
+00:42:56.900 --> 00:43:00.180
+[Guest]: So I feel like we're all on about the same page.
+
+00:43:00.180 --> 00:43:02.580
+[Guest]: We're probably in the same chapter.
+
+00:43:02.580 --> 00:43:04.860
+[Guest]: And that's a really good place to be.
+
+00:43:04.860 --> 00:43:08.780
+[Amit Varma]: I mean, it sounds like a miracle for a country that tends to overregulate that you actually
+
+00:43:08.780 --> 00:43:13.260
+[Amit Varma]: have, you know, civil society voices, which are so strong and actually playing a part
+
+00:43:13.260 --> 00:43:14.260
+[Amit Varma]: in drafting these laws.
+
+00:43:14.260 --> 00:43:17.180
+[Guest]: Yeah, and in a very constructive way.
+
+00:43:17.180 --> 00:43:22.060
+[Guest]: I feel like all the ideas that I've heard over the last year of working in this subject
+
+00:43:22.060 --> 00:43:27.780
+[Guest]: have almost all sort of contributed to some larger relevant point.
+
+00:43:27.780 --> 00:43:33.860
+[Guest]: And that just goes to show that we all have a lot to learn from each other.
+
+00:43:33.860 --> 00:43:41.340
+[Guest]: And this is the beauty of the lawmaking process, that you just take everything that benefits
+
+00:43:41.340 --> 00:43:42.340
+[Guest]: you.
+
+00:43:42.340 --> 00:43:45.820
+[Amit Varma]: So Manaset was really enlightening, talking to you.
+
+00:43:45.820 --> 00:43:49.180
+[Amit Varma]: And no doubt the government will hear this episode before the listeners of the seen and
+
+00:43:49.180 --> 00:43:53.460
+[Amit Varma]: the unseen actually get to do so, which I hope they actually get to do so.
+
+00:43:53.460 --> 00:43:57.500
+[Amit Varma]: But I'd like to end with, you know, a couple of last questions I always ask all my guests
+
+00:43:57.500 --> 00:44:00.900
+[Amit Varma]: in the context of whatever subject they're talking about.
+
+00:44:00.900 --> 00:44:06.540
+[Amit Varma]: What makes you despair and what makes you hopeful about the future of data protection
+
+00:44:06.540 --> 00:44:10.300
+[Guest]: and privacy in India?
+
+00:44:10.300 --> 00:44:15.380
+[Guest]: What makes me hopeful is that everyone is thinking about it.
+
+00:44:15.380 --> 00:44:19.220
+[Guest]: It's relevant for everybody I've met.
+
+00:44:19.220 --> 00:44:22.140
+[Amit Varma]: And there is so much to do, probably a little bit of selection bias.
+
+00:44:22.140 --> 00:44:24.180
+[Amit Varma]: My panwala is not thinking about the GDPR.
+
+00:44:24.180 --> 00:44:25.180
+[Amit Varma]: No, but I'm kidding.
+
+00:44:25.180 --> 00:44:26.180
+[Amit Varma]: I get your point.
+
+00:44:26.180 --> 00:44:28.820
+[Guest]: No, I actually disagree.
+
+00:44:28.820 --> 00:44:33.900
+[Amit Varma]: A data protection law is relevant for everyone, but not everyone is really thinking about
+
+00:44:33.900 --> 00:44:34.900
+[Amit Varma]: it in that sense.
+
+00:44:34.900 --> 00:44:39.740
+[Amit Varma]: But the good part is that even the PLU who are thinking about it are much more vocal
+
+00:44:39.740 --> 00:44:41.700
+[Amit Varma]: than the numbers indicate.
+
+00:44:41.700 --> 00:44:44.140
+[Guest]: So we are making a lot of noise about it.
+
+00:44:44.140 --> 00:44:45.140
+[Guest]: Yes.
+
+00:44:45.140 --> 00:44:50.220
+[Guest]: And, you know, when we're teaching public policy to students, we talk about this beautiful
+
+00:44:50.220 --> 00:44:53.180
+[Guest]: thing called the window of opportunity.
+
+00:44:53.180 --> 00:44:59.580
+[Guest]: When politics and solutions and problems align, they open the window of opportunity.
+
+00:44:59.580 --> 00:45:05.460
+[Guest]: And that's the time that you have to make a law or a policy that will bring about change.
+
+00:45:05.460 --> 00:45:10.680
+[Guest]: I think we're at the point where the window is creaking and we're just opening it up.
+
+00:45:10.680 --> 00:45:13.280
+[Guest]: And it's good that we're all at it.
+
+00:45:13.280 --> 00:45:22.140
+[Guest]: What despairs me is our history is not great with making laws for an unknown beast.
+
+00:45:22.140 --> 00:45:27.020
+[Guest]: So I hope we don't fall into the same trap of over-regulating.
+
+00:45:27.020 --> 00:45:33.340
+[Guest]: And I hope we sort of give enough room for all stakeholders to wiggle and find their
+
+00:45:33.340 --> 00:45:36.940
+[Guest]: most comfortable way of complying with the law.
+
+00:45:36.940 --> 00:45:41.500
+[Guest]: So that's something that I'm kind of wary about.
+
+00:45:41.500 --> 00:45:44.460
+[Guest]: But I'm largely hopeful, I think.
+
+00:45:44.460 --> 00:45:45.460
+[Amit Varma]: Excellent.
+
+00:45:45.460 --> 00:45:49.480
+[Amit Varma]: On that note of hope that we shall all be allowed to continue to wiggle within the window
+
+00:45:49.480 --> 00:45:53.060
+[Amit Varma]: of opportunity, I can hardly picture it in my head.
+
+00:45:53.060 --> 00:45:54.940
+[Guest]: Thanks a lot for coming on the show.
+
+00:45:54.940 --> 00:45:58.540
+[Amit Varma]: Thank you so much.
+
+00:45:58.540 --> 00:46:02.380
+[Amit Varma]: If you enjoyed listening to this episode, hop on over to seen unseen.in for the archives
+
+00:46:02.380 --> 00:46:03.660
+[Amit Varma]: of the seen and the unseen.
+
+00:46:03.660 --> 00:46:07.220
+[Amit Varma]: I've recorded an episode in the past with Manasa on prostitution.
+
+00:46:07.220 --> 00:46:09.100
+[Amit Varma]: Do check that out.
+
+00:46:09.100 --> 00:46:13.820
+[Amit Varma]: And you can follow Manasa on Twitter at NASAC.
+
+00:46:13.820 --> 00:46:17.940
+[Amit Varma]: You can follow me at Amit Verma.
+
+00:46:17.940 --> 00:46:30.420
+[Unknown]: Thank you for listening.
+
+00:46:30.420 --> 00:46:35.340
+[Unknown]: There she stands, a podcast addict.
+
+00:46:35.340 --> 00:46:40.500
+[Unknown]: Outside the bank, having travelled several miles to get in with other poor souls like
+
+00:46:40.500 --> 00:46:41.500
+[Unknown]: her.
+
+00:46:41.500 --> 00:46:47.300
+[Unknown]: The journey, though daunting for this youngling, will have some comfort because she has downloaded
+
+00:46:47.300 --> 00:46:49.920
+[Unknown]: her favourite podcast.
+
+00:46:49.920 --> 00:46:57.720
+[Unknown]: You can see more of her species on IVMPodcasts.com, your one-stop destination where you can check
+
+00:46:57.720 --> 00:47:00.940
+[Unknown]: out the coolest Indian podcasts.
+
+00:47:00.940 --> 00:47:17.940
+[Unknown]: Happy listening!
+

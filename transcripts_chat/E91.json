@@ -1,0 +1,857 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "why do voters tolerate this? The chief reason for this is what Public choice economists call Rational ignorance. These economic matters are complicated and take a lot of time to understand, now most voters know that no election is won by just one vote, so their single vote probably won't make a difference either. This being the case, why put in the hard work to understand complex economic issues? This ignorance is perfectly rational. So who do we blame for the state of our nation if we can't even blame ourselves?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:16.000",
+        "message": "Welcome to The Scene and The Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Bhadwa."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:24.560",
+        "message": "Welcome to The Scene and The Unseen. In this week's episode, we are going to be talking about infrastructure, leasing and financial services, also known as IL&FS, which is surely the most ungainly acronym ever. IL and FS. I mean, WTF, dude. Cribs apart, IL&FS is a very interesting company because it is not a public sector unit, nor is it quite private sector. The same bad incentives that apply to government owned companies apply to IL&FS. And while there is taxpayers money involved, it is in indirect, insidious ways. More than anything, the failure of IL&FS exposes fundamental faults in our system of government and in our financial systems. My guests today to talk about this are Vivek Kaul and Ashutosh Dattar. Vivek is perhaps India's best known economic journalist, and his speciality is simplifying the complexities of economics and finance for the common layman. He is also the author of the much acclaimed Easy Money Trilogy out now on Harper Collins. Ashutosh is a Thane based economist I've come to admire recently for his depth of thinking, and he's been writing regularly for the site I edit, Pragati, at thinkpragati.com. Before I begin my conversation with them, though, a quick commercial break. Like me, are you someone who loves fine art, but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to Indiancolors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art like stoles and shrugs, home decor like cushion covers and table runners, and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price, and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products, including fridge magnets with some stunning motifs, and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Vazvo x Vazvo, Brinda Miller, Dilip Sharma, Shruti Nelson, and Pradeep Mishra. They accept bulk orders for corporate and festival gifting, but even if you want to buy just for yourself or a friend, head on over to Indiancolors.com. That's colors with an O-U. And if you want a 20% discount, apply the code IVM20. That's IVM for IVM Podcast. IVM20 for a 20% discount at Indiancolors.com. Vivek, Ashutosh, welcome to the scene and the unseen. Thanks, Amit. Thanks, Amit. Ashutosh, let me start by asking you that before we even get into what ILNFS is, and to be honest, I didn't know what it was until this whole crisis broke. Can you tell me a little bit about what are NBFCs? Like ILNFS is basically a non banking financial company. What are these and why are they required?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:04:19.120",
+        "message": "So, technically speaking, any company which is not a bank, but has half of its assets in financial assets, which could be shares, debentures, bonds, whatever, and half of its income that comes from financial sort of interest or dividend becomes an NBFC and requires RBI licensing permission to operate. And that effectively covers your mortgage companies like HDFC, covers your insurance companies, mutual funds, stock exchanges, mortgage guarantee companies, as well as things like ILNFS. Even in the company which is formed just to invest in shares without any public deposit technically becomes an NBFC. So, anything which does invest in financial assets and has financial income principally, but is not a bank becomes an NBFC."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:07.280",
+        "message": "So that's a definition of it. Now, one of the points that you'd made earlier in our conversation before this was that NBFCs like ILNFS essentially also indicate that there's a problem with the regulatory environment in the sense that, you know, banks are over regulated. That is why in some cases, companies like this become necessary. And then there are spin off consequences of that and so on and so forth."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:05:31.920",
+        "message": "Can you elaborate a bit on that? So, banking in India is very highly regulated and sort of considered to be the case because banks take deposits from public and hence as an investor protection deposit protection modes, the restrictions on how many branches a bank can open, where it can invest, how much it should lend to what categories, how should it recognize income, what is the capital that it should have and so on. And that sort of reduces the flexibility and innovation that banking can have. And as a tool to offset some of that, a category of lending institution, which are primarily into lending, not so much into deposits, although many of them take deposits, but primarily into lending is a class of companies called as NBFCs were created. So, NBFCs effectively do all kinds of lending that a bank does. It's just that they're not subject to as tight a regulation as banks are. And that gives them dynamism. So, we've seen number of NBFCs increase in the last few years because that is not the case with banks. And that also has some consequences because of lesser regulation like what we're seeing with IRNF."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:33.680",
+        "message": "So, essentially what happens is that one of the function of banks because banks are too regulated to perform it in innovative ways is then farmed off and done by NBFCs, which are not as regulated as that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:06:45.040",
+        "message": "Yes. And sort of the irony of it is that many banks themselves have their own NBFCs."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:06:48.960",
+        "message": "In fact, we'll just skip that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:06:50.000",
+        "message": "So, that's the regulatory arbitrage that you get into."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:53.520",
+        "message": "What's regulatory arbitrage? So, it's like, you know, if you make a comparison to with the United States, and you look at what happened before the financial crisis of 2008. So, a lot of these home loans, which were being given out were subprime loans. And these are not banks, you know, per se, which were sort of going banks were giving subprime loans, but there were other companies and other financial institutions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:22.560",
+        "message": "Fannie and Freddie and so on. No, Fannie is a different thing altogether."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:07:26.080",
+        "message": "There were these home mortgage companies, and they were essentially, you know, what is referred to as shadow banking. So, they do everything that a bank does, but the regulations governing them are, you know, slightly loose. So, they can do stuff which a bank cannot, you know, if you look at the US, a lot of the, you know, financial institutions, which got into trouble, were basically not really banks, I mean, you know, the Lehman Brothers of the world. So, if you also look at banks, which got into trouble, you know, banks like Citigroup, it was because of lending that they carried out through the shadow banking institutions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:08.480",
+        "message": "So, is it the case that banks are overregulated or NBFCs are under regulated?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:08:12.800",
+        "message": "What is the problem here? I think the problem is that banks are overregulated. I mean, to give you one example of how the arbitrage works, a bank is required to open 25% of its branches in rural unbanked areas. Now, that if I'm a bank that restricts my flexibility, so have 100% subsidiary, which is an NBFC, and I can carry out lending activities in that without subject to those regulations. So, in a sense, I'm trying to form a subsidiary to escape some of the tighter regulations that the RBI has imposed on me and as a sort of via media, but that has cost because sort of essentially you are trying to deal with friction."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:46.080",
+        "message": "Right. And also then NBFCs, when banks open an NBFC, there seems to be a kind of legalized jogar to get away from a regulatory environment. But I think, I think Vivek, isn't the, you're also sort of making the point that it is also true that NBFCs are under regulated. Is that what you're saying?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:09:02.400",
+        "message": "I mean, to some extent, yes, I'll give you a very simple example. And this is not really so much about regulation, but as to how, you know, regulators operate. Right. So take a look at RBI, Reserve Bank of India, which essentially regulates banks in India. Now, every week, every month, every 15 days, RBI releases some data pertaining to banks. OK, and if you look at that data, you know, it is very detailed. I mean, there is still scope for improvement, but the amount of data that RBI releases on banks is pretty good. Now, take the example of housing finance companies, which are NBFCs and which are regulated by the National Housing Bank, which is 100% subsidiary of the RBI. Try getting data on, you know, housing finance companies, agglomerated data. You can obviously get, you know, data for HDFC or, you know, Tata Home Finance and stuff like that. But agglomerated data for housing finance companies is simply not available. The data that you get is two to three years old. So how do you track as to what is happening in that sector at an agglomerated level? So the issue with that issue is also what this tells us is that at some level, the National Housing Bank is also not really, you know, up to the mark as RBI is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:30.320",
+        "message": "Yeah, and you know, when we talk about regulation, we obviously think about government regulation, but the most effective and really the only legit form of regulation, and in my opinion, is a regulation that customers do and that stakeholders do and it comes from them. And as you're pointing out, Vivek, to do that, they need information and enough scrutiny."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:10:47.680",
+        "message": "And in this case, what is happening is that that scrutiny isn't there because the data isn't there. Yes, so I'll just sort of take a detour. And this is something that the Business India magazine wrote about ILNFS. And it's very interesting because, you know, what they say here is, every time Business India approached the institution, which is ILNFS for a story, it was thwarted by the then chairman Ravi Parthasarathy. His stock reply was, we are not a listed company, we're not obliged to talk to anyone, and they're not accountable to anyone but our shareholders. So the point..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:21.920",
+        "message": "And those shareholders include government institutions like LIC, so they're accountable"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:11:25.280",
+        "message": "to us in a sense. See, it is because, and then the contradiction is if you go to the ILNFS website, and it's stated there that ILNFS as a systematically important, systematically important, non-deposit accepting, core investment company registered with the RBI, currently lends and invests in ILNFS group companies. But the point is, if you're systematically important, you need to be open to scrutiny."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:55.360",
+        "message": "Yeah, and especially if there is taxpayers money, which is invested in you, which is certainly heavily the case with ILNFS even before this ludicrous bailout, then there has to be accountability and we have to know. But you know, before I get into ILNFS and all that, I'd like you guys to demystify banking itself for me. How does a bank operate? You know, what are you lending? What is leverage? How does it all work? I'm saying this because a lot of our listeners may not exactly know how the banking system works to begin with. And then what are the pressures on it? And then what are the incentives that banks operate under?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:12:30.560",
+        "message": "So can you demystify that for me? So in a nutshell, what a bank essentially does is starts off with some amount of capital that its shareholders put into it. And based on that capital, it takes deposits from people like you and me, and then lends the consolidated money to people who need credit. And because banks typically will have much higher leverage ratio than a normal manufacturing company, banks are inherently subject to higher regulation, not just in India, subject to higher regulation globally. Leverage ratio. So what will happen typically is that if the shareholders of a bank put in 100 rupees of their capital, a bank might have 900 rupees of deposits."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:13:06.880",
+        "message": "So in a sense, the balance sheet size is... In fact, it will be much more than that. It will be much more than that in case of India. In banks, if you look at globally, typically the capital tends to be around 5% of their liabilities. So if you look at the leverage, it would be at least around 20 times. And we're not talking about the, you know, the capital adequacy ratio here, because that we go into a different domain. Because for a lot of lending, you don't need to have capital."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:34.360",
+        "message": "So what you're basically saying is that if depositors to a bank who are depositing their money deposits, say 5 rupees with the bank, the bank can then at a leverage ratio of 20,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:13:43.400",
+        "message": "they can lend... No, no, no. If a shareholder puts in... So if a bank starts with 100 rupees of money from its shareholder, it will have something like 19, sort of 1900 rupees of deposits. So the total sum that it has to lend becomes 2000 rupees. But as the owned money that the bank that has is only 100 rupees."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:00.080",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:14:01.080",
+        "message": "So the assets can be 2000 rupees, but the equity is only 100 rupees. And when you sort of go back to say a manufacturing firm or a telecom firm, typically or a cement company people say 2 is to 1, debt equity is sort of the standard. So 100 rupees of owned funds, 200 rupees of borrowings. And here we are talking about 20x."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:19.960",
+        "message": "So basically, if there's 100 rupees of their own capital and 1900 of depositors' capitals, and let's say then they lend 1800 out, and depositors take their money away and they're left only with 100. That's when you have a crisis."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:14:33.400",
+        "message": "That's when you have a crisis. So the assumption in banking essentially is that depositors will not come in mass to demand"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:14:39.320",
+        "message": "their money. Right. That's the fractionalism of banking as we call it. And it rests on a very thin assumption that everyone will not demand their money at the same time."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:14:51.200",
+        "message": "And that assumption gets tested during times of stress like what with ILFS. And if nobody's willing to roll over their liabilities and people ask that please repay my money, then how do you raise money on the asset side to pay back to people from whom you borrowed?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:05.440",
+        "message": "Essentially, that's the ILFS. So now, let's say an NBFC which only does loans and doesn't take deposits, they only have their own capital. So are they lending only that?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:15:13.960",
+        "message": "What are they lending? They will borrow money from mutual funds, from insurance companies, from other banks. So banks are an important source of lending, source of funds to the NBFCs. So about 40-45% of the borrowings of NBFCs come from banks. So in a sense, banks take deposits from people like you and me, lend to NBFCs, NBFCs online lend it to people for mortgages, for cars or for SMEs, for working capital, etc. And money that we put in mutual funds other than inequities, part of it again flows back to NBFC. So in a sense, the difference that is used in common parlance is that NBFCs are wholesale funded because the people who give them loans are bulk institutions, whereas banks are generally retail funded where the ticket size might be 1 lakh 50,000, etc. Whereas in case of NBFCs, the ticket size tends to be 100 crores, 500 crores, etc. So that's the difference. But they also have loans, but they will have slightly lower leverage ratio because they"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:08.880",
+        "message": "have higher capital requirement. And how are the incentives different for them? As in, you know, any private company, let's say any company operates under incentives, which if they don't give a certain return to their shareholders, they're in trouble, they're accountable. If they're a public company, their stock price goes down if their balance sheet isn't good. So in a private company, for example, the way the incentives work is that you have to satisfy those requirements. And the incentives are by and large good. In a public sector company, those don't matter because the employees are not held accountable. It's taxpayers money, you know, the taxpayer will bail you out. So which is why you have, you know, public sector companies are run much worse than private sector companies. But just in terms of the difference in general between banks and NBFCs, forgetting the private public aspect of it, because banks are much more regulated, are there differences in the incentives at play which affect how they operate?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:17:01.760",
+        "message": "No, the incentives would roughly be the same. Same. So the management gets compensated based on either the stock price or the profits that the company reports. And the employees sort of would have their companies would have their own internal."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:15.040",
+        "message": "But the question of who's holding them accountable would depend on whether the ownership pattern, whether it's private or public or?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:17:20.120",
+        "message": "Yes. So you have public sector NBFCs, which haven't done as well as and sort of which sort of mirror the state that the public sector banks have. And your private sector NBFCs, which, which is also I mean, even in banks, you know, you have banks, you have mixed I mean, you have corporate banks, which are in trouble. And you have some NBFCs, which are in trouble and some NBFCs which are doing well. So it's essentially a mixed, mixed bag. But in general, what holds true in banking that public sector banks are doing worse off than private sector banks would hold true in NBFCs also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:46.960",
+        "message": "So Vivek, tell me about ILNFS and what is it? What kind of NBFC is it?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:17:51.200",
+        "message": "And so as I said, you know, it's a systematically important non deposit accepting core investment company. And it basically lends and invests in its group companies."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:04.040",
+        "message": "Is it a private company or a public company?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:18:06.280",
+        "message": "Oh, what would you it's not listed?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:10.160",
+        "message": "It's not listed, but in the sense, is it private sector?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:18:13.800",
+        "message": "It's quasi government to the extent that 25% is owned by LIC. Then you have State Bank of India with around 6.9% or 7% Central Bank of India also owns. So roughly around 40% of ILNFS is owned by, you know, government institutions. But then it's not I don't think it's a you cannot call it out and out government company. You can call it a quasi government company. Yes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:43.000",
+        "message": "I don't think it's an out and out. In the sense it's not owned by the company, but these public sector institutions are major"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:18:47.680",
+        "message": "investors in it as are private. Yeah, I mean, the second largest owner is a Japanese company, Oryx Corporation. HDFC has a large amount of stake and very, very interestingly, the third largest shareholder in ILNFS are its employees. Oh, okay. Which is something that's not very well known. So basically, what that means is that as the company has grown, ESOPs have been a major incentive which has been offered to their employees. So yeah, so it's basically a, you know, it's a conduit which sort of, you know, raises money and invests in its subsidiaries."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:30.400",
+        "message": "If it's not publicly listed, how do the ESOPs work? So I wouldn't know exactly what they are structuring. Like they get dividends on their shares or something."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:19:36.400",
+        "message": "No, but what some companies do, for example, is that they will have a sort of a periodic valuation done of their shares and employees can exercise based on that. Some companies have a fixed multiple of profits to which the share prices are pegged. So it becomes a notional sort of an ESOP. So there are structures which work around the problem of not."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:19:55.960",
+        "message": "Or you know, there is a hope that one day they'll get listed in."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:19:59.240",
+        "message": "Or use a market valuation that on an average, NBFCs trade at whatever, 10 times earnings or 5 times book value and you sort of apply the same multiple and derive a notional."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:20:07.600",
+        "message": "So something of that sort would be done. No, but the interesting thing is that three of their subsidiaries are listed. ILNFS itself is not listed, but ILNFS Engineering and Construction, which used to be formerly Mytas, the opposite of Satyam, the real estate."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:24.720",
+        "message": "They were owned by Ramalinga Raju basically and these guys took over after that thing happened."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:20:29.320",
+        "message": "And ILNFS Transportation Networks and ILNFS Financial Services. So the company basically has around 169 group companies, which operate in a wide variety of businesses and which is why, you know, someone I think, Andy Mukherjee had a piece where he called ILNFS a Hydra-headed monster. And you know, the funny thing is the government has superseded the old board and gotten in a new board. And this new board has to come up with a proposal, you know, by the end of this month. But you know, I mean, how will these guys figure out, you know, what 169 group companies have been up to in such a short period of time? And there isn't enough publicly available information about all these companies and you know, what they really do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:20.960",
+        "message": "And Samar Srivastava wrote a piece for Forbes, where he quoted a fund manager as saying that this is a debt Ponzi scheme."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:21:28.080",
+        "message": "It's a debt Ponzi scheme. So basically, what Samar wrote was that, you know, ILNFS itself raises money and then it invests in equity in its group companies and on the basis of that equity, the group companies raise more debt. So which is, you know, visible if you look at ILNFS's balance sheet, the leverage, you know, the debt is to equity ratio has essentially gone up from around 7.7 in 2013-14 to around 16.8 in 2017-18. So you know, which basically means that the debt has grown at a much faster pace than their equity. So at some level, it also means that, you know, they've been raising new debt to pay off old debt, which is why it you know, which is why that fund manager says that it's a"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:14.400",
+        "message": "debt Ponzi scheme. And you know, part of what could be making that happen is that from my understanding of it, if you can elaborate on that, is that they're taking short term debt for long term"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:22:24.720",
+        "message": "investments because they do a lot of infrastructure investment. So I think the bigger problem with ILNFS more than that, I think, as you mentioned, is that there isn't enough information available in public. So the things that ILNFS does are things that a lot of other companies do. There are large companies which do contracting, own assets, have a financing subsidiary, which does loans. So there are companies which do that, but most of them are listed. So in a sense, every quarter, they're subject to scrutiny, what has been your cash flow, what is your debt, that project that you took there, you had a, there were delays, what is the progress, that scrutiny is something that ILNFS was not subject to."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:06.040",
+        "message": "And that scrutiny itself changes the incentives, you're less likely to behave in a proper way"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:23:10.640",
+        "message": "when there is. So if you look at, you know, I was just looking at the annual report yesterday, and I'll read out names of a few companies, so which will itself tell you as to the wide variety of businesses they are in. So there is one company called Noida toll bridge company. There is one called ILNFS solar power, ILNFS energy. Then there is something called North Karnataka Expressway, Hazaribagh Ranchi Expressway, Muradabad Bareilly Expressway. So obviously, you know, a lot of it is infrastructure based, but a lot of it is not infrastructure based also. And you know, infrastructure based also they are into a wide variety of things. So they maintain these expressways, they run toll companies. They also are into what is known as, you know, BOT built on transfer contracts. So they're just into so many things that it's, you know, and given the fact that very little information is publicly available. So you start wondering as to, you know, what exactly will this new board be able to achieve. Now if you look at Satyam, you know, when Satyam was taken over by the government, it was an easy decision because okay, fine, you know, this is ultimately Satyam was an information technology company. They had, you know, Ramalinga Raju had some, you know, he was punting on real estate as well on the side. So it was inherently a simple decision to sell off Satyam to the Mahindras and the problem was solved. And then the Mahindras sorted out, you know, the problems would have been in Satyam. Now in this case, given that you have so many of these companies, it will be very, very difficult, you know, if to sort of sell them off one by one. And even if you want to sell them off, you know, a lot of these companies where some information is available, do not really have a business model anymore. So if you look at this Noida toll bridge company, it doesn't collect any toll."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:11.160",
+        "message": "Its business model was to collect toll, but then the court ruled against it."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:25:14.200",
+        "message": "So they don't collect any toll. Now, if you look at solar power and energy companies, renewable energy is not in a great shape right now. So similarly, they have these, you know, problems all over."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:25:27.240",
+        "message": "So can I sort of run into the problem of speed, which will compromise on value, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:32.040",
+        "message": "And then you have the incentives of the new board in place, just to sort of take a step back, I'm trying to figure this out. Is this kind of structure normal, where ILFS has all the subsidiary companies. So what it seems to me as a layman is that every time they have a project, like say building a toll bridge in Noida, they'll form a subsidiary for that and they'll lend to that subsidiary or invest to that subsidy taking loans themselves. So they themselves are just like a managing company of a whole bunch of subsidiaries, who all then operate in silos, and who are all except the publicly listed ones you mentioned, equally unaccountable because ILFS itself is unaccountable."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:26:07.280",
+        "message": "So in infrastructure, you generally see that every individual project becomes a separate subsidiary, STV as they call it. So in a sense, that particular financing and business model is not unheard of, you will"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:16.920",
+        "message": "see pretty much every... Why is it necessary though?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:26:19.880",
+        "message": "Because it sort of you minimize the risk of that project and sort of don't expose the other parts of the business to that. So that is not, what is unique for ILFS is that the parent company is so non transparent. So what happened is that in two years back, SEBI mandated that every company which has listed debt instruments should also disclose half yearly financial statements. Now, so ILFS does disclose that. So every half an year, so we have last four or five times, half yearly September and March statements, but A, those are not at a group level. So the debt that you will see on that is just 10 or 15,000 crores, which is like not even 20% of the group level debt. And it's just a sort of a one page summary statement, which doesn't give you anything. So in a sense, there was an acknowledgement on the part of regulators that there is a problem here that you have big companies which are not listed, and they have systemic issues if there is some and so information should be available. The solution that they've come up with is half hearted and half big solution."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:17.360",
+        "message": "We'll come to the solution later."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:27:18.360",
+        "message": "But I just want to make another point. See, you know, while I mean, and I'm really not an expert on this. And so I'm sort of, you know, guessing an answer here. And I'd like you to correct me if I'm wrong. So basically, you know, from I was doing a little digging yesterday. And what I realized was that while you know, the idea of spinning off a company might be fairly common in infrastructure, but ILNFS, whenever it sort of spun off a company, the total amount of equity that it invested in that company was very, very low. So they had very little, you know, at the cost of saying skin in the game, you know. So if you look at, you know, the biggest company is the is ILNFS, transportation networks limited, okay, it has a, it has assets of around 47,000 crore, which is like around, I would say around 40% of the overall assets of ILNFS. Now, it has the company has, you know, even though the assets are at 47,000 crore, the equity is just 328 crores. So it's, it's, you know, the, obviously, the amount of leverage that they're playing around with is very, very high. Even in in this other company, which is Mitas, formerly Mitas, that equity is now a negative 139 crore, whereas the debt is close to 2100 crore."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:42.360",
+        "message": "What does that mean when you say that?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:28:43.360",
+        "message": "It basically means that equity is negative essentially means they've made losses over the years, okay, and their entire capital and retained profits has been wiped off."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:28:53.840",
+        "message": "So now they're basically bankrupt. There's only upside for them if things turn around, but there's no downside because they don't have any more of their own money that's invested."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:01.640",
+        "message": "So it's upside but no downside. Wonderful situation. So I just want to go back to that accountability question. Now, yeah, of course, you want regulators to kind of do something, but is the core problem here also the ownership? Like for example, if the three of us own a company, right, who will keep it accountable, no matter what the regulations in place might be, even if there are no regulations in place, the three of us will keep it accountable by demanding regular statements because our interests are at play. Now, ILFS is owned partly by these public sector companies. And you'd imagine those stakeholders would keep them accountable as any stakeholder should."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:29:37.880",
+        "message": "So is that part of the problem? It's a classic case of a principal agent problem, so which you can explain to our readers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:44.680",
+        "message": "Right, right. I mean, a principal agent problem is if I hire you to do something, there's an information asymmetry and how do I know you're actually doing it and blah, blah, blah, but that's"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:29:52.000",
+        "message": "a kind of a different problem. No, not really. See, if you look at it, I think this is a bigger problem across all sort of in terms of the corporate structure itself. Right. So the way regulators approach financial companies is that we don't want a dominant shareholder. We want diversified shareholding, because a dominant shareholder might sort of make undue use of the company for his advantage. And so what you get is a dispersed shareholding and no sort of dominant shareholder and the CEO effectively becomes the one who runs the company. And to get around the problem that he shouldn't run away with the company, what you have is something called as independent directors. Right. So every bank and every company now has at least 50% independent directors. But by saying that you are independent, you don't become independent. Right. So I think the issue and that sort of it's a big issue sort of globally itself is how do you generate independence in mind, not just on paper, through incentives or contracts. Right. So you might appoint me as an independent director on your company. I'm your friend. You say, okay, let's buy this company. I might just sign off on that even if you are. How do you ensure that I remain an independent and think not of our friendship, but in the interest of the companies through contracts? I mean, I can be independent, but law cannot based on my how I might be."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:31:06.040",
+        "message": "See, it's like, you know, when once the new board took over, the directors who were a part of the old board sort of wrote to the new board saying that, you know, we are all there to help you. And there were comments, you know, one of the directors even said that, you know, ILNFS has had a huge asset liability mismatch over the years, and it's all well known. If it's well known, why wasn't anything done about it? Simply because the man who ran the company, you know, ran it like his own feed dump."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:31:34.720",
+        "message": "Curiously, he quit in July. July. Unhealth reasons."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:38.960",
+        "message": "Well, we'll take a quick commercial break here. And after we come back, get back to the subject, which really boils my blood, why the hell"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:45.120",
+        "message": "are we rescuing these people out? Welcome back to the scene in the unseen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:43.080",
+        "message": "I'm sitting with Vivek Kaul and Ashutosh Duttar, who are helping me make sense of IL&FS, which is an NBFC, who have got taxpayers into a deep amount of SHIT. So Vivek, so what's the solution to that the government has come up with for IL&FS?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:32:58.720",
+        "message": "A day before the new board took over, I think the old board met and cleared a rights issue of 4500 crores, which three of the investors, LIC, SBI and Oryx Corporation were supposed to subscribe to. Now, obviously, now with the new board taking over that, I don't think, you know, it's on the table. It's not on the table. But then, you know, the question is, again, I mean, you know, we should at least ask as to why should you know, what makes my blood boil even before, you know, LIC and SBI rescuing IL&FS is the fact that why does LIC, which is essentially an investment company, I mean, there is very little insurance, you know, that it sells, it's essentially an investment company and why should LIC have a 25% stake in any company? I mean, you know, one of the first things that they teach you, when you sort of start learning anything about investing is to not have all your eggs in one basket. You know, a mutual fund in India cannot own more than 10% of a particular any company. So why should LIC be allowed to own 25% of a company? I mean, that's it's bizarre. So obviously, now that you own 25% of a company, the logical thing is that you have to rescue the company because otherwise, you know, whatever you've already invested in it, sort of goes to the you know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:23.000",
+        "message": "And even if you invoke the sunk cost fallacy, this is too much of a sunk cost, 25% of"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:34:27.120",
+        "message": "So you know, the other thing is, State Bank of India, you know, which has around 7% stake in IL&FS made losses of close to 7000 crore last year."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:39.120",
+        "message": "On its own. On its own."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:34:41.120",
+        "message": "So why is, you know, a loss making bank trying to rescue, you know, another systematically important financial institution? No, you know, as far as systematically important financial institutions go, I don't think there is, you know, a more systematically important financial institution in India than the State Bank of India. Nothing is more systematically important. So why is SBI, you know, being forced into even, you know, more deep shit? So I mean, if you look at these things, you know, the kind of questions that crop up are, you know, I mean, they really make your blood boil."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:14.960",
+        "message": "And just elaborate a bit on to just kind of again, take another digression shift from IL&FS, how many times we have to say that to LIC, which you've written a couple of really good pieces on and if I might quote from one of them, quote, if LIC keeps picking up all the rubbish that is lying around, one day it will have to be rescued as well. The question is, who will rescue the rescuer? Stop quote. And obviously, you mean that as a rhetorical question, but the answer is we will be the"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:40.800",
+        "message": "taxpayers. No, I mean, see, the point is whether it's easy to say that the taxpayer will rescue, but it's not so straightforward. You know, LIC is huge. And if you look at a bank like IDBI, which is not a very big bank, if you know, I think LIC is investing 10-12,000 crores in that bank. Now, essentially, a, you know, a bank like IDBI needs that kind of money. Just imagine how much LIC is worth one day, you know, if things are not right with LIC, because LIC is another huge black box. Nobody really knows what is happening inside that organization. If you look at publicly available information, it is presented in such, you know, terms that it's very difficult to make out what is happening inside the organization, even though they declare, you know, information every three months. But if you go to that particular page on the LIC website, and try to put things together, it's next to impossible. Unless, you know, you work within LIC and you understand the dynamics of how the organization operates. So, yeah, I mean, it's bizarre that, you know, and you know, one thing that people don't get is that LIC money is not taxpayer money, okay? It's money that the policyholders have given LIC to manage. Now, ultimately, those policyholders may also be taxpayers. But that's a different thing altogether. So the only aim of LIC should be to sort of manage that money properly. LIC is also not a, you know, it's not an asset reconstruction company or, you know, a vulture fund, or, you know, a distressed asset management fund, you know, you have all these fancy terms. It's not, it doesn't have expertise in those areas, right? So it should not, you know, a lot of people make this argument, oh, but they're buying these assets cheap, you know, when they bought IDBI. But that is not what LIC is supposed to do. They are supposed to sort of manage your money in the most, you know, risk free way possible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:35.280",
+        "message": "And normally, you know, for any private insurance company, you have, you know, policyholders, and your responsibility is to those policyholders, that's all your incentives. But in the case of LIC is complicated, because it's a government company, and they have to"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:37:48.240",
+        "message": "do all these other things. So you'll have like, you know, if the government does not meet its fiscal deficit target this year, so then they'll, you know, come up with, they'll sell shares in all these public sector companies, which no one else will want, and then LIC will come in and LIC will sort of buy those shares. But then till you know, and this is not when it's not like it's been happening, you know, only in the last four years, it's been happening forever. You know, any thing of this sort in LIC comes to the rescue."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:16.440",
+        "message": "And I'm going to stroke your ego a bit more by quoting from another piece of work, where you said, start quote, of course, the average LIC policyholder is financially illiterate. I mean, why else would you hand over your hard earned money to LIC? And given that he is not aware of all that is happening right now, hence, I guess it's only fair that he has been taken for a ride. If you are not bothered about your money, why do you expect someone else to be? Stop quote. And your conclusion here is that the smart thing for anyone to do is stop buying LIC"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:45.160",
+        "message": "policy. Yes, I mean, you know, because one, you don't know what is inside that black box, two, you don't know how your money will be used. And see, if you so I'll give you a very simple example. Now, LIC has stakes in all the 20 public sector banks. And it owns one public sector bank. So there are 21 public sector banks, it has stakes in 20 and it owns one. Now, you know, public sector banks are going through a very bad phase right now. And nobody really knows where all that will end. And LIC as a major owner of almost all these banks is already suffering and will probably suffer more in the years to come. So you know, there is a gentleman called K.C. Chakraborty, who used to be the deputy governor of RBI. Before that, he was the CEO of Punjab National Bank. And he, you know, in an interview some time back said that, you know, the bad loans of Indian banks are 20 lakh crore. And the declared bad loans as of now and as of March 31st, 2018, were around 10.35 lakh crore. So, you know, we still don't know where all this will end. So LIC anyway, as a major owner of these banks, is in a huge mess. On top of that, you know, if you start getting it to rescue all these, you know, island FSS of the world, I mean, you're really taking the policyholder for a one big ride. And policyholder, poor guy, I mean, you know, he spends more time figuring out which mobile phone he wants to buy, but he's just happy handing over money to, you know, any LIC agent who pops over, you know, to be invested because LIC is government. But you know, you should remember that, you know, government also has limited resources. I mean, government did not come to rescue everyone who got screwed in with the Unit Trust of India. I mean, they did come up with a rescue plan, but it was a limited rescue plan."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:38.920",
+        "message": "So all these factors have to be kept in mind. So let me turn to you, Ashutosh, with a question of principle, which is, should such company be bailed out at all? I mean, like you were saying before this, that this is a classic case as 2008 was, for example, of profits being privatized, but losses being socialized. You know that if a company makes profit, they enjoy the benefits of that. But the moment they go down, oh, then the government jumps in taxpayer money or public sector money is put into that. And that creates what economists call moral hazard. They change the incentives of the game because in future also, that means that companies can afford to invest unwisely and behave badly knowing that the upside is unlimited. But the downside is none because they'll be bailed out."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:41:23.440",
+        "message": "Yes. And I think what you're seeing in financial markets is essentially this bogey being raised that the ISF is OK, but this will have repercussions on the entire financial systems. You've already seen share prices of some NBFCs fall 40, 50, 60 percent, that this will create a systemic issue. And I have some sympathy to that view that there is a risk to that. But even if you compare it to 2008, in 2008, many of the top 10 financial institutions in the US were in trouble. We are currently nowhere near that threshold being built. None of our banks are in trouble. None of the large NBFCs are in trouble. None of the large insurance companies are in trouble. So even if one were to say that we are staring at a 2008 kind of a scenario and that requires a bailout, we are nowhere close to that threshold being reached. So I think as of now, at least, there is absolutely no question of why an island FS or any of the NBFCs which didn't do their asset liability management in place and are currently struggling should be bailed out. In the last five years, they enjoyed benefits of low interest rates where they could borrow short term and report fantastic profits. And now that the tide has turned and sort of you have to take it on the chain. Were those low interest rates a problem to begin with? I don't think so. Okay. I think the problem was that people assumed that, I mean, and this happens in every cycle, people assume that low interest rates will continue forever."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:42:38.000",
+        "message": "Right. Sort of people don't assume that things are cyclical and think and eventually sort of,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:42:42.480",
+        "message": "I mean, as they say in financial markets, the safest statement to say is these two shall pass."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:42:47.080",
+        "message": "Nobody wants to say that. So, you know, this is very interesting. I mean, I just remembered a line which John Galbraith wrote in one of his books. He says that in America, and I'm paraphrasing here because I don't remember the exact line. He said in America, the only socialism is the socialism for the rich. So you know, the same logic applies to financial markets. You know, when things are going well, you know, you'll have all these bankers and, you know, industrialists and everyone talking about free markets and you know, the benefits of capitalism and but the moment the tide turns, you know, everyone wants to sort of run back to the government. And it's interesting. So I was again, you know, reading this piece in Business India, and they have these, you know, all these, you know, so called experts who keep getting quoted in these magazine"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:33.680",
+        "message": "articles. I love the way you say so called experts, because you're also an expert."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:43:38.760",
+        "message": "But I don't get quoted in magazine articles. So we should change that. No, I'm what I'm what I'm trying to say here is so I'll just read out a few quotes here. And I'll not name the guy because it's not fair on that person, because everyone else in the market is also saying the same thing. So there's one, the government should move fast. It's a company specific problem and should not be seen as an industry problem."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:43:57.560",
+        "message": "So he's basically contradicting himself here."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:43:59.680",
+        "message": "You know, one is saying it's not a big problem, but the government should move. Because if the government moves fast, then it's easy. You know, the private sector does not have to sit together and solve the problem. Okay, there's another guy who says I'm hopeful about the government taking a keen interest and moving fast to take necessary steps to avoid further pain in the system. You know, the point is, unless there is pain in the system at certain points of time, the system will never get cleaned up. You know, the classic example here is, there is a comparison that's made between California and you know, Baja California, which is a state in Mexico. So in California, forest fires, essentially what they do, the policy is that every fire in a forest has to be stopped. Okay, even the smallest fire. So what that does is that California does not have small fires. What it has is big fires. Now compare that to Baja California, where you let these small fires burn. Okay, what that does is, you know, all this dry shrub and everything that has accumulated that burns off. So they don't have big fires. So if you were to use that analogy for, you know, financial system or capitalism, so you need these periodic small crises to make sure that there is no bigger crisis."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:45:25.040",
+        "message": "That's a brilliant analogy. And this is sort of the anti fragile concept that Taleb talks about. And I think and sort of where it sort of goes back to is that if you don't inflict losses today, it sets up more risk taking behavior down the line and sets you up for a bigger"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:39.000",
+        "message": "crisis later on. Because everybody assumes there is a put option. This kind of shit gives capitalism a bad name. It's one of the fundamental tenets of capitalism that if someone fails, let them fail. It's a lesson for everybody else and it changes incentives down the line. But here what happens is if you keep rescuing these big boys, you create moral hazard, everybody feels or you know, all the other big boys say, hey, we are too big to fail, we'll continue to behave badly, we'll do whatever the hell, government will come to us."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:46:03.720",
+        "message": "And this doesn't allow market discipline to work. Exactly. I mean, the reason why nobody paid attention to Island Affairs financials is because people"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:46:09.800",
+        "message": "thought it will not go bankrupt."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:46:13.320",
+        "message": "But the moment people feel that if somebody is going to go bankrupt, and there will be no bailout, then before putting my money, I better keep a close eye on what this company is up to. So in a sense, it is important for me to play discipline to believe that there is no backstop"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:46:26.280",
+        "message": "by the government."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:46:27.280",
+        "message": "So it's sort of it's wonderful for the entire system to be a bit more sort of become a bit more conservative and discovers that you should let companies fail."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:35.240",
+        "message": "So supposing the government does that, supposing tomorrow, no, no, no, I'm building a thought experiment. Oh, so supposing tomorrow, Modi ji's office calls Vivek and says, hey, come and advise us and he says, hey, do nothing about ILNFS. God, I have to keep saying that ILNFS then and he says, okay, do nothing. And they say, okay, we won't do anything. How would that scenario normally play out?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:46:58.760",
+        "message": "Can I make an analogy here? So, so basically, you know, someone did some research in football. And they realized that if the goalkeeper stands straight, when a penalty shot is being taken, instead of jumping left or jumping right, he has a 30% chance of stopping the goal, which is a pretty good percentage. The point is, the goalkeepers also understand this, they're not like exactly idiots, but they still jump left or right. Why? Because, you know, there's a 30% chance. Now, imagine you're standing in, you know, at the center and the ball goes towards your left or your right and you don't jump. What is the impression that gets? You're not trying. He's not trying, he's not doing anything. So do nothing is never, you know, even though it's a great thing to talk about, it never really happens. Because I mean, this was something that Dr. Vivek Reddy, who was the governor of the RBI, told me once, and I sort of had gone to interview him and he said, beta, do nothing is never a strategy. You have to do something, you have to be seen to be doing something. Which is where this do nothing thing goes for a toss."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:48:19.160",
+        "message": "So there's a famous... You don't have to sort of go that way. I mean, for example, when companies currently go into distress, we have a bankruptcy court, bankruptcy regime to take them to bankruptcy. They need certain handholding during that process. Somebody else takes over, runs it, sort of, it's sort of an ICU sort of process. And we had a similar concept for that called as the FRDI bill, which is supposed to do that for financial firms. But that bill never got passed because the bogey that was created was that it had a clause that depositors' money would be converted into equity at some stage of point. But that bill essentially provided a framework wherein financial companies which get into distress, the way to resolve that by taking them into ICU and either selling of them in pieces or liquidating them or that. And this was this year, this bill was supposed to be passed this year. So in a sense, if we had done that, if our politicians had thought clearly and thought of what the big picture was, we would have had legal framework through which to take IL&FS. There would have been no government money involved, and they would have been town bound. So that law gives 12 months timeframe in which to get the company out of distress and would have had a proper way of solving that problem. But because our politics is so muddled, we now have no legal way. And hence we have to go through this supervising the board, new board and all of that."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:49:34.080",
+        "message": "And essentially, we don't know what the new board, what will the poor guys do? I mean, Uday Kotak already has a day job."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:49:40.440",
+        "message": "Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:41.440",
+        "message": "I mean, he has a huge bank to manage. And why did he take this up?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:49:46.040",
+        "message": "I mean, see, after I say, I guess, you know, after a point of time, everyone in the Indian financial services business wants to be like Deepak Parekh. You know, you you're not just an institution builder, you also you're an institution, you're not just an institution builder is what I'm saying. You also want to sort of, you know, see, be seen doing something for the country, the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:07.640",
+        "message": "elder statesman."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:50:08.640",
+        "message": "You want to sort of protect yourself as something like that. So so he has a day job, right. And also the fact that all these directors are new, so they really don't have any insider information. They really don't know what was happening there. So I'm not really sure as to, you know, this 30 day deadline, I think by 31st, they have to submit something to the National Company Law Tribunal. I mean, what will they do in 30 days?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:33.200",
+        "message": "They wouldn't even know the names of all the subsidies. What are the options open to them? Like I think Andy Bloomberg, if I'm not mistaken, Andy Mukherjee in his Bloomberg column, basically spoke about not putting any taxpayer money in but having some of the companies."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:50:44.240",
+        "message": "See, what will happen is, see, that's not so straightforward."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:46.560",
+        "message": "This is the problem, you know, Andy works out of Hong Kong. So I mean, honestly, I mean, I love what he writes."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:50:55.120",
+        "message": "So see, he said, you know, you should sell the engineering and construction company, which was formerly Mitas. Now, the problem is, you know, the moment you start doing that, you will obviously not, it will be a distress sale. Okay. Now, a distress sale in India is not so straightforward, because some politician will catch on to it and then there will be some controversy, you know, spun around it. So I mean, if you look at what has been happening to banks, and you know, the companies that they are trying to sell or only you know, this, I think Tata have bought Bhushan Steel. And that's about it. And then there are, you know, nothing else has really... So big deals have moved so far."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:39.440",
+        "message": "So what you're really saying is that this is not about the economy, it's about the political"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:51:42.760",
+        "message": "economy."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:51:43.760",
+        "message": "Obviously, I mean, you can't just say, yeh karna chahiye, woh karna chahiye, you got"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:46.800",
+        "message": "to see what is likely to happen, because even politicians have incentives."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:51:50.280",
+        "message": "Yes. And even the directors who are now in place who have incentives, because they are bankers,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:51:54.800",
+        "message": "some of them, they are connected to financial companies. And there are some... And somebody would have to take write-offs."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:51:59.080",
+        "message": "Bureaucrats... At the end of the day, somebody will have to take write-downs. Now, who will take write-downs?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:52:03.440",
+        "message": "How much of the write-downs will be taken? And the thing is, now that you know, people are getting into sort of getting more and more information now. So I read this piece, which said that around 15,000 crores will have to be written off. Now, I mean, and this is just, you know, when people have started looking at a very, you know, not in a very detailed way. So once, you know, people are able to get into the books and everything, I mean, you"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:52:31.960",
+        "message": "really don't know what is actually there."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:52:34.640",
+        "message": "Even if there are gold-plated assets out there, for example. There are huge... gold-plated assets is something that, you know, society loves... What is a gold-plated asset? So gold-plated asset is basically something which is not worth the price that is essentially, you know, there on the balance sheet. Right. So it's like something might, you know, you might show something to be priced at a thousand crores, while it might be worth only around 500 crores or anything like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:03.040",
+        "message": "So let's move on for a moment from the narrow issue of IL&FS, so that it's the last time I have to say this. And Ashutosh, let me then put to you a broader question about leaving for the moment political imperatives out of the way in the political economy aside for the moment. We'll come to that after we speak about this. But if there was to be structural reform of the banking sector or of the financial sector to prevent such problems in future, what kind of structural reforms would you look at? For example, when we were discussing this earlier, you sent me a fairly detailed mail. And you know, one of the questions that you posed is, should there be so much credit outside the banking sector? Should there be this regulatory arbitrage, you know, is reducing some of the restrictions on banks and allowing easy entry and exit in case of banks and having banks as a sole lending institution a better policy?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:53:52.760",
+        "message": "Yes. So I think the philosophical question that I ask is, if I'm a bank and I want to give a hundred rupee loan, I shouldn't be able to ask myself, should I give it on my books or my hundred percent subsidiary NBFC? Right. So I think those sort of questions, which essentially I am picking and choosing which regulatory environment to choose shouldn't be there. So a one single rupee loan shouldn't have two different implications in terms of regulation based on what legal entity is giving that loan. So I think we should start with this thing that the regulatory environment should be a function of what risk we are building in. And that risk cannot be a function of what is the legal status of you, of whether you are an NBFC or a bank or a company or an individual. So we should start by that. I think the other issue is whether we should have so much of restrictions on banking in the first place. And should we have one single kind of banking which we currently have? So every bank in India does pretty much the same thing. Should we encourage people to come with innovative structure? Should there be a bank which says, I don't want to raise deposits, I only want to give loans? Should there be allow banks which say that I only want to give take deposits, but I don't really want to give loans? That's not really my core strength. Should there be banks which say that I only want to facilitate payments or I only want to run a credit card business? And currently laws do not allow that. Every bank has to give 40% of its loans to what is called as priority sector. 20% of their branches should be in unbanked rural areas. So essentially you have only just one single business model. And that is what leads to this regulatory arbitrage within BFCs. So when Raghuram Rabjan came in in 2013, the first press conference he said, he said, we'll have on tap banking. We are sort of five years down the line and we don't have on tap banking. What is on tap banking?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:27.520",
+        "message": "So anybody can come and apply for a banking license and they will get that license."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:55:31.320",
+        "message": "We only had a few banks being licensed in 2013-14 sort of that first wave and post that"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:55:37.120",
+        "message": "we've not had a single one. It's like, you know, one day RBI wakes up and says, okay, we'll give bank licenses. So on tap would mean that I wake up any morning and I feel okay, I am now in a position where I should be able to get an RBI license."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:49.280",
+        "message": "And then you're held accountable by the market. But that doesn't..."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:55:52.320",
+        "message": "And the second, I think the issue... I just want to make one point."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:55:55.560",
+        "message": "So, you know, he was basically talking about the fact that how, you know, there need to be different banks doing different kinds of things. Now, this is something I really, you know, firmly believe in. And if you look at the current banking crisis, the one learning that, you know, that has stayed with me is that, you know, all these public sector banks, at least the smaller ones, I mean, you leave out the top five, you leave out, you know, SBI, Bank of Baroda, Punjab National Bank, Canara Bank. But all these small banks, you know, the Dena Banks and the Bank of Maharashtra's of the world and the Indian Overseas Banks, they should borrow money and they should stick to retail lending. I don't think, you know, it's they do not have the expertise to sort of carry do project finance that should be, you know, totally taken out of the equation. Because, you know, one is that the second thing that will happen there is that, you know, all these politically motivated lending, I mean, the moment you can only do retail lending, the politically motivated lending will go out of the window."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:57.000",
+        "message": "And we've spoken about this in a previous episode on defaults and stuff."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:57:01.200",
+        "message": "And so the other thing that it links to is that the system would be far better if we had a large number of small banks. Right. Whereas our focus today is on getting big institutions. Which is very stupid. We are merging banks together rather than saying, okay, this particular bank is doing nothing, let's just close it down."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:15.960",
+        "message": "And if you had on tap banking, you would have a lot of small players, you would have a lot"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:57:18.760",
+        "message": "of innovation. A large number of different banks is what contributes. In any industry, if you had differentiated producers, that is what leads to consumer welfare, not just a large number of monolithic players. They don't add to consumer value beyond a point. I mean, just Pepsi and Coke don't add to value. But a Pepsi versus a Tropicana, for example, adds to consumer value because you have choice, because you're different. I think we forget that. And we have all banks just doing the same thing. Same kind of credit card, same kind of deposit product, same kind of loans, same interest rates. There is just no differentiation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:48.600",
+        "message": "And the reason for this is regulation."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:57:49.600",
+        "message": "This is the regulation. There is no flexibility that banks are allowed to."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:53.080",
+        "message": "So I can't do something different. So now getting to the question of the political economy on this, what are the interest groups that argue in favor of the status quo that prevent these changes from coming about?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:58:05.080",
+        "message": "I mean, the big banks themselves."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:07.720",
+        "message": "So the big banks are powerful interest groups who want to maintain the status quo, want"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:10.840",
+        "message": "to maintain the market shares? I think the irony in India is that if you look at the big private sector banks, they somehow dominate every facet of financial services. They have the largest asset management companies. They have the largest insurance company. So in a sense, they have become oligopolies in themselves."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:58:26.640",
+        "message": "And that creates..."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:28.560",
+        "message": "And this is something that runs across all financial services. It's not just in banking. It is there in mutual funds. It is there in insurance. It is there in pretty much every facet of financial services that under the garb of investor protection or consumer protection, you essentially reduce barriers to entry."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:42.720",
+        "message": "And this speaks to what I sometimes say that free markets don't mean public sector bad, private sector good. What happens and what we can see happening here as well is that the top players in the private sector will always want to protect their turf and will be hand in glove with the government to use state power to, you know, have regulations of this sort, which prevent a level playing field, which prevent easy entry and competition. And therefore, these are actually not free markets. Even the private players in this are not supporters of free markets and are acting contrary to"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:59:12.680",
+        "message": "these principles."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:59:13.680",
+        "message": "Which is understandable."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:59:14.680",
+        "message": "I mean, they are being rational. It's the job of the regulator to say that I hear you, but this is not in the interest of the larger society or what I am tasked with."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:25.360",
+        "message": "And so I'm not going to agree with what you are saying. But then there's a vicious circle that if the regulator is a government, the government have their own incentives at play. For example, who is going to fund us in the next election? How do we get back to power?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:59:36.520",
+        "message": "And then that eventually there's a center play between money and power and we are caught in a vicious circle. And more than that, I mean, if you look at it, the statutory liquidity ratio, I think is still 20 percent or 19 and a half, whatever. So almost, you know, by law, one fifth of the deposits that get collected need to be invested in government bonds. So it is in the government's interest to have one kind of banking because, you know, you have all this money coming in. And when all this money gets invested in government bonds, obviously interest rates are going to be low. So and the government is, you know, you and I might want higher interest rates on our deposits, but the government loves low interest rates. So that is it's not just political funding. I mean, it just goes back to the core of how, you know, the banking is structured in India."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:27.240",
+        "message": "So you know, I've taken a lot of your time and gained a lot of insight from this episode. Let me end by asking both of you again, a hypothetical and difficult question that what is in your minds, if let's say that you are in 2028, what is the best case scenario that has happened in these 10 years in terms of the financial system? And what is the worst case scenario? How bad can things get? And if there is any hope, where does that hope come from?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:00:53.080",
+        "message": "No, I mean, I don't think everything will go wrong. I mean, ultimately, you know, things have a way of sort of sorting themselves out. But in the worst case scenario, as you know, Dr. K.C. Chakraborty said, you know, bad loans of banks will be at a level of 20 lakh crores. That indeed is a lot of money. Having said that, there are still I mean, if you if you look at some of the private banks, I mean, banks like HDFC and Kotak, which are still pretty reasonably run. So, you know, people, depositors always have an option of sort of banking with these banks. And also, you know, as Ashutosh said, I mean, we need more small banks. I mean, once you increase competition, it obviously, you know, means more value for the end consumer. And it also means that, you know, if one of the small banks sort of goes bust, you will be able to limit the damage. I mean, take like, you know, I'm just sort of coming, you know, this is just a hypothetical example here that let's say a bank just decides to do a credit card. So if they have expertise in that area, what will happen over a period of time is that that they will obviously one is that they will offer a slightly higher rate of interest to the depositors. And two, because they have, you know, expertise in that area, and because the defaults are probably slightly lower than the overall market, they will also charge a slightly lower rate of interest to their creditors. So the point is, unless you know, you sort of allow banks to innovate a little and experiment with a few business models. And obviously, I mean, you know, And let them fail when they fail. Yes, let them fail. But to the extent that, you know, depositors money is not wiped out. Because you cannot be experimenting at the cost of, you know, so that sort of mentality needs to seep in."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:02:52.640",
+        "message": "But then, you know, I mean, If I can give you one example, I grew up in a small suburb outside Bombay. Sort of this was in the mid 1990s. There were no private sector banks, there were only public sector banks. And we had a couple of cooperative banks, and they would remain open from 7.30 in the morning till 11 o'clock, and then open again from 5.30 to 7.30. Wow. The cooperative banks? The cooperative banks. So just six hours? Yes. So the staff might go back home or the what I'm not privy to, but you land at the train station because that's how most people commute. And the branch is close by, you can do your banking business, go back home. Whereas most government offices, government banks, for example, would run from 9 till 2 or so, when most people who travel to Bombay cannot access the banking system. So that sort of innovation is something that only can come when you are not in that same structured bureaucratic sort of mindset. And this is a wonderful consumer, they would go to every shopkeeper and collect deposits. And BSU banks would just sit and sort of expect that some people will come and give money."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:03:52.400",
+        "message": "Which is what Sahara also did, by the way."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:03:55.400",
+        "message": "So it's not so straightforward. No, but I agree with him."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:03:59.040",
+        "message": "Because, you know, if you remember in the, you know, probably 20, 30 years back, people used to have multiple bank accounts. I mean, in fact, some of my older relatives still have 10 accounts in public sector banks. So this is essentially a holdover of an era where, you know, you had to ensure that you had access to your funds on almost all days of the week, at different points of time. So there is one bank which is open on Saturday. So you know, you sort of have an account there. There is one which sort of opens at 11 and closes at 3.30. So people did all these, you know, machinations, and then they opened accounts at different."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:33.160",
+        "message": "But now you don't because you have an ATM. So now answer the second part of my question, which is what's your source of hope for whatever best case scenario can possibly happen?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:04:41.400",
+        "message": "I think, see, my source of hope is the fact that, you know, RBI, despite all its problems, is actually decently run in comparison to, you know, other government institutions in the country. And up until now, we've had decent, you know, governors. And even though, you know, they might have got there because they sort of, you know, the government wanted them to, but once they are there, they usually, you know, let's say seven and a half to eight out of 10 times tend to do the right thing. So if that continues, and if that position itself is not compromised, I have hope."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:20.800",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:05:21.800",
+        "message": "Ashutosh? So my hope and worry essentially stem from the same thing, which is the mess that PSU banks find in. I mean, there are two paths that we can take from here. One is that we do nothing. And PSU banks continue to shrink gradually, but their costs don't shrink. There's a big labor force. The cycle will turn at some point of time, there will be good days, which will come, achche din will come for some time at least. They will, their profitability will improve. And then again, a downturn come, which will be worse possibly than what we have currently. That's the stage in which we do nothing. We just continue, government will give 10,000 crore, 15,000 crore capital every year that is needed. They will sort of just survive, muddle around, and sort of that, and the sort of flamboyant and the better and private sector banks will continue to go at their expense. The upside case is that we actually use this opportunity to reform our public sector banks. Either make them do things which they're good at and prevent them from doing things that they're not good at, which is like say, project loans or some of those things. And we put in place a structure whereby political interference is minimized. And in that sense, public sector banks are at least able to hold on to some of the areas. I mean, to be fair, even now, there is an amount of trust that people have in keeping deposits with public sector banks, which some private sector banks are able to, but not all private sector banks. I much rather put my money in an SBI rather than most other private sector banks for a lot of people in the interior parts. Can you leverage that strength that they have, prevent some of their bleeding on the asset side, and at least they are able to generate a bare minimum, minimum return of capital that they are not feeding off taxpayer money? Because the next downturn might be worse than what we have seen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:57.560",
+        "message": "Vivek and Ashutosh, thanks a lot for coming on the show and giving me so much insight. I learned a lot today not only about ILNFS, but also what NBFCs and the banking sector"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:07:08.080",
+        "message": "in general. Thanks, Amit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:10.080",
+        "message": "Thanks. Good to be here. If you enjoyed listening to the show, you can follow Vivek on Twitter at call underscore Vivek. Also head on over to Amazon and buy his easy money trilogy. You can follow Ashutosh at a Datar, a Datar and you can read his pieces on Pragati at think Pragati.com. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. And you can browse past episodes of the scene and the unseen at cneunseen.in or thinkpragati.com. Thank you for listening. Give me a word. Or any line."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:07:44.640",
+        "message": "Anything can happen. What did you say? Cap. Okay. Move it. Move it. Move it. Move it. Move it. Move it. Move it. Move it. Move it. Move it. Move it. Move it. Move it. Kind of great. Ji faqrakti? You interrupted. I was dressed out. I was dressed out. Okay. Short. Keep going. Sorry. All the time. Why? Cause if he didn't, everyone around him knew exactly what he was thinking. They knew that he was wondering how the girl in the yellow churidar would look without clothes. They knew when he was calling the boss a rotten tomato. They knew everything. But how did all this happen? This is the story. And you gave me this story by giving me the starting word. This is the Croc's Tales. Words are yours, story is yours. Catch the stories on Monday and Thursday on the IBM website, app and anywhere you get your podcasts from. See you soon. If you have any doubts in your life that no one can answer, then we have made a special show for you. It's called Sunloji Surloji. On this, I Pawan Kumar, your churidar, welcome you so that you can get a better understanding of the world. You can ask questions to Sonu. Yes, I am Sonu. Hello, please to make your meeting. I am a super reality celebrity or there is no problem in the world that celebrities can't solve. So I will solve all your problems and solve them. So yes, don't think, listen to Sunloji Surloji every Wednesday. That is Wednesday. Please like us, share us, comment us. If you have any problems, tell Sonu. Sonu can solve all the problems. I am a super celebrity."
+    }
+]

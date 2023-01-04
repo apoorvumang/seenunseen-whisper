@@ -1,0 +1,232 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Welcome to the IBM Podcast Network. It's nine o'clock on a Saturday, the regular crowd shuffles in. There's a babu sitting next to me, from the excise department of sin. He says, son, can you give me a bribe, please? I'm not really sure what it's for. There are so many rules that I use as my tools. Pay me up if you don't want a war. La, la la, di di da, la la, di di da, da dum. Give me a bribe, you're the restaurant man. Give me a bribe, tonight, we're all in the mood for some chai pani, and you've got me"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:06.760",
+        "message": "feeling all right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:10.000",
+        "message": "Now you might think you can get away, if you simply follow the law. Let me light up your joint, because you're missing the point. While I'm at it, let me break your jaw. Our laws, you see, are contradictory, there's simply no way to comply. All regulation is just exploitation of my power to bleed you dry. Give me a bribe, you're the restaurant man. Give me a bribe, tonight, we're all in the mood for some chai pani, and you've got me feeling all right. You've got me feeling all right."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:56.560",
+        "message": "Welcome to The Seen and the Unseen, our weekly podcast on economics, politics, and behavioural science. Please welcome your host, Amit Verma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:07.120",
+        "message": "Welcome to The Seen and the Unseen, I'm Amit Verma, and my subject for today is restaurant regulations. All regulations have great intentions, but many often have terrible outcomes. Restaurant regulations are a great example of this. There are many of them, some of them contradict each other, and they're basically just enablers of rent-seeking. That is, they're nothing more than an instrument for government inspectors to extract bribes or hafta out of you. To discuss this subject with me, I have in the studio a close friend of mine, Madhu Menon. Madhu ran a great restaurant in Bangalore called Shiok for seven years, and is a well-known restaurant consultant today. He's experienced restaurant regulations firsthand, and I couldn't think of anyone better to talk about the subject. Madhu, welcome to the show. Thank you for having me. Madhu, you ran one of my favourite restaurants called Shiok in Bangalore for seven years, and I really enjoyed eating there, especially your infamous blogger's beef. So tell me, what was your experience with government regulations in all these years?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:13.240",
+        "message": "First of all, Amit, I don't want you to get me in trouble for mentioning international dishes like beef. But yes, that was a good dish, and I made it just for bloggers, so hey. I know a lot of people think that restaurants are all about serving good food, and of course that was my favourite part in the kitchen, but a major chunk of my time was actually spent being compliant with government regulations, of which there's plenty, and there are lots of departments, some you don't hear of until they come knocking on your door. You have departments like the police, the labour department, the BBMB, which is the municipal corporation, fire requirements, and a whole lot more. And all of these have licences that need to be renewed, all of them have inspections that can happen at any time. So yeah, there were a lot of compliance issues from time to time, and not because we weren't compliant with the rules, it was just that some of them were so vague that it was completely left to the interpretation of the official in charge."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:08.840",
+        "message": "So tell me something, in all the time that I've known you, and I first met you when you were actually running your restaurant, and you were obsessive about giving your customers the best service and the best value for money that they could get, and you had so many loyal customers and it was a great restaurant. So you already had all the incentives you need to deliver on all those fronts. Now one would imagine that government regulations, why are they needed then?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:31.880",
+        "message": "You know you're right, the best way to ensure that a restaurant keeps running is to make sure that customers come back. And the only way you'll do that is if your food is served in a hygienic fashion by service staff who know what they're doing, and the food of course has to be good quality. I think a lot of the regulations, the scene effect, it's noble intent that you comply with safety standards, that you comply with business standards, that you're not running an illegal business, and that someone has actually signed off on all the checks and measures for you to make that happen. But that's just the scene effect. What are the unseen effects? The unseen effects unfortunately in this country is that laws are written to be very vague often. They're often left to the interpretation of the officials themselves. And there are lots of incentives for them to actually come knocking on your door, rent seeking really, and or maybe grease bombs and find some flaw that you seemingly have overlooked but is such a trivial issue. Or it's actually not an issue at all. It's just that someone's made it up and made it out to be an issue."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:38.180",
+        "message": "So Madhu, can you give me some examples of specific regulations and the unseen effects"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:42.880",
+        "message": "that they had? Right. Let me explain to you something that's very close to my heart and that's making cocktails. Now we can all agree that someone who serves spurious liquor is actively involved in harming other people. So you want to prevent adulteration of alcohol, a noble intent. But when you put in a rule saying that all alcohol must be pure and not adulterated, you also introduce the possibility of interpretation and that interpretation sometimes that a cocktail is adulteration. Now that's ridiculous. Or say a chef tries to be a little more creative and he decides to make a gin that's infused with a few herbs and spices. That can be adulteration and that's ridiculous again. So what do you do? It's completely up to the excise inspector to come along and if he says this is adulteration then well he can fine you and that fine can be an arbitrary amount or he can say that you have to cease operation and you have to then negotiate with him on how to get back."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:45.320",
+        "message": "Can you appeal against these decisions or are you appealing to him himself?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:49.840",
+        "message": "That's the thing. You can appeal but your appeal is heard by the same person who's actually fining you. That should be fine. That should be fine. Or you have to take it to court. Now imagine what happens to a restaurant if you had a shutdown for a couple of months and appeal a certain issue like your alcohol is adulterated or that 30 ml of your stock was missing. These kind of things they create a perverse incentive for inspectors to come and harass you basically. So many of our laws the effect is that most officials just come around knocking on your door to make a little extra money and if they feel like they're short of cash on a particular month they can just come by and say hey look you're violating this law or that law and hey here's a fine and you eventually end up negotiating and settling for a smaller amount and people think okay hey this is part of doing business but look what happens you know all these bribes monthly payouts that you have to do all the cost of compliance it's a business cost and what happens in any business when there's a business cost it eventually gets added to the cost of the product that you have so just imagine it this way hundred rupees was the actual burger and the service that you're getting and 50 rupees is probably the cost of doing business."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:05.360",
+        "message": "So actually it's coming back to you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:07.600",
+        "message": "So it's eventually just hurting the customers hurting businesses hurting profitability it is hurting customers and it is creating a mess of paperwork that is simply not needed most of the time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:16.360",
+        "message": "Now another aspect of this is like recently a friend of mine was talking about the shutdown of illegal slaughterhouses in UP and I told him that listen you know you're using the word illegal in a wrong way the fact of the matter is that pretty much every single business in India is illegal in technical terms in terms of compliance because the web of regulations is often so convoluted that certain regulations end up contradicting others. So if you comply with one you're automatically breaking another you have you have any experience"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:47.600",
+        "message": "of that? Absolutely I can tell you okay no one will argue that say a fire regulation is needed right a fire safety is needed I won't say regulation let's say fire safety is needed that's a given and now what happens if say your building catches fire you have an entrance and say the entrance is blocked because of the fire. Fire regulations say you need an emergency exit and no one's going to oppose that that's a sensible regulation except that the excise law in Karnataka says you can only have one entrance to the premises. Why so that there is no pilferage or there is no introduction of alcohol through another entrance and that only one entrance can be monitored. Now what happens is that these two requirements are completely contradictory you cannot have two entrances and have a liquor license."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:33.040",
+        "message": "And therefore you end up giving a bribe to one or the other and probably both anyway"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:36.040",
+        "message": "because that's pretty much it actually there's a monthly fee that goes out to the excise office that is basically a way of telling them to look the other way because we all know that this is going to happen this it's simply logically impossible to achieve."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:50.240",
+        "message": "And some of the most absurd laws you know regarding restaurants are actually laws around alcohol because they also lend themselves to moralistic reasonings."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:58.480",
+        "message": "Yes, we're a funny nation. The state has a moral obligation to prevent alcoholism and tries to do things so that people don't get alcohol issues and stuff like that. So they have restrictions like not issuing any bar licenses. This is true in Karnataka since 1993 there have been no fresh bar license issued. So basically if you want to start a bar you have to buy a bar license from someone who's closing their bar which has resulted in the cost of bar licenses gradually going up to more than a crore. Imagine that that's the cost of acquiring a license from someone else who has it. And unfortunately for state the largest revenue for state excise actually comes from alcohol. So we have both no new bar licenses. So what do they do? They have no new licenses given and still keep alcohol sales going along. So they introduce laws like short lifting which means that if you run a bar you have to lift a minimum of 52 cases of alcohol every month. To put in perspective 52 cases each case is 12 bottles of say vodka. So that's 12 into 52 and that's the minimum you need to sell every month. If you don't do that they penalize you. So if you're a small restaurant or a medium sized restaurant that just wants to have a bar on the side as a service to make it a fine dining restaurant it's a completely unviable business model because the excise department penalizes you for it. And instead of just giving out new licenses right they could have done that. The population of Bangalore has more than doubled from 1991 and it's ridiculous that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:41.760",
+        "message": "they're not giving out any fresh licenses. And the original rationale for limiting bar licenses was we'll have one bar per X number"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:47.800",
+        "message": "of people and the population has more than doubled and they haven't. It was meant to be a limited number of licenses per number of people and that formula even that formula doesn't hold anymore. So even their twisted rationale for having that and think about why they had that restriction because if you had more than that you would encourage people to drink and like I said earlier the state makes a lot of money from alcohol. So these two are actually at odds with each other so they instead punish restaurants for not having sold enough liquor."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:19.280",
+        "message": "And it seems to me the regulation in the first place was a protectionist regulation. The interest groups behind it would have been existing bar license owners who would have wanted to restrict the competition and it's worked even better for them because not only have they restricted the competition the licenses have itself gone up so much in value."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:34.480",
+        "message": "Let me put that into perspective for you. I started my restaurant in 2003 and at the time this rule was still in effect and I actually bought the paper quote unquote as they say from another bar for about eight and a half lakhs. Of course I had to then pay a transference fee which is a government regulation and a name change fee. Again these are further avenues for making revenue both official and unofficial. That eight and a half lakh figure has now crossed one crore, it's 1.2 crores last time I checked and that keeps going every month it just keeps going up. That's 2003 versus 2016. So what is eight and a half lakhs then is 1.2 crores now. So that's a straight up a capital in investment of 1.2 crores just to start a bar."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:19.680",
+        "message": "And that's an artificial scarcity."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:21.000",
+        "message": "Absolutely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:22.000",
+        "message": "There's no reason for having that. And when someone actually invests that kind of money in getting a bar license they have no option but to pass the cost on to the consumer."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:28.840",
+        "message": "Absolutely. So if I spend eight and a half lakhs to get a bar license whereas I spend 1.2 crores now each drink of yours has that government tax added to it. So if you want to complain about high prices of liquor or food in a bar you know why it's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:45.480",
+        "message": "happening. And what then inevitably happens is that if the liquor at a bar is too expensive people who want liquor want it anyway they'll get it from elsewhere and there might be less safe sources you know and so on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:58.920",
+        "message": "It creates incentives for people to create adulterated liquor for sure. And that's how all these accidents happen. People are buying it from illegal sources and people are dying and it's to me that's disgusting."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:10.360",
+        "message": "Now I read a few years ago that when the Four Seasons Hotel opened in Mumbai they had to get more than 250 licenses including separate licenses for the weighing scales in the kitchen and in the bedrooms which sounded completely crazy and which sounded just absolute rent seeking. You give a lot of discretion to the government and then each regulation they'll pull out that much from you. In terms of restaurants how bad is it and is it something that just gets worse and worse? Can it possibly get better because why would governments give up power?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:39.680",
+        "message": "That's true. When you think about it right the idea of those weights and measures again noble thing that it is from a certified source and that the merchant is not cheating anyone except in your kitchen if you're on a restaurant you want those things anyway. You want to make sure that a vendor coming in saying that he's giving you one kilogram of broccoli is not giving you 900 grams."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:01.840",
+        "message": "So you have to have those. The best incentives come from the marketplace themselves."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:05.320",
+        "message": "People are looking after their own self-interest. And unless you're in turn selling broccoli by the kilo to customers which doesn't really happen in restaurants you don't really need to worry about portions being weighed accurately and sold. So I don't understand it at all. I don't expect the issue to get any better because it creates an entire ecosystem of officials who are making money from bribes and middlemen who act as consultants to facilitate inspections. The government does suffer from a severe shortage of inspectors. The labor department I think has less than 30 inspectors across the city and imagine each business that needs a shops and establishment act license which is a labor license they have to be inspected by these inspectors. So can you just imagine each inspector going each person has to do but 40 to 50 inspections a day. That's not humanly possible. So you might have to wait a few months for that to happen and your business can't run without it. They won't come and inspect unless your premises are ready. You had to wait months for them to come around. So what's the actual solution? The only reasonable solution is to expedite the issue and that is you pay a little bit of money. They come around in three four days. They inspect it. I put quotes on around inspect because well sometimes you can get health inspectors to come in and certify your premises without even having a kitchen ready because really what else are you going to do? So sure on paper they they've inspected the place and certify the place to say but that's no guarantee of anything perversely the people who are most likely to benefit from this are the dishonest businessmen. You know if you want to take shortcuts you know you just pay a little more money and someone comes and certifies without looking and hey it's fine you look the other way. There's no proper drainage system. Look the other way."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:57.320",
+        "message": "Pay him another $50,000. In a sense I've even heard the argument that because of this web of regulations compliance is impossible and therefore thank God for corruption otherwise the system would grind to a halt. Absolutely. An efficient government is the worst kind of government."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:11.320",
+        "message": "We have actually redefined bribery. Bribery used to be money you pay to get favors that were not usually possible. In India bribery is something that you'd have to do to get things that you are owed anyway which is just perverse to me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:27.200",
+        "message": "Which is crazy. I want to go back to something you said earlier on the show where you said that look if I'm selling a drink for a hundred bucks because of all the government regulations and the cost of compliance and so on that's 150 bucks I'm passing it on to the consumer which seems to me to be a massive cost to bear and I'm sure a lot of restaurants therefore at the margins either shut down or don't open in the first place purely because of the heavy"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:48.000",
+        "message": "hand of government. That's true Amit. I want to actually point out an interesting free market angle to this you know demand and supply like I mentioned earlier when you have a restriction on the number of licenses that are given out and it's artificially limited so there is an increase in demand from restaurants and bars that are starting up but there's only so many licenses when the economy booms and there are more restaurants starting up an interesting free market and I use free market ironically quote marks of course is that the cost of compliance also goes up in that all the money that you have to give also the amounts keep going up because hey look earlier there were 10 restaurants opening in a month now there are 50 everyone makes a little extra money so it's demand and supply in the bribe market as well. Madhu thank you so much for being on the show. Thanks for having me Amit. One more thing you should probably know and this will scare the living bejesus out of everyone did you know this bit of trivia that the excise department has limits on the amount of alcohol you can legally possess at home?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:49.360",
+        "message": "Are you kidding me?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:50.360",
+        "message": "At my own personal home? Absolutely. I mean again noble intent you know you can't run an alcohol business from home and guess how much that liquor amount actually is in Karnataka that is just 2.3 liters of whiskey vodka rum brandy or gin that means if you have four bottles of liquor sitting at home which almost anyone with a well stocked bar has you are legally breaking the law."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:12.640",
+        "message": "So if you have four bottles of vodka at home you are breaking the law? Absolutely. Madhu I am staying with you right now and I have looked inside your wine closet and you know something we need to get back home right now and do some serious drinking to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:23.000",
+        "message": "make you a law abiding citizen. Absolutely. Let's do this. It's 5 o'clock somewhere in the world."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:27.800",
+        "message": "Let's start drinking now. In this whole ecosystem of rules and regulations meant purely for the extraction of bribes there are two unseen effects 1. the high cost of compliance is passed on to customers and are more expensive as a result 2. many restaurants that would otherwise be marginally profitable don't exist at all and this robs us of choice. All in all the people who suffer are the consumers which is usually the case with most regulation on business. If you enjoyed this episode do hop over to the online magazine I edit Pragati at ThinkPragati.com and search for an article written by Madhu named No Tomato Left Behind. You can also follow Madhu on twitter at Madmanweb. Besides being a celebrity chef and a restaurant consultant he also does magnificent food and portrait photography. Check out his site BigShotPhoto.in. Also if you liked the introduction of this show the guitar was played by my intrepid producer Josh Thomas. We'll do more such stuff in the weeks to come. Till next week then bye bye."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:20:43.480",
+        "message": "Next week on the seen and the unseen Amit Verma will be talking to Vivek Kaul about right to education or RTE. For more go to seenunseen.in."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:53.400",
+        "message": "If you enjoyed listening to the seen and the unseen check out another show by IVM podcast Symbolified which is hosted by my good friends Naren, Chuck and Sriket."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:03.540",
+        "message": "You can download it on any podcasting network."
+    }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "Welcome to the IVM Podcast Network."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:05.000",
+        "message": "I had a bad dream the other night. I dreamed that I was in the middle of the Sahara desert all alone, dressed in rags, incredibly thirsty. When the dream began, I was aware that I had been walking in the desert for three days now without food and water. I was on the verge of collapse. Just then, in the distance, I saw a Coca-Cola stand. What a miracle! Could it be a mirage? I ran towards the Coca-Cola stand, stumbling twice in my hurry, fumbling over the sand dune that came in the way. And when I got there, I saw that behind the counter, there was a guy who looked just like Vijay Mallya, wearing a red cap and dark glasses. I asked him, can I have a can of Coke, please? Sure, he said, but you have to pay for it. I nodded. I had a hundred bucks in my pocket. How much is it, I asked. It's ten thousand rupees, he said. What? I shouted at him. I didn't have so much money. How can you charge me so much money? Isn't there a maximum retail price? He just looked at me and laughed. No, there isn't, you fool, he said to me. Who told you to dream about the Sahara desert? We are not in India right now, so no MRP. He started laughing, and that's when I woke up."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:21.000",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Verma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:35.000",
+        "message": "Welcome to The Seen and The Unseen. I'm your host, Amit Verma. And for you, my dear viewers, the MRP of this show is zero. MRP, as all my Indian listeners would know, stands for Maximum Retail Price. This is a price set by the manufacturer of a product above which a product may not be sold. What is the intention and the seen effect of this? The seen effect of a maximum retail price is that consumers are not cheated into paying excessively high prices by unscrupulous capitalists. So that's the seen effect of MRP. And the thing to note here is that while the existence of an MRP is mandated by the government, the actual price is set by manufacturers themselves. So it's not like the price caps set by the government that we have discussed in previous episodes, which inevitably lead to shortages. But even the MRP has unintended consequences and unseen effects. And to discuss them, I've invited a guest on the show. Prithviraj Mukherjee teaches marketing at IIM Bangalore. And before he gets started on telling us about the unseen effects of MRP, there's an important social science funda that he'd like to talk about."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:52.000",
+        "message": "Yeah, thanks, Amit. So what I'd like to start off with is by talking about the anchoring bias. Now, some of you may have already read about this if you've read Nobel laureate Daniel Kahneman's book, Thinking Fast and Slow. It is a very powerful bias. So let me just briefly explain in layman's language how this works. So one of the experiments that they did is that you get, say, a hundred people and randomly divide them into groups A and B. And these experiments were done in America in different contexts. So first, let me start with a non-price context. So what these guys did was divide people into two groups, A and B. Group A was asked, do you believe Gandhi died at the age of 40? Group B was asked, do you believe Gandhi died at the age of 144? Right? Now, remember that these are American people, not that familiar with Gandhi, but they've seen pictures of Gandhi. They know that Gandhi was old. So group A clearly knows that Gandhi did not die at the age of 40. So almost all of them answer no, unless you're really ignorant, you answer no. Group B knows that no human being has lived to 144. So they also answer no. So this is known as priming. Essentially, these numbers are to prime you into a certain state of mind. The next question they ask is, so at what age do you think Gandhi died? Now, here's the interesting bit. Group B, who were given a high number, gave an average death age of Gandhi much higher than group A. Now, remember that these groups were randomly assigned. The numbers also make no sense, right? So what the hypothesis was essentially is that even nonsensical numbers can prime you to make value judgments, judgments about things that we assumed previously that you would be rational about or you would have some knowledge about. Now, let's take this into a pricing context. Instead of Gandhi's age, imagine I show you a Coke bottle and ask you, would you pay 10 rupees for this Coke bottle? You're used to paying 30 rupees, so you say yes. Another group is asked, would you pay 100 rupees for this Coke bottle? You know that this is absolutely high, so you say no. And then I ask you, Coke bottle is a bad example because you have internal references already and I'll explain that. Imagine it's a new product, an artifact of some sort. You think 10 rupees is cheap, 100 rupees is too high. So in one case you say yes, in the other case you say no. The next question is, so what's the maximum you'll pay? Now you'll see that group A who was primed at 10 rupees is going to give a much lower value to that maximum price that they're willing to pay than the 100 rupee group. So essentially what the inference is that you assume that people know how to value things but they do not. Now this has far-reaching implications because negotiations are based on anchoring. Negotiations, things like, you know when, what do you say when juries award some sort of compensation? You see that people ask a really high number because that's actually an attempt to anchor the jury into giving a higher number, etc. If you're bargaining on something, etc. You can see your shopkeeper intuitively knows that anchoring bias. He's going to start at a high number, you start at a lower number and then you start going back and forth. So essentially this is the idea of anchoring. Now Kahneman and Tversky showed that this can be done with pure random numbers. Now this was a very very big deal. Remember that neither Kahneman nor Tversky were economists and their findings flew in the face of conventional economics and the idea of the rational man, homo economicus. And unfortunately Tversky died too early. But a lot of work in this line finally led to the Nobel Prize that Daniel Kahneman got. So now related to this idea is that, is the idea of reference price. Let's go back to the pricing example. So if you're used to paying a certain price over a period of time, you kind of get used to it. And this again kind of relates back to the anchoring bias. And so you're happy when there's a discount and you're disproportionately unhappy when the price increases. So there have been studies to show that, yeah, discounting marginally increases the demand. But if you increase over a certain reference price that the customer is used to, so essentially losses loom larger than gains, which is actually the theory that got the Nobel Prize, the prospect theory, which Kahneman and Tversky came up with. So, yeah, you're not too sensitive to gains, but you are disproportionately sensitive to losses. Yeah, so with this basis in mind, we can start talking about what maximum retail price is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:24.000",
+        "message": "Give me the history of the MRP. What is the purpose behind MRP? Why is India the only country that has it? And what is the intention behind it firstly?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:33.000",
+        "message": "Okay, so MRP means maximum retail price. As far as I know, India is the only country right now that has it. So there's a very nice article by Anupam Manohar in The Hindu of the Takshashila Institute. So MRP was introduced in 1990 as a proposed measure to safeguard consumers from unreasonably high prices. It is not applicable to loose food grains or anything like that or services. It is applicable to packaged goods, essentially branded goods, packaged goods, etc. So Dawood Basmati can have an MRP, but loose Basmati cannot. The idea being that you don't want a trader to charge unreasonably high prices, especially given that in many places you have what is known as a local monopoly. Even though there is competition, in a small village I might have a local monopoly and I don't want you to start price gouging because of that. So a Coca-Cola can, for example, has an MRP of 30 rupees, etc. The company that packages the good is allowed to set its MRP, but it has to print it on the packaging. And then it is punishable by law to charge more than MRP."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:02.000",
+        "message": "The retailer cannot charge more than MRP. What does the anchoring bias have to do with MRP?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:08.000",
+        "message": "So the anchoring bias comes in. I explained about how people are primed with numbers, right? So abroad, for example, let's say in the US or France where I was, people are used to paying a certain price and that kind of serves as the anchor or reference price in the long run. In India, since the price is explicitly printed on the packaging, it kind of serves as an anchor for you. So your willingness to pay is kind of determined by the anchoring bias, by the MRP. So you will be very sad if I go a little above MRP. So you might have experienced this when you go to a shop and the guy charges you more than the MRP. You are typically not happy. And you will be mildly happy when a discount is given on the MRP. So that's the relation of the anchoring bias to MRP."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:02.000",
+        "message": "And what are the unseen effects of the MRP? The seen effects is no price gouging and customers know what to expect and they don't get exploited. What are the unseen effects?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:12.000",
+        "message": "Yeah, so unseen effects can happen in many ways. One of them is that especially in remote areas again, so again let's take the example of a Coke bottle or say ice cream. Now you need to deliver the goods to the shop first of all. If you are in a remote area, the cost of that increases and sometimes is borne by the retailer himself. You might not have a reliable electricity connection which you need for refrigeration of course. So you might incur costs which do not make it economical for you to sell at MRP anymore. You might have to sell it at a price higher. In which case either you do sell it at a higher price which is often commonly observed or if there is a strict enforcement of MRP, you might end up not stocking certain goods. So this could have effects on the retail shelves in remote areas."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:15.000",
+        "message": "So effect one is essentially that because there is a price ceiling, if it's not economical for someone to sell it within the MRP, he doesn't sell it at all."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:25.000",
+        "message": "There is simply a shortage of... At all or he breaks the law. Or he breaks the law."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:30.000",
+        "message": "So for example, if I take an ST bus and I'm near Kolhapur and I get down at a store and the cost for him of getting the Coke bottle there are so high that he cannot possibly sell it profitably at MRP. Either he's breaking the law and taking that risk or there's no Coke bottle for me at all."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:44.000",
+        "message": "Exactly. That's exactly the point. So what the MRP is doing there is actually interfering with free market dynamics. So his profit maximizing price might be slightly higher. Now remember, unlimited price gouging is not possible. If this guy sells the Coke bottle at 100 or 200 rupees, nobody is going to buy it. But it might be economical for him to sell it at 35 instead of the printed MRP."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:07.000",
+        "message": "And people would gladly buy it at that price. Yes, yes."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:10.000",
+        "message": "And you also need to drink a Coke, etc. So that's the trade-off being made. The other thing is that think about a city, a crowded city area where there are hundreds of shops next to each other, small panwala, etc. Those guys actually benefit a lot because the MRP actually gives a kind of signal at what price you can charge. And this guy can tell the customer, look, I'm charging the MRP, I'm being fair. If the MRP hadn't been there, there might have been a price war where all of these guys would have either killed each other"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:48.000",
+        "message": "or gone out of business. But the consumers would have benefited eventually"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:51.000",
+        "message": "from lower prices, right? Yes. So from the consumer's point of view, I suspect that the average price being paid by consumers is high now. Because of the MRP? Because of the MRP. So your paying price is very close to the MRP. So at best, your shopkeeper might reduce the Rs.30 price to Rs.28. But the MRP is kind of like a fixed price which prevents it from going down to Rs.20, Rs.15, Rs.10, etc. So that each one trying to put the other out of business, the price war, the spiral doesn't happen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:29.000",
+        "message": "So if the MRP wasn't there, and let's say you have a lot of soft drinks stores at a beach, and if the MRP wasn't there, you imagine they would compete and the customer would get a good price. But here the MRP effectively cartelizes in terms of what is actually happening."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:43.000",
+        "message": "Exactly. There is a third aspect. There are actually four aspects that I'd like to discuss. Aspect three is that, you may have observed that if you go to McDonald's, Subway or Airport, they advertise soft drinks, Pepsi, Coke, etc. They do not put the price, but they put MRP. And now, of course, you are lulled into thinking that these guys, I'm at a posh place and I'm paying MRP perfectly fine, you order the Coke, etc. You'll be surprised to see that the same Coke bottle, which costs you Rs.30 at the Paanwala store, now has a printed price of Rs.60."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:23.000",
+        "message": "So Coke is allowed to set different MRPs for different outlets?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:26.000",
+        "message": "Yes, and there will be a small print which says this is only for certain outlets. Now, there's a history to this, actually. So MRP violation, of course, is very common. And especially at airports, if you remember from, say, eight or nine years ago, you would see that MRP was being regularly violated. The MRP was still Rs.30 and they were selling it at double, etc."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:51.000",
+        "message": "Causing much middle class outrage."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:53.000",
+        "message": "Much middle class outrage, etc. And this was blatant violation. And the double MRPs didn't exist at that time. So some tax officer was overcharged at Chennai airport, and he got so angry that he ended up fining them Rs.80 lakhs, the shop. And after this, of course, now it becomes unprofitable, as I said, to sell at the airport because, you know, large licensing fees, etc. happened. So the way to get around this was that brands decided, and lobbied with the government, to have different MRPs. One for the posh outlet and one for the common man. I find this kind of hypocritical, in a way. So again, this is my value judgment. Because, see, you're allowed to sell below MRP at any point. So I have no problem if somebody says Rs.60 or Rs.100 is the MRP. But why not let even the small guy have the Rs.60 or Rs.100 MRP and then let the free market dynamics play out. So why should the guy in a remote place in Kolhapur still be forced to sell at Rs.30 when it's not economical for him. But the airport guy, for the same reason, is allowed to jack up the price. Absolutely. So having MRP for different segments is kind of farcical, in that sense."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:17.000",
+        "message": "What's the effect of this? That, you know, the airport has a higher MRP on the consumer, for example."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:22.000",
+        "message": "Yeah, so I can tell you from personal experience and a few other people. So before, I also used to see that the airport would say Coke Rs.60, which was illegal, and I would end up not buying. Recently what happened was once I went to a vending machine and not vending machine, sorry, one of those outlets at the airport, and it said Pepsi MRP, and this was like about five years ago. I was very happy. MRP, right? Let's buy it. So I buy it, and then I'm charged Rs.60. And I tell this guy, what the hell? And he says, look at the printed price. I'm charging you MRP. And I was only MRP. So, yeah, so it brings about a false sense of security, if I may say, that you are being charged a fair price. In my case, I actually took a look and then realized that this is the difference. But imagine you're having a large meal. Let's say you're a family of four, and you have four pizzas and four Cokes, for example, and this could happen at your Pizza Hut, Subway, etc. You see MRP, and then you don't really take a look at the bill, right? You assume that there are taxes, this, that, etc. And you don't really see that you're actually paying double the amount. So the guy charging Rs.35 on a Rs.30 MRP right next door to the McDonald's can pay a huge fine for breaking the law, while this guy here can coolly charge you Rs.60."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:51.000",
+        "message": "And the consumer doesn't even realize it because the term MRP is like a signal of reasonableness."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:56.000",
+        "message": "He can then relax and not... Either that or the consumer himself justifies to himself that Subway is somehow a higher place or a better place. So it seems reasonable, but actually it isn't."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:10.000",
+        "message": "Right. So we have three effects so far. Effect one is that there can be shortages because of the price ceiling. Effect two is that consumers, often if competition was allowed to play out, would get lower prices and therefore they are suffering. Effect three is that consumers can be lulled into a false sense of security because MRP is in that sense a signal for reasonableness for most of the middle class and they trust it implicitly."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:32.000",
+        "message": "Exactly. So what happens is, so to add to your point, just go to your nearest McDonald's, Subway or airport the next time and see the board. You will see Pepsi MRP. You will never see Pepsi Rs.60. They will always tell you that we are selling soft drinks at MRP. The word MRP will be written. So yeah, so this is essentially to lull you into the false sense of security."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:55.000",
+        "message": "Something to watch out for, especially in days where cash is hard to come by. Exactly. What is the fourth unseen effect you want to tell us about?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:02.000",
+        "message": "The fourth unseen effect, again, so remember that we have discounts on online retail. So in places like US, if I tell you that there is a 40% discount, it does not have that much information value simply because there is no published price. So people may say there is a 40% discount on the average price or the last price or something like that. But there isn't that much of information value as there is in India simply because an MRP is published. So you can very clearly say that I am giving you a 40% discount on MRP. So one artifact could be that companies themselves are inflating their MRPs. So I could inflate the price of a cell phone to be Rs.20,000 and then say I am giving you a 50% discount on Flipkart and selling for Rs.10,000. Of course, they are still making profits. I hope the company is. It's a different matter that Flipkart may not be. So this again has some peculiar implications. You can see it in garments, retail, etc. I don't know about you, but I don't buy clothes unless there is a minimum 30% discount or buy one, get one free or something like that. So in marketing terminology, this is called deal proneness. So you become so used to deals, so your reference price is no more Rs.1,000 for a T-shirt, but it's Rs.1,000 minus 30%, Rs.700. So these discounts on MRP are actually kind of making you deal prone and lowering your references. So what's wrong with being deal prone? From the consumer perspective, nothing. From the retailer perspective, it erodes brand value, especially higher brands. If you see luxury brands, never give deals, price deals at least. Once you start giving deals, you'll always have to give deals and there is no way up. What's the role of MRP in this? The role of MRP is that the deal is actually based on the MRP. So if you haven't been clever enough to inflate the MRP to a really high value, you could end up losing. The second thing is, yeah, deal proneness is not good for your brand value at all. So I don't know about other people, but you see Flipkart giving a deal every day and come on, it's not really a very good signal of a credible brand."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:42.000",
+        "message": "And would it be correct to say that these wild discounts that we get, these discount wars that happen on the online stores, would not happen if there was no MRP because the market would be competitive and the prices would be much lower anyway. So in percentage terms, you would not be giving such high discounts."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:57.000",
+        "message": "I would tend to agree with you. Of course, there needs to be more validation done on this. But yes, so if market dynamics were allowed to play out, we might have just seen prices being compared instead of deals being compared. So instead of going to X with 40% versus Y with 30%, I would go to X with 60 rupees versus Y with 70 rupees and do a price to price comparison. Again, so when I was abroad, let's say for air tickets, for example, I would look at absolute price and I still do. But here I see that apps, shopping apps, etc., they show you the percentage values rather than absolute."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:39.000",
+        "message": "And because we are so anchored to the MRP, these deals look very juicy to us."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:43.000",
+        "message": "They look very juicy to us, exactly. So a 10,000 rupee phone looks over 20,000 rupees, looks much juicier than 10,000 rupees over 12,000 rupees, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:54.000",
+        "message": "Thanks so much. Very illuminating talking to you. Thank you. Thank you, Mayanna. So there you have it. While the MRP is a good intention measure meant to protect the consumer, its unseen effect might actually be the opposite. It ends up harming the consumer. It is in fact my case that pretty much all interventions in a free market end up harming consumers. This is a theme I'll keep exploring in detail as the weeks go by. But for now, thank you for listening to The Scene and the Unseen."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:24:35.000",
+        "message": "Next week on The Scene and the Unseen, Amit Verma talks to Shruti Raj Gopalan about Uber surge pricing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:41.000",
+        "message": "For more, go to sceneunseen.in."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:25:11.000",
+        "message": "You can also find us on Facebook, Twitter, and Instagram. Thanks, man. I'm going to check you out."
+    }
+]

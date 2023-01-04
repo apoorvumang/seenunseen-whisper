@@ -1,0 +1,1232 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "We behave as if we are subjects, not citizens. As if the laws that exist in this country do so for the purpose of our overlords monitoring our behaviour. Our free speech laws are a great example of this. Section 295A, 153A and 124A are all throwbacks from the British Empire which framed the Indian Penal Code to keep us natives under their control. And yet, even after independence, even 72 years after independence, we are still oppressed by largely the same set of laws designed to keep us in check. Section 124A, the law against sedition, is a great example of this. It is natural for an oppressive autocratic state to have a law such as this. But why must a responsive democracy have a sedition law? It's actually the duty of citizens to constantly point out the flaws in our government, to speak truth to power. We live in times where those in power actually speak of strengthening the sedition law, where it is used to harass dissenters and to have a chilling effect on would-be dissenters. To speak up against this is our duty. Is it also criminal?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:38.520",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioural science."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:48.840",
+        "message": "Please welcome your host, Amit Bharma. Welcome to The Seen and The Unseen. My guest for today is Chitranshul Sinha, who has written a fantastic history of the sedition law in India, Section 124A. His book is called The Great Repression and is basically an excellent book of history that places the framing of laws in the context of the political and social environments in which they were born, an extremely insightful book with many TIL moments. Before I begin my conversation with Chitranshul, let's take a quick commercial break. Like me, are you someone who loves fine art but can't really afford to have paintings by the artists you like hanging on your walls? Well, worry no more. Head on over to IndianColors.com. Indian Colors is a company that licenses images of the finest modern art from some of the best artists in India and adapts them into objects of everyday use. These include wearable art like stoles and shrugs, home decor like cushion covers and table runners and accessories like tote bags. This allows art lovers to actually get fine art into their homes at an accessible price and artists get royalties on sales, just like authors do. What's more, Indian Colors now has an exciting range of new products including fridge magnets with some stunning motifs and salad bowls and platters made of mango wood. Their artists include luminaries like Babu Xavier, Wazvoo x Wazvoo, Brinda Miller, Dilip Sharma, Shruti Nelson and Pradeep Mishra. They accept bulk orders for corporate and festival gifting but even if you want to buy just for yourself or a friend, head on over to IndianColors.com. That's colors with an OU. And if you want a 20% discount, apply the code IVM20. That's IVM for IVM podcast. IVM20 for a 20% discount at IndianColors.com. Chitranshul, welcome to the scene and the unseen. Thank you so much. Tell me a little bit about yourself before we start talking about your book. Like you know, you're a lawyer and now you've written this book, which is ostensibly a book about law, but it's really a book of history and an excellent one at that. So what's your background? Where are you from?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:53.000",
+        "message": "How did you become a lawyer? So I'm from Ranchi. It's a place in Jharkhand. MS Dhoni fame and from the same school."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:00.440",
+        "message": "So if someone says MS Dhoni should retire, is that seditious in Jharkhand?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:05.080",
+        "message": "I really hope it becomes, those guys should be punished. Yeah. So I'm from Ranchi. I come from a background of science. I was not a arts or humanities student, but then law happened by accident and even history happened by accident. I hated history till I started reading it after college. So both accidental things combined into this book. So I studied law from Pune, Symbiosis Pune, five year course. Then I started practicing in 2009 and I'm an AOR of the Supreme Court and a partner with a pan-India law firm. And this is something I do on the side to keep myself happy."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:42.440",
+        "message": "And I guess when you start studying law, initially it's a subject. So you're looking at the textbooks and you're studying law and it's the subjects and all that, but it's much broader and deeper than that. There are so many stories behind it. And the history of law in a sense is a history of society and a history of people and all of that. At what point did you start to get interested in these sort of broader aspects?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:02.000",
+        "message": "I would say in college, in college when we were studying jurisprudence and we were studying legal history, that's when I started understanding that you can't look at law in isolation. It doesn't operate in a vacuum. It has to do with what the society of that day is like. So you have to understand society and politics of the day to understand law. So you can't look at it in isolation. That's where I understood law. And then you start reading about world history and laws around the world. Then you understand how those things correlate with each other."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:31.260",
+        "message": "And what were the sort of great books on law or legal history that sort of influenced you?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:37.360",
+        "message": "So I'll confess that there's no such book which influenced me. I would have actually not read legal history as a, because I really didn't like any, started some, I didn't like any other than maybe A.G. Noorani's great trials. Otherwise, I really didn't enjoy legal history books because they're very dry for my taste"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:58.600",
+        "message": "at least. That was an interesting sort of cautionary lesson you seem to have taken because your book is anything but dry. So what's the kind of stuff that you would read like intellectually, what makes you the person you are?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:06:09.120",
+        "message": "What are your sort of influences outside of law? Outside of law? I don't know. To be honest, I actually don't have an answer for this. So how did the book come about? So I was writing columns. There's this very good friend of mine, Rukun, who used to work with Penguin earlier. And she said she thought that I would write a book I never thought I would. And she connected me with Mansi, who's a commissioning editor at Penguin. And she sort of did an inception on me. She told me I should pick a topic to write on. And I gave her five options. She said, you should write on sedition. I said, Oh, should I? She said, yes, you should write on sedition. Now you pitch the idea to us. So then I thought about how to go about it. And then I created this structure for this book. And then they said, Oh, fine, we approve of your idea. So the idea was they themselves gave me the approval of the idea. And that's how that book happened."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:58.520",
+        "message": "That's very cunning. What were the other four?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:00.520",
+        "message": "So I was thinking about writing of these archaic laws, which is stupid. One of those laws were adultery laws. So all these Victorian laws, which shouldn't have existed in post independence India, I want to write about all those laws."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:12.320",
+        "message": "But she restricted me to this one law. Yeah, adultery 377. Yeah, I've in fact had episodes on. So when you decided when they asked you to pitch your idea to them, I suppose you started thinking about it a bit. Was a book that you pitched to them similar to the one that you wrote?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:28.840",
+        "message": "It's almost identical. It's almost identical. Maybe it grew a little more in scope, in the sense that I realized that the topic is too vast to restrict it to anything. So the general structure remained the same. But I added a little more bulk to the history part to the origin part. When I started writing, I did not realize that I would spend so much time on origin or so many chapters on origin and pre independence aspects of tradition law, but it really grew to a huge volume. So I actually had to control myself stop myself from writing further on it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:00.200",
+        "message": "No, and I found that history part especially I mean, the book is a book of history and I found it really fascinating because I learned stuff I didn't know about English law, how it originated, about, you know, how it evolved in colonial times, and also all the sort of the political and social context that you set to everything. So once you I mean, the narrative you pitched, obviously, then is how the law has evolved over the centuries and where we are now. And at that point, you realized that okay, it's going to be a bit of a book of history. Did you read a lot of history?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:34.040",
+        "message": "I read history, but I did not read Indian history as much as I would have liked to. I usually read world history. And in fact, when I started writing this book, that's when I started looking at this more seriously. And I realized there's a lot which went behind, let's say the Indian Penal Code itself. So by while I was writing about sedition, I realized it's very important to write about the Penal Code first, because you will not understand the context of this section 124 a which provides for the offense of sedition, unless you actually understand how the Indian Penal Code came about to be. And then when I started reading, to be very honest, I learned while I was researching, I did not know these things before I started writing the book. So I was educating myself and writing at the same time. And so when I was reading that, then I realized that the laws which were in place before my college draft court came in before the East India Company took complete control of Indian courts and everything. The laws were indigenous, there was no structure. They were Hindus laws, they were Mohammedan laws for criminal prosecutions, they use Mohammedan laws just modified a little bit to suit the Hindu subjects. So criminal laws, mostly Mohammedan and civil laws, mostly Hindu. So that the term code, which that Indian Penal Code, the term code is sort of a misnomer here. Code usually is a compilation of existing laws. It's like a compendium of laws. But there was no such law in India, there was no such compilation to be done in India. But so calling it a code as such is a misnomer. But if you consider India's past, as in that most of our laws are borrowed from the English common law system. And in that sense, yes, because it was part of the British Empire. So it was a code of laws, which were derived somewhat from the British Empire and then somewhat from indigenous laws. But in the true sense, it's not a code. So these are things which I actually learned when I was reading about how to pitch the book."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:38.800",
+        "message": "And then when I started writing the book, And one of the like, whenever I read a book of history, one of the things that I keep doing is I keep going to the footnotes and I get drawn into all these rabbit holes. And the interesting thing I noticed in your footnotes is that, you know, a lot of the sources are really arcane papers or arcane cases and not so much like I would have expected that if you're doing a book of popular history, you'll, you know, all the standard historical references will be there. But your research kind of went a lot deeper than that. So what was that process like? And since you're not an academic, you're a working lawyer, you know, did you go time to archives or libraries or did you affiliate yourself with an institution? Or did you have to just work it all out on your own?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:18.360",
+        "message": "So I had to work it all on my own. To be honest, I didn't go to the National Archives as other researchers or historians would go on the Nehru Memorial Library. I was constrained as far as time's concerned. And so I had to budget my time accordingly. So the resource that I use the most was archives that were achieved, which has absolutely everything in the world, you just need to know how to find it. So when I was researching, like you said, it's a rabbit hole. And that was the past I most enjoyed of the entire process. That was the part I most enjoyed. Going down that rabbit hole was very, very enjoyable, because you go to the most recent source, then you trace back to the source preceding that, then you trace back to that, beyond that, and then you suddenly realize that you're reading books from the 19th century, or the 18th century. And I've read texts from the 13th century and the 14th century in English, which I could barely understand. And that's when you realize that to write a book where people don't point fingers at you, you have to go to the origin. You can't rely on most recent history because history is colored by politics. History is colored by a person's bias. So you have to go to the source, the farthest you can go, you have to go there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:30.080",
+        "message": "It's not easy, but you have to do it. And just thinking about it strikes me as so mind blowing and so wonderful that, you know, because of the internet, regular folks like you and I actually have a shot at going to these basic primary older sources. And you know, otherwise, to just get access to these kind of archives, you'd have to be a professional historian and so on and so forth. And now literally anyone can I mean, I'm obviously you know, when we were talking over coffee before this, I recommended Dan Collins podcast, Hardcore History. And you know, he was basically a radio broadcaster. He wasn't a historian. And yet he is able to produce these remarkable works of history because the world is at his"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:05.200",
+        "message": "fingertips. There are too many gatekeepers of knowledge today. Too many gatekeepers to just to enter the archives, you have to show your credentials that you're a researcher of some sort like a person like you or me can't just simply walk into it and say that I want to read something relating to the Mughal era or about Clive. I need to show them that yes, I'm a researcher for something. Otherwise, I can't go there. Why can't I go there? Why can't people like you and me go just walk in and learn? Because to be honest, the internet is a great resource and archives is an absolutely wonderful resource. And I so in fact, I while I was reading it, I felt so bad about using it so much that I actually started donating to it. And we have to do that. Otherwise, we won't get those resources. And even though it's a huge resource, still archives have certain things which you will not find in public, like the original draft penal code. When I was started writing the book, it took me four months to actually find it. And that to online. I don't know whether it's in some library or not. But all the people I talked to and I told them I have the original, I have the draft penal code of Macaulay's code of 1933 and 1937. And they said, How did you get it? People don't know it. People haven't read what's written there. They haven't seen his notes. And there are things like we know that Macaulay drafted it. But there's another person called Bethune, who also came up with a draft code. He hated Macaulay. He said, I want to do my own thing. And he paced this draft code to the East India Company, to the government then and he said, my code is better, but it was very conservative and very, the punishments were very draconian. So they eventually junked it. So before writing it, I did not know that such a draft code existed. Why don't we know this? Because we're not allowed to go into those places to learn about it. So we need open access, like archives helps, but we need open access to our libraries, all these archives. We do otherwise, it's not going to work. People are today, especially in today when people unlearn the history from WhatsApp and from social media, they need to go to these places to verify themselves. Otherwise, what they're relying on is again, bad information."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:09.440",
+        "message": "And I guess very newbie question, I guess in an ideal world, what all the archives and all these repositories of documents should do is digitize everything put it up for free. Absolutely. Is that kind of happening or are the gatekeepers holding first?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:21.000",
+        "message": "See where the laws are beyond the copyright period, I think they can still be it's happening. But most people will see I still understand the author has to get the royalty and everyone has to be paid for what they published. But their articles like JSTOR is expensive for even for a person like me, I could not afford to have all those articles. So I used to rely on more four or five free articles a month. That's how bad it is. You have people who submit these papers, academic papers, and they themselves have to buy it back. They don't have access to even the PDFs. So even to get the PDFs, they have to buy it back. Why is it so expensive? A person who's himself written something, he should get free access to it, even he's not getting free access to it. So today, these things which if an author wants to put it out in public, he should be allowed to if he doesn't want to earn out of it. Fine, I understand the publishers put in money. But beyond a period of time, you should make this knowledge public. Otherwise, you're not going to learn otherwise, misinformation will keep spreading without verification."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:18.440",
+        "message": "Exactly. And I mean, I'm not sure that making everything available does anything about misinformation, because misinformation spreads because people want to be misinformed. That's also true. And because they're just lazy, and they want to read the latest slice of WhatsApp history. Let's let's kind of go to your book now. And your book really starts off with the East India Company coming to India. And the interesting thing here, of course, is that there's no India as such there are many different princely states, and they come as traders and they're given trading rights and then negotiating their way through it. And I found it pretty interesting how they are gradually trying to figure out what laws apply to them, what laws apply to them for internal disputes, what laws apply to them on ships and on the land, what you know, how do they, if there's a dispute between them and locals, what happens?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:08.000",
+        "message": "Can you sort of elaborate a bit on? Yes. So yes, when the East India Company came is very interesting, actually. So we used to keep reading about these factories that they had set up. So it's not a manufacturing factory. It's a place where East India Company's factors established the trade. Factors were people who would trade with the indigenous native traders, and then send some"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:28.760",
+        "message": "back home and then bring stuff here. So factors are basically like the agents like agents, the ship comes, it leaves the factors, and negotiate, we will sell you this, we will buy this."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:37.720",
+        "message": "Yes, they're like middlemen, mostly. And that's how the term factory comes in. Now that term where what they use a Surat factory and the Madras factory, that's how the term factory comes in. And when they got their factories, they realized that they have to fortify these factories. So they got their own militia, let's call them the militia, they are not like really British soldiers, they're militia, private mercenaries. So they got them, they set up these forts, and they set up their own communities. But the trouble was that there was life beyond these communities also, they would try life beyond these four walls, which was called referred to as a Mofasil. So that term still exists when we call when we talk about Mofasil towns, that small town in India, they use the term Mofasil to be places which are beyond these limits of these presidency towns, like beyond Bombay or beyond Madras, the presidency towns, I'm not talking about the region in general, I'm just talking about town. Even for example, Bombay, what you call town today, fort today was actually what the town of Bombay was beyond that it was not Bombay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:40.880",
+        "message": "Similarly, it was Mofasil."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:18:42.200",
+        "message": "Yes, Thane was Mofasil, Dadar was Mofasil. So even in Calcutta, the town was presidency controlled by the president of the factory. And anything beyond that, like Murshidabad, Hooghly, everything was Mofasil. So trouble started when there were disputes between Indians and the British or there were disputes amongst the British themselves. There was confusion that how what law should apply initially started with if someone did something some British citizen did something on a ship, then yes, a martial law could be applied. But what if he did something on land, what law would apply? So there was confusion. So there's a very interesting incident where the East India Company and the British courts, the presidency courts had a major conflict. And there was a zamindar who was being prosecuted by the British courts, like when I say British courts, not the East India Company courts, and was being protected by the company troops and the company courts. So then they realized they changed the law eventually. And they said that, okay, fine, if you are a British citizen, or there are disputes between two British citizens, then the British law would apply. But if you're an Indian citizen, and it's just something criminal in nature, then Nizami laws would apply, which is a leftover from the Mughals. So this actually continued till very, very late. This continued till I would say the latter part of the 19th century."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:11.160",
+        "message": "So it was all about even after the IPC was no after the IPC."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:20:15.320",
+        "message": "So IPC only extended to presidency towns. So all these princely states and autonomous provinces had their own laws. The other had its own. Yeah, like, I don't know what other but Jammu and Kashmir, for example, the Ranbir Penal Code. It's till date, they have their own penal code, which I am assuming will go now. So they had their own systems and all such as in place."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:37.920",
+        "message": "Like you mentioned about how eventually, the East India Company evolved to a status where they looked after what you call the Diwani rights, which is a civil justice system, the revenue rights and the Nizami or the criminal justice powers remained with the Nizam and his administrators. Another very interesting part of the book was as far as local laws are concerned, how the locals were sort of administered was that as far as civil laws or personal laws are concerned depends on you know, the Hindus had their own thing, the Muslims have their"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:07.280",
+        "message": "own thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:08.280",
+        "message": "But as far as a criminal justice system was concerned, it was a Mohammedan law which sort"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:12.240",
+        "message": "of applied. Yes, but that was true for the natives, not for British subjects. If there was a British subject under prosecution, he had to be prosecuted by a presidency court, or if a company could prosecuted him, then it had to be done according to British laws."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:25.800",
+        "message": "So how did sort of then these laws evolve? So initially, the East India Company comes, they're only traders, they've got factors in there, these factors and eventually the you know, factories are made, the militia comes in to look after them, you have these towns coming, the presidency is coming up with the Mofasil around them. How are the laws evolving? Initially, it's okay, if there's a dispute between two British guys, the British laws apply if it's on a ship, it's martial law. But then eventually you become a part of the local society which had has its own thing going on where, you know, they have their own criminal laws, their own whatever, through the period that the East India Company was here until the IPC, the IPC, of course, came 1861, I think. Yeah, IPC was 1860."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:03.520",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:04.520",
+        "message": "So until that point in time, how has it evolved in the centuries before that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:22:11.000",
+        "message": "So there were laws, it's not as if they did not have specific statutes, even in areas controlled by the company, they had certain laws. So there were regulations, there were things called the Bombay regulations, there were things called the Madras regulations and Bengal regulations. For criminal law, Bengal regulations were mostly used even in Bombay and Madras for criminal prosecutions and criminal justice system. So they had regulations, they had some random laws for certain things. So it's not as if they did not have any laws. They had these statutes, which were typically derived from British laws, the common law system, because England does not have a typical legal system where everything is in the books. It evolves from the law of the courts, a court decides something, it becomes a law. It's not the other way around that, like in India, the statute dictates what the court can do. But in England, the courts dictated what the law became."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:03.760",
+        "message": "It's what you call the common law system. Common law system."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:06.800",
+        "message": "So there's no origin document as such, it just evolves over a period of time. Yes, so but there were laws, there were these regulations, which kept getting modified from time to time to suit the need of the hour. So it's not as if they did not have anything, they had laws, but yeah, it was not uniform across the country. So for example, in the Calcutta presidency, Bengal presidency, the punishment for forgery was death. Similarly, and for example, if you steal one rupee and the punishment is 10 years, stealing 1000 rupees also 10 years, stealing 1 lakh is also 10 years. So it's it was not proportionate at all. So that is something which Macaulay also wanted to reform. He points out that these laws number one that for the same offense, there's no proportionality with regard to the gravity of the offense. Then there are certain offenses which disturbed the local populations view. So basically, it's something which even today, religious law or a customary law, you may feel that no, it's necessary to have such a law like Sati when Sati was being banned, it led to a huge uproar when the age of consent to have intercourse was raised from 10 to 12. It led to the first sedition trial in 1891. So even people at that point of time, there were major discrepancies."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:24.000",
+        "message": "Like one of the interesting cases that you've written about in your book is King versus Maharaja Nand Kumar, yes, which is his root called Nand Kumar, who gets into this sort of ego battle with Warren Hastings."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:35.000",
+        "message": "Tell me a bit about how that panned out. So it's been referred to as a judicial murder in history. It's been referred to as judicial murder. The Chief Justice of the Calcutta High Court was Elijah M. Pei and him and Hastings were buddies. And Nand Kumar was a native who rose to a status of a Diwan and was referred to as Raja and he became very rich. And he made allegations against Hastings, corruption allegations against Hastings, which was absolutely true. At that point of time, it was true. But to cut him to size, Hastings and M. Pei colluded and they accused him of forgery. And like I said, forgery was punishable with death. So they got together and it was a farce of a trial. He did not receive proper legal representation. He did not allow the proper lawyers or he was not allowed to plead his case properly. The evidence was murky at best. And they got together to kill him. To be honest, if I can just put it that way, they got together to kill him. I mean, he was convicted for forgery and he was sentenced to death. It was referred to as a judicial murder, which raised uproar even back in London. The parliament talked about it. Even in India, there was this popular sympathy for Nand Kumar for what he was going through. And actually showed at that point of time that there was a technical aspect involved within Nand Kumar could be even tried under British laws. Because like I said, he was a native who did not live in Calcutta. He was from Murshidabad. And the British law did not apply to the natives of Murshidabad. So what they did was they arrested him in Calcutta. And they tried him under British laws under these tyrannical laws. And as a result, a lot of natives left the presidency town. They just ran to these Mufsul towns, because they thought that even for a minor crime, they could be executed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:27.080",
+        "message": "So there was an exodus from Calcutta after Nand Kumar's case. And since it was being discussed in parliament and Hastings, of course, was very controversial"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:34.360",
+        "message": "back home."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:35.360",
+        "message": "So eventually impeached eventually impeached. Was there a sort of one did it lead to a great rise in disaffection among the local people? And to did the British themselves feel that, hey, we got to, you know, chill out a bit"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:47.880",
+        "message": "and get this under control. So Hastings and MP, they were instrumentalities of the British crown, the East India Company as such the other officers of the East India Company were more sympathetic to Nand Kumar. So in fact, there was a huge conflict between company officers and these British instrumentalities. Now, when that happened, they actually did realize that there was an exodus of the natives"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:12.160",
+        "message": "from Calcutta from Calcutta to Mufsul places."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:15.880",
+        "message": "So they realize that and when they when they go out people stopping revenue when if they don't like you, they would rather pick up arms rather than pay revenue to you. And they relied on that revenue, they relied on trade. So a message was sent that this shouldn't have been done. A message was sent across Hastings was eventually recalled. So yes, there were definitely was conflict. And it did subsist for some time. But at the end of the day, there was no India as such then. So there was no unity as such. So it was more like a dispute between Nand Kumar and the crown than anything else. So people eventually got around."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:50.240",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:27:51.240",
+        "message": "So it's just, you know, new cycles. Just like today, people move on to outrage about something else."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:58.440",
+        "message": "Let's let's kind of, you know, before we sort of dive into the 19th century in India and the birth of the IPC, let's, you know, you have a chapter in your book about Bentham Mill and Macaulay and the impact that they had on British law, especially Bentham and his impact on British law. Now, you've spoken about English law, and you've spoken about English law as basically something that has evolved through this process of spontaneous order and has come down through the years, a common law system. And then, but Bentham is a seminal figure and how it evolves. Tell me a little bit about that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:28:29.400",
+        "message": "So Bentham is a person who is responsible for the term codification. So in fact, let me correct you there. Bentham did not have that big an influence on English laws than he had on other countries laws, mostly on French law. He had a huge influence on French law, then that which extended to the colony of Louisiana and America, which was governed by the French back then. So his influence actually was more on French and Indian law than English law because the English still don't have a criminal code."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:59.800",
+        "message": "In fact, there's an interesting quote in your book about how Bentham saying that he's a royalist in England, but a Republican in France."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:06.360",
+        "message": "So Bentham lived through the revolution there. So Bentham is a very interesting character. Bentham opposed, he was a rebel of the day. He was not like a glamorous rebel, but he was a intellectual rebel. There was this gentleman called Blackstone. We still read Blackstone's law dictionary in India and everywhere across the world. So Blackstone was considered an authoritative figure on criminal law and Bentham completely disagreed with him. And he said that I would, he actually said things like, I want to burn the statutes of England. I want to burn this law down and build something new. And he did not find popular acceptance in England. So he actually went to France, he was depressed, he went to France and he built on that, his philosophy there, like for the greatest, the greater good for everyone, the greater utilitarian philosophy. And that's where codification began. Bentham himself wasn't very successful, if I can say so, but his followers, his disciples are more successful than him. Because they actually put this to work. Like Mill was a Bentham follower, Macaulay not so much, even though he does borrow from Bentham, but he was not like a Benthamite as much as Mill was. But eventually the system of codification was something which Bentham envisaged. And today we are actually having the benefit of that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:25.320",
+        "message": "So what's the rationale behind codification? Like why did Bentham feel that he wanted to burn all that there was before and that codification was, I mean, you spoke of burning and there's an aside that in 1953, Ambedkar said that looking at what the constitution has become today, I feel like burning it. Yes. But which is completely unrelated to all of this and not seditious in the least. So to get back to my question about Bentham, what was it about law as it then was in England that he wanted to burn and what was the necessity? What was the rationale for needing to codify something?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:30:57.880",
+        "message": "So if laws are not codified, it leads to confusion. It leads to uncertainty. We are lucky we got the IPC. I am saying so. We are very lucky we got the IPC. It's a great gift from the English to us. In the sense of the concept of codification, what the code itself is, you can debate. Correct. The concept of codification was excellent for India because we are very diverse. We had different traditions, customs across the country. Like I said, indigenous laws are completely different. Someone in the kingdom of Travancore or Mysore might have something completely different for Thaib, which may be different in the central provinces. And there are certain things, maybe offenses in one part, not an offense in another part. So it was very important to have a uniform system of penal law. Everyone needed to be on the same page where they knew what they can do and what they could not do. That is where codification becomes important. Without a code, you would have 100 different statutes in 100 different parts. And then there's some overlap, then there's confusion. So at the end of the day, for certainty in law, you need a code. So India has the civil procedure code, the criminal procedure code, which the criminal procedure code came later after the IPC was enacted and CPC also came later. But at the end of the day, these codes have had a major impact or rather they've shaped the Indian judicial system. Procedure is derived from the criminal procedure and the civil procedure codes. Penal offenses are derived from the IPC. Now we have penal offenses, other statutes as well, but there's no overlap in many cases. Most cases there's no overlap. In certain cases, there may be overlap, but then they're very, very specific in nature. Like you were just discussing about the UAPA and IPC. Like UAPA is very specific in nature. That's why as opposed to 124, which is general in nature. So but at the end of the day, mostly we have certainty, which was how a code becomes helpful"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:52.360",
+        "message": "in India or anywhere else. So essentially, you're saying the importance of a code basically is that the rule of law needs to be both transparent and accountable and predictable. And once you have a specific code out there, everyone knows what the rules of the game are."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:33:05.560",
+        "message": "Yes. But England doesn't have a code. Yes, England doesn't have a code and they suffered because of it for a very long time. There was a lot of confusion because of common law. I don't consider myself an authority on that. But broadly from what I've researched, there was no certain consistency in law, which they have remediated to a certain extent now, because earlier there were no statutes as such also. Now there are specific statutes for certain things. At the end of the day, like a money laundering or a bribery has a separate statute, money laundering has a separate statute, offense against the state has a separate statute. So they have these separate statutes for these specific laws, but they haven't brought it together."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:41.360",
+        "message": "Right. Let's sort of get back to Bentham. And, you know, one of his prot\u00e9g\u00e9s was James Mill. And as you point out, you know, through his 40s, and then gradually as he turns 50, he becomes sort of the, you know, one of the key bureaucrats in charge of India who sort of looking into Indian affairs. And he sort of influences the birth of the IPC in the future. Tell me a bit about that and the role he played."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:04.440",
+        "message": "So Mill was in India house and he was responsible for communication between the East India Company and the parliament. He was sort of a go between and a very important go between. In fact, he wrote, which he himself calls a seminal history of India, but he had never been to India. So historians have a lot of problem with his history, but he did write a history of India"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:26.960",
+        "message": "as well. So he was coming here."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:28.960",
+        "message": "In fact, you have a long snide remark by Macaulay on his history. So and Macaulay and Mill, in fact, didn't get along at all. Macaulay very, very famously in parliament when the reforms were going, the charter reforms were happening, he made very, very accusatory statements about Mill saying that this person does not even know the, he has never been to the country, doesn't know history, but he's written a book on history on Indian law. And it's very interesting because when they decided to form the first law commission, they wanted to send someone there and Macaulay and the East India Company did not get along again because he was a member of parliament, a very young one at that. He was in his early thirties, was in his early thirties. And he used to criticize the East India Company about everything that they were doing in India. So, and Mill also did not get along with Macaulay. So it was very surprising that when they eventually had the reforms, then the chart, 1830s, the charter reforms happened and they decided to have the first law commission and they asked for Mill who they should appoint as the first law commissioner, he recommended Macaulay, despite having all his differences with him. And it was not taken well by the company. So Mill actually had to convince the directors to send Macaulay and their relationship improved after that, they prepared after that. It's very interesting that two people on the opposite ends of an issue work together to get us the court. Why did he want Macaulay? Because he had a lot of belief in Macaulay's intellectual capacity. And he respected Macaulay for that. Personally, they may have animosity, but he respected Macaulay for his intellectual capacity."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:01.360",
+        "message": "And what was Macaulay's approach to like 1833, the commission was set up to sort of draft the IPC. He took around four years to do it and working practically alone, as you point out, without any assistant. What was his approach given that he's not exactly writing on a blank slate? Because India, though it's not India then, but India as it is, then the lands that he's making this legal code for is like you pointed out, so diverse, they have so many different kinds of customs and traditions and peoples and ways of doing things. So what are the sort of unifying principles which he brings to bear on that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:34.520",
+        "message": "So like I said, we had regulations then so it was not really a clean slate. But he had a major issue with those regulations. And in his notes, he mentions that there's not a lot of popular support for a penal code in India. That is one of the reasons why the code did not come into effect for 30 years after it was originally drafted. So when he was looking at the law in his notes, he mentions when he was sending it to Auckland for his consideration, he mentions that he's studied other indigenous laws, he studied these regulations, and he feels that he does not have anything to refer to, to create these laws. He feels that nothing is reliable. So he actually goes back on old English laws and common law in place there. And that is why I said that it's not technically a code because this is not something which was brought together. It's not a product of bringing together of Indian laws, indigenous laws. It's a foreign product at the end of the day."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:28.320",
+        "message": "So typically, a code would be that you take a bunch of existing laws and you make sense"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:31.680",
+        "message": "of them rationalize them. Just put it in a box. Just put it in a box. This is almost sui generis. He's having to come up with... He had to come up with a lot of things. And that too without help. Like I said, almost all the members were sick or back in England or just did not do any"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:43.560",
+        "message": "work. So what are his guiding principles? He of course was an influence, I guess, the whole utilitarian funda is there. But what are his guiding principles otherwise?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:37:52.120",
+        "message": "His guiding principle mostly was proportionality and certainty. He wanted that. And he wanted clear categories of offenses to be created. If you look at the draft code, it's arranged in a way in which if you're talking about laws against the human body, then they all club together like we have in the IPC today. It comes from there. So he wanted extreme clarity as far as application of penal laws was concerned."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:17.240",
+        "message": "And you know, you sum it up very nicely where by quoting McCauley when McCauley says about the IPC quote, our principle is simply this uniformity where you can have it diversity where you must have it. But in all cases, certainty, stop quote. And this principle was new at the time and is still the driving force."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:38:35.440",
+        "message": "It is the driving force, driving force for most laws in India today, that we have to"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:38:39.720",
+        "message": "have certainty as far as laws are concerned. Let's take a short commercial break now and let's come back and talk more about McCauley and colonial India."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:38:48.200",
+        "message": "Hey, everybody, welcome to another great week on the IBM podcast network. If you're not following us on social media, please make sure you do. We're IBM podcast on Twitter, Facebook and Instagram. Also like to thank Intel and Storytel for supporting us this month. On the scene and the unseen, Amit is joined by author and advocate Chitranshul Sinha. They talk about the historical background of the sedition law and discuss Chitranshul's book The Great Repression. On the origin of things, Chuck narrates a story about a man who revolutionized the concept of fuel in Brazil through the Great Depression and World War Two. On edges and sledges, the guys talk about the T20 match between India and Bangladesh. On Geekfruit, Tejas and Dinkar are joined by the IBM producer Abbas. They talk about the new Terminator film Dark Fate and the past and future of the franchise. On Football Shootball, we have an exciting episode as our hosts discuss the aftermath of the biggest game of the season, Liverpool vs Manchester City. It's a Children's Day special on IBM Lives as Madhuri, Alika, Rithika and Abbas talk about pop culture they consumed as children and reflect on how they perceive it now. On GayBCD, Sunetra and Farhad share the list of their firsts from their first kiss to their first queer experience to the first time queer representation and art moved them. It's a list you definitely don't want to miss. On The Habit Coach, Ashton talks about measuring and visualizing the progress of our habits with the help of paperclips. On the season finale of Keeping It Queer, Naveen and Farhad discuss their understanding of a breakup and how to get over them with maturity. And with that, let's get you on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:07.480",
+        "message": "Welcome back to the scene in the unseen, I'm chatting with Chitranshul Sinha about his excellent book The Great Repression, the story of sedition in India. And we've just spent 40 minutes talking not about sedition per se, but other general matters. So now we get the first glimpse of sedition in the draft IPC, which is created by Macaulay. And this is clause 113 of the draft code, which basically I'll just read out this bit very similar to what later became the sedition law. Quote, whoever by words either spoken or intended to be read or by signs or by visible representation, attempts to excite feelings of this affection to the government established by law in the territories of the East India Company among any class of people who live under that government shall be punished with banishment for life or any other term from the territories of the East India Company, to which fine may be added or with simple imprisonment for a term which may extend to three years to which fine may be added or with fine. Stop code that was one sentence."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:03.960",
+        "message": "Yeah, you lawyers really love your clauses. Oh, yes. That's how we earn our money because no one else understands it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:09.280",
+        "message": "So did you did you while while you were writing this book, which is written in extremely readable and interesting language, did you have to stop yourself from putting clauses in long"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:16.960",
+        "message": "sentences many times? Many many times I had to control I had to unlearn whatever I had ever learned to write this book. And even to read the law, I had to stop many times to understand what they had originally"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:28.240",
+        "message": "written. So were you you know, just to continue with this brief digression, were you did you like to write before this? Did you ever think of yourself as a future writer?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:36.160",
+        "message": "Oh, yes, I did. Always. I always thought of myself as a novelist. I had these stupid novel ideas in my head. There was since I was in school, but that never happened. So you would write Yeah, I used to edit my the college law review and I started writing articles for digital publications two years back. And yes, I would write and I always loved writing and reading but I never thought that I would write a book so soon and that too on a legal history topic. I always thought my first book would be a novel but sadly it was not."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:07.040",
+        "message": "The first book reads like a novel. Tell me a little bit now this is the first glimpse of the sedition law and the interesting thing I found from your book is that you know Britain did not have a sedition law. You know, you write court rather than have a single offense called sedition. Seditious offenses were categorized as seditious words, seditious labels and seditious conspiracies. Subcourt and yet the need for it was felt in India."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:33.800",
+        "message": "Tell me a bit about why that is so. So I'll just go back a little bit. Why this is important is that you have to understand how this law was born in England till the 13th century. There was no uniformity of government or no uniformity of control or even the crown wasn't respected. The crown was essentially just seen as a useful instrument of organization not more than that and the state and the crown actually feared any uprising. They wanted their own safety and they wanted to be loved and respected. So this law is very very literal in a sense that you couldn't say anything against them. When it started it was essentially to protect the church from criticism because we all know that that history is tainted and even the state wanted to be protected from criticism because I've also mentioned it in the book that in fact the queen at the time was stoned by people when she was going to the tower and that's when they started prosecuting people"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:39.800",
+        "message": "for it. And when Chitranshul says stoned by people, he does not mean she was given drugs or made to smoke weed. She was literally stoned. This is a family podcast. Yeah."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:43:50.240",
+        "message": "I mean, I don't know what you're talking about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:56.480",
+        "message": "Yeah. Yeah. So I mean, it's interesting because you know, you talk about the 13th century and about how we think today with the benefit of hindsight of England as this largely homogenous people. But actually there were different people. You had the Normans and the Saxons and the Celts and all of that sort of fighting for dominance and therefore for the centralizing authority that cropped up in the shape of the king and especially Edward the first who was like you point out of a legislative bent. There was an importance to have laws which would keep these people in check. And that is perhaps the birth of what you call clause 34 of the statute of Westminster."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:34.760",
+        "message": "Yes, because what happened was that because of these, this heterogeneous population of England, they did not even have uniformity of language like we, we don't realize this, but they did not speak English back then. So they did not have uniformity of language or culture. So when these people got together, they literally formed an alliance because they were tired of warring. They're tired of spending all the resources on fighting with each other. So say they decided that they should come together and live as a people as a nation. But even then they were bound to be differences like, like in India, the different classes, different communities, they're still friction. So that friction, which originated that union, union, which originated in war had a lot of friction. So a Saxon king would not be loved or respected by the Celts and vice versa. So that is why I keep saying that this was a very, very literal law. You just couldn't say anything doesn't matter. If you say the king killed his wife, even if he had actually killed his wife, he, the person who says the king killed his wife would be prosecuted for seditious libel."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:41.440",
+        "message": "It would not be a defense as indeed it wasn't at one stage of 124A. I want to read out at last 24 of the statute of Westminster of 1275, just so that you can appreciate Macaulay who I earlier quoted a little bit more. Quote, for as much as there have been often times found in the country, divisors of tales whereby the scourge or occasion of the scourge has many times arisen between the king and his people or great men of this realm for the damage that hath and may therefore ensue. It is commanded that from henceforth none be so hardy to cite or publish any false news or tales whereby the scourge or slander may grow between the king and his people or the great men of his realm. And he that doth so shall be taken and kept in prison until he hath brought him into the court, which was the first author of the tale. Stop quote. And this is basically you can sum this law up in three words, right? No fake news."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:46:36.320",
+        "message": "Yeah, no, not even fake news. Don't say anything against the church or the state. Even if it's real, it doesn't matter. You can't call a priest a pedophile, even if he's a pedophile. It was as simple as that. In fact, that sounds sounds a lot like Shakespeare and like Shakespeare, a lot of people, I'm sure they don't understand it then as they don't understand it now. But at the end of the day, it was very simple."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:46:58.840",
+        "message": "Don't say anything against the establishment. I'll correct you there. And this has nothing to do with the subject of the show. But Shakespeare actually like I teach this course for Takshashila on how to write op-eds and one of the one of my little modules there is about how Shakespeare would write great public policy, because he most of his plays are written in iambic pentameter. Iambic, of course, is the stress non stress alternative way of speaking kind of. But pentameter was that you basically have broadly speaking five units of two syllables each 10 syllables in a sentence, because that is how much we can speak without needing to pause. Right? And his sentences were his language was written in such a way that actors would find it easy to say. And therefore, you will not find a single sentence in Shakespeare, which is as long"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:47:43.040",
+        "message": "as the one I read out. So for your Twitter audience, this is a hashtag TIL moment for me to hear that Shakespeare"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:50.480",
+        "message": "actually was a beautifully elegant writer. And let's let's get back to the subject at hand, which is so there is this law which aims to protect. You've also pointed out the distinction between two kinds of laws, which is that there are laws which protect you from other citizens, which are meant to stop citizens harming other citizens. And there are laws which are meant to protect the state. Yes. And and this is sort of in the category of that. But broadly apart from this, as English law evolves and common law happens, there is really no equivalent to the sedition law that's coming up."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:24.960",
+        "message": "See, I'll just add to what I was saying first. So the all these statutes which are created to act as a protection of the states from its people is because there was a lot of chaos. There was there was fear of overthrow every day. And that's how this law, in fact, became a terrible tool, because tomorrow, a criticism could be seen as an encouragement of to the masses to rise against the king. What I meant was that that there was no law on sedition. Now, sedition is a broad category. Sedition is just an umbrella term that's being used. Sedition can be of various types, like it can be liable where you publish or speak against us, speak seditious."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:08.320",
+        "message": "So these categories, these categories and seditious conspiracy was more about these"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:49:13.280",
+        "message": "violent acts which would take place, seditious acts which would take place. So by saying there's no equivalent, yes, because Indian law uses the umbrella term. But in fact, it was better to have these categories like instead of having a law against sedition, a more ideal situation could have been a law against sedition, seditious libel, a separate provision for seditious conspiracy, because today we club everything together. And the punishment is the same for saying something or actually causing an uprising."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:44.960",
+        "message": "So yes, that equivalence doesn't exist. And you know, in one of the things that you keep talking about in your book and demonstrating in your book is that you can't just look at laws in isolation, you see them in the political context of the time, the social context of the time. And so, you know, Macaulay between 33 and 37 works on this code, he gets it out, but then it's kind of stuck in the bureaucracy and is being debated back and forth. And like you pointed out, Bethune does an alternative version of it and so on. But then a strong impetus is given to it by circumstances, which is basically the revolt of 1857. Can you tell me a little bit about that? You know how the British crown then had to take command and then therefore needed a penal"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:50:23.040",
+        "message": "code and hey, this was it. So yeah, so 1857, as you know, was the, they called it the first war of independence, but it was more an organized mutiny across the country. So and it again was on mostly on religious grounds. And I don't need to really go into that as such. So they had a makeshift law, when the mutiny happened, they got a makeshift law in where they provided for an offense against the state that which is somewhat, I won't say similar to sedition, but it was the first step towards having a law against sedition where you can't criticize the government or say anything against the government and it had to be tried. And there was a summary trial with no appeal provided if you did something like that. So when the mutiny ended, and it's called the 1857 revolution, but at the end of the day, it went on till 1858 and 1859, it finally ended in around 1859. And that's when in 1860, the new law comes in. But when the crown took over, they realized that they have to establish themselves and they have to stop this from happening again. So that's when they tested the draft code and they handed it over to Barnes Peacock to write it again and to make it a better law as such, define it a little more. So the penal code was an exercise in having a unified penal provision, unified penal provisions in India to control the masses and to avoid another 1857 from happening. So that is how the crown wanted to assert itself."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:57.040",
+        "message": "And it strikes me that there are two sort of simultaneous imperatives here, which is driving the British to sort of impose this penal code and one is of course, to protect themselves and to control the people. But the other also is a transformative one to sort of to bring about social change, which is something you know, even Macaulay, for example, is notorious for having spoken about the civilizing impulse of empire and so on. So does the IPC sort of contain reflect both of these imperatives?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:29.380",
+        "message": "Yes, it does. In fact, I would be amiss to mention that Macaulay as such wasn't your ideal administrator. His philosophies that have find origin racist thought. He like you mentioned, he wanted to civilize the masses, the education system that he brought about in the country that was also to civilize the masses. So there was a racist bone in his body. But so the law sort of even if you look at like the law of adultery, like women were treated as shattered as property, thankfully, that laws gone now. So only a man would be punished for adultery, not the woman who participated in that act."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:12.740",
+        "message": "In fact, the man who slept with the wife of someone else would basically be prosecuted"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:53:17.060",
+        "message": "for theft because he was taking yes, the property was the wife's was this is a Victorian law. We did not have such a concept in India back then. So he wanted that concept to be brought in. He wanted that was a complete that was foreign to us. He wanted that to be brought in because then you elevate or rather denigrate a woman to a status of property. Similarly like social reform, if you say that they wanted to reform and in fact, the great leaders of the day like Tilak also, they did not oppose it in principle. He personally did not oppose it in principle, but he thought that it should be left to the natives to the Hindus to do it themselves, do a reform, have awareness program like about the age of consent bill, where there's this tradition of which was the Garbhdan that on the first night itself, the child bride would sleep with the man and it didn't matter he was 30 or 40. And there was a death which happened because of that. Now, people did not react well to these changes. And these changes were brought, they tried to impose these changes through legislation, which was alien for people back then. So there was the like you said, they did try to civilize the masses if I may use their language rather than our language. They did want to civilize the masses through these laws."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:54:26.820",
+        "message": "In fact, it's best used in inverted quotes, because the transformative effect that they wanted to have sort of seemed to me to fail in two ways. In one, of course, they are imposing Victorian values on India, which you could say are actually a step backwards from where we are. And two, even when they are trying to bring about positive social change, the point of Tilak, and this is a classic conservative criticism, which many others, I mean, Tilak, I don't think was a classic conservative, but the criticism itself is very Burkean is that you cannot change society in a top down way, you have to change it from within, you"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:04.420",
+        "message": "have to change the culture and just having a law doesn't. So in fact, it's very interesting. So Tilak did not actually oppose this reform, but what he said was that you should make people take a pledge that they will not force their girls into marriage at 10 or they will not force their girls to do garbhdan on the first night and none of his fellow reformers nobody wanted to do that. Nobody wanted to take that pledge. He said, no, first you may create awareness, you make people do this voluntarily don't impose it on them. So Tilak while approaching this from a conservative place, he was not against reform, but he knew the reality of the day that people will not accept this. If let's say someone like Tilak would have initiated the idea, people would have been more welcoming of it. But because the idea did not come from Tilak, it came from the British. So anyway, resentment had started that was the period when actual resentment against the government had started. It was where the, I would say the freedom movement had started taking form, not the freedom movement, I said with anti British movement had started taking form. So they thought there is a foreign influence. Why should we listen to foreign influence? Why should we listen to these people who not even from here? Why should we listen to the white skin people? So Tilak was right in a way that it has to come from within. But yes, people generally averse to these reforms. Even Sati was opposed. If you think about it today, I for the life of me can't imagine why it was opposed. Like I don't know why it was opposed. Yes, customs, religion, everything. But to kill someone just because their husband is dead, doesn't sound sound nice to me today. But at that time, it was opposed because it was the British who brought it. So it was more and more resistance to foreign reforms than reforms themselves."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:54.700",
+        "message": "Yeah, and I had Jerry Rao on my show last week talking about Indian conservatism. And his point about conservatism, I think would be that conservatives aren't necessarily opposed to reform, but they are very concerned about the manner of reform that if you try to impose it in a top down way or try to do it radically, things can go wrong. Of course, my counter argument to that is that for something like Sati, you have to be animated by first principles that taking someone's life is wrong, coercion is wrong. So you don't then wait for society to change once you have figured out that these are your values. So people could argue that not everyone shares those values. Now, the interesting thing about the IPC when it's accepted, I think first Jan 1862 is when it comes into effect, is that at that point in time, that sedition law is not there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:41.140",
+        "message": "Yeah, you know, it's whether it's an oversight or whatever, you know, it's it's slipped through the cracks, basically."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:57:48.020",
+        "message": "That's what they say."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:49.380",
+        "message": "We will never know why. There's no literature on why it was not in the Indian Penal Code. There's no literature, they blame it on carelessness or they blame it on oversight, but we will maybe we'll never know why it was not brought in the first place."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:05.780",
+        "message": "But very soon there is, as you describe in your book, a movement to sort of bring the sedition law back. And one of the things driving it, which might be a TIL for many people listening to the show is a Wahhabi movement, the growing Wahhabi movement in India, which is, you know, and this is really before the organized freedom movement in India really takes birth. And the Wahhabi movement is the chief sort of circumstance, which makes the British think that, okay, we've got a bunch of laws after 1857 to keep the natives in check. But we need more, we need the sedition law. Tell me a bit."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:58:35.420",
+        "message": "So the Wahhabi, the Indian Wahhabism does not find its origin in Saudi Wahhabism. Indian Wahhabism finds its origin in in Uttar Pradesh of all places, like Bareilly. And so the Wahhabis at the time of the mutiny in 1857, they in fact did not participate in it. They were not nationalistic. They were communal. They did not want a India without the British. They wanted an Islamic India. So they sort of stayed away from the movement. So they actually did not play any role in it, maybe a minor role here and there, but they did not play any role in it. But after that ended and before it happened, they, earlier they fought, they were fighting the Sikhs, then the Sikhs were defeated by the British and there's again, they refocused on the British. They wanted to just drive away outsiders from the country and create a Islamic nation. So after 1857, there were a lot of conspiracies from across the country, from the Bengal presence, from Dhaka to Punjab. And this was discovered over a period of time and there were major trials which happened that happened in Ambala, in Patna, and Delhi, and Wahhabi leaders executed, but they just refused to die down. So they actually felt that they need this against the Wahhabis because they could not deal with another uprising that close to the mutiny. So that is the most proximate cause for Section 124A being enacted."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:00:02.500",
+        "message": "So Section 124A comes back and it's also very interesting that you talk about two preventive laws to supplement Section 124A. The first you point out is a Dramatic Performances Act of 1876, which is, quote, intended to prevent performances of seditious, defamatory or scandalous nature, stop quote. And of course, all of that is open to interpretation and anything can be and you point out very interestingly in the title of this play could be really modern. You talk about this play called Chai Ka Darpan, which was a proximate cause for the enactment of the law because Chai Ka Darpan was a play that portrayed owners, quote, portrayed owners of tea plantations and promoters of migration to tea growing districts as evil persons who exploited migrants both physically and sexually, stop quote. And as you point out in one of the witticisms that, pepper your book, if there is one rule you don't break, it's that you do not mess with the Englishman's tea."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:00:57.780",
+        "message": "So these plantations which were across Assam, Bengal, they sort of fed England, the tea went from here. But a lot of exploitation was happening on these plantations. Migrant labor was being badly exploited. Number one, we were subjects and number two, they were even the financial overlords. So it was rather a communist movement, if I may say so, that people got together and they started writing and writing plays and performing plays where they criticize all this. So the British government was spurred into action because one play, there were other plays also and other poetry and stuff."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:35.480",
+        "message": "There is a play, Chai Ka Darpan exists?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:37.900",
+        "message": "So I couldn't locate it myself, but yeah, this play existed and they had to ban it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:43.520",
+        "message": "So what I meant was, have you read it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:01:45.200",
+        "message": "No, no, I couldn't find the text of the play. I had to glean it from the trials and from the history of the law and the speeches which were delivered before that act was brought in. So when that happened, that's when these laws came in to supplement the laws that, okay, fine, we have a general law, but let's have these laws also separately."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:02.260",
+        "message": "And the other law, which I also found interesting, the other preventive law was the Vernacular Press Act of 1878, which was, quote, enacted to place newspapers published in local languages under the control of the government for repressing seditious writings, which are intended to produce disaffection towards the government in the mind of natives, stop quote. And when I was reading this, it kind of struck me that we don't have that law today. But effectively, the same kind of pressures and incentives can still apply. You still, for example, no FM radio station will ever dare to talk about politics or broadcast actual news because their license could be taken away. Or for that matter, you know, different kinds of pressure can be put on all kinds of publications because a lot of publications depend on government advertising for their revenues. So these pools and pressures still exist, except that there is really no need of a law"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:02:53.160",
+        "message": "to sort of make it happen. It can be controlled economically rather than anything else."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:57.920",
+        "message": "Yeah, let's talk about the first sedition case now and which of 1891. And before we talk about the first sedition case, and it's very interesting how what dovetails into this is one of their, you know, the British again trying to bring about social change in India. And there is obviously you point out that girls are being married as young as 10 years old and, you know, expected to conceive very soon. And you talk about this child, right, called full money, who was 10 years old in 1889, married off to a man named Hari Mohan Mehti, who was over 30 years of age, and he has sex with her and she dies that night itself. He's charged for her rape and murder. And that leads to the coinage of the term Hari Mehtism, which I must confess, I haven't heard till I read your book, Hari Mehtism for the court practice of consummation of marriage with child rights, stop quote. And he's acquitted because the law against rape does not apply to the marital rape of a girl of 10 years of age. And at this point, the British government enacts the age of consent act of 18 March 1891, which raises the age of consent from 10 to 12."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:11.340",
+        "message": "So that was a huge leap of two years."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:13.500",
+        "message": "And everybody goes nuts. Tell me a bit about that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:04:17.360",
+        "message": "So again, like I said, reforms for being resisted, and the Bengali intelligentsia, which is a bongo bashi that took up issues with it and wrote severe editorials against this reform, saying that the British come in and they're touching our Hindu cults terms and traditions, they're destroying everything. And they say, if these if this keeps happening, we'll have to throw them out. I'm just, I'm paraphrasing everything."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:44.120",
+        "message": "I'll read that bit out where a translated extract of the first offending article which was cited in the case goes, quote, the English ruler is our Lord and Master and can interfere with our religion and usages by brute force and European civilization. The Hindu is powerless to resist, but he is superior to your nation and good morals in gentle conduct and in good education, Hindu civilization and the Hindu religion are in danger of being destroyed. The Englishman stands revealed in his true colors. He has a rifle and bayonet and slanders the Hindu from the might of the gun. How are we to conciliate him? Stop quote. And when I read this, I thought, ki Englishman ke jaga mein elites dal do."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:05:22.880",
+        "message": "Exactly. And it still applies. This seems very, very familiar. Doesn't it sound familiar? Yeah, you go on social media, doesn't it sound familiar today that this is exact same thing we are seeing again, the Hindu majority is victim. Hindu khatre mein hai."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:35.320",
+        "message": "At that time, you could say, they were sort of the victim. So anyway, so this guy comes up with this thing that how dare you raise the age to 12,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:05:43.240",
+        "message": "you know, what are 11 year old girls to do?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:05:46.520",
+        "message": "And I know, but but but the age for marriage were not raised. Only the age for intercourse was raised. So you could still have a 10 year old child bride. But if you have sex with her before she turned 12, that was marital rape, which seems very"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:01.720",
+        "message": "bizarrely legalistic, because there's no actual way of whoever is implementing the law to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:06.200",
+        "message": "enforce it. Yes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:08.200",
+        "message": "So they maybe they wanted to appear to be doing some good virtue signaling. Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:12.880",
+        "message": "It's very interesting today that even today, there's a debate on marital rape happening. That the petition spending in the Supreme Court and the High Court where they want marital rape to be criminalized. So in fact, British did criminalize marital rape for 10 and 11 year old girl child."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:26.720",
+        "message": "So I guess what you could say is progress is basically the age of marital rape rising. Absolutely. Jesus, I don't even know what to say. Let's talk a bit about this sort of first case where the proprietor, editor, manager and printer of Bongo Bashi are all charged in a case known as Queen Empress versus Jogendra Chandra Bose and others. And others."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:49.920",
+        "message": "Okay, it's written. O.R.S is others."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:51.920",
+        "message": "What do I know about legal language? And one of the defenses, of course, is that hey, you know, we didn't kind of write it. I mean, the writer is anonymous, and he's not here. So don't blame us and that's kind of thrown out. Now the debates around the sedition law, especially the terminology, especially the word disaffection,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:08.880",
+        "message": "kind of start from this case where Justice Petheram. Yeah, Justice Petheram."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:12.720",
+        "message": "When I read this, I couldn't figure out if he's an Englishman."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:07:16.800",
+        "message": "Englishman, definitely Englishman."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:18.560",
+        "message": "So not Petheram, but Justice Petheram. And so tell me a bit about the debate around this case and kind of what happens."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:26.320",
+        "message": "So what they did was that they wanted to interpret what disaffection actually means. So what he said, it doesn't know what the presence of the letters DIS between affection means it has to be the opposite of affection. So the opposite of affection is hatred. So it doesn't matter if it's a legitimate criticism. If they if they if they if he asked the jury to decide whether they felt that was this intended to create hatred against the government or not. Doesn't matter no violence ensued, doesn't matter that it was a legitimate criticism. I say legitimate because of what people felt that back then. So he made a very, very literal interpretation of the term disaffection and said that hatred,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:12.720",
+        "message": "anything to incite hatred against the government would lead to the offense of sedition. And the sort of counter interpretation of this is that, you know, you don't that the word disaffection in a legal sense has evolved to mean something else. And the way the sedition law has also been interpreted is that merely criticizing the government or inspiring hatred against it isn't enough. You also need to incite people to specific acts of violence against it only then is it"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:38.680",
+        "message": "sedition. So that that actually happened later that happened in the 1960s. Prior to that, there was no such interpretation built into the law. It is actually the Supreme Court which read down the law to include this, that actual incitement of hatred has to happen. But before that, mere criticism which which would cause disloyalty or hatred against the government was enough to be punished for sedition."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:00.880",
+        "message": "But this is Peter M's interpretation of disaffection that there were other interpretations which"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:09:04.560",
+        "message": "came up. The interpretation was Morris Goyer which happened a lot later in the 1940s. And he sort of said what Kedarnath judgment said eventually, that unless there's incitement to violence, you can't punish a person for sedition. But it was quickly set aside with the Privy Council in another case."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:20.320",
+        "message": "Yeah, we'll come to that. Let's move on to the Tilak case. You know, Tilak was, you know, a member of the governor's legislative council. And he was a fairly big guy within local circles at the time. And he had this newspaper called Kesri. And the first case against him really comes because he seems to justify violence, especially in the context of Shivaji, where, you know, he essentially argues that Shivaji was justified in killing Afzal Khan in the way that he did that it was an act of self defense. And therefore, to use that as an analogy against the empire, that there are modern circumstances, contemporary circumstances, in which case such violence may be justified. And obviously, he was hold up for sedition. What are the sort of arguments going back and forth?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:07.080",
+        "message": "So what had actually happened was that there was a plague in Pune, prior to all that. And a lot of people died and they were really resisting the government's effort to rescue victims or to quarantine people. So there was this plague commissioner Rand. And so people really detested him. In fact, Tilak himself had a huge hand to play in getting people to accept government help getting them into hospitals, leave their homes because they were very afraid of British"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:35.920",
+        "message": "help. And what these Britishers were basically doing is they were coming home and if they found a victim, just send them off to the hospital."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:42.120",
+        "message": "And burn all their possessions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:44.360",
+        "message": "So you're having people whose homes are being invaded, their relatives being sent away to a hospital, and their things being burnt. And sometimes if there's no one else at home, the houses just left like that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:10:54.720",
+        "message": "Yes. So basically, that's why the natives of Pune, they felt that this was an act of aggression against the local population. In fact, they were trying to help them. And soon after that, the Shivaji festival was, I would say it was reborn in the years around that time. And when he delivered the speech, sometime after that, days after that, Rand was assassinated because of this plague relief work. Now the British then need an excuse to catch the luck for something. Even though he was a member of the legislative council, and he was a very important man, but they still detested him. He was seen as a power center, separate power centers. Again, it was very political. And the newspapers, the Anglo-Indian newspapers like the Times of India, and the English language newspapers were really against these vernacular papers or Indians running English papers like the Maratha was actually an English paper and Kesari was the vernacular paper, Marathi paper. So when this was reported, when these speeches which he delivered and other people delivered in those, in Raikad, they tried to join it. They have tried to create a proximity with assassination. And when they raided him, they found literature, which he still, he claimed that it was not his. So they found literature about subversive activities. So they actually arrested him at that point of time to send a message to the vernacular press and to the people around at that point of time. And his defense was that this is not sedition. His defense was there's nothing in his speeches where he tries to incite hatred against the government. So he actually tried to raise a defense within the law. He tried to defend himself. He did not have legal help. He did everything himself. So his defense was that he did not say or utter anything which could incite hatred against the government. In fact, looked at my other work that I've done. I'm actually supporting the government and the government's efforts."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:54.120",
+        "message": "That was his defense. And at one point he had when he couldn't find anyone to defend him, Rabindranath Tagore got him these two notes from Calcutta. And you know, one of those lawyers say something really interesting in his defense of Tilak, which, you know, leads me to my sort of next question, which is a regression, which is quote, if the government seriously believed Tilak guilty of the abetment of murder, it ought to have openly accused him of it. The very fact that he has not been so charged, but prosecuted under 124A, shows the weakness of the government's case, stop quote, at which point it makes me wonder that if the issue of sedition is the violence and the damage to property and all of those things, you already have laws against all of those things. Absolutely."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:36.560",
+        "message": "Why would you then need a sedition law at all? It's a political tool. It's not a law to punish a person for, for an act as such. It is a law to punish a person for his thought, for his ideology. So that was what happened with Tilak as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:13:51.360",
+        "message": "And to what extent since it's a political tool, as you say, to what extent is it used as a chilling effect, whereby, you know, prosecuting Tilak under the sedition law, the proximate purpose is that okay, he has done something you disapprove of and you want to punish him for it. But the larger purpose is that everyone else shuts up because they don't want it to happen"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:14:11.000",
+        "message": "to them. Absolutely. Because at the same time, there was some other trials also, which had a larger effect of the vernacular press being suppressed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:16.960",
+        "message": "So that was a larger issue. So you know, one of the things that you know, as we've seen earlier in the narrative, that McCauley's code was basically languishing until 1857 creates a political imperative and something has to be done. And it comes into being. And here again, I think a lot of us forget the environment of the early 1900s, early 20th century, when, you know, contrary to the peaceful Satyagraha based movements, which would, which we now remember from the 20s and 30s and 40s, there was actually a lot of violence in the early years of the 20th century, which worried the British."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:14:50.480",
+        "message": "A lot of revolutionary crime. Yes."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:52.480",
+        "message": "Tell me a little bit about that and how that shaped the government's approach to, you know, the sedition law itself and other laws like prevention of seditious meetings act in 19th century."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:02.760",
+        "message": "In 1907, that you talk about. So this phenomenon, which I talk about revolutionary crime, it was it originated in Bengal, subsequent to the partition of Bengal. There was a lot of resentment against the partition. They thought they were driving a population against each other. In fact, the Nawab of Dhaka initially was against the idea, but subsequently got around to it because the British promised him power over that region. So it's a, it originated there, but the influence was largely Russian. There was a Russian revolution where they discovered the power of a bomb and that spread to India, to Bengal and to Punjab. And they started creating this age of the bomb. They started throwing bombs, crudely made bombs, but they were trying to get hurt. Then secret societies formed all over Bengal and what is East Bengal and West Bengal, all over East and West Bengal, which were called Anusilan Samitis. What these Samitis would do is they would train youngsters as people, children as young as 15, 16, 18 to just do violent acts, violent acts of revolution against the government, send a message across to the government that we are not going to sit silent. So this age as such was a very, very violent age. It was more than anything political. It was resentment. It was actually hated against the government because of the partition. And they just discovered these bomb making techniques and literature, which came from"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:23.800",
+        "message": "Russia. So it really helped them. And it's interesting that, you know, if one looks at the freedom movement, there's obviously the division between the moderates and the extremists and the moderates like, you know, Gokhale Ranade Agarkar and so on, believe in the power of petitioning and they want"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:16:35.800",
+        "message": "to sort of work with the power of cooperation and all that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:40.000",
+        "message": "And the so called extremists like, you know, Tilak and Annie Besant and Banerjee are figuring out that that has its limits. So B. R. Nanda in a great biography of Gokhale once said something to the effect of the moderates are extreme in their moderation and the extremists are moderate in their extremism. So they weren't all that far apart. But the thing is, this seems to me about that point in time where people are realizing the futility of trying to negotiate with the colonial government. Though Gandhi is trying that in South Africa, and he comes back and he continues trying that till, you know, the second half of the second decade. But and now all these violent impulses are beginning to play out. There's Aurobindo Ghosh and his brother. There's what is happening in London. I mean, there are two recent biographies on Savarkar which talk about India house and the stuff that is happening there. In fact, his brother Ganesh Savarkar was, as you point out in your book, convicted for"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:34.880",
+        "message": "writing poems. Yes. This was in Nashik."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:37.880",
+        "message": "He was convicted for writing poems which are considered subversive and seditious. And Savarkar is, Vinayak Savarkar is very pissed off at this. He's in London at the time and he gets in, allegedly gets an associate of his mother-in-law Dhingra to go and assassinate a British guy. And assassinate the wrong guy. Assassinates the wrong guy and that sets off a chain of events which leads to Savarkar being sent to Kalapani for 10 years where he is completely radicalized and then he comes out and writes Hindutva. So what would have happened if he wasn't arrested? Yes. Is this so much sort of, I mean, the counterfactuals are so incredibly fascinating. You should one day write a book of fiction about it. Yeah, I know what you're talking about. Wink. Yeah. Wink. So, so all of this is happening. And at this point, sort of, you know, there are other laws coming up, like there's a prevention of seditious meeting acts coming up. And Tilak himself is convicted again in a second trial because he praises the making of bombs. Yes. And the raiders home and they apparently find bomb making manuals."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:41.280",
+        "message": "Is that true? He really had bomb making manuals. So, it was not really bomb making manuals. It didn't teach people how to make bombs, but it related to bombs. Like it mentions certain kinds of explosives and stuff like that. And when his house was raided, he was not even there. He was in Bombay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:18:59.080",
+        "message": "So it could have been planted."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:19:00.080",
+        "message": "It could have been anything."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:01.080",
+        "message": "We will never know. It was not his. And he says, even if I have it, how does it matter? I have not acted upon it. Have you known me to make bombs? Exactly. So that was that was completely orchestrated again. He was, they waited for him to turn up in Bombay before they could arrest him. They don't want him tried in Pune. They wanted to try and get him tried in Bombay. In fact, he turned up there because a buddy of his was to help a buddy of his with a seditious case of his own. Kaal. That was the Kaal trial. Paranjpe was being tried for sedition and he had turned up to create his defense. In fact, very interesting that Damodar Savarkar also was in Bombay at the same time. And when they were agitating against, he was arrested outside the police station then and he was arrested and convicted for not for sedition or something else. And he gets out and then goes back. So it's again a very interesting core connected story. All these are connected with each other. So yes, it was again a political exercise. And again, what he did was that he again defended himself within the confines of the law. He again had to foot his own legal defense. He had to do everything himself. He stood up and spoke in court for more than 24 hours, like combined total of 24, 27 hours."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:10.280",
+        "message": "Practically a filibuster speech."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:11.280",
+        "message": "Yes, a filibuster speech."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:12.280",
+        "message": "His speech started on 15 July and concluded on 22nd July."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:17.920",
+        "message": "Yes, with a weekend break."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:20:19.760",
+        "message": "With a weekend break."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:20:20.760",
+        "message": "Where the jury had to go and check their mail. So that was that speech."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:20:25.320",
+        "message": "And unfortunately, some of the speech, but thankfully not all of it. The speech is a book in itself. I'll quote a bit from it because I kind of underlined it. And I know you don't like people desecrating books, but I underline furiously. This is a Tilak speaking as part of his 21 hour speech. Quote, if the writer's motives are good, he if he is trying to secure constitutional rights for the people trying in a fair way and persevering manner, he is entitled to express his views fully and fearlessly. The mere fact that the views of the writer are not correct or are even absurd or that he expressed them in violent language would not make him seditious. Stop quote. And I wish a lot of the nationalists of today who sort of seem to revere Tilak would, you"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:07.320",
+        "message": "know, pay a little more attention to his support for free speech. So yeah, but that didn't help him. The jury was almost all, not almost, it was all white Europeans and Englishmen. So whatever he would have done, it was premeditated. And in fact, it's very interesting that the judge who tried him was his lawyer when he was first convicted. Dawar. Dawar, this is Dawar. This is Dawar was his lawyer when he got bail for Tilak in the first sedition trial. And Dawar's son was Tilak's lawyer during his second sedition trial."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:41.520",
+        "message": "Another man who was involved was Muhammad Ali Jinnah. Jinnah was his actual lawyer."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:45.080",
+        "message": "Was his actual lawyer. So and but eventually Tilak had to again argue himself, but so it was all premeditated. It was very interesting because Dawar, what he argued to secure bail for Tilak in the first trial decided exact opposite in the second trial. So it was, you could see the kind of bias or rather the kind of anger against Tilak which existed in that day. He had become an all powerful figure. He was in fact bigger than Gandhi at that point of time or rather Gandhi came later."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:22:18.800",
+        "message": "Gandhi was well known in India."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:22:21.920",
+        "message": "He was a giant in South Africa, but Tilak was the giant of the day in 1916. So yes, it was again completely political. I keep repeating myself."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:22:32.000",
+        "message": "And I'm kind of struck by, you know, you quote Dawar's words after Tilak is convicted and I'm struck by how vituperative they are. Where Dawar says of Tilak, quote, it seems to me that it must be a diseased mind, a most perverted intellect that could say that the articles which you have written are legitimate weapons in political agitation. They are seething with sedition, they preach violence, they speak of murders with approval and the cowardly and atrocious act of committing murders with bombs not only seems to meet with your approval, but you hail the advent of the bomb in India as if something has come to India for his good."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:23:04.520",
+        "message": "Stop quote. And that's what I said. The anger against Tilak was, everyone's minds were prejudiced. You couldn't even if you were spoken to 42 hours at a stretch, you still would have been convicted."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:23:14.960",
+        "message": "It was a 4-1 conclusion. And it's it's in sort of an interesting question that kind of strikes me and I think about this in other contexts as well. That if we are to look back today with the values of today, we would say that, you know, the British having a sedition law to prevent people rising up against them is understandable and rational from their point of view. At the same time, looking back today, we can say that we are completely on Tilak's side and the side of all of these people who were fighting the empire, though that qualifies as sedition and therefore unlawful at that time. But the other aspect of it also, and you know, where Gandhi diverged from the likes of Tilak was when it comes to the means. Yes, that a lot of these, you know, the Aurobindo Ghosh, Savarkar, to some extent, Tilak in his tacit support for violent means seem to say that our end is noble, we want to get rid of the empire and therefore any means are justified. And to me, even sitting here with this passage of time, it would seem to me that that is wrong, that the end doesn't justify the means and that a lot of the moral judgment, if you are to pass any on those people has to do with the means also and not the end. So the, you know, I'm just thinking that one can't just look at sedition in the classic one sided way that of course it is a tool of political oppression. But also a you see why it is necessary and be some of the people that the act was being used against for basically killing people, they were assassins."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:24:38.880",
+        "message": "So let's look at it this way. I won't, I'm not saying that one supports murder here or one supports assassinations here. But you have to look at a way, look at the context of that day, that the government they were under, the subjects of whom they were subjects, was not a government of their choice. It was imposed on them. The laws were imposed on them, the language was imposed on them, the culture was imposed on them. They completely came and changed Indian society. And they looted from India, the famines which happened, they exported grains didn't leave anything for the natives. So when you look at the anger, what they felt, we will not be able to understand it today. So even to try to contextualize it today, I don't know, I don't think we can do that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:19.720",
+        "message": "I don't think we are too used to being corseted in a nice democracy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:23.320",
+        "message": "And yes, we used to living under rule of law, we are used to checks and balances, it may be getting wiped away. But today, we are used to that, at that point of time, the rule of law only existed for"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:34.040",
+        "message": "the British. Would you say that that situation is analogous to what Kashmir and Kashmiris are going through"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:25:39.800",
+        "message": "today?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:40.800",
+        "message": "Or is it seditious even to bring that thought up?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:44.080",
+        "message": "That's a very controversial topic."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:45.440",
+        "message": "But because if we were to say that we would in a sense, we could be accused of sedition."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:25:51.520",
+        "message": "But at the same time, yeah, they can try for sure. No, but at the end of the day, until unless someone asks someone to pick up arms against the government, that's not seditious. This is a simple, whenever someone asks me that, oh, is this seditious or not? So if someone says, Oh, Amit Verma said this about Kashmir, oh my god, he should be prosecuted for sedition. I said, did he cause violence? Did he bring the state down? Or did he try to bring the state down?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:26:15.240",
+        "message": "If you did not, it is not seditious. Exactly. I hope everyone pays heed to these words of yours. Let's move on now to sort of the 1970 1918 period where there is on the one hand, you have the Montague Jamesford reforms, which are being driven by the British Parliament and are largely progressive and good for us and respectful of us. But on the other hand, you also have the Rowlett Commission or the Sedition Commission, the Sedition Committee, as it is, which is meeting and deciding how to keep the natives in check. And what we have isn't adequate. What more do we need to do? Tell me a bit about you know, what the committee comes up with and the reactions of the Rowlett"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:55.160",
+        "message": "Act. So the committee basically goes through one and a half decades of revolutionary crime, it chronicles everything and goes to the causes of the crime. And then it was supposed to make its recommendation on whether the law should be reformed. When I say reform, it should be made stricter to prevent this because you have to understand that it also coincided with the First World War in Punjab and in the rest of India, the Defense of India Act was in play. So they could not have afforded revolution on one hand war on the other. So they wanted to prevent this in future. So what the Rowlett Committee did, it wanted to make the law stricter. It wanted to make the law stricter. But ironically, it also built a safety valve in that law. It said that this law can only be imposed what they call the Rowlett Act and or the Black Act as the Indians called it. They wanted it to be imposed only upon a declaration of emergency, a declaration of necessity for imposition of such law. So that could only be done in cases of uprising and absolute uprising, which was largely not accepted by the people. In fact, that law was a paper tiger. It died a natural death. It never came into effect. But if you look at the law today, even though we are not under the British government, there is no safety valve built into the law. It was left to the Supreme Court to finally interpret it. And even that interpretation is not being followed today. Nobody even the law enforcement officers don't know what this law is actually about. And there's no safety valve. Even the UAPA does not have any safety valve. You can apply this, the police can arrest anyone at any point of time. There's no necessity of the situation, let's say in a Chhattisgarh that there's a mass uprising, an excited movement all across the state. And that's when you impose 124A. It's not the case. Even in peaceful, you're reading a book in Darjeeling and you say, oh, this shouldn't happen and we should have a change of government and there's that and some nice nationalistic fellow will come across and say, oh, you're being seditious. Yeah, I mean, people have been arrested for Facebook posts. They've been arrested for receiving messages on a WhatsApp group, or rather just receiving random messages, which they had no nothing to do with. So anything, anyone can be just arrested for it. So it's not the trial, because I mentioned that they say that there's this, there have been two convictions in the last four from 2014, 2016, but there I could not find a single conviction. I did not find a single judgment. So it's not about trial or whatever. It's about what happens before that, that arrest and persecution, which happens."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:24.080",
+        "message": "It's a chilling effect. It's a chilling effect."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:26.080",
+        "message": "Like today, we have to keep giving disclaimers that we're not seditious, right? So that is what happens. Otherwise, you won't have this fear of speaking to the public about this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:34.880",
+        "message": "Someone did once threatened to file a sedition case against me, by the way, in the column"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:29:38.400",
+        "message": "about it as well."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:39.400",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:40.400",
+        "message": "Oh, wonderful. I was in the column against 295A and 153A. And somebody said, No, no, you're spreading this affection against the government."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:46.760",
+        "message": "I'll file a case on 124A. Oh, they should have done."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:48.760",
+        "message": "Yeah, we should have had a why? We should have gone up to the Supreme Court to get the law settled again. And you won't even defend me because you do bankruptcy law. Speaking is very easy, boss."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:29:57.280",
+        "message": "I hope that bankruptcy law is treating you well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:59.880",
+        "message": "I'm sure you would have paid me well. I don't have any money, bro. I'm bankrupt. Actually, you know, maybe then you would have come good for me. I want to move on now to a chapter of yours called Gandhi, Azad and Nehru, politics of sedition. And you begin this with a quote by Gandhi, which is in his sedition trial in 1922, which I found profoundly impressive. So I want to quote the full thing, which is, quote, I would like to state that I entirely endorse the learned advocate general's remarks in connection with my humble self. I think that he was entirely fair to me in all statements that he has made, because it is very true. And I have no desire whatsoever to conceal from this court. The fact that to preach this affection towards the existing system of government has become almost a passion with me. And the advocate general is also entirely in the right when he says that my preaching of this affection does not commence with my connection to young India. This is a magazine Iran. But that it can commence much earlier. I do not pled any extenuating act. I am here, therefore, to invite and submit to the highest penalty that can be inflicted upon me for what in law is a deliberate crime and what appears to me the highest duty of the citizen, stop quote. And your chapter, of course, talks about different trials in which Gandhi, Maulana Abul Kalam Azad and Jawaharlal Nehru all pleaded guilty of sedition. And when I read, you know, and this sort of this was, you know, all of the courts that you've reproduced in this chapter were very clarifying for me, because the thought that struck me with your earlier chapter when Tilak and all these guys were under trial, is that why were they defending themselves? They were guilty of sedition and they should just stand up proud and say that, yeah, of course, I am disaffected. I am preaching this affection, you know, so what is the crime? And Gandhi, Azad and Nehru actually do this. And they are all people who are protesting against the British by peaceful means using non cooperation and civil disobedience and so on. And this sort of refreshing honesty owning up to what is quote unquote a crime, you know, seems to bring a moral force to the freedom struggle."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:05.320",
+        "message": "See, this has a lot to do with the change in strategy, I would call it. The Tilak of 1897 and the Tilak of 1916 did not want a British free India. They did not want freedom as such. They wanted the power to govern themselves within the Commonwealth, within under the patronage of the crown, dominion status, autonomous status. They never in their life at that point of time had imagined that India could be completely free of the British. So this Poon Swaraj thing which happened with Tilak and when he coined the term Swaraj is my birthright and I'll have it. That happened later that not happened even at the time of a second trial, right? So there was a shift in the Indian political scenario after 1919 when Gandhi came here. When and Gandhi in fact had become very unpopular, which I talked about just before his sedition trial, he had become very unpopular for calling off the civil disobedience movement because of because of Chori Chori called it off and the people were very disillusioned. In fact, if the British wouldn't have prosecuted him, maybe the Gandhi that we know of today wouldn't have existed. Maybe we wouldn't have assumed the kind of relevance that he did after that. Streisand effect. Yes. So, exactly. So we should maybe call it the Gandhi effect. So basically what they did was they wanted complete freedom. They wanted Indians to govern India. They wanted Indians to frame their own laws. They didn't want laws from England to run the country here. So what they did was they said that I refuse to recognize the law. They say fine, this is sedition. If you say it is sedition, it is sedition. I refuse to recognize it. Gandhi called it the prince of political offenses, right? So what they did was they said, I refuse to recognize your authority over me. If you say it is sedition, fine, then I am seditious. I have done it. You punish me for it. And all of them asked for punishment. Nobody said, let me go. They said, give me the maximum punishment possible. Gandhi, in fact, said when they said that Tilak got six years, so you should also get six years. Gandhi said he was privileged to be equated with Tilak for getting six years. Nehru simply went up to the magistrate and said, you punish me. I don't even want to fight you. There shouldn't be any trial. I'm admitting to everything. The magistrate said, please don't do this. He said, please don't do this. I'll get you out of it. And he said, I'll make sure you don't have to face any prison. Nehru said, thank you so much, but I don't want it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:23.480",
+        "message": "I want the maximum penalty. And I want to quote something that Nehru says about the Congress here, which of course, the Congress then was a very, very different beast from what it is today. But quote, in the Congress, we have nothing to do with loyalty. We are disloyal and it is our business to preach this loyalty. Are you going to be loyal to those people who humiliate your people, who degrade your country, or are you going to be loyal to your own country, to your own people? Indian nationalism and British imperialism are at close grips with each other. British imperialism may succeed in suppressing Indian nationalism. But remember this also, that while Indian nationalism will grow again, but British imperialism will be suppressed once and for all by Indian nationalism. Stop quote. And a lot of the people who are talking rubbish about Nehru today should, you know, really"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:35:08.880",
+        "message": "read up a little more on the sort of moral. One man almost spent 10 years in jail. He was in jail when his wife was in on her deathbed. In fact, he was only released because she was very sick. His father was in his deathbed when he got arrested when he came back to Allahabad and they made that speech for which he eventually got arrested. His father was unwell and his father was unwell because he had been arrested previously and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:35:32.080",
+        "message": "he also refused to defend himself. They spent their lives getting arrested."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:35:35.560",
+        "message": "Yes, they were in. He was in prison for about 10 years. His wife was in prison, mother went to prison and his father went to prison. Everyone at that point of time went to prison and they were proud of it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:35:45.880",
+        "message": "I mean, I must say this, you know, a lot of people sort of look at people like Nehru and Savarkar in very binary points of view that one is good and the other is evil. And I'd say there are, it's more complicated than that. For example, it often comes up on Twitter that, hey Savarkar, apologize to the British and you contrast that with what Nehru is doing now. But it is also true that Savarkar went to the cellular jail in Andaman, known as Kalapani, where the sort of tortures inflicted on him were beyond anything, any other."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:36:15.080",
+        "message": "And not just physical torture, mental torture. Damodar Savarkar talks about it when in their stories, it's clearly mentioned this man, he would, he would swallow himself standing up. He lost control of his bowels. Yeah, they weren't allowed to go to the, they weren't allowed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:30.800",
+        "message": "This is really the smallest."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:36:31.800",
+        "message": "They were allowed to clean themselves. Yeah. And they were supposed to toil in the sun. If you've been to the Andaman, you'll realize how harsh that sun is. And their cells were, the cells were so small. As it's, I know some hotel rooms nowadays are very small, but it was even smaller than that. You couldn't stand up properly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:50.680",
+        "message": "You had to be bent all the time. In fact, the two recent biographies of Savarkar by Vaibhav Varadhan and Vikram Sampath both deal with this at some length. And you can go to the prison diaries of Savarkar himself and other people who were imprisoned with him to see how bad it was. So I would just say that we shouldn't always rush to judgment. I think Savarkar did some truly despicable things and gave rise to despicable ways of thinking in the twenties onwards, especially with his horrendously bad book Hindutva. But at the same time, had he died in 1910, he'd probably be remembered as a hero today."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:20.360",
+        "message": "Absolutely. Because what he did in England, he set up India House there, the revolutionary activity in England. He sent pamphlets from there to Bombay. So both the brothers had a huge role to play at that point of time. It's only after Kala Pani that the politics changed. And I don't really, I may be criticized for this, but I don't really blame him for writing a letter, a mercy petition."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:42.560",
+        "message": "Yeah, I would do the same. I would do the absolute same thing. The kind of suffering. I mean, Gandhi, Nehru and all these people were basic, they were treated in a very civil"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:51.760",
+        "message": "way. They were treated with a lot of respect. They had access to books, they had access to visitors. They had, they could write letters. Nehru wrote his books while in prison."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:38:00.600",
+        "message": "I mean, it was the only way he could have written, or maybe today people could write,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:05.360",
+        "message": "but maybe we should throw some people in prison for them to write."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:38:07.720",
+        "message": "And you know, I have a huge amount of criticisms of Nehru for his economic policies post independence. But the point is, all these people contain multitudes and we should remember before we rush to judgment."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:17.480",
+        "message": "That's why I said that this access to history is very important. That we need to understand this. I did not know half of all this when I was researching. It's only after I read all this that I understood the context of the actions back then."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:38:31.760",
+        "message": "So we have to wind up in 20 minutes before you have a flight to catch. So I want to move on from Gandhi, Nehru and Azad and talk about two sort of important cases just on the cusp of India getting independence, where important judgments were made regarding 124 A.N. One of them is Niharendu Dutt Majumdar versus the King Emperor, which is administered by the federal court, the sort of predecessor to the Supreme Court. And this is a very interesting judgment."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:38:59.200",
+        "message": "Tell me why. So basically, that's when the court created a distinction between mere speech, seditious speech as they call it, and actually inciting violence. So sedition as it was understood more or less remained the same from bongo bashi to tilak to the 1940s. The interpretation did not change. For the first time, Justice Mori Squire, he brought in the interpretation which we today rely upon eventually in the Indian Supreme Court also interpreted the same way that mere criticism is not seditious until and unless it causes violence. So just speaking simply, this is what he said. And eventually it had to be set aside because the criminal justice system of the day and the politicians of the day thought that this man is ruining everything for us. It was set aside eventually and the old system was again destroyed in the second case."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:39:52.760",
+        "message": "And the other case you talk about is the Privy Council judgment of 1947, which sort of takes the opposite view."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:39:58.840",
+        "message": "Yes, because they said that Squire is wrong. He's gone beyond what is written in the statute. And you should just stick to what the statute says."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:40:06.360",
+        "message": "And all of this has bearing, you know, there's also a drama playing out when the Indian Constitution is being written, because, you know, for example, what should our free speech laws be like, how much free speech should be guaranteed. And there are sort of debates about this. Some people are arguing for, you know, the like, US style free speech, where, you know, which I also am broadly in agreement with where it's more or less absolute. And others are saying that no, we need caveats and the questions come up, what should the caveats be? And there's a fierce argument about whether the word sedition should be one of the restrictions."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:45.280",
+        "message": "Tell me a bit about that and how that pans out. So the first draft of Article 19 today was originally Article 13. And one of the restrictions on free speech back then was seditious speech. So it was supposed to be it wouldn't have been protected by the fundamental right to freedom of speech and expression. So that's when certain people in the Constituent Assembly and on the Fundamental Rights Subcommittee opposed this. They said that Patel is framing this from the point of view of a constable. Because the very translating that means that someone has to maintain law and order the constable or the lowest police officer is responsible for maintenance of law and order. This is Somnath Lahiri. Somnath Lahiri who said this. And Munshi talks about how this how his father and his grandfather, they were punished for sedition and now this is being imposed on citizens in the Constitution. So there is a quietly it was just removed from the restrictions on free speech by Patel. But it reappeared again and again faced huge criticism from the Constituent Assembly from a lot of people."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:46.200",
+        "message": "So it was eventually removed from the. And the interesting thing is that if it was eventually removed, you would assume that 124A would also go because what basically happened, put simply, correct me if I'm wrong, is that we took the entire IPC as it was. And we basically said that whatever in it is contradictory to something in our Constitution is immediately repealed. Otherwise it stays as it is. So the assumption was that because of word sedition has been removed from Article 19, that therefore the sedition law, which is 124A will also cease to be active. And that in fact, an early ruling was to that effect. But then the First Amendment we made to our Constitution changed all that."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:42:26.520",
+        "message": "So basically what the courts did was they gave the blessing to the law. And they in fact went back to the interpretation given pre-independence interpretation given. So it actually made the situation even worse than what the Assembly feared that was what was happening. Because early India, early democratic India was not able to actually, they were still fearful that hangover was still there. They still felt that people because they had just seen a anti-establishment movement, they still felt that people still have those tendencies within them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:43:03.320",
+        "message": "Maybe that's why. And I did an episode with the historian Gyan Prakash and he spoke about how when the framers of the Constitution were in that locked room, sort of framing the Constitution, there was violence all across the country outside."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:15.280",
+        "message": "It was by no means a given that we will stay one nation."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:43:17.800",
+        "message": "They just come out of the partition violence. Can you see the context of violence 1857, then the revolutions of the post Bengal splitting the sort of early 20th century and now again the post partition violence and that is determining"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:32.480",
+        "message": "how draconian the laws are. Because then the violence was not a nationalistic in nature, it became religious. So they had still had that fear. Every government has that fear that it will be overthrown not maybe for political reasons, but maybe for religious reasons. So that is why they allowed the law to exist on the books."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:43:49.920",
+        "message": "So now let's get to this seminal case called Kedarnath Singh versus State of Bihar. As you pointed out earlier, what happens with the First Amendment is that one of the caveats introduced is public order and the courts therefore now begin to argue about whether the introduction of this caveat means that the sedition law is constitutional after all. And you basically have the Patna High Court saying that 124A is constitutional. The Manipur High Court says it's partly unconstitutional. The Allahabad High Court finds it to be completely unconstitutional. And then comes Kedarnath Singh versus State of Bihar."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:44:22.720",
+        "message": "So the politics of the time, the Communist Party of India was quite popular and quite powerful and we were at a time where the Congress was the largest party and the second largest party was the Communist Party. And in Bihar, this gentleman delivered a speech where he called police the dogs of CID and said that he was spoken in the bureaucracy. So he was arrested for sedition under the Congress government and he was arrested for sedition. So eventually when the court and he was convicted for it as well. And this was not the only case. This was actually a batch of matters from UP and Bihar. And when these matters eventually reached the Supreme Court, what the Supreme Court held which applies till date is that till that time, even though they went back to Morris Goir's interpretation in Niranjan Dutta and they simply said that public order, if there is a restriction on public order on free speech, that means that there has to be public disorder for that speech to be seditious. As long as public order is not disturbed, that speech cannot be curtailed. So public disorder means violence. It means just disturbing the status quo somewhere causing law and order problems. So till the time a writing or a play or a movie or a speech does not incite violence or public disorder or have the tendency of doing that, that test has to be there for anything to be declared as seditious. So very simply put that today, if I say something and that causes people to take up arms against the government or it may cause people to take up arms against the government, any such thing will not be seditious till the time that test is met, that it can cause violence or incite violence against the state. Because you have to understand, it's not just violence against a community or violence against a group of or of a political party. The law is categorized under the offense of against the state. So it has to be by that very, very simple logic, it has to be violence against the state and the state today is all powerful. 20 individuals cannot overthrow the state. A thousand individuals cannot overthrow the state. The state is not brittle today. So what that judgment did was that it introduced that test of violence being caused or likelihood of violence to be caused. But unfortunately it is not being followed in spirit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:54.600",
+        "message": "In fact, a lot of people don't even know many aspects of the procedural implications of 124A. Like one of the ways in which you point out it has evolved is, for example, in the state of Maharashtra, you know, it's not enough for someone to say file a case of sedition against me. It has to also be approved by the government of the day before I can be hauled into court. But many constable level police inspector level cops don't actually know this. And therefore the sedition law has become a tool of harassment."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:24.680",
+        "message": "In fact, in all of India, only Maharashtra has these guidelines. And these guidelines also arise out of a court case when Asim Trivedi was being prosecuted for sedition after he drew those cartoons. 2014, I think. Yes. So the court simply said it may be distasteful. You may not like it, but that does not make it seditious. It did not incite any violence. Nothing happened. So why is he in jail for sedition? So they set down guidelines. They said that a person cannot even be arrested for under section 124A till the time there is a written opinion of a law officer and the investigation has to be done by a senior police officer among many other things. So it laid down these guidelines. Other than Maharashtra, no other state has these guidelines. Even when a PIL was filed in the Supreme Court saying that you have to enforce Kedarnath, the court simply said follow Kedarnath. It did not lay down any guidelines again. So today what situation is that across the country, there is no sanction required for arrest. A sanction is only required when a charge sheet is to be filed and charges are to be framed against you. But prior to that, there is no sanction required. Otherwise, it's required under 196 of CRPC. So to arrest someone for sedition is very easy. To fire a person to go to court and get a fire registered for sedition is very easy. So what I spoke about here to build a safety wall here as well is that create a provision or create a or at least issue guidelines across it should be by from the central government to all the states that even to arrest someone under 124A, you need prior sanction or the approval of a high ranking or IG, DG level police officer without a can't even arrest someone for sedition."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:49:05.400",
+        "message": "And the argument is that we do have other laws like UAPA."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:07.840",
+        "message": "So we don't really need which is a very stringent law."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:49:09.880",
+        "message": "It is a draconian law in itself. We should go by itself. But you're saying it's a political reality is there to stay. So why not at least do away with sedition? So you know, we'll have to wind up soon. So I'll have one final sort of question for you. And I'd urge all the listeners to read the book. And if we focused on the historical aspect of it so far, that's what the book also does extremely well, and which is extremely important. But to read the later chapters about how the sedition law is in modern times, do read the book. My question to you is this and here I will be slightly mischievous. And I will invert Mr. Tilak's argument and use it against the law which was used to imprison him, which is Tilak's argument back in the day when the age of consent law was passed, was that look, this is a necessary law, but society is not ready for it. Most people agree with this. So change has to happen gradually. It cannot be imposed top down. Now in the modern time, you and I are sort of elite liberals who don't believe in all of these free speech laws like 124A, 153A, 295A. We would just like them to go right. But a modern day Tilak could make the argument that society actually agrees that free speech should not be absolute and these laws are necessary, and that the state is absolute and it is a crime to be against the state. And therefore, society is not ready for these laws to go and we need these laws. How would you respond to that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:50:30.240",
+        "message": "No, so I would say let the data speak for itself then. If you look at NCRB data on 124A, which they started compiling from 2014, the number of FIRs are measly. The numbers are very, very low. They claim there have been two convictions. The NCRB report claims one conviction. The MHA in Parliament claims two convictions. I haven't found even a single conviction in these two years. So your argument is no one is getting convicted under it? And the chilling effect is massive. The chilling effect is massive. So what I'm saying is today at the end of the day, in these three years now, with the 2017 report coming out from 2014 to 2017, only six sedition trials have been concluded. Only six trials have been concluded. And if that is the rate at which trials have been concluded and no one's been convicted and most cases are dying even before charge sheets are being filed, then what are you doing with this law? Why is this law in existence?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:22.440",
+        "message": "I mean, one could then argue that there are also good laws with low conviction rates. So does that mean don't have the laws on the book?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:27.440",
+        "message": "Could be, could be. But this law, when you have UAPA, when you have laws against destruction of public property, that is what everyone is being accused of. If they say violence, even the violence is only against public property, no one can overthrow the government. The government is not brittle. I keep saying this, that the government is not brittle today. So all they say is someone burnt a few buses, so convicting for sedition is not right. There are other laws to take care of that. There's laws to take care of murder, there are laws to take care of arson, of everything's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:54.240",
+        "message": "in place. You don't need this. So let me ask you a postscript to my final final question, which you can answer very briefly before you run through Bombay traffic to try and get to your flight in time. Good luck with that. And the question is that, you know, I remember writing columns 10 years ago against 377 against the adultery law, and they're both gone today, that you know, things evolved to a stage where they could go naturally with no outcry and no interest groups insisting on keeping those laws. Are you hopeful of a time? And if so, how long will it take that before many of these draconian laws, especially these sort of free speech laws, and even laws like the UAPA, you know, that our society matures enough to say that, hey, we don't need this in a healthy democracy."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:52:32.760",
+        "message": "We may mature enough to say so, our political parties have to mature enough to do that. Is it a demand and supply? No, it's not really because at the end of the day, they are the ones who come to power, it could be a Congress, it could be a BJP, it could be a TMC, it could be anyone. But for them, it's a very useful tool to have. Why would they give it up? Why would they give it up? So it's a political party which has to mature and say, you know, I'm not afraid of this. So they are the ones who have to mature at the two hopeful statements were made very recently by two Supreme Court judges, one of whom will become the Chief Justice of India after the tenure of the next two and, and he says that when a cartoonist is arrested for sedition, the constitution weeps. And Justice Deepak Gupta recently gave a speech in Ahmedabad where he criticized the law of sedition. So hopeful statements are coming forward. But then at the same time, we have a Rajnath Singh and Amit Shah and other politicians of the BJP saying that this law is required and we will make it stronger. So that's why I'm saying people may still believe that law should go. It's a political parties were to be mature enough to say they're not afraid of criticism. They're not afraid of people saying that what you're doing is wrong. They have to take it sportingly. They know that the country cannot be overthrown by a motley group of critics."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:48.120",
+        "message": "It's as simple as that. After doing so much to come to power, why on earth would you give some of it up? On that hopeful note, Chitranchal, we could have spoken for hours more."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:53:55.840",
+        "message": "You should have been here tomorrow morning."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:57.640",
+        "message": "Thank you so much for coming on the scene in the unseen. Thank you so much for having me. If you enjoyed listening to this episode, do hop over to your nearest bookstore and pick up The Great Repression, the story of sedition in India by Chitranchal Sinha. You can follow Chitranchal on Twitter at Ghair underscore Kanuni. Let me spell that for you. G H A I R underscore K A N O O N I. Ghair underscore Kanuni on Twitter and Instagram. You can follow me on Twitter at Amit Verma, A M I T V A R M A. You can browse archives of the scene in the unseen at scene unseen. I am IVM podcast.com and thinkpragati.com. The scene in the unseen is supported by the Takshashila Institution. Postgraduate courses at the Takshashila Institution start in January. Do hop over to takshashila.org.in to check them out. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:55:00.160",
+        "message": "How aware do you think you are of your laws and rights? Do you look up to laws when you are caught up in situations? Do you know what your rights are when you're stuck somewhere bad? Well, here's a show that can help you move an inch closer to being aware of what your rights are. Tune in to know your Kanun with me Amar Rana. This is a podcast meant to answer all your law related queries. Catch Know Your Kanun every week on the IVM website or the app or anywhere you get your podcast from. Namaste, I am Saurabh Chandra and I am Pranay Kutastane. When the gathering is over, we start solving the most difficult problems of the world outside the door. We start with the most difficult problems and when we get to the most difficult problems, we start solving them. Now, apartment owners may not have seen a bridge, but you can understand the feeling. So, join us in solving the most difficult problems. Pranay and I will go to the depths of the most interesting topics. Artificial intelligence, Bitcoin, Pakistan, medical education, currency crisis. Sometimes with both of us, and often with the company of a special expert guest. Catch Know Your Kanun on the IVM website, app or on your favorite podcasting platform today."
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "IVM"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:04.000",
+        "message": "You think you're very smart, don't you? Well, it depends on how you look at it. Compared to a chimpanzee, for example, you're quite smart. Compared to many of your fellow humans also, you might qualify as smart. I mean, why else would you listen to this podcast? However, compared to AlphaZero, you're not smart at all. In fact, compared to AlphaZero, both you and I are incredibly stupid. We're as dumb as rocks. Which is fine, because hey, it's no crime to be stupid. We have the brains we are born with. What are we going to do? So being stupid is not a problem, but our problem is that we are stupid and arrogant. Oh my God, we are so arrogant. We think we are the smartest species on this planet, which used to be true till recently. But it no longer is."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:48.000",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Verma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:58.000",
+        "message": "Welcome to The Seen and The Unseen. Before we get into today's episode, a brief note from our sponsor for this episode. Are you one of those people, as I used to be, who enjoy art but somehow never got into actually collecting art because hey, paintings by good artists are scarce and expensive? Well, then check out IndianColors.com. Indian Colors licenses images from top Indian artists and puts them on objects of everyday use. There's wearable art like kaftans, shrugs, some lovely strolls. There's home decor like cushion covers, accessories like tote bags. Artists get royalties on sales of these products, which I find an interesting new model. Normally, authors get royalties on books and artists only get paid once when they sell the original painting. This gives them a new revenue stream and it also makes art accessible for people like me because we can finally afford to buy it. Even better, there's a sale on right now. So head on over to IndianColors.com, colors spelled with O-U, not just O, and apply the coupon code IVM20, IVM for IndusWorks Media, IVM20 to get a 20% discount. Remember, IndianColors.com and colors with an O-U. And now on with our regular programming. Today's episode is about AlphaZero, the computer program that created waves recently when it taught itself to play chess in four hours and then thrashed the strongest chess program in the world, the mighty Stockfish. This wasn't just an incremental leap in artificial intelligence, but was indicative of a quantum leap. To get more insight on this, I spoke recently to my friend Devangshu Dutta. Devangshu, or DD as his friends call him, is not just a noted columnist and financial analyst, but also a serious chess player. His chess column every Saturday in Business Standard has been running since the last millennium. I've always found him to be a source of great insight on both chess and artificial intelligence. Here's the conversation I had with him. Welcome to The Seen and The Unseen, Devangshu."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:52.000",
+        "message": "Thank you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:53.000",
+        "message": "Devangshu, let me start by asking you about AlphaZero's achievement. I mean, computers have been around for a long time. Deep Blue first beat Kasparov in 1997, and computers overtook humans in terms of playing strength a long, long time back. What is so special about AlphaZero?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:03:10.000",
+        "message": "Two things, really. One is that it thinks differently, if one can use the word think for a computer. The second is that it is, at least from the few games that have been released, of its match with Stockfish, it is considerably stronger than the strongest chess-playing engines which are available commercially. It is also, the third thing which is, of course, one is taking on trust, is that it taught itself, and it taught itself very quickly,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:54.000",
+        "message": "how to play chess. Can you tell me a little bit about how computers, before AlphaZero and all the decades past, approached chess and what the artificial intelligence to figuring out chess was?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:04:05.000",
+        "message": "From the 90s onwards, and you know Moore's law that processors essentially double in strength every two years or so, from the 90s onwards, computers have essentially worked on the brute force method. You look at every possible move in a position, you look at every possible response to that move, you carry on doing this to the kind of depth that time and the processing power allows you, and you come to an evaluation of what you think is the best move. I'm using the word you and think very loosely here, obviously. From the 2000s, what happened was that people figured out how to get computers to evaluate positions more efficiently. You had a lot of basic things every decent chess player is taught. You look at mating possibilities, you look at material advantage, you look at pawn structure, you look at more space control, stuff like that. People managed to program these into computers in a fairly mathematically exact way. The computer had these benchmarks for rules for evaluating positions, and you also had a lot of very clever techniques used to prune the search process, because the problem with chess, of course, is that it involves a huge number of possibilities. The deeper you go, the more and more the possibilities expand. What chess programmers managed to do was use a variation of the minimax algorithm where you look at the move that can give you the maximum advantage and you assume that your opponent will also be looking at the move that can give him the maximum advantage. So your maximum is his minimum, because this is a zero-sum game. And you keep continuously saying that, okay, my maximum advantage is, say, a pawn up, and my maximum disadvantage is, say, a pawn down. And you keep chucking out the possibilities which are worse than a pawn down, and you keep looking for the possibilities which are better than a pawn up. So, you know, you look at a possible move, number one, and you say, okay, this is my best and this is my worst possible outcomes. And then you look at move two, and if you see move two is giving you a better than your previous best, then you'll go automatically to move two and discard move one. Now, this is a fairly efficient process, and it made programs stronger. Stronger in the sense that if you use the programs post-2000 on 1990s hardware, you'll still get better results than you would with the programs of the 1990s. And of course, since hardware was improving, this process got better and better and better."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:43.000",
+        "message": "So let me sort of summarize it so far, so you can tell me if my understanding is correct. How humans typically learn chess is because our computational powers are limited, we use shortcuts called heuristics. So, you know, we are taught things like you should occupy the center first, and these pawn structures are good, and your bishop should have a lot of space to move, and, you know, you need to develop your pieces, don't move a piece twice in the opening, and so on and so forth. And using these heuristics, we sort of learn the game, and obviously, as we grow more and more advanced, we learn better and better heuristics. And these are all shortcuts to calculation. Now, computers, theoretically, you'd imagine, would, given processing power, would just need to know the rules, and they'd use brute force, and they'd see through every move, and solve the game. But what you're saying is this is not exactly what happened. How they instead evolved was they got a lot of brute force to do enormous amounts of calculation completely, but the game wasn't solved per se, and different programs evolved in different ways depending on heuristics that were fed to them, which were a combination of the heuristics humans learnt about chess, and therefore those biases, if they were at all, also got fed into the system, and were also specific heuristics, which allowed it to prune down decision trees, and, you know, satisfies, I don't know if that's a correct word in this context, but just keep taking better decisions like that. Is that broadly accurate, what I just summed up?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:14.000",
+        "message": "Broadly, yes. And, of course, the thing with the brute force, part of it is that you could completely solve, say, positions which had not more than seven pieces on the board, not more than six pieces on the board, which also helped you to extrapolate backwards, you know. When you have nine pieces on the board, a computer will play almost perfectly because it can flash to a position where there would be just seven pieces, and it knows that position is either win, loss, or draw. So, yeah, so, yes, you worked out, but essentially this was human beings teaching computers to sort of think like computers, but with an enormous amount of processing power thrown in, and hence being able to calculate in far greater depth. There was also the other thing is you would normally feed in, you know, a million games or four million games where stuff that human beings had learned, say, opening systems, which we had discovered over the course of a lot of practice that, you know, a certain move in the opening was probably better than any other move in that particular position. That kind of knowledge was also fed in in terms of opening books, which were assimilated by computers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:10:48.000",
+        "message": "And to be clear, computers got so strong that no human could possibly beat any of the top software programs anymore."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:10:55.000",
+        "message": "Oh, yes, you can take circa 2012, say, you could take a normal off-the-shelf Android cell phone and a free program, an early version of Stock Fix, for example, and it would have beaten a world champion, you know, 100 times out of 100. It would be the equivalent of, let's say, Usain Bolt trying to outrun a Maruti 800. If you want to use a similar analogy, a Maruti 800 isn't a particularly powerful or quick car, but it can beat a world-class splinter, hollow."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:42.000",
+        "message": "So, before I get to AlphaZero, I want to sort of take a digression into a subject in which you and I have had a bunch of fascinating conversations, which I found really enlightening. One always assumes that when computers get into anything, it takes on almost a machine-like quality, and therefore there could be that clich\u00e9d assumption that if computers dominate chess and people are using computers to learn how to play chess, they'll all start playing in the same way, like machines. But actually, as you've often pointed out at length, it's exactly the opposite. Can you talk a little bit about that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:12:16.000",
+        "message": "Yeah, what happened was first it democratised teaching, because if you had access to the internet and you had access to a half-decent, even a half-decent cell phone, you had a very powerful tool at your command to learn how to play chess. You could look through games simply by using the machine for analysis and see that, oh, okay, this move works, that move doesn't. And as a result, in earlier eras, what you had was chess schools. For example, the Russians or Soviets had a lot of magnificent players, and most of whom also ended up training a lot of very good players. But India, in contrast, to use an obvious example, had nothing. We didn't have good players, and we obviously did not have good trainers as well. The only downside to this, apart from the fact that you had clusters where you had strong chess-playing countries and you had weak chess-playing countries, was that every human chess player has strong biases and dogmas. For example, a highly tactical attacking player will tend to pass on his assessment of positions to his pupils, who will tend to also inherit those biases. What happened when you started having this sort of computer-aided analysis and coaching, for want of a better word, was a democratization where those biases largely disappeared. So you ended up having a new generation of players. They're called Fritz Kids because Fritz was one of the early programs. It's still a popular line in the chess engine programming. They were called Fritz Kids. They developed without a lot of these biases and baggage. They also discovered the other thing which we learned when computers started playing really well was that a lot of positions which humans would just dismiss as completely won or completely drawn actually had possibilities which humans had not appreciated, simply because computers could calculate at greater depth than human beings. So you also discovered a new generation who were very hard-nosed, very concrete in terms of calculation, who would not take a value judgment for granted. They would be prepared to play positions which earlier generations would have considered horrible just because they knew that there was a computer evaluation saying this position is good or this position is even just equal. So yes, you had an enormous variation in terms of style and a lot of modern players who play in ways which would earlier have been unclassifiable. The other thing, of course, being that you have 24-7 online forums where you can play chess with good players at any given point of the day or night which is comfortable for you and it doesn't matter where you're sitting. So again, you had, if you like, the 10,000 hours worth of practice which an earlier generation would have had to develop over five years of trying to play a few tournaments, etc. here and there. You had that for a new generation that was being crammed into a much shorter actual space of time. Hence, you also had prodigies who, at the age of 13, 14, were developing a huge amount of skill and who had styles and techniques which were completely different from earlier generations."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:40.000",
+        "message": "One thing I find interesting here is not just that the variation of play has gone up among human players and something that you're now seeing as a correspondence player is that, you've often told me, is that even the machines have different styles and play differently because they've kind of evolved in different directions."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:59.000",
+        "message": "Yes, this has also happened, for example, and it's something which you use particularly in correspondence and analysis. You sort of use a shorthand, you say that, okay, this is the kind of position I would like to analyze with Junior because Junior is a highly tactical engine and this is the kind of position I would like to analyze with Komodo because Komodo is a very positional engine which looks for long-term static advantages. Yes, you also have variations, actually, in terms of number crunchings in that certain engines are designed to be brute force number crunchers to a maximal degree, others tend to make the evaluations faster. So again, if you're doing an analysis in a limited period of time, you would use a certain engine and you would keep switching engines when you're looking for a human understanding of a position, that is, you want to come to a conclusion that, is this position something I can make sense of? And of course, really good players tend to also adapt engines to finding positions that they like and that their opponents might be uncomfortable with. Let's say someone like Aronian or Carlsen is not necessarily looking for an outright concrete advantage when he's analyzing with a computer. Aronian is looking for a position which he thinks Carlsen is not going to be comfortable in and vice versa. So you have these little variations which can actually be quite important from a practical player's point of view. Yes, that has certainly happened."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:07.000",
+        "message": "And despite the sort of the fact that the existing computer engines or programs are different from each other, AlphaZero just seems to be a whole quantum leap ahead and one of the ways in which that is so is that it doesn't even really seem to be using brute force. Instead, it seemed to have worked out its own set of heuristics, some of which are very at odds with what we humans have traditionally been taught."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:29.000",
+        "message": "I think one of the problems here is that until and unless DeepMind ever releases logs of those games, and ideally logs of all 100 games which it played with Stockfish, you won't know for certain what its evaluations were. Because if you have the log, then you know on a move-by-move basis this is how it rated, let's say it's 19 possible moves and 26 possible responses its opponent might have had. But yes, it runs slower in the sense that it seems to process far fewer positions per second. DeepMind says that it processes about 80,000 positions per second, which is orders of magnitude less than modern engines such as Stockfish processes millions of positions per second. There is a caveat to that match. Stockfish was playing on hardware which I don't think was really up to the mark. And it was playing at an odd time control with a lot of constraints, but even so it would have been processing 3 or 4 million positions per second. Whereas AlphaZero was just looking at 80,000. The second part of this is that it seems to have learned things about chess which take its understanding to a different level. When you're looking at a computer analysis of a position, even when a computer finds a shockingly good or surprising move, it tends to be something which is practically beyond your thinking horizon in the sense that it is seeing a combination which is 10 moves deep, whereas as a human being your calculating ability simply doesn't go that deep. In AlphaZero's case, what it seems to have, at least in the 10 games that were released, what it seems to have found is positional evaluations where it's giving material for what is apparently very nebulous compensation, but you go deeper and deeper and there is a point at which you realize that no, there is very strong compensation, but it is not tactical. It is not as though you're finding 3 sacrifices in a row and forcing mate. It is more like you're strangling your opponent with slowly depriving him of moves. Him, again, is the wrong word to use, but you're slowly depriving your opponent of possible moves. It is difficult to understand at that level. It's the kind of chess which you can imagine someone like Anatoly Karpov playing if Karpov could analyze 80,000 moves per second. It seems to be an understanding which is well beyond the human. It's not based on concrete calculation in that sense."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:16.000",
+        "message": "On the one hand, it's not based on concrete calculations which other computers would excel at. At the same time, it's not based on heuristics which humans can even understand. I'm reminded of a quote on chess.com by Peter Hein Nelson, who is Magnus Carlsen II and earlier used to work with Anand. He said that, I've always wondered how aliens would play chess if a race of superior aliens came on to earth and played. And now I think I know, which kind of reveals a sort of awe with all of us who play chess, kind of looked at these games. I have two questions for you now. One really small and you need not spend much time on it, which are what are the implications of this for chess itself? And the second deeper one is, what are the implications of this for AI and human life in general, the way we are going?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:24:05.000",
+        "message": "The first one, I'm taking an analogy from Go, because AlphaZero's earlier version played Go and then of course they worked out this method of simply letting it play against itself and learning the rules as it goes along. What happened there is interesting in the sense that AlphaGo, as that particular program was called, beat world champions the first time it had happened in Go, which is a much more complex game than chess. And well, the world champions in question then looked at those games and computer programmers also looked at those games and as a result a year down the line you have much better Go programs being produced commercially. You must remember that Alpha is running on specialized hardware with enormous computing power, but you've actually had commercial programs coming out, Crazy Stone for example, which play much better Go and which seem to have at least imbibed some of the principles of learning which the AlphaZero, AlphaGo matches seem to have thrown up. Human beings now understand Go better than they did a year ago, which is amazing considering that Go has been played for at least, you know, there are recorded games going back 1200 years. So you suddenly have this jump. I suspect similar things will happen in chess, because people will look at these games and they will say that oh okay, you can maybe ask a computer to do this kind of thing. The other part of this is that both in Go and chess, Alpha seems to use a lot of Monte Carlo analysis where it randomly plays games against itself with, you know, all the possible moves in a given position which looks about equal. And then it sort of makes a judgment on the basis of actually playing games with itself as opposed to merely evaluating a position. So I think you'll have some of those techniques being picked up and incorporated in commercial programs possibly with a fair degree of success. I would expect a year or two down the line that computer chess in general will have got stronger and probably human beings will have learnt a bit more."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:52.000",
+        "message": "And that will make even human chess so much more exciting because you'll have new styles and new sort of frontiers."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:26:59.000",
+        "message": "Yes, and I think you'll find that, you know, there are 10-year-olds and 13-year-olds who are once again playing in ways that even the 20-year-olds don't understand."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:14.000",
+        "message": "I mean the 20-year-olds play chess, the 35-year-olds don't understand. Besides being a very active player, you've been a chess coach, you've worked with people like Surya Shekhar Ganguly and Tanya Sachdev and all that, and you've kind of seen these generational changes happening in any case, haven't you?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:27:30.000",
+        "message": "Yes. Shudjo, for example, is a pre-computer era player. I mean, Shudjo is in his late 30s now, but he is a pre-computer era player in the sense that, you know, he was already a pretty strong player and by the time computers became seriously useful. Similarly with Tanya, she learned to play. I haven't really worked with Tanya, by the way. I have worked with Shandipan Tando, for example, and I've worked with several of the, in a very random way, with several of the younger ones. There is a difference in the way they play. There is a difference in the way they play and in the way that the average 16 and 18-year-old plays or evaluates positions nowadays. That's very clear. In general, standards have gotten much better. The average 1800 or 2000 LO player of today knows a lot more and is usually self-taught to a large degree. There is a lot of coaching involved, but a lot of them are self-taught in the sense that for every hour of coaching they've had, they've played 10 hours of games with each other online and they've worked maybe 20 hours with programs. So, you know, the coaching to playing to self-analysis ratios are very different and they've learned a lot. They've taught themselves a lot more. I think if AlphaGo is an example, AlphaZero is an example, and it sets new boundaries, I think you will find that over the next two, three years, there will be a generation of chess players who learn even more and who manage to incorporate some of that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:40.000",
+        "message": "Can't wait to see those games. Let's move on now from chess to artificial intelligence."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:45.000",
+        "message": "Yes. The interesting thing there is that if you think about it, chess, Go, Game of Life, several other such games, have very narrow, very simple rule sets. You play it by, you know, the moves as such are very narrow, very well defined. And can lead to immense amounts of complexity in practice. You have similar things happening in nature. For example, DNA... Hello? Yeah, I'm here. Sorry. For example, DNA combinations, according to very simple, well understood rules, things like protein folding, which is again fairly important in terms of genetics, again occurs according to fairly simple rules. The problem is that human beings cannot number crunch the enormous number of variations that can occur by those very simple combinations. The combinatorial possibilities, you know, go beyond the bounds of computation very quickly. In that sort of situation, something like AlphaZero and this self-teaching method could actually come up with basic scientific insights which we are not capable of, which we cannot program into computers because we don't understand them ourselves. And these are also situations where even a really fast computer cannot solve a protein folding problem by brute force. So you have a great deal in the way of possibilities of basic science breakthroughs by using artificial intelligence in these areas. The other thing which is fairly useful at a practical level is that AI is usually the first primary learning process where you're teaching an AI to do something is very human intensive. For example, to take a very simple example, when you put an autonomous car on the road, you are feeding in tens of millions of pictures and you're telling the car that this is an advertising billboard, this is the back of a truck, this is a human being standing on a zebra crossing, this is a human being not standing on a zebra crossing, this is a guy wearing a helmet on a bike, etc. And a human being actually has to go through this process of teaching the AI. When it's gone wrong, one of the few fatal accidents that have happened with autonomous cars was when an autonomous car mistook the back of a truck literally for an advertising billboard and tried to go under it. So you can have horrifying situations if this goes wrong. Now, a self-teaching program like AlphaZero might cut the human intensive work hours required to do this kind of programming by orders of magnitude. And that could be very, very useful and it is quite possible that they would do it more efficiently as well. If you're looking at this as an example, it's quite possible that in a lot of cases they would do it more efficiently as well. If, for example, landing a spacecraft on Mars or the Moon is completely autonomous, it has to be because you're seven seconds away, I think, from the Moon in terms of radio communication and you're more than an hour away from Mars, I think, if Mars is not at an average distance between Earth and Mars. So you obviously cannot send instructions and say, now you put down your landing gear. It's completely autonomous. Now, that sort of thing, if you could actually get the computer to teach itself, it might do it more efficiently than you do. So those are areas where I think the specific techniques AlphaZero has come up with could make a huge difference. Obviously, we'll have to wait and see how this is applied."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:34.000",
+        "message": "I mean, the analogy that kind of comes to mind, and, you know, correct me if it doesn't sound right to you, is that, you know, what we can do is a known-known, but what computers can do with brute force, for example, would be a known-unknown, that you understand the process and you understand it's possible that it's calculating all these moves. So you kind of know what's going on. But the self-learning kind of computers like AlphaZero are sort of an unknown-unknown. We don't even understand what's going on. Absolutely. And, you know, I had a thinker called Ramesh Naam on this show a few months ago, and he was talking about AI, and he said something very interesting, and he said that AI is something people talk about as if it's in the future. You know, whenever what was AI yesterday actually becomes part of your life, you stop calling it AI. For example, our smartphones are basically the science fiction of 1990. You know, the kind of GPS that is the kind of... You know, all of the technology is essentially really advanced AI from a 1990 perspective, but we take it for granted. And I've always looked at AI as something that adds a lot of value to human life, and it's just overwhelmingly an awesome thing. But there's a lot of alarmism recently, and some of it actually comes from the self-learning nature of some of these machines and programs where people have been speculating about how these self-learning programs, so to say, could develop a consciousness and even wipe us out, you know, so on and so forth. And how justified do you think is that kind of alarmism?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:03.000",
+        "message": "At a very practical level, you now have things like lethal autonomous weaponry. For example, you have the Israeli Iron Dome, which stops rocket attacks into Israel. It is an autonomous system. If it sees... If it senses, rather, that there is an airborne object approaching at a speed, it will launch its rockets to knock that out of the sky. Something similar to protect army bases in Afghanistan at a narrower level. The Koreans have put up what they call sentry guns, which is an autonomous weapon on a militarized zone, where if it notices a movement and it's using... It's searching across radar, infrared, what have you. It sends out... It actually has a mic loudspeaker which says, OK, friend or foe. And if the response does not come up with the password of the day, so to speak, it can launch grenades, it can shoot, or it can just ring an alarm. Now, you take that one step further, it is possible to program a drone, a small drone, with face recognition and send it out and say that, well, if you see a guy who looks like this, shoot him or explode in his face. There was a seven-minute documentary movie done recently for the UN conference on conventional weapons, which demonstrated how this is possible. And you could send out swarms of these creatures, using the word loosely, and they could be programmed to, you know, fire explosive darts whenever they found somebody who was a target. Now, that sort of thing is already practically possible. And it's not in the realm of the self-aware and conscious and what have you. But it is already practically possible. There are no laws against it in terms of, say, the Geneva Convention. And obviously, many governments are tempted to develop and deploy weaponry like this. For example, India would be very interested in putting up something like a sentry gun on the line of actual control. So that is one of those areas where AI could lead very rapidly into the realm of what is now science fictional, but will not be in a matter of a couple of years. And that's more likely to happen than, you know, when AI develops consciousness and decides to kill all human beings. That's maybe a little far-fetched at the moment, but an AI which is told to go out and kill everybody who is, you know, 5 feet 9 inches, between 5 feet 9 inches and 5 feet 11 inches tall, and happens to have a skin color which is between this and this, is entirely possible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:38.000",
+        "message": "And it could be done by rogue elements as much as military,"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:41.000",
+        "message": "it could be done by, you know, a bright 19-year-old buying stuff off the shelves and putting together a face recognition program."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:51.000",
+        "message": "And yeah, and you know, you've done a previous episode of The Seen and The Unseen with me where we spoke about privacy. And another recent example of AI in my life was when I was discussing Malwani cuisine with a friend, and it was not something I had searched for or looked up online or anything. It was just a verbal discussion. And the next time I go online, there's an ad right there for Malwani cuisine on, you know, whichever app I open, which a lot of people kind of find eerie and others would say, hey, it's a feature, not a bug. In general, looking ahead at artificial intelligence, would you say that the future seems more utopian"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:26.000",
+        "message": "or dystopian to you? I think technology itself tends to be morally agnostic. So it's, you know, you can use this sort of technology equally as a force for good. So that is entirely possible, and you could use it for all sorts of things. For example, the whole thing of an autonomous AI ambulance has been thought of where, you know, it just goes there, takes a few pictures, diagnoses what the problem is, delivers emergency services. That kind of thing has already been thought up."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:06.000",
+        "message": "In fact, it could possibly get to a venue where, you know, before something happens."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:11.000",
+        "message": "Yes, quite possibly. If you go with the fact that, you know, there's a lot of programming happening on using social media to figure out that, okay, somebody is suicidal, for example, and he's posting on social media, and you couldn't get there. So that kind of thing is entirely possible."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:33.000",
+        "message": "Yeah, in fact, for those who say there's no free will, then everything just becomes a data crunching exercise. Devangshu, thanks so much for coming on the show. I had a great time talking to you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:42.000",
+        "message": "You're welcome."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:45.000",
+        "message": "If you enjoyed the show, do follow Devangshu on Twitter at Devangshu Dutta. That's D-E-V-A-N-G-S-H-U-D-A-T-D-A. You can follow me on Twitter at Amit Verma, A-M-I-T-V-A-R-M-A. Also follow IVM Podcast for a bunch of other great podcasts on Facebook and Twitter. And for past episodes of The Scene and The Unseen, just head on over to sceneunseen.in. Have a great week. Episodes out every Thursday."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:43:07.000",
+        "message": "Happy listening."
+    }
+]

@@ -1,0 +1,467 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "What is India's population? If you Google it, the number you will get is just over 1.3 billion people. But is that the real number? Think of it this way. Almost half of that number is women. And in our country, women are treated as second class citizens. In most of India, it's understood that a woman's destiny is to one day get married and raise a family. The education of women, the education of girls rather, or their skilling, is not given enough importance. And if they do ever end up getting into the workforce, they are already at a huge disadvantage. Simply put, half the productive resources of our country are not treated as productive resources at all. In fact, all our citizens are condescended to and restrained by a parasitic Maybab government. And whatever we achieve as a society is in spite of the state. But leave that aside for the moment. My point is that because of the way we treat our women, we are functioning at any given point in time, at just half our capacity, at best. And this is not just a function of our cultural norms. This is embedded in the"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:07.840",
+        "message": "law. Welcome to The Scene and the Unseen, our weekly podcast on economics, politics"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:21.680",
+        "message": "and behavioral science. Please welcome your host, Amit Badma. Welcome to The Scene and the Unseen. Before we begin, a word from the sponsor of this episode, and indeed the last few episodes. Indian Colors is a company that licenses art from contemporary Indian artists and adapts it to objects of everyday use. They have home decor, like cushion covers and table runners. They have accessories like tote bags. And what I particularly like is their wearables, their kaftans, shrugs and stoles. This allows people like me, who can't actually afford to buy expensive paintings to hang on the walls, to surround myself with art at an affordable price. And even wear some of it, their kaftans are damn comfortable. Artists get royalties on each product sold, just like authors do for books. And some of their artists include Sameer Mondal, Dhruvi Acharya, Brinda Miller, Shruti Nelson and Harin Vakil. They've just got a new collection of stoles out with some funky designs by Deepak Shinde and Dilip Sharma. You must check that out. Head on over to IndianColors.com, that's Colors with an OU, to check out their offerings and use the code IVM20. That's IVM for Indus Fox Media, 20, IVM20, for a 20% discount. IVM20 is a code at IndianColors.com, Colors with an OU. And now, on to today's episode. Later this week, on March 8th, we have something called Women's Day. On the same day, as it happens, a Supreme Court hearing is scheduled of the infamous Hadiya case. Now, it's long been my case that our laws are deeply misogynistic. In fact, I'll launch into a rant about this at the start of my conversation in this episode. And many of these are laws in the Indian Penal Code framed in the 19th century by the British. One could argue that they exist today only because of the inertia of the system. Well, it is my case that such misogyny exists not just in outdated laws, but also in the minds of lawmakers and the judiciary today. And the Hadiya case is but one example of that. My guests on the show today are two friends of mine who feel as strongly about this as I do. Madhav Chandravarkar is a lawyer, a legal expert and a fellow at the Takshashila Institution in Bangalore. And he suggested the topic for today's episode. Hamsini Hariharan is my colleague at Pragati, the magazine I edit at thinkpragati.com and herself the host of a fantastic podcast called the Pragati Podcast. Here's a conversation I had with"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:03:36.640",
+        "message": "them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:37.640",
+        "message": "Hamsini, Madhav, welcome to the show."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:03:41.320",
+        "message": "Thanks so much, Amit. Thanks Amit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:43.320",
+        "message": "For my listeners, I should inform you that Hamsini also hosts an excellent podcast called the Pragati Podcast at thinkpragati.com. So do check that out. And because she's such a great host, and especially because she knows a lot more than I do about the subject at hand today, I've requested her to co-host the show with me, which doesn't mean she'll only be asking questions. She's got some great insights in the subjects. But apart from that, she will also know what are the right questions to ask Madhav. Now, before I dive into this episode, I just want to go on a bit of a rant. I did an episode a few weeks ago with your Takshashila colleague Manasa Venkatraman on how prostitution should be legalized. Aside the subject of that, one of the things we examined in that episode was a misogyny in the Indian laws. And these are laws that I mean, this is the Indian Penal Code, which we inherited from the British. So very briefly, there's 497 adultery. Now this is I'm not going to read this out because it has victorial language, which is an aesthetic affront to my editorial sensibilities. But the upshot of this is that when adultery is committed, the male adulterer who has slept with the wife of someone else is considered at fault because he slept with that woman without the consent of her husband, as if she is a husband's property. And there's this another law 498, which is enticing or taking away or detaining with criminal intent, a married woman, which really amounts to saying the same thing. I encourage you to look these up. But basically, she has no agency whatsoever. Now, this might seem like an old story. Okay, these are really old laws. We've got them from two centuries ago from the British. But the misogyny that is reflected in these ancient laws carries down to the present day in the mindset of our lawmakers and our judiciary. And that's what we're talking about today."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:27.040",
+        "message": "Yeah, we still have a Victorian morality that's sort of reflected in our laws, even though it's two centuries later. But Madhav, you're the lawyer in the room, right? So suppose I'm married, and my husband is committing adultery or flirting with another woman, then"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:05:42.960",
+        "message": "can I initiate charges against him? No, I was just about to interject when Amit was saying, you don't have any right to initiate criminal proceedings against your husband for sleeping with another man's wife."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:58.120",
+        "message": "But a husband would be able to initiate."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:00.640",
+        "message": "And that's because I don't count in this equation. Is that how it works?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:06:04.680",
+        "message": "Well, yeah, I mean, your agency is irrelevant, because not only can you not object if your husband sleeps around with another woman, you can't object if your husband decides to"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:16.560",
+        "message": "sleep with you against your consent. That's true. Marital rape is an inherent problem. And agency is something that I think we're going to be referring through all of this podcast, because whether it's in society and apparently by law, a woman's agency in India is of very, very little value. But moving on from adultery to the very recent cases, Amit, Madhav and I were talking about the triple talaq judgment recently, and how it's supposed to be a champion of women and particularly Muslim women. So does it live up to everything it's supposed to be a champion of?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:06:51.680",
+        "message": "Not really, because the grounds which they used to dismiss triple talaq were not really about the decisional autonomy of the women involved, but just a question of whether it was a quote, unquote, essential religious practice in Muslim personal law. So they said that it wasn't. And therefore, it was could be subject to constitutional scrutiny. When I think the reasoning that they should have gone with was that regardless of whether it's an essential part of a religion or not, any religious practice must subscribe and fall under constitutional principles like equality, and the right to life, to which triple talaq clearly does not and that should have been the argument that they made, but they didn't."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:45.560",
+        "message": "Your broader point there is that and this is something the Constitution should really have made clear that there are no exceptions at all to the values in the Constitution, whatever religious practices any of our religions might have, if they go against the principles we outlined in the Constitution, then they're unlawful period, right?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:08:01.960",
+        "message": "So, that would be an idealistic and the preferable way of interpreting it, but that is unfortunately not the current legal position in practice."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:08:12.280",
+        "message": "Okay, so the judiciary basically passed the buck onto the parliament, right?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:08:18.160",
+        "message": "Yeah, meaning they said that while they've pronounced on this, nothing prevents the parliament"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:08:24.440",
+        "message": "from passing a law."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:08:25.840",
+        "message": "Okay, so what did the parliament then do? So the parliament saw this as a clear opportunity, perhaps to reap political benefits, I don't know, but they passed a triple talaq bill, as it is colloquially known, the actual title is the Muslim Women Protection of Rights on Marriage Bill. Okay, so judging by that title, you would think that they deal with not only triple talaq, but all the various issues that Muslim women and Muslim women groups have been talking about for a while, like polygamy or nikkah halala. But there's no mention of those practices at all. And the Muslim women groups were not consulted in the actual construction of the bill, nor were their comments actively sought, which makes you question whether the bill was actually to protect Muslim women or not. Maybe they had some more nefarious ulterior motives."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:24.840",
+        "message": "It sounds like the legislature mansplaining as a whole to Muslim women that you are pronouncing something that is supposed to be in their favor to benefit them, but you don't actually consult them. They're not a party at the table."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:09:35.040",
+        "message": "Yeah, it's a we know best approach."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:09:36.920",
+        "message": "Yeah, I mean, again, this is about agency of Muslim women, right? If they're not consulted, if the bill is being passed only on one front and does not take into all their other concerns, then it's not really the progressive bill that they're posturing it as, which makes me wonder, is this even about women? This debate doesn't seem to be about women at all."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:09:58.280",
+        "message": "Right. In which case you wonder, then why bring the bill about? I mean, we can speculate on what the intent might be. Maybe they're posturing to their base. Maybe it's all just optics and so on and so forth. But the fact that the people directly affected by the bill, on whose behalf you claim to be speaking, aren't actually a party at the table. The most important stakeholder isn't consulted. Seems bizarre to me and a continuation of how women are constantly considered not capable of agency and treated in a patronizing way."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:10:26.640",
+        "message": "Yeah, that's the thing. This is not something that's new, again, in Indian society or law, I'm guessing. Because women are generally seen as, you know, malleable, for example. And there was a more recent case, wasn't it? Was it the Farooqui case?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:10:43.320",
+        "message": "Yeah, Mahmood Farooqui, the co director of Peopley Life. So he was convicted by the trial court, but it was overturned by the High Court on extremely weak grounds, where basically, they tried to be woke in many ways, they tried to talk about global debates about affirmative consent and whatnot. But then they also have a sentence that basically says sometimes a no means a yes."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:11:15.080",
+        "message": "Wait, mother, take a step back, what is the case?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:11:17.840",
+        "message": "What happened? So the case was that there was a international scholar from Columbia who'd come to do some research, she'd gotten in touch with someone to speak to Mahmood Farooqui, because he is one of the premier people on the Dastogi. Dastan Goi. Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:38.360",
+        "message": "In fact, if I remember correctly, she was introduced by Danish Hussain, who's a friend who used to run Dastan Goi along with Mahmood Farooqui. And despite being a close friend of Mahmood Farooqui became a witness for the prosecution."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:11:50.080",
+        "message": "Okay, exactly. So, so she'd gotten in touch, they'd met a couple of times, I think most of the times that the scholar and Farooqui had met, he had been inebriated. So there were some prior instances of him being inebriated before the actual event took place. Plus, I think they seem to have a mutual attraction to one another. I think they may have exchanged some kisses at a party."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:12:16.120",
+        "message": "How does any of this matter? This is not a gossip rag. But how is any of this pertinent to the Supreme Court judgment?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:12:22.440",
+        "message": "Exactly. So it's pertinent to the High Court judgment, I'll get into the Supreme Court later. But the High Court, this was basically Farooqui in the High Court, hired like the best lawyers,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:12:34.840",
+        "message": "it was in the Delhi High Court. But let's first continue, let's first rewind and continue with the narrative you were telling us of what actually happened in the case."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:12:41.400",
+        "message": "Okay, so basically, they had these sort of interactions beforehand. And then Farooqui invited her to come over, she was, and then to come over and Danish would be accompanying them. And then subsequently changed the invitation to say, Oh, I forgot, I have to go for a wedding. So the scholars under the impression that she would be going to a wedding with Farooqui and his wife. However, when she reached, though the wife was there, two people were exiting beforehand, people that she'd never met before. And there was a short period where she was alone with Farooqui and Farooqui was described as being extremely drunk. She called Danish because I think she was a little unsure because this was the first time that she'd met Farooqui where no one else was there. All the other interactions, other people were present, whether it was at a party or not. And he then said he was unable to come. And then he was also extremely drunk. He has admitted in the course of the proceedings and in interactions with her to be bipolar. And he was crying and apparently was crying to the extent that he had snot in his mustache and a very unappealing, is in a very unappealing state of, which is actually is made relevant later on in the case. So she describes having a very maternal feeling to him at that point that she wanted to take care of him, ask him what his problems were. He, on the other hand, wanted to get fresh and kept on saying, can I, I think, can I suck you? Can I suck you? And she repeatedly tried to say no, that she thought it wouldn't be helpful to him in his current state of mind. He tried pulling down her clothes. She pulled them back up and this happened. And then finally, I think he got a little forceful, at least that's how she describes it. And she then decided that she, I think, was remembering Nirbhaya, which is a recent event at the time. And she decided that maybe things could get violent. I'm just going to go along with this. And she faked an orgasm to end the ordeal. And she wanted to leave immediately. But the two friends who were leaving the house as she came in, came back and there was some back and forth about leaving in a cab or an auto, what was safe. So she finally left 45 minutes later, at which point she immediately called Danish, recounted the events to which this is an undisputed fact, both sides and the telephonic records to attest to that. And then a couple of days later, she sent a mail to Farrukhi saying that I have, I regard you well, you're a good acquaintance, I like you and I love you and I want the best for you. But what you did was not acceptable. I am a person who owns my, I think she meant sexuality, but in the letter it says sexually. Or whatever. She said that she was someone who took pride in making her own sexual decisions. And that post this decision, she could no longer feel that she was facing trauma. And she eventually left the US, after which she recuperated with her family and friends a support system, and then finally worked up the courage to come back a couple of months later and file a case against him."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:49.200",
+        "message": "And if I'm not mistaken, he replied to this email and the email trail basically confirms"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:16:53.320",
+        "message": "this version. He says my sincerest apologies, though in the case, I think, with his expensive lawyers came up with some argument and how he only read the first two lines. And then that's the first two lines is what he expressed the my sincerest apologies comment in the reply. And but later in court said no, it was only to those first two sentences when I read the entire thing. No."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:24.760",
+        "message": "So it's not an admission of guilt. That was pretty creative."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:17:26.760",
+        "message": "So coming back to, yeah, it does. And in fact, it's only going to get more sickening because of the high court and the Supreme Court's interpretation of these events. So they employ what is a sort of a more legal version of the I'm not a racist, but argument where they say it is irrelevant to the question of consent, whether she met with him earlier and it kissed him. But it happened, meaning if they kept on saying it was irrelevant, but then they kept on talking"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:08.040",
+        "message": "about it. So they keep saying that every time you use, but in a sentence that but invalidates everything before it and saying that it is irrelevant to the question of consent, but means you're basically saying it is relevant to the question of consent."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:18:21.760",
+        "message": "And that is shocking. So the actual syntax of the argument is that the disclaimer, because their lawyers came at the end. So they said this is irrelevant to whether it is consent or not. And then to the actual event that was the on which the case revolved around, the high court took this argument that basically because she was and they were both educated people of good letters, that if she actually didn't consent, she would have expressed that affirmatively. And it completely negates all the academic studies and discussions around the various power dynamics that are inherent in any sexual assault, which are irrespective of whether you're educated or upper class or whatever sort of you want to say, this is something that happens across all spectrums of society as Harvey Weinstein and the subsequent allegations"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:35.760",
+        "message": "prove in abundance."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:19:38.160",
+        "message": "As everybody knows, I mean, this is not something you need to prove. So this reminds me of the time when I think post the Nirbhaya case, someone said, if someone is harassing you, just call him Bhaiya and he'll stop. And this is the same thing, you know, if she really meant no, why didn't she say it stronger? And this is something that we say to women time and again, whenever they bring about the questions of harassment, it goes, why didn't you do this? Why didn't you get in touch with the police?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:06.260",
+        "message": "Why didn't you scream for help? You know, in all the old cases coming out now that if this happened 15 years ago, why didn't you speak then?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:20:12.280",
+        "message": "Exactly. Which I hear all the time. And for example, they don't even take into consideration her fact that she is in immediate danger, right? If she says no forcefully, she has no clue what the guy would be doing to her. Because it sounds like the Supreme Court judges at that point in time think she's a man. And if she says no, someone's going to be like, oh, you meant no. Okay, then. All right."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:20:33.560",
+        "message": "Do you want a cup of tea? Yeah, exactly. So there's complete disregard to the context in which the so-called consent was given. And basically, all the onus is put on her to make sure that she is conveying to him that she is not consenting. So that is why the feeble no means yes argument basically amounts to that. It's not the man's job to figure out why they've kissed a couple of times before. So he thinks it's on. So it's her responsibility to ensure that it was clear. And the Supreme Court takes this to just unreasonable levels, because they say that the faking of the orgasm was a sign of consent. First of all, it happened at the end of the act. So how can you say that it's consent when it happens after or during as opposed to before? And then how is it got to do with anything clearly? These judges must think that they are pleasing their wives at all times and that their wives are never faked orgasm. Fake orgasm is a mythical beast like a chimera. I don't know what the background of their reasoning is, but it makes your blood boil. And that's just me as a guy trying to sort of empathize with how women feel, I just cannot even fathom how women would react to those kind of pronouns."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:06.320",
+        "message": "In fact, and this may not be pertinent, but a lot of these arguments, why didn't she say no more forcefully? Why didn't she speak out before? Why did she stay for 45 minutes after that? A lot of these arguments seem to me to be made in bad faith, where you've already assumed that the woman is making shit up or overreacting or whatever. And then you're finding clever ways to make an argument and prove that per se, you know, and of course, the burden of proof should always be on the accuser. But if you look at the email trail, and if you look at everything that happened, I thought this was an open and shut case, you know, clearly the man was guilty."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:22:38.600",
+        "message": "That's what I thought. Yeah. And also, in the judgment, in the judgments rather, so they talk about how he had bipolar disorder. And typically in law, if you're going to play some kind of burden or duty on the woman to make something clear, there's a standard of reasonableness. So someone who has bipolar disorder would would not pass that test of reasonableness because you would have to go above and beyond. So the fact that he did not understand should be his fault and not hers. Exactly. And the other is that it was, it's part of the undisputed facts that he was pissed drunk, which is another legal sort of standard for reducing the mental capacity of someone. So all the burden is placed on the woman to convince someone who is of a doubly unsound mind. And it's just bizarre how it's all on her."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:23:45.480",
+        "message": "No, you know, this brings to mind the stereotype that academic feminism talks about called the ideal rape victim. Your ideal rape victim would have never met her assaulter or harasser. Your ideal rape victim is chaste and pure and conforms to your normal societal norms in every sense. Your ideal rape victim will be emotional in court. So for example, there was a study that looked at how jurors reacted to different rape cases. And in cases where the woman was calm or not expressive of her emotions, the jurors were less inclined to believe her testament because if she had been raped, then she should be crying. So this is also about the way we think of women, right? I mean, Pink is a movie that's criticized on several accounts. But again, the thing that was shown there is that none of these girls were ideal victims, right? If they were educated, then why are they going out to meet these men? Why are they stepping out of the norms of our ideal woman type? This is not even the ideal rape woman. This is the ideal Indian woman. Why are these women going beyond that? The second thing that I want to bring about is the idea that everyone is talking about with respect to consent, which is the gray area, the gray area, which seems like a post modernist construct says, oh, you never know where consent is. This for example, is not a gray area. This is a very black and white."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:19.480",
+        "message": "This is as black and white as it can get. And it should be no, should always mean no. And the thing here is that no one will ever imply that a man's no could mean no or yes. But if it's a woman's no, it's up to the man to interpret it. And by chance, if he makes a mistake, well, then you'll make all kinds of clever arguments"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:25:35.760",
+        "message": "later. Yes. I mean, there is now a paradigm that people are saying that, you know, maybe instead of looking at no means no, we should look at enthusiastic consent. In the sense, only if a woman says yes, are you allowed to either flirt with her or be intimate with her, which seems like a much better paradigm because people clearly don't understand what you're saying. And other points that I'm going to bring up is in India, the culture of consent. So if I invite you to dinner, Amit, and we're very close friends, and you just don't want to come, it doesn't matter what your reasons are. Because it's the both of us, you'll say, no, I'm not coming and I'll be like, it's fine. But if it's anyone else, you'll go, actually, you know, I have work and then I have to do this thing. And I have all these errands that I can't go. And this is between the both of us. And you're saying this because if I just hear a no without any explanation, I will just be pissed off. We have a culture in Indian society that does not take no for an answer. And this is even, I think this adds a layer of complexity that consent doesn't have in the West."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:42.440",
+        "message": "People are trained to say no socially. This is a fantastic point. And it's not only relevant to like, intergender relationships. But even if you ask someone for directions on the street, he will very rarely say no, I don't know where it is. He will give you wrong directions rather than admit that he doesn't have that knowledge, which probably also is a male problem."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:59.960",
+        "message": "No, it's not only a male problem, right? I mean, even within genders, with respect to people who are older than you, it's just Oh, why do you want to offend them? It's because in Indian culture, people do not take no seriously. And when you bring it down to consent, it's even more dire. Because a case like this, which is, as you said, clearly an open and shut case is being interpreted, I don't even know in such a twisted manner."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:27:25.040",
+        "message": "And to me, the most disturbing argument is that they sort of flip a lot of these discussions, which are sort of more feminist and pro women, and use it to justify their decision. So for example, there's a passage in the judgment that this is a high court judgment where the normal construct is that the man is the initiator of sexual interaction. He performs the active part, whereas a woman is, by and large, nonverbal. First of all, it should have been passive. I don't understand this nonverbal, like just what the hell, like, what are you even trying to imply over there? But however, and they talk about how this is sort of become socialized in gender roles or whatever. However, in today's modern world, with equality being the buzzword, such may not be the case."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:28:20.760",
+        "message": "Equality is a buzzword, you guys."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:23.040",
+        "message": "It's a buzzword now, like, like stoles are in fashion."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:28:28.320",
+        "message": "And then they like eventually, basically say that because the woman's role is no longer passive, that it was her responsibility to clarify."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:28:39.960",
+        "message": "This is a high court trying to be woke and failing very miserably."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:28:44.240",
+        "message": "Yeah. And, and ultimately, like they, it's, as I said, it's, I'm not racist, but so they try and they talk about these debates on affirmative consent. But then towards the end of the judgment, they talk about four circumstances in which the memory recollection of a witness can be inaccurate. And there is some, there's scientific basis to those claims, but, and they go through the four instances or the four circumstances, which are one, if the observation took place in a poor environment, bad lighting, distance away from the event. The second is the sort of mental makeup of the observer. And they say, we'll go into this in detail later. And then the third is what happens in between the event and the recollection and how the recollection happens, which is the fourth with leading questions and such. So they go through all these four circumstances in which memory can be inaccurate, but then fail to apply it to the prosecutor."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:30:00.680",
+        "message": "Exactly. At the end, you're telling me they ruled in the favor of a man who claims that he's bipolar and was visibly drunk and use that in his favor."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:08.680",
+        "message": "And there's a sentence, this is towards just before they give the actual judgment, but it remains in doubt as to whether such an incident as has been narrated by the prosecutors took place. And if at all it had taken place, it was without the consent will of the prosecutors. And if it was without the consent of the prosecutors, whether the appellant could discern, understand the same."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:34.880",
+        "message": "So they attack a statement on three levels. And the third level is the most absurd that it's like saying that even if she said, no, if he wasn't in a state of mind that he could understand it, his actions are justified."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:30:46.080",
+        "message": "Really? This is like that pleading that he's insane. They are pleading that he's insane. Or stupid."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:50.080",
+        "message": "Actually, it's the last point is only something that commentators say they talk about him being drunk and they talk about him being bipolar, but nowhere does that factor into the discussions of his mental capacity at the time."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:06.400",
+        "message": "And also, even if they explain, they do not exculpate what actually happened."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:31:10.760",
+        "message": "Let's, I mean, this is, I mean, especially with law, because if you are intoxicated by your own will, that is not a defense. Exactly. It's only if you have been sort of slipped a roofie or something like that, where you can claim intoxication as something that protects you from criminal offense."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:31.360",
+        "message": "So this is like another case where, you know, the woman's consent and her agency is completely"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:31:35.840",
+        "message": "disregarded. So, no, and just to end with the Supreme Court, which recently dismissed the appeal of the High Court judgment by the woman in question, where they said it was a well-reasoned argument. I don't know on what basis they are saying that. When they were speaking to the counselor for the prosecutrix, it was hilarious in many ways because they said, okay, let's get down to the legal question. It is clear that they have some relationship between the two. And so then the Vrinda Grover said, no, meaning they knew each other, but they were not really, they did not have a relationship. So then they said, no, no, no, no, we didn't mean relationship in the colloquial sense, but then what was, that was not the obvious inference of what you said earlier. Then they made the point on the fake orgasm being consent, which was just absurd. And finally, in that letter that she sent two days later, they focused on just the statement that she said, I love you. They did not agree with your grammatical interpretation of the word but, because there was a but that came later, but they said, oh, which kind of rape victim later says, no, the exact question, ma'am, you are someone familiar with the rape cases in what kind of rape case, give me an instance of rape cases where the victim says, I love you later to the accused. Well, pretty, I know it's a rhetorical question, but pretty much every marital rape in this country. No, she answered, there are lots of cases say with the example of incest, at which point"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:33:30.120",
+        "message": "the judge said, no, no, no, no, it's okay, don't get into that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:33:35.400",
+        "message": "So then she said, like, I'm only getting into it because you asked me. And so they basically dismissed the special leave petition, the appeal, because she said, I love you later, despite the fact that she said, I love you, but what you did was unexcusable and traumatized. I did not give consent."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:33:59.600",
+        "message": "This is meaningless. And the very fact that that question was asked to Vrinda Grover indicates a severe lack of understanding and empathy on the point of the person asking it that like, come on, don't"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:34:09.080",
+        "message": "you get what she's been through so far, hasn't she been through enough without also having"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:34:14.440",
+        "message": "to face this and understand. So yeah, that's one thing I just like, as disturbing and sort of blood boiling as the High Court judgment is concerned, at least they took the time to go through it in detail and came up with like a very shitty end product. But at least they said, okay, this is something worthy of our time. All of what I said about the Supreme Court happened in a matter of 20 to 30 minutes where"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:43.240",
+        "message": "they dismissed it. Staggering. Let's, let's move on now to the other big case before the Supreme Court."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:34:48.960",
+        "message": "Please tell me that there is some light at the end of the tunnel, Madhav, please tell"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:34:51.680",
+        "message": "me, no, no, because it gets darker, we are going to talk about Hadiya now. Because at the end, Vrinda Grover asked, can you at least say that this case is peculiar to only these facts and it is not laid down an interpretation of consent?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:08.520",
+        "message": "Supreme Court said nothing to it. Let's move on now to talking about more darkness at the end of the tunnel. That's the Hadiya case."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:16.440",
+        "message": "So the Hadiya case is a perfect example of how the posturing does not equal the reality because it is a case that should have been dismissed at the very earliest stage. Ideally, what should have happened is at the moment it reached the Supreme Court, the Supreme Court said, okay, this is about whether Hadiya married with consent or not. Hadiya, why don't you come here? We'll ask you. It took like three to four proceedings to even get to that stage. And then just, it's rife, the Supreme Court were the ones who ordered the NIA probe. How is that relevant? The Supreme Court were the ones who remanded her to the custody of the warden. This is a 24 year old woman. Custody should not be part of the equation at all."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:06.360",
+        "message": "Let's rewind a little bit and give a TLDR or a quick summary of what the Hadiya case actually was. Basically, in two sentences, this woman chose to marry someone she fell in love with. And she's a consenting adult. She married him and she changed her religion. And then her parents and various other interest groups went to court against the Kerala High"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:36:26.160",
+        "message": "Court and said that, no, this is a case where she's been brainwashed and love jihad, basic"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:33.520",
+        "message": "love jihad narrative. And this woman was forcibly separated from her husband and effectively kidnapped by whoever's custody she was in at different points in time, whether it's her parents or the warden"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:36:46.720",
+        "message": "of whatever, but it's basically abduction."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:51.340",
+        "message": "The state abducted an adult woman."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:36:54.560",
+        "message": "That's what happened. Yeah. And the high court remanded her back to her parents' custody, which was just absurd because he basically kept her under house arrest. She couldn't go out. She couldn't meet people. It was quite at least referred to the Supreme Court because she appealed against her husband, I think was because she, how could she appeal, meaning she was in house arrest. Her husband was the one who appealed. So in fact, in the case until recently, she was, I think, like the ninth petition or something like that. She's been bumped up to two or three."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:37:28.840",
+        "message": "Well, you know, Hadia is just a woman my age. What does she know about what she wants and what she doesn't want?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:37:37.480",
+        "message": "And this is again, a classic contemporary, ongoing example of a woman being denied her agency. If, you know, if the state was to do this to a man, it would, you know, there would be a whole different spin on the whole thing. But she's a woman. She goes from the custody of the husband to a custody of her parents, to the custody of some male warden somewhere. It's like she's a piece of property and while they dispute who owns her, she is flung around the separate custodians."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:38:04.360",
+        "message": "So in fact, the case is going to be heard very fittingly on March 8th this week. And but in the previous instance, she'd filed an affidavit in front of the court saying because they weren't really asking her that I did this voluntary. I love my husband. Can I please stay with my husband? He's my husband. I want to stay with him. And it's like, why I married him, disregarded."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:38:33.880",
+        "message": "You know, what drives me about this is something that a lot of people say, when India got independent, there was universal adult franchise. Women were allowed to vote in India, much before women in several other countries were allowed to vote. And it gets me to thinking about how, when slavery was still legal in the United States, slaves were counted as three fifths of a man's property. So they didn't have the vote, but they were counted as part of his property, which seems to me not very different from the way we look at women today. You may have the right to vote, but you're still part of a man's property. You don't know enough for yourself. This is the Indian state being paternalistic, telling its women that they have no clue what they want, that they're barely human. And just let the adult males decide everything that you want."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:25.960",
+        "message": "And the most heartbreaking word in all of what you said is today. On that note, I think we'll end the episode Madhav and Hamsini, thanks so much for being on the show."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:39:35.280",
+        "message": "I learned a lot from you guys. Thanks so much. Thanks for letting me be here."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:40.360",
+        "message": "If you enjoyed this episode, you can follow Madhav on Twitter at madchap88. Oh, wait a minute. That's madchap88, much simpler. You can follow Hamsini at Hamsini H. I also strongly recommend you check out the Pragati podcast, which Hamsini co-hosts with our colleague Pawan Srinath. You can find it by going to the online magazine Pragati at thinkpragati.com and clicking on the podcast tab. For archival episodes of the Seen and the Unseen, head on over to seenunseen.in. Both the Seen and the Unseen and the Pragati podcast, by the way, are produced in association with IVM podcast. So we have more than 20 great podcasts that I recommend you check out. You can listen to them all on the IVM podcast app."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:40:21.840",
+        "message": "Goodbye for now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:30.720",
+        "message": "If you enjoyed listening to the Seen and the Unseen, it makes complete sense for you to check out the Pragati podcast, a show on public policy. Pragati is a magazine I edit and the Pragati podcast is hosted by two of my colleagues, Pawan Srinath and Hamsini Hariharan. Every week, Pawan and Hamsini analyze views and news from India and the world and talk to experts and practitioners on a wide range of issues. Episodes out every Thursday. So there's your midweek fix right there."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:41:01.520",
+        "message": "He bends down to test the warm water for his bath. He comes here to quench his thirst for a hot shower and some podcasts. You can witness how he enjoys having other people talk about cool stuff in his bathroom. Indeed, it helps him with his loneliness. You can find more of his species on ivmpodcast.com, your one-stop destination where you can check out the coolest Indian podcasts. Happy listening!"
+    }
+]

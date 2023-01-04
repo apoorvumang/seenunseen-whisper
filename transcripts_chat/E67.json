@@ -1,0 +1,702 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "Being a writer is an act of immense arrogance. Very few people write as a means of catharsis or self-expression. Most people who write want to be read and in their act of writing, therefore, is a presumption that what they are writing brings value to somebody's life. Think about it. Every time somebody reads an article written by you, they do so when they could be doing a million other things with their time. There's an opportunity cost to their time. Time is money. And yet you simply assume that when you write something, that is worth that time. This is often arrogant and sometimes delusional. And it's also true of podcasting. You're listening to me speaking right now when you could be doing so many other things. Is this worth your time?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:48.720",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:59.280",
+        "message": "Welcome to The Seen and The Unseen. I'm an accidental podcaster. And when I started The Seen and The Unseen, I assumed that at worst, I'll get laughed at. At best, I'll get ignored. But hey, what the hell new experience? Well, I've grown to enjoy podcasting, though I've sometimes felt that I'm doing this in a vacuum. Our numbers are decent for a podcast. But why do people listen to this? What do they think of the show? What could I be doing better? Also, is there any way that instead of me asking questions, once in a while, I have to answer them and tough ones at that? I do the show in partnership with IBM podcast. We each own 50% of the show. And one of the people who works here, Kavita Rajvare, recently mentioned that she met some people at her music class who are regular listeners of The Seen and The Unseen. So why don't I do an episode where I interact with them? I thought this was a good idea. It gave me a chance to see if such people actually existed. I mean, who listens to the show, and maybe get some feedback from them. And I could expand this into an AMA or an ask me anything. Now, conducting an AMA for myself itself feels embarrassing because I'm not a celebrity or a man of great accomplishment. But I spent so much time pontificating on the world that I thought it would be nice to open myself up to questions, including difficult ones. I put out a call on Twitter and Facebook, and my noble producer, the famous stand up comic Abbas Momin has compiled all those questions and will shoot them at me. But before that, a warm welcome to my guests on the show, Nakul Sanpurkar and Rachit Jain. Nakul and Rachit, welcome to the show. Thanks, Amit. Glad to be here."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:28.080",
+        "message": "Thanks, Amit. Glad to be here. From a listener to now, right here with you. It's great."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:33.040",
+        "message": "Right. So before you start asking, I'm just like curious how people listen to podcasts. You know, when when I first started podcasting, the reason I called myself an accidental podcaster was I never considered podcasting because I never listened to podcasts. I was not one of those people who would listen to podcasts. And so it was it was completely new for me. And of course, since I've started podcasting, I listen a lot. But do you guys listen to podcasts a lot, Nakul?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:02:57.520",
+        "message": "Yeah, actually, this is I was introduced to podcasts by my brother in the US. When I went to visit him, I would see him, you know, listening to podcasts on his commute a lot. And that's when I got hooked on to those podcasts. And next thing you know, I've come back to India, I'm listening to those podcasts and looking for, you know, podcasts based in India on Indian issues on Indian things. And so that's when I was introduced to IBM and seen and unseen. And that's when I became a regular listener. So for me, it was more like I had been listening to podcasts on and off for the last two, three years, but largely centric to comedy, where you know, comedians do do a podcast, a lot of varied stuff, etc. But I guess with respect to IBM and CNN, Nakul is the one who introduced a lot of us to it. And yeah, but in terms of consumption, it's more or less on our way to work. I was fed up of listening to music, how much more music can listen to all day, right? So podcast is like a breath of fresh air coming in while you're on your way to work or going back. It's the best utilization of time I can do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:00.320",
+        "message": "Right. So I'm just delaying the inevitable. You guys have some tough questions for me. Shoot."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:04:04.960",
+        "message": "So, since I'm a regular listener here, I've always seen that, you know, we've most of the episodes are focused on the bad, quote unquote, policymaking or decisions that governments have taken, you know, like demonetization or jobs or pakoda now makes etc. So what do you think has been a good policy decision by any previous government? And what do you think have been the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:04:30.160",
+        "message": "seen and the unseen benefits of those? Okay, that's a great question. I'll have to actually think a bit for that. We are going in cold. So I haven't seen these questions before. I think, firstly, the reason I tend to focus on, and everybody, in fact, tends to focus on policies which have a negative effect is those negative effects are unseen. And therefore, you feel a sort of a duty to point out that no, hey, this looks good. This has great intentions. But these are the kind of effects it can have. As for having good effects. I would say that I can't think of something offhand and you've studied public policy. So maybe you can help me. But anything that I think, increases freedom, increases economic freedom, or increases personal freedoms for that matter, will inevitably have good effects, which are often hard to quantify. I mean, okay, here's an easy quantification, which people often give you look at the different fates of Eastern West Germany, when they chose a different baskets of public policy that they chose at the separation and ditto North and South Korea, they chose consciously to go in different directions and follow different kinds of policies. And you saw the impact of what economic freedom did in West Germany and South Korea, and the ravages that were brought upon the people of East Germany and North Korea as a result of their taking the wrong direction. So I guess that's one example. While this episode goes on, if I think of something, I'll bring it up. But yeah, I mean, this one tends to keep focusing on all the things government does wrong, because it does so much wrong. Yeah, absolutely."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:06:00.960",
+        "message": "So yeah, my question comes out of a recent Pragati podcast, which was related to podcasts itself, right? About how this entire issue of, you know, discoverability is there. Podcasts are not so big in India right now. And as a alternative content source, it's still very, very low, right? People listen to music, videos, etc. So what is your take on that in terms of, you know, we obviously far lagging behind in terms of the indicators in the US for that. But what will it require in India to change that, you know, behavioral shift for consuming podcasts as an"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:33.840",
+        "message": "alternative platform? Great question. I should tell those of my listeners who are wondering what Rachit is referring to. This is an episode of the Pragati podcast, which is a great show hosted by Pawan Srinath and Hamsini Harihar and my colleagues at Pragati. And they spoke to Amit Doshi of IBM podcast. And it's a very enlightening conversation. So just check that out either on the IBM app or on thinkpragati.com. But to answer your question, I think here's the thing. India doesn't have a culture of talk radio, that much is, which is why even I was very skeptical of podcasts. You know, I was an early blogger, 1516 years ago, but I was not an early podcaster, because I thought Kon sunta hai. And I assumed that that's a cultural thing that talk radio is big in the US and whatever, but in India, it simply isn't. Now, Amit, when he was, Amit Doshi, when he was trying to convince me to do this show, or to do a show with him, his spiel to me was that look, research has shown across the world, across cultures, 30% of the people who listen to audio content prefer talk to music, 30%. And because these are findings from across the world and across cultures, that means that there's something hardwired, that a certain number of us just prefer talk to music, which is and 30% doesn't seem like much, but 30% of a lot of people is a lot. And so therefore, then that raises a question, why hasn't talk taken off in India. And one reason for this is that there's just been a vicious cycle, where no one's tried to supply it. And therefore, there haven't been listeners. And because there haven't been listeners, no one's tried to supply it. And what I think IBM podcast is doing with Amit and so on is trying to break that and saying that no, you know, screw what the numbers are right now. I'm going to try and give you great audio content with all these variety of different shows. And, and let's build an audience and basically try to break that vicious circle and turn it into a virtuous circle, right? So people"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:08:26.560",
+        "message": "just just to add on there. So for you personally, then, you know, let's say Amit Doshi is doing a fantastic job, obviously bringing content to all of us. But for you personally, you know, you spoke about opportunity cost, right? For you as well, you could be writing another, you know, column somewhere, or you know, you can be writing another book and devoting your time towards that. What made you, you know, say you said that, you know, one of the factors was this entire data, which you had in front of you that, you know, people will listen, but to get into the industry"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:54.000",
+        "message": "at such a nascent stage, what made you do that? Right. So like I said, I was an accidental podcaster. So what really happened was, there's a very, very close friend of mine, a dear friend of mine called Naren Shannoy. And Naren Shannoy hosts a show called Simplified with Deepak Gopalakrishnan. Right now, they have a third co host, but it was a two of them when they started. And they started on their own, they weren't with IBM. And one day, one of them put up something on Facebook saying that, hey, we've joined up with IBM, and we are doing this and all that. And I just put a note of congratulations, at which point Amit replied to my comment, Amit Doshi, and said that, you know, a few months ago, I approached you and said, would you be interested in a podcast? And you said, No, you think you'd be interested now. And I absolutely didn't remember anyone approaching me. But my attitude towards podcasts was very condescending, like who the hell is trying to listen, screw this. So, so I said, Yeah, okay, let's talk. And we met up and all that. And I told him that one idea I had for a TV show at this time was a scene in the unseen. The scene in the unseen, by the way, is based on a famous essay by Frederick Bastia, that which is seen and that which is not seen, where he talks about a particular public policy and why everyone praises it, but you need to look at the unseen effects. So I thought that's a great sort of framework to look at the whole world by. Like Henry Hazlitt wrote a great book a few decades ago called economics in one lesson, which just looked at different aspects of the economy through this framework. So I said, Look, here's an idea I had for TV. And he said, Why don't you do a podcast? And I said, Okay, and here's the thing, when you speak of opportunity cost, for me to do a TV show out of this would actually take a lot of coordination and a lot of money, because who's going to do it? Where do you put together the thing? How do I look on camera? You know, I tell people I have a classic podcaster's face. So, but on the other hand, after the first few episodes, where you'll see that I'm a little self conscious, and I'm trying all kinds of things. After that one sort of settles down into a groove and you start having great conversations and sort of learning from it. So it was kind of accidental and like like most things in life, you know, most things in life aren't things you decide to do, they just"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:10:52.640",
+        "message": "happen. Yes, absolutely. So Amit, so you've kept your podcast very India focused, you know, issues that plague the Indian people. I mean, I deeply appreciate it. And I really want to listen to a podcast on those. But so if you want to cover any political scenarios or any policy making issues on a global scale in different countries, you know, what topics would you"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:16.160",
+        "message": "have liked covered? Yeah, I'm actually I've always intended not to keep it to India, but every few episodes do something with an international guest. And the thing is, I simply have been lazy about reaching out to them and doing it right. So Alex Tabarrok was here in Bombay for a while. Okay, so we met up and I got him here and I did a couple of episodes with him. So there are tons of people I want to reach out to, and kind of beg them to be a guest on my podcast. But I haven't really gotten down to it. I'd love to, for example, if you ask me who are sort of dream guests and dream subjects, I'd love to talk to Sam Harris about free will. Okay, I don't believe in free will either. I think my, but I have certain nuances in the way I look at it. So that would be an interesting... That's the libertarian in you picking out. Yeah, so and a bunch of economists, I mean, just speak about, like, every time I read a fascinating book, I think, hey, I should speak to this person. Like, I keep thinking I should write to Philip Tetlock and, you know, ask him to be on the show because I loved his book, Super Forecasting. I thought that's one of the best books I read in recent times. And a lot of the conclusions of that book also tied in very nicely with things that I learned in my years as a professional poker player, which I was. And that was very fascinating. But I've just been bloody lazy. And, you know, so at some point, I'll get over that. But I think like you said, I think one of the reasons people listen to this is that if you're listening to international podcasts, there are like thousands of them, but Indian there are very few. Yes, absolutely. So, you know, keep the main focus Indian. But once in a while, if I do an international one, I'd love to if anyone agrees"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:12:52.800",
+        "message": "to come on the show. Nice. And I guess it's great that you played poker, because we got to listen to the episode, which is quite fantastic. Thanks. Yeah, coming from a financial services background. Right. Yeah. A lot of people I recommended the episode to also quite like that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:05.920",
+        "message": "Well, thanks so much. I mean, all credit to my guest, Mohit Satyanand, who is a man of immense"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:13:10.400",
+        "message": "wisdom. Yeah. As a listener, as someone who maybe started listening to this podcast for the first time and is now, you know, now his eyes are opened to new ideas that, hey, these are the unseen effects of so-and-so policy or so-and-so decisions. So as a listener to these things, so how can I, how can a layman contribute, you know, to the political system or to policymaking in any way, just as a singer, other than, of course, voting for the right people? What other things do you think any, any person who's interested in this can do to effect change other than maybe start"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:40.560",
+        "message": "his own podcast? Yeah, I mean, I think the key thing here is that it's not just about specific policies, like, yeh policy achha hai, yeh policy bura hai. It's more about a framework of looking at the world and about certain values that are within those framework, like, you know, individual freedom is a good thing. We need to protect individual rights and so on and so forth. And my great lament is that those ideas are not in the culture, that a few English speaking elites like myself, and because you're listening to the show, like yourself may agree with them or engage with them, but they're absolutely not out in the culture. So in the culture, for example, there is widespread support for the notion that free speech should be restricted. You know, there's widespread support for the notion that you should not offend anybody and, and various other things which we would disagree with. Yes. So what I keep, you know, a lot of people who think about policy, look at it as a political battle, that okay, we are doing policy advocacy, and we have to convince politicians and bureaucrats and so on to change their policies and whatever. And I've always and I've come to the conclusion, I didn't always believe like this, but I keep, I've sort of come to the conclusion that this is not about change is not going to happen politically. Change first has to happen culturally. Like, for example, one big reason of the great success of the alt-right in the US was their recognition of this, like Andrew Breitbart, who founded Breitbart, and who died a few years ago, he once said, and this is something I don't stop quoting, that politics is downstream of culture. Okay. And, and, and what that indicates is that if you want to change politics, you have to change culture. And none of us can personally really do much about changing politics. All of us can contribute to changing culture in our own really little ways. But to be frank, we are just individuals. And it seems futile. And what do you do when your family WhatsApp group with 10 uncles telling you Modiji is great. But, yeah, so I mean, yeah,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:15:40.480",
+        "message": "that's, that's coming to coming, you know, taking off from Modiji is great. You spoke about this entire mindset of the Indian voter to not let his vote go to waste. Right. And, but your view was that, you know, you should rather vote for the individual who's there in your constituency, correct me if I'm wrong there, and not look at, you know, my vote is going to waste because I should vote for Modiji because the world is doing so, or India is doing so. And hence I should vote for the BJP, you know, MLA or MP from my area. Right. So how do you really come into, you know, affecting that cultural change? So what do you change on ground to make that happen? Because to make people vote more, to make people vote more, no, but to make people vote or think about, you know, not thinking about the larger picture first, but starting from bottom up and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:32.080",
+        "message": "me voting for my guy first. Yeah. So it's, it's, it's complicated. And there are a number of questions within that question you asked. Uh, the first aspect that you look at is that local government in India is not very strong. Now, ideally, what should happen is that power should be devolved from the centre to the state, to the city, to the ward and all that. So local government actually matters. If somebody isn't collecting garbage outside your thing, your vote can make a difference. Now, actually, your vote can't make a difference. And we had a I had a very interesting episode of the scene in the unseen on this with Shruti Rajgopalan on urban governance. And the key point she made there, which is something a lot of people don't realise about the cities, or they do, which is why the apathetic is that there is a disconnect between power and accountability at the local government level. So what happens is that you have as a, you know, who is accountable to you, your corporators and all are accountable to you, they need your vote, but do they have the power, they don't really have any power to do anything, they don't really take any big decisions, flyover, they don't, who has the power, the state legislature has a power, because it's not devolved further. So the real power is with the state legislature. And they're not accountable to you. They're not accountable to urban voters. If you think about it in practice, in the Maharashtra government, they're all the vote banks are rural vote banks, Mumbai per se doesn't really make a difference to that. So they can afford to ignore the urban vote and just pander to whatever different rural vote banks they might want to pander to. And which is you know, a government job is at the end of the day to all its people. So I'm not saying that you should give a special, special privileges to urban voters, just because you've got more taxes coming out of Mumbai. That's not my point at all. My point is that government should be so localized, that there are that people who have power over you should be accountable to you. And in practice, that's not really the case. And I think that's the reason why people become so apathetic, because they realize that look, you know, fine, we're a democracy, but I can't really hold anybody accountable. Right? Because especially at a local government level. The other facet of this is the fact that every voter knows, you know, you might tell people it's your duty to vote and so on. But every voter knows that his one vote is not going to decide an election. Right? Yeah. Right. There's a funny story about this, by the way, in some local election somewhere in the north, some guy actually said this that he lost by one vote and his wife hadn't gone and voted. So I can't imagine that their family dinners were much fun after that. But yeah, so I think most people have the added have the attitude that what difference is my vote going to make? The system is rigged. And also one of the questions which comes up in the in the Ask Me Anything section, which Abbas will take us through at the end, and I'll repeat the question then and name the person to give you credit. But I think one of the questions was, look at all my options. Why should I vote? Look at all you know, and there are two ways of looking at it. One way of looking at it is that you vote for the person who is the least bad. So a lot of people today will say that, okay, look what Modiji is doing to the country, which is absolutely true. And therefore you vote for whatever you think is the most viable alternative. Right? So that is one way of looking at it. And I'm leaning towards that. But my way of looking at it, which is slightly different is that I won't vote. And here's the reason why. I won't vote because if you look at the political marketplace as a marketplace, now think of I go to a mall to buy a shirt. Okay. They're all crappy shirts. I buy the"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:20:06.800",
+        "message": "least crappy shirt. Right? Right. Yeah, I've got a crappy shirt. But if I don't buy a shirt, what"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:20:12.320",
+        "message": "does that do? Because those sales aren't happening, that sends a signal to the marketplace that there is a market for shirts. And somebody some entrepreneur, the other will then make different shirts, which I might like. So similarly, in the political marketplace, it's a marketplace voting is, it's a privilege, but it's not a duty. If you don't like any of the products, by not voting, you send a message to political entrepreneurs, that X percent of the people haven't voted. And and therefore there is a market there. And I actually know people who go thinking like this right now and are working on it. And I'm sure this was part of the reason why, for example, Kejriwal and gang, I'm not a big fan of the man, but a talented political entrepreneur, and he came up and he won power because he obviously saw that apathy, where does that apathy reflect itself in the percentage of people who are not voting. So even by not voting, you're sending a signal to the marketplace, which might be important. Now, I'm very conflicted, because many close friends of mine have been trying to convince me that no, you're wrong, that you think you're sending a signal to the marketplace, but there may be no marketplace, we are going towards despotism, and we need to do something now, and it's an emergency, and so on and so forth. So to be honest, I'm conflicted between these two points of view, that should you vote for whatever is the least bad option, or should you not vote at all?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:21:27.120",
+        "message": "And just a simple counter to, I was just thinking out loud, that you said, you know, you will, you will express your sort of dissatisfaction by not voting. But say, how is any politician or anybody actually able to differentiate that suppose 30% people have not voted in the next election? So how can you say that this 30 people have not have chosen to not vote or have just sat in their homes and said, this country is not going to win. So yeah, those are two very different things, right? Right, right. I'm busy and I'm not not voting, for example, and you're sitting in your home and saying, I'm not going to vote. Like, it's a choice."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:58.880",
+        "message": "Yeah, but but it, no, I, I think in terms of actions, I think it's actually the same thing. It's it's whether I vote from this conscious sort of rational process that I have, whether I refrain from voting for that reason, or whether I just don't give a shit about politics. And I'm doing my thing. It's actually the same thing, it indicates that you don't care for the options out there. And therefore, there is an opening that you might, you know, care for that somebody might want to provide an option. And you know, if you eventually have those kinds of figures, and I've actually sat with a political entrepreneur who is thinking or was thinking of launching his own party. And he went through constituency wise figures of how many people haven't voted in each district and broke it down and spoke about where he thinks his niche might be and whatever. And that's just one person I have access to. I'm sure across the country there are and this is a common lament all of us have, ki vote karo to kisk ke liye vote karo. Surely some entrepreneur is going to come out of somewhere and try to capitalize on that, right? Keshival did, for example."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:23:02.320",
+        "message": "I think I think this topic deserves a podcast episode of its own."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:05.280",
+        "message": "A full podcast. Do you have any guests you'd recommend? I'm serious."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:23:09.440",
+        "message": "Not really. So this also partly answers another, I was just going through the AMA post on Twitter. And someone's just asked about, you know, what are the advantages, disadvantages, etc. of having a nota."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:20.960",
+        "message": "Yeah, see, I think that the nota is like, if you really have, like your time is no opportunity cost, you've got fucking nothing to do, then you go and vote nota. Because to me, a non vote and a vote for nota is the same thing."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:23:32.800",
+        "message": "To me, by the logic I just gave now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:36.560",
+        "message": "So what's the point of voting nota? Why go all the way there and, you know, just, just vote nota. Either you vote for someone or you don't vote at all, which is sending the same message for less effort, you know?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:23:46.560",
+        "message": "But isn't that a stronger signal then? Okay, fine, people are coming out and saying nota rather than just as Nakul was just pointing out. And I have a that, you know, you might just be laid back, relaxed and not give too much too many fucks about, you know, going there because I'm happy. I don't care who's there at the, at the center right now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:05.040",
+        "message": "I'm indifferent. I think that would be true if the nota percentage could be significant. Like one of my friends campaigned for nota in the recent Mumbai municipal elections. And I think he spent a lot of money doing it. Though I used to keep telling him that, you know, you should have a fricking product for a political campaign. Why are you campaigning for fricking nota? I think he got the percent off from one to two. Wow. Right. And your non voters would be, you know, in the tens. Yeah. So, you know, unless you, unless you get, if 30% of the people vote nota, I agree with you. Everybody would stand up and say, okay, my God, you know, but one or two percent, no one really care."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:24:40.880",
+        "message": "A broader question, which I have is that right now we're as a country. And in fact, across the globe, we're more divided than ever in the sense that there's either, I mean, you are, you're right, you're on the, you're far right or I'm far left. And I mean, you have your magazines, your, your political thinkers and your ideas. And I have my own, if I'm a left guy, I have my own New York Times and my Trevor Noah's of the world. And so how do, is there any way that we can bridge that gap today? Like that, is that possible for people to meet somewhere halfway down? Because earlier we, I mean, things were not so divided that people didn't have their own. I mean, you're, you don't live in your own bubble at least some time back, but now we've become very divided. I'm sure in the future, it's just going to increase more. The contrast is going to be even sharper. So is there any way that this can be sort of healed?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:33.760",
+        "message": "Yeah, it's a good question. I mean, and the reason this has happened interestingly is technology. We used to think technology will bring the world together, but technology actually makes it easier to form echo chambers and live in the comfort of your own worldview. And you might be the most bigoted racist person out there, but technology enables you to discover millions of other bigoted racist people like you."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:25:53.840",
+        "message": "And then you take comfort in numbers and you're no longer the odd one out in your family."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:59.280",
+        "message": "Though overall, I think technology is a huge net positive. But yes, this has happened. I don't know. I mean, one glib answer, so glib I feel embarrassed to give it is maybe culture, you know, we can still like the same movies and the same music or whatever."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:14.240",
+        "message": "I don't know."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:14.720",
+        "message": "I mean, it's very hard. And the question that I'd written an op-ed in The Hindu about this, I think, late last year,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:24.160",
+        "message": "December."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:25.120",
+        "message": "And the question that I'm asking, which I can't find an answer for is people keep talking about fake news. How do you break through it? How? Because earlier, what would happen is that even if a rumor spreads, you have these authoritative sources of information."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:26:40.640",
+        "message": "Everybody trusts. Absolutely."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:42.000",
+        "message": "You have your New York Times or your Times of India or whoever. But now that is all diffused. Absolutely. Now everybody has their sources of, you know, WhatsApp baba ki jai. And people have adopted a worldview. They will, it's confirmation bias. They will only take whatever fits into their worldview and reject everything else. How do you break through this? I don't have an answer. It's so, how?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:27:02.560",
+        "message": "Tell me. That comes back to the latest episode where the debate is all about, you know, should you regulate"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:09.280",
+        "message": "the likes of Facebook, Google, etc. Yeah. Which I, which I think is the wrong answer. You give government the power, you're going to get screwed because whenever you give any power to government, you must assume, you must imagine the worst possible person being"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:27:23.920",
+        "message": "in that government."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:27:25.200",
+        "message": "You know, so if you're a left liberal, you should imagine Adityanath in that government. If you are a hardcore Hindu person, you should imagine Sonia Gandhi or whoever, whoever's your nightmare, Sitaram Yachuri in the government, you know, using that too, because ultimately any power that you give to government, government never lets go of it. And the more power you give government, the more oppression becomes inevitable. And I think that's an easy answer that people are searching for, because in India, there is also this tendency for everything to say that the government should do something about it. Yes, absolutely. And I think the unseen effects of that are just something no one thinks about. And concentrating too much power in the hand of government is..."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:08.400",
+        "message": "I mean, in the 70s, I mean, the government used to make watches, right? In the 70s. And now when I think back, I mean, why is the government making watches? Why was the government making watches?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:15.920",
+        "message": "Like... The government makes sex toys."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:17.520",
+        "message": "Are you aware? There's a public sector company which makes sex toys. Yeah, you serious? Yeah, yeah, I'm serious. Talk about unseen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:28:23.760",
+        "message": "We'll have a piece on Pragati about it today. I think it's actually, I forget the name of the company, I think it's one of these condom manufacturing companies or whatever, but they also do sex toys. Oh, wow. So the government, that's, you know, and then, yeah, what can you even say?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:42.320",
+        "message": "So on a different note, I mean, you've been a, you're an accidental podcaster, you're a policy sort of voice, and you're a professional poker player. But I also remember reading somewhere that you were on, you were at MTV. So how have you, how have you been in so many different places? So, and this is not something you've seen, it's not something you've seen, no, no, it"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:07.520",
+        "message": "was accidental. So this was in the 90s. When I was in my early 20s, I spent five years shuttling between Channel V and MTV."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:29:14.000",
+        "message": "I was in both those places."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:15.440",
+        "message": "So in the late 90s, so I wrote for guys like Cyrus Procha, Javed Jafri, all the funny guys back then, and, and whatever. And television was just very shallow and dissatisfying. And I mean, all due respect to my former colleagues. So, but I just kind of want to... And current colleague also Cyrus, right? Oh, well, I mean, yeah, in the sense, yeah. Okay. He has an IBM podcast as well. So, fellow host, all Mr. colleagues, great guy. And I was, I was on a show a couple of times. Yes, yes, yes. Yeah. Talking about that. But all those things were accidental. So for example, wherever I have to send a short one paragraph bio of myself to someone, I don't even mention those because they weren't shaping influences. The time that I spent in journalism, I mean, journalism has shaped me, blogging has shaped me. But none of that was really shaping, it's an incidental thing that kind of happened."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:30:03.680",
+        "message": "I feel like you've used the word accidental to describe so many aspects of your life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:30:07.120",
+        "message": "Yeah, which, which is, which is one of the actual, which is one of the revolutions of, which one of the things that poker taught me in the years that I played it, that more in life is due to sheer luck, then you realize that we often tend to be hard on ourselves when things go bad and blame ourselves for it. Or we often tend to become arrogant and self confident when good things happen to us. But much more of both the good and the bad things are due to sheer dumb luck, then then we realize so a lot of things are indeed accidental. And if I'm to take it all the way, of course, and maybe, you know, and I'm sure Sam Harris would agree with me, there is no fear. But but yeah, I think we all underestimate the role of luck in our lives. And it's very tempting to sort of look back. And, you know, the in a million alternate universes, there are a million of us now doing completely different things."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:00.720",
+        "message": "It's, it's nice to hear a professional poker player say that luck is important, because that gives people like me hope."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:07.120",
+        "message": "No, I used to be a professional poker player. See, luck is something that runs through life. Poker is actually a game of skill, but that skill comes in the management of luck. So management, luck and probability. Exactly. So that's, that's kind of what it comes down to. And then then that is a skill, which then gives you life lessons about life itself, which I discussed in my poker episode with Mohit."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:31:32.320",
+        "message": "Just about to ask another question related to poker itself. You keep saying you were a professional poker player. Then one is what, how did you get into it? And a, you know, how did you end up quitting it? Or if you've already done that, what is a, was it a bad turn or river which led to that or a conscious choice?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:31:47.680",
+        "message": "No, so what happened was how I got into it was sort of like beginner's luck in the sense I went to Goa, I think must be 2009 or 2008. And we were just in Goa for a holiday. And I went to a casino, played a little bit. And yeah, actually, that one time I lost a little bit, but I got hooked. I was playing poker on my phone. So I like bought in for 10,000 and lost that after a couple of hours. And then I went off. Then there was a poker weekend, which happened there, where they had, I think, the India, Indian poker championship."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:32:17.200",
+        "message": "Okay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:17.760",
+        "message": "And I went there for the weekend and I did quite well. I did well enough to say that, you know,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:32:23.200",
+        "message": "you know, what the hell am I doing that writing for? I'm so good at this. And the irony is I wasn't good at all."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:28.000",
+        "message": "I wasn't good enough to know how bad I was. But those were early days. So everyone was on a learning curve. So the games are very soft. And then gradually I kept playing and got, you know, I got better, the field got better and so on and so forth. And I, you know, the kind of games I used to play were illegal then and illegal now. So I don't want to talk about that in too much detail. But what basically happened was while I did well enough for myself, it destroys your lifestyle because poker is all-consuming. You end up playing long 20-hour sessions. You go home, you sleep, you go, you play another 20-hour session. It's extremely unhealthy. You're eating all kinds of crap. I used to drink Red Bull after Red Bull, which is, you know, Red Bull is perfectly safe, except for the sugar. Sugar is a problem. So I basically, I put on like 15 kgs in that time, all of which I have now lost. So I'm like this year, since Jan, I've lost 14 kgs. And, you know, today I was wearing these jeans after three months and it was like, they don't fit because they're like pajamas. You know, when I stand up, you speak about keto a lot. Yeah, yeah. So keto is one of my sort of one of the things that's helped me. So to cut a long story short, I thought the lifestyle was messed up. It was all-consuming. Also, it's a zero-sum game. You're not bringing anything new to the world. Like if, you know, the world, essentially, all our interactions are positive sum. So we're all having this conversation. If it's a voluntary conversation, we'll all enjoy and have a good time. And therefore, we all benefited from it. But poker, you only win if the other guy loses. And I saw tons of people who were addicted to the game. I've seen people, friends of mine, just destroyed by the game. So at one point, I decided that, look, the lifestyle sucks. Philosophically, I just I sometimes I feel like I'm a drug dealer exploiting someone else's addiction. And I had made enough to not have to work for a while."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:19.360",
+        "message": "Those savings are now gone."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:20.960",
+        "message": "So Mr. Government, if you're listening, please don't come and ask for taxes."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:24.880",
+        "message": "Not that you know how much I want."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:26.960",
+        "message": "So it's yeah. So I and I just wanted to get back to writing. I mean, that was my main thing anyway. My thing with poker was just get in for a while and get out. So yeah, and get out."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:34:36.960",
+        "message": "Interesting. One question which I was just musing about is that we've over the last hundred years or so, I think, in terms of political discourse or theories and ideas on politics, we've sort of I mean, the ideas have now trickled down or maybe I'm just not aware. But the spectrum that we've built in terms of left, right or liberal, libertarian, secularism, all of that, etc. So I think we've now the ideas have slowed down to trickle and things are where they are now. So do you think there's room for any more new political ideologies or new ideas of thinking on politics? Or do you think we've reached the zenith of, you know, this is what it is now? And you have to, I mean, a government has to work in this framework only?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:24.880",
+        "message": "No, I mean, I think there are certain frameworks along which you think, for example, one framework along which I certainly think is a framework of freedom. How much freedom do, you know, how much freedom do different systems have? And how much you respect individual rights? Another framework, which might ignore my framework and consider itself valid is equality, which, you know, people on the left will go for, though I would argue that freedom is gives you the best shot at equality, but equality of opportunity. But that could be another framework, you have a third framework could be the, you know, the whole conservative framework where you say that things have worked a certain way given human nature for a while, and we should not mess with it too much."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:36:01.280",
+        "message": "Right."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:02.000",
+        "message": "And so on and so forth. I think one of the things that any whichever way you look at the world has to take into account is human nature itself. And the thing is that there is a duality to humans. There is one part of us, which is basically animals, that our brains are hardwired in certain ways, in the sense that our tribalism is hardwired into us, our bigotry is hardwired into us, our misogyny is hardwired into us. And all of all of those hardwirings find a reflection in culture and the way, for example, the way the patriarchy is set up, the way the power systems work, and the other instinctive distrust of the other throughout the world. Of course. And so that is really a reflection of the dark side of human nature. But what humans also have the other side is that we have also been, I won't say blessed, because it makes it seem like I believe in God, but we are also lucky enough, much better word for me, we're also lucky enough to possess brains, which can actually self reflect, and which can think about all this, and which can understand that this is a programming and we need to go beyond that. And to me, what we've seen culturally in the last three centuries, since the Enlightenment is essentially that is earlier culture was something that reinforced human nature. And in the last three, 400 years, culture has begun to mitigate human nature and to fight against it. And to fight against those instincts, where, you know, whether it's a simple thing like me deciding not to have a child, where I'm fighting my hardwiring, right, or whether it's a various ways, equality for women, for example, comes out of culture. I mean, as time goes, we've become like there is the philosopher W.E.H. Leckie, 19th century philosopher, he'd come up with this phrase called the expanding circle. Okay, so his what he postulated was that all of us that since prehistoric times, there has been an expanding circle around humanity. What does that mean? That means that if you go back to our prehistoric ancestor, there are a circle of people that is his family or his tribe, who he deems worthy of moral consideration. Nobody outside that tribe is worthy of that moral consideration. So if he's at war with them, he will kill them, he will rape them, he will do whatever they're not human beings at all. Now, Leckie's postulation was that this circle has expanded through human history. It's expanded from the family to the tribe, to maybe alliances of tribes, to a nation, to an ethnicity, and it's kept expanding till all of humanity is in it for some people. I mean, different people have different circles of people they consider worthy of the moral consideration. And the utilitarian philosopher Peter Singer, in fact, wrote a book about this called The Expanding Circle, where he argued that it should expand to include animals. Right now, that's a different argument in itself. And let's not go there. But it's worth thinking of. I mean, it's possible that the way we today look down on, say, Thomas Jefferson for having slaves, future generations may look down on us for killing animals. And of course, by that time, you won't have to kill animals to eat meat, you'll grow it in labs. That's almost around the corner. But yeah, so there's that thing of the expanding circle. Now, the thing is that overall, yeah, people circles have vastly expanded. And you see this more in the big cities than in small areas, because cities tend to be cosmopolitan. And it's also in your economic interest to have the largest networks to be part of the largest networks you can be and so on. But they haven't expanded enough. And you see that even in India, like one of the really disturbing questions that came up in the last few weeks was during the Asifa case, that how could someone do this to any? How could you to another human being? Where is your humanity? But the answer to this is that the people who did this did not consider her worthy of their moral consideration. She was from the Bakarwal tribe, Muslim tribe, and those people weren't part of the circle of these people who, you know, their circle hadn't expanded far enough to include them. And you see this in the treatment of the other across India, where there will be many Hindus who will not consider Muslims around them, and certainly lower class Muslims around them worthy of their moral consideration. So that answers this question, how could you? You could because you don't see this person as human. And that's a very disturbing thing. And I think what happens is like the earlier point that you made and that you went back to is that technology reinforces, you know, technology helps us form these echo chambers where we find like minded people and where we can stay with the in our comfort zones with tribes we feel comfortable with. So, you know, will this make us one world or will this actually further divide, you know, keep us divided? And I have just completely rambled. What was the"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:40:56.480",
+        "message": "question? I'm so sorry. I don't even know what I set out to answer. That's okay. So, my question was, is there room for more political thought?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:11.360",
+        "message": "It's an unknown unknown, right? It's an unknown unknown, so I wouldn't know it. I can engage with all of these frameworks of thinking, like Arnold Kling wrote a great book called The Three Languages of Politics, where he says that left liberals, libertarians and conservatives frequently talk past each other, because the first principles are different. Because libertarians value freedom, left liberals value equality, conservatives value tradition, and they talk past each other all the time, they can never talk to each other. And once you're cognizant of these different first principles, maybe you can begin a dialogue. Are there other first principles that will suddenly emerge? I don't know. And I can't imagine what they are. But that could easily be a lack of imagination on my part. Like I said, it's an unknown unknown. But I see these as three ways of three broad frameworks of looking at the world. And I know which my framework is. And I can talk about that. And I think I can also, I can also, you know, have conversations with left liberals and conservatives where I'm not talking past them, where I can engage with them on the basis of what I understand of where they are coming from. But if you're asking, will there be some other way"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:42:13.440",
+        "message": "of thinking that is beyond this? Who knows? So just wanted to ask one more thing in terms of, you know, the guests on your show. And so have you ever thought of actually getting politicians, since there's so much discussion about policy and, you know, get the decision makers essentially, or who've been, you know, made decisions in the past, getting onto the show and discussing that to actually understand, you know, what the constraints they work with, et cetera. And if they might just, you know, obviously you're very learned on this space, et cetera. And I'm more, more like a novice, but still, you know, to get to know about their side of the view."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:50.880",
+        "message": "I don't think I'm learned. I think I know enough to ask good questions. If those guys come, but firstly, who would come on the show? Like if Modiji would come on the show or even Rahulji would come on the show. He has his own podcast. Yeah. So I don't think I did get JP Narayan on"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:43:07.520",
+        "message": "the show, the state of politics, which I was very thrilled about that because someone I respect"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:43:12.960",
+        "message": "enormously is just a huge intellect and a powerful force. And I, in many ways, has given up on politics, which is sad and says a lot, I think. Or maybe I shouldn't say that or put words in his mouth, but that's the sense I got. But yeah, if they, if they, if they would come, I would get them. Nice. Right. So now, Nakul and Rachit are going to take a break. Not that I was doing all the talking, but they'll take a break and, but they're still here and the conversation will continue. And now over to my producer, the famous random comic Abbas, who will, and we'll go through the IMA questions that a lot of you have asked on Twitter and Facebook. And I'll try my best to actually cover everything everybody said, including flippant stuff. But I let Abbas first go through the shortlist that he made. So everyone. Hi. Welcome Abbas. Hi. I like how every time you"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:44:09.920",
+        "message": "mentioned me, you say famous standup comic. It's like, it's a moniker, like the spectacular Spider-Man, the fantastic. All right. So first of all, we got a lot of questions. So thank you, everyone for sending in the questions. One thing I noticed is that seen unseen listeners don't just ask a question. They give their opinion. They ask a question or they ask a question. Also the two questions that did get covered in the conversation, which was the Nota question and the politics, but let's just name the people that was asked by M.H. Dodwani and Kelvin Inc at Kelvin Inc on Twitter. So those were the, those were the two people who sent in. I've got a question here from Krishna Kumar on Twitter, who asked, why do you think at later cut the Twitter handle also, I think he used to be a cricket writer. I see. Yeah. So his question is, why do you think urban Indians are so disconnected from reality? Ask a random sample of urban Indians in any decent sized city. Only a minority would know what they're drinking. Only a minority would know what their drinking water sources are, where their food comes from. It's the biggest reason they vote"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:45:22.400",
+        "message": "wrong come election time. Two sides of this. I'll give the positive side first. The positive side is there's this famous essay called I pencil by Leonard Reed and famous essay, just Google it. I pencil by Leonard Reed. And what that essay is about is the autobiography of a pencil, which talks about how it's made. And what you realize through that is that it can't be made by any one person. It takes literally it has raw material from across the world, made by 1000s of people requiring you know, the cooperation and coordination of millions to actually produce that one pencil and yet none of these people know of any of the others. I think a recent version of this was done as a homage to this, which was about the iPod, about how the iPod is made with inputs from 70 countries or whatever. And all these people don't know all the other people. So this lack of knowledge is not necessarily a bug. It's actually a feature, it means that you can go about your daily life. And without your knowing it or planning for it. There are millions of people across the world who are working at this moment to satisfy your needs. That's the wonder of a market. But that's obviously not Krishnakumar at later cut is referring to what he's referring to is why are we so apathetic? And again, that is something we discussed earlier, Ajit had asked a question about that. And the thing is, our apathy is rational, because it is indeed true that we can do nothing about it, not just because rationally, one vote makes no difference, but also because there is a disconnect between power and accountability at the level of local government. And the forces that are around us sometimes seem too overwhelming to do anything about. And if I've interpreted his lament correctly, it's a lament I share, I don't have"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:47:10.560",
+        "message": "any solutions. I mean, what do you do? You just go on doing what you're doing. Okay. He's tried to connect the apathy to voting wrongly in the elections. Yeah, I mean, voting wrongly. It's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:22.640",
+        "message": "what is wrongly, it's not like there's a right option, right? Everybody is entitled to everybody is entitled to their view of looking at the world. And also everybody is wrong. And"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:47:33.200",
+        "message": "there's nothing more to say life is sad. All right. So Mr. Dodwani asked another question, which I found pretty interesting, where he asks, most of India's problems lie in yesteryear's law that don't work for modern society. Is there a way to rewrite the Constitution of India understanding the needs of the present time and dealing with them more aptly? Yeah, but who's going to do it?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:47:57.280",
+        "message": "You know, if the Constitution is rewritten, it won't be by Mr. Dodwani or me. It'll be by the people in charge. They will make it worse. Right. So it's an easy thing to sort of say that, you know, see, it's first of all, it's true that the Constitution doesn't go far enough to protect our freedoms. For example, free speech is not protected. Article 19 to lays out all those restrictions to it, such as public order, decency, and so on. And because of that, various laws in the IPC, which were framed by the British to oppress us, like 295A, 153A, which make it a crime to give offense, though you breached those laws off on a bus in your stand-up comedy, cannot be challenged constitutionally, because hey, the Constitution allows for laws like that. So our Constitution, people call it a liberal Constitution in the good sense of the word liberal. I don't think it is really, it doesn't protect our freedoms enough. And also, my good friend Shruti Rajgopalan, who's been on the show a few times, she had done an awesome presentation somewhere on YouTube, if you search for her name, you'll find it about how the Constitution has been consistently over the last 70 something years been amended time and time again, for political purposes still is practically meaningless. So Ambedkar in 53, in fact, said that, you know, the Constitution of India should be burnt because it is meaningless. Okay, very strong words. I don't remember his exact words. Shruti's presentation, which will be on YouTube, Shruti Rajgopalan. And there was a cartoon at one point about how the Constitution of India is not a book, but a periodical. It's changed so much. So politicians have been changing it throughout to their, so our Constitution is a pretty messed up beast. It's got some very good elements of it still, it does offer us some protections, it could be far worse. And the worry is that if you wanted to be amended, it could actually become far worse depending on the dispensation. Now, at some point, I remember I got into this controversy on Twitter, because you can't make everything idiot proof, where right wingers were talking about changing the Constitution. Yeah. And somebody pointed out that, oh, it can't be done. And I merely pointed out that, hey, it can be done. It's been done repeatedly by Nehru and Indira. It's fucked us over. The right to property is no longer a fundamental right. Right. And so without saying glibly, it can't be done, realized that it can be done. And we should be aware and we should fight it. Okay. And that was because I wasn't idiot proof enough. That was misinterpreted as my supporting a change to the Constitution. But I would just say that, look, if someone's going to change it, it's not Mr. Dodwani or me,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:50:24.880",
+        "message": "it's Mr. Adityanath and Mr. Vinay Katiyar. So do you really want that? Yeah, that's the one question that comes into my head. If we change laws to protect free speech, there are also someone will stand up and say, try and change a lot to bring in Hindutva or Sharia law. So yeah, like there'll always be that second point of view. Alright, Arvind Iyer on Twitter asks, I would love to hear your views on US gun control with your consent and free trade principle. I think"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:51.920",
+        "message": "you would oppose any restrictions. Can you share more details? Yeah, we should go to Twitter ID. I think if I'm not mistaken, it's at Iyer Archie. That's right. Yeah, I don't know this person, but I just remembered the ID because I was writing all these down. That's a great question. And I'm afraid I must disagree with my libertarian friends. I am for gun control. I don't believe guns should be freely sold in India. Now to explain why. Let me first say that in the US context, I imagine, in the US context, I completely understand looking at how the country originated and how it has since come by gun rights for a big deal, because you actually needed to protect yourself from the state and so on and so forth. And that's how it originated. I understand that. I am, however, glad that guns are not sold freely in India. And I hope they never are. And I wrote a post a long time back called the Bomzuka question. That's the name of the post. If you just go on my blog, IndiaUncut.com, search for Bomzuka, you'll come across a post where I pose a hypothetical question. Let me post this to you guys as well. It's a difficult question. The question is this. Imagine three kinds of weapons that are sold. Okay. One is a knife. You need a knife for cutting vegetables and so on and so forth. You can also use it to kill people. Should a knife be allowed? Question one. Question two, gun. You can use a gun for self-defense. You can also kill people with it and it's got deterrence value. Should a gun be allowed? Weapon three, Bomzuka. Okay, Bomzuka is my invention. That is my notional invention. I haven't actually invented something like that. It's an invention. The Bomzuka is something which people are demandingly sold at groceries. Everyone is allowed to buy. And what it basically does is you can press a button or remotely you can set it off and a whole neighborhood blows up. Let's say a few square hundred meters just blow up. And there are people saying that, hey, you know, it's, you can't condemn me till I've done it. And men kill, you know, guns don't, Bomzukas don't kill people. People kill people. And yeah, should a Bomzuka be allowed? Now I think, so first knives, should it be allowed?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:52:50.000",
+        "message": "I say yes. Yeah. So knife should be allowed to be sold, right? Because it has daily utility as well. Right. Three Bomzukas, should it be allowed? Any random guy can buy a Bomzuka and blow up a"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:00.720",
+        "message": "neighborhood? Not really. No. No. Right. Okay. So clear answers. Now, my only, my follow up question then is, forget the second one about guns. My follow up question then is that somewhere between the knife and a Bomzuka, you are drawing a line. Where is that line? And why is that line there? You know, I think you'd both agree with me because you said knife should be sold and Bomzuka should not be sold. That there should be a line. Where should that line be? And why there?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:53:29.360",
+        "message": "The line is in, I think, two parts. One is the magnitude of damage it can do. Maybe that's one. And secondly, a knife also has a lot of other utilities. So two benevolent, less harmful"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:53:43.040",
+        "message": "utilities. Exactly. And a Bomzuka doesn't. Right. So, which is a great answer, which is, which are two of the parameters I'd look at. But I'd say that it is now very clear. And I think even the most ardent libertarian would agree that you can't have Bomzukas selling over the counter where you can just press a button and blow up a neighborhood because hey, we're f***ed, right? End of civilization. So you are drawing a line. You're drawing a line. What are the reasons you're drawing a line? And then you can debate about whether guns should be part of it or not. I personally feel guns should be part of it. And how I justify that with my libertarian principles is that part of what a libertarian recognizes as a valid role of state, the one valid role of state is to protect all our rights. And this is sort of one preemptive way of doing that, of avoiding violence. This justification can be misused. So I'm even hesitant of giving it out. And many of my libertarian friends are very angry at me right now. And perhaps, you know, tearing the headphones apart. I hope they're not expensive ones. But, but yeah, and look in India, man, come on, look around you. Yeah, if you had guns selling freely, they would be freaking mayhem. I agree. Abbas, do you agree with me? I do agree with you. Imagine, I mean, would you feel comfortable"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:54:54.400",
+        "message": "as a stand up comedian? I have nightmares of a person standing up and aiming at the stage. All right, we'll move on to the next question. So at Manish T on Twitter asks, if ever a private bank goes bankrupt, government will have to bail it out like the US in 2008. Then why not let government participate in profits of the banks by owning them? Good question. And where I will"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:18.400",
+        "message": "take issue with the question is not the second sentence, but the first one, that private banks should not be bailed out by the government that what happened in the financial crisis of 2007, where the government bailed out all these private banks was wrong and create something called moral hazard. It sets the wrong incentives, because all these companies then realize that they can do whatever in the end, the government will bail them out. What does that do that privatizes profits, it socializes losses. If the company makes money, they get the profits. If the company loses money, we the taxpayers pay. So I don't care what you say about the economy going down. I think that was a rationalization that was alarmism. I think no private company should ever under any circumstances be propped up by the government. It creates a moral hazard, which makes a second"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:56:02.080",
+        "message": "part of the question and talking about just adding to that incentivizing them to perform better. It doesn't help when the RBI itself classifies two of the largest banks in the country as too"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:11.200",
+        "message": "big to fail. It's like a statement that you know, I'm here. It's an invitation to misuse the system and those two banks are public sector banks and therefore you have your Nirav Modi's and"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:56:19.440",
+        "message": "and the next question again comes from Twitter. It's Twitter handle is at are the triple one,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:28.320",
+        "message": "two, we should name both by the way. So the earlier one was at money Steve, which is"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:56:33.440",
+        "message": "Yeah, so are the triple one, two is name was a sentence. So I'm assuming that's not his name."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:56:42.080",
+        "message": "Respect the user search for it. No, I'll have it somewhere here. I've taken printouts of the whole thing. Yeah, it's I told you so exclamation mark. Yeah. Which is clearly a scene unseen listener. Are the triple one, two. Yeah. Yeah, I envy his certainty. That's actually his his name sort of personifies a hindsight bias. I told you so. I knew about it. Manicrisis."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:57:09.600",
+        "message": "I'll just read out his question. He asks your thoughts on the best libertarian thinkers out there. And any books that you recommend that that distills the principles of libertarianism in a"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:19.360",
+        "message": "simple to understand format. Right. So I picked up sort of my understanding of liberty through the years in various diffused ways. And I'm trying to write a book on this, which does exactly this. Okay. And hopefully when I do that, I'll be the definitive. But why are you laughing? I'm serious. When can we expect that book? Yeah, yeah. I'm half Bengali. So I procrastinate a lot. But someday, but to answer the question and to try and be useful, there's a gentleman called David Boaz. He's written a book called the libertarian mind, which is a marvelous book in which will give you all the basics of the libertarian way of thinking. David Boaz works at the Cato Institute in the US. He's also edited a compilation called the libertarian reader, which has great essays on libertarianism by various people, and which contextualizes them as well in these easy to read sections. So that's again, a great place to find out about them. And those two books, I think will be a gateway to a lot of other reading on the subject. Any Indian authors or books that come to mind? No, yeah. Libertarian India. It is up to me. A heavy burden. My friend Sancho had some good libertarian ideas. I don't even remember. It was a shit book. If any of you read it, I apologize."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:58:39.680",
+        "message": "All right, we'll go on to quickly to the next question is asked by at Shan say at Twitter. His name is Shantanu. He asks, Will Indians create a liberal party like Swatantra in the future to defeat socialist parties like BJP and Congress? Who do you think would be new Rajaji's and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:55.920",
+        "message": "Mussonni's emerging from? Great question. That's a question we've been asking ourselves for, you know, almost decades, virtually, I make myself sound older than I am. But, you know, a lot of people very foolishly put their faith in the BJP and thought that when Modi said things like minimum government, maximum governance, that he was of that persuasion. By the way, that line was on a cover of Pragati many, many years ago."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:59:20.480",
+        "message": "I mean, I wasn't part of it. So I have, but I mean, I wasn't part of Pragati,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:59:28.640",
+        "message": "then this is what I've been told. But, but like Shantanu correctly said in his question, Modi is as socialist as all the as his favorite Nehru or Indira, if not more in some ways. The point is, I'll go back to what I said earlier, when when I think of the political marketplace, the party is part of the supply, right? The party is on the supply side. I'm saying don't think of the supply side, think of the demand side. Till there is demand for it, the supply won't be there. When people demand a liberal slash, you know, free thinking party or party that stands for individual liberty, like Rajaji and Meenu Mussonni did, then there will be that party. But do people demand it? No, those ideas are not in the culture, they're not part of the discourse. Then why should that party be there? And many of the people who said that they believed in that and they subsequently supported Modi, even when it was obvious that Modi is socialist in his economics and authoritarian in his approach to governance in general, and both of which should completely be the opposite of what you should stand for. They continued supporting him, they rationalized it, which makes me like I, I wrote this piece for Pragati in editorial last year, which I think is our most read piece ever in terms of views or whatever. It's called Beware of the Useful Idiots. So do a search for that, Beware of the Useful Idiots, which talks about exactly this, that all of these people gave him legitimacy by sort of pretending that BJP was a great liberal party,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:00:53.200",
+        "message": "which is, of course, a joke. Right. At Anand Hegde on Twitter asks, if you were to create a utopian country, what would be the role of the state in it? Ideally, the role of the state should"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:03.600",
+        "message": "be restricted to protecting rights. But the thing is, and if you're actually interested in this in a theoretical sense, then Robert Nozick wrote a great book called Anarchy, State and Utopia. And David Friedman wrote a book called The Machinery of Freedom, Milton's son, David Friedman. And both of them sort of say that you don't need a government at all. And they tease out that idea to his logical conclusions and they show how it's possible to live without a state at all. Which I don't agree with because my mind can't wrap itself around it. It's probably a flaw on my part, that I think there does need to be some government which protects our rights and so on. But it should not do much more than that. But the question is sort of not something I give great, I mean, not something that the point is, we live in the real world that we live in, and all our battles are for more freedom. And we know that more freedom helps. Right. And why think of utopia? I mean, utopian thinkers are the most dangerous."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:00.480",
+        "message": "Okay. You got a question on Facebook from Darshana Mhatre, where she asked, you expressed your displeasure on demonetization when it was announced. Today, more than a year has passed. Obviously, the cash crunch still remains. And it will only increase with the elections coming in. But otherwise, do you still believe it is too bad a move for the economy?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:19.600",
+        "message": "Is it too bad a move? It's a disastrous move. I said it at the time I said it repeatedly again and again, I stand by it and I'm going to raise my finger and say, I told you so. Right. I think I was completely right. I won't give myself much credit for being completely right. Because anybody with half a brain could have seen that it was going to be a disaster for the economy. And its consequences go far beyond the cash crunch, current cash crunch. It's gonna be you know, it destroyed lives. It, it was a humanitarian disaster. And the fact that there are some people who call themselves economists who can say, hey, in the long run, it'll help us we'll talk about costs and benefits, though, the the presumed benefits may happen to one group of people and the costs are on another group of people and it's overwhelmingly hurt the poor. I find that repulsive and disgusting. demonetization was a disaster. It was a unilateral move by a mad despotic leader who doesn't have a clue about economics. And I condemned it then and I condemn it now and my condemning it is really meaningless because it's it's damaged this"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:03:15.360",
+        "message": "country. All right. Another question from Twitter from at the luck 365, whose name is the luck comment, also a very regular Cyrus listener. He sent in a question that says just read the WHO's report on air pollution. How do you think our country should lay out a concrete plan on tackling the issue, regulations, penalties, rewards for states, private entities who tackle it, public"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:37.520",
+        "message": "awareness, etc. Okay, so I'm not an expert on the environment or WHO. So I can't go into specifics. But I would just say that to identify a problem and say we should do this is a little too too simple. What often happens is if you remember, boss, if we I had an episode with Vivek Kaul on the pollution in Delhi. And what Vivek pointed out, and this is like really an interesting way of thinking about this problem in the political economy. What Vivek pointed out was that look, the pollution in Delhi is happening because farmers in Punjab are burning rice and it's a leftover of that the rice husk or whatever, which they are burning that after you know, because they have no other way of getting rid of it. And the fumes because of the way the wind blows is going to Delhi. Now the thing is, if you one of the reasons that is happening is that rice first of all should not be grown in Punjab at all is a point he made, because it's a water intensive crop in Punjab is relatively arid. Why is it grown there? Because of government subsidies and electricity and these people can just drill out from their bore wells as much water as they need to. So that is an unseen effect of a government subsidy, which you see right there, the Delhi pollution. And if you are going to solve this, how would you solve this? You can't just say that, let us make it a crime to burn that because you don't have the state capacity to actually enforce anything. All that will happen is that the few cops that you have will just get more bribes. And it's a political problem because government of Punjab is not going to do anything about it. You know, so Kejriwal will go to the Punjab CM and say ki bhai iska kuch karo, but the Punjab CM needs those votes. Any party which pisses off the farmers of Punjab is not going to come to power in Punjab. So no party is going to do that. How do you solve the problem? Poor Kejriwal in Delhi is, you know, putting his muffler and having asthma because of that. But there's nothing he can practically do. This is such a huge problem that I can't even think of a possible solution for it, even if there's a dictator at the centre and he really won't, you know, how? And a lot of governance problems are of this nature. So if you're on the outside and you say that, oh, okay, this is happening because farmers are and all of the Delhi pollution isn't because of this. This is sort of that takes it beyond the tipping point. But say, okay, ban the farmers from doing that, or whatever. But those are very easy answers. Those don't work. No answer. So these are huge problems. So for me, having literally no understanding of the environment and what the WHO might have done. But when I say no understanding of the environment, I mean, the sort of the specific politics as in this case, I really can't say anything. All right."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:06:10.000",
+        "message": "Devan Roy, whose Twitter handle is at FA2Lingman asks, why is there no faith in free markets in"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:16.240",
+        "message": "India in spite of its many successes? Because it's counterintuitive. And this is something like many of the basic precepts of free markets are counterintuitive. This goes back to what I was saying about human nature earlier, that we've evolved, we evolved in prehistoric times, our instincts have evolved in prehistoric times. So number one, we thought of the world in zero some ways, that if I get something, because those were times of scarcity. So you know, there's a dead deer. If I get the deer, the other tribe won't. If the other tribe gets it, we won't. You think of the world in zero some ways. So if somebody wins, somebody else loses. That's how you think of the economy. So you assume that the solution to poverty must be redistribution. You assume that if the rich are getting rich, it can only be if the poor are getting poorer, and so on. The positive sumness of things, which is one of the great insights of insights about the world is very counterintuitive and very hard to get across. Number one, spontaneous order, that's large systems can run by themselves, that languages can evolve and form up with sets of rules and all that on their own without a central committee planning it and saying this is how you should use a comma. People don't get that. You know, spontaneous order is because back in prehistoric times when we evolved, everything was on a scale where you could plan it and control it. But large societies are not like that. We run through spontaneous order, markets are spontaneous order, languages are spontaneous order. To go back to I pencil by Leonard Reed, that is a case of spontaneous order where millions of people combine to produce a pencil for you, yet you don't know anything about them and they don't know anything about you. Deeply counterintuitive, right? So all the ideas of about free markets are extremely counterintuitive. Whereas all these sort of command and control socialist ideas that government will plan everything and all of that, despite all evidence to the contrary over the last few decades of how that works out. They still remain strong in the popular imagination."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:08:10.560",
+        "message": "All right. Okay, let's take some last few questions. Damanbir Singh, whose Twitter handle is DamanbirSingh9 asks for spreading ideas of liberalism, which is better a podcast championing liberalism, criticizing reactionary forces with like minded experts or a podcast run by a liberal who gets people from the other end of the political spectrum on the show and engage them using logic and data, not political correctness."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:36.000",
+        "message": "Right. And this is a common, I mean, this is a question others have also asked. Why don't you get people you disagree with? And my answer to that is I have. Did you listen to my future of the internet episode with Nikhil Pawar? It was very lively. We were arguing all the time. Vivek Kaul is a frequent guest on the show. And we disagree over a lot of things. I mean, he's not a libertarian, certainly like me, very close friend, very fine mind. So I try to engage with people who don't think the way I do. At the same time, I must say that this quest for balance in the personal domain, like this is a personal podcast, it's my podcast after all, is not always necessary. For example, there are ideologies that I find repulsive, right? I will never bring in, say, a Hindutva bigot here who will argue that Muslims don't belong in India. I find that kind of thinking so repulsive, I will never have him here. Equally, I will never bring in somebody here who, for example, doesn't care about individual rights or who believes in mass scale coercion or social engineering. Again, I find that equally repulsive. Why should I engage with"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:09:35.920",
+        "message": "those people? Those ideas are dangerous. Do you not subscribe to the idea that if you get someone like that, you and him or her will find a common ground somewhere and they each of you go back"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:45.280",
+        "message": "with something? Sure, no, I'd love to find common ground with conservatives and left liberals. But I'm saying there are some categories of people on the far right and the far left, right, there is no common ground possible with. So why even try if someone is going to sit across me and tell me that Muslims don't belong in India, and it's a Hindu nation. I don't even want to have that conversation. And maybe it's wrong on my part to react so strongly against that. But I don't want"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:10:09.600",
+        "message": "to have that conversation. Okay. Vimal Roy on Facebook asked what's closer to you cricket or"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:15.040",
+        "message": "poker? Okay, I haven't actually, I've been a poker player and pretty good practitioner. I am not a cricket player. Though I've bowled three balls to Rahul Dravid and he was clean bowled. But this was"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:10:27.120",
+        "message": "not proper cricket. What happened on the third ball? I used to I used to work in cricket force."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:32.480",
+        "message": "So he had come over and he used to play office cricket with this sort of plasticky kind of ball, which you could squeeze and I figured out a way of squeezing it and imparting phenomenal forward spin. And the first ball was a wide the next two he was bold and then he called me showy when he refused to play anymore. Although I had to point out that I wasn't chucking it was fingers that"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:10:50.320",
+        "message": "were generating the pace because of the nature of the ball. Or was he just being good to the"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:53.760",
+        "message": "managing editor then? No, no, no. He wouldn't give a shit about that. He's a delightful man, but I don't think he'll get deliberately clean bowled by anyone. No, but in real cricket, I'd be a complete joke. But I love both of them. I you know, sports are sports. I mean,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:11:10.000",
+        "message": "Vimal's second question was, do you think Dan Bilzerian made all his money playing poker?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:15.120",
+        "message": "No, of course not. He's just like a celebrity. He's like the Kim Kardashian of that kind of"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:11:20.880",
+        "message": "to interject. I think you've done a podcast on cricket, right? Like, or a series of"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:25.920",
+        "message": "audio. Yeah, I've done. Yeah. So me and Prem Panicker, the legendary. I'm reading somewhere. Yeah. So we've done for the company Storytel. We did 10 turning points in Indian cricket. So it's a 10 episode series, which starts with Seekh and Aidu and ends with Virat Kohli. So yeah,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:11:45.040",
+        "message": "check that out. Storytel.in I think. His third question was, what is the path to legalize traditional vices and he puts vices in courts like sports betting or poker in India?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:55.920",
+        "message": "Yeah, I mean, first of all, of course, I agree with him with the presumption that they should not be illegal. They should absolutely be legal and people conflate match fixing and betting and I'm like, no, they're completely different things that legalizing betting will actually stop match fixing. Like the moment you make something illegal, the underworld gets in. And that increases the chance of nefarious activities like this lovely word. So what are the chances? I honestly think that you are not going to do it through reason and logic. It will only happen if some powerful interest group decides that there is something in it for them. Like for example, Mukesh Ambani says, I want to do a casino in Bombay. And he realizes that's going to be very profitable. And then he tells the government to change it. So if if something like that happens, so if that changes, sometimes laws changing for the better can be because of the wrong reasons like"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:12:50.560",
+        "message": "this. All right, last three questions. This one is from Rajesh Bhateja. His Twitter handle is Bhateja Rajesh. Props to him for sending a screenshot and not typing out the entire question. It's a longish question with a comment. He says, Hi Amit, where and how do you see hope for India? Corruption has gotten into our DNA education, perhaps the only hope is broken. Political scene seems degenerative. Perhaps only thing that worries politicians is winning next election. Valueless lives lost by dozens and hundreds every day in road accidents, medical apathy, violent clashes, etc. Filth all around, missing civic sense. You may say we are a country still in the making and the tolerance to accept this messiness is in some way part of our struggle towards the hope that woe subha kabhi to aayegi. Okay, where's the question? The question was first sentence. Where and how do you see hope for India? I think somebody else also asked a question. They asked one one good thing and one thing that depresses you and one thing that gives you hope. Yeah, so let's let's just name the person in the Twitter handle. So that question is asked by Rohit Ajit Kumar. One thing that gives you despair and one thing about Indian politics that gives you hope. I think we've spoken about despair a lot. What gives you hope?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:03.280",
+        "message": "What gives me hope? And I think I've said this in another context. I think I might have said this in my podcast with libertarianism. What gives me hope is that many of the much of what we could not achieve with political struggle, maybe technology will do for us, maybe technology will empower the individual in ways that political battles could not. And so that gives me hope, but it's like really an unknown unknown and it can work both ways. Technology can actually help governments oppress us more and take more of our powers away in which we, for example, see with the all pervasive surveillance system of Aadhaar coming in and so on and so forth. So it can work both ways. But I just think that, you know, technology can empower individuals more than all of this, you know, ivory tower talk."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:14:55.040",
+        "message": "At madmanweb, Madhu Menon asked, Who is your favorite photographer and why is it me?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:00.640",
+        "message": "So Madhu Menon is my very old friend. And all my DPs you see of me everywhere on Twitter, Facebook, whatever are basically shot by Madhu Menon. Brilliant photographer, not all he does, he ran a great restaurant called Shiok, which unfortunately no longer exists. And I've done an episode with Madhu Menon on restaurant regulations. Yeah, so you should check that out. Delightful guy. And he also on the side, good at tech and makes websites. So the website of Pragati, thinkpragati.com is again made by Madhu Menon. So my favorite photographer is Madhu Menon. And why? Because I say so. It's a circular reasoning. I'm allowed that."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:15:36.720",
+        "message": "All right. And the last question asked by at Veena Venugopal, Veena Venugopal asks, which lit Twitter on fire. How are you so handsome?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:47.360",
+        "message": "Veena Venugopal is messing with me. She's my good friend. She's messing with me. I have a Facebook podcast. I know this has gone on quite long, but I just want to quickly mention to try to sort of go through every question since I've printed out a list. I don't want to leave anyone out. They took the trouble to ask. Satya Piyani from Punni Talks asks, typical policymaking pitfalls that government makes but private enterprises generally avoid and pitfalls that both are equally likely to fall into. Okay, because Abbas is on my head. I don't want to spend too much time. But I would say that more than policymaking pitfalls, policymaking pitfalls that government makes come if you ignore incentives. If you just look at intentions, a private enterprise who has to go beyond intentions and think about outcomes because the bottom line depends on it, the survival depends on it. Government enterprises can often do ignore outcomes and do things for good intentions because the optics are good that we are doing this because we care about you regardless of the optics. This is especially true for moves, which play out over a long period of time because politicians tend to be focused on the next elections. So I mean, I would have a lot more to say about this, but I'll move on. Discussion, Anand Hegde again, discussion on whether taxation is theft or property is theft. I find the notion of property being theft is completely bizarre. And the reason for that, it is this and we had, I had a, there was an episode of the scene in The Unseen which Shruti Rajagopalan joined and spoke about the right to property. And for a little bit of that, she also spoke about the fundamental philosophical basis of why you need property, which is because there is scarcity in the world. Everybody can't have everything, things are scarce. And if you don't have a system of property rights, you will essentially have chaos and violence all the time. You know, then what stops me from picking up this mic from IBM podcast and just taking it with me and saying, this is now mine. And then Amit Doshi will have to sit here all the time to defend his equipment. The world can't function like that. You have property rights for a reason. And again, I wanted to elaborate on this, but we're running out of time. What's the value advantage of voting? Nota, Kelvin, Inc. We've been through this. We've been through Krishnakumar. Okay. Someone called awevenger at pop underscore Mac, which is awevenger. So it's like, I don't know whether he's punning on the Avengers or Arsene Wenger or both. He has a snarky question. What's not wrong with our country? Which I think is taking a dig at me that maybe I'm too negative or something. I guess. What's not wrong with our country? I'll give you a serious answer and it's counterintuitive. What's not wrong with our country is population. From our childhood. No, I'm serious. From our childhood, we've been indoctrinated with the notion that population is a great problem. And that is a mistake. I've written columns about this. You can search for them on IndiaUncut.com. That population is our greatest strength because it's a positive some world, human beings are in the words of the economist Julian Simon, the ultimate resource. So I think what is not wrong with our country, people are not wrong with our country. And it's interesting every time someone says India ka problem population, they basically mean everybody else but themselves. Okay, Mayur Date at Mayur 1441. On what grounds do you support net neutrality? It seems contrary to your belief system. Someone else also asked about net neutrality. I don't support net neutrality. I don't oppose it either. Let me explain what is my belief system. If I'm coming from a position of property rights, and this is something I mentioned in my episode on the future of the internet with Nikhil where we were arguing, is that I always when you contest the use of a resource, I look at who owns it. Now it so happens that spectrum in this country is owned by the government. It's a different argument whether the government should own spectrum and if not, what do you do with it. But given that the government owns a spectrum, they have the right to set the conditions on it on how people may use it and so on. And what the net neutrality advocates like my friend Nikhil were fighting for is that these are the XYZ are the conditions you should set. Others were saying ABC, they have the right to ask for those conditions as an interest group. Now, personally, I would just say that every ISP should normally have the right to offer whatever it wants to the customers and then you let them compete. Nikhil's point was that there isn't real competition, it's a cartel, in which case what the government should do is make sure that there isn't a cartel and it's a competitive market. And generally, if there is a cartel, and if there isn't competition is because the government is doing something wrong is getting in the way. So, this is a broad argument. So, but I on the whole, I think the debate is moot. It doesn't make a difference. I mean, but I don't either support or oppose it. You know, more power to Nikhil as one interest group to ask for what he wants to. Mohit Dodwani asked a number of questions. I'll kind of skip them because we covered two of them. We covered a couple of them. Shaswath asked a question about is consent an unseen factor of well-being not captured in the World Happiness Index? Could the lack of it be a reason for India's plummeting rank? I didn't understand the question Shaswath, I'm really sorry. I'm not trying to, you know, if you can clarify exactly what you meant by that, maybe in a future episode. And Euclid asked the same question about why don't I invite someone who has views contrary to mine? I do, bro. I did. And yeah. And if you disagree with me, well, come on the show. Yeah. Is there a way besides funding or joining mainstream politics that NRIs can bring about meaningful, sustainable and positive change in the country? Anhat Gill at Anhat underscore Gill. Again, the same answer, I think"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:21:12.880",
+        "message": "that I gave earlier that just try to get your ideas in the culture, talk to more people about"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:18.160",
+        "message": "it. Don't let your uncles dominate your Facebook groups, your family Facebook groups. And okay, episode on public sector banks. Oh, we did this. The Euclid question. Okay, a question by Pratik Gupta at Pratik Gupta. You talked about free market and healthcare. What do you think is the role of information asymmetry in terms of healthcare where the consumer doesn't have an enough know-how to make a choice of the price or value of a service remains the same? Example, doctor gives me a choice between two vaccinations for my child. One is 8K, the other is 4K. 8K ones protects against 15 strains, 4K one protects against 12 strains. I can't make a rational choice because information asymmetry. Perfectly, very good question. Again, I would have liked to spend more time on this. But net-net, I'll say two things. Net-net, I'll say that if you don't have a free market here, and if you have a government deciding that the government choices will not come from a position of from a benevolent all knowing position, the government will be captured by special interest groups, who will then dictate what vaccinations they provide and what they don't. The classic example of that is that fundamentally, the obesity epidemic in America was caused by the sugar lobby, funding researchers on health on the one hand, and government bodies on the other. And which is why the government gave those guidelines, which we now know to be untrue, which says saturated fat and cholesterol are bad for you and sugar is perfectly okay. And that's really the one single reason for the obesity epidemic. At some point, I'll do an episode on this. But governments are always captured by special interests. And therefore, I'd rather have a competitive marketplace. And if you have a need as a consumer that there is information asymmetry, how can you make out the difference? I'm sure there'll be players who will then emerge in a marketplace if they're allowed to, will be able to help you mitigate that. And on the RTE episode, Euclid again asked any particular reason the panelists skip discussing the sectarian nature of the act? Why is it applicable only to non married minority institutions? Well, no particular reason we skipped that what what we wanted to focus on is all the unreasonable regulations that the RTE puts on private schools, which is actually harming education in this country. That's kind of what we wanted to focus on. So we didn't discuss the sectarian nature. And perhaps if I do a future episode, I think this episode was with Vivek Kaul. I'll keep it in mind that this is something that we should take up. And in fact, by mentioning it, I've already taken it up there. It's done over. Don't bring it up again. Episode from free trade would help a panelist share example from real life. How many countries in the last 50 years are becoming economic powerhouses by following the prescription contrast with experience of China, South Korea and Japan, again by Euclid. Again, various examples, but wherever markets are freer countries have done well. And even though, you know, people talk about the socialism and the welfare states of the Scandinavian countries, but if you look at how they became prosperous in the first place, it was because of free markets, and then they put those welfare systems in place later, some of which actually hurt them. For more on this, just search for Johann Norberg on YouTube, just go to YouTube and search for Johann Norberg in Scandinavia, and you'll find talks by him on this Deepak Devathai wanted to know about net neutrality. I've covered this. Devinder Bajju at Bajju Voodoo or do whatever, asked why you stop dreaming? Okay, what he means is I used to start my episodes, I had a strange dream last night. And I used to think, okay, it's kind of funny. And I'm going to discuss some serious policy issue. I'm doing a little bit of research on that. It's funny. And I'm going to discuss some serious policy issue. I'm doing a little bit of comic humor before that. But I got tons of feedback from people saying that it's absolutely horrible. And so I just stopped it. I listened to feedback from my readers, because, you know, you got to do that sometimes. And so recently, Krish Ashok, you might know of him on Twitter said that, hey, he named two foreign podcasts and said one of them is a Sachin Tendulkar of podcasts. And one of them is the Rahul Dravid of podcasts. And so I said, what is the Atul Bedade of podcasts? And he said that my dream intros were the Atul Bedade. Otherwise, my podcast is a Virat Kohli, but the dream intros were Atul Bedade. So, so fine, if people feel so strongly about it, might as well not have it. You know, I mean, maybe I can do a separate dream podcast. Okay, Bharat Sriram is making India hurting us more than helping us. Also, can you talk about the increasing petrol prices is from at Bharat Sriram, name is Bharat Sriram. Making India in the sense that it replicates import substitution is helping us, you know, it's ironic that despite all the things that Modi says about Nehru, that he's imitating Nehru in many ways, for example, Nehru harmed this country enormously. I mean, I'm a big fan of Nehru, great statesman, but economically, he harmed us enormously. And one of the ways he did that was through import substitution, where his idea was that things should be made in India, we shouldn't allow foreign companies to make for us, which harmed us for various reasons, some of which, you know, if you listen to my episode with Anupam Malur on protectionism, you'll kind of understand that's self defeating. And that's exactly what it did to us, we defeated ourselves and make in India indicates the same mindset. You know, frankly, it doesn't matter where something is made. It just matters that consumers that is citizens like you and me get the best value for money they can and that creates value that they then go on to spend in the economy. Anyway, listen to my episode on protectionism and you'll get a sense of that. As for the increasing petrol prices, I don't know, I'm not an expert in this. But it does strike me that Prime Minister Modi was incredibly lucky that oil prices worldwide have been so low since 2014. And that's one of the things that's kept the government performing much better than it would otherwise have. Although he's tried his best to shoot himself in the foot with things like demonetization and the terrible implementation of GST. Okay, who's report? Okay. Mojo at MK pin asks, Can you address on Modi's political philosophy is hurting India. I am a lone voice in a family of NRI BJP supporters who think if you don't worship Modi, it makes you a Congress supporter. You know, very good point. I mean, I mean, I can't I can't actually address how it's hurting India because already met this episode has gone on too long and it will go on for two more days if I do that. But you're right that people are thinking in binaries, you know, all my life as a writer, I've railed against the Congress, I've railed against the Gandhi's. And today I keep getting attacked because everybody thinks I'm a Congress supporter because I attack Modi. The thing is, no, they both suck. And right now one of them is in power. So he sucks a little bit more because he has power. You have to keep opposing, right? So, you know, and no doubt, you know, right now the box hate me, I think they'll probably whenever the next government change happens, they'll start loving me because they'll see me as one of them. I'm attacking the other guy. Okay. Surekha Pillay on Twitter, and we'll end with this. Surekha Pillay on Twitter said that she has questions, but she didn't want to ask them. She said, my questions revolve around policy discussions being exclusive, Pragati not talking to the young and ideologies serving individuals more than societies. So she didn't really ask them. But by mentioning what she's not asking, she kind of asked. So I'll, so I'll actually try to answer them policy discussions being exclusive. I think she'd actually have to elaborate on that. I'm not really sure what she means. But if she means that all of us are, you know, English speaking elites talking in our own little echo chambers, and we don't affect the world outside. She's absolutely right. I mean, I don't have a disagreement with that. Pragati not talking to the young, I relaunched Pragati last year, but it's been running for it ran for 10 years before that. I don't, you know, Pragati is a serious policy magazine. But the thing is that it does talk to the young, I believe, in fact, since we relaunched as a website under my editorship, since last year, we've tried to make it more accessible. And the thing is, while a lot of its core writers are policy experts, and so on, retired bureaucrats and whatever, we also have a lot of young policy experts writing for us like my friends, Pravan Srinath, Pranay Kotesane, Hamsini Hariharan, Nidhi Gupta, Manasa Venkatraman, outstanding writers, really knowledgeable people, really young, young millennials, or even the generation after that, I don't know how you define these things. And, and what Takshashila, which is a think tank, which runs Pragati keeps doing these courses. And, Nakul, I think you did one of those courses. And, and they keep producing younger and younger policy wonks, many of whom speak the Indian languages go out in the field, try to make a difference. We've even got a Hindi podcast, which Pranay Kotesane and Saurabh Chandra run. So I think that we do our best to have young voices in the mix, diverse voices in the mix, not just the same old, same old. We do our best as much as we can. And finally, ideology serving individuals more than societies. You know, the thing here is that societies are composed of individuals, and you have to protect them all. And, you know, it's like that famous saying goes about an individual being the smallest minority, you must protect all your minorities, including individuals, and people who talk about societies over individuals who talk about the greater common good and so on and so forth. Look where the leaders, the communists did that, the fascists did that, the Maoists do that. Anyone who talks about the greater common good and about society is not talking about society as a whole, they're talking about the specific interest group or class of people that they represent, whose good they want. The thing is, I automatically believe that if you protect everybody's individual rights, then, you know, society will flourish. It's a positive sum game, just protect everybody. Let voluntary interactions take place between individuals in a society and we'll all do really well. But whenever in the name of a group, you try to clamp down on an individual, you are hurting all of society, all of humanity. And on that grandiose note, I will thank Surekha for not asking this question that she found a cunning way to ask. And Nakul and Rachit, thanks a lot for coming on the show."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:31:02.640",
+        "message": "Thanks for having us. Thank you. Thanks, Amit and Abbas. Abbas, thanks a lot. Thank you so much."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:31:37.280",
+        "message": "As you can see, we have a podcast listener in his natural habitat."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:32:08.160",
+        "message": "Billions of years of evolution have led him to this point. He's on his way to work and listening to podcasts makes his miserable day better. He will now head to work and use all his knowledge to communicate with other colleagues and possibly future mates. You can find more of his species on ivmpodcasts.com, your one-stop destination where you can check out all the coolest Indian podcasts. Happy listening."
+    }
+]

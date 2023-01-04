@@ -1,0 +1,157 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "Welcome to the IBM Podcast Network."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:08.900",
+        "message": "Last Sunday, I woke up after a drunken night of debauchery in a strange apartment. There was no one there. After I remembered who I was, I decided that I'd better get home quickly. I left the apartment, went to the lift and found that the lift wasn't working. Just besides the door to the lift, there was a tent, like an actual tent inside this apartment block. I peeped inside the tent and there was a family of four there. What are you guys doing here? I asked. Why are you in a tent? We are waiting for the lift to start working, the guy said. We are going to go watch a movie, but this lift is being repaired. So we put up this tent and now we are waiting. What nonsense? I said. Why don't you just walk down? The whole family started laughing at me."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:57.380",
+        "message": "Walk down?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:58.380",
+        "message": "The woman said with a sneer. Do you know which floor we are on? This is the 800th floor of this building. We can't walk down 800 floors. The 800th floor, I said. What are you saying? That's impossible. This is Mumbai, the city with the low FSI. No building can ever have 800 floors here."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:01:19.780",
+        "message": "Welcome to the seen and the unseen. Our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Badman."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:30.540",
+        "message": "Welcome to the seen and the unseen. My guest on the show today is someone I have been reading for a decade and a half, but only got to meet recently. Alex Stabarrok is a professor of economics at the George Mason University and one half of the team that writes Marginal Revolution, which is my favorite blog of all time. He happens to be in Mumbai these days as a resident senior fellow at the IDFC Institute. Alex, welcome to the seen and the unseen. It's great to be here. So you've been in Mumbai for a few weeks. How are you enjoying it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:01.300",
+        "message": "I'm loving it here in Mumbai and also in India in general. I must say I have done a lot of the tourist stuff. I've been to the Taj Mahal, I've ridden an elephant. I even see a Indian fake here getting the snake out of the basket. I've never seen that, so well done. I guess you have to go where the tourists go. But it's also a fascinating place for an economist interested in development issues. You really see the importance of economics, the importance of development economics. You see the huge differences between the private sphere and the public sphere. So it's a fascinating place to be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:02:41.460",
+        "message": "Tell me one significant thing you've noticed about Mumbai in the time that you've been here. How is it different from cities like, say, other Asian cities like Hong Kong, Singapore"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:02:50.100",
+        "message": "and so on? Well, Mumbai is an interesting city in that at first it looks normal, looks like you would expect. You do see some tall buildings, some skyscrapers and things like that. But then when you think about it, Mumbai is on a peninsula. There is very little land. It's a huge city, has a tremendous population, over 20 million people. And it actually looks more like L.A., more like a spread out city, a sprawling city than it looks like the skyscraper city of Shanghai or New York. It doesn't look like New York, and that's actually surprising because all of the economic logic says that a city with so many people on such a small piece of land, it ought to be tall, and it's not. Why is that? Well, I think the major reason is there's a huge regulatory burden on building, and in particular, there's an extraordinary low floor space index. Now, what that means, if I can take a second to explain it, it means if you have a floor space index of one, that means that on a 100 square meter piece of land, let's say, you can build 100 square meters of floor space. Or you could do that with one floor, a 100 square meter floor, or you could build on half the land, on 50 square meters, and have two floors. But you're still restricted to 100 square meters. Or you could do it on a quarter of the land and have four floors. Now, Mumbai has a tremendously low floor space index, only 1.33 in large parts of the city. Now, to give you some comparison, New York has got a floor space index of 15, Hong Kong is up there at 12, Singapore is anywhere between 12 and 25. So in New York, you can build much taller than you can here. And because of the restrictions on building really tall buildings, that has a lot of negative consequences, I think, for Mumbai."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:10.420",
+        "message": "So what's the rationale behind having a low FSI? Why did our regulators decide that, oh, it should only be 1.3?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:05:17.100",
+        "message": "It's very peculiar. I think what happened was Mumbai has gotten into a negative equilibrium. It's gotten into the wrong equilibrium, and for the following reasons. The initial argument was that if you allow people to build really tall buildings, you'll have too much congestion, and you'll overwhelm the sewage system or the road system, things like that. But actually, when you've got so many people in such a small area of land, you want to make as much use of that land as possible, right? You want to economize on land. And the way to economize on land is to build tall. And that creates a lot of value. When you're able to build tall, and you're able to put people in close proximity with one another, you put all people in a firm in the same building, you put all types of people who interact with one another, you put them close together, you get a lot of positive feedback, a lot of externalities, you get a lot of value. So in fact, that value could be taxed in order to produce things like the sewage system and areas like that, infrastructure like that. So unfortunately, however, when you keep everything small, when you keep everything low, then what happens is you get sprawl, you push the city out, you make it much more difficult for people to talk with one another, to communicate with one another, to come together, you increase congestion costs, as you know, driving in Mumbai could be quite the challenge."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:05.460",
+        "message": "I'm really, really good at it. I think I'm the best driver in Mumbai. So what are the unintended effects, therefore, of having a low FSI?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:14.060",
+        "message": "Yeah, so one, as I said, is that you get sprawl. So you get things are pushed farther and farther out, which Mumbai doesn't have the space for"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:07:24.060",
+        "message": "because it's a north to south city."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:07:26.660",
+        "message": "Exactly, exactly. So you don't get the benefits of bringing people together. And because you push people out, this means that, well, people have to commute to work. And the commuting costs here are tremendous. It takes hours to get 10 miles at some times. If you're coming on the railways in Mumbai, they don't shut the doors on the railways because people are hanging on the outside. And I believe the last figures were 10 to 20 people dying every day on the Mumbai railways just because so many people are trying to get downtown. They're trying to get to where the economic activity is. But they can't live downtown because the price of land has been pushed up so high. And that's kind of a remarkable thing. Mumbai is one of the richest cities in India, but India, of course, is a poor country. Despite this fact, the ratio of land prices to incomes in Mumbai is one of the highest in the entire world. So the price of land here is one of the highest in the entire world. And it makes it impossible for people to live close to where they work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:40.380",
+        "message": "It's complete madness. I often tell my friends that it's easier for me to buy a home in New Jersey than in Mumbai. It's so incredibly expensive, it doesn't make sense. But whenever I talk to my friends about FSI, we all have the same complaints about scarcity of land and the prices are so high. But the argument I always get for FSI is that, look, already our city services are sort of struggling to cope with what is already there in terms of water supply, in terms of electricity, in terms of parking space. And my argument always is that if you just allow them to grow upwards, all of those will evolve. There'll be a demand for it, there'll be money for it, as you pointed out, if you simply tax the value that is created by that. Can you give me a sense of how other metropolises through the ages have evolved to grow upwards with these services evolving with them? Like, does it have something to do with what stage of economic growth a country is at?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:09:33.300",
+        "message": "Yeah, so let me get to that in a sort of a byway, because I want to make an important point here is that, you know, Mumbai historically has grown by building land, by reclaiming land from the sea. You know, it started out as seven islands, and it has now been produced into a peninsula. So Mumbai understands that the way to grow is to build land, to make land. But in exactly the same way that filling in land from the sea is reclaiming land from the sea, when you build high, you're reclaiming land from the sky. So you're building more land. And people don't seem to understand this. It's a pretty simple point. I mean, and if you look at New York, for example, because New York has grown tall, it's actually, literally, as if you have multiplied the size of Manhattan by more than two and a half times. So the actual land area which people can inhabit is two and a half times, more than two and a half times the size of Manhattan Island itself. And that's what really counts. It's not the square kilometers per person, it's floor space per person. And Mumbai actually has one of the lowest floor spaces per person in the world, 2.9 square meters compared to even a place like Shanghai, where we're talking more like 13 square meters. So the thing that you want to think about when you're building tall, you're actually creating more land. And why Mumbai got on into this negative equilibrium, I'm not entirely sure. But one of the reasons that it's so difficult to get out of it, as you well know, is that the system has become incredibly corrupt."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:25.540",
+        "message": "So what are the special interest groups that would be against a higher FSI? Who benefits from a low FSI?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:11:32.180",
+        "message": "So right now, I think the main beneficiaries from a low FSI are actually the bureaucrats and the politicians. Because the economic logic is so much in favor of building tall. This means that there's a lot of money to be made when you build tall. And that means that the developers are willing to pay big bribes. And they are willing to do things to get around the law. There's a bunch of, you know, fascinating ways in which developers working on the side or on the sly with politicians and bureaucrats have managed to get around the law. For example, carports are often not considered part of the FSI. So when a plan is built, this is my understanding, you can literally have it where there's an elevator which is supposed to take your car to the top, you're supposed to have a carport at every floor. And of course, nobody actually does this. They just have that built into the plan. And then the carport becomes actual living space, balconies are sometimes not included. So you call it a balcony and it becomes, you know, part of your floor space. So there's a whole bunch of ways in which developers have do manage to squeeze around these laws. But they all involve paying a lot of bribes to politicians and bureaucrats who benefit. And I think they're the main beneficiaries. It's hard to see them giving up this incredible source of revenue."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:07.900",
+        "message": "So the existing rent seekers, obviously, will make sure that their revenue is intact. Just to go a little further back into history, FSI is not something that always existed as government regulation. I mean, originally, you started building land, you could build it as high as you wanted. So what is sort of the history behind it? How has it evolved in different countries? And what is so unusual about India in that sense?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:30.140",
+        "message": "Yeah, Mumbai is particularly unusual in this sense, in that the FSI actually used to be"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:13:36.580",
+        "message": "higher. Whoa."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:13:38.580",
+        "message": "Yeah. So, and this is one of the problems which Mumbai currently faces, is that a developer may have an old building, which was built to a higher FSI. And that building may be crumbling, it may be dilapidated, it should be in need of being torn down and something else. But if they tear it down, the new building will be under the new FSI rules, which are actually lower."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:05.460",
+        "message": "Whoa."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:14:06.460",
+        "message": "So, a crazy situation. And I think what happened, though I'm not sure about all of the details, but I think, you know, when a country freed itself from colonial rule, I think this made a very big difference to what happened. So for example, the United States freed itself from colonial rule 1777, at a time when, you know, Adam Smith's Wealth of Nations had just been published, Hume, these people were writing, this was the era of liberty, right? So all of the thinkers at that time were John Locke, Adam Smith, were very pro-liberty. So at the time that the United States freed itself from colonial rule, it was natural to go in a pro-liberty direction, because that's where all the thinkers were at that time. Now, you come sometime later to where a country like India, or some of the African countries, where they freed themselves from colonial rule, and now the leading thinkers are so socialist thinkers. And it's natural then to rebel against England. Maybe you think England means laissez-faire, or something like that. And you go with the contemporary leading thinkers, and they're all planners, right? And so you come and you say, oh, well, the way to build a modern society is we need to plan everything. And city planners are going to say how tall buildings are going to be. They're going to say what buildings should be built where. You know, these should only be residences. These should only be factories. They're going to try and plan everything. And of course, that has worked out to be a disaster in practice."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:54.220",
+        "message": "Alex, it was very enlightening talking to you."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:15:56.860",
+        "message": "Thanks a lot. Great talking with you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:15:58.860",
+        "message": "Thank you. The big lesson from my chat with Alex is that for a city of reclamations, we haven't reclaimed enough. We need to reach for the sky. On that positive note, I'm signing off. See you again next Monday. I mean, I won't actually see you, but you can listen to me."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:16:25.900",
+        "message": "Next week on The Scene and the Unseen, Amit Varma will be talking to Karthik Shashidhar about future markets in agriculture."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:33.180",
+        "message": "For more, go to sceneunseen.in."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:16:48.700",
+        "message": "I'll see you then. Bye for now."
+    }
+]

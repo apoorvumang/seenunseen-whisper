@@ -1,0 +1,887 @@
+[
+    {
+        "speaker": "Unknown",
+        "time": "00:00:00.000",
+        "message": "I.V.M."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:30.000",
+        "message": "The purpose of the organization was to set protocols by which mail could be exchanged between the 22 different nations that were part of it. You could say to create the HTTP of the offline world. As the 19th century drew to an end, one of the problems it faced was how to enable a person in one country to pay the return postage for a letter from another country. For example, an Italian immigrant to America might send a letter to Italy to his aged parents and may want to enclose a self-addressed stamped envelope so that they can reply without having to buy stamps. But obviously, American stamps will not work in Italy and he can't buy Italian stamps in America. So what to do? The Universal Postal Union came up with a clever solution in 1904. This was basically an international stamp called the International Reply Coupon or an IRC, which would be valid anywhere and which could be purchased in any of these countries for a fixed amount of local currency. The system works superbly and aspiring writers of a certain vintage may remember that as recently as the 1990s, publications abroad would ask you to submit your writing to them with an International Reply Coupon so that the polite rejection letter they would send you would be at your cost. Now the Universal Postal Union is an upstanding organization and not the subject of this episode, but their IRCs set in motion an interesting scheme. Now remember, these coupons could be bought across all these countries for a set amount of local currency. But what happened when currencies fluctuated? An IRC would automatically become cheaper in one country than another. And currencies did fluctuate wildly because of World War I. As the war came to an end in 1919, an Italian immigrant in Boston received some International Reply Coupons in a mail from Spain. He realized the opportunity for arbitrage here. He calculated that if he bought $1 worth of IRCs in Rome, it would be worth $3.30 in Boston, a profit of 230%. Other countries had even more devalued currencies, such as Austria, and he could make even more money there. So he formulated a business plan. Buy IRCs cheap in Europe, make a profit selling them in the US. This was an entirely legitimate business plan. There's nothing wrong with buying cheap and selling expensive. Our man needed money for this though, and he had already burnt his fingers with various failed enterprises in the 15 years since he'd left Italy. No one was going to lend him large sums of money, but he figured he could get the capital he needed from small investors. He formed a company called the Securities Exchange Company, the SEC, which sounds respectable, and advertised a scheme promising that anyone who invested money with him would get a 50% return in 45 days. This is a mad rate of return. He even turned a few of his initial investors into agents, giving them 10% of whatever investments they got in. Everyone who invested automatically became an evangelist of the company, as they rationalized their investment and began recommending it to others. Over time, as initial batches of investors actually received that 50% interest, they became bhakts. They often reinvested their money while selling property to gather other funds to invest. Old women invested their savings of a lifetime. Early men mortgaged their homes to add to their savings that they'd already invested. In February 1920, the total investments in this scheme were only $5,000. A month later, $30,000. By May, over $400,000. By July, it was bringing in millions. Once newspaper coverage started in late July, it started bringing in a quarter of a million dollars a day. Estimates of how much money was invested in the scheme vary from 15 to 20 million dollars, and 20 million in those days would be around 250 million today, close to 2000 crore rupees. The thing is, none of this money was actually invested in IRCs. Our enterprising entrepreneur found it hard to get hold of IRCs bought in Europe and found no way to sell them in the US. Also, the total number of international reply coupons available worldwide was a fraction of the number that the invested money would buy. So the scheme clearly could not work. How did the whole enterprise work then? Simple. The securities exchange company basically paid out its investors from the money of later investors. Put simply, the first batch would be paid out by the money of the second batch, the second batch by the money of the third batch. And as long as the investments kept increasing, as they did because of the high praise by earlier payouts, all would be well. But at some point, this would have to end and the whole scheme would collapse, as this one did. This sort of fraud, robbing Peter to pay Paul, goes back through the ages. But in the popular imagination, they are now known by the name of this Italian immigrant who founded the securities exchange company, Carlo Pietro Giovanni Guglielmi Tebaldo Ponzi,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:05:25.520",
+        "message": "Charles Ponzi."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:05:41.880",
+        "message": "Welcome to the scene and the unseen, inspired by recent events at famous internet unicorn OYO. I decided to do an episode on Ponzi schemes with my good friend and frequent partner in crime Vivek Kaul. But before we get to the discussion itself, some happy news for fans of either Vivek or me. Vivek and I have started a new economics podcast called economic funders, in which we take you through one economic concept per episode, explaining how it applies to everyday life. The first episode of economic funders, for example, is about the sunk cost fallacy. And we discuss the Vietnam War, bad marriages, and why you should not finish reading a book if you're hating it just because you started. Economic funders is available exclusively on Storytel, the fantastic audio book platform that has supported the scene and the unseen in the past. You can sign up for a free trial to Storytel at Storytel.com slash funders, that's Storytel spelled s t o r y t e l, only one l. Five episodes of economic funders have already been dropped. So head on over to Storytel.com slash funders to sign up for your free trial and feast on the amazing insights and entertaining banter of Vivek Kaul and Amit Verma. But self promotion apart, there are plenty of great audio books available on Storytel, including classics like Raag Darbari and Kashi Kasi. The Hindi and Marathi collections are particularly awesome. The English collection is also great. And now they have economic funders on there. The first five episodes remember, please use this link to sign up Storytel.com slash funders. And now before we begin our discussion, an actual short commercial break. Hey, I want to thank Intel for supporting the scene and the unseen. If you haven't already, I recommend you check out Intel vPro. Intel vPro is a business platform that makes sure you have the best combination of hardware and software running. It maximizes productivity and security. Like I get so frustrated when I'm trying to open a large media file and it's taking forever. It just does not happen with Intel vPro, which makes your computing experience as smooth as butter. Please don't eat your laptop though. I'll talk more about the different ways in which vPro increases your productivity in the coming weeks. But today, I'd urge you to check out Intel's 8th generation vPro processor. This processor is much faster on both mobile and PC platforms. Hell, it's so fast, you won't be able to keep up with what you're doing. Do hop on over to Intel.in slash vPro that is vPRO to learn how to make your productivity and your business's productivity go through the roof."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:17.920",
+        "message": "Vivek, welcome to the scene and the unseen. Hi Amit. Thanks for having me."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:08:24.320",
+        "message": "Yeah, explain this OYO funda to me like their founder Ritesh Agarwal is apparently spending an enormous sum of money buying back shares of his own company. What's happening and where did he get the money from?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:08:37.160",
+        "message": "So basically, you know, I mean, I don't have any internal information. But from what I have read in the media, what he seems to be doing is, you know, he is offering his shares as a collateral, raising money against those shares and buying new shares and then offering those shares as a collateral, raising more money and buying even more new shares. So, you know, so if you know, if you look at it from what you just said, this seems to have a structure of a Ponzi scheme and so which is where it is important to differentiate, you know, Ponzi schemes can be fraudulent and then there can be schemes which have a structure of a Ponzi scheme, but the idea is not to defraud anyone. So in this case, obviously, you know, the idea is not to defraud anyone. But if you look at the overall structure of all these platform companies, they have a very, very Ponzi structure. Now, why is that? That is simply because, you know, what they are aiming for is a monopoly in their line of business. Now, there's a concept called network externality, which basically means that, you know, with every extra user on a particular network, the value of that network goes up. So to give you a, you know, a very, very simple example, Alexander Graham Bell invented the telephone. Now, if only Mr. Graham Bell continued to have the telephone, it wouldn't have made any sense. But let's say, you know, one more guy started having a telephone. So then Mr. Graham Bell could talk to that guy, then another guy, you know, had a telephone and so on. So more the number of people, you know, who had a telephone, the more the value of the telephone went up, or to give you a more contemporary example, all of us are, you know, there on Facebook, because all of us are there on Facebook, right? We're not there on any other social media network of the kind that Facebook is. There were other networks of that kind, there was MySpace, there was Orkut, which was particularly, you know, very, very popular in India. But once Facebook sort of became the place to be in, everyone sort of moved to Facebook. Now, what happens here is now, how does it apply in Oyo's case? Now, Oyo is in the business of renting out hotel rooms, okay. So obviously, it needs hotels to list on the website. And it also needs people to come onto the website and book those rooms. Now, so basically supply and demand. Now, how does it create demand? It creates demand by offering discounts, so that people come in and book rooms on Oyo. So the more people who come on to Oyo to book rooms, the more, you know, hotels should be interested in listing themselves on Oyo. And now, how do you get more people to sort of come on to the network is by offering huge discounts. And what happens is that the discounts are so huge, and not just in case of Oyo, I mean, it works across any other, you know, platform company, you know, right from the way Uber and Ola started to how Swiggy and Zomato are working right now, is, I mean, you offer large discounts and because of that, you face what is known as high cash burn rate, okay. Now, this is just basically a jargon, which the platform guys use for, you know, for a simple word of operating losses, I mean, you operate at a level where the price that you sell your product at is not profitable. Now, in order to keep going, they need new money to keep coming in. And as long as the new money that keeps coming in is greater than the cash burn rate, the company keeps operating. So which is why, you know, if you look at Oyo, given their international aspirations, they need a lot of money because, you know, how do you get people on to Oyo if you don't offer discounts? So if you look at the structure, the structure is very similar to that of a Ponzi scheme where the money being brought in by investors, as long as it is greater than the money going out, which is basically the losses that the company is facing, the company keeps running. Now, the aim here is to become a monopoly in that particular area and then sort of make all the money that you can, I mean, monopolies can simply make money by existing. So that is what every VC wants. That is what every leader of a platform company wants. Now, the thing is, it doesn't, you know, it happens, but it doesn't happen with all companies and not all the time. So let's take the example of the search engine business. Now, you and I will remember that when the internet first came to India, there was nothing like Google. There was, you know, there was AltaVista, there was Yahoo, there was even something called AskJeeves.com. And then Google came along in 2000 and gradually took over the entire business. And now the only search engine that, you know, most of the world uses is Google, unless you are in China. I mean, then that's a different story. So Google makes monopoly profits, same is the case with Amazon. So the way the entire platform business has evolved is, you know, is very, very Ponzi in structure, because everyone wants to be a monopoly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:14:24.240",
+        "message": "So I think in the course of your explanation, there are basically four separate kind of points that you're making, and I'd like to sort of break them up one by one. One is, of course, a standard Ponzi scheme, where you correctly point out that a Ponzi structure may not always be part of a fraud. In this case, the structure that Ritesh Agarwal used to buy back his shares is like a Ponzi structure in the sense that he is first, you know, using his existing stake to buy a further stake and then using that to buy further and so on and so forth, which has a very Ponzi like feel to it. And we'll come back to discussing Ponzi structures and frauds in the rest of this episode. The second point is about network externalities, which, you know, is something that all networks obviously. I mean, I mean, that's how these big sites like Amazon and eBay and what OYO is attempting to do and Somato and so on, that's kind of how they function. And there's nothing about it, which is not legit, it's standard, it's, you know, there's nothing per se, wrong with that logic, and I don't even know why it's Ponzi-like. What you sort of refer to as Ponzi-like is, I think, and which I was going to ask you about separately anyway, is that the structure through which these guys get one round of investing and then another and then another, which is really the greater fool theory where everyone is investing. And in some cases, you don't really care whether the business is viable at that stage or is ever going to be viable. All you want is at a later stage of funding, you can sell your share and move on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:01.480",
+        "message": "So basically, all you want is that, you know, you put your money and then that money leads to more monopoly."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:16:07.640",
+        "message": "And then that leads to a greater valuation and then you can eventually... Correct. So in fact, so a lot of the for example, Ritesh Agarwal's buyback of his shares is actually the people he's buying out are the early investors of the company. So even if OYO eventually fails, those the early investors can all say that we made a wise choice because they actually sold at a profit, they invested something, they sold at a profit, maybe they sold to, you know, SoftBank or to Ritesh Agarwal himself, it doesn't matter. Ritesh Agarwal, of course, he's getting the financing for this from Nomura, which has a heavy SoftBank investment. And I find it sort of hard to comprehend how they can be a greater fool in the sense at this scale, there is no one SoftBank can sell these shares to, where is the cash out for them, unless they do an IPO at insane valuations and common investors."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:16:58.240",
+        "message": "Which is what happened to Uber, I mean, if you look at Uber, Uber was being financed by all these VCs. Including SoftBank. Including SoftBank. And now it's being financed by the shareholders. I mean, the losses in the last quarter were $5 billion."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:15.120",
+        "message": "Yeah, exactly. So..."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:17.120",
+        "message": "And the IPO got cancelled. So..."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:19.120",
+        "message": "The WeWork IPO went through. The WeWork IPO got cancelled."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:21.120",
+        "message": "Oh, sorry, sorry. My bad."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:17:23.120",
+        "message": "You're confusing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:17:24.120",
+        "message": "So Uber, in fact, even had a line in their prospectus, which said that we might never make money. Yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:17:30.720",
+        "message": "Right. So, the fourth point that you raised that I kind of want to talk about is the monopolies aspect. Obviously, every business wants a monopoly, though the thing here is that a monopoly is only problematic when consumers suffer. The argument I would make in the case of the seeming monopolies that Amazon and Google have built up is that, number one, they are monopolies only if you sort of consider what they are doing in a narrow way. For example, Facebook is a monopoly in social media, yeah. But the point is that they're not a monopoly when it comes to how do you spend your time or how you connect with others or how you communicate with others, where there is a lot of competition. So in that strict sense, they're not a monopoly. Second, there are no barriers to entry. Other people can and do enter all the time. And even a seeming monopoly at a particular point in time, like Microsoft once, may be completely irrelevant a decade later. And the third point is that as far as any of these so-called Internet monopolies are concerned, we are still getting extremely cheap prices from Amazon. We are still getting Google search delivered to us free. We are still, you know, not having to pay for Facebook. So I don't really, I mean, first of all, I would object to the definition of those companies as monopolies. And secondly, I would say that, you know, there are no barriers to entry as such. And as long as consumers don't suffer for it, like I hear a lot of alarmists talk about how that they will now spend VC money, they will build up a monopoly and after they have driven everyone out of the market, they will raise prices, and consumers will suffer."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:19:08.120",
+        "message": "But the point is, no one actually in this, among these Internet companies actually raise prices. No, I don't agree on that. If you look at what is happening with Uber and Ola, and at least in the last one year, is that prices have gone up dramatically. And now it's reached a stage where, because they've managed to destroy, and I'm talking about Mumbai here, not the other cities, because they've managed to destroy a large part of the normal Kali Pili business, there is an overall shortage of cabs. So you get so earlier, what used to happen was the P cars used to start sometime in, you know, in the evening. Now there are, you know, prices are high, almost all through the day. So there are I mean, so there are issues, it's not as straightforward as I agree with you on Google."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:19:53.160",
+        "message": "And you know, but my argument about Uber and Ola is that number one, they brought a necessary disruption and raise the supply and the supply is still higher. Like, for example, when I left home today, I didn't feel like driving, I was guaranteed an Uber, maybe I paid more for it than I would have liked to because of peak surcharge, but fine. And I could also have taken an auto but the point is the autos were there if I was in South Mumbai, I would also get the Kali Pili. What has happened is that the supply has gone up the number of people who can rely on public transport has gone up massively like so many women tell me that they feel much safer because along with all the other options which still exist, they also have the relative safety of an Uber or an Ola. I mean, they have added to the options and I won't be convinced that they've actually made the public transportation market worse till I actually see data on it. Because my anecdotal experience sort of indicates that, you know, but anyway, I mean, that's another argument for another day, that's another argument for another day, we can agree to disagree and listeners can make up their own mind on that. But all of this apart, I mean, what really struck me as a Ponzi element was that the fact that he is pledging his existing shares to buy more shares and then pledging those to you know, buy more shares and it's not really a scam because these are willing participants. I think Nomura is giving him the money Nomura is also funded by SoftBank. Basically, this seems to be like SoftBank fooling itself, which they are entirely entitled"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:20.520",
+        "message": "to do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:21.520",
+        "message": "And even if they were fooling others, these are, you know, open transactions, they're not actually lying about it. So it is perfectly fine. However, Ponzi schemes typically in the way that we understand it outside of the structure typically frauds, tell me a little bit more about, you know, you co wrote a paper in 2003, which I had the pleasure to read, you send it across to me. And that had a whole bunch of sort of Indian examples of earlier Ponzi schemes."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:21:51.040",
+        "message": "Tell me a little bit about those. So, you know, it's, it's, I mean, Ponzi schemes have been in India for a very, very long time. And so I'll give you a few examples here. So one of the earliest, you know, guys who sort of became famous for running Ponzi schemes was actually an employee of, he was a bus conductor called Ashok Sheregar. And he ran a number of Ponzi schemes in Mumbai, the famous ones being Vaibhavi Lakshmi, Money Circulation Scheme, Golden Chain, Dhan Varsha, Kuber and Diamond Circle. And what he used to do was obviously he promised a high rate of return and the initial investors were appointed as agents with a promise of 2% commission on their investment. And the commission was to be passed on when the agent brought in two or more investors. So the new investors were again appointed as agents. And so the cycle went on. Now, obviously, Sheregar did not have a business model or anything in place. He was just, you know, raising money and the money coming in from the latter investors was being used to pay off the former ones. And obviously, as long as the money coming in was more than the money going out, the schemes ran and then they collapsed. Now, in case of Sheregar, you know, it was a blatant Ponzi scheme where he did not have even a semblance of a business model in place. But normally that is not the case. You know, all Ponzi schemes have, not all, but a lot of Ponzi schemes have some sort of a business model in place, or at least they try to sort of show that they have a business model."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:23:36.560",
+        "message": "Even Charles Ponzi had that whole international reply coupons."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:23:41.440",
+        "message": "So I don't know if you remember that, you know, in the 90s, there was this boom of plantation companies. And the most famous of the lot was this one called Anubhav Plantations run by a gentleman called C. Natesan. Now in one of his schemes for a deposit of rupees 6000, the investor was promised a piece of land measuring 300 square feet, with three teak saplings planted on it. Now, and this is a fairly elaborate, you know, business model. For 20 years, Anubhav would be the caretaker of the land and the trees. In the first six years, the investor would get rupees 1000 back every year. So at the end of, let's say, six years, his money that he had invested would already come back to him. And a 1000 rupee return on a 6000 rupee investment is pretty high. I mean, it's almost 16-17% per year, I mean, that's not a bad return at all. Added amounts of rupees 6000 and 12000 would be returned to the investor at the end of the sixth year and the twelfth year. When the scheme ended at the end of the 20th year, the investor got either rupees 3 lakhs or 40 cubic feet of teak. Now, the assumption was that each of the three teak trees would yield a volume of 1.13 cubic meters and each cubic meter of wood would be sold at rupees 88,286. Now, I mean, this assumption was unrealistic and it never worked. And obviously, what Natesan was doing was he was taking the money being brought in by the older and newer investors and paying off the older investors. So a lot of these schemes have a great, I mean, what looks like a business model in place. And this is something that has sort of, you know, gone on forever. I mean, if you look at some of the newer Ponzi schemes also, you know, a few years back, there was this scheme that came into light called the Stock Guru. So Stock Guru had a very simple business model. They promised returns as high as 20% per month on the basis of, you know, buying stocks at a low price and selling them at a high price. But 20% return per month, obviously not possible and not possible, I mean, it may be possible in an odd month here and there, but it's not something that you can guarantee. Now, obviously, what they were doing was, you know, moving money. And apparently, and, you know, after a point of time, the scheme collapsed. So yes, I mean, so most Ponzi schemes have a legitimate business model in place. Also, you know... As in they promise what appears to be a legitimate business model. Yeah, so it promises, it appears to be a genuine investment opportunity. So another great example here, and again, I mean, I'm using all these 90s examples, because, you know, when I wrote the paper, you know, we had only the 90s examples, right? So this was written largely in, I think, 2002-2003. So I don't know how many people would remember, in some time in the late 1990s, there was this company called Home Trade, which advertised extensively. They had Hrithik Roshan, Sachin Tendulkar and Shah Rukh Khan. I mean, maybe it was not even late 90s, it was probably early 2000s, because Kahona Pyaar Hai came only in the year 2000. So anyway, the dates here are, I mean, we can all Google the dates. So Home Trade essentially had a, again, you know, sort of a business model where they took money from cooperative banks, based in Maharashtra, and a provident fund called the Seaman's Provident Fund for investing in short dated government securities. So again, you know, some semblance of a business model. The problem was, in most cases, no investment was made. And when the investment was made, these securities were pledged as collateral to raise more money. And the money would then be diverted into stock market financing, where higher returns could be earned, at least, you know, the hope was. Now, when a bank inquired about the securities, Home Trade would reply that the securities had gone to RBI for clearance. I mean, during those days, things used to work manually. And doing this, Home Trade bought itself time of around six to eight weeks. On the date of maturity, you know, when the security had to be redeemed, Home Trade had not invested, you know, or it had diverted money into the stock market. So what they would do is they would go to another cooperative bank, raise money from them, and pay off the first one. And this is how the story went. And, you know, and we used to sort of wonder as to, you know, what had Sachin and Hrithik and Shah Rukh got to do with the entire, you know, company, because nobody really understood at least in the public domain as to what, you know, the company actually did. So it's just that these brand ambassadors provided that legitimacy to the company, you know, and then people went in. So these ads were basically meant for all these cooperative banks to impress them. Hey, boss, you know, we are paying these guys. So you know, you can lend us the money. I mean, so the point here is that a lot of Ponzi schemes have big brand ambassadors. So the best example here is, and I mean, I hope both of us don't get sued, is that of Sahara. Sahara used the Indian cricket team as their brand ambassador, I mean, for a very, very long time. I mean, they also sponsored the hockey team. Now, obviously, when a normal guy who is depositing money with Sahara, I mean, whatever, you know, the 50 rupees or the 100 rupees or whatever he, you know, deposits daily, he looks at the fact that these guys are sponsoring the Indian cricket team. I mean, there is no bigger brand in India than the Indian cricket team, right, at least much through the 90s and the early 2000s. I mean, now we can debate because there are badminton stars and yeah, but I like cricketers"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:29:47.560",
+        "message": "are still the biggest guys, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:29:49.720",
+        "message": "So when you have the cricket team, sort of wearing the logo, wearing a company's logo, obviously, people, you know, will give it money very, very easily. Now, the problem was, Sahara also was in multiple businesses all over the place. But you know, whether these businesses were making money, no one really knew. The core business was chit funds, basically. But it wasn't, I mean, once upon a time, that is how they started. What are chit funds? Are they Ponzi schemes? No, they're not. So I'll explain what are chit funds. So chit funds are essentially, you know, you know, what kitty parties are, right? Yeah. Okay, so they're basically kitty parties with a twist. Okay. Now, what happens in a kitty party is that, you know, women come together, and they contribute a given amount of money every month. And then a chit is sort of, you know, selected, and, you know, the name, you know, who are the woman is whose name is on the on the chit gets all the money contributed in that month. So let's say, there are 12 women, and they get 10 bucks each, 5000, 10 bucks, an illustration of example, so there are, let's say, 12 women, and they give a lakh each 5000, 5000, so 5000, and they meet once a month. So when they pool the money together, it works out to a total of 60,000 rupees, 12 names are written on a chit on sheets of paper from these chits, one chit is drawn, and the woman whose name is on the chit gets the rupees 60,000. Okay, as simple as that. Now, when they meet next month, 11 months, 11 names are written on the chits, one name is drawn, and that woman gets the money, then when they meet again, then 10 names are written, and so the cycle works. So, so eventually, you know, there is one woman left who in the last month gets the 60,000 rupees. So basically, what is happening here is that, you know, every month by putting in 5000 rupees every month, you get 60,000 bucks at one go, and you can then do something substantial with it, right? Now, of course, the problem here is that, you know, some women might drop out, some may not be able to pay. So someone who's already got the money may not pay. So I mean, there's nothing, you know, that stops people from doing it. Now, a chit fund actually works slightly differently. Now, again, let's assume that there are 12 women, and they contribute 5000. So this means a total of 60,000 has been collected every month. Then what happens is that the amount that is collected is auctioned to the 12 members after a minimum discount has been set. Now, what does that mean? So let's say the minimum discount is 5000 rupees. This means that the maximum amount any woman can get from the total rupees 60,000 collected is rupees 55,000, okay? After these discount bids are invited, all the women bid. Now, let's say one woman bids a discount of rupees 12,000. So this is the highest discount that has been bid and hence she gets the money. So since the agreed on discount is 12,000, she would get rupees 48,000. But then there are some, you know, other organizing charges, etc, etc. So typically, she would get something like a 45,000 rupees. Okay, now, the discount of 12,000 is basically the profit that the group as a whole has made. And then it's divided, you know, 12,000 divided by 12. So 1000 rupees goes to every member. So now, of course, the woman who got the 45,000 rupees will now keep contributing, you know, 5000 rupees every month for the remaining 11 months and in every month, there will be a sort of an auction and the woman who sort of offers the maximum discount will get the money. So this is how a chit fund is supposed to work. So chit funds are not Ponzi schemes. But what happens is, a lot of people who because chit funds are in the imagination of people. So a lot of people who run Ponzi schemes, call their investment schemes as chit funds. So which is why chit funds have got a bad name. I mean, if you look at a state like, you know, what used to be erstwhile Andhra Pradesh and now is Telangana and Andhra Pradesh, there are lots of big chit funds that are run in that state and they have been around for a while now. So in a way, you know, a lot of Ponzi schemes have spoiled the, the name of chit funds. So, so it's not all chit funds are not Ponzi schemes. But Ponzi schemes are run in the name of running a chit fund very often."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:32.640",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:34:33.640",
+        "message": "And so chit funds are basically kitty parties, which gives us a great promotional code for the quote for the episode."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:34:41.340",
+        "message": "What also interests me is the point noting like while prepping for this episode, I read this biography of Charles Ponzi called Ponzi scheme by Mitchell Zukov, which you also read. And excellent book, which I would recommend and which also has one interesting element of every Ponzi scheme, which is that once people get there, once the first batch of investors when they get their interest for the first time, number one, what they tend to do is they tend to reinvest it immediately, because they are obviously greedy. So you don't even have to pay out the entire batch of first investors. And secondly, once they actually get the money, like you've put 100 bucks and got 150 bucks in 45 days, you become a hardcore evangelist for the company, you tell all your friends, you tell your relatives, you sell your house and put that money in. And it's just one thing upon another, which is, you know, and towards the end of this episode, we'll kind of discuss human nature also and why we as a species are particularly prone to such frauds. I mean, other animals eat, you know, the fellow members of the species, but they don't cheat them in this way. And one angle I'd also like you to expand upon is a multilevel marketing, the MLM angle. Because, you know, one of the things that you mentioned, which was true of Ponzi also, which is true of say, Sharagar, what you were saying, is that he turned his early investors"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:35:58.820",
+        "message": "into agents."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:00.640",
+        "message": "And then those agents got a commission, and they had more sub agents. And that sounds very much to me like a multilevel marketing."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:36:07.000",
+        "message": "So multilevel marketing now, in case of Ashok Sharagar, he was just getting agents. Now, if let's say he had a product attached to the entire thing, let's say, you know, every agent had to sell a bar of soap for 100 bucks, something, you know, some special bar of soap. Now, that would have given him a legitimate purpose, right? So if you look at a lot of multilevel marketing schemes, I mean, even though they sort of come attached with a product which needs to be sold, the money actually is made in getting more and more members. Even those, you know, if you look at even, you know, I mean, legitimate MLM schemes, you know, the money is basically made by getting more and more members and then selling them those products, right? Now, the problem here is that if you do not enter the MLM scheme at a higher level, and if you enter it at a lower level, I mean, by then it's too late to make any money irrespective of whether you're in a legitimate scheme or you're in an illegitimate scheme. Now, you know, if you're in an illegitimate MLM, if you're in what is an outer Ponzi scheme, I mean, you need to take into account the level that you're entering it at, but then how do you figure that out? There is no way of doing that, right? So the point I'm trying to make here is that if a Ponzi scheme becomes too big, it collapses under its own weight, okay? So let me just give you a very simple example here. Let's say someone starts a Ponzi scheme, okay? He gets 100 members and each member is supposed to contribute 10,000 rupees and is promised a return of 50,000 rupees at the end of one year, okay? Now, if every investor who's promised, I mean, if the guy sort of doesn't want to run away with the money at the very beginning and wants to sort of be in business at the end of one year. So every investor who's paid 10,000 needs to be paid 50,000 rupees, okay? Now so for every investor who has to be paid off, the guy needs five new investors to come in. So for five new investors, he needs 500 investors, okay? Because then the money will balance itself out. Now let's say at the end of second year, he wants to continue going again. So for 500 investors, he needs 2,500 investors. Then for 2,500, he needs 12,500. Now by the time you reach the ninth level, the number goes up to something like 19.6 crore or some very big number, right? So that is not, I mean, you know, to get so many people involved is simply not possible. So which is why, you know, eventually all Ponzi schemes collapse under their own weight. And which is why even in an MLM scheme, if you are even in a legitimate MLM scheme, where you actually make money by selling products, if you're entering it like too late, there is no way you can, you can only buy products beyond a point everyone else around you would already be an agent, and they would already be buying products of the company, which is something which happened to Amway in a very big way, you know, people who entered it in the early stages made a lot of money, but by, you know, by the time it actually picked up and the general janta got in, you know, you had some five Amway agents."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:34.840",
+        "message": "Yeah. You know, both of us are old enough to remember a time where, you know, the biggest pest in"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:40.520",
+        "message": "your social circle was the Amway agent, because he would be freaking desperate, because he's"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:39:46.320",
+        "message": "at the bottom of the scale, he has no way of making money, he's invested tons of money into this shit. And it's like you meet them in parties, you meet them at kitty parties."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:39:55.440",
+        "message": "I mean, they used to have these parties, they used to organize kitty parties too. In fact, the other point that you know, talking of Amway, it reminds me, so if you look at these MLM companies, I mean, legitimate and illegitimate, they organize these meetings where they get their star, sort of, you know, early investors who've made a lot of money, and then these guys come and give these motivational talks. And you know, then everyone starts to feel no, you know, we can also do it. But then it's not about, you know, there was nothing that they did, they just happened to be at the right place, at the right time and entered the scheme at the right level."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:40:31.560",
+        "message": "I mean, it was as simple as that, you know, and they might even drink their own Koolaid and they might even think this is a fantastic idea and that they've made so much money like one of the interesting things I learned about Charles Ponzi was that at one point in time, he had $7 million in the bank, and he could just have taken his family and gone back to Italy. He wasn't even an American citizen. He was still an Italian citizen and could just have left and gone back to Italy. But he stayed on because he was actually of the belief that he would come out of this"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:40:58.040",
+        "message": "okay at the end, he managed to convince himself. So he had, I mean, the number that I remember writing in the paper, he had 40,000 investors who had invested $15 million at the peak of the scheme."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:10.280",
+        "message": "Yeah, the figure that I've read somewhere is at the peak, it was about 20 million, which would be 250 in current terms, but whatever it was, it was a ton of money and and a lot of it actually went into paying back the earlier investors and all that. But at one point in time, he had 7 million free lying around and he could just have fled and he chose not to flee. And eventually, of course, he spent two jail terms of five years and I think seven to nine years respectively, and then he was deported because he wasn't an American citizen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:38.240",
+        "message": "And he died alone in a welfare hospital in Rio de Janeiro of all places in 1944 or something 4949."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:46.120",
+        "message": "And his wife also left him in all this and lived to a ripe old age."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:50.080",
+        "message": "In fact, he tried running more Ponzi schemes later in his life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:41:52.640",
+        "message": "Oh, really? Okay."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:41:54.640",
+        "message": "I didn't read about that. I mean, something to do with land in Florida, from what I remember reading, yeah, that that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:00.160",
+        "message": "was in fact, after his first jail term, when he came out before the second jail term, he tried to do something with land in Florida, which again fell apart because he couldn't raise funds. Otherwise, it might actually have worked. But it's not unlikely that a man with so many jail sentences before is unable, which is"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:16.320",
+        "message": "why he went from Boston to Florida."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:42:17.800",
+        "message": "I mean, those days."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:42:19.480",
+        "message": "I mean, it wasn't, you know, like separate countries are mostly, mostly like separate countries. So fascinating stuff. But the thing is, Ponzi schemes is not just something that happens at the unsophisticated level of housewives who are buying Amway products or whatever, they're very sophisticated. And we've seen this. I mean, they continue to the present day. And we've seen this most recently in the case of the multi billion dollar Ponzi scheme run by Bernie Madoff."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:42:47.680",
+        "message": "Tell me a bit about that. So Bernie Madoff was this guy who, you know, every rich American wanted to invest with, because he gave stable returns, he never lost money, and he was Jewish. So that that helps now, but what he was doing all along was basically rotating money. And when the financial crisis stuck, it just became very, very difficult to continue rotating money because prices of everything sort of fell. But even then, his scheme sort of showed a positive rate of return, you know, when everything else was crashing and hedge funds were sort of shutting down a dozen. And but ultimately, you know, he just got fed up of it and, and, you know, went and told the authorities that this is what I've been up to and, you know, and obviously, you know, justice got done and he was put in jail and so on and so forth. But the interesting thing here is that, you know, no one caught on to it for so many years, it was, you know, if he had, if he had managed to sort of write that brief period when the financial crisis stuck, he would probably have continued, you know, even now."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:44:01.080",
+        "message": "So there's a very nice book called Anatomy of a Ponzi scheme by Colleen Cross. And in that she looks at a whole bunch of Ponzi schemes. And if I remember correctly, half of the biggest 10 of all time, fell apart because of the 2008 crisis. Otherwise, like Madoff scheme, no one had, which is the biggest, I think, at about 65 billion. No one had actually noticed this was a Ponzi scheme, it was a respected investment fund or hedge fund in different cases, and you kind of put your money there, they're giving you stable returns, it seems to be, you know, they just seem to be good investors, nothing else. But the 2008 crisis meant that, you know, there was a liquidity crunch among investors, too many investors asked to take their money back."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:44:41.880",
+        "message": "And, you know, the scam fell apart just out of the country running it. So yeah, which is so even even closer to home, I mean, I mean, they were West Bengal in the last decade has had their fair share of Ponzi schemes. And I remember one of my father's friends, you know, called when when when when I think Sarada was the scheme which went bust, he called up and said, Hey, you know, I lost so much money. And it's not like, you know, only the uneducated lot, even the educated lot puts money into these schemes, and then they lose. So in fact, the Sarada case is also very interesting that they really cashed in on the celebrity part of the Ponzi scheme to make themselves, you know, sound legitimate. So I just like to sort of read out something here. So Sarada, you know, was run by a gentleman called Sudipta Sen, okay, Sudipta Sen, Sudipta Sen. Okay, if you were to pronounce it in the proper Bengali way, Sudipta Sen, okay. So Sudipta Sen ensured that the Sarada group had huge presence in the media. I'm quoting the business standard here, which says his first entry into the space was through Channel 10. And thereafter, he expanded into Dailies, The Bengal Post, if you remember that newspaper, and Sakaalvela, which obviously means the afternoon. In 2010, Sen bought out Tara Channels as well. At the time of closing down, the group had 10 media outfits, news TV channels, newspapers and magazines. Now, this gave a lot of credibility and helped building the brand. The cine actor Mithun Chakraborty was the brand ambassador for Channel 10. The Trinamool party was also seen being close to the group. Now, this is again a Sarada agent called Reba Mitra, you know, telling NDTV.com when the scam sort of came to the fore. We put our faith in Sarada because big leaders of the Trinamool like Madan Mitra, Didi, the Chief Minister, Kunal Ghosh, Shatabdi Roy, Mithun Chakraborty, when these big people are with them, government people, then would this money be stolen from us? Now, I mean, this is a very, you know, this is how the entire scheme got its legitimacy. And you know, the interesting thing is the, the kind of returns that all these schemes, you know, offer. Sarada was offering returns of anywhere between 17.5 to 22%, so, which is something that sort of, you know, attracted a lot of people to, you know, put money there. You know, another interesting scheme that, you know, I would like to talk about, and this is also a recent one, is called PACL. Okay. Now, this was big in and around, you know, Delhi and North India until, you know, the Securities Exchange Board of India cracked down on it, and the scheme had managed to sort of, you know, raise as much as 50,000 crore from people. Now, they also had, you know, their business model was very interesting, so-called, not the, I mean, there was no business model actually. So it told people that they were actually buying rights to a plot of land when they deposited money with the company. Now, when they wanted the money back, the company would sell the land, but apart from this underlying fiction, it worked very much like you could walk in and deposit money for"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:48:23.880",
+        "message": "a high return."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:48:24.880",
+        "message": "Okay. Now, obviously, there was, you know, they were not selling and buying land and all that, they were just rotating money. So this was one of the, you know, the biggest Ponzi schemes in recent times. And what happens is, you know, when these fraudsters get caught, you hear a lot of news and then everything fizzles out. So we never really come to know as to whether these guys were convicted, what happened to them? Did people get their money back? I mean, all this news never reaches us. And these schemes, you know, continue in one avatar or the other, I mean, there was one in Bangalore, which recently sort of, you know, came out, that was also associated with"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:09.800",
+        "message": "real estate. No, in abroad, I think the standards is that when Ponzi schemes get uncovered, then all of those early investors, they have to give up that whatever return that they got on it, and that goes into a central pool. And then the overall pool of investors are paid from that in a pro rata way. So you do actually end up getting some of your money back, like in the original, like in the Charles Ponzi scheme, for example, I think people got about 27 out of every hundred dollars I haven't heard of anything in India, of course, in what's also interesting in India is that all the examples we've discussed are Ponzi schemes done by private parties, where it is willing individuals who even if they are fooled, at least voluntarily part with their hard earned money, even if they're fooled on false premises, and obviously the organizers of those fraud should go to jail. But after the break, we are going to talk about government run Ponzi schemes, which are run at a far larger scale, and aware of the people who are actually losing money, have that money taken from them without their consent. And in some cases, they aren't even born yet. These are Ponzi schemes of which the victims are future generations yet to come after a"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:50:30.160",
+        "message": "short commercial break. So that's And do check out our daily policy podcast called All Things Policy. It's hosted by the researchers at the Takshashila Institute, who break down complex economic and geopolitical ideas through the lens of current affairs. New episodes are out every single day. It's a fun show. Do check it out. As Cyrus says, Cyrus is joined by Devika Mandrikar. She talks about being obsessed with the TV show Friends, the joys of being a chef, and growing out of the shadow of her father Sanjay Mandrikar. The Simplified Gang received a lot of questions from you guys, forcing Chuck, Naren, and Shriketh to record a second part of their special 150th episode. Make sure you tune in. On The Habit Coach, Ashton talks about the Hawaiian practice of reconciliation, forgiveness, and how phrases can impact your life. On GayBCD, Sunetra and Farhad reminisce about school and discuss the effects of being bullied because of one's queer identity. On the Edges and Sledges Cricket Podcast, Ashwin DJ and Varun deep dive into the first test between India and South Africa. On the Pragati Podcast, Ann Devereux joins Pawan to share how NASA and JPL plan and manage interplanetary missions. On Boundless, Natasha reads poems on the themes of stepping outside of your comfort zone. On Paisa Vaisa, Anupam is joined by Salman Sikar, Chief Dream Officer at Squirrel. They have an interesting conversation about how his team came up with the name. And with that, let's get on with your show."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:52:15.820",
+        "message": "Welcome back to The Scene and The Unseen. I'm chatting with my friend Vivek Kaul about one of his favorite subjects, Ponzi schemes. And I said before the break that we'll talk about Ponzi schemes run by the government of which we are the unwilling victims. But before we do that, Vivek has some other entertaining examples of private Ponzi schemes, which he would like to tell us about."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:52:37.420",
+        "message": "Okay, so you know, one of the in the state of Tamil Nadu, some enterprising entrepreneurs ran a Ponzi scheme around the emu bird, where, you know, you invest money and this entrepreneur would rear these birds and when they were sufficiently big, he would sell meat, their oil etc. He'd give you, you know, whatever money that you're interested in. Ponzi scheme around cows. Don't go there. So, so this was one interesting scheme that I remember. Another interesting scheme was something called Speak Asia. I mean, a lot of people would remember it. Now, so basically, Speak Asia had a very, again, it had a business model. And the model was that in order to become a member of Speak Asia, you had to invest 11,000 rupees. The investment was for subscribing to the electronic magazine issued by the company called Surveys Today. Now, this allowed the member to participate in two online surveys every week and make rupees 500 per survey or rupees 1000 per week. This when converted into an yearly number came to 52,000 rupees. So the an investment of 11,000 rupees gave you 52,000 at the end of the year. So which is a return of 373% in one year, not bad at all. Now, obviously, you know, there were no surveys or even if they were, they were, they were not as many as were required to sort of generate the return that the company had promised. So ultimately, the scheme collapsed. Now, in my particular case, you know, the reason I remember this very well is that at that particular point of time, I used to work for a weekly personal finance newspaper. And Speak Asia had a half page ad in it. So you know, imagine a Ponzi scheme being advertised in a personal finance newspaper. I mean, Speak Asia had ads all over the place. Yeah, it wasn't just just that, just that newspaper, the ads were published in but including that newspaper. So another interesting scheme that I remember is is was a Russian Ponzi scheme called MMM, which finally came to India as well. And they you know, where they were the most blatant of the lot in the sense that they offered to grow an initial investment of rupees 5000 to rupees 3.4 crore at the end of I mean, and there were some and when I wrote pieces against that Ponzi scheme, there were people who got back to me in order to tell me that, you know, I didn't understand the business model. So it happens every time, you know, this is a standard response when you write on a Ponzi scheme, people write back to you that, you know, you don't know anything about this. So you should shut up and keep your theory with you, because we are actually making money. And that's the best part, you know, as we discussed, the initial guys always make money and then they become, you know, evangelists for the company and go around telling people that boss, I have made money, this is safe. And you know, you can also invest in it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:41.140",
+        "message": "But in this case, who's going to put 5000 and actually make 3 point whatever crores"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:55:45.180",
+        "message": "at the end of the year, how many more suckers do you need for that?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:55:48.100",
+        "message": "People did fall for it initially."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:55:51.980",
+        "message": "In the case of the government, of course, there's no falling for it, because we are willy nilly entrapped into it by way of being taxpayers and which matter, we do not have a choice. Tell me a bit like, you know, earlier before this, when we were having breakfast at the most excellent car social, we had Sid's very posh breakfast with ham and cheese omelette. And over there, you when I mentioned to you that, when I was speaking about how America's social security is a Ponzi scheme, you said why India's also expand a bit."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:56:21.820",
+        "message": "So basically, you know, if many of us invest in small savings schemes run by the post office, this includes everything from, you know, the post office accounts to post office monthly income scheme to public provident fund and so on so forth. Now, the way it works is very, very interesting. So all this money essentially is collected, and it comes under the National Small Savings Fund. And what happens is, so let's say, in a given year, 1,50,000 crore is the money coming into these schemes. Okay. And in that year, if 50,000 crore is to be redeemed, then 50,000 crore is taken from that 1,50,000 crore and redeemed. And the remaining 1,00,000 crore is a revenue in the annual budget of the Indian government. Okay. So, so what is happening here is as long as the money that keeps coming into these schemes is higher than the money that needs to be paid off to the investors whose investment is maturing, you know, the scheme will keep running. So it has a structure of a Ponzi scheme wherein new money is being used to pay off the investment"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:43.300",
+        "message": "that is being redeemed. My impression was that whatever you sort of deposit is invested by them into something else and they get a rate of return there and that is a basis."
+    },
+    {
+        "speaker": "Guest",
+        "time": "00:57:52.020",
+        "message": "No, so what happens is the money is first repaid and then the remaining money, the National Small Savings Fund is invested into various things. But then what if you know what it is invested in, you will not, you know, it will screw you up even further. So the NSS of money right now, a lot of it is has been lent to the Food Corporation of India. Okay. Because what happens is now, so Food Corporation of India buys, and this is something we've discussed before, buys rice and wheat primarily directly from the farmers. Of late it's also bought pulses and oilseeds. Now it buys rice and wheat at a certain rate, but it sells them at a very, very low rate through the public distribution system, through the ration shops in order to fulfill the terms and conditions under the Food Securities Act. So obviously the difference is huge and this difference has to be refunded to the Food Corporation of India because otherwise, you know, the institution will collapse. And so what happens is that in every budget, the government has allocations towards food subsidy and a lot of this food subsidy allocation goes to compensate the Food Corporation of India. But in the recent years, what has happened is that the Food Corporation of India is not being refunded totally. So as of March 2019, the money that the government owed the Food Corporation of India was more than 1,60,000 crore. Now if this is the case, you know, so if the government is not repaying the Food Corporation of India, the Food Corporation of India has to borrow that money from somewhere in order to continue to be in business. So of the 1,60,000 crore, close to more than 90,000 crore, I think 94,000 crore, if I remember the number correctly, has been borrowed from the National Small Savings Fund. Now why has it been borrowed from the National Small Savings Fund is because if they were to sort of borrow that money, you know, from the normal banking channels, then they would crowd out the private borrowers and then interest rates would go up even further. So it's a huge, huge mess. I mean, if you start digging into the accounts of the government, it's just bizarre beyond a point. So this is a I mean, so this is one example, this is one example of how a Ponzi schemes being run within the government. The other thing is, as we talked about the entire idea of a fiscal deficit of a perpetual fiscal deficit is nothing but a Ponzi scheme, I mean, if you if you look at it, now, I mean, any government, most governments across, you know, across the world, and this includes central and state governments, run a fiscal deficit, which basically means they don't earn as much as they spend. Now, in order to finance that fiscal deficit, they need to borrow money, okay, and they borrow money. And this fiscal deficit continues. So basically, what is happening here is that at any given point of time, if the money that has been borrowed by the government has to be repaid, how is it being repaid? It is being repaid by borrowing more money, okay. Now, how does the government borrow money, it borrows money by selling government securities, right. So these securities are sold, and the money comes in and it is used to pay off the government securities which are maturing. Okay, now these new securities when their time to you know, comes when they are to mature, then the government borrows more money and repays this. And so the so the structure goes now, the thing here is this can only happen if the government is borrowing money in its own currency. Okay. Now, if you look at a lot of South American countries, they end up borrowing in dollars. Because you know, borrowing in dollar is cheaper than borrowing in your local currency. But the problem there is then, in order to repay those dollars, you need to earn those dollars as well. And in many cases, they don't have they are unable to earn those dollars. And then finally, they just default. So which is not going to happen in the Indian case, because the Indian government at least up until now borrows majorly in rupees."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:02:38.940",
+        "message": "And also apart from further borrowings, I suppose how they services debts is also of future taxpayers. So one way of doing that is the two ways of doing that one is that either you raise tax taxes in the future, which means future taxpayers are paying for your profligacy today, or you can simply print money which leads to inflation, which is of course a tax on the poor. And it's a future poor, who are therefore paying for your profligacy today. In either way, this is sort of a Ponzi scheme through time where effectively and this is one of the classic criticisms of the Social Security in America, where you are basically borrowing from future generations to spend on current ones, and which is expected to be a crisis when for example, the baby boomers reach retirement age, and you know, at some point in time, that scheme is expected to inevitably fall apart unless reformed drastically"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:03:32.860",
+        "message": "before. In fact, so I wanted to make a couple of more points. Now, you know, look at all the small savings schemes. If you speak to any corporate economist, he will tell you that the interest rates on small savings schemes need to come down, because they are higher than bank deposits. And in order to compete with small savings schemes, banks need to offer a higher rate of interest. And because banks are offering a higher rate of interest on the deposits, they need to charge a higher rate of interest on their loans. Now, the reason that, you know, interest on small savings schemes cannot come down dramatically is because the government wants money to keep coming into these schemes, because if money doesn't come into these schemes, how are they going to pay for all the you know, money which is maturing all the investment which is maturing. So which is why the rate of interest on on on on small savings schemes will always be higher than rate of interest on fixed deposits, because otherwise the entire Ponzi structure will collapse. Now, if the Ponzi structure collapses for a private guy, he can just run, but for a government, the government cannot run, right, the government will have to still pay all the money which is maturing, which will come from taxpayers, which will then have to come from, you know, other parts of the budget, which basically, and when it comes from the other parts of the budget, then the problem is that you have to cut expenditure somewhere else or raise taxes. So which is, you know, one part. The other interesting thing is, you know, is what economists call financial repression. Now, financial repression in the Indian context is forcing banks to buy government securities. So by law, banks have to invest a certain percentage of their deposits in government securities. I think as of now, it's around 18.75%. But banks on their own, I think, would probably have invested more than 25% of their money in government securities. Now what this does is that it allows the government access to money, I mean, this is money which has to come into government securities, I mean, the same is the case with insurance companies where a certain proportion of, you know, money raised has to be compulsorily invested in government securities. So what this does is it keeps the interest rates lower than they actually would have been if the government did not force these institutions to buy government securities."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:04.980",
+        "message": "So there is, and, And not just that, I'm assuming that the cost of borrowings for us common people from these private banks is higher than it would otherwise would be because they have to make up somewhere for the inefficient investments in government securities."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:06:21.260",
+        "message": "And you know, also, it is the interesting thing here is that this is also why the government doesn't let go of the Life Insurance Corporation of India, because ultimately, a lot of money that LIC raises through its so called insurance policies finds its way into, you know, government securities. Also, you know, when the government is selling shares in companies that it owns, and which investors do not want to buy, then LIC has to come to the rescue of the government. And then this money helps in you know, financing the fiscal deficit and so the Ponzi scheme."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:06:54.540",
+        "message": "So now, as you pointed out in the first half of the show, Ponzi schemes run by private parties have a natural end, at some point, they cannot continue anymore, and they fall apart. Right. Does this fall apart?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:07.340",
+        "message": "No, I mean, so this can continue as long as there are people, as long as there are people and as long as you know, as I said, I mean, as long as the money coming into the, you"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:18.020",
+        "message": "know, government bonds is there, I mean, then which they can actually mandate as they do in the case of private banks, you know, it can continue up until then, yes. And we pay a price, which is sort of largely unseen."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:30.620",
+        "message": "This is unseen."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:31.620",
+        "message": "I mean, this is totally unseen. This is totally unseen. You'd also mentioned while we were chatting over our excellent respective ham and cheese omelettes with some superb black coffee that there's a certain kind of naturally occurring Ponzi scheme because of the nature of the financial system."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:07:47.540",
+        "message": "Tell me a bit about that. So, you know, there is a Nobel Prize winning economist called Robert Shiller, whose latest book Narrative Economics is brilliant, by the way, I'm also halfway through it. It's a great book. And also, you know, one thing about Shiller is that, I mean, unlike a lot of other economists, he is not out and out theoretical. And he does make predictions which come right. I mean, like, his book Irrational Exuberance came the first edition came almost a few months"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:22.020",
+        "message": "before the dot com bubble burst early 99, I think, if I remember correctly, then he"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:26.820",
+        "message": "also his second edition of Irrational Exuberance came a couple of years before the real estate"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:08:33.060",
+        "message": "bubble burst. So he does have a I also make good predictions like this episode is going to be released on this coming Monday."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:08:39.740",
+        "message": "That's a very bad joke, even by your standards. So yeah, so Shiller essentially talks about, you know, naturally occurring Ponzi schemes. And so obviously, he calls them naturally occurring Ponzi schemes because they happen without the contravents of a fraudulent manager. And so what he essentially says is, and I'm paraphrasing here, when speculative prices in the stock market, I mean, share prices go up, creating successes for some investors. This may attract public attention, promote word of mouth enthusiasm and heighten expectations for further price increases. The stock market is the best example. Stories about stock markets going up spread very fast. Investors in an optimistic mood might want to buy stock and take the stock price further up. This leads to more investors entering the market, fueling an even greater price rise and the cycle gets repeated over and over again. As Shiller writes, when prices go up a number of times, investors are rewarded by price movements in these markets, just as they are in Ponzi schemes, OK? Now, the high prices are not sustainable since they are driven by unrealistic expectations of further price increases. The bubble eventually bursts and price crashes. Now, I mean, this works in, you know, so many different cases. I mean, you look at the entire, you know, the Modi bull run, the so-called Modi bull run, which has been on since September 2013. I mean, you know, stock brokerages have essentially been driving this story over and over again in various forms. But ultimately, the earnings of the companies haven't caught on to the price increases. So it's just the money that keeps coming in, which, you know, which drives up the prices, making it a beautiful example of a naturally occurring Ponzi scheme. Or if you look at real estate, I mean, the rally between almost 2002, 2003 to 2011, 12, 13, I mean, people used to just, you know, blindly invest in real estate because a whole generation had seen just prices going up. But beyond a point, you know, the prices reached a stage where it wasn't just, I mean, prices were going up not because there was genuine demand for these homes. They were going up because there were these investors who had money and they were buying and flipping. And ultimately, you know, even that game stopped. And if you look at how, you know, real estate has gone in the last five, six years, it's it's by, you know, it's by and large been a mess, primarily because the prices reached a stage where they just became unsustainable and, and prices continue to remain high, which"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:11:37.660",
+        "message": "is why the recovery hasn't happened. In fact, you and I have an excellent episode on why, despite demand having gone down in real estate prices haven't followed suit, which is not what you would expect, theoretically. But I guess all bubbles in a sense, work in the Ponzi structure in the sense that let's say that there is a share of a company which should logically given sales and given revenues and all of that sell, you know, within a narrow band. But when it goes above that, it's basically investors are then buying it expecting it to rise further, which brings a greater fool theory into play, because they are buying at a high price, but they don't care that it's too high, because you know, someone will buy it for higher, which is again a classic case of a later investor paying off an earlier investment. And this continues to a point where because of all kinds of reasons, maybe the internal logic breaks down, or external events cause a crash, where it all kinds of falls apart. And the last guy left holding the can goes down. But as you know, Chuck Prince, who was then head of Citibank famously said in 2007, when he was asked about this about, you know, why do you keep participating in a bubble and Prince said, quote, as long as the music's playing, you have to dance, stop, quote, and, and that's often what happens. So, all these people participating in this Ponzi scheme of stock market bubbles or real estate bubbles aren't necessarily fools, they're behaving rationally, because they see the high probability of a greater fool along the road, so that they can make a profit."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:13:05.700",
+        "message": "And thus history continues to talk about naturally occurring Ponzi schemes. They've been described beautifully in this book, written by Charles Mackey, which was published in 1841, Madness of Crowds, Memoirs of Extraordinary Popular Delusions and the Madness of Crowds. It's, I mean, highly recommended not, you know, if you read it, not every chapter will be interesting. But some of the chapters are very, very interesting. And it's freely available on the link all these books we mentioned from the show notes. So in this book, you know, he describes the tulip mania in Holland, in the 1630s. The first account of tulips in Europe is from 1559, when a collector of exotic flora, Counsellor Hermat, received a consignment of tulip bulbs from a friend in Constantinople, which is now Istanbul, which he planted in his garden in Germany. His tulips drew a good deal of attention. In the following years, this flower became more and more popular among the upper classes, particularly in Germany and Holland, where it became a custom to order bulbs at an exorbitant price directly from Constantinople. Up to 1634, this custom became increasingly common, and from that, affluent society in Holland considered a lack of tulip collection to be of poor taste. So you need to have tulips in your house. Year after year, tulip prices rose, finally reaching astronomical heights. By 1636, the demand for tulip bulbs had risen drastically, and people started to trade them in exchanges across many towns in Holland. Tulips were bought by well-to-do collectors as well as by agents and speculators. At the smallest price drop, they would buy only to sell it later at a profit. Many individuals suddenly grew rich. A golden bait hung tempting out before the people. One after the other, they rushed into tulip markets like flies around a honeypot. At last, however, the more prudent ones began to see the folly that this could not last forever. Rich people no longer bought the flowers to keep them in their gardens, but to sell them again at a profit. It was seen that somebody must lose fearfully in the end. As this conviction spread, prices fell and never rose again. Now, you know, so this is how the Dutch tulip bubble played out. In fact, the tulip bubble is still playing out very well for Holland. I mean, you know, people from all over the world go there to see the tulips."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:15:35.180",
+        "message": "And in fact, the question that I would ask for you to ponder about is how is buying tulips for investment back in the day different from, say, buying art for investment today?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:15:45.540",
+        "message": "Because at the end of the day, it's all about people's perceptions. 100 percent. I mean, see, value is perception at the end of the day. You take your shots and it goes where it goes. Yes. So, you know, we were talking about, you know, naturally occurring Ponzi schemes. Now, if you look at the way a lot of private CEOs of private companies, private banks talk these days, I mean, you know, they are perpetually trying to project a positive economic environment. I mean, if you ask them how well the economy is doing, I mean, they're rarely negative. I mean, and I mean, one reason, obviously, is that no, no CEO in India wants to irritate the government. That is a perpetual given, but beyond that, you know, they have a personal incentive in ensuring that their stock prices keep going up simply because they own a lot of stock options. So, it is in their interest to ensure that they keep talking up the stock as well as the economy. So, this is another excellent example of a spin off of a naturally occurring Ponzi scheme."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:16:56.260",
+        "message": "And added incentive is not just a personal stock options, but also that they are judged on short term results. And one metric for those short term results is how well is the company's stock doing. So, it is more profitable for them to say, do and say things which impact the short term performance of the company in the stock market, rather than the long term fiscal health of"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:19.820",
+        "message": "the company, for example."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:20.820",
+        "message": "Not very different from our politicians. Not very different from our politicians who are always fighting for elections and therefore"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:17:26.060",
+        "message": "are in perpetual campaign mode. So, which again tells you that their structure is also very Ponzi in nature."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:17:33.100",
+        "message": "No, I mean, one interesting thing regarding CEOs is the Lake Wobegon effect. Have you heard of that? No. So, a guy called Garrison Keillor wrote a book, wrote a novel called Lake Wobegon Days, which was about a town called Lake Wobegon, where everybody was above average. Now, you might, of course, ask with your mathematical mind, how can everybody be above average because the average is on average, they'll be average. And that has led to this thing called the Lake Wobegon effect on the compensation of CEOs, where what happens is that every time a company wants to hire a CEO, whoever they want to hire, will demand a higher compensation than the market under the logic and the previous guy under the logic that look, you're hiring somebody better, that's why you're hiring somebody otherwise, why you know, and what happens because of this is that CEO salaries tend to rise and rise with reference to previous CEO salaries, and to the average of the market, because they have to get more than average, until a point where they rise beyond any, you know, rational reasoning, all based on supply and demand, of course, because the companies also have no choice."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:18:39.580",
+        "message": "And that just so that's known as sort of the Lake Wobegon effect. So just to add to it, no, I mean, I just remembered that, I think up until the early 90s, the Securities and Exchange Commission in the US did not ask companies to compulsorily disclose CEO salaries, then they thought that, you know, it would be better, more transparency and all that. So, so they said, Okay, now, you know, all companies have to compulsorily declare CEO"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:08.260",
+        "message": "salaries."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:19:09.260",
+        "message": "Yeah, what did what this did was that up until then, the CEOs did not know the salaries of other CEOs, now, they knew the salaries of other CEOs. So when they were negotiating, obviously, they wanted higher salaries, and the net net effect was that, you know, CEO salaries instead of, you know, so the idea was that once you sort of declare CEO salaries and put them in public domain, then you know, the shareholders would take over. And if they felt that the CEO is sort of getting more than he should, I mean, then there would be some activism. And so all that never happened. But what happened was that the the benchmark of CEO salaries was set very, very clearly and salaries instead of, you know, moderating, they actually inevitably, another example"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:19:50.820",
+        "message": "of a similar in a very different context, but a similar effect and similar unintended consequences is the anti defection law in India. The anti defection law in India, I had an episode on this with Varun Mitra very old episode came about in about I think 1986, or around that time mid 80s. And the idea was very good. The idea was that look, you know, MPs keep defecting to other parties for money, let's have a law by which they cannot defect. And they have to vote with their party in parliament, there is no option, they just have to. And the result of that the unintended consequences of that is that all parliamentary debate in India has completely stopped earlier, especially around the time of independence, you had a tradition of lively erudite debates in parliaments on all kinds of issues. Today, you have no debates at all, except for, you know, performatives, performatively speaking to your own side, but you have effectively have no parliamentary debate anymore, because it doesn't matter, you have to vote with your party. And you could effectively run parliament from an Excel sheet. I don't even understand why the members have to be physically present, because the anti defection law renders them completely impotent in terms of actual decision making or affecting the course of parliament, but that is a digression, let us get back to smaller frauds, Ponzi frauds."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:08.100",
+        "message": "Oh, even bigger ones, actually."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:21:10.140",
+        "message": "So, speaking of something bigger, you had mentioned to me while we were having breakfast Vivek that Ponzi schemes are not just you know, private frauds run by companies or even governmental ones within a country, but they can take on a geopolitical scale and impact the entire financial system of the world."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:21:28.020",
+        "message": "Can you elaborate on that a bit? So this is, you know, more we're talking more in terms of structure, rather than, you know, there's no fraud element here. So I mean, if you look at the US dollar, now, the way the global financial system evolved post 1945, the dollar came to be at the heart of it. And you know, this obviously started at the Bretton Woods conference in New Hampshire in July 1944, where it was decided that, you know, the dollar would be one currency which would continue to be convertible into gold. Now, because of this, what happened was that countries started having their reserves, their international reserves in dollars, because dollar was the only currency convertible into gold. Before that, they used to have, you know, their reserves in the British pound because pound was also convertible into gold, but post the Second World War, because America had most of the monetary gold in the world, it sort of became came at the heart of the global financial system. Now, what has happened is because the you know, of this over the years, the much of the international trade has also moved to dollars, before that it was sort of split between you know, pound and dollar and so on, and so on and so forth. Now, now let's take the case of when I'm talking very simple terms here, let's take the case of United States and China. Now, the US is a net importer from China, it buys a lot of goods produced in China. Now, China obviously gets paid in dollars. Now, when a Chinese exporter gets these dollars back into China, he has to convert them into Yuan. And when he converts them into, he has to convert them into Yuan, because his expenses, his reporting everything is in Yuan. So these dollars then land up at as foreign exchange reserves at the People's Bank of China, which is the Chinese Central Bank. Now, these dollars can, you know, either continue remaining in the remaining with the People's Bank of China, or they can be invested somewhere. So then they are invested, the dollars are invested in American government securities. Now, because China earns, you know, so many, you know, a lot of dollars, a lot of dollars, more than a trillion dollars have been invested in American government securities. The same is the case with Japan, Japan has also invested more than a trillion dollars. So because so much foreign money comes into US government securities, the interest rates that the US government needs to offer on those securities becomes very low, because you know, the demand is huge. Now, when the interest rate that the US government is paying on its bonds is low, that becomes a benchmark for the overall interest rate scenario in the US, which is also low. So at lower interest rates, you know, people can borrow and buy stuff. And a lot of this stuff that gets bought is made in China. And because of this, you know, dollars which come back into the US in and get invested in US government treasuries ensure that interest rates are low, and consumer demand is high. And because of this Chinese companies benefit and more dollars go into China. And then these dollars are converted into Yuan, and then find their way back into the US government treasury securities, and again, ensure that interest rates continue to remain low. So there is a there is a cycle, there is a structure to it, where money goes from the US to China and comes back to the US and in the process ensures lower interest rates. It also ensures that the world continues the world trading system, so to say continues to be on the US dollar, right? I mean, it gives us an exorbitant privilege where in every country in the world needs to earn these dollars, the US can simply print it. Now, Donald Trump has this thing in his head that in order to make America great again, he has, you know, American imports have to come down, and exports have to go up."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:56.180",
+        "message": "In fact, we've had a couple of episodes on the trade deficit and, you know, as a point that we repeatedly keep making on different fora is that there's nothing wrong with the trade deficit. I mean, ultimately, all trade happens to mutual benefit. You know, I have a trade deficit with my domestic health, for example, you know, I pay her every month she never pays, she buys anything from me. And that's fine, because we're both benefiting, it's at mutually agreed terms and trade happens between the individuals of both countries. But Trump, for some reason, sees the world in zero sum ways, and therefore he thinks that this trade deficit is a problem that if they are making more dollars, and we must be losing something."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:26:33.580",
+        "message": "Right. So basically, you know, the entire the trade system as it has evolved with, you know, money finding its way, trade and financial system, with money, all these dollars from all these countries, you know, China is just with one example, but Japan, Saudi Arabia, even India, I mean, all these dollars find not all but a lot of these dollars find their way back into the US. And this essentially ensures that the interest rates in US continue to remain low. Now, there is a global trade war on currently with and Trump is making it more and more difficult for Americans to import goods from China. Okay. Now, if America doesn't import goods from China, then China doesn't earn those dollars, right. So one impact of that is that those dollars then again, don't find their way back into America. The other impact is that if China doesn't own on those dollars, it also doesn't earn money to buy stuff from other countries. So if it had earned that money, and it had bought stuff from other countries, those dollars would also eventually find its way back into America and ensure lower interest rates. So Trump is essentially attacking his own people, his own people in and he's attacking a system which has helped the US and which has helped the dollar continue to be at the heart of the global financial system. So so and in a way, you know, he's he's essentially trying to break the Ponzi structure. But you know, if and when and if it if he is successful at doing it, it will eventually end up hurting Americans because all these dollars will not come back to America, interest rates can go up. And if interest rates go up the entire, you know, the consumption culture on which essentially, you know, which is the great big American dream, will will sort of virtuous cycle becomes a vicious cycle. So this is another, you know, the, I mean, this in this case, the irony is that the the Ponzi structure, as it has evolved, is essentially benefiting the US and what I mean, this is one positive application of the positive application of a Ponzi because you know, we and this is especially for all those people on the social media who want us to, you know, talk about good things in life. So what is social media?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:28:50.660",
+        "message": "Are you on any social media site? No, no."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:28:53.580",
+        "message": "Actually, we are I mean, see, Facebook is dead, okay, Twitter is on its way out. And we haven't figured out Instagram, you're not there on Instagram, and I am like barely"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:04.500",
+        "message": "there. So see, Instagram is almost yesterday's platform and we are too old for Instagram."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:29:09.100",
+        "message": "So just imagine our condition."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:10.900",
+        "message": "This reminds me that there was a gentleman who suggested we do an episode on Ponzi, which was a proximate trigger for doing this episode. And even though I'd asked you months ago, let's do an episode on Ponzi, but we should give a shout out to this gentleman. I am now on Twitter, I will find him and I will find where he lives and we will go to his house and we will thank him personally. Okay, we don't I'm scrolling through my notifications. Yeah, this is a gentleman who calls himself No Chill Bro, and his Twitter handle is at lalitbhanot1."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:29:42.900",
+        "message": "Okay, so obviously, there is a name."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:29:45.340",
+        "message": "Yeah. So ek shout out banta hai bhai, he says I am not your bhai, but we are giving you a shout out at lalitbhanot1, No Chill Bro. And we will also personally send you merchandise if you can send us your birth certificate and prove that your actual name given to you by your parents is No Chill Bro."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:30:03.740",
+        "message": "Aadhaar number of No Chill Bro, I mean, maybe it's never mind, everyone's asking for Aadhaar, we should also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:30:10.140",
+        "message": "So yeah, we should also ask for Aadhaar. In fact, any tweets in future directed to us kindly enclose your Aadhaar number, you might end up getting some, there should actually be a notification filter, no, any, any tweet without an Aadhaar number, you don't get the notification. That's coming up next. Moving on from this, you know, so we've discussed different kinds of Ponzi schemes, whether private or public, we've discussed these Ponzi structures, which are overlaid over certain systems, whether within the financial world or in geopolitics or whatever, what sort of also intrigues me is that, listen, we are the only species with Ponzi schemes, partly because we are the only species which trades in narratives, we make stories about the world and they explain the world to us and they are how we navigate the world, which makes us extremely susceptible to believing in these Ponzi schemes and get-rich schemes. What are sort of the different, and I know you've written about this in your paper, and of course, both you and I for many, many years have been writing about cognitive biases and logical fallacies and all of them apply here. What are some of the main ones you would say have something to do with it?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:31:20.380",
+        "message": "So I mean, obviously, as fundamental as this may sound, I guess the main factor that sort of encourages Ponzi schemes is the herd mentality. So there's a beautiful quote in Robert Schiller's book, Irrational Exuberance, and this is how it goes. A fundamental observation about human society is that people who communicate regularly with one another think similarly. There is at any place and in any time a zeitgeist, a spirit of times. So what happens is if a person wants to invest, the chances are that he will look around to see what his friends, family, etc., etc., are doing with their money. And when they see that the friends, etc., are investing in a particular scheme where they have made money, so they automatically sort of end up investing there because the assumption is that, okay, this guy I know and he's made his money, so it should generally be safe. People don't go inquiring about it. And this is true about not just Ponzi schemes, it's true about, I mean, look at why people buy LIC policies, I mean, they buy LIC policies because, you know, the guy selling them the policy is known to them, he's a relative, or they've seen people all around them buy LIC policies."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:35.260",
+        "message": "LIC agents are sort of a downmarket version of the Amway agent, in a sense."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:39.980",
+        "message": "Yeah, I mean, it's the same thing, I mean, it's largely the same thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:43.500",
+        "message": "You don't recommend buying LIC schemes, right?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:45.860",
+        "message": "Not at all. In fact, now, not even, you know, earlier one would have even thought."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:32:50.580",
+        "message": "Perhaps we will have another episode on that someday, like a fractal emerging out of this"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:32:55.420",
+        "message": "episode. So, you know, the interesting example here is what, so, you know, Sarada is a great example. Now, they managed to assure investors that their investments would be safe. What they did was they employed the agents of Peerless General Finance and Investment Company. Now, Peerless was a very popular investment company in parts of Eastern India. I mean, I mean, I remember very, very clearly, because, I mean, I grew up in Eastern India. Now, it had, it was, you know, it was formed in 1932, and had pioneered the collection of small savings in Eastern India, primarily in West Bengal. Now, what had happened was that RBI had forced Peerless to stop taking deposits in 2005-2006. And this led to a growth of unregulated deposit taking companies in West Bengal and other Eastern states. So agents of Peerless, who had always been trusted, because Peerless always repaid, became agents of Sarada, okay. And so basically, the the good brand name of, you know, Peerless, which sort of had been built over almost, almost seven decades, more than seven decades, rubbed on to, rubbed"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:11.580",
+        "message": "on to Sarada. In a sense, it's the same kind of thing we say home trade did by getting celebrity endorsements"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:16.500",
+        "message": "from Sachin and Shah Rukh and whatever that rubs off on to you. But in this case, what I'm talking about is the actual salesman. And how the, the herd mentality, sort of, how the trust factor came into the herd mentality, if that is."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:34:32.140",
+        "message": "No, and also, I guess, there's that natural tendency that once you have invested, you will immediately rationalize your investment to yourself, you will double down on it, perhaps even by investing more. The endowment effect kicks in, where if you own, you know, one of these shares from one of these companies, it immediately feels more valuable to you than it did when you did not possess it. And so on."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:34:55.340",
+        "message": "So I just like to, you know, read out a small paragraph from the paper that I wrote many years back. Now, you know, it's essentially, obviously, you know, you're looking at what people you know, are doing. So this is something that we've written, and it's like the desire to conform to the behavior and opinions of others is a fundamental human trait, an accepted principle of psychology. If the people around the potential investor invest in a certain way, they might be a tendency for him to follow them, much like the circular mill of ants, okay, the mill is created when an army of ants find themselves separated from the colony. Once they're lost, they obey a simple rule, follow an ant in front of you. So decisions of investors, much like the circular mills of ants, are not made at the same time, but in a sequence. So people who invest in a Ponzi scheme assume that the scheme is a good bet, simply because some of the people they know have already invested in it. So everyone ends up making the wrong decisions, because the initial investors get into the scheme by chance, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:36:06.340",
+        "message": "And this reminds me of something EO Wilson once said, have you heard of the biologist Edmundo Wilson? No, there's a great quote by him about communism, where he says, quote, great idea, full stop wrong species, stop quote. And his idea was that low communism is a great idea for ants, which is specifically what he meant ants and bees, because they are people who are wired to follow central planning commands from on top and they all act as one body, but human nature being what it is, it cannot, it simply cannot work. So in that case, of course, drawing a distinction between ants and humans. And the reason I made that whole point about no other species having Ponzi schemes, which is of course, a glib and frivolous point. But it is also true that as a species, because of our tendency to explain the world to ourselves, because of narratives, all of these cognitive biases and these fallacies we tend to commit are sort of hardwired into humans and no other species. And all of them are useful in different contexts. But when they go wrong, they sort of go wrong in these sort of ways. In your paper, you've pointed out, you know, the recency effect, the anchoring effect and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:15.780",
+        "message": "so on. The other interesting, you know, if we were to talk in millennial terms, there is also FOMO involved, you know, the fear of missing out on a good investment, the FOMO effect,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:27.980",
+        "message": "FOMO effect. Yeah. The FOMO effect should now get into the language coined for the first time on the scene and"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:34.060",
+        "message": "the unseen. No, it's already there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:36.060",
+        "message": "It's already there."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:37.060",
+        "message": "FOMO is there."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:38.060",
+        "message": "But the FOMO effect to explain the FOMO effect to explain a proper noun should totally be credited. It is. Yes. Okay."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:46.700",
+        "message": "So we are behavioral economists."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:37:47.700",
+        "message": "Now we have coined. Who knows? Perhaps one day we'll do an episode of economic funders on storytelling just about the FOMO effect."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:37:55.540",
+        "message": "It could happen. But then obviously, you know, there is first, as I said, is the herd mentality and then there is greed because, you know, you see that you compare the rate of returns on other investment which is available. And in this case, as I said, the returns available, returns which are offered on Ponzi schemes are generally significantly higher than the other schemes available in the market. So let me just give you a few schemes and then the kind of returns that they offered. So there was a Rose Valley Ponzi scheme in West Bengal a few years back that offered anywhere between 11.2 percent to 17.7 percent. PSCL offered 12.5 to 14 percent. Sarda reportedly offered returns on 17.5 to 22 percent. So and I mean, we've already seen the returns on offer in case of Speak Asia and MMM, you know, where a 5000 rupee investment was supposed to sort of become 3.4 crore at the end of the year. So basically, you know, with good advertising and stories of previous investors, as I said, you know, who made a killing by investing in the scheme, investors get caught in the euphoria that is generated and hand over their hard-earned money, much against going against common sense. And, you know, I'd like to quote this economic historian called Charles Kindleberger here. And this is what he said, there is nothing so disturbing to one's well-being and judgment as to see a friend get rich. So again, I mean, it's basically boils down to herd mentality and the fear of missing out. And overconfidence and over-optimism also have a role to play. As you said that, you know, once you are invested into something, you tend to rationalize that because I'm already in it, this is going to work out right, which may or may not. Then there is the contrast effect, wherein you compare with all the other available options and see that this is the best option going around. Mental accounting also plays a role. Now, mental accounting as you know, if regular listeners, have you discussed mental accounting? I'm sure you would have it in some way."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:40:22.020",
+        "message": "I haven't discussed mental accounting per se, but it's a subject of episode two of economic funders now on Storytel."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:29.060",
+        "message": "Once it is released today, I'm going to take every opportunity to plug it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:40:34.900",
+        "message": "I'm not plugging a Ponzi scheme. Free trial on Storytel, sign up at Storytel.com slash funders to just search for Amit Verma or Vivek Kaul or economic funders. Okay, we didn't plan this. This wasn't a planned plug."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:40:52.180",
+        "message": "So essentially, you know, what mental accounting was a term coined by Richard Thiller, as we as we know. And he defined it as the inclination to categorize and treat money differently, depending on where it comes from, and where it is kept and how it is spent. So basically, you know, gamblers who lose their winnings, for example, typically feel that they haven't lost anything. And though they would have been richer had they stopped while they were ahead, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:19.820",
+        "message": "Yeah, I mean, the classic illustration of that is, let's say I sit down at a poker table with a lakh, and I've turned it into two lakh, you know, so at the last hand of the day, if I feel like gambling it up, I'll say, okay, I'll gamble with my one lakh winnings. While the truth is, had I sat down right there with two lakhs, I would not have gambled with an amount as big as a lakh. But because I have, you know, created separate mental accounts for what I came with and what I have won, you know, I am treating them differently."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:41:48.500",
+        "message": "So similarly, in a Ponzi scheme, once investors have got a certain return on their investment, they do not hesitate to plow their returns back into the thing. So which is where mental accounting sort of comes into play. And obviously, I mean, the greater fool theory as we as we talked about, you know, in many cases, investors understand that it's a Ponzi scheme."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:13.660",
+        "message": "There's also sort of the Dunning-Kroger effect, which is a tendency of incompetent people to think that they're better than they really are. And that I think plays out, especially when it comes to the stock market, because people will, for example, get a little half-baked knowledge, and then they will jharod that wisdom to everyone. And they will imagine them to be greater experts. And they actually are on the basis of that half-baked knowledge, which helps them rationalize the foolish investments they're making."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:42:38.260",
+        "message": "And sometimes they're lucky they find it."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:42:40.180",
+        "message": "And in an environment if all stocks are going up, yeah, so they end up, you know, because but I think most of the people who invest in a rising market tell themselves are making good investments. Anyway, they don't think about it as you know, it is I know this investment is stupid in terms of fundamental value, but it is rational because the likelihood of a greater fool is very high. But you know, I could respect an investor like that. But I don't think most investors think like that way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:43:07.340",
+        "message": "So yeah, so obviously, the greater fool theory is also at play, wherein, you know, some of the investors and I have, you know, over the years met a lot of these investors who know that they're dealing with a Ponzi scheme, but they still go ahead because the entire the feeling is that, you know, they will be able to get out the music playing you have to dance before before the scheme collapses. So these are some of the behavioral so called aspects which play a huge role, which sort of, I mean, gets people to invest in a Ponzi scheme over and over again. And I think the what also happens is, I mean, this has got nothing to do with behavioral aspects. I mean, as we discussed a little earlier, you know, in most cases, we don't come to know as to even you know, even when these frauds are caught, we don't know as to what happens to them. I mean, take a case like speak Asia, right? The scheme collapsed. And you know, what happened to the guys who were running the scheme? I mean, did the people get their money back? So it's very important that this information also comes back to us. Because, you know, if the people who are running these frauds are not getting punished, I mean, what stops people from, you know, running more of these frauds over and over again,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:27.220",
+        "message": "I mean, if any editors of financial papers are listening, maybe that's a whole new feature. You could do one of these weekends about what happened to fraudsters of the past."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:44:34.580",
+        "message": "I mean, everyone from like, I mean, we do sort of, you know, people do get to know what a, you know, Ketan Parekh is up to. But Ketan Parekh was like this one big guy who, you know, who ran a scam and essentially borrowed money from Madhya Pradesh Cooperative Bank and diverted it into the stock market and pushed up what were then called the K10 stocks. Obviously, you know, his game ran out. But I mean, but then there are so many of these small Ponzi schemes which are around and a lot of them are MLM Ponzi schemes where money is lost. But one really never comes to know as to what happens to the guys who, you know, ran these schemes. So, so a lot of the guys who run these Ponzi schemes, you know, have a halo effect around them."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:24.260",
+        "message": "I mean, they have this infectious optimism, wealth creators, you know, we're going to"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:45:28.220",
+        "message": "do this and we're going to get this right and, and, and obviously, you know, the media loves, the media loves heroes, I mean, they make heroes only to sort of pull them down later. So, I remember of this, this, this quote, by this gentleman called C. Natesan, who ran the Anubhav Plantation scheme. So Natesan basically, you know, said that, I mean, so he sort of tried selling himself and his companies as someone who always was interested in planting trees and had now turned it into a business. So I always wanted to plant trees. As a child, I used to feel sad seeing trees burned down in my village in Tirunelveli. Now, again, I mean, and then, I mean, we all remember Harshad Mehta, right? So Harshad Mehta's scam was also like a Ponzi scheme, wherein he was siphoning off money from banks and, you know, then diverting it into the stock market and siphoning off more money from banks and, you know, diverting it again into the stock market and, you know, then, you know, he kept driving up the prices. So he apparently remarked once, in an interview, wherein he said that I thought I'd be like Pied Piper, I thought I can sell dreams, that asset creation is not a crime, that if you want to be Harshad Mehta, come to the stock market. Now, I mean, you know, this is such a, you know, optimistic thing to say, inspirational"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:46:57.060",
+        "message": "quote. Hero of the common people."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:00.140",
+        "message": "And which is why I mean, this, this sort of, you know, gets us back to the social media. And I don't know if it happens to you, it happens to me all the time where this random guy will come in and say, you know, if this, you know, why do you keep saying these negative things and spoil the environment? And why don't you talk about positive things and, you know, all this."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:20.180",
+        "message": "And the job of journalists anyway, is to afflict the comfortable and comfort the afflicted."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:24.580",
+        "message": "So you know, And more than that, I mean, it's not my job to, you know, make you happy in life."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:29.860",
+        "message": "But we have a remarkable episode 12 dream reforms."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:32.140",
+        "message": "Yes, we did that. I mean, if people didn't, yeah. So we give solutions also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:37.660",
+        "message": "But I think it's more of a job to sort of talk about all the things that are going wrong. So people know about them, because acknowledging the problem is at least a first step to a solution."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:47:49.900",
+        "message": "My aforementioned question, sorry, how do you sort of before you cut in my aforementioned"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:53.980",
+        "message": "question to which I think is a legit question, which is that listen, yeah, most people do not have the cognitive bandwidth in terms of the time I mean, they're busy doing their everyday things. They don't have the cognitive bandwidth to take decisions on complex subjects like where should they invest their money and so on. My advice to people, for example, about the stock market always is and I think you'd agree with me is that unless you have studied it in great depth, don't invest in the stock market at all. Because otherwise, you're one of the suckers like in poker, they say if you don't know who's the sucker at the table, it's you. But the thing is, most people now don't have the time to get that kind of detailed knowledge. They rely on all of these instincts, which you earlier mentioned, look around you what are successful people apparently doing, there is, you know, the FOMO effect comes into play and so on and so forth. So now if someone is to ask you that, listen, yeah, Vivek, I have a, I spend all my time and all my mental energy on making a living at whatever I do now, when I look to invest or when these kinds of opportunities come up, what are the heuristics, which I should apply to make sure that I am not being fooled? You know, what are the kinds of heuristics which I can look at? And I'll take a short at, you know, two quick answers which come to my mind, and then you can elaborate and give more of your own. And one of them is, there is no such thing as a free lunch. If someone is offering you, for example, far greater rate of returns and everybody else in the market, they must, you know, it fails a smell test, ask yourself, why that would be. And the other heuristic I'd offer is that, again, it's a cliche, if it feels too good to be true, it probably is, you know, these are my two heuristics that I would offer what"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:49:35.580",
+        "message": "are yours? Okay. I agree with you 100% on that, I mean, so anyone, so I would sort of put it in a slightly more technical term. So the moment anyone other than a bank, okay, guarantees you a rate of return, you know you're being fooled. I mean, it's very, very clear there. So you have to be careful about that. The second thing is also, you know, you look at the fact that if, let's say banks are offering a rate of interest of 7%, 6% or whatever, as they are right now. So in that market, if someone's offering you a return of, let's say, 15% or 20%, you know that there is something wrong there. Other than that, you know, so other than I think more than heuristics, you know, I have these 10 points, which I think are useful for anyone who wants to generally plan their personal finance. And so, if you're okay with that, I can\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:48.060",
+        "message": "Please, please give us all 10 points."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:50:50.460",
+        "message": "So okay, now, I mean, before I get into the 10, I'll first give you some of the most basic points. So the most basic point in investing is never have all your eggs in one basket. And this is, when I say this, I mean this within investments and across investments. So what it basically means is that if, okay, you don't want to do anything in the world, you want to just deposit money in a bank, please don't go and deposit all your money in one bank. I mean, that is by far the most stupid thing you can do. I mean, after that, you can't claim that you know, you are financially illiterate and you're not very sophisticated. And I mean, I find it, I mean, if you're educated enough to open a bank account, then you need to be educated enough to not have all your money in one bank."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:40.700",
+        "message": "At this point, Vivek has a slight smile on his face. At this point, I will inform my listeners very sheepishly that time and again, Vivek has berated me, because I have only one bank account, which is an HDFC bank, and I keep telling him it won't shut down. But even if people take the money in that there is so little of it that who cares, buy"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:51:57.820",
+        "message": "something nice, buy some vada pavs, kindly continue with other points. So that's the, you know, the most basic point. And I mean, if I mean, look at what has been happening with the PMC bank, and some of the videos floating around and people you know, there are people saying I had only 25 lakhs and all of it was in the in this bank. Now, I mean, if you had 25 lakhs, and if you had the ability to earn those 25 lakhs, why did you have all of it in one bank account? I mean, I find it a little, you know, when people sort of, and especially in an era where people spend so much time and energy in planning a holiday and but the moment they have to plan their money, you know, all their faculties go for a toss. I mean, I know so many people who spend weeks planning a holiday. I mean, I mean, you can spend one day planning your finances as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:52:48.580",
+        "message": "I mean, it's not going to hurt you in any way."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:52:49.940",
+        "message": "I just bought a new phone, and I spent so much time researching that I could have like, so one of the things that I do in life, you know, when I need to buy a phone, I don't do any research, I have a price point. And I see as to you know, who's within that price point, which are the largest selling phones, and I go and buy that phone. Because if so many people are already making that mistake, you know, I can as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:53:12.380",
+        "message": "And since our listeners are getting a bonanza of free funders from us during the show, I will offer another nugget Have you heard of this term called satisficing? So satisficing is a portmanteau term, which is like, it's a combination of two existing words, satisfying, and sufficing. And the concept comes from the fact that decisions tire us out, every decision takes a certain amount of energy, leaving less energy for other decisions and indeed other work. So a lot of people fight this what is known as decision fatigue, by satisficing when it comes to purchases. So if you're doing a major purchase, like you're buying a house, obviously, you spend the time to research that. But if you're buying a phone, or if you're buying a book, or if you're buying, you know, any electronic implement, then you know, you know that all the brands and all the categories are more or less okay. So you satisfy, you satisfy yourself with the first one that appears to suffice. And it's called satisficing. And and in fact, decision fatigue is also a reason, for example, why people like Steve Jobs, and now Mark Zuckerberg, they dress the same way every day, it feels like a uniform"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:54:19.500",
+        "message": "like for Steve Jobs, it was a black belt. That was something that you don't have to take a decision, there was something that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:54:25.100",
+        "message": "Albert Einstein started, Einstein started, there you go, it comes from the finest minds"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:54:30.140",
+        "message": "that he wanted to save his mental energy. I think he had seven suits of the same kind."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:54:34.940",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:54:35.940",
+        "message": "Because he didn't want to spend time figuring out what to wear. So in fact, I do that in my own little way, I have three shirts of the same kind."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:54:44.020",
+        "message": "Ditto, I mean, I in fact, if you notice, last year, during my keto diet, I just cycled between black t shirts and jeans."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:54:52.980",
+        "message": "So it just keeps the life. I mean, for jeans, I have just two pairs of jeans, and I just keep changing it to I have"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:54:58.860",
+        "message": "more, but I use just to figure out what to wear."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:04.260",
+        "message": "Okay, so now, also, neither of us can afford more given the times we live. Yes, I mean, yeah, we are. I think we should start asking for donations also."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:55:13.100",
+        "message": "Speaking of bubbles, I should ask you about the online journalism bubble at some point, but let that pass."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:55:17.220",
+        "message": "Let's continue. What's your second point? No. So these are, these are the 10 main points. I mean, other than, you know, I didn't put I didn't want to put the diversification point into this, because it's just very, very basic. Yeah. So if you can't even do that, then I mean, God help you. So if your family is dependent on you, buy a term insurance policy. If no one is dependent on you, you don't need insurance, okay? Stay away from investment plans, which pretend to be insurance, endowment, money back, you lips, life will be very simple. Buy a house if you're planning to live in it. Stay away from under construction properties as far as possible. Further, try to buy an apartment in a society where people are already living. So that if there is some, you know, bureaucratic or administrative problem, you're not the only one running around, when there are other people involved. And in India, it is very, very important because, you know, all societies have some lafda at the end of the day. Have a health insurance policy for your entire family. To meet emergencies, have some money in a bank account, which could meet expenses of three to six months, I mean, at the very basic. If you want the ability to make decisions that you feel are correct, at any point of time in your life, you need at least two years of expenses in the bank account. I mean, then you can, you know, ask your boss to fuck off and do what the right thing is, what you feel the right thing is. But without that, you can't. Have an SIP running on a few good equity mutual funds, review the performance once a year. Don't go looking at the returns every week, a lot of people do that. If not every week, at least they have a tendency to look at every month. There is good research that shows that people who look at their returns regularly tend to invest in equity for shorter terms than people who don't, and which basically means then you lose out on returns. After a certain age, make a will. Also make sure that when it comes to all your investments, nominations are in place. Because I mean, I have seen a few issues of where, you know, the husband has died and the wife has no idea where he had invested and, and it's too late to sort of start again from scratch. Make your tax saving investments at the beginning of the year, if you're investing in things like public provident fund, or do them through the year. If you're investing in things like let's say a tax saving mutual fund, don't wake up in the last week of the year to make your tax saving investment when you're more likely to be taken for a ride because you'll end up investing in anything, you know, anyone who basically comes to your house and just gets you to sign whatever paper they want to. Also be careful when you go to a bank for anything, because these days, they you know, the moment you enter a bank, they want to sell you things that you don't need. Make sure that you end up doing what you had gone there for, okay. So I mean, the example like I like to give here is that someone sold a pension plan to my father a few weeks before he was retiring, okay, so thankfully, I found out and you know, so all insurance policies, again, remember this all so called insurance policies have a 15 day look in period. So if you want, don't feel comfortable with it, you can go ahead and return it and get your money back. Also, finally, and you know, no one ever made money out of investing by watching TV channels. So you have to, you know, stay as far away from the CNBCs of the world if you really want to make any money in life. So these are I think, the 10 basic things, they're not very difficult, there is no rocket science involved here. And all of this can be easily executed."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:59:06.340",
+        "message": "Very wise words. And I think many of our listeners should certainly listen to this part again and take notes. I really don't have much funds to invest. So it's not very useful to me. Someday you should tell me about you know, how can I actually make some money that I can later invest?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:59:21.300",
+        "message": "Do you have any schemes in mind? Let's start a Ponzi scheme, Amit. Let's start a Ponzi scheme. And what we'll do is, we'll have the podcast as the business model."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:59:32.060",
+        "message": "There you go. All these listeners built up for what?"
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:59:34.660",
+        "message": "We'll obviously and we'll say that, you know, if you invest in these podcasts, let's say 10,000 rupees, we'll give you 15,000 at the end of the year 50% return is pretty amazing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:59:45.500",
+        "message": "And they'll trust me because I always deliver."
+    },
+    {
+        "speaker": "Guest",
+        "time": "01:59:47.820",
+        "message": "And the model will be that we'll have ads in the podcast and those ads will give us the returns. And before one year, we'll just take the money and possibly go to Antigua, where you can"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:00:01.620",
+        "message": "buy citizenship for as low as $100,000. I'm not going there, bro. They don't like cows, Antigua. Let's... Yeah, no, we shall inflict neither bad jokes nor any such scheme on you. In fact, you get our awesome content for free. So what's that about? Thank you so much for listening to us and Vivek, thanks for coming on the show, man. My pleasure. It's been great talking to you. If you enjoyed listening to the show, do head on over to storytel.com slash funders where the new show hosted by me and Vivek has just launched is called economic funders search for it, you'll find five episodes already. You can follow Vivek on Twitter at call underscore Vivek. You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A. You can browse past episodes of the scene in the unseen at sceneunseen.in, thinkpragati.com and ivmpodcast.com. The scene in the unseen is supported by the Takshashila Institution. Takshashila's postgraduate program starts in Jan 2020, admissions are now open. The last couple of years I've actually taught a course on how to write an op-ed within that. I don't know if I will next year, but it's a great course regardless. Find out more about it at takshashila.org.in. Thank you for listening."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:01:17.900",
+        "message": "Hi guys, this is Ayushi and I am Ritasha and welcome to Agla Station adulthood. It's a fun podcast we've got going on and we'd love for you to tune in and enjoy with us. Join us as we stop at various stations and discuss different topics that seem to be bothering us and hopefully you do as well. Dating, relationships, beauty, just being an adult, lots of different things. We don't have a great grip on it, but we've done okay so far. Catch Agla Station adulthood every Thursday on the IBM app, the IBM website or wherever else you get your podcasts. Hi my name is Anupam Gupta, I'm B50 on Twitter. I am the host of Paisa Paisa, the show that talks money. On my show, I speak to experts from every field of money and finance, from stock markets, equities, debt funds, credit cards, life insurance, every possible area of money and finance that you can think of. We even did an episode on cryptocurrency. I've got fantastic guests from mutual funds to personal finance experts everywhere, robo advisory startup, just name it, we've got it. At Paisa Paisa, we help you make smart decisions about money. You work hard for money, now make your money work hard for you. New episodes out every Monday and you can listen to my show on the IBM podcast app or any other podcasting app that you have."
+    }
+]

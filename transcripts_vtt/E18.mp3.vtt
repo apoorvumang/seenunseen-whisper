@@ -1,0 +1,998 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:24.720
+[Amit Varma]: Welcome to the IBM Podcast Network.
+
+00:00:24.720 --> 00:00:28.640
+[Amit Varma]: It's nine o'clock on a Saturday, the regular crowd shuffles in.
+
+00:00:28.640 --> 00:00:36.480
+[Amit Varma]: There's a babu sitting next to me, from the excise department of sin.
+
+00:00:36.480 --> 00:00:39.800
+[Amit Varma]: He says, son, can you give me a bribe, please?
+
+00:00:39.800 --> 00:00:42.520
+[Amit Varma]: I'm not really sure what it's for.
+
+00:00:42.520 --> 00:00:45.800
+[Amit Varma]: There are so many rules that I use as my tools.
+
+00:00:45.800 --> 00:00:48.800
+[Amit Varma]: Pay me up if you don't want a war.
+
+00:00:48.800 --> 00:00:57.280
+[Amit Varma]: La, la la, di di da, la la, di di da, da dum.
+
+00:00:57.280 --> 00:01:00.400
+[Amit Varma]: Give me a bribe, you're the restaurant man.
+
+00:01:00.400 --> 00:01:06.760
+[Amit Varma]: Give me a bribe, tonight, we're all in the mood for some chai pani, and you've got me
+
+00:01:06.760 --> 00:01:10.000
+[Unknown]: feeling all right.
+
+00:01:10.000 --> 00:01:15.480
+[Amit Varma]: Now you might think you can get away, if you simply follow the law.
+
+00:01:15.480 --> 00:01:17.840
+[Amit Varma]: Let me light up your joint, because you're missing the point.
+
+00:01:17.840 --> 00:01:21.600
+[Amit Varma]: While I'm at it, let me break your jaw.
+
+00:01:21.600 --> 00:01:29.120
+[Amit Varma]: Our laws, you see, are contradictory, there's simply no way to comply.
+
+00:01:29.120 --> 00:01:36.000
+[Amit Varma]: All regulation is just exploitation of my power to bleed you dry.
+
+00:01:36.000 --> 00:01:39.000
+[Amit Varma]: Give me a bribe, you're the restaurant man.
+
+00:01:39.000 --> 00:01:45.280
+[Amit Varma]: Give me a bribe, tonight, we're all in the mood for some chai pani, and you've got me
+
+00:01:45.280 --> 00:01:48.640
+[Amit Varma]: feeling all right.
+
+00:01:48.640 --> 00:01:56.560
+[Amit Varma]: You've got me feeling all right.
+
+00:01:56.560 --> 00:02:02.160
+[Unknown]: Welcome to The Seen and the Unseen, our weekly podcast on economics, politics, and behavioural
+
+00:02:02.160 --> 00:02:03.160
+[Unknown]: science.
+
+00:02:03.160 --> 00:02:07.120
+[Unknown]: Please welcome your host, Amit Verma.
+
+00:02:07.120 --> 00:02:12.520
+[Amit Varma]: Welcome to The Seen and the Unseen, I'm Amit Verma, and my subject for today is restaurant
+
+00:02:12.520 --> 00:02:13.520
+[Amit Varma]: regulations.
+
+00:02:13.520 --> 00:02:19.080
+[Amit Varma]: All regulations have great intentions, but many often have terrible outcomes.
+
+00:02:19.080 --> 00:02:21.680
+[Amit Varma]: Restaurant regulations are a great example of this.
+
+00:02:21.680 --> 00:02:26.640
+[Amit Varma]: There are many of them, some of them contradict each other, and they're basically just enablers
+
+00:02:26.640 --> 00:02:28.280
+[Amit Varma]: of rent-seeking.
+
+00:02:28.280 --> 00:02:34.280
+[Amit Varma]: That is, they're nothing more than an instrument for government inspectors to extract bribes
+
+00:02:34.280 --> 00:02:36.800
+[Amit Varma]: or hafta out of you.
+
+00:02:36.800 --> 00:02:42.440
+[Amit Varma]: To discuss this subject with me, I have in the studio a close friend of mine, Madhu Menon.
+
+00:02:42.440 --> 00:02:47.560
+[Amit Varma]: Madhu ran a great restaurant in Bangalore called Shiok for seven years, and is a well-known
+
+00:02:47.560 --> 00:02:49.640
+[Amit Varma]: restaurant consultant today.
+
+00:02:49.640 --> 00:02:55.000
+[Amit Varma]: He's experienced restaurant regulations firsthand, and I couldn't think of anyone better to talk
+
+00:02:55.000 --> 00:02:56.000
+[Amit Varma]: about the subject.
+
+00:02:56.000 --> 00:02:58.120
+[Amit Varma]: Madhu, welcome to the show.
+
+00:02:58.120 --> 00:02:59.120
+[Amit Varma]: Thank you for having me.
+
+00:02:59.120 --> 00:03:03.680
+[Amit Varma]: Madhu, you ran one of my favourite restaurants called Shiok in Bangalore for seven years,
+
+00:03:03.680 --> 00:03:09.360
+[Amit Varma]: and I really enjoyed eating there, especially your infamous blogger's beef.
+
+00:03:09.360 --> 00:03:13.240
+[Amit Varma]: So tell me, what was your experience with government regulations in all these years?
+
+00:03:13.240 --> 00:03:16.160
+[Guest]: First of all, Amit, I don't want you to get me in trouble for mentioning international
+
+00:03:16.160 --> 00:03:19.000
+[Guest]: dishes like beef.
+
+00:03:19.000 --> 00:03:24.200
+[Guest]: But yes, that was a good dish, and I made it just for bloggers, so hey.
+
+00:03:24.200 --> 00:03:27.720
+[Guest]: I know a lot of people think that restaurants are all about serving good food, and of course
+
+00:03:27.720 --> 00:03:31.000
+[Guest]: that was my favourite part in the kitchen, but a major chunk of my time was actually
+
+00:03:31.000 --> 00:03:36.000
+[Guest]: spent being compliant with government regulations, of which there's plenty, and there are lots
+
+00:03:36.000 --> 00:03:39.600
+[Guest]: of departments, some you don't hear of until they come knocking on your door.
+
+00:03:39.600 --> 00:03:43.840
+[Guest]: You have departments like the police, the labour department, the BBMB, which is the
+
+00:03:43.840 --> 00:03:48.560
+[Guest]: municipal corporation, fire requirements, and a whole lot more.
+
+00:03:48.560 --> 00:03:52.760
+[Guest]: And all of these have licences that need to be renewed, all of them have inspections that
+
+00:03:52.760 --> 00:03:54.720
+[Guest]: can happen at any time.
+
+00:03:54.720 --> 00:04:01.480
+[Guest]: So yeah, there were a lot of compliance issues from time to time, and not because we weren't
+
+00:04:01.480 --> 00:04:06.120
+[Guest]: compliant with the rules, it was just that some of them were so vague that it was completely
+
+00:04:06.120 --> 00:04:08.840
+[Guest]: left to the interpretation of the official in charge.
+
+00:04:08.840 --> 00:04:12.600
+[Amit Varma]: So tell me something, in all the time that I've known you, and I first met you when you
+
+00:04:12.600 --> 00:04:17.600
+[Amit Varma]: were actually running your restaurant, and you were obsessive about giving your customers
+
+00:04:17.600 --> 00:04:21.800
+[Amit Varma]: the best service and the best value for money that they could get, and you had so many loyal
+
+00:04:21.800 --> 00:04:23.720
+[Amit Varma]: customers and it was a great restaurant.
+
+00:04:23.720 --> 00:04:27.200
+[Amit Varma]: So you already had all the incentives you need to deliver on all those fronts.
+
+00:04:27.200 --> 00:04:31.880
+[Amit Varma]: Now one would imagine that government regulations, why are they needed then?
+
+00:04:31.880 --> 00:04:36.400
+[Guest]: You know you're right, the best way to ensure that a restaurant keeps running is to make
+
+00:04:36.400 --> 00:04:38.200
+[Guest]: sure that customers come back.
+
+00:04:38.200 --> 00:04:42.920
+[Guest]: And the only way you'll do that is if your food is served in a hygienic fashion by service
+
+00:04:42.920 --> 00:04:47.080
+[Guest]: staff who know what they're doing, and the food of course has to be good quality.
+
+00:04:47.080 --> 00:04:52.760
+[Guest]: I think a lot of the regulations, the scene effect, it's noble intent that you comply
+
+00:04:52.760 --> 00:04:55.760
+[Guest]: with safety standards, that you comply with business standards, that you're not running
+
+00:04:55.760 --> 00:04:59.920
+[Guest]: an illegal business, and that someone has actually signed off on all the checks and
+
+00:04:59.920 --> 00:05:03.160
+[Guest]: measures for you to make that happen.
+
+00:05:03.160 --> 00:05:05.800
+[Guest]: But that's just the scene effect.
+
+00:05:05.800 --> 00:05:07.320
+[Guest]: What are the unseen effects?
+
+00:05:07.320 --> 00:05:12.880
+[Guest]: The unseen effects unfortunately in this country is that laws are written to be very vague
+
+00:05:12.880 --> 00:05:13.880
+[Guest]: often.
+
+00:05:13.880 --> 00:05:17.080
+[Guest]: They're often left to the interpretation of the officials themselves.
+
+00:05:17.080 --> 00:05:24.200
+[Guest]: And there are lots of incentives for them to actually come knocking on your door, rent
+
+00:05:24.200 --> 00:05:30.880
+[Guest]: seeking really, and or maybe grease bombs and find some flaw that you seemingly have
+
+00:05:30.880 --> 00:05:34.160
+[Guest]: overlooked but is such a trivial issue.
+
+00:05:34.160 --> 00:05:35.640
+[Guest]: Or it's actually not an issue at all.
+
+00:05:35.640 --> 00:05:38.180
+[Guest]: It's just that someone's made it up and made it out to be an issue.
+
+00:05:38.180 --> 00:05:42.880
+[Amit Varma]: So Madhu, can you give me some examples of specific regulations and the unseen effects
+
+00:05:42.880 --> 00:05:43.880
+[Guest]: that they had?
+
+00:05:43.880 --> 00:05:44.880
+[Guest]: Right.
+
+00:05:44.880 --> 00:05:50.280
+[Guest]: Let me explain to you something that's very close to my heart and that's making cocktails.
+
+00:05:50.280 --> 00:05:56.680
+[Guest]: Now we can all agree that someone who serves spurious liquor is actively involved in harming
+
+00:05:56.680 --> 00:05:57.760
+[Guest]: other people.
+
+00:05:57.760 --> 00:06:02.520
+[Guest]: So you want to prevent adulteration of alcohol, a noble intent.
+
+00:06:02.520 --> 00:06:07.960
+[Guest]: But when you put in a rule saying that all alcohol must be pure and not adulterated,
+
+00:06:07.960 --> 00:06:14.120
+[Guest]: you also introduce the possibility of interpretation and that interpretation sometimes that a cocktail
+
+00:06:14.120 --> 00:06:15.120
+[Guest]: is adulteration.
+
+00:06:15.120 --> 00:06:17.040
+[Guest]: Now that's ridiculous.
+
+00:06:17.040 --> 00:06:21.960
+[Guest]: Or say a chef tries to be a little more creative and he decides to make a gin that's infused
+
+00:06:21.960 --> 00:06:24.800
+[Guest]: with a few herbs and spices.
+
+00:06:24.800 --> 00:06:29.120
+[Guest]: That can be adulteration and that's ridiculous again.
+
+00:06:29.120 --> 00:06:31.920
+[Guest]: So what do you do?
+
+00:06:31.920 --> 00:06:35.060
+[Guest]: It's completely up to the excise inspector to come along and if he says this is adulteration
+
+00:06:35.060 --> 00:06:39.720
+[Guest]: then well he can fine you and that fine can be an arbitrary amount or he can say that
+
+00:06:39.720 --> 00:06:45.320
+[Guest]: you have to cease operation and you have to then negotiate with him on how to get back.
+
+00:06:45.320 --> 00:06:49.840
+[Amit Varma]: Can you appeal against these decisions or are you appealing to him himself?
+
+00:06:49.840 --> 00:06:50.840
+[Guest]: That's the thing.
+
+00:06:50.840 --> 00:06:56.160
+[Guest]: You can appeal but your appeal is heard by the same person who's actually fining you.
+
+00:06:56.160 --> 00:06:57.160
+[Guest]: That should be fine.
+
+00:06:57.160 --> 00:06:58.160
+[Guest]: That should be fine.
+
+00:06:58.160 --> 00:06:59.580
+[Guest]: Or you have to take it to court.
+
+00:06:59.580 --> 00:07:04.060
+[Guest]: Now imagine what happens to a restaurant if you had a shutdown for a couple of months
+
+00:07:04.060 --> 00:07:10.720
+[Guest]: and appeal a certain issue like your alcohol is adulterated or that 30 ml of your stock
+
+00:07:10.720 --> 00:07:12.280
+[Guest]: was missing.
+
+00:07:12.280 --> 00:07:17.720
+[Guest]: These kind of things they create a perverse incentive for inspectors to come and harass
+
+00:07:17.720 --> 00:07:19.240
+[Guest]: you basically.
+
+00:07:19.240 --> 00:07:24.000
+[Guest]: So many of our laws the effect is that most officials just come around knocking on your
+
+00:07:24.000 --> 00:07:29.320
+[Guest]: door to make a little extra money and if they feel like they're short of cash on a particular
+
+00:07:29.320 --> 00:07:35.400
+[Guest]: month they can just come by and say hey look you're violating this law or that law and
+
+00:07:35.400 --> 00:07:42.280
+[Guest]: hey here's a fine and you eventually end up negotiating and settling for a smaller amount
+
+00:07:42.280 --> 00:07:46.120
+[Guest]: and people think okay hey this is part of doing business but look what happens you know
+
+00:07:46.120 --> 00:07:50.920
+[Guest]: all these bribes monthly payouts that you have to do all the cost of compliance it's
+
+00:07:50.920 --> 00:07:54.920
+[Guest]: a business cost and what happens in any business when there's a business cost it eventually
+
+00:07:54.920 --> 00:07:59.800
+[Guest]: gets added to the cost of the product that you have so just imagine it this way hundred
+
+00:07:59.800 --> 00:08:03.640
+[Guest]: rupees was the actual burger and the service that you're getting and 50 rupees is probably
+
+00:08:03.640 --> 00:08:05.360
+[Guest]: the cost of doing business.
+
+00:08:05.360 --> 00:08:07.600
+[Amit Varma]: So actually it's coming back to you.
+
+00:08:07.600 --> 00:08:11.720
+[Guest]: So it's eventually just hurting the customers hurting businesses hurting profitability it
+
+00:08:11.720 --> 00:08:15.360
+[Guest]: is hurting customers and it is creating a mess of paperwork that is simply not needed
+
+00:08:15.360 --> 00:08:16.360
+[Guest]: most of the time.
+
+00:08:16.360 --> 00:08:20.920
+[Amit Varma]: Now another aspect of this is like recently a friend of mine was talking about the shutdown
+
+00:08:20.920 --> 00:08:25.680
+[Amit Varma]: of illegal slaughterhouses in UP and I told him that listen you know you're using the
+
+00:08:25.680 --> 00:08:29.660
+[Amit Varma]: word illegal in a wrong way the fact of the matter is that pretty much every single business
+
+00:08:29.660 --> 00:08:35.720
+[Amit Varma]: in India is illegal in technical terms in terms of compliance because the web of regulations
+
+00:08:35.720 --> 00:08:42.000
+[Amit Varma]: is often so convoluted that certain regulations end up contradicting others.
+
+00:08:42.000 --> 00:08:47.600
+[Amit Varma]: So if you comply with one you're automatically breaking another you have you have any experience
+
+00:08:47.600 --> 00:08:48.600
+[Guest]: of that?
+
+00:08:48.600 --> 00:08:53.440
+[Guest]: Absolutely I can tell you okay no one will argue that say a fire regulation is needed
+
+00:08:53.440 --> 00:08:57.160
+[Guest]: right a fire safety is needed I won't say regulation let's say fire safety is needed
+
+00:08:57.160 --> 00:09:01.920
+[Guest]: that's a given and now what happens if say your building catches fire you have an entrance
+
+00:09:01.920 --> 00:09:05.720
+[Guest]: and say the entrance is blocked because of the fire.
+
+00:09:05.720 --> 00:09:10.680
+[Guest]: Fire regulations say you need an emergency exit and no one's going to oppose that that's
+
+00:09:10.680 --> 00:09:14.960
+[Guest]: a sensible regulation except that the excise law in Karnataka says you can only have one
+
+00:09:14.960 --> 00:09:18.120
+[Guest]: entrance to the premises.
+
+00:09:18.120 --> 00:09:22.160
+[Guest]: Why so that there is no pilferage or there is no introduction of alcohol through another
+
+00:09:22.160 --> 00:09:25.680
+[Guest]: entrance and that only one entrance can be monitored.
+
+00:09:25.680 --> 00:09:30.400
+[Guest]: Now what happens is that these two requirements are completely contradictory you cannot have
+
+00:09:30.400 --> 00:09:33.040
+[Guest]: two entrances and have a liquor license.
+
+00:09:33.040 --> 00:09:36.040
+[Amit Varma]: And therefore you end up giving a bribe to one or the other and probably both anyway
+
+00:09:36.040 --> 00:09:40.260
+[Guest]: because that's pretty much it actually there's a monthly fee that goes out to the excise
+
+00:09:40.260 --> 00:09:45.000
+[Guest]: office that is basically a way of telling them to look the other way because we all
+
+00:09:45.000 --> 00:09:50.240
+[Guest]: know that this is going to happen this it's simply logically impossible to achieve.
+
+00:09:50.240 --> 00:09:54.560
+[Amit Varma]: And some of the most absurd laws you know regarding restaurants are actually laws around
+
+00:09:54.560 --> 00:09:58.480
+[Amit Varma]: alcohol because they also lend themselves to moralistic reasonings.
+
+00:09:58.480 --> 00:10:02.000
+[Guest]: Yes, we're a funny nation.
+
+00:10:02.000 --> 00:10:07.720
+[Guest]: The state has a moral obligation to prevent alcoholism and tries to do things so that
+
+00:10:07.720 --> 00:10:12.520
+[Guest]: people don't get alcohol issues and stuff like that.
+
+00:10:12.520 --> 00:10:16.840
+[Guest]: So they have restrictions like not issuing any bar licenses.
+
+00:10:16.840 --> 00:10:21.300
+[Guest]: This is true in Karnataka since 1993 there have been no fresh bar license issued.
+
+00:10:21.300 --> 00:10:25.520
+[Guest]: So basically if you want to start a bar you have to buy a bar license from someone who's
+
+00:10:25.520 --> 00:10:31.960
+[Guest]: closing their bar which has resulted in the cost of bar licenses gradually going up to
+
+00:10:31.960 --> 00:10:32.960
+[Guest]: more than a crore.
+
+00:10:32.960 --> 00:10:37.640
+[Guest]: Imagine that that's the cost of acquiring a license from someone else who has it.
+
+00:10:37.640 --> 00:10:43.920
+[Guest]: And unfortunately for state the largest revenue for state excise actually comes from alcohol.
+
+00:10:43.920 --> 00:10:48.440
+[Guest]: So we have both no new bar licenses.
+
+00:10:48.440 --> 00:10:49.440
+[Guest]: So what do they do?
+
+00:10:49.440 --> 00:10:54.800
+[Guest]: They have no new licenses given and still keep alcohol sales going along.
+
+00:10:54.800 --> 00:11:00.480
+[Guest]: So they introduce laws like short lifting which means that if you run a bar you have
+
+00:11:00.480 --> 00:11:05.040
+[Guest]: to lift a minimum of 52 cases of alcohol every month.
+
+00:11:05.040 --> 00:11:10.740
+[Guest]: To put in perspective 52 cases each case is 12 bottles of say vodka.
+
+00:11:10.740 --> 00:11:16.120
+[Guest]: So that's 12 into 52 and that's the minimum you need to sell every month.
+
+00:11:16.120 --> 00:11:19.400
+[Guest]: If you don't do that they penalize you.
+
+00:11:19.400 --> 00:11:23.080
+[Guest]: So if you're a small restaurant or a medium sized restaurant that just wants to have a
+
+00:11:23.080 --> 00:11:28.200
+[Guest]: bar on the side as a service to make it a fine dining restaurant it's a completely unviable
+
+00:11:28.200 --> 00:11:32.480
+[Guest]: business model because the excise department penalizes you for it.
+
+00:11:32.480 --> 00:11:36.120
+[Guest]: And instead of just giving out new licenses right they could have done that.
+
+00:11:36.120 --> 00:11:41.760
+[Guest]: The population of Bangalore has more than doubled from 1991 and it's ridiculous that
+
+00:11:41.760 --> 00:11:43.280
+[Amit Varma]: they're not giving out any fresh licenses.
+
+00:11:43.280 --> 00:11:47.800
+[Amit Varma]: And the original rationale for limiting bar licenses was we'll have one bar per X number
+
+00:11:47.800 --> 00:11:50.280
+[Guest]: of people and the population has more than doubled and they haven't.
+
+00:11:50.280 --> 00:11:56.240
+[Guest]: It was meant to be a limited number of licenses per number of people and that formula even
+
+00:11:56.240 --> 00:11:57.960
+[Guest]: that formula doesn't hold anymore.
+
+00:11:57.960 --> 00:12:03.920
+[Guest]: So even their twisted rationale for having that and think about why they had that restriction
+
+00:12:03.920 --> 00:12:10.080
+[Guest]: because if you had more than that you would encourage people to drink and like I said
+
+00:12:10.080 --> 00:12:13.160
+[Guest]: earlier the state makes a lot of money from alcohol.
+
+00:12:13.160 --> 00:12:18.280
+[Guest]: So these two are actually at odds with each other so they instead punish restaurants for
+
+00:12:18.280 --> 00:12:19.280
+[Guest]: not having sold enough liquor.
+
+00:12:19.280 --> 00:12:22.280
+[Amit Varma]: And it seems to me the regulation in the first place was a protectionist regulation.
+
+00:12:22.280 --> 00:12:25.880
+[Amit Varma]: The interest groups behind it would have been existing bar license owners who would have
+
+00:12:25.880 --> 00:12:29.840
+[Amit Varma]: wanted to restrict the competition and it's worked even better for them because not only
+
+00:12:29.840 --> 00:12:34.480
+[Amit Varma]: have they restricted the competition the licenses have itself gone up so much in value.
+
+00:12:34.480 --> 00:12:35.760
+[Guest]: Let me put that into perspective for you.
+
+00:12:35.760 --> 00:12:42.400
+[Guest]: I started my restaurant in 2003 and at the time this rule was still in effect and I actually
+
+00:12:42.400 --> 00:12:47.640
+[Guest]: bought the paper quote unquote as they say from another bar for about eight and a half
+
+00:12:47.640 --> 00:12:48.840
+[Guest]: lakhs.
+
+00:12:48.840 --> 00:12:53.480
+[Guest]: Of course I had to then pay a transference fee which is a government regulation and a
+
+00:12:53.480 --> 00:12:55.320
+[Guest]: name change fee.
+
+00:12:55.320 --> 00:13:00.760
+[Guest]: Again these are further avenues for making revenue both official and unofficial.
+
+00:13:00.760 --> 00:13:05.120
+[Guest]: That eight and a half lakh figure has now crossed one crore, it's 1.2 crores last time
+
+00:13:05.120 --> 00:13:09.400
+[Guest]: I checked and that keeps going every month it just keeps going up.
+
+00:13:09.400 --> 00:13:11.240
+[Guest]: That's 2003 versus 2016.
+
+00:13:11.240 --> 00:13:14.520
+[Guest]: So what is eight and a half lakhs then is 1.2 crores now.
+
+00:13:14.520 --> 00:13:19.680
+[Guest]: So that's a straight up a capital in investment of 1.2 crores just to start a bar.
+
+00:13:19.680 --> 00:13:21.000
+[Amit Varma]: And that's an artificial scarcity.
+
+00:13:21.000 --> 00:13:22.000
+[Guest]: Absolutely.
+
+00:13:22.000 --> 00:13:23.000
+[Amit Varma]: There's no reason for having that.
+
+00:13:23.000 --> 00:13:26.040
+[Amit Varma]: And when someone actually invests that kind of money in getting a bar license they have
+
+00:13:26.040 --> 00:13:28.840
+[Amit Varma]: no option but to pass the cost on to the consumer.
+
+00:13:28.840 --> 00:13:29.840
+[Guest]: Absolutely.
+
+00:13:29.840 --> 00:13:34.800
+[Guest]: So if I spend eight and a half lakhs to get a bar license whereas I spend 1.2 crores now
+
+00:13:34.800 --> 00:13:39.320
+[Guest]: each drink of yours has that government tax added to it.
+
+00:13:39.320 --> 00:13:45.480
+[Guest]: So if you want to complain about high prices of liquor or food in a bar you know why it's
+
+00:13:45.480 --> 00:13:46.480
+[Amit Varma]: happening.
+
+00:13:46.480 --> 00:13:51.360
+[Amit Varma]: And what then inevitably happens is that if the liquor at a bar is too expensive people
+
+00:13:51.360 --> 00:13:55.060
+[Amit Varma]: who want liquor want it anyway they'll get it from elsewhere and there might be less
+
+00:13:55.060 --> 00:13:58.920
+[Amit Varma]: safe sources you know and so on.
+
+00:13:58.920 --> 00:14:02.600
+[Guest]: It creates incentives for people to create adulterated liquor for sure.
+
+00:14:02.600 --> 00:14:04.880
+[Guest]: And that's how all these accidents happen.
+
+00:14:04.880 --> 00:14:09.360
+[Guest]: People are buying it from illegal sources and people are dying and it's to me that's
+
+00:14:09.360 --> 00:14:10.360
+[Guest]: disgusting.
+
+00:14:10.360 --> 00:14:14.560
+[Amit Varma]: Now I read a few years ago that when the Four Seasons Hotel opened in Mumbai they had to
+
+00:14:14.560 --> 00:14:20.640
+[Amit Varma]: get more than 250 licenses including separate licenses for the weighing scales in the kitchen
+
+00:14:20.640 --> 00:14:25.640
+[Amit Varma]: and in the bedrooms which sounded completely crazy and which sounded just absolute rent
+
+00:14:25.640 --> 00:14:26.640
+[Amit Varma]: seeking.
+
+00:14:26.640 --> 00:14:30.680
+[Amit Varma]: You give a lot of discretion to the government and then each regulation they'll pull out
+
+00:14:30.680 --> 00:14:32.240
+[Amit Varma]: that much from you.
+
+00:14:32.240 --> 00:14:36.360
+[Amit Varma]: In terms of restaurants how bad is it and is it something that just gets worse and worse?
+
+00:14:36.360 --> 00:14:39.680
+[Amit Varma]: Can it possibly get better because why would governments give up power?
+
+00:14:39.680 --> 00:14:40.680
+[Guest]: That's true.
+
+00:14:40.680 --> 00:14:44.640
+[Guest]: When you think about it right the idea of those weights and measures again noble thing
+
+00:14:44.640 --> 00:14:50.560
+[Guest]: that it is from a certified source and that the merchant is not cheating anyone except
+
+00:14:50.560 --> 00:14:55.380
+[Guest]: in your kitchen if you're on a restaurant you want those things anyway.
+
+00:14:55.380 --> 00:14:59.860
+[Guest]: You want to make sure that a vendor coming in saying that he's giving you one kilogram
+
+00:14:59.860 --> 00:15:01.840
+[Guest]: of broccoli is not giving you 900 grams.
+
+00:15:01.840 --> 00:15:02.840
+[Amit Varma]: So you have to have those.
+
+00:15:02.840 --> 00:15:05.320
+[Amit Varma]: The best incentives come from the marketplace themselves.
+
+00:15:05.320 --> 00:15:07.080
+[Guest]: People are looking after their own self-interest.
+
+00:15:07.080 --> 00:15:11.160
+[Guest]: And unless you're in turn selling broccoli by the kilo to customers which doesn't really
+
+00:15:11.160 --> 00:15:16.720
+[Guest]: happen in restaurants you don't really need to worry about portions being weighed accurately
+
+00:15:16.720 --> 00:15:17.720
+[Guest]: and sold.
+
+00:15:17.720 --> 00:15:20.080
+[Guest]: So I don't understand it at all.
+
+00:15:20.080 --> 00:15:27.840
+[Guest]: I don't expect the issue to get any better because it creates an entire ecosystem of
+
+00:15:27.840 --> 00:15:32.520
+[Guest]: officials who are making money from bribes and middlemen who act as consultants to facilitate
+
+00:15:32.520 --> 00:15:34.520
+[Guest]: inspections.
+
+00:15:34.520 --> 00:15:38.160
+[Guest]: The government does suffer from a severe shortage of inspectors.
+
+00:15:38.160 --> 00:15:42.880
+[Guest]: The labor department I think has less than 30 inspectors across the city and imagine
+
+00:15:42.880 --> 00:15:47.480
+[Guest]: each business that needs a shops and establishment act license which is a labor license they
+
+00:15:47.480 --> 00:15:49.720
+[Guest]: have to be inspected by these inspectors.
+
+00:15:49.720 --> 00:15:54.960
+[Guest]: So can you just imagine each inspector going each person has to do but 40 to 50 inspections
+
+00:15:54.960 --> 00:15:56.360
+[Guest]: a day.
+
+00:15:56.360 --> 00:15:58.160
+[Guest]: That's not humanly possible.
+
+00:15:58.160 --> 00:16:03.800
+[Guest]: So you might have to wait a few months for that to happen and your business can't run
+
+00:16:03.800 --> 00:16:04.800
+[Guest]: without it.
+
+00:16:04.800 --> 00:16:07.800
+[Guest]: They won't come and inspect unless your premises are ready.
+
+00:16:07.800 --> 00:16:10.160
+[Guest]: You had to wait months for them to come around.
+
+00:16:10.160 --> 00:16:11.880
+[Guest]: So what's the actual solution?
+
+00:16:11.880 --> 00:16:17.680
+[Guest]: The only reasonable solution is to expedite the issue and that is you pay a little bit
+
+00:16:17.680 --> 00:16:18.680
+[Guest]: of money.
+
+00:16:18.680 --> 00:16:19.680
+[Guest]: They come around in three four days.
+
+00:16:19.680 --> 00:16:20.680
+[Guest]: They inspect it.
+
+00:16:20.680 --> 00:16:26.720
+[Guest]: I put quotes on around inspect because well sometimes you can get health inspectors to
+
+00:16:26.720 --> 00:16:32.360
+[Guest]: come in and certify your premises without even having a kitchen ready because really
+
+00:16:32.360 --> 00:16:34.920
+[Guest]: what else are you going to do?
+
+00:16:34.920 --> 00:16:39.440
+[Guest]: So sure on paper they they've inspected the place and certify the place to say but that's
+
+00:16:39.440 --> 00:16:44.680
+[Guest]: no guarantee of anything perversely the people who are most likely to benefit from this are
+
+00:16:44.680 --> 00:16:46.620
+[Guest]: the dishonest businessmen.
+
+00:16:46.620 --> 00:16:50.000
+[Guest]: You know if you want to take shortcuts you know you just pay a little more money and
+
+00:16:50.000 --> 00:16:54.720
+[Guest]: someone comes and certifies without looking and hey it's fine you look the other way.
+
+00:16:54.720 --> 00:16:56.320
+[Guest]: There's no proper drainage system.
+
+00:16:56.320 --> 00:16:57.320
+[Guest]: Look the other way.
+
+00:16:57.320 --> 00:16:58.320
+[Amit Varma]: Pay him another $50,000.
+
+00:16:58.320 --> 00:17:02.400
+[Amit Varma]: In a sense I've even heard the argument that because of this web of regulations compliance
+
+00:17:02.400 --> 00:17:06.240
+[Amit Varma]: is impossible and therefore thank God for corruption otherwise the system would grind
+
+00:17:06.240 --> 00:17:07.240
+[Amit Varma]: to a halt.
+
+00:17:07.240 --> 00:17:08.240
+[Amit Varma]: Absolutely.
+
+00:17:08.240 --> 00:17:11.320
+[Amit Varma]: An efficient government is the worst kind of government.
+
+00:17:11.320 --> 00:17:14.440
+[Guest]: We have actually redefined bribery.
+
+00:17:14.440 --> 00:17:19.600
+[Guest]: Bribery used to be money you pay to get favors that were not usually possible.
+
+00:17:19.600 --> 00:17:25.520
+[Guest]: In India bribery is something that you'd have to do to get things that you are owed anyway
+
+00:17:25.520 --> 00:17:27.200
+[Guest]: which is just perverse to me.
+
+00:17:27.200 --> 00:17:28.200
+[Amit Varma]: Which is crazy.
+
+00:17:28.200 --> 00:17:30.840
+[Amit Varma]: I want to go back to something you said earlier on the show where you said that look if I'm
+
+00:17:30.840 --> 00:17:34.080
+[Amit Varma]: selling a drink for a hundred bucks because of all the government regulations and the
+
+00:17:34.080 --> 00:17:39.240
+[Amit Varma]: cost of compliance and so on that's 150 bucks I'm passing it on to the consumer which seems
+
+00:17:39.240 --> 00:17:43.840
+[Amit Varma]: to me to be a massive cost to bear and I'm sure a lot of restaurants therefore at the
+
+00:17:43.840 --> 00:17:48.000
+[Amit Varma]: margins either shut down or don't open in the first place purely because of the heavy
+
+00:17:48.000 --> 00:17:49.760
+[Guest]: hand of government.
+
+00:17:49.760 --> 00:17:50.760
+[Guest]: That's true Amit.
+
+00:17:50.760 --> 00:17:53.560
+[Guest]: I want to actually point out an interesting free market angle to this you know demand
+
+00:17:53.560 --> 00:17:57.600
+[Guest]: and supply like I mentioned earlier when you have a restriction on the number of licenses
+
+00:17:57.600 --> 00:18:03.440
+[Guest]: that are given out and it's artificially limited so there is an increase in demand from restaurants
+
+00:18:03.440 --> 00:18:07.400
+[Guest]: and bars that are starting up but there's only so many licenses when the economy booms
+
+00:18:07.400 --> 00:18:11.680
+[Guest]: and there are more restaurants starting up an interesting free market and I use free
+
+00:18:11.680 --> 00:18:19.080
+[Guest]: market ironically quote marks of course is that the cost of compliance also goes up in
+
+00:18:19.080 --> 00:18:25.040
+[Guest]: that all the money that you have to give also the amounts keep going up because hey look
+
+00:18:25.040 --> 00:18:28.880
+[Guest]: earlier there were 10 restaurants opening in a month now there are 50 everyone makes
+
+00:18:28.880 --> 00:18:32.960
+[Guest]: a little extra money so it's demand and supply in the bribe market as well.
+
+00:18:32.960 --> 00:18:35.040
+[Guest]: Madhu thank you so much for being on the show.
+
+00:18:35.040 --> 00:18:36.680
+[Guest]: Thanks for having me Amit.
+
+00:18:36.680 --> 00:18:39.880
+[Guest]: One more thing you should probably know and this will scare the living bejesus out of
+
+00:18:39.880 --> 00:18:46.960
+[Guest]: everyone did you know this bit of trivia that the excise department has limits on the amount
+
+00:18:46.960 --> 00:18:49.360
+[Guest]: of alcohol you can legally possess at home?
+
+00:18:49.360 --> 00:18:50.360
+[Amit Varma]: Are you kidding me?
+
+00:18:50.360 --> 00:18:51.360
+[Guest]: At my own personal home?
+
+00:18:51.360 --> 00:18:52.360
+[Guest]: Absolutely.
+
+00:18:52.360 --> 00:18:57.500
+[Guest]: I mean again noble intent you know you can't run an alcohol business from home and guess
+
+00:18:57.500 --> 00:19:03.360
+[Guest]: how much that liquor amount actually is in Karnataka that is just 2.3 liters of whiskey
+
+00:19:03.360 --> 00:19:08.960
+[Guest]: vodka rum brandy or gin that means if you have four bottles of liquor sitting at home
+
+00:19:08.960 --> 00:19:12.640
+[Guest]: which almost anyone with a well stocked bar has you are legally breaking the law.
+
+00:19:12.640 --> 00:19:15.560
+[Amit Varma]: So if you have four bottles of vodka at home you are breaking the law?
+
+00:19:15.560 --> 00:19:16.560
+[Amit Varma]: Absolutely.
+
+00:19:16.560 --> 00:19:18.840
+[Amit Varma]: Madhu I am staying with you right now and I have looked inside your wine closet and
+
+00:19:18.840 --> 00:19:23.000
+[Amit Varma]: you know something we need to get back home right now and do some serious drinking to
+
+00:19:23.000 --> 00:19:24.800
+[Guest]: make you a law abiding citizen.
+
+00:19:24.800 --> 00:19:25.800
+[Guest]: Absolutely.
+
+00:19:25.800 --> 00:19:26.800
+[Guest]: Let's do this.
+
+00:19:26.800 --> 00:19:27.800
+[Guest]: It's 5 o'clock somewhere in the world.
+
+00:19:27.800 --> 00:19:30.760
+[Amit Varma]: Let's start drinking now.
+
+00:19:30.760 --> 00:19:36.160
+[Amit Varma]: In this whole ecosystem of rules and regulations meant purely for the extraction of bribes
+
+00:19:36.160 --> 00:19:42.160
+[Amit Varma]: there are two unseen effects 1. the high cost of compliance is passed on to customers and
+
+00:19:42.160 --> 00:19:48.120
+[Amit Varma]: are more expensive as a result 2. many restaurants that would otherwise be marginally profitable
+
+00:19:48.120 --> 00:19:51.960
+[Amit Varma]: don't exist at all and this robs us of choice.
+
+00:19:51.960 --> 00:19:57.720
+[Amit Varma]: All in all the people who suffer are the consumers which is usually the case with most regulation
+
+00:19:57.720 --> 00:19:59.400
+[Amit Varma]: on business.
+
+00:19:59.400 --> 00:20:05.240
+[Amit Varma]: If you enjoyed this episode do hop over to the online magazine I edit Pragati at ThinkPragati.com
+
+00:20:05.240 --> 00:20:10.080
+[Amit Varma]: and search for an article written by Madhu named No Tomato Left Behind.
+
+00:20:10.080 --> 00:20:13.320
+[Amit Varma]: You can also follow Madhu on twitter at Madmanweb.
+
+00:20:13.320 --> 00:20:18.240
+[Amit Varma]: Besides being a celebrity chef and a restaurant consultant he also does magnificent food and
+
+00:20:18.240 --> 00:20:19.920
+[Amit Varma]: portrait photography.
+
+00:20:19.920 --> 00:20:23.320
+[Amit Varma]: Check out his site BigShotPhoto.in.
+
+00:20:23.320 --> 00:20:28.160
+[Amit Varma]: Also if you liked the introduction of this show the guitar was played by my intrepid
+
+00:20:28.160 --> 00:20:30.160
+[Amit Varma]: producer Josh Thomas.
+
+00:20:30.160 --> 00:20:33.960
+[Amit Varma]: We'll do more such stuff in the weeks to come.
+
+00:20:33.960 --> 00:20:43.480
+[Amit Varma]: Till next week then bye bye.
+
+00:20:43.480 --> 00:20:48.000
+[Unknown]: Next week on the seen and the unseen Amit Verma will be talking to Vivek Kaul about
+
+00:20:48.000 --> 00:20:50.640
+[Unknown]: right to education or RTE.
+
+00:20:50.640 --> 00:20:53.400
+[Unknown]: For more go to seenunseen.in.
+
+00:20:53.400 --> 00:20:58.360
+[Amit Varma]: If you enjoyed listening to the seen and the unseen check out another show by IVM podcast
+
+00:20:58.360 --> 00:21:03.540
+[Amit Varma]: Symbolified which is hosted by my good friends Naren, Chuck and Sriket.
+
+00:21:03.540 --> 00:21:30.400
+[Unknown]: You can download it on any podcasting network.
+

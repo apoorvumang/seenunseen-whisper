@@ -1,0 +1,3560 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:09.840
+[Amit Varma]: Being a writer is an act of immense arrogance. Very few people write as a means of catharsis
+
+00:00:09.840 --> 00:00:14.320
+[Amit Varma]: or self-expression. Most people who write want to be read and in their act of writing,
+
+00:00:14.320 --> 00:00:19.840
+[Amit Varma]: therefore, is a presumption that what they are writing brings value to somebody's life.
+
+00:00:19.840 --> 00:00:23.760
+[Amit Varma]: Think about it. Every time somebody reads an article written by you, they do so when they
+
+00:00:23.760 --> 00:00:27.840
+[Amit Varma]: could be doing a million other things with their time. There's an opportunity cost to their time.
+
+00:00:27.840 --> 00:00:33.280
+[Amit Varma]: Time is money. And yet you simply assume that when you write something, that is worth that time.
+
+00:00:33.840 --> 00:00:39.840
+[Amit Varma]: This is often arrogant and sometimes delusional. And it's also true of podcasting. You're listening
+
+00:00:39.840 --> 00:00:45.040
+[Amit Varma]: to me speaking right now when you could be doing so many other things. Is this worth your time?
+
+00:00:48.720 --> 00:00:53.040
+[Unknown]: Welcome to The Seen and The Unseen, our weekly podcast on economics,
+
+00:00:53.040 --> 00:00:59.280
+[Unknown]: politics and behavioral science. Please welcome your host, Amit Badma.
+
+00:00:59.280 --> 00:01:04.000
+[Amit Varma]: Welcome to The Seen and The Unseen. I'm an accidental podcaster. And when I started The
+
+00:01:04.000 --> 00:01:09.040
+[Amit Varma]: Seen and The Unseen, I assumed that at worst, I'll get laughed at. At best, I'll get ignored.
+
+00:01:09.040 --> 00:01:12.960
+[Amit Varma]: But hey, what the hell new experience? Well, I've grown to enjoy podcasting, though I've sometimes
+
+00:01:12.960 --> 00:01:17.920
+[Amit Varma]: felt that I'm doing this in a vacuum. Our numbers are decent for a podcast. But why do people listen
+
+00:01:17.920 --> 00:01:22.240
+[Amit Varma]: to this? What do they think of the show? What could I be doing better? Also, is there any way
+
+00:01:22.240 --> 00:01:27.760
+[Amit Varma]: that instead of me asking questions, once in a while, I have to answer them and tough ones at
+
+00:01:27.760 --> 00:01:34.000
+[Amit Varma]: that? I do the show in partnership with IBM podcast. We each own 50% of the show. And one
+
+00:01:34.000 --> 00:01:39.120
+[Amit Varma]: of the people who works here, Kavita Rajvare, recently mentioned that she met some people at
+
+00:01:39.120 --> 00:01:43.600
+[Amit Varma]: her music class who are regular listeners of The Seen and The Unseen. So why don't I do an episode
+
+00:01:43.600 --> 00:01:47.440
+[Amit Varma]: where I interact with them? I thought this was a good idea. It gave me a chance to see if such
+
+00:01:47.440 --> 00:01:51.840
+[Amit Varma]: people actually existed. I mean, who listens to the show, and maybe get some feedback from them.
+
+00:01:51.840 --> 00:01:58.560
+[Amit Varma]: And I could expand this into an AMA or an ask me anything. Now, conducting an AMA for myself
+
+00:01:58.560 --> 00:02:02.960
+[Amit Varma]: itself feels embarrassing because I'm not a celebrity or a man of great accomplishment.
+
+00:02:02.960 --> 00:02:07.840
+[Amit Varma]: But I spent so much time pontificating on the world that I thought it would be nice to open
+
+00:02:07.840 --> 00:02:12.560
+[Amit Varma]: myself up to questions, including difficult ones. I put out a call on Twitter and Facebook,
+
+00:02:12.560 --> 00:02:17.840
+[Amit Varma]: and my noble producer, the famous stand up comic Abbas Momin has compiled all those questions and
+
+00:02:17.840 --> 00:02:23.440
+[Amit Varma]: will shoot them at me. But before that, a warm welcome to my guests on the show, Nakul Sanpurkar
+
+00:02:23.440 --> 00:02:28.080
+[Amit Varma]: and Rachit Jain. Nakul and Rachit, welcome to the show. Thanks, Amit. Glad to be here.
+
+00:02:28.080 --> 00:02:33.040
+[Unknown]: Thanks, Amit. Glad to be here. From a listener to now, right here with you. It's great.
+
+00:02:33.040 --> 00:02:37.680
+[Amit Varma]: Right. So before you start asking, I'm just like curious how people listen to podcasts. You know,
+
+00:02:37.680 --> 00:02:42.000
+[Amit Varma]: when when I first started podcasting, the reason I called myself an accidental podcaster was
+
+00:02:42.000 --> 00:02:46.000
+[Amit Varma]: I never considered podcasting because I never listened to podcasts. I was not one of those
+
+00:02:46.000 --> 00:02:51.920
+[Amit Varma]: people who would listen to podcasts. And so it was it was completely new for me. And of course,
+
+00:02:51.920 --> 00:02:56.880
+[Amit Varma]: since I've started podcasting, I listen a lot. But do you guys listen to podcasts a lot, Nakul?
+
+00:02:57.520 --> 00:03:02.480
+[Unknown]: Yeah, actually, this is I was introduced to podcasts by my brother in the US. When I went
+
+00:03:02.480 --> 00:03:08.080
+[Unknown]: to visit him, I would see him, you know, listening to podcasts on his commute a lot.
+
+00:03:08.080 --> 00:03:13.360
+[Unknown]: And that's when I got hooked on to those podcasts. And next thing you know, I've come back to India,
+
+00:03:13.360 --> 00:03:18.080
+[Unknown]: I'm listening to those podcasts and looking for, you know, podcasts based in India on Indian issues
+
+00:03:18.080 --> 00:03:22.800
+[Unknown]: on Indian things. And so that's when I was introduced to IBM and seen and unseen. And
+
+00:03:22.800 --> 00:03:27.360
+[Unknown]: that's when I became a regular listener. So for me, it was more like I had been listening
+
+00:03:27.360 --> 00:03:32.400
+[Unknown]: to podcasts on and off for the last two, three years, but largely centric to comedy,
+
+00:03:32.400 --> 00:03:38.320
+[Unknown]: where you know, comedians do do a podcast, a lot of varied stuff, etc. But I guess with respect to
+
+00:03:38.320 --> 00:03:44.320
+[Unknown]: IBM and CNN, Nakul is the one who introduced a lot of us to it. And yeah, but in terms of
+
+00:03:44.320 --> 00:03:50.480
+[Unknown]: consumption, it's more or less on our way to work. I was fed up of listening to music, how much more
+
+00:03:50.480 --> 00:03:55.920
+[Unknown]: music can listen to all day, right? So podcast is like a breath of fresh air coming in while you're
+
+00:03:55.920 --> 00:03:59.520
+[Unknown]: on your way to work or going back. It's the best utilization of time I can do.
+
+00:04:00.320 --> 00:04:04.960
+[Amit Varma]: Right. So I'm just delaying the inevitable. You guys have some tough questions for me. Shoot.
+
+00:04:04.960 --> 00:04:12.320
+[Unknown]: So, since I'm a regular listener here, I've always seen that, you know, we've most of the
+
+00:04:12.320 --> 00:04:19.200
+[Unknown]: episodes are focused on the bad, quote unquote, policymaking or decisions that governments have
+
+00:04:19.200 --> 00:04:25.200
+[Unknown]: taken, you know, like demonetization or jobs or pakoda now makes etc. So what do you think has
+
+00:04:25.200 --> 00:04:29.280
+[Unknown]: been a good policy decision by any previous government? And what do you think have been the
+
+00:04:30.160 --> 00:04:33.680
+[Amit Varma]: seen and the unseen benefits of those? Okay, that's a great question. I'll
+
+00:04:33.680 --> 00:04:37.520
+[Amit Varma]: have to actually think a bit for that. We are going in cold. So I haven't seen these questions
+
+00:04:37.520 --> 00:04:43.360
+[Amit Varma]: before. I think, firstly, the reason I tend to focus on, and everybody, in fact, tends to focus
+
+00:04:43.360 --> 00:04:46.960
+[Amit Varma]: on policies which have a negative effect is those negative effects are unseen. And therefore, you
+
+00:04:46.960 --> 00:04:51.520
+[Amit Varma]: feel a sort of a duty to point out that no, hey, this looks good. This has great intentions. But
+
+00:04:51.520 --> 00:05:01.440
+[Amit Varma]: these are the kind of effects it can have. As for having good effects. I would say that I can't
+
+00:05:01.440 --> 00:05:04.880
+[Amit Varma]: think of something offhand and you've studied public policy. So maybe you can help me. But
+
+00:05:04.880 --> 00:05:10.560
+[Amit Varma]: anything that I think, increases freedom, increases economic freedom, or increases personal freedoms
+
+00:05:10.560 --> 00:05:17.920
+[Amit Varma]: for that matter, will inevitably have good effects, which are often hard to quantify. I mean, okay,
+
+00:05:17.920 --> 00:05:23.120
+[Amit Varma]: here's an easy quantification, which people often give you look at the different fates of Eastern
+
+00:05:23.120 --> 00:05:28.400
+[Amit Varma]: West Germany, when they chose a different baskets of public policy that they chose at the separation
+
+00:05:28.400 --> 00:05:33.280
+[Amit Varma]: and ditto North and South Korea, they chose consciously to go in different directions and
+
+00:05:33.280 --> 00:05:37.280
+[Amit Varma]: follow different kinds of policies. And you saw the impact of what economic freedom did
+
+00:05:37.280 --> 00:05:43.040
+[Amit Varma]: in West Germany and South Korea, and the ravages that were brought upon the people of East Germany
+
+00:05:43.040 --> 00:05:46.560
+[Amit Varma]: and North Korea as a result of their taking the wrong direction. So I guess that's one example.
+
+00:05:47.440 --> 00:05:51.600
+[Amit Varma]: While this episode goes on, if I think of something, I'll bring it up. But
+
+00:05:52.480 --> 00:05:57.120
+[Amit Varma]: yeah, I mean, this one tends to keep focusing on all the things government does wrong,
+
+00:05:57.120 --> 00:05:59.680
+[Amit Varma]: because it does so much wrong. Yeah, absolutely.
+
+00:06:00.960 --> 00:06:06.800
+[Unknown]: So yeah, my question comes out of a recent Pragati podcast, which was related to podcasts
+
+00:06:06.800 --> 00:06:11.760
+[Unknown]: itself, right? About how this entire issue of, you know, discoverability is there. Podcasts are not
+
+00:06:11.760 --> 00:06:16.960
+[Unknown]: so big in India right now. And as a alternative content source, it's still very, very low,
+
+00:06:16.960 --> 00:06:22.240
+[Unknown]: right? People listen to music, videos, etc. So what is your take on that in terms of, you know,
+
+00:06:22.240 --> 00:06:27.600
+[Unknown]: we obviously far lagging behind in terms of the indicators in the US for that. But what will
+
+00:06:27.600 --> 00:06:33.840
+[Unknown]: it require in India to change that, you know, behavioral shift for consuming podcasts as an
+
+00:06:33.840 --> 00:06:38.240
+[Amit Varma]: alternative platform? Great question. I should tell those of my listeners who are wondering
+
+00:06:38.240 --> 00:06:42.560
+[Amit Varma]: what Rachit is referring to. This is an episode of the Pragati podcast, which is a great show hosted
+
+00:06:42.560 --> 00:06:47.840
+[Amit Varma]: by Pawan Srinath and Hamsini Harihar and my colleagues at Pragati. And they spoke to Amit
+
+00:06:47.840 --> 00:06:53.760
+[Amit Varma]: Doshi of IBM podcast. And it's a very enlightening conversation. So just check that out either on
+
+00:06:53.760 --> 00:06:58.720
+[Amit Varma]: the IBM app or on thinkpragati.com. But to answer your question, I think here's the thing. India
+
+00:06:58.720 --> 00:07:04.800
+[Amit Varma]: doesn't have a culture of talk radio, that much is, which is why even I was very skeptical of
+
+00:07:04.800 --> 00:07:10.240
+[Amit Varma]: podcasts. You know, I was an early blogger, 1516 years ago, but I was not an early podcaster,
+
+00:07:10.240 --> 00:07:14.400
+[Amit Varma]: because I thought Kon sunta hai. And I assumed that that's a cultural thing that talk radio is
+
+00:07:14.400 --> 00:07:19.120
+[Amit Varma]: big in the US and whatever, but in India, it simply isn't. Now, Amit, when he was, Amit Doshi,
+
+00:07:19.120 --> 00:07:25.120
+[Amit Varma]: when he was trying to convince me to do this show, or to do a show with him, his spiel to me was that
+
+00:07:25.120 --> 00:07:30.400
+[Amit Varma]: look, research has shown across the world, across cultures, 30% of the people who listen to audio
+
+00:07:30.400 --> 00:07:36.080
+[Amit Varma]: content prefer talk to music, 30%. And because these are findings from across the world and
+
+00:07:36.080 --> 00:07:40.800
+[Amit Varma]: across cultures, that means that there's something hardwired, that a certain number of us just
+
+00:07:40.800 --> 00:07:47.360
+[Amit Varma]: prefer talk to music, which is and 30% doesn't seem like much, but 30% of a lot of people is a
+
+00:07:47.360 --> 00:07:54.560
+[Amit Varma]: lot. And so therefore, then that raises a question, why hasn't talk taken off in India. And one reason
+
+00:07:54.560 --> 00:07:59.600
+[Amit Varma]: for this is that there's just been a vicious cycle, where no one's tried to supply it. And
+
+00:07:59.600 --> 00:08:03.360
+[Amit Varma]: therefore, there haven't been listeners. And because there haven't been listeners, no one's
+
+00:08:03.360 --> 00:08:09.520
+[Amit Varma]: tried to supply it. And what I think IBM podcast is doing with Amit and so on is trying to break
+
+00:08:09.520 --> 00:08:15.280
+[Amit Varma]: that and saying that no, you know, screw what the numbers are right now. I'm going to try and give
+
+00:08:15.280 --> 00:08:22.000
+[Amit Varma]: you great audio content with all these variety of different shows. And, and let's build an audience
+
+00:08:22.000 --> 00:08:26.560
+[Amit Varma]: and basically try to break that vicious circle and turn it into a virtuous circle, right? So people
+
+00:08:26.560 --> 00:08:32.400
+[Unknown]: just just to add on there. So for you personally, then, you know, let's say Amit Doshi is doing a
+
+00:08:32.400 --> 00:08:35.920
+[Unknown]: fantastic job, obviously bringing content to all of us. But for you personally, you know,
+
+00:08:35.920 --> 00:08:40.880
+[Unknown]: you spoke about opportunity cost, right? For you as well, you could be writing another, you know,
+
+00:08:40.880 --> 00:08:44.960
+[Unknown]: column somewhere, or you know, you can be writing another book and devoting your time towards that.
+
+00:08:44.960 --> 00:08:49.840
+[Unknown]: What made you, you know, say you said that, you know, one of the factors was this entire data,
+
+00:08:49.840 --> 00:08:54.000
+[Unknown]: which you had in front of you that, you know, people will listen, but to get into the industry
+
+00:08:54.000 --> 00:08:58.720
+[Amit Varma]: at such a nascent stage, what made you do that? Right. So like I said, I was an accidental
+
+00:08:58.720 --> 00:09:02.560
+[Amit Varma]: podcaster. So what really happened was, there's a very, very close friend of mine, a dear friend
+
+00:09:02.560 --> 00:09:07.280
+[Amit Varma]: of mine called Naren Shannoy. And Naren Shannoy hosts a show called Simplified with Deepak
+
+00:09:07.280 --> 00:09:11.440
+[Amit Varma]: Gopalakrishnan. Right now, they have a third co host, but it was a two of them when they started.
+
+00:09:11.440 --> 00:09:16.000
+[Amit Varma]: And they started on their own, they weren't with IBM. And one day, one of them put up something
+
+00:09:16.000 --> 00:09:19.760
+[Amit Varma]: on Facebook saying that, hey, we've joined up with IBM, and we are doing this and all that.
+
+00:09:19.760 --> 00:09:24.560
+[Amit Varma]: And I just put a note of congratulations, at which point Amit replied to my comment, Amit Doshi,
+
+00:09:24.560 --> 00:09:28.000
+[Amit Varma]: and said that, you know, a few months ago, I approached you and said, would you be interested
+
+00:09:28.000 --> 00:09:32.560
+[Amit Varma]: in a podcast? And you said, No, you think you'd be interested now. And I absolutely didn't remember
+
+00:09:32.560 --> 00:09:36.320
+[Amit Varma]: anyone approaching me. But my attitude towards podcasts was very condescending, like who the
+
+00:09:36.320 --> 00:09:40.960
+[Amit Varma]: hell is trying to listen, screw this. So, so I said, Yeah, okay, let's talk. And we met up and
+
+00:09:40.960 --> 00:09:46.080
+[Amit Varma]: all that. And I told him that one idea I had for a TV show at this time was a scene in the unseen.
+
+00:09:46.080 --> 00:09:49.840
+[Amit Varma]: The scene in the unseen, by the way, is based on a famous essay by Frederick Bastia,
+
+00:09:49.840 --> 00:09:54.800
+[Amit Varma]: that which is seen and that which is not seen, where he talks about a particular public policy
+
+00:09:54.800 --> 00:09:58.800
+[Amit Varma]: and why everyone praises it, but you need to look at the unseen effects. So I thought that's a great
+
+00:09:59.680 --> 00:10:04.880
+[Amit Varma]: sort of framework to look at the whole world by. Like Henry Hazlitt wrote a great book a few
+
+00:10:04.880 --> 00:10:08.800
+[Amit Varma]: decades ago called economics in one lesson, which just looked at different aspects of the economy
+
+00:10:08.800 --> 00:10:12.880
+[Amit Varma]: through this framework. So I said, Look, here's an idea I had for TV. And he said, Why don't you
+
+00:10:12.880 --> 00:10:16.720
+[Amit Varma]: do a podcast? And I said, Okay, and here's the thing, when you speak of opportunity cost,
+
+00:10:18.640 --> 00:10:23.520
+[Amit Varma]: for me to do a TV show out of this would actually take a lot of coordination and a lot of money,
+
+00:10:23.520 --> 00:10:27.680
+[Amit Varma]: because who's going to do it? Where do you put together the thing? How do I look on camera?
+
+00:10:27.680 --> 00:10:33.920
+[Amit Varma]: You know, I tell people I have a classic podcaster's face. So, but on the other hand,
+
+00:10:34.640 --> 00:10:38.160
+[Amit Varma]: after the first few episodes, where you'll see that I'm a little self conscious, and I'm trying
+
+00:10:38.160 --> 00:10:42.800
+[Amit Varma]: all kinds of things. After that one sort of settles down into a groove and you start having
+
+00:10:42.800 --> 00:10:48.960
+[Amit Varma]: great conversations and sort of learning from it. So it was kind of accidental and like like
+
+00:10:48.960 --> 00:10:52.640
+[Amit Varma]: most things in life, you know, most things in life aren't things you decide to do, they just
+
+00:10:52.640 --> 00:11:01.280
+[Unknown]: happen. Yes, absolutely. So Amit, so you've kept your podcast very India focused, you know,
+
+00:11:01.280 --> 00:11:05.680
+[Unknown]: issues that plague the Indian people. I mean, I deeply appreciate it. And I really want to
+
+00:11:05.680 --> 00:11:11.360
+[Unknown]: listen to a podcast on those. But so if you want to cover any political scenarios or any policy
+
+00:11:11.360 --> 00:11:16.160
+[Unknown]: making issues on a global scale in different countries, you know, what topics would you
+
+00:11:16.160 --> 00:11:21.680
+[Amit Varma]: have liked covered? Yeah, I'm actually I've always intended not to keep it to India,
+
+00:11:21.680 --> 00:11:26.320
+[Amit Varma]: but every few episodes do something with an international guest. And the thing is,
+
+00:11:26.320 --> 00:11:31.440
+[Amit Varma]: I simply have been lazy about reaching out to them and doing it right. So Alex Tabarrok was here in
+
+00:11:31.440 --> 00:11:36.240
+[Amit Varma]: Bombay for a while. Okay, so we met up and I got him here and I did a couple of episodes with him.
+
+00:11:36.240 --> 00:11:40.800
+[Amit Varma]: So there are tons of people I want to reach out to, and kind of beg them to be a guest on my
+
+00:11:40.800 --> 00:11:48.480
+[Amit Varma]: podcast. But I haven't really gotten down to it. I'd love to, for example, if you ask me who are
+
+00:11:48.480 --> 00:11:54.880
+[Amit Varma]: sort of dream guests and dream subjects, I'd love to talk to Sam Harris about free will. Okay, I
+
+00:11:54.880 --> 00:12:00.880
+[Amit Varma]: don't believe in free will either. I think my, but I have certain nuances in the way I look at it.
+
+00:12:01.520 --> 00:12:04.400
+[Amit Varma]: So that would be an interesting... That's the libertarian in you picking out.
+
+00:12:08.000 --> 00:12:14.480
+[Amit Varma]: Yeah, so and a bunch of economists, I mean, just speak about, like, every time I read a fascinating
+
+00:12:14.480 --> 00:12:17.920
+[Amit Varma]: book, I think, hey, I should speak to this person. Like, I keep thinking I should write to Philip
+
+00:12:17.920 --> 00:12:22.080
+[Amit Varma]: Tetlock and, you know, ask him to be on the show because I loved his book, Super Forecasting. I
+
+00:12:22.080 --> 00:12:24.960
+[Amit Varma]: thought that's one of the best books I read in recent times. And a lot of the conclusions of
+
+00:12:24.960 --> 00:12:30.400
+[Amit Varma]: that book also tied in very nicely with things that I learned in my years as a professional
+
+00:12:30.400 --> 00:12:36.320
+[Amit Varma]: poker player, which I was. And that was very fascinating. But I've just been bloody lazy. And,
+
+00:12:37.040 --> 00:12:40.720
+[Amit Varma]: you know, so at some point, I'll get over that. But I think like you said, I think one of the
+
+00:12:40.720 --> 00:12:44.640
+[Amit Varma]: reasons people listen to this is that if you're listening to international podcasts, there are
+
+00:12:44.640 --> 00:12:48.800
+[Amit Varma]: like thousands of them, but Indian there are very few. Yes, absolutely. So, you know, keep the main
+
+00:12:48.800 --> 00:12:52.800
+[Amit Varma]: focus Indian. But once in a while, if I do an international one, I'd love to if anyone agrees
+
+00:12:52.800 --> 00:12:56.800
+[Unknown]: to come on the show. Nice. And I guess it's great that you played poker, because we got to listen
+
+00:12:56.800 --> 00:13:02.240
+[Unknown]: to the episode, which is quite fantastic. Thanks. Yeah, coming from a financial services background.
+
+00:13:02.240 --> 00:13:05.920
+[Unknown]: Right. Yeah. A lot of people I recommended the episode to also quite like that.
+
+00:13:05.920 --> 00:13:10.400
+[Amit Varma]: Well, thanks so much. I mean, all credit to my guest, Mohit Satyanand, who is a man of immense
+
+00:13:10.400 --> 00:13:15.360
+[Unknown]: wisdom. Yeah. As a listener, as someone who maybe started listening to this podcast for the first
+
+00:13:15.360 --> 00:13:20.800
+[Unknown]: time and is now, you know, now his eyes are opened to new ideas that, hey, these are the unseen
+
+00:13:20.800 --> 00:13:27.440
+[Unknown]: effects of so-and-so policy or so-and-so decisions. So as a listener to these things, so how can I,
+
+00:13:27.440 --> 00:13:31.680
+[Unknown]: how can a layman contribute, you know, to the political system or to policymaking in any way,
+
+00:13:31.680 --> 00:13:35.200
+[Unknown]: just as a singer, other than, of course, voting for the right people? What other things do you
+
+00:13:35.200 --> 00:13:40.560
+[Unknown]: think any, any person who's interested in this can do to effect change other than maybe start
+
+00:13:40.560 --> 00:13:46.320
+[Amit Varma]: his own podcast? Yeah, I mean, I think the key thing here is that it's not just about specific
+
+00:13:46.320 --> 00:13:50.400
+[Amit Varma]: policies, like, yeh policy achha hai, yeh policy bura hai. It's more about a framework of looking
+
+00:13:50.400 --> 00:13:54.640
+[Amit Varma]: at the world and about certain values that are within those framework, like, you know,
+
+00:13:54.640 --> 00:13:58.320
+[Amit Varma]: individual freedom is a good thing. We need to protect individual rights and so on and so forth.
+
+00:13:59.120 --> 00:14:03.120
+[Amit Varma]: And my great lament is that those ideas are not in the culture, that a few English speaking
+
+00:14:03.120 --> 00:14:07.440
+[Amit Varma]: elites like myself, and because you're listening to the show, like yourself may agree with them or
+
+00:14:07.440 --> 00:14:11.360
+[Amit Varma]: engage with them, but they're absolutely not out in the culture. So in the culture,
+
+00:14:11.360 --> 00:14:16.000
+[Amit Varma]: for example, there is widespread support for the notion that free speech should be restricted.
+
+00:14:16.800 --> 00:14:18.800
+[Amit Varma]: You know, there's widespread support for the notion that
+
+00:14:20.880 --> 00:14:26.640
+[Amit Varma]: you should not offend anybody and, and various other things which we would disagree with. Yes.
+
+00:14:26.640 --> 00:14:33.440
+[Amit Varma]: So what I keep, you know, a lot of people who think about policy, look at it as a political
+
+00:14:33.440 --> 00:14:38.960
+[Amit Varma]: battle, that okay, we are doing policy advocacy, and we have to convince politicians and bureaucrats
+
+00:14:38.960 --> 00:14:43.680
+[Amit Varma]: and so on to change their policies and whatever. And I've always and I've come to the conclusion,
+
+00:14:43.680 --> 00:14:48.480
+[Amit Varma]: I didn't always believe like this, but I keep, I've sort of come to the conclusion that this is
+
+00:14:48.480 --> 00:14:53.680
+[Amit Varma]: not about change is not going to happen politically. Change first has to happen culturally.
+
+00:14:53.680 --> 00:14:58.400
+[Amit Varma]: Like, for example, one big reason of the great success of the alt-right in the US
+
+00:14:58.400 --> 00:15:01.440
+[Amit Varma]: was their recognition of this, like Andrew Breitbart, who founded Breitbart,
+
+00:15:02.240 --> 00:15:07.360
+[Amit Varma]: and who died a few years ago, he once said, and this is something I don't stop quoting,
+
+00:15:07.360 --> 00:15:15.040
+[Amit Varma]: that politics is downstream of culture. Okay. And, and, and what that indicates is that if you want
+
+00:15:15.040 --> 00:15:20.880
+[Amit Varma]: to change politics, you have to change culture. And none of us can personally really do much
+
+00:15:20.880 --> 00:15:26.240
+[Amit Varma]: about changing politics. All of us can contribute to changing culture in our own really little ways.
+
+00:15:26.240 --> 00:15:30.160
+[Amit Varma]: But to be frank, we are just individuals. And it seems futile. And what do you do when your
+
+00:15:30.160 --> 00:15:40.480
+[Amit Varma]: family WhatsApp group with 10 uncles telling you Modiji is great. But, yeah, so I mean, yeah,
+
+00:15:40.480 --> 00:15:48.800
+[Unknown]: that's, that's coming to coming, you know, taking off from Modiji is great. You spoke about this
+
+00:15:48.800 --> 00:15:55.440
+[Unknown]: entire mindset of the Indian voter to not let his vote go to waste. Right. And, but your view was
+
+00:15:55.440 --> 00:15:59.600
+[Unknown]: that, you know, you should rather vote for the individual who's there in your constituency,
+
+00:15:59.600 --> 00:16:04.240
+[Unknown]: correct me if I'm wrong there, and not look at, you know, my vote is going to waste because
+
+00:16:05.120 --> 00:16:09.760
+[Unknown]: I should vote for Modiji because the world is doing so, or India is doing so. And hence I should
+
+00:16:09.760 --> 00:16:16.160
+[Unknown]: vote for the BJP, you know, MLA or MP from my area. Right. So how do you really come into,
+
+00:16:16.160 --> 00:16:20.320
+[Unknown]: you know, affecting that cultural change? So what do you change on ground to make that happen?
+
+00:16:20.960 --> 00:16:26.480
+[Unknown]: Because to make people vote more, to make people vote more, no, but to make people vote or think
+
+00:16:26.480 --> 00:16:32.080
+[Unknown]: about, you know, not thinking about the larger picture first, but starting from bottom up and
+
+00:16:32.080 --> 00:16:37.200
+[Amit Varma]: me voting for my guy first. Yeah. So it's, it's, it's complicated. And there are a number of
+
+00:16:37.200 --> 00:16:42.560
+[Amit Varma]: questions within that question you asked. Uh, the first aspect that you look at is that local
+
+00:16:42.560 --> 00:16:46.800
+[Amit Varma]: government in India is not very strong. Now, ideally, what should happen is that power should
+
+00:16:46.800 --> 00:16:52.240
+[Amit Varma]: be devolved from the centre to the state, to the city, to the ward and all that. So local government
+
+00:16:52.240 --> 00:16:56.240
+[Amit Varma]: actually matters. If somebody isn't collecting garbage outside your thing, your vote can make
+
+00:16:56.240 --> 00:17:00.080
+[Amit Varma]: a difference. Now, actually, your vote can't make a difference. And we had a I had a very
+
+00:17:00.080 --> 00:17:04.640
+[Amit Varma]: interesting episode of the scene in the unseen on this with Shruti Rajgopalan on urban governance.
+
+00:17:05.680 --> 00:17:10.320
+[Amit Varma]: And the key point she made there, which is something a lot of people don't realise about
+
+00:17:10.320 --> 00:17:15.520
+[Amit Varma]: the cities, or they do, which is why the apathetic is that there is a disconnect between power and
+
+00:17:15.520 --> 00:17:22.480
+[Amit Varma]: accountability at the local government level. So what happens is that you have as a, you know,
+
+00:17:22.480 --> 00:17:26.880
+[Amit Varma]: who is accountable to you, your corporators and all are accountable to you, they need your vote,
+
+00:17:26.880 --> 00:17:30.320
+[Amit Varma]: but do they have the power, they don't really have any power to do anything, they don't really
+
+00:17:30.320 --> 00:17:37.040
+[Amit Varma]: take any big decisions, flyover, they don't, who has the power, the state legislature has a power,
+
+00:17:37.040 --> 00:17:40.960
+[Amit Varma]: because it's not devolved further. So the real power is with the state legislature.
+
+00:17:40.960 --> 00:17:45.120
+[Amit Varma]: And they're not accountable to you. They're not accountable to urban voters. If you think about
+
+00:17:45.120 --> 00:17:52.000
+[Amit Varma]: it in practice, in the Maharashtra government, they're all the vote banks are rural vote banks,
+
+00:17:52.000 --> 00:17:58.560
+[Amit Varma]: Mumbai per se doesn't really make a difference to that. So they can afford to ignore the urban vote
+
+00:17:58.560 --> 00:18:06.880
+[Amit Varma]: and just pander to whatever different rural vote banks they might want to pander to. And which is
+
+00:18:06.880 --> 00:18:11.200
+[Amit Varma]: you know, a government job is at the end of the day to all its people. So I'm not saying that you
+
+00:18:11.200 --> 00:18:16.160
+[Amit Varma]: should give a special, special privileges to urban voters, just because you've got more taxes coming
+
+00:18:16.160 --> 00:18:20.800
+[Amit Varma]: out of Mumbai. That's not my point at all. My point is that government should be so localized,
+
+00:18:20.800 --> 00:18:26.400
+[Amit Varma]: that there are that people who have power over you should be accountable to you. And in practice,
+
+00:18:26.400 --> 00:18:30.640
+[Amit Varma]: that's not really the case. And I think that's the reason why people become so apathetic,
+
+00:18:30.640 --> 00:18:35.280
+[Amit Varma]: because they realize that look, you know, fine, we're a democracy, but I can't really hold anybody
+
+00:18:35.280 --> 00:18:40.720
+[Amit Varma]: accountable. Right? Because especially at a local government level. The other facet of this is the
+
+00:18:40.720 --> 00:18:46.880
+[Amit Varma]: fact that every voter knows, you know, you might tell people it's your duty to vote and so on. But
+
+00:18:46.880 --> 00:18:52.000
+[Amit Varma]: every voter knows that his one vote is not going to decide an election. Right? Yeah. Right. There's
+
+00:18:52.000 --> 00:18:55.840
+[Amit Varma]: a funny story about this, by the way, in some local election somewhere in the north, some guy
+
+00:18:55.840 --> 00:19:02.640
+[Amit Varma]: actually said this that he lost by one vote and his wife hadn't gone and voted. So I can't imagine
+
+00:19:02.640 --> 00:19:07.520
+[Amit Varma]: that their family dinners were much fun after that. But yeah, so I think most people have the
+
+00:19:07.520 --> 00:19:12.880
+[Amit Varma]: added have the attitude that what difference is my vote going to make? The system is rigged. And
+
+00:19:12.880 --> 00:19:17.520
+[Amit Varma]: also one of the questions which comes up in the in the Ask Me Anything section, which Abbas will
+
+00:19:17.520 --> 00:19:21.280
+[Amit Varma]: take us through at the end, and I'll repeat the question then and name the person to give you
+
+00:19:21.280 --> 00:19:29.440
+[Amit Varma]: credit. But I think one of the questions was, look at all my options. Why should I vote? Look
+
+00:19:29.440 --> 00:19:35.360
+[Amit Varma]: at all you know, and there are two ways of looking at it. One way of looking at it is that you vote
+
+00:19:35.360 --> 00:19:40.320
+[Amit Varma]: for the person who is the least bad. So a lot of people today will say that, okay, look what
+
+00:19:40.320 --> 00:19:44.640
+[Amit Varma]: Modiji is doing to the country, which is absolutely true. And therefore you vote for whatever you
+
+00:19:44.640 --> 00:19:50.080
+[Amit Varma]: think is the most viable alternative. Right? So that is one way of looking at it. And I'm leaning
+
+00:19:50.080 --> 00:19:55.680
+[Amit Varma]: towards that. But my way of looking at it, which is slightly different is that I won't vote. And
+
+00:19:55.680 --> 00:20:00.240
+[Amit Varma]: here's the reason why. I won't vote because if you look at the political marketplace as a
+
+00:20:00.240 --> 00:20:06.800
+[Amit Varma]: marketplace, now think of I go to a mall to buy a shirt. Okay. They're all crappy shirts. I buy the
+
+00:20:06.800 --> 00:20:12.320
+[Unknown]: least crappy shirt. Right? Right. Yeah, I've got a crappy shirt. But if I don't buy a shirt, what
+
+00:20:12.320 --> 00:20:17.440
+[Amit Varma]: does that do? Because those sales aren't happening, that sends a signal to the marketplace that there
+
+00:20:17.440 --> 00:20:22.480
+[Amit Varma]: is a market for shirts. And somebody some entrepreneur, the other will then make different
+
+00:20:22.480 --> 00:20:27.200
+[Amit Varma]: shirts, which I might like. So similarly, in the political marketplace, it's a marketplace voting
+
+00:20:27.200 --> 00:20:32.480
+[Amit Varma]: is, it's a privilege, but it's not a duty. If you don't like any of the products, by not voting,
+
+00:20:32.480 --> 00:20:37.040
+[Amit Varma]: you send a message to political entrepreneurs, that X percent of the people haven't voted.
+
+00:20:37.680 --> 00:20:43.040
+[Amit Varma]: And and therefore there is a market there. And I actually know people who go thinking like this
+
+00:20:43.040 --> 00:20:47.280
+[Amit Varma]: right now and are working on it. And I'm sure this was part of the reason why, for example,
+
+00:20:47.280 --> 00:20:52.560
+[Amit Varma]: Kejriwal and gang, I'm not a big fan of the man, but a talented political entrepreneur, and he came
+
+00:20:52.560 --> 00:20:57.360
+[Amit Varma]: up and he won power because he obviously saw that apathy, where does that apathy reflect itself in
+
+00:20:57.360 --> 00:21:02.080
+[Amit Varma]: the percentage of people who are not voting. So even by not voting, you're sending a signal to
+
+00:21:02.080 --> 00:21:07.440
+[Amit Varma]: the marketplace, which might be important. Now, I'm very conflicted, because many close friends
+
+00:21:07.440 --> 00:21:11.920
+[Amit Varma]: of mine have been trying to convince me that no, you're wrong, that you think you're sending a
+
+00:21:11.920 --> 00:21:15.920
+[Amit Varma]: signal to the marketplace, but there may be no marketplace, we are going towards despotism,
+
+00:21:15.920 --> 00:21:19.680
+[Amit Varma]: and we need to do something now, and it's an emergency, and so on and so forth.
+
+00:21:20.960 --> 00:21:24.400
+[Amit Varma]: So to be honest, I'm conflicted between these two points of view, that should you vote for
+
+00:21:24.400 --> 00:21:27.120
+[Amit Varma]: whatever is the least bad option, or should you not vote at all?
+
+00:21:27.120 --> 00:21:31.440
+[Unknown]: And just a simple counter to, I was just thinking out loud, that you said, you know, you will,
+
+00:21:31.440 --> 00:21:37.200
+[Unknown]: you will express your sort of dissatisfaction by not voting. But say, how is any politician or
+
+00:21:37.200 --> 00:21:41.440
+[Unknown]: anybody actually able to differentiate that suppose 30% people have not voted in the next election?
+
+00:21:41.440 --> 00:21:46.960
+[Unknown]: So how can you say that this 30 people have not have chosen to not vote or have just sat in their
+
+00:21:46.960 --> 00:21:50.800
+[Unknown]: homes and said, this country is not going to win. So yeah, those are two very different things,
+
+00:21:50.800 --> 00:21:55.120
+[Unknown]: right? Right, right. I'm busy and I'm not not voting, for example, and you're sitting in your
+
+00:21:55.120 --> 00:21:58.880
+[Unknown]: home and saying, I'm not going to vote. Like, it's a choice.
+
+00:21:58.880 --> 00:22:05.680
+[Amit Varma]: Yeah, but but it, no, I, I think in terms of actions, I think it's actually the same thing.
+
+00:22:05.680 --> 00:22:10.880
+[Amit Varma]: It's it's whether I vote from this conscious sort of rational process that I have, whether I
+
+00:22:10.880 --> 00:22:15.200
+[Amit Varma]: refrain from voting for that reason, or whether I just don't give a shit about politics. And I'm
+
+00:22:15.200 --> 00:22:20.880
+[Amit Varma]: doing my thing. It's actually the same thing, it indicates that you don't care for the options out
+
+00:22:20.880 --> 00:22:27.680
+[Amit Varma]: there. And therefore, there is an opening that you might, you know, care for that somebody might want
+
+00:22:27.680 --> 00:22:31.600
+[Amit Varma]: to provide an option. And you know, if you eventually have those kinds of figures, and I've
+
+00:22:31.600 --> 00:22:36.480
+[Amit Varma]: actually sat with a political entrepreneur who is thinking or was thinking of launching his own
+
+00:22:36.480 --> 00:22:42.000
+[Amit Varma]: party. And he went through constituency wise figures of how many people haven't voted in
+
+00:22:42.000 --> 00:22:47.280
+[Amit Varma]: each district and broke it down and spoke about where he thinks his niche might be and whatever.
+
+00:22:47.280 --> 00:22:51.200
+[Amit Varma]: And that's just one person I have access to. I'm sure across the country there are
+
+00:22:52.080 --> 00:22:56.480
+[Amit Varma]: and this is a common lament all of us have, ki vote karo to kisk ke liye vote karo.
+
+00:22:56.480 --> 00:23:00.480
+[Amit Varma]: Surely some entrepreneur is going to come out of somewhere and try to capitalize on that, right?
+
+00:23:00.480 --> 00:23:02.320
+[Amit Varma]: Keshival did, for example.
+
+00:23:02.320 --> 00:23:05.280
+[Unknown]: I think I think this topic deserves a podcast episode of its own.
+
+00:23:05.280 --> 00:23:07.520
+[Amit Varma]: A full podcast. Do you have any guests you'd recommend?
+
+00:23:08.480 --> 00:23:09.440
+[Amit Varma]: I'm serious.
+
+00:23:09.440 --> 00:23:09.920
+[Unknown]: Not really.
+
+00:23:11.360 --> 00:23:14.960
+[Unknown]: So this also partly answers another, I was just going through the AMA
+
+00:23:15.760 --> 00:23:18.960
+[Unknown]: post on Twitter. And someone's just asked about, you know, what are the advantages,
+
+00:23:18.960 --> 00:23:20.960
+[Unknown]: disadvantages, etc. of having a nota.
+
+00:23:20.960 --> 00:23:25.200
+[Amit Varma]: Yeah, see, I think that the nota is like, if you really have,
+
+00:23:25.200 --> 00:23:28.800
+[Amit Varma]: like your time is no opportunity cost, you've got fucking nothing to do,
+
+00:23:28.800 --> 00:23:32.800
+[Amit Varma]: then you go and vote nota. Because to me, a non vote and a vote for nota is the same thing.
+
+00:23:32.800 --> 00:23:35.840
+[Unknown]: To me, by the logic I just gave now.
+
+00:23:36.560 --> 00:23:39.600
+[Amit Varma]: So what's the point of voting nota? Why go all the way there and,
+
+00:23:39.600 --> 00:23:43.680
+[Amit Varma]: you know, just, just vote nota. Either you vote for someone or you don't vote at all,
+
+00:23:43.680 --> 00:23:46.560
+[Amit Varma]: which is sending the same message for less effort, you know?
+
+00:23:46.560 --> 00:23:49.120
+[Unknown]: But isn't that a stronger signal then?
+
+00:23:49.120 --> 00:23:54.000
+[Unknown]: Okay, fine, people are coming out and saying nota rather than just as Nakul was just pointing out.
+
+00:23:54.000 --> 00:23:57.120
+[Unknown]: And I have a that, you know, you might just be laid back, relaxed and not
+
+00:23:57.120 --> 00:24:01.200
+[Unknown]: give too much too many fucks about, you know, going there because I'm happy.
+
+00:24:01.200 --> 00:24:04.480
+[Unknown]: I don't care who's there at the, at the center right now.
+
+00:24:05.040 --> 00:24:05.760
+[Amit Varma]: I'm indifferent.
+
+00:24:05.760 --> 00:24:08.880
+[Amit Varma]: I think that would be true if the nota percentage could be significant.
+
+00:24:08.880 --> 00:24:13.200
+[Amit Varma]: Like one of my friends campaigned for nota in the recent Mumbai municipal elections.
+
+00:24:13.200 --> 00:24:15.840
+[Amit Varma]: And I think he spent a lot of money doing it.
+
+00:24:15.840 --> 00:24:17.280
+[Amit Varma]: Though I used to keep telling him that, you know,
+
+00:24:17.280 --> 00:24:19.360
+[Amit Varma]: you should have a fricking product for a political campaign.
+
+00:24:19.360 --> 00:24:21.040
+[Amit Varma]: Why are you campaigning for fricking nota?
+
+00:24:21.040 --> 00:24:23.040
+[Amit Varma]: I think he got the percent off from one to two.
+
+00:24:23.040 --> 00:24:23.760
+[Amit Varma]: Wow.
+
+00:24:23.760 --> 00:24:26.720
+[Amit Varma]: Right. And your non voters would be, you know, in the tens.
+
+00:24:26.720 --> 00:24:32.800
+[Amit Varma]: Yeah. So, you know, unless you, unless you get, if 30% of the people vote nota, I agree with you.
+
+00:24:32.800 --> 00:24:39.120
+[Amit Varma]: Everybody would stand up and say, okay, my God, you know, but one or two percent, no one really care.
+
+00:24:40.880 --> 00:24:46.160
+[Unknown]: A broader question, which I have is that right now we're as a country.
+
+00:24:46.160 --> 00:24:51.760
+[Unknown]: And in fact, across the globe, we're more divided than ever in the sense that there's either,
+
+00:24:51.760 --> 00:24:55.440
+[Unknown]: I mean, you are, you're right, you're on the, you're far right or I'm far left.
+
+00:24:55.440 --> 00:25:01.360
+[Unknown]: And I mean, you have your magazines, your, your political thinkers and your ideas.
+
+00:25:01.360 --> 00:25:06.240
+[Unknown]: And I have my own, if I'm a left guy, I have my own New York Times and my Trevor Noah's of the world.
+
+00:25:06.240 --> 00:25:11.440
+[Unknown]: And so how do, is there any way that we can bridge that gap today?
+
+00:25:11.440 --> 00:25:15.680
+[Unknown]: Like that, is that possible for people to meet somewhere halfway down?
+
+00:25:15.680 --> 00:25:21.520
+[Unknown]: Because earlier we, I mean, things were not so divided that people didn't have their own.
+
+00:25:21.520 --> 00:25:24.800
+[Unknown]: I mean, you're, you don't live in your own bubble at least some time back,
+
+00:25:24.800 --> 00:25:27.040
+[Unknown]: but now we've become very divided.
+
+00:25:27.040 --> 00:25:29.200
+[Unknown]: I'm sure in the future, it's just going to increase more.
+
+00:25:29.200 --> 00:25:30.800
+[Unknown]: The contrast is going to be even sharper.
+
+00:25:30.800 --> 00:25:33.760
+[Unknown]: So is there any way that this can be sort of healed?
+
+00:25:33.760 --> 00:25:34.560
+[Amit Varma]: Yeah, it's a good question.
+
+00:25:34.560 --> 00:25:37.440
+[Amit Varma]: I mean, and the reason this has happened interestingly is technology.
+
+00:25:37.440 --> 00:25:39.360
+[Amit Varma]: We used to think technology will bring the world together,
+
+00:25:39.360 --> 00:25:43.520
+[Amit Varma]: but technology actually makes it easier to form echo chambers and
+
+00:25:44.720 --> 00:25:46.800
+[Amit Varma]: live in the comfort of your own worldview.
+
+00:25:46.800 --> 00:25:49.120
+[Amit Varma]: And you might be the most bigoted racist person out there,
+
+00:25:49.120 --> 00:25:53.840
+[Amit Varma]: but technology enables you to discover millions of other bigoted racist people like you.
+
+00:25:53.840 --> 00:25:57.600
+[Unknown]: And then you take comfort in numbers and you're no longer the odd one out in your family.
+
+00:25:59.280 --> 00:26:02.560
+[Amit Varma]: Though overall, I think technology is a huge net positive.
+
+00:26:02.560 --> 00:26:04.320
+[Amit Varma]: But yes, this has happened.
+
+00:26:05.680 --> 00:26:06.320
+[Amit Varma]: I don't know.
+
+00:26:06.320 --> 00:26:10.960
+[Amit Varma]: I mean, one glib answer, so glib I feel embarrassed to give it is maybe culture,
+
+00:26:10.960 --> 00:26:14.240
+[Amit Varma]: you know, we can still like the same movies and the same music or whatever.
+
+00:26:14.240 --> 00:26:14.720
+[Unknown]: I don't know.
+
+00:26:14.720 --> 00:26:18.640
+[Amit Varma]: I mean, it's very hard.
+
+00:26:18.640 --> 00:26:24.160
+[Amit Varma]: And the question that I'd written an op-ed in The Hindu about this, I think, late last year,
+
+00:26:24.160 --> 00:26:25.120
+[Unknown]: December.
+
+00:26:25.120 --> 00:26:30.160
+[Amit Varma]: And the question that I'm asking, which I can't find an answer for is
+
+00:26:31.040 --> 00:26:32.560
+[Amit Varma]: people keep talking about fake news.
+
+00:26:32.560 --> 00:26:34.160
+[Amit Varma]: How do you break through it?
+
+00:26:34.160 --> 00:26:34.720
+[Amit Varma]: How?
+
+00:26:34.720 --> 00:26:37.920
+[Amit Varma]: Because earlier, what would happen is that even if a rumor spreads,
+
+00:26:37.920 --> 00:26:40.640
+[Amit Varma]: you have these authoritative sources of information.
+
+00:26:40.640 --> 00:26:41.520
+[Unknown]: Everybody trusts.
+
+00:26:41.520 --> 00:26:42.000
+[Unknown]: Absolutely.
+
+00:26:42.000 --> 00:26:44.880
+[Amit Varma]: You have your New York Times or your Times of India or whoever.
+
+00:26:44.880 --> 00:26:46.480
+[Amit Varma]: But now that is all diffused.
+
+00:26:46.480 --> 00:26:47.040
+[Amit Varma]: Absolutely.
+
+00:26:47.040 --> 00:26:51.280
+[Amit Varma]: Now everybody has their sources of, you know, WhatsApp baba ki jai.
+
+00:26:51.280 --> 00:26:53.440
+[Amit Varma]: And people have adopted a worldview.
+
+00:26:53.440 --> 00:26:54.960
+[Amit Varma]: They will, it's confirmation bias.
+
+00:26:54.960 --> 00:26:59.520
+[Amit Varma]: They will only take whatever fits into their worldview and reject everything else.
+
+00:26:59.520 --> 00:27:00.560
+[Amit Varma]: How do you break through this?
+
+00:27:00.560 --> 00:27:01.600
+[Amit Varma]: I don't have an answer.
+
+00:27:01.600 --> 00:27:02.560
+[Amit Varma]: It's so, how?
+
+00:27:02.560 --> 00:27:02.880
+[Unknown]: Tell me.
+
+00:27:04.000 --> 00:27:09.280
+[Unknown]: That comes back to the latest episode where the debate is all about, you know, should you regulate
+
+00:27:09.280 --> 00:27:11.840
+[Amit Varma]: the likes of Facebook, Google, etc.
+
+00:27:11.840 --> 00:27:12.240
+[Amit Varma]: Yeah.
+
+00:27:12.240 --> 00:27:13.600
+[Amit Varma]: Which I, which I think is the wrong answer.
+
+00:27:13.600 --> 00:27:17.920
+[Amit Varma]: You give government the power, you're going to get screwed because whenever you give any
+
+00:27:17.920 --> 00:27:23.920
+[Amit Varma]: power to government, you must assume, you must imagine the worst possible person being
+
+00:27:23.920 --> 00:27:25.200
+[Unknown]: in that government.
+
+00:27:25.200 --> 00:27:29.040
+[Amit Varma]: You know, so if you're a left liberal, you should imagine Adityanath in that government.
+
+00:27:29.040 --> 00:27:34.880
+[Amit Varma]: If you are a hardcore Hindu person, you should imagine Sonia Gandhi or whoever, whoever's
+
+00:27:34.880 --> 00:27:41.280
+[Amit Varma]: your nightmare, Sitaram Yachuri in the government, you know, using that too, because ultimately
+
+00:27:41.280 --> 00:27:44.560
+[Amit Varma]: any power that you give to government, government never lets go of it.
+
+00:27:44.560 --> 00:27:48.960
+[Amit Varma]: And the more power you give government, the more oppression becomes inevitable.
+
+00:27:48.960 --> 00:27:53.600
+[Amit Varma]: And I think that's an easy answer that people are searching for, because in India, there
+
+00:27:53.600 --> 00:27:57.600
+[Amit Varma]: is also this tendency for everything to say that the government should do something about
+
+00:27:57.600 --> 00:27:57.760
+[Amit Varma]: it.
+
+00:27:57.760 --> 00:27:58.560
+[Amit Varma]: Yes, absolutely.
+
+00:27:58.560 --> 00:28:04.880
+[Amit Varma]: And I think the unseen effects of that are just something no one thinks about.
+
+00:28:04.880 --> 00:28:08.400
+[Amit Varma]: And concentrating too much power in the hand of government is...
+
+00:28:08.400 --> 00:28:11.440
+[Unknown]: I mean, in the 70s, I mean, the government used to make watches, right?
+
+00:28:11.440 --> 00:28:11.920
+[Unknown]: In the 70s.
+
+00:28:11.920 --> 00:28:14.560
+[Unknown]: And now when I think back, I mean, why is the government making watches?
+
+00:28:14.560 --> 00:28:15.920
+[Unknown]: Why was the government making watches?
+
+00:28:15.920 --> 00:28:16.160
+[Amit Varma]: Like...
+
+00:28:16.160 --> 00:28:17.520
+[Amit Varma]: The government makes sex toys.
+
+00:28:17.520 --> 00:28:18.160
+[Unknown]: Are you aware?
+
+00:28:18.160 --> 00:28:20.480
+[Unknown]: There's a public sector company which makes sex toys.
+
+00:28:20.480 --> 00:28:21.360
+[Unknown]: Yeah, you serious?
+
+00:28:21.360 --> 00:28:22.560
+[Unknown]: Yeah, yeah, I'm serious.
+
+00:28:22.560 --> 00:28:23.760
+[Unknown]: Talk about unseen.
+
+00:28:23.760 --> 00:28:26.960
+[Amit Varma]: We'll have a piece on Pragati about it today.
+
+00:28:27.600 --> 00:28:31.360
+[Amit Varma]: I think it's actually, I forget the name of the company, I think it's one of these condom
+
+00:28:31.360 --> 00:28:33.520
+[Amit Varma]: manufacturing companies or whatever, but they also do sex toys.
+
+00:28:33.520 --> 00:28:34.400
+[Amit Varma]: Oh, wow.
+
+00:28:34.400 --> 00:28:39.840
+[Amit Varma]: So the government, that's, you know, and then, yeah, what can you even say?
+
+00:28:42.320 --> 00:28:46.800
+[Unknown]: So on a different note, I mean, you've been a, you're an accidental podcaster,
+
+00:28:46.800 --> 00:28:53.360
+[Unknown]: you're a policy sort of voice, and you're a professional poker player.
+
+00:28:53.360 --> 00:28:58.000
+[Unknown]: But I also remember reading somewhere that you were on, you were at MTV.
+
+00:28:58.640 --> 00:29:02.800
+[Unknown]: So how have you, how have you been in so many different places?
+
+00:29:02.800 --> 00:29:07.520
+[Unknown]: So, and this is not something you've seen, it's not something you've seen, no, no, it
+
+00:29:07.520 --> 00:29:08.160
+[Amit Varma]: was accidental.
+
+00:29:08.160 --> 00:29:09.120
+[Amit Varma]: So this was in the 90s.
+
+00:29:09.120 --> 00:29:13.200
+[Amit Varma]: When I was in my early 20s, I spent five years shuttling between Channel V and MTV.
+
+00:29:14.000 --> 00:29:15.440
+[Unknown]: I was in both those places.
+
+00:29:15.440 --> 00:29:22.640
+[Amit Varma]: So in the late 90s, so I wrote for guys like Cyrus Procha, Javed Jafri, all the funny guys
+
+00:29:22.640 --> 00:29:24.800
+[Amit Varma]: back then, and, and whatever.
+
+00:29:24.800 --> 00:29:27.200
+[Amit Varma]: And television was just very shallow and dissatisfying.
+
+00:29:27.200 --> 00:29:29.760
+[Amit Varma]: And I mean, all due respect to my former colleagues.
+
+00:29:29.760 --> 00:29:33.680
+[Amit Varma]: So, but I just kind of want to... And current colleague also Cyrus, right?
+
+00:29:34.560 --> 00:29:36.240
+[Amit Varma]: Oh, well, I mean, yeah, in the sense, yeah.
+
+00:29:36.240 --> 00:29:36.400
+[Amit Varma]: Okay.
+
+00:29:36.400 --> 00:29:37.920
+[Amit Varma]: He has an IBM podcast as well.
+
+00:29:37.920 --> 00:29:40.720
+[Amit Varma]: So, fellow host, all Mr. colleagues, great guy.
+
+00:29:40.720 --> 00:29:42.640
+[Amit Varma]: And I was, I was on a show a couple of times.
+
+00:29:42.640 --> 00:29:43.360
+[Amit Varma]: Yes, yes, yes.
+
+00:29:43.360 --> 00:29:43.680
+[Amit Varma]: Yeah.
+
+00:29:43.680 --> 00:29:44.640
+[Amit Varma]: Talking about that.
+
+00:29:44.640 --> 00:29:46.000
+[Amit Varma]: But all those things were accidental.
+
+00:29:46.000 --> 00:29:49.680
+[Amit Varma]: So for example, wherever I have to send a short one paragraph bio of myself to someone,
+
+00:29:49.680 --> 00:29:53.120
+[Amit Varma]: I don't even mention those because they weren't shaping influences.
+
+00:29:53.120 --> 00:29:57.680
+[Amit Varma]: The time that I spent in journalism, I mean, journalism has shaped me, blogging has shaped
+
+00:29:57.680 --> 00:30:03.680
+[Amit Varma]: me. But none of that was really shaping, it's an incidental thing that kind of happened.
+
+00:30:03.680 --> 00:30:07.120
+[Unknown]: I feel like you've used the word accidental to describe so many aspects of your life.
+
+00:30:07.120 --> 00:30:11.280
+[Amit Varma]: Yeah, which, which is, which is one of the actual, which is one of the revolutions of,
+
+00:30:12.160 --> 00:30:15.040
+[Amit Varma]: which one of the things that poker taught me in the years that I played it,
+
+00:30:15.040 --> 00:30:23.040
+[Amit Varma]: that more in life is due to sheer luck, then you realize that we often tend to be hard on
+
+00:30:23.040 --> 00:30:25.520
+[Amit Varma]: ourselves when things go bad and blame ourselves for it.
+
+00:30:25.520 --> 00:30:31.280
+[Amit Varma]: Or we often tend to become arrogant and self confident when good things happen to us.
+
+00:30:31.280 --> 00:30:35.360
+[Amit Varma]: But much more of both the good and the bad things are due to sheer
+
+00:30:35.360 --> 00:30:41.520
+[Amit Varma]: dumb luck, then then we realize so a lot of things are indeed accidental.
+
+00:30:41.520 --> 00:30:45.040
+[Amit Varma]: And if I'm to take it all the way, of course, and maybe, you know,
+
+00:30:45.040 --> 00:30:48.320
+[Amit Varma]: and I'm sure Sam Harris would agree with me, there is no fear.
+
+00:30:48.320 --> 00:30:53.520
+[Amit Varma]: But but yeah, I think we all underestimate the role of luck in our lives.
+
+00:30:53.520 --> 00:30:55.840
+[Amit Varma]: And it's very tempting to sort of look back.
+
+00:30:55.840 --> 00:30:58.080
+[Amit Varma]: And, you know, the in a million alternate universes,
+
+00:30:58.080 --> 00:31:00.720
+[Amit Varma]: there are a million of us now doing completely different things.
+
+00:31:00.720 --> 00:31:03.600
+[Unknown]: It's, it's nice to hear a professional poker player say that
+
+00:31:04.480 --> 00:31:07.120
+[Unknown]: luck is important, because that gives people like me hope.
+
+00:31:07.120 --> 00:31:08.880
+[Amit Varma]: No, I used to be a professional poker player.
+
+00:31:09.600 --> 00:31:11.920
+[Amit Varma]: See, luck is something that runs through life.
+
+00:31:12.720 --> 00:31:16.080
+[Amit Varma]: Poker is actually a game of skill, but that skill comes in the management of luck.
+
+00:31:18.080 --> 00:31:20.880
+[Amit Varma]: So management, luck and probability.
+
+00:31:20.880 --> 00:31:24.560
+[Amit Varma]: Exactly. So that's, that's kind of what it comes down to.
+
+00:31:24.560 --> 00:31:26.000
+[Amit Varma]: And then then that is a skill,
+
+00:31:26.720 --> 00:31:29.120
+[Amit Varma]: which then gives you life lessons about life itself,
+
+00:31:29.120 --> 00:31:31.280
+[Amit Varma]: which I discussed in my poker episode with Mohit.
+
+00:31:32.320 --> 00:31:34.240
+[Unknown]: Just about to ask another question related to poker itself.
+
+00:31:34.240 --> 00:31:36.960
+[Unknown]: You keep saying you were a professional poker player.
+
+00:31:36.960 --> 00:31:39.600
+[Unknown]: Then one is what, how did you get into it?
+
+00:31:39.600 --> 00:31:41.680
+[Unknown]: And a, you know, how did you end up quitting it?
+
+00:31:41.680 --> 00:31:43.760
+[Unknown]: Or if you've already done that, what is a,
+
+00:31:43.760 --> 00:31:47.680
+[Unknown]: was it a bad turn or river which led to that or a conscious choice?
+
+00:31:47.680 --> 00:31:50.320
+[Amit Varma]: No, so what happened was how I got into it was sort of like
+
+00:31:50.320 --> 00:31:54.720
+[Amit Varma]: beginner's luck in the sense I went to Goa, I think must be 2009 or 2008.
+
+00:31:55.680 --> 00:31:57.840
+[Amit Varma]: And we were just in Goa for a holiday.
+
+00:31:57.840 --> 00:32:00.640
+[Amit Varma]: And I went to a casino, played a little bit.
+
+00:32:00.640 --> 00:32:04.800
+[Amit Varma]: And yeah, actually, that one time I lost a little bit, but I got hooked.
+
+00:32:04.800 --> 00:32:06.320
+[Amit Varma]: I was playing poker on my phone.
+
+00:32:06.320 --> 00:32:10.240
+[Amit Varma]: So I like bought in for 10,000 and lost that after a couple of hours.
+
+00:32:10.240 --> 00:32:11.440
+[Amit Varma]: And then I went off.
+
+00:32:11.440 --> 00:32:13.840
+[Amit Varma]: Then there was a poker weekend, which happened there,
+
+00:32:13.840 --> 00:32:17.200
+[Amit Varma]: where they had, I think, the India, Indian poker championship.
+
+00:32:17.200 --> 00:32:17.760
+[Unknown]: Okay.
+
+00:32:17.760 --> 00:32:20.720
+[Amit Varma]: And I went there for the weekend and I did quite well.
+
+00:32:20.720 --> 00:32:23.200
+[Amit Varma]: I did well enough to say that, you know,
+
+00:32:23.200 --> 00:32:25.120
+[Unknown]: you know, what the hell am I doing that writing for?
+
+00:32:25.120 --> 00:32:26.080
+[Unknown]: I'm so good at this.
+
+00:32:26.080 --> 00:32:28.000
+[Unknown]: And the irony is I wasn't good at all.
+
+00:32:28.000 --> 00:32:30.400
+[Amit Varma]: I wasn't good enough to know how bad I was.
+
+00:32:30.400 --> 00:32:32.000
+[Amit Varma]: But those were early days.
+
+00:32:32.000 --> 00:32:36.880
+[Amit Varma]: So everyone was on a learning curve.
+
+00:32:36.880 --> 00:32:38.080
+[Amit Varma]: So the games are very soft.
+
+00:32:38.720 --> 00:32:42.160
+[Amit Varma]: And then gradually I kept playing and got, you know, I got better,
+
+00:32:42.160 --> 00:32:44.240
+[Amit Varma]: the field got better and so on and so forth.
+
+00:32:44.240 --> 00:32:48.560
+[Amit Varma]: And I, you know, the kind of games I used to play were illegal then and illegal now.
+
+00:32:48.560 --> 00:32:50.160
+[Amit Varma]: So I don't want to talk about that in too much detail.
+
+00:32:50.160 --> 00:32:53.760
+[Amit Varma]: But what basically happened was while I did well enough for myself,
+
+00:32:54.400 --> 00:32:58.080
+[Amit Varma]: it destroys your lifestyle because poker is all-consuming.
+
+00:32:58.080 --> 00:33:00.080
+[Amit Varma]: You end up playing long 20-hour sessions.
+
+00:33:00.080 --> 00:33:02.560
+[Amit Varma]: You go home, you sleep, you go, you play another 20-hour session.
+
+00:33:02.560 --> 00:33:05.360
+[Amit Varma]: It's extremely unhealthy.
+
+00:33:05.360 --> 00:33:06.640
+[Amit Varma]: You're eating all kinds of crap.
+
+00:33:06.640 --> 00:33:08.720
+[Amit Varma]: I used to drink Red Bull after Red Bull,
+
+00:33:08.720 --> 00:33:10.560
+[Amit Varma]: which is, you know, Red Bull is perfectly safe,
+
+00:33:10.560 --> 00:33:11.280
+[Amit Varma]: except for the sugar.
+
+00:33:11.280 --> 00:33:12.480
+[Amit Varma]: Sugar is a problem.
+
+00:33:12.480 --> 00:33:17.280
+[Amit Varma]: So I basically, I put on like 15 kgs in that time,
+
+00:33:17.280 --> 00:33:18.400
+[Amit Varma]: all of which I have now lost.
+
+00:33:18.400 --> 00:33:22.240
+[Amit Varma]: So I'm like this year, since Jan, I've lost 14 kgs.
+
+00:33:22.240 --> 00:33:25.840
+[Amit Varma]: And, you know, today I was wearing these jeans after three months
+
+00:33:25.840 --> 00:33:28.480
+[Amit Varma]: and it was like, they don't fit because they're like pajamas.
+
+00:33:28.480 --> 00:33:31.040
+[Amit Varma]: You know, when I stand up, you speak about keto a lot.
+
+00:33:31.760 --> 00:33:32.160
+[Amit Varma]: Yeah, yeah.
+
+00:33:32.160 --> 00:33:35.600
+[Amit Varma]: So keto is one of my sort of one of the things that's helped me.
+
+00:33:35.600 --> 00:33:38.400
+[Amit Varma]: So to cut a long story short, I thought the lifestyle was messed up.
+
+00:33:38.400 --> 00:33:39.760
+[Amit Varma]: It was all-consuming.
+
+00:33:39.760 --> 00:33:41.440
+[Amit Varma]: Also, it's a zero-sum game.
+
+00:33:41.440 --> 00:33:44.240
+[Amit Varma]: You're not bringing anything new to the world.
+
+00:33:44.240 --> 00:33:48.560
+[Amit Varma]: Like if, you know, the world, essentially, all our interactions are positive sum.
+
+00:33:48.560 --> 00:33:50.640
+[Amit Varma]: So we're all having this conversation.
+
+00:33:50.640 --> 00:33:53.280
+[Amit Varma]: If it's a voluntary conversation, we'll all enjoy and have a good time.
+
+00:33:53.280 --> 00:33:55.200
+[Amit Varma]: And therefore, we all benefited from it.
+
+00:33:55.200 --> 00:33:57.280
+[Amit Varma]: But poker, you only win if the other guy loses.
+
+00:33:57.280 --> 00:34:01.520
+[Amit Varma]: And I saw tons of people who were addicted to the game.
+
+00:34:01.520 --> 00:34:04.080
+[Amit Varma]: I've seen people, friends of mine, just destroyed by the game.
+
+00:34:04.720 --> 00:34:08.160
+[Amit Varma]: So at one point, I decided that, look, the lifestyle sucks.
+
+00:34:08.160 --> 00:34:11.920
+[Amit Varma]: Philosophically, I just I sometimes I feel like I'm
+
+00:34:11.920 --> 00:34:14.080
+[Amit Varma]: a drug dealer exploiting someone else's addiction.
+
+00:34:15.280 --> 00:34:17.760
+[Amit Varma]: And I had made enough to not have to work for a while.
+
+00:34:19.360 --> 00:34:20.960
+[Unknown]: Those savings are now gone.
+
+00:34:20.960 --> 00:34:24.240
+[Amit Varma]: So Mr. Government, if you're listening, please don't come and ask for taxes.
+
+00:34:24.880 --> 00:34:26.960
+[Unknown]: Not that you know how much I want.
+
+00:34:26.960 --> 00:34:28.800
+[Amit Varma]: So it's yeah.
+
+00:34:28.800 --> 00:34:31.200
+[Amit Varma]: So I and I just wanted to get back to writing.
+
+00:34:31.200 --> 00:34:32.640
+[Amit Varma]: I mean, that was my main thing anyway.
+
+00:34:32.640 --> 00:34:36.080
+[Amit Varma]: My thing with poker was just get in for a while and get out.
+
+00:34:36.080 --> 00:34:36.960
+[Amit Varma]: So yeah, and get out.
+
+00:34:36.960 --> 00:34:37.920
+[Unknown]: Interesting.
+
+00:34:38.960 --> 00:34:42.880
+[Unknown]: One question which I was just musing about is that we've
+
+00:34:44.800 --> 00:34:48.080
+[Unknown]: over the last hundred years or so, I think, in terms of political discourse
+
+00:34:48.080 --> 00:34:51.600
+[Unknown]: or theories and ideas on politics, we've sort of
+
+00:34:52.960 --> 00:34:56.480
+[Unknown]: I mean, the ideas have now trickled down or maybe I'm just not aware.
+
+00:34:56.480 --> 00:35:00.400
+[Unknown]: But the spectrum that we've built in terms of left, right or liberal,
+
+00:35:00.400 --> 00:35:03.200
+[Unknown]: libertarian, secularism, all of that, etc.
+
+00:35:03.200 --> 00:35:06.320
+[Unknown]: So I think we've now the ideas have slowed down to trickle and
+
+00:35:06.320 --> 00:35:08.160
+[Unknown]: things are where they are now.
+
+00:35:08.160 --> 00:35:12.720
+[Unknown]: So do you think there's room for any more new political
+
+00:35:12.720 --> 00:35:15.600
+[Unknown]: ideologies or new ideas of thinking on politics?
+
+00:35:15.600 --> 00:35:19.040
+[Unknown]: Or do you think we've reached the zenith of, you know, this is what it is now?
+
+00:35:19.040 --> 00:35:23.760
+[Unknown]: And you have to, I mean, a government has to work in this framework only?
+
+00:35:24.880 --> 00:35:27.840
+[Amit Varma]: No, I mean, I think there are certain frameworks along which you think,
+
+00:35:27.840 --> 00:35:32.160
+[Amit Varma]: for example, one framework along which I certainly think is a framework of freedom.
+
+00:35:32.160 --> 00:35:36.320
+[Amit Varma]: How much freedom do, you know, how much freedom do different systems have?
+
+00:35:36.320 --> 00:35:38.000
+[Amit Varma]: And how much you respect individual rights?
+
+00:35:38.960 --> 00:35:44.080
+[Amit Varma]: Another framework, which might ignore my framework and consider itself valid is equality,
+
+00:35:44.080 --> 00:35:47.520
+[Amit Varma]: which, you know, people on the left will go for, though I would argue that freedom is
+
+00:35:47.520 --> 00:35:51.280
+[Amit Varma]: gives you the best shot at equality, but equality of opportunity.
+
+00:35:51.280 --> 00:35:54.320
+[Amit Varma]: But that could be another framework, you have a third framework could be the,
+
+00:35:54.320 --> 00:35:56.960
+[Amit Varma]: you know, the whole conservative framework where you say that
+
+00:35:56.960 --> 00:35:59.760
+[Amit Varma]: things have worked a certain way given human nature for a while,
+
+00:35:59.760 --> 00:36:01.280
+[Amit Varma]: and we should not mess with it too much.
+
+00:36:01.280 --> 00:36:02.000
+[Unknown]: Right.
+
+00:36:02.000 --> 00:36:04.080
+[Amit Varma]: And so on and so forth.
+
+00:36:04.080 --> 00:36:09.040
+[Amit Varma]: I think one of the things that any whichever way you look at the world
+
+00:36:09.040 --> 00:36:11.280
+[Amit Varma]: has to take into account is human nature itself.
+
+00:36:12.000 --> 00:36:15.760
+[Amit Varma]: And the thing is that there is a duality to humans.
+
+00:36:16.800 --> 00:36:19.680
+[Amit Varma]: There is one part of us, which is basically animals,
+
+00:36:19.680 --> 00:36:22.960
+[Amit Varma]: that our brains are hardwired in certain ways, in the sense that
+
+00:36:22.960 --> 00:36:26.400
+[Amit Varma]: our tribalism is hardwired into us, our bigotry is hardwired into us,
+
+00:36:26.400 --> 00:36:28.640
+[Amit Varma]: our misogyny is hardwired into us.
+
+00:36:28.640 --> 00:36:33.680
+[Amit Varma]: And all of all of those hardwirings find a reflection in culture and the way,
+
+00:36:33.680 --> 00:36:37.040
+[Amit Varma]: for example, the way the patriarchy is set up, the way the power systems work,
+
+00:36:37.040 --> 00:36:42.960
+[Amit Varma]: and the other instinctive distrust of the other throughout the world.
+
+00:36:42.960 --> 00:36:43.440
+[Amit Varma]: Of course.
+
+00:36:43.440 --> 00:36:46.800
+[Amit Varma]: And so that is really a reflection of the dark side of human nature.
+
+00:36:46.800 --> 00:36:51.040
+[Amit Varma]: But what humans also have the other side is that we have also been,
+
+00:36:52.480 --> 00:36:55.040
+[Amit Varma]: I won't say blessed, because it makes it seem like I believe in God,
+
+00:36:55.040 --> 00:36:58.480
+[Amit Varma]: but we are also lucky enough, much better word for me,
+
+00:36:58.480 --> 00:37:03.040
+[Amit Varma]: we're also lucky enough to possess brains, which can actually self reflect,
+
+00:37:03.040 --> 00:37:04.800
+[Amit Varma]: and which can think about all this,
+
+00:37:04.800 --> 00:37:09.120
+[Amit Varma]: and which can understand that this is a programming and we need to go beyond that.
+
+00:37:09.120 --> 00:37:13.280
+[Amit Varma]: And to me, what we've seen culturally in the last three centuries,
+
+00:37:13.280 --> 00:37:17.920
+[Amit Varma]: since the Enlightenment is essentially that is earlier culture
+
+00:37:17.920 --> 00:37:20.480
+[Amit Varma]: was something that reinforced human nature.
+
+00:37:20.480 --> 00:37:24.960
+[Amit Varma]: And in the last three, 400 years, culture has begun to mitigate human nature
+
+00:37:24.960 --> 00:37:28.640
+[Amit Varma]: and to fight against it. And to fight against those instincts,
+
+00:37:28.640 --> 00:37:32.560
+[Amit Varma]: where, you know, whether it's a simple thing like me deciding not to have a child,
+
+00:37:32.560 --> 00:37:39.280
+[Amit Varma]: where I'm fighting my hardwiring, right, or whether it's a various ways,
+
+00:37:39.280 --> 00:37:42.000
+[Amit Varma]: equality for women, for example, comes out of culture.
+
+00:37:43.360 --> 00:37:48.080
+[Amit Varma]: I mean, as time goes, we've become like there is the philosopher W.E.H. Leckie,
+
+00:37:48.080 --> 00:37:51.600
+[Amit Varma]: 19th century philosopher, he'd come up with this phrase called the expanding circle.
+
+00:37:51.600 --> 00:38:00.400
+[Amit Varma]: Okay, so his what he postulated was that all of us that since prehistoric times,
+
+00:38:00.400 --> 00:38:03.360
+[Amit Varma]: there has been an expanding circle around humanity. What does that mean?
+
+00:38:03.360 --> 00:38:07.040
+[Amit Varma]: That means that if you go back to our prehistoric ancestor,
+
+00:38:07.040 --> 00:38:09.760
+[Amit Varma]: there are a circle of people that is his family or his tribe,
+
+00:38:09.760 --> 00:38:12.400
+[Amit Varma]: who he deems worthy of moral consideration.
+
+00:38:12.400 --> 00:38:15.360
+[Amit Varma]: Nobody outside that tribe is worthy of that moral consideration.
+
+00:38:15.360 --> 00:38:17.680
+[Amit Varma]: So if he's at war with them, he will kill them, he will rape them,
+
+00:38:17.680 --> 00:38:20.080
+[Amit Varma]: he will do whatever they're not human beings at all.
+
+00:38:20.080 --> 00:38:24.880
+[Amit Varma]: Now, Leckie's postulation was that this circle has expanded through human history.
+
+00:38:24.880 --> 00:38:30.800
+[Amit Varma]: It's expanded from the family to the tribe, to maybe alliances of tribes, to a nation,
+
+00:38:30.800 --> 00:38:36.240
+[Amit Varma]: to an ethnicity, and it's kept expanding till all of humanity is in it for some people.
+
+00:38:36.240 --> 00:38:39.840
+[Amit Varma]: I mean, different people have different circles of people they consider worthy of the moral
+
+00:38:39.840 --> 00:38:47.440
+[Amit Varma]: consideration. And the utilitarian philosopher Peter Singer, in fact, wrote a book about this
+
+00:38:47.440 --> 00:38:50.480
+[Amit Varma]: called The Expanding Circle, where he argued that it should expand to include animals.
+
+00:38:51.440 --> 00:38:55.840
+[Amit Varma]: Right now, that's a different argument in itself. And let's not go there.
+
+00:38:55.840 --> 00:39:01.200
+[Amit Varma]: But it's worth thinking of. I mean, it's possible that the way we today look down on,
+
+00:39:01.200 --> 00:39:05.760
+[Amit Varma]: say, Thomas Jefferson for having slaves, future generations may look down on us for killing
+
+00:39:05.760 --> 00:39:09.120
+[Amit Varma]: animals. And of course, by that time, you won't have to kill animals to eat meat,
+
+00:39:09.120 --> 00:39:13.440
+[Amit Varma]: you'll grow it in labs. That's almost around the corner.
+
+00:39:13.440 --> 00:39:18.400
+[Amit Varma]: But yeah, so there's that thing of the expanding circle. Now, the thing is that
+
+00:39:19.600 --> 00:39:25.600
+[Amit Varma]: overall, yeah, people circles have vastly expanded. And you see this more in the big cities
+
+00:39:25.600 --> 00:39:30.160
+[Amit Varma]: than in small areas, because cities tend to be cosmopolitan. And it's also in your economic
+
+00:39:30.160 --> 00:39:34.880
+[Amit Varma]: interest to have the largest networks to be part of the largest networks you can be and so on.
+
+00:39:34.880 --> 00:39:38.960
+[Amit Varma]: But they haven't expanded enough. And you see that even in India, like one of the really
+
+00:39:38.960 --> 00:39:44.080
+[Amit Varma]: disturbing questions that came up in the last few weeks was during the Asifa case, that how
+
+00:39:44.080 --> 00:39:50.160
+[Amit Varma]: could someone do this to any? How could you to another human being? Where is your humanity?
+
+00:39:50.160 --> 00:39:53.600
+[Amit Varma]: But the answer to this is that the people who did this did not consider
+
+00:39:54.560 --> 00:40:01.440
+[Amit Varma]: her worthy of their moral consideration. She was from the Bakarwal tribe, Muslim tribe,
+
+00:40:01.440 --> 00:40:07.520
+[Amit Varma]: and those people weren't part of the circle of these people who, you know, their circle hadn't
+
+00:40:07.520 --> 00:40:12.320
+[Amit Varma]: expanded far enough to include them. And you see this in the treatment of the other across India,
+
+00:40:12.320 --> 00:40:16.480
+[Amit Varma]: where there will be many Hindus who will not consider Muslims around them, and certainly
+
+00:40:16.480 --> 00:40:21.760
+[Amit Varma]: lower class Muslims around them worthy of their moral consideration. So that answers this question,
+
+00:40:21.760 --> 00:40:28.000
+[Amit Varma]: how could you? You could because you don't see this person as human. And that's a very
+
+00:40:28.000 --> 00:40:32.720
+[Amit Varma]: disturbing thing. And I think what happens is like the earlier point that you made and that you
+
+00:40:32.720 --> 00:40:38.960
+[Amit Varma]: went back to is that technology reinforces, you know, technology helps us form these echo chambers
+
+00:40:38.960 --> 00:40:44.080
+[Amit Varma]: where we find like minded people and where we can stay with the in our comfort zones with
+
+00:40:44.080 --> 00:40:49.760
+[Amit Varma]: tribes we feel comfortable with. So, you know, will this make us one world or will this actually
+
+00:40:49.760 --> 00:40:56.480
+[Amit Varma]: further divide, you know, keep us divided? And I have just completely rambled. What was the
+
+00:40:56.480 --> 00:41:03.600
+[Unknown]: question? I'm so sorry. I don't even know what I set out to answer.
+
+00:41:04.560 --> 00:41:09.680
+[Unknown]: That's okay. So, my question was, is there room for more political thought?
+
+00:41:11.360 --> 00:41:15.600
+[Amit Varma]: It's an unknown unknown, right? It's an unknown unknown, so I wouldn't know it. I can engage with
+
+00:41:15.600 --> 00:41:20.000
+[Amit Varma]: all of these frameworks of thinking, like Arnold Kling wrote a great book called The Three Languages
+
+00:41:20.000 --> 00:41:26.800
+[Amit Varma]: of Politics, where he says that left liberals, libertarians and conservatives frequently talk past
+
+00:41:26.800 --> 00:41:30.800
+[Amit Varma]: each other, because the first principles are different. Because libertarians value freedom,
+
+00:41:30.800 --> 00:41:35.360
+[Amit Varma]: left liberals value equality, conservatives value tradition, and they talk past each other all the
+
+00:41:35.360 --> 00:41:39.200
+[Amit Varma]: time, they can never talk to each other. And once you're cognizant of these different first
+
+00:41:39.200 --> 00:41:43.280
+[Amit Varma]: principles, maybe you can begin a dialogue. Are there other first principles that will suddenly
+
+00:41:43.280 --> 00:41:47.840
+[Amit Varma]: emerge? I don't know. And I can't imagine what they are. But that could easily be a lack of
+
+00:41:47.840 --> 00:41:54.080
+[Amit Varma]: imagination on my part. Like I said, it's an unknown unknown. But I see these as three ways of
+
+00:41:54.080 --> 00:41:58.480
+[Amit Varma]: three broad frameworks of looking at the world. And I know which my framework is. And I can talk
+
+00:41:58.480 --> 00:42:04.880
+[Amit Varma]: about that. And I think I can also, I can also, you know, have conversations with left liberals
+
+00:42:04.880 --> 00:42:09.440
+[Amit Varma]: and conservatives where I'm not talking past them, where I can engage with them on the basis of what
+
+00:42:09.440 --> 00:42:13.440
+[Amit Varma]: I understand of where they are coming from. But if you're asking, will there be some other way
+
+00:42:13.440 --> 00:42:20.160
+[Unknown]: of thinking that is beyond this? Who knows? So just wanted to ask one more thing in terms of,
+
+00:42:20.160 --> 00:42:26.080
+[Unknown]: you know, the guests on your show. And so have you ever thought of actually getting politicians,
+
+00:42:26.080 --> 00:42:32.720
+[Unknown]: since there's so much discussion about policy and, you know, get the decision makers essentially,
+
+00:42:32.720 --> 00:42:36.640
+[Unknown]: or who've been, you know, made decisions in the past, getting onto the show and discussing that
+
+00:42:36.640 --> 00:42:40.160
+[Unknown]: to actually understand, you know, what the constraints they work with, et cetera.
+
+00:42:40.160 --> 00:42:45.680
+[Unknown]: And if they might just, you know, obviously you're very learned on this space, et cetera. And
+
+00:42:46.640 --> 00:42:50.880
+[Unknown]: I'm more, more like a novice, but still, you know, to get to know about their side of the view.
+
+00:42:50.880 --> 00:42:55.120
+[Amit Varma]: I don't think I'm learned. I think I know enough to ask good questions. If those guys come, but
+
+00:42:55.120 --> 00:43:00.320
+[Amit Varma]: firstly, who would come on the show? Like if Modiji would come on the show or even Rahulji
+
+00:43:00.320 --> 00:43:07.520
+[Amit Varma]: would come on the show. He has his own podcast. Yeah. So I don't think I did get JP Narayan on
+
+00:43:07.520 --> 00:43:12.960
+[Unknown]: the show, the state of politics, which I was very thrilled about that because someone I respect
+
+00:43:12.960 --> 00:43:21.280
+[Amit Varma]: enormously is just a huge intellect and a powerful force. And I, in many ways, has given up on
+
+00:43:21.280 --> 00:43:26.240
+[Amit Varma]: politics, which is sad and says a lot, I think. Or maybe I shouldn't say that or put words in
+
+00:43:26.240 --> 00:43:29.920
+[Amit Varma]: his mouth, but that's the sense I got. But yeah, if they, if they, if they would come, I would get
+
+00:43:29.920 --> 00:43:38.000
+[Amit Varma]: them. Nice. Right. So now, Nakul and Rachit are going to take a break. Not that I was doing all
+
+00:43:38.000 --> 00:43:41.600
+[Amit Varma]: the talking, but they'll take a break and, but they're still here and the conversation will
+
+00:43:41.600 --> 00:43:48.800
+[Amit Varma]: continue. And now over to my producer, the famous random comic Abbas, who will, and we'll go through
+
+00:43:48.800 --> 00:43:53.120
+[Amit Varma]: the IMA questions that a lot of you have asked on Twitter and Facebook. And I'll try my best to
+
+00:43:53.120 --> 00:43:59.040
+[Amit Varma]: actually cover everything everybody said, including flippant stuff. But I let Abbas first go through
+
+00:43:59.040 --> 00:44:09.920
+[Amit Varma]: the shortlist that he made. So everyone. Hi. Welcome Abbas. Hi. I like how every time you
+
+00:44:09.920 --> 00:44:14.080
+[Unknown]: mentioned me, you say famous standup comic. It's like, it's a moniker, like the spectacular
+
+00:44:14.080 --> 00:44:22.960
+[Unknown]: Spider-Man, the fantastic. All right. So first of all, we got a lot of questions. So thank you,
+
+00:44:22.960 --> 00:44:28.320
+[Unknown]: everyone for sending in the questions. One thing I noticed is that seen unseen listeners don't just
+
+00:44:28.320 --> 00:44:32.480
+[Unknown]: ask a question. They give their opinion. They ask a question or they ask a question.
+
+00:44:35.280 --> 00:44:41.040
+[Unknown]: Also the two questions that did get covered in the conversation, which was the Nota question and the
+
+00:44:41.040 --> 00:44:49.920
+[Unknown]: politics, but let's just name the people that was asked by M.H. Dodwani and Kelvin Inc at Kelvin Inc
+
+00:44:49.920 --> 00:44:56.560
+[Unknown]: on Twitter. So those were the, those were the two people who sent in. I've got a question here from
+
+00:44:56.560 --> 00:45:02.480
+[Unknown]: Krishna Kumar on Twitter, who asked, why do you think at later cut the Twitter handle also, I
+
+00:45:02.480 --> 00:45:08.160
+[Unknown]: think he used to be a cricket writer. I see. Yeah. So his question is, why do you think urban
+
+00:45:08.160 --> 00:45:13.200
+[Unknown]: Indians are so disconnected from reality? Ask a random sample of urban Indians in any decent
+
+00:45:13.200 --> 00:45:17.680
+[Unknown]: sized city. Only a minority would know what they're drinking. Only a minority would know
+
+00:45:17.680 --> 00:45:22.400
+[Unknown]: what their drinking water sources are, where their food comes from. It's the biggest reason they vote
+
+00:45:22.400 --> 00:45:27.600
+[Amit Varma]: wrong come election time. Two sides of this. I'll give the positive side first. The positive side is
+
+00:45:27.600 --> 00:45:33.600
+[Amit Varma]: there's this famous essay called I pencil by Leonard Reed and famous essay, just Google it.
+
+00:45:33.600 --> 00:45:39.840
+[Amit Varma]: I pencil by Leonard Reed. And what that essay is about is the autobiography of a pencil, which
+
+00:45:39.840 --> 00:45:45.760
+[Amit Varma]: talks about how it's made. And what you realize through that is that it can't be made by any one
+
+00:45:45.760 --> 00:45:53.280
+[Amit Varma]: person. It takes literally it has raw material from across the world, made by 1000s of people
+
+00:45:53.280 --> 00:45:59.520
+[Amit Varma]: requiring you know, the cooperation and coordination of millions to actually produce that one pencil
+
+00:45:59.520 --> 00:46:04.320
+[Amit Varma]: and yet none of these people know of any of the others. I think a recent version of this was done
+
+00:46:04.320 --> 00:46:11.040
+[Amit Varma]: as a homage to this, which was about the iPod, about how the iPod is made with inputs from 70
+
+00:46:11.040 --> 00:46:14.560
+[Amit Varma]: countries or whatever. And all these people don't know all the other people. So this lack of
+
+00:46:14.560 --> 00:46:20.400
+[Amit Varma]: knowledge is not necessarily a bug. It's actually a feature, it means that you can go about your
+
+00:46:20.400 --> 00:46:26.240
+[Amit Varma]: daily life. And without your knowing it or planning for it. There are millions of people across the
+
+00:46:26.240 --> 00:46:32.400
+[Amit Varma]: world who are working at this moment to satisfy your needs. That's the wonder of a market. But
+
+00:46:32.400 --> 00:46:38.800
+[Amit Varma]: that's obviously not Krishnakumar at later cut is referring to what he's referring to is why are we
+
+00:46:38.800 --> 00:46:43.280
+[Amit Varma]: so apathetic? And again, that is something we discussed earlier, Ajit had asked a question
+
+00:46:43.280 --> 00:46:48.480
+[Amit Varma]: about that. And the thing is, our apathy is rational, because it is indeed true that we
+
+00:46:48.480 --> 00:46:52.640
+[Amit Varma]: can do nothing about it, not just because rationally, one vote makes no difference,
+
+00:46:52.640 --> 00:46:57.040
+[Amit Varma]: but also because there is a disconnect between power and accountability at the level of local
+
+00:46:57.040 --> 00:47:04.080
+[Amit Varma]: government. And the forces that are around us sometimes seem too overwhelming to do anything
+
+00:47:04.080 --> 00:47:10.560
+[Amit Varma]: about. And if I've interpreted his lament correctly, it's a lament I share, I don't have
+
+00:47:10.560 --> 00:47:14.720
+[Unknown]: any solutions. I mean, what do you do? You just go on doing what you're doing. Okay. He's tried
+
+00:47:14.720 --> 00:47:22.080
+[Unknown]: to connect the apathy to voting wrongly in the elections. Yeah, I mean, voting wrongly. It's
+
+00:47:22.640 --> 00:47:29.520
+[Amit Varma]: what is wrongly, it's not like there's a right option, right? Everybody is entitled to everybody
+
+00:47:29.520 --> 00:47:33.200
+[Amit Varma]: is entitled to their view of looking at the world. And also everybody is wrong. And
+
+00:47:33.200 --> 00:47:42.240
+[Unknown]: there's nothing more to say life is sad. All right. So Mr. Dodwani asked another question,
+
+00:47:42.240 --> 00:47:46.960
+[Unknown]: which I found pretty interesting, where he asks, most of India's problems lie in yesteryear's law
+
+00:47:46.960 --> 00:47:52.320
+[Unknown]: that don't work for modern society. Is there a way to rewrite the Constitution of India understanding
+
+00:47:52.320 --> 00:47:57.280
+[Unknown]: the needs of the present time and dealing with them more aptly? Yeah, but who's going to do it?
+
+00:47:57.280 --> 00:48:02.000
+[Amit Varma]: You know, if the Constitution is rewritten, it won't be by Mr. Dodwani or me. It'll be by the
+
+00:48:02.000 --> 00:48:10.640
+[Amit Varma]: people in charge. They will make it worse. Right. So it's an easy thing to sort of say that, you
+
+00:48:10.640 --> 00:48:15.120
+[Amit Varma]: know, see, it's first of all, it's true that the Constitution doesn't go far enough to protect our
+
+00:48:15.120 --> 00:48:20.800
+[Amit Varma]: freedoms. For example, free speech is not protected. Article 19 to lays out all those
+
+00:48:20.800 --> 00:48:27.280
+[Amit Varma]: restrictions to it, such as public order, decency, and so on. And because of that, various laws in
+
+00:48:27.280 --> 00:48:32.400
+[Amit Varma]: the IPC, which were framed by the British to oppress us, like 295A, 153A, which make it a
+
+00:48:32.400 --> 00:48:36.560
+[Amit Varma]: crime to give offense, though you breached those laws off on a bus in your stand-up comedy,
+
+00:48:37.680 --> 00:48:42.080
+[Amit Varma]: cannot be challenged constitutionally, because hey, the Constitution allows for laws like that.
+
+00:48:42.080 --> 00:48:46.720
+[Amit Varma]: So our Constitution, people call it a liberal Constitution in the good sense of the word
+
+00:48:46.720 --> 00:48:53.520
+[Amit Varma]: liberal. I don't think it is really, it doesn't protect our freedoms enough. And also, my good
+
+00:48:53.520 --> 00:48:59.440
+[Amit Varma]: friend Shruti Rajgopalan, who's been on the show a few times, she had done an awesome presentation
+
+00:48:59.440 --> 00:49:04.240
+[Amit Varma]: somewhere on YouTube, if you search for her name, you'll find it about how the Constitution has been
+
+00:49:04.240 --> 00:49:09.120
+[Amit Varma]: consistently over the last 70 something years been amended time and time again, for political
+
+00:49:09.120 --> 00:49:13.440
+[Amit Varma]: purposes still is practically meaningless. So Ambedkar in 53, in fact, said that, you know,
+
+00:49:13.440 --> 00:49:17.040
+[Amit Varma]: the Constitution of India should be burnt because it is meaningless. Okay, very strong words. I
+
+00:49:17.040 --> 00:49:21.040
+[Amit Varma]: don't remember his exact words. Shruti's presentation, which will be on YouTube,
+
+00:49:21.040 --> 00:49:26.640
+[Amit Varma]: Shruti Rajgopalan. And there was a cartoon at one point about how the Constitution of India is not a
+
+00:49:26.640 --> 00:49:31.440
+[Amit Varma]: book, but a periodical. It's changed so much. So politicians have been changing it throughout to
+
+00:49:31.440 --> 00:49:36.960
+[Amit Varma]: their, so our Constitution is a pretty messed up beast. It's got some very good elements of it
+
+00:49:36.960 --> 00:49:42.400
+[Amit Varma]: still, it does offer us some protections, it could be far worse. And the worry is that if you wanted
+
+00:49:42.400 --> 00:49:48.080
+[Amit Varma]: to be amended, it could actually become far worse depending on the dispensation. Now, at some point,
+
+00:49:48.080 --> 00:49:52.560
+[Amit Varma]: I remember I got into this controversy on Twitter, because you can't make everything idiot proof,
+
+00:49:52.560 --> 00:49:58.320
+[Amit Varma]: where right wingers were talking about changing the Constitution. Yeah. And somebody pointed out
+
+00:49:58.320 --> 00:50:02.480
+[Amit Varma]: that, oh, it can't be done. And I merely pointed out that, hey, it can be done. It's been done
+
+00:50:02.480 --> 00:50:06.320
+[Amit Varma]: repeatedly by Nehru and Indira. It's fucked us over. The right to property is no longer a
+
+00:50:06.320 --> 00:50:11.600
+[Amit Varma]: fundamental right. Right. And so without saying glibly, it can't be done, realized that it can
+
+00:50:11.600 --> 00:50:15.760
+[Amit Varma]: be done. And we should be aware and we should fight it. Okay. And that was because I wasn't
+
+00:50:15.760 --> 00:50:20.560
+[Amit Varma]: idiot proof enough. That was misinterpreted as my supporting a change to the Constitution.
+
+00:50:20.560 --> 00:50:24.880
+[Amit Varma]: But I would just say that, look, if someone's going to change it, it's not Mr. Dodwani or me,
+
+00:50:24.880 --> 00:50:30.400
+[Unknown]: it's Mr. Adityanath and Mr. Vinay Katiyar. So do you really want that? Yeah, that's the one
+
+00:50:30.400 --> 00:50:34.640
+[Unknown]: question that comes into my head. If we change laws to protect free speech, there are also someone
+
+00:50:34.640 --> 00:50:39.760
+[Unknown]: will stand up and say, try and change a lot to bring in Hindutva or Sharia law. So yeah, like
+
+00:50:39.760 --> 00:50:46.960
+[Unknown]: there'll always be that second point of view. Alright, Arvind Iyer on Twitter asks, I would
+
+00:50:46.960 --> 00:50:51.920
+[Unknown]: love to hear your views on US gun control with your consent and free trade principle. I think
+
+00:50:51.920 --> 00:50:55.600
+[Amit Varma]: you would oppose any restrictions. Can you share more details? Yeah, we should go to Twitter ID.
+
+00:50:55.600 --> 00:51:01.360
+[Amit Varma]: I think if I'm not mistaken, it's at Iyer Archie. That's right. Yeah, I don't know this person,
+
+00:51:01.360 --> 00:51:05.600
+[Amit Varma]: but I just remembered the ID because I was writing all these down. That's a great question. And I'm
+
+00:51:05.600 --> 00:51:11.600
+[Amit Varma]: afraid I must disagree with my libertarian friends. I am for gun control. I don't believe guns should
+
+00:51:11.600 --> 00:51:18.080
+[Amit Varma]: be freely sold in India. Now to explain why. Let me first say that in the US context, I imagine,
+
+00:51:18.640 --> 00:51:24.080
+[Amit Varma]: in the US context, I completely understand looking at how the country originated and how it has since
+
+00:51:24.080 --> 00:51:27.600
+[Amit Varma]: come by gun rights for a big deal, because you actually needed to protect yourself from the
+
+00:51:27.600 --> 00:51:31.840
+[Amit Varma]: state and so on and so forth. And that's how it originated. I understand that. I am, however,
+
+00:51:31.840 --> 00:51:37.040
+[Amit Varma]: glad that guns are not sold freely in India. And I hope they never are. And I wrote a post a long
+
+00:51:37.040 --> 00:51:41.040
+[Amit Varma]: time back called the Bomzuka question. That's the name of the post. If you just go on my blog,
+
+00:51:41.040 --> 00:51:46.080
+[Amit Varma]: IndiaUncut.com, search for Bomzuka, you'll come across a post where I pose a hypothetical
+
+00:51:46.080 --> 00:51:50.880
+[Amit Varma]: question. Let me post this to you guys as well. It's a difficult question. The question is this.
+
+00:51:51.600 --> 00:51:57.680
+[Amit Varma]: Imagine three kinds of weapons that are sold. Okay. One is a knife. You need a knife for cutting
+
+00:51:57.680 --> 00:52:02.240
+[Amit Varma]: vegetables and so on and so forth. You can also use it to kill people. Should a knife be allowed?
+
+00:52:02.240 --> 00:52:07.840
+[Amit Varma]: Question one. Question two, gun. You can use a gun for self-defense. You can also kill people
+
+00:52:07.840 --> 00:52:14.400
+[Amit Varma]: with it and it's got deterrence value. Should a gun be allowed? Weapon three, Bomzuka. Okay,
+
+00:52:14.400 --> 00:52:18.800
+[Amit Varma]: Bomzuka is my invention. That is my notional invention. I haven't actually invented something
+
+00:52:18.800 --> 00:52:23.600
+[Amit Varma]: like that. It's an invention. The Bomzuka is something which people are demandingly sold at
+
+00:52:23.600 --> 00:52:27.600
+[Amit Varma]: groceries. Everyone is allowed to buy. And what it basically does is you can press a button or
+
+00:52:27.600 --> 00:52:32.720
+[Amit Varma]: remotely you can set it off and a whole neighborhood blows up. Let's say a few square hundred meters
+
+00:52:32.720 --> 00:52:38.160
+[Amit Varma]: just blow up. And there are people saying that, hey, you know, it's, you can't condemn me till
+
+00:52:38.160 --> 00:52:44.160
+[Amit Varma]: I've done it. And men kill, you know, guns don't, Bomzukas don't kill people. People kill people.
+
+00:52:44.160 --> 00:52:50.000
+[Amit Varma]: And yeah, should a Bomzuka be allowed? Now I think, so first knives, should it be allowed?
+
+00:52:50.000 --> 00:52:55.600
+[Unknown]: I say yes. Yeah. So knife should be allowed to be sold, right? Because it has daily utility as well.
+
+00:52:55.600 --> 00:53:00.720
+[Unknown]: Right. Three Bomzukas, should it be allowed? Any random guy can buy a Bomzuka and blow up a
+
+00:53:00.720 --> 00:53:06.320
+[Amit Varma]: neighborhood? Not really. No. No. Right. Okay. So clear answers. Now, my only, my follow up
+
+00:53:06.320 --> 00:53:10.560
+[Amit Varma]: question then is, forget the second one about guns. My follow up question then is that somewhere
+
+00:53:10.560 --> 00:53:17.120
+[Amit Varma]: between the knife and a Bomzuka, you are drawing a line. Where is that line? And why is that line
+
+00:53:17.120 --> 00:53:22.720
+[Amit Varma]: there? You know, I think you'd both agree with me because you said knife should be sold and Bomzuka
+
+00:53:22.720 --> 00:53:28.560
+[Amit Varma]: should not be sold. That there should be a line. Where should that line be? And why there?
+
+00:53:29.360 --> 00:53:35.520
+[Unknown]: The line is in, I think, two parts. One is the magnitude of damage it can do. Maybe that's one.
+
+00:53:36.080 --> 00:53:43.040
+[Unknown]: And secondly, a knife also has a lot of other utilities. So two benevolent, less harmful
+
+00:53:43.040 --> 00:53:49.120
+[Amit Varma]: utilities. Exactly. And a Bomzuka doesn't. Right. So, which is a great answer, which is, which are
+
+00:53:49.120 --> 00:53:53.680
+[Amit Varma]: two of the parameters I'd look at. But I'd say that it is now very clear. And I think even the
+
+00:53:53.680 --> 00:53:57.680
+[Amit Varma]: most ardent libertarian would agree that you can't have Bomzukas selling over the counter where you
+
+00:53:57.680 --> 00:54:01.040
+[Amit Varma]: can just press a button and blow up a neighborhood because hey, we're f***ed, right? End of
+
+00:54:01.040 --> 00:54:05.440
+[Amit Varma]: civilization. So you are drawing a line. You're drawing a line. What are the reasons you're
+
+00:54:05.440 --> 00:54:08.560
+[Amit Varma]: drawing a line? And then you can debate about whether guns should be part of it or not.
+
+00:54:08.560 --> 00:54:13.840
+[Amit Varma]: I personally feel guns should be part of it. And how I justify that with my libertarian principles
+
+00:54:13.840 --> 00:54:20.160
+[Amit Varma]: is that part of what a libertarian recognizes as a valid role of state, the one valid role of state
+
+00:54:20.160 --> 00:54:26.880
+[Amit Varma]: is to protect all our rights. And this is sort of one preemptive way of doing that, of avoiding
+
+00:54:26.880 --> 00:54:31.600
+[Amit Varma]: violence. This justification can be misused. So I'm even hesitant of giving it out. And many of
+
+00:54:31.600 --> 00:54:37.200
+[Amit Varma]: my libertarian friends are very angry at me right now. And perhaps, you know, tearing the headphones
+
+00:54:37.200 --> 00:54:42.400
+[Amit Varma]: apart. I hope they're not expensive ones. But, but yeah, and look in India, man, come on, look
+
+00:54:42.400 --> 00:54:50.560
+[Amit Varma]: around you. Yeah, if you had guns selling freely, they would be freaking mayhem. I agree. Abbas,
+
+00:54:50.560 --> 00:54:54.400
+[Amit Varma]: do you agree with me? I do agree with you. Imagine, I mean, would you feel comfortable
+
+00:54:54.400 --> 00:55:01.360
+[Unknown]: as a stand up comedian? I have nightmares of a person standing up and aiming at the stage.
+
+00:55:01.360 --> 00:55:06.800
+[Unknown]: All right, we'll move on to the next question. So at Manish T on Twitter asks, if ever a private
+
+00:55:06.800 --> 00:55:12.880
+[Unknown]: bank goes bankrupt, government will have to bail it out like the US in 2008. Then why not let
+
+00:55:12.880 --> 00:55:18.400
+[Unknown]: government participate in profits of the banks by owning them? Good question. And where I will
+
+00:55:18.400 --> 00:55:22.560
+[Amit Varma]: take issue with the question is not the second sentence, but the first one, that private banks
+
+00:55:22.560 --> 00:55:26.960
+[Amit Varma]: should not be bailed out by the government that what happened in the financial crisis of 2007,
+
+00:55:26.960 --> 00:55:30.560
+[Amit Varma]: where the government bailed out all these private banks was wrong and create something called moral
+
+00:55:30.560 --> 00:55:36.720
+[Amit Varma]: hazard. It sets the wrong incentives, because all these companies then realize that they can do
+
+00:55:36.720 --> 00:55:41.920
+[Amit Varma]: whatever in the end, the government will bail them out. What does that do that privatizes profits,
+
+00:55:41.920 --> 00:55:48.640
+[Amit Varma]: it socializes losses. If the company makes money, they get the profits. If the company loses money,
+
+00:55:48.640 --> 00:55:53.200
+[Amit Varma]: we the taxpayers pay. So I don't care what you say about the economy going down. I think that
+
+00:55:53.200 --> 00:55:57.920
+[Amit Varma]: was a rationalization that was alarmism. I think no private company should ever under any
+
+00:55:57.920 --> 00:56:02.080
+[Amit Varma]: circumstances be propped up by the government. It creates a moral hazard, which makes a second
+
+00:56:02.080 --> 00:56:06.560
+[Unknown]: part of the question and talking about just adding to that incentivizing them to perform better.
+
+00:56:06.560 --> 00:56:11.200
+[Unknown]: It doesn't help when the RBI itself classifies two of the largest banks in the country as too
+
+00:56:11.200 --> 00:56:16.240
+[Amit Varma]: big to fail. It's like a statement that you know, I'm here. It's an invitation to misuse the system
+
+00:56:16.240 --> 00:56:19.440
+[Amit Varma]: and those two banks are public sector banks and therefore you have your Nirav Modi's and
+
+00:56:19.440 --> 00:56:28.320
+[Unknown]: and the next question again comes from Twitter. It's Twitter handle is at are the triple one,
+
+00:56:28.320 --> 00:56:32.400
+[Amit Varma]: two, we should name both by the way. So the earlier one was at money Steve, which is
+
+00:56:33.440 --> 00:56:38.560
+[Unknown]: Yeah, so are the triple one, two is name was a sentence. So I'm assuming that's not his name.
+
+00:56:42.080 --> 00:56:48.160
+[Amit Varma]: Respect the user search for it. No, I'll have it somewhere here. I've taken printouts of the whole
+
+00:56:48.160 --> 00:56:54.240
+[Amit Varma]: thing. Yeah, it's I told you so exclamation mark. Yeah. Which is clearly a scene unseen listener.
+
+00:56:54.240 --> 00:57:00.720
+[Amit Varma]: Are the triple one, two. Yeah. Yeah, I envy his certainty. That's actually his his name sort of
+
+00:57:01.280 --> 00:57:06.480
+[Amit Varma]: personifies a hindsight bias. I told you so. I knew about it. Manicrisis.
+
+00:57:09.600 --> 00:57:14.320
+[Unknown]: I'll just read out his question. He asks your thoughts on the best libertarian thinkers out
+
+00:57:14.320 --> 00:57:19.360
+[Unknown]: there. And any books that you recommend that that distills the principles of libertarianism in a
+
+00:57:19.360 --> 00:57:27.360
+[Amit Varma]: simple to understand format. Right. So I picked up sort of my understanding of liberty through
+
+00:57:27.360 --> 00:57:31.920
+[Amit Varma]: the years in various diffused ways. And I'm trying to write a book on this, which does exactly this.
+
+00:57:31.920 --> 00:57:37.520
+[Amit Varma]: Okay. And hopefully when I do that, I'll be the definitive. But why are you laughing? I'm serious.
+
+00:57:37.520 --> 00:57:44.480
+[Amit Varma]: When can we expect that book? Yeah, yeah. I'm half Bengali. So I procrastinate a lot.
+
+00:57:45.280 --> 00:57:49.600
+[Amit Varma]: But someday, but to answer the question and to try and be useful, there's a gentleman called
+
+00:57:49.600 --> 00:57:54.320
+[Amit Varma]: David Boaz. He's written a book called the libertarian mind, which is a marvelous book
+
+00:57:54.320 --> 00:57:57.600
+[Amit Varma]: in which will give you all the basics of the libertarian way of thinking. David Boaz works
+
+00:57:57.600 --> 00:58:05.040
+[Amit Varma]: at the Cato Institute in the US. He's also edited a compilation called the libertarian reader,
+
+00:58:05.040 --> 00:58:09.760
+[Amit Varma]: which has great essays on libertarianism by various people, and which contextualizes them
+
+00:58:09.760 --> 00:58:17.120
+[Amit Varma]: as well in these easy to read sections. So that's again, a great place to find out about them. And
+
+00:58:17.760 --> 00:58:22.000
+[Amit Varma]: those two books, I think will be a gateway to a lot of other reading on the subject.
+
+00:58:22.000 --> 00:58:27.120
+[Amit Varma]: Any Indian authors or books that come to mind? No, yeah. Libertarian India. It is up to me.
+
+00:58:27.120 --> 00:58:33.440
+[Amit Varma]: A heavy burden. My friend Sancho had some good libertarian ideas.
+
+00:58:33.440 --> 00:58:36.880
+[Amit Varma]: I don't even remember. It was a shit book. If any of you read it, I apologize.
+
+00:58:39.680 --> 00:58:45.920
+[Unknown]: All right, we'll go on to quickly to the next question is asked by at Shan say at Twitter.
+
+00:58:45.920 --> 00:58:51.040
+[Unknown]: His name is Shantanu. He asks, Will Indians create a liberal party like Swatantra in the future to
+
+00:58:51.040 --> 00:58:55.920
+[Unknown]: defeat socialist parties like BJP and Congress? Who do you think would be new Rajaji's and
+
+00:58:55.920 --> 00:59:00.720
+[Amit Varma]: Mussonni's emerging from? Great question. That's a question we've been asking ourselves for,
+
+00:59:00.720 --> 00:59:04.240
+[Amit Varma]: you know, almost decades, virtually, I make myself sound older than I am.
+
+00:59:05.520 --> 00:59:11.840
+[Amit Varma]: But, you know, a lot of people very foolishly put their faith in the BJP and thought that when Modi
+
+00:59:11.840 --> 00:59:17.760
+[Amit Varma]: said things like minimum government, maximum governance, that he was of that persuasion.
+
+00:59:17.760 --> 00:59:20.480
+[Amit Varma]: By the way, that line was on a cover of Pragati many, many years ago.
+
+00:59:20.480 --> 00:59:28.640
+[Unknown]: I mean, I wasn't part of it. So I have, but I mean, I wasn't part of Pragati,
+
+00:59:28.640 --> 00:59:34.400
+[Amit Varma]: then this is what I've been told. But, but like Shantanu correctly said in his question,
+
+00:59:34.400 --> 00:59:41.120
+[Amit Varma]: Modi is as socialist as all the as his favorite Nehru or Indira, if not more in some ways.
+
+00:59:43.360 --> 00:59:48.320
+[Amit Varma]: The point is, I'll go back to what I said earlier, when when I think of the political marketplace,
+
+00:59:48.320 --> 00:59:52.560
+[Amit Varma]: the party is part of the supply, right? The party is on the supply side. I'm saying don't think of
+
+00:59:52.560 --> 00:59:57.280
+[Amit Varma]: the supply side, think of the demand side. Till there is demand for it, the supply won't be there.
+
+00:59:57.280 --> 01:00:02.880
+[Amit Varma]: When people demand a liberal slash, you know, free thinking party or party that stands for
+
+01:00:02.880 --> 01:00:08.720
+[Amit Varma]: individual liberty, like Rajaji and Meenu Mussonni did, then there will be that party. But do people
+
+01:00:08.720 --> 01:00:12.800
+[Amit Varma]: demand it? No, those ideas are not in the culture, they're not part of the discourse. Then why should
+
+01:00:12.800 --> 01:00:17.200
+[Amit Varma]: that party be there? And many of the people who said that they believed in that and they
+
+01:00:17.200 --> 01:00:22.320
+[Amit Varma]: subsequently supported Modi, even when it was obvious that Modi is socialist in his economics
+
+01:00:22.320 --> 01:00:27.440
+[Amit Varma]: and authoritarian in his approach to governance in general, and both of which should completely
+
+01:00:27.440 --> 01:00:31.280
+[Amit Varma]: be the opposite of what you should stand for. They continued supporting him, they rationalized it,
+
+01:00:31.280 --> 01:00:38.000
+[Amit Varma]: which makes me like I, I wrote this piece for Pragati in editorial last year, which I think
+
+01:00:38.000 --> 01:00:41.920
+[Amit Varma]: is our most read piece ever in terms of views or whatever. It's called Beware of the Useful Idiots.
+
+01:00:41.920 --> 01:00:47.200
+[Amit Varma]: So do a search for that, Beware of the Useful Idiots, which talks about exactly this, that all
+
+01:00:47.200 --> 01:00:53.200
+[Amit Varma]: of these people gave him legitimacy by sort of pretending that BJP was a great liberal party,
+
+01:00:53.200 --> 01:00:58.560
+[Unknown]: which is, of course, a joke. Right. At Anand Hegde on Twitter asks, if you were to create
+
+01:00:58.560 --> 01:01:03.600
+[Unknown]: a utopian country, what would be the role of the state in it? Ideally, the role of the state should
+
+01:01:03.600 --> 01:01:09.280
+[Amit Varma]: be restricted to protecting rights. But the thing is, and if you're actually interested in this in
+
+01:01:09.280 --> 01:01:14.800
+[Amit Varma]: a theoretical sense, then Robert Nozick wrote a great book called Anarchy, State and Utopia.
+
+01:01:14.800 --> 01:01:19.600
+[Amit Varma]: And David Friedman wrote a book called The Machinery of Freedom, Milton's son, David
+
+01:01:19.600 --> 01:01:25.600
+[Amit Varma]: Friedman. And both of them sort of say that you don't need a government at all. And they tease
+
+01:01:25.600 --> 01:01:29.840
+[Amit Varma]: out that idea to his logical conclusions and they show how it's possible to live without a state at
+
+01:01:29.840 --> 01:01:36.080
+[Amit Varma]: all. Which I don't agree with because my mind can't wrap itself around it. It's probably a flaw
+
+01:01:36.080 --> 01:01:41.120
+[Amit Varma]: on my part, that I think there does need to be some government which protects our rights and so
+
+01:01:41.120 --> 01:01:47.120
+[Amit Varma]: on. But it should not do much more than that. But the question is sort of not something I give great,
+
+01:01:47.120 --> 01:01:51.840
+[Amit Varma]: I mean, not something that the point is, we live in the real world that we live in,
+
+01:01:51.840 --> 01:01:56.480
+[Amit Varma]: and all our battles are for more freedom. And we know that more freedom helps. Right. And
+
+01:01:57.280 --> 01:02:00.480
+[Amit Varma]: why think of utopia? I mean, utopian thinkers are the most dangerous.
+
+01:02:00.480 --> 01:02:06.240
+[Unknown]: Okay. You got a question on Facebook from Darshana Mhatre, where she asked,
+
+01:02:06.240 --> 01:02:10.640
+[Unknown]: you expressed your displeasure on demonetization when it was announced. Today, more than a year
+
+01:02:10.640 --> 01:02:14.720
+[Unknown]: has passed. Obviously, the cash crunch still remains. And it will only increase with the
+
+01:02:14.720 --> 01:02:19.600
+[Unknown]: elections coming in. But otherwise, do you still believe it is too bad a move for the economy?
+
+01:02:19.600 --> 01:02:23.600
+[Amit Varma]: Is it too bad a move? It's a disastrous move. I said it at the time I said it repeatedly again
+
+01:02:23.600 --> 01:02:27.360
+[Amit Varma]: and again, I stand by it and I'm going to raise my finger and say, I told you so.
+
+01:02:27.360 --> 01:02:31.520
+[Amit Varma]: Right. I think I was completely right. I won't give myself much credit for being completely
+
+01:02:31.520 --> 01:02:35.040
+[Amit Varma]: right. Because anybody with half a brain could have seen that it was going to be a disaster for
+
+01:02:35.040 --> 01:02:40.640
+[Amit Varma]: the economy. And its consequences go far beyond the cash crunch, current cash crunch. It's gonna
+
+01:02:40.640 --> 01:02:46.560
+[Amit Varma]: be you know, it destroyed lives. It, it was a humanitarian disaster. And the fact that there
+
+01:02:46.560 --> 01:02:50.400
+[Amit Varma]: are some people who call themselves economists who can say, hey, in the long run, it'll help us
+
+01:02:50.400 --> 01:02:55.600
+[Amit Varma]: we'll talk about costs and benefits, though, the the presumed benefits may happen to one group of
+
+01:02:55.600 --> 01:02:59.760
+[Amit Varma]: people and the costs are on another group of people and it's overwhelmingly hurt the poor.
+
+01:02:59.760 --> 01:03:04.960
+[Amit Varma]: I find that repulsive and disgusting. demonetization was a disaster. It was a unilateral
+
+01:03:04.960 --> 01:03:11.200
+[Amit Varma]: move by a mad despotic leader who doesn't have a clue about economics. And I condemned it then
+
+01:03:11.200 --> 01:03:15.360
+[Amit Varma]: and I condemn it now and my condemning it is really meaningless because it's it's damaged this
+
+01:03:15.360 --> 01:03:21.680
+[Unknown]: country. All right. Another question from Twitter from at the luck 365, whose name is the luck
+
+01:03:21.680 --> 01:03:27.440
+[Unknown]: comment, also a very regular Cyrus listener. He sent in a question that says just read the WHO's
+
+01:03:27.440 --> 01:03:32.240
+[Unknown]: report on air pollution. How do you think our country should lay out a concrete plan on tackling
+
+01:03:32.240 --> 01:03:37.520
+[Unknown]: the issue, regulations, penalties, rewards for states, private entities who tackle it, public
+
+01:03:37.520 --> 01:03:44.320
+[Amit Varma]: awareness, etc. Okay, so I'm not an expert on the environment or WHO. So I can't go into specifics.
+
+01:03:44.320 --> 01:03:51.040
+[Amit Varma]: But I would just say that to identify a problem and say we should do this is a little too
+
+01:03:51.040 --> 01:03:56.400
+[Amit Varma]: too simple. What often happens is if you remember, boss, if we I had an episode with Vivek Kaul
+
+01:03:56.400 --> 01:04:03.600
+[Amit Varma]: on the pollution in Delhi. And what Vivek pointed out, and this is like really an interesting way
+
+01:04:03.600 --> 01:04:08.000
+[Amit Varma]: of thinking about this problem in the political economy. What Vivek pointed out was that look,
+
+01:04:08.000 --> 01:04:13.280
+[Amit Varma]: the pollution in Delhi is happening because farmers in Punjab are burning rice and it's
+
+01:04:13.280 --> 01:04:18.400
+[Amit Varma]: a leftover of that the rice husk or whatever, which they are burning that after you know,
+
+01:04:18.400 --> 01:04:22.000
+[Amit Varma]: because they have no other way of getting rid of it. And the fumes because of the way the wind
+
+01:04:22.000 --> 01:04:26.480
+[Amit Varma]: blows is going to Delhi. Now the thing is, if you one of the reasons that is happening is that rice
+
+01:04:26.480 --> 01:04:31.360
+[Amit Varma]: first of all should not be grown in Punjab at all is a point he made, because it's a water intensive
+
+01:04:31.360 --> 01:04:35.840
+[Amit Varma]: crop in Punjab is relatively arid. Why is it grown there? Because of government subsidies and
+
+01:04:35.840 --> 01:04:40.080
+[Amit Varma]: electricity and these people can just drill out from their bore wells as much water as they need
+
+01:04:40.080 --> 01:04:44.240
+[Amit Varma]: to. So that is an unseen effect of a government subsidy, which you see right there, the Delhi
+
+01:04:44.240 --> 01:04:50.080
+[Amit Varma]: pollution. And if you are going to solve this, how would you solve this? You can't just say that,
+
+01:04:50.080 --> 01:04:54.080
+[Amit Varma]: let us make it a crime to burn that because you don't have the state capacity to actually
+
+01:04:54.080 --> 01:04:58.080
+[Amit Varma]: enforce anything. All that will happen is that the few cops that you have will just get more bribes.
+
+01:04:59.280 --> 01:05:03.840
+[Amit Varma]: And it's a political problem because government of Punjab is not going to do anything about it.
+
+01:05:03.840 --> 01:05:08.640
+[Amit Varma]: You know, so Kejriwal will go to the Punjab CM and say ki bhai iska kuch karo, but the Punjab CM
+
+01:05:08.640 --> 01:05:13.360
+[Amit Varma]: needs those votes. Any party which pisses off the farmers of Punjab is not going to come to power in
+
+01:05:13.360 --> 01:05:18.160
+[Amit Varma]: Punjab. So no party is going to do that. How do you solve the problem? Poor Kejriwal in Delhi is,
+
+01:05:18.160 --> 01:05:21.840
+[Amit Varma]: you know, putting his muffler and having asthma because of that. But there's nothing he can
+
+01:05:21.840 --> 01:05:27.120
+[Amit Varma]: practically do. This is such a huge problem that I can't even think of a possible solution for it,
+
+01:05:27.120 --> 01:05:34.400
+[Amit Varma]: even if there's a dictator at the centre and he really won't, you know, how? And a lot of
+
+01:05:34.400 --> 01:05:39.360
+[Amit Varma]: governance problems are of this nature. So if you're on the outside and you say that, oh, okay,
+
+01:05:39.360 --> 01:05:43.360
+[Amit Varma]: this is happening because farmers are and all of the Delhi pollution isn't because of this. This is
+
+01:05:43.360 --> 01:05:47.360
+[Amit Varma]: sort of that takes it beyond the tipping point. But say, okay, ban the farmers from doing that,
+
+01:05:47.360 --> 01:05:53.760
+[Amit Varma]: or whatever. But those are very easy answers. Those don't work. No answer. So these are huge
+
+01:05:53.760 --> 01:05:59.040
+[Amit Varma]: problems. So for me, having literally no understanding of the environment and what
+
+01:05:59.040 --> 01:06:02.960
+[Amit Varma]: the WHO might have done. But when I say no understanding of the environment, I mean,
+
+01:06:02.960 --> 01:06:10.000
+[Amit Varma]: the sort of the specific politics as in this case, I really can't say anything. All right.
+
+01:06:10.000 --> 01:06:16.240
+[Unknown]: Devan Roy, whose Twitter handle is at FA2Lingman asks, why is there no faith in free markets in
+
+01:06:16.240 --> 01:06:21.920
+[Amit Varma]: India in spite of its many successes? Because it's counterintuitive. And this is something
+
+01:06:21.920 --> 01:06:27.840
+[Amit Varma]: like many of the basic precepts of free markets are counterintuitive. This goes back to what I
+
+01:06:27.840 --> 01:06:33.120
+[Amit Varma]: was saying about human nature earlier, that we've evolved, we evolved in prehistoric times,
+
+01:06:33.120 --> 01:06:37.680
+[Amit Varma]: our instincts have evolved in prehistoric times. So number one, we thought of the world in zero
+
+01:06:37.680 --> 01:06:42.640
+[Amit Varma]: some ways, that if I get something, because those were times of scarcity. So you know,
+
+01:06:42.640 --> 01:06:47.040
+[Amit Varma]: there's a dead deer. If I get the deer, the other tribe won't. If the other tribe gets it,
+
+01:06:47.040 --> 01:06:51.520
+[Amit Varma]: we won't. You think of the world in zero some ways. So if somebody wins, somebody else loses.
+
+01:06:51.520 --> 01:06:55.040
+[Amit Varma]: That's how you think of the economy. So you assume that the solution to poverty must be
+
+01:06:55.040 --> 01:06:59.040
+[Amit Varma]: redistribution. You assume that if the rich are getting rich, it can only be if the poor are
+
+01:06:59.040 --> 01:07:04.000
+[Amit Varma]: getting poorer, and so on. The positive sumness of things, which is one of the great insights of
+
+01:07:05.360 --> 01:07:10.160
+[Amit Varma]: insights about the world is very counterintuitive and very hard to get across. Number one,
+
+01:07:10.160 --> 01:07:16.320
+[Amit Varma]: spontaneous order, that's large systems can run by themselves, that languages can evolve and form
+
+01:07:16.320 --> 01:07:21.520
+[Amit Varma]: up with sets of rules and all that on their own without a central committee planning it and saying
+
+01:07:21.520 --> 01:07:28.720
+[Amit Varma]: this is how you should use a comma. People don't get that. You know, spontaneous order is because
+
+01:07:28.720 --> 01:07:32.720
+[Amit Varma]: back in prehistoric times when we evolved, everything was on a scale where you could
+
+01:07:32.720 --> 01:07:37.120
+[Amit Varma]: plan it and control it. But large societies are not like that. We run through spontaneous order,
+
+01:07:37.120 --> 01:07:41.680
+[Amit Varma]: markets are spontaneous order, languages are spontaneous order. To go back to I pencil by
+
+01:07:41.680 --> 01:07:46.000
+[Amit Varma]: Leonard Reed, that is a case of spontaneous order where millions of people combine to produce a
+
+01:07:46.000 --> 01:07:50.240
+[Amit Varma]: pencil for you, yet you don't know anything about them and they don't know anything about you.
+
+01:07:50.240 --> 01:07:55.760
+[Amit Varma]: Deeply counterintuitive, right? So all the ideas of about free markets are extremely
+
+01:07:55.760 --> 01:08:01.120
+[Amit Varma]: counterintuitive. Whereas all these sort of command and control socialist ideas that government will
+
+01:08:01.120 --> 01:08:05.760
+[Amit Varma]: plan everything and all of that, despite all evidence to the contrary over the last few
+
+01:08:05.760 --> 01:08:10.560
+[Amit Varma]: decades of how that works out. They still remain strong in the popular imagination.
+
+01:08:10.560 --> 01:08:13.600
+[Unknown]: All right. Okay, let's take some last few questions.
+
+01:08:13.600 --> 01:08:19.680
+[Unknown]: Damanbir Singh, whose Twitter handle is DamanbirSingh9 asks for spreading ideas of
+
+01:08:19.680 --> 01:08:25.280
+[Unknown]: liberalism, which is better a podcast championing liberalism, criticizing reactionary forces with
+
+01:08:25.280 --> 01:08:30.480
+[Unknown]: like minded experts or a podcast run by a liberal who gets people from the other end of the political
+
+01:08:30.480 --> 01:08:35.360
+[Unknown]: spectrum on the show and engage them using logic and data, not political correctness.
+
+01:08:36.000 --> 01:08:41.280
+[Amit Varma]: Right. And this is a common, I mean, this is a question others have also asked. Why don't you
+
+01:08:41.280 --> 01:08:46.080
+[Amit Varma]: get people you disagree with? And my answer to that is I have. Did you listen to my future of
+
+01:08:46.080 --> 01:08:50.560
+[Amit Varma]: the internet episode with Nikhil Pawar? It was very lively. We were arguing all the time. Vivek
+
+01:08:50.560 --> 01:08:54.320
+[Amit Varma]: Kaul is a frequent guest on the show. And we disagree over a lot of things. I mean, he's not
+
+01:08:54.320 --> 01:08:58.800
+[Amit Varma]: a libertarian, certainly like me, very close friend, very fine mind. So I try to engage with
+
+01:08:58.800 --> 01:09:05.760
+[Amit Varma]: people who don't think the way I do. At the same time, I must say that this quest for balance in
+
+01:09:05.760 --> 01:09:10.480
+[Amit Varma]: the personal domain, like this is a personal podcast, it's my podcast after all, is not
+
+01:09:10.480 --> 01:09:16.080
+[Amit Varma]: always necessary. For example, there are ideologies that I find repulsive, right? I will never bring
+
+01:09:16.080 --> 01:09:21.360
+[Amit Varma]: in, say, a Hindutva bigot here who will argue that Muslims don't belong in India. I find that
+
+01:09:21.360 --> 01:09:25.520
+[Amit Varma]: kind of thinking so repulsive, I will never have him here. Equally, I will never bring in somebody
+
+01:09:25.520 --> 01:09:31.680
+[Amit Varma]: here who, for example, doesn't care about individual rights or who believes in mass scale
+
+01:09:31.680 --> 01:09:35.920
+[Amit Varma]: coercion or social engineering. Again, I find that equally repulsive. Why should I engage with
+
+01:09:35.920 --> 01:09:39.920
+[Unknown]: those people? Those ideas are dangerous. Do you not subscribe to the idea that if you get someone
+
+01:09:39.920 --> 01:09:45.280
+[Unknown]: like that, you and him or her will find a common ground somewhere and they each of you go back
+
+01:09:45.280 --> 01:09:49.840
+[Amit Varma]: with something? Sure, no, I'd love to find common ground with conservatives and left liberals. But
+
+01:09:49.840 --> 01:09:53.760
+[Amit Varma]: I'm saying there are some categories of people on the far right and the far left, right, there is
+
+01:09:53.760 --> 01:09:59.120
+[Amit Varma]: no common ground possible with. So why even try if someone is going to sit across me and tell me
+
+01:09:59.120 --> 01:10:03.520
+[Amit Varma]: that Muslims don't belong in India, and it's a Hindu nation. I don't even want to have that
+
+01:10:03.520 --> 01:10:09.600
+[Amit Varma]: conversation. And maybe it's wrong on my part to react so strongly against that. But I don't want
+
+01:10:09.600 --> 01:10:15.040
+[Unknown]: to have that conversation. Okay. Vimal Roy on Facebook asked what's closer to you cricket or
+
+01:10:15.040 --> 01:10:21.920
+[Amit Varma]: poker? Okay, I haven't actually, I've been a poker player and pretty good practitioner. I am not a
+
+01:10:21.920 --> 01:10:27.120
+[Amit Varma]: cricket player. Though I've bowled three balls to Rahul Dravid and he was clean bowled. But this was
+
+01:10:27.120 --> 01:10:32.480
+[Unknown]: not proper cricket. What happened on the third ball? I used to I used to work in cricket force.
+
+01:10:32.480 --> 01:10:36.720
+[Amit Varma]: So he had come over and he used to play office cricket with this sort of plasticky kind of ball,
+
+01:10:36.720 --> 01:10:40.960
+[Amit Varma]: which you could squeeze and I figured out a way of squeezing it and imparting phenomenal forward
+
+01:10:40.960 --> 01:10:45.840
+[Amit Varma]: spin. And the first ball was a wide the next two he was bold and then he called me showy when he
+
+01:10:45.840 --> 01:10:50.320
+[Amit Varma]: refused to play anymore. Although I had to point out that I wasn't chucking it was fingers that
+
+01:10:50.320 --> 01:10:53.760
+[Unknown]: were generating the pace because of the nature of the ball. Or was he just being good to the
+
+01:10:53.760 --> 01:10:59.680
+[Amit Varma]: managing editor then? No, no, no. He wouldn't give a shit about that. He's a delightful man,
+
+01:10:59.680 --> 01:11:05.040
+[Amit Varma]: but I don't think he'll get deliberately clean bowled by anyone. No, but in real cricket,
+
+01:11:05.040 --> 01:11:08.880
+[Amit Varma]: I'd be a complete joke. But I love both of them. I you know, sports are sports. I mean,
+
+01:11:10.000 --> 01:11:14.240
+[Unknown]: Vimal's second question was, do you think Dan Bilzerian made all his money playing poker?
+
+01:11:15.120 --> 01:11:19.040
+[Amit Varma]: No, of course not. He's just like a celebrity. He's like the Kim Kardashian of that kind of
+
+01:11:20.880 --> 01:11:25.920
+[Unknown]: to interject. I think you've done a podcast on cricket, right? Like, or a series of
+
+01:11:25.920 --> 01:11:32.640
+[Amit Varma]: audio. Yeah, I've done. Yeah. So me and Prem Panicker, the legendary. I'm reading somewhere.
+
+01:11:32.640 --> 01:11:39.280
+[Amit Varma]: Yeah. So we've done for the company Storytel. We did 10 turning points in Indian cricket. So it's
+
+01:11:39.280 --> 01:11:45.040
+[Amit Varma]: a 10 episode series, which starts with Seekh and Aidu and ends with Virat Kohli. So yeah,
+
+01:11:45.040 --> 01:11:50.640
+[Unknown]: check that out. Storytel.in I think. His third question was, what is the path to legalize
+
+01:11:50.640 --> 01:11:55.920
+[Unknown]: traditional vices and he puts vices in courts like sports betting or poker in India?
+
+01:11:55.920 --> 01:11:59.920
+[Amit Varma]: Yeah, I mean, first of all, of course, I agree with him with the presumption that they should
+
+01:11:59.920 --> 01:12:04.560
+[Amit Varma]: not be illegal. They should absolutely be legal and people conflate match fixing and betting and
+
+01:12:04.560 --> 01:12:09.120
+[Amit Varma]: I'm like, no, they're completely different things that legalizing betting will actually stop match
+
+01:12:09.120 --> 01:12:15.360
+[Amit Varma]: fixing. Like the moment you make something illegal, the underworld gets in. And that increases the
+
+01:12:15.360 --> 01:12:23.920
+[Amit Varma]: chance of nefarious activities like this lovely word. So what are the chances? I honestly think
+
+01:12:23.920 --> 01:12:29.200
+[Amit Varma]: that you are not going to do it through reason and logic. It will only happen if some powerful
+
+01:12:29.200 --> 01:12:34.480
+[Amit Varma]: interest group decides that there is something in it for them. Like for example, Mukesh Ambani says,
+
+01:12:34.480 --> 01:12:39.360
+[Amit Varma]: I want to do a casino in Bombay. And he realizes that's going to be very profitable. And then he
+
+01:12:40.080 --> 01:12:44.480
+[Amit Varma]: tells the government to change it. So if if something like that happens,
+
+01:12:45.360 --> 01:12:50.560
+[Amit Varma]: so if that changes, sometimes laws changing for the better can be because of the wrong reasons like
+
+01:12:50.560 --> 01:12:56.320
+[Unknown]: this. All right, last three questions. This one is from Rajesh Bhateja. His Twitter handle is
+
+01:12:56.320 --> 01:13:01.920
+[Unknown]: Bhateja Rajesh. Props to him for sending a screenshot and not typing out the entire question.
+
+01:13:01.920 --> 01:13:08.160
+[Unknown]: It's a longish question with a comment. He says, Hi Amit, where and how do you see hope for India?
+
+01:13:08.160 --> 01:13:13.760
+[Unknown]: Corruption has gotten into our DNA education, perhaps the only hope is broken. Political
+
+01:13:13.760 --> 01:13:19.120
+[Unknown]: scene seems degenerative. Perhaps only thing that worries politicians is winning next election.
+
+01:13:19.120 --> 01:13:24.000
+[Unknown]: Valueless lives lost by dozens and hundreds every day in road accidents, medical apathy,
+
+01:13:24.000 --> 01:13:29.360
+[Unknown]: violent clashes, etc. Filth all around, missing civic sense. You may say we are a country still
+
+01:13:29.360 --> 01:13:34.400
+[Unknown]: in the making and the tolerance to accept this messiness is in some way part of our struggle
+
+01:13:34.400 --> 01:13:40.400
+[Unknown]: towards the hope that woe subha kabhi to aayegi. Okay, where's the question? The question was first
+
+01:13:40.400 --> 01:13:44.960
+[Unknown]: sentence. Where and how do you see hope for India? I think somebody else also asked a question.
+
+01:13:44.960 --> 01:13:49.760
+[Unknown]: They asked one one good thing and one thing that depresses you and one thing that gives you hope.
+
+01:13:49.760 --> 01:13:55.520
+[Unknown]: Yeah, so let's let's just name the person in the Twitter handle. So that question is asked by
+
+01:13:55.520 --> 01:13:59.280
+[Unknown]: Rohit Ajit Kumar. One thing that gives you despair and one thing about Indian politics
+
+01:13:59.280 --> 01:14:03.280
+[Unknown]: that gives you hope. I think we've spoken about despair a lot. What gives you hope?
+
+01:14:03.280 --> 01:14:06.640
+[Amit Varma]: What gives me hope? And I think I've said this in another context. I think I might have said
+
+01:14:06.640 --> 01:14:11.200
+[Amit Varma]: this in my podcast with libertarianism. What gives me hope is that many of the
+
+01:14:14.160 --> 01:14:18.080
+[Amit Varma]: much of what we could not achieve with political struggle, maybe technology will do for us,
+
+01:14:18.080 --> 01:14:24.160
+[Amit Varma]: maybe technology will empower the individual in ways that political battles could not. And
+
+01:14:25.040 --> 01:14:30.000
+[Amit Varma]: so that gives me hope, but it's like really an unknown unknown and it can work both ways.
+
+01:14:30.000 --> 01:14:36.080
+[Amit Varma]: Technology can actually help governments oppress us more and take more of our powers away in which
+
+01:14:36.080 --> 01:14:41.040
+[Amit Varma]: we, for example, see with the all pervasive surveillance system of Aadhaar coming in and
+
+01:14:41.040 --> 01:14:48.160
+[Amit Varma]: so on and so forth. So it can work both ways. But I just think that, you know, technology can
+
+01:14:48.160 --> 01:14:53.120
+[Amit Varma]: empower individuals more than all of this, you know, ivory tower talk.
+
+01:14:55.040 --> 01:14:59.760
+[Unknown]: At madmanweb, Madhu Menon asked, Who is your favorite photographer and why is it me?
+
+01:15:00.640 --> 01:15:05.520
+[Amit Varma]: So Madhu Menon is my very old friend. And all my DPs you see of me everywhere on Twitter,
+
+01:15:05.520 --> 01:15:10.240
+[Amit Varma]: Facebook, whatever are basically shot by Madhu Menon. Brilliant photographer, not all he does,
+
+01:15:10.240 --> 01:15:14.880
+[Amit Varma]: he ran a great restaurant called Shiok, which unfortunately no longer exists. And I've done
+
+01:15:14.880 --> 01:15:20.080
+[Amit Varma]: an episode with Madhu Menon on restaurant regulations. Yeah, so you should check that
+
+01:15:20.080 --> 01:15:25.040
+[Amit Varma]: out. Delightful guy. And he also on the side, good at tech and makes websites. So the website
+
+01:15:25.040 --> 01:15:30.800
+[Amit Varma]: of Pragati, thinkpragati.com is again made by Madhu Menon. So my favorite photographer is
+
+01:15:31.440 --> 01:15:36.720
+[Amit Varma]: Madhu Menon. And why? Because I say so. It's a circular reasoning. I'm allowed that.
+
+01:15:36.720 --> 01:15:42.320
+[Unknown]: All right. And the last question asked by at Veena Venugopal,
+
+01:15:42.320 --> 01:15:46.560
+[Unknown]: Veena Venugopal asks, which lit Twitter on fire. How are you so handsome?
+
+01:15:47.360 --> 01:15:51.600
+[Amit Varma]: Veena Venugopal is messing with me. She's my good friend. She's messing with me. I have a Facebook
+
+01:15:51.600 --> 01:15:55.760
+[Amit Varma]: podcast. I know this has gone on quite long, but I just want to quickly mention to try to sort of
+
+01:15:55.760 --> 01:16:00.400
+[Amit Varma]: go through every question since I've printed out a list. I don't want to leave anyone out. They took
+
+01:16:00.400 --> 01:16:07.040
+[Amit Varma]: the trouble to ask. Satya Piyani from Punni Talks asks, typical policymaking pitfalls that government
+
+01:16:07.040 --> 01:16:12.320
+[Amit Varma]: makes but private enterprises generally avoid and pitfalls that both are equally likely to fall into.
+
+01:16:12.320 --> 01:16:16.720
+[Amit Varma]: Okay, because Abbas is on my head. I don't want to spend too much time. But I would say that
+
+01:16:17.520 --> 01:16:20.960
+[Amit Varma]: more than policymaking pitfalls, policymaking pitfalls that government makes come
+
+01:16:21.680 --> 01:16:27.680
+[Amit Varma]: if you ignore incentives. If you just look at intentions, a private enterprise who has to go
+
+01:16:27.680 --> 01:16:31.760
+[Amit Varma]: beyond intentions and think about outcomes because the bottom line depends on it, the survival
+
+01:16:31.760 --> 01:16:37.040
+[Amit Varma]: depends on it. Government enterprises can often do ignore outcomes and do things for good intentions
+
+01:16:37.040 --> 01:16:40.720
+[Amit Varma]: because the optics are good that we are doing this because we care about you regardless of the
+
+01:16:40.720 --> 01:16:45.920
+[Amit Varma]: optics. This is especially true for moves, which play out over a long period of time because
+
+01:16:45.920 --> 01:16:52.720
+[Amit Varma]: politicians tend to be focused on the next elections. So I mean, I would have a lot more
+
+01:16:52.720 --> 01:16:58.560
+[Amit Varma]: to say about this, but I'll move on. Discussion, Anand Hegde again, discussion on whether taxation
+
+01:16:58.560 --> 01:17:02.400
+[Amit Varma]: is theft or property is theft. I find the notion of property being theft is completely bizarre.
+
+01:17:03.360 --> 01:17:09.600
+[Amit Varma]: And the reason for that, it is this and we had, I had a, there was an episode of the scene in
+
+01:17:09.600 --> 01:17:13.280
+[Amit Varma]: The Unseen which Shruti Rajagopalan joined and spoke about the right to property. And for a
+
+01:17:13.280 --> 01:17:16.880
+[Amit Varma]: little bit of that, she also spoke about the fundamental philosophical basis of why you need
+
+01:17:16.880 --> 01:17:20.800
+[Amit Varma]: property, which is because there is scarcity in the world. Everybody can't have everything,
+
+01:17:20.800 --> 01:17:24.480
+[Amit Varma]: things are scarce. And if you don't have a system of property rights, you will essentially have
+
+01:17:24.480 --> 01:17:28.880
+[Amit Varma]: chaos and violence all the time. You know, then what stops me from picking up this mic from IBM
+
+01:17:28.880 --> 01:17:32.640
+[Amit Varma]: podcast and just taking it with me and saying, this is now mine. And then Amit Doshi will have
+
+01:17:32.640 --> 01:17:36.240
+[Amit Varma]: to sit here all the time to defend his equipment. The world can't function like that. You have
+
+01:17:36.240 --> 01:17:40.880
+[Amit Varma]: property rights for a reason. And again, I wanted to elaborate on this, but we're running out of
+
+01:17:40.880 --> 01:17:45.840
+[Amit Varma]: time. What's the value advantage of voting? Nota, Kelvin, Inc. We've been through this.
+
+01:17:45.840 --> 01:17:50.320
+[Amit Varma]: We've been through Krishnakumar. Okay. Someone called awevenger at pop underscore Mac,
+
+01:17:51.200 --> 01:17:56.400
+[Amit Varma]: which is awevenger. So it's like, I don't know whether he's punning on the Avengers or Arsene
+
+01:17:56.400 --> 01:18:02.960
+[Amit Varma]: Wenger or both. He has a snarky question. What's not wrong with our country? Which I think is
+
+01:18:02.960 --> 01:18:07.920
+[Amit Varma]: taking a dig at me that maybe I'm too negative or something. I guess. What's not wrong with our
+
+01:18:07.920 --> 01:18:11.520
+[Amit Varma]: country? I'll give you a serious answer and it's counterintuitive. What's not wrong with our
+
+01:18:11.520 --> 01:18:16.400
+[Amit Varma]: country is population. From our childhood. No, I'm serious. From our childhood, we've been
+
+01:18:16.400 --> 01:18:20.880
+[Amit Varma]: indoctrinated with the notion that population is a great problem. And that is a mistake. I've
+
+01:18:20.880 --> 01:18:24.800
+[Amit Varma]: written columns about this. You can search for them on IndiaUncut.com. That population is our
+
+01:18:24.800 --> 01:18:29.200
+[Amit Varma]: greatest strength because it's a positive some world, human beings are in the words of the
+
+01:18:29.200 --> 01:18:34.560
+[Amit Varma]: economist Julian Simon, the ultimate resource. So I think what is not wrong with our country,
+
+01:18:34.560 --> 01:18:39.200
+[Amit Varma]: people are not wrong with our country. And it's interesting every time someone says India ka
+
+01:18:39.200 --> 01:18:47.680
+[Amit Varma]: problem population, they basically mean everybody else but themselves. Okay, Mayur Date at Mayur
+
+01:18:47.680 --> 01:18:52.160
+[Amit Varma]: 1441. On what grounds do you support net neutrality? It seems contrary to your belief
+
+01:18:52.160 --> 01:18:56.960
+[Amit Varma]: system. Someone else also asked about net neutrality. I don't support net neutrality. I
+
+01:18:56.960 --> 01:19:01.600
+[Amit Varma]: don't oppose it either. Let me explain what is my belief system. If I'm coming from a position
+
+01:19:01.600 --> 01:19:05.040
+[Amit Varma]: of property rights, and this is something I mentioned in my episode on the future of the
+
+01:19:05.040 --> 01:19:11.360
+[Amit Varma]: internet with Nikhil where we were arguing, is that I always when you contest the use of a
+
+01:19:11.360 --> 01:19:15.520
+[Amit Varma]: resource, I look at who owns it. Now it so happens that spectrum in this country is owned by the
+
+01:19:15.520 --> 01:19:19.120
+[Amit Varma]: government. It's a different argument whether the government should own spectrum and if not,
+
+01:19:19.120 --> 01:19:22.400
+[Amit Varma]: what do you do with it. But given that the government owns a spectrum, they have the right
+
+01:19:22.400 --> 01:19:28.960
+[Amit Varma]: to set the conditions on it on how people may use it and so on. And what the net neutrality advocates
+
+01:19:28.960 --> 01:19:32.960
+[Amit Varma]: like my friend Nikhil were fighting for is that these are the XYZ are the conditions you should
+
+01:19:32.960 --> 01:19:39.120
+[Amit Varma]: set. Others were saying ABC, they have the right to ask for those conditions as an interest group.
+
+01:19:39.120 --> 01:19:44.720
+[Amit Varma]: Now, personally, I would just say that every ISP should normally have the right to offer whatever
+
+01:19:44.720 --> 01:19:48.880
+[Amit Varma]: it wants to the customers and then you let them compete. Nikhil's point was that there isn't real
+
+01:19:48.880 --> 01:19:53.200
+[Amit Varma]: competition, it's a cartel, in which case what the government should do is make sure that there
+
+01:19:53.200 --> 01:19:57.040
+[Amit Varma]: isn't a cartel and it's a competitive market. And generally, if there is a cartel, and if there
+
+01:19:57.040 --> 01:20:00.640
+[Amit Varma]: isn't competition is because the government is doing something wrong is getting in the way.
+
+01:20:00.640 --> 01:20:05.280
+[Amit Varma]: So, this is a broad argument. So, but I on the whole, I think the debate is moot. It doesn't
+
+01:20:05.280 --> 01:20:10.320
+[Amit Varma]: make a difference. I mean, but I don't either support or oppose it. You know, more power to
+
+01:20:10.320 --> 01:20:18.480
+[Amit Varma]: Nikhil as one interest group to ask for what he wants to. Mohit Dodwani asked a number of
+
+01:20:18.480 --> 01:20:24.000
+[Amit Varma]: questions. I'll kind of skip them because we covered two of them. We covered a couple of them.
+
+01:20:24.000 --> 01:20:29.280
+[Amit Varma]: Shaswath asked a question about is consent an unseen factor of well-being not captured in the
+
+01:20:29.280 --> 01:20:36.320
+[Amit Varma]: World Happiness Index? Could the lack of it be a reason for India's plummeting rank? I didn't
+
+01:20:36.320 --> 01:20:41.440
+[Amit Varma]: understand the question Shaswath, I'm really sorry. I'm not trying to, you know, if you can
+
+01:20:41.440 --> 01:20:47.440
+[Amit Varma]: clarify exactly what you meant by that, maybe in a future episode. And Euclid asked the same
+
+01:20:47.440 --> 01:20:54.240
+[Amit Varma]: question about why don't I invite someone who has views contrary to mine? I do, bro. I did. And
+
+01:20:54.240 --> 01:21:02.800
+[Amit Varma]: yeah. And if you disagree with me, well, come on the show. Yeah. Is there a way besides funding
+
+01:21:02.800 --> 01:21:06.400
+[Amit Varma]: or joining mainstream politics that NRIs can bring about meaningful, sustainable and positive
+
+01:21:06.400 --> 01:21:12.880
+[Amit Varma]: change in the country? Anhat Gill at Anhat underscore Gill. Again, the same answer, I think
+
+01:21:12.880 --> 01:21:18.160
+[Unknown]: that I gave earlier that just try to get your ideas in the culture, talk to more people about
+
+01:21:18.160 --> 01:21:24.960
+[Amit Varma]: it. Don't let your uncles dominate your Facebook groups, your family Facebook groups. And okay,
+
+01:21:24.960 --> 01:21:32.800
+[Amit Varma]: episode on public sector banks. Oh, we did this. The Euclid question. Okay, a question by Pratik
+
+01:21:32.800 --> 01:21:35.920
+[Amit Varma]: Gupta at Pratik Gupta. You talked about free market and healthcare. What do you think is the
+
+01:21:35.920 --> 01:21:38.960
+[Amit Varma]: role of information asymmetry in terms of healthcare where the consumer doesn't have an
+
+01:21:38.960 --> 01:21:43.120
+[Amit Varma]: enough know-how to make a choice of the price or value of a service remains the same? Example,
+
+01:21:43.120 --> 01:21:48.240
+[Amit Varma]: doctor gives me a choice between two vaccinations for my child. One is 8K, the other is 4K. 8K
+
+01:21:48.240 --> 01:21:53.280
+[Amit Varma]: ones protects against 15 strains, 4K one protects against 12 strains. I can't make a rational choice
+
+01:21:53.280 --> 01:21:58.640
+[Amit Varma]: because information asymmetry. Perfectly, very good question. Again, I would have liked to spend
+
+01:21:58.640 --> 01:22:04.640
+[Amit Varma]: more time on this. But net-net, I'll say two things. Net-net, I'll say that if you don't have
+
+01:22:04.640 --> 01:22:09.200
+[Amit Varma]: a free market here, and if you have a government deciding that the government choices will not come
+
+01:22:09.200 --> 01:22:14.240
+[Amit Varma]: from a position of from a benevolent all knowing position, the government will be captured by
+
+01:22:14.240 --> 01:22:20.960
+[Amit Varma]: special interest groups, who will then dictate what vaccinations they provide and what they don't.
+
+01:22:20.960 --> 01:22:26.160
+[Amit Varma]: The classic example of that is that fundamentally, the obesity epidemic in America was caused by the
+
+01:22:26.160 --> 01:22:32.320
+[Amit Varma]: sugar lobby, funding researchers on health on the one hand, and government bodies on the other.
+
+01:22:32.320 --> 01:22:36.400
+[Amit Varma]: And which is why the government gave those guidelines, which we now know to be untrue,
+
+01:22:36.400 --> 01:22:40.960
+[Amit Varma]: which says saturated fat and cholesterol are bad for you and sugar is perfectly okay. And that's
+
+01:22:40.960 --> 01:22:45.440
+[Amit Varma]: really the one single reason for the obesity epidemic. At some point, I'll do an episode on
+
+01:22:45.440 --> 01:22:50.880
+[Amit Varma]: this. But governments are always captured by special interests. And therefore, I'd rather
+
+01:22:50.880 --> 01:22:54.800
+[Amit Varma]: have a competitive marketplace. And if you have a need as a consumer that there is information
+
+01:22:54.800 --> 01:22:59.120
+[Amit Varma]: asymmetry, how can you make out the difference? I'm sure there'll be players who will then emerge
+
+01:22:59.120 --> 01:23:07.040
+[Amit Varma]: in a marketplace if they're allowed to, will be able to help you mitigate that. And on the RTE
+
+01:23:07.040 --> 01:23:12.240
+[Amit Varma]: episode, Euclid again asked any particular reason the panelists skip discussing the sectarian nature
+
+01:23:12.240 --> 01:23:17.440
+[Amit Varma]: of the act? Why is it applicable only to non married minority institutions? Well, no particular
+
+01:23:17.440 --> 01:23:21.760
+[Amit Varma]: reason we skipped that what what we wanted to focus on is all the unreasonable regulations that
+
+01:23:21.760 --> 01:23:26.160
+[Amit Varma]: the RTE puts on private schools, which is actually harming education in this country.
+
+01:23:26.160 --> 01:23:31.200
+[Amit Varma]: That's kind of what we wanted to focus on. So we didn't discuss the sectarian nature. And perhaps
+
+01:23:31.200 --> 01:23:34.560
+[Amit Varma]: if I do a future episode, I think this episode was with Vivek Kaul. I'll keep it in mind that
+
+01:23:34.560 --> 01:23:38.480
+[Amit Varma]: this is something that we should take up. And in fact, by mentioning it, I've already taken it up
+
+01:23:38.480 --> 01:23:43.440
+[Amit Varma]: there. It's done over. Don't bring it up again. Episode from free trade would help a panelist
+
+01:23:43.440 --> 01:23:47.280
+[Amit Varma]: share example from real life. How many countries in the last 50 years are becoming economic
+
+01:23:47.840 --> 01:23:51.440
+[Amit Varma]: powerhouses by following the prescription contrast with experience of China, South Korea and Japan,
+
+01:23:51.440 --> 01:23:57.760
+[Amit Varma]: again by Euclid. Again, various examples, but wherever markets are freer countries have
+
+01:23:58.320 --> 01:24:02.240
+[Amit Varma]: done well. And even though, you know, people talk about the socialism and the welfare states
+
+01:24:02.240 --> 01:24:05.760
+[Amit Varma]: of the Scandinavian countries, but if you look at how they became prosperous in the first place,
+
+01:24:05.760 --> 01:24:11.760
+[Amit Varma]: it was because of free markets, and then they put those welfare systems in place later, some
+
+01:24:11.760 --> 01:24:16.400
+[Amit Varma]: of which actually hurt them. For more on this, just search for Johann Norberg on YouTube, just
+
+01:24:16.400 --> 01:24:22.880
+[Amit Varma]: go to YouTube and search for Johann Norberg in Scandinavia, and you'll find talks by him on this
+
+01:24:22.880 --> 01:24:29.760
+[Amit Varma]: Deepak Devathai wanted to know about net neutrality. I've covered this. Devinder Bajju at Bajju
+
+01:24:29.760 --> 01:24:35.440
+[Amit Varma]: Voodoo or do whatever, asked why you stop dreaming? Okay, what he means is I used to start my
+
+01:24:35.440 --> 01:24:40.880
+[Amit Varma]: episodes, I had a strange dream last night. And I used to think, okay, it's kind of funny. And I'm
+
+01:24:40.880 --> 01:24:43.840
+[Amit Varma]: going to discuss some serious policy issue. I'm doing a little bit of research on that.
+
+01:24:43.840 --> 01:24:46.800
+[Amit Varma]: It's funny. And I'm going to discuss some serious policy issue. I'm doing a little bit of comic
+
+01:24:46.800 --> 01:24:51.120
+[Amit Varma]: humor before that. But I got tons of feedback from people saying that it's absolutely horrible.
+
+01:24:51.680 --> 01:24:56.400
+[Amit Varma]: And so I just stopped it. I listened to feedback from my readers, because,
+
+01:24:57.040 --> 01:25:03.760
+[Amit Varma]: you know, you got to do that sometimes. And so recently, Krish Ashok, you might know of him
+
+01:25:03.760 --> 01:25:08.320
+[Amit Varma]: on Twitter said that, hey, he named two foreign podcasts and said one of them is a Sachin
+
+01:25:08.320 --> 01:25:13.760
+[Amit Varma]: Tendulkar of podcasts. And one of them is the Rahul Dravid of podcasts. And so I said, what is the
+
+01:25:13.760 --> 01:25:20.000
+[Amit Varma]: Atul Bedade of podcasts? And he said that my dream intros were the Atul Bedade. Otherwise, my podcast
+
+01:25:20.000 --> 01:25:26.640
+[Amit Varma]: is a Virat Kohli, but the dream intros were Atul Bedade. So, so fine, if people feel so strongly
+
+01:25:26.640 --> 01:25:30.800
+[Amit Varma]: about it, might as well not have it. You know, I mean, maybe I can do a separate dream podcast.
+
+01:25:32.560 --> 01:25:37.200
+[Amit Varma]: Okay, Bharat Sriram is making India hurting us more than helping us. Also, can you talk about
+
+01:25:37.200 --> 01:25:41.360
+[Amit Varma]: the increasing petrol prices is from at Bharat Sriram, name is Bharat Sriram.
+
+01:25:42.800 --> 01:25:47.120
+[Amit Varma]: Making India in the sense that it replicates import substitution is helping us, you know,
+
+01:25:47.120 --> 01:25:52.240
+[Amit Varma]: it's ironic that despite all the things that Modi says about Nehru, that he's imitating Nehru in
+
+01:25:52.240 --> 01:25:55.920
+[Amit Varma]: many ways, for example, Nehru harmed this country enormously. I mean, I'm a big fan of Nehru,
+
+01:25:55.920 --> 01:26:00.080
+[Amit Varma]: great statesman, but economically, he harmed us enormously. And one of the ways he did that
+
+01:26:00.080 --> 01:26:04.160
+[Amit Varma]: was through import substitution, where his idea was that things should be made in India,
+
+01:26:04.160 --> 01:26:09.520
+[Amit Varma]: we shouldn't allow foreign companies to make for us, which harmed us for various reasons,
+
+01:26:09.520 --> 01:26:12.880
+[Amit Varma]: some of which, you know, if you listen to my episode with Anupam Malur on protectionism,
+
+01:26:12.880 --> 01:26:16.880
+[Amit Varma]: you'll kind of understand that's self defeating. And that's exactly what it did to us,
+
+01:26:16.880 --> 01:26:22.560
+[Amit Varma]: we defeated ourselves and make in India indicates the same mindset. You know, frankly,
+
+01:26:22.560 --> 01:26:26.640
+[Amit Varma]: it doesn't matter where something is made. It just matters that consumers that is citizens like you
+
+01:26:26.640 --> 01:26:31.920
+[Amit Varma]: and me get the best value for money they can and that creates value that they then go on to spend
+
+01:26:31.920 --> 01:26:36.720
+[Amit Varma]: in the economy. Anyway, listen to my episode on protectionism and you'll get a sense of that.
+
+01:26:37.280 --> 01:26:41.840
+[Amit Varma]: As for the increasing petrol prices, I don't know, I'm not an expert in this. But it does strike me
+
+01:26:41.840 --> 01:26:47.760
+[Amit Varma]: that Prime Minister Modi was incredibly lucky that oil prices worldwide have been so low since 2014.
+
+01:26:47.760 --> 01:26:52.080
+[Amit Varma]: And that's one of the things that's kept the government performing much better than it would
+
+01:26:52.080 --> 01:26:55.920
+[Amit Varma]: otherwise have. Although he's tried his best to shoot himself in the foot with things like
+
+01:26:55.920 --> 01:27:07.520
+[Amit Varma]: demonetization and the terrible implementation of GST. Okay, who's report? Okay. Mojo at MK pin
+
+01:27:07.520 --> 01:27:12.240
+[Amit Varma]: asks, Can you address on Modi's political philosophy is hurting India. I am a lone voice
+
+01:27:12.240 --> 01:27:16.240
+[Amit Varma]: in a family of NRI BJP supporters who think if you don't worship Modi, it makes you a Congress
+
+01:27:16.240 --> 01:27:23.360
+[Amit Varma]: supporter. You know, very good point. I mean, I mean, I can't I can't actually address how it's
+
+01:27:23.360 --> 01:27:26.960
+[Amit Varma]: hurting India because already met this episode has gone on too long and it will go on for two
+
+01:27:26.960 --> 01:27:30.320
+[Amit Varma]: more days if I do that. But you're right that people are thinking in binaries, you know,
+
+01:27:30.320 --> 01:27:34.400
+[Amit Varma]: all my life as a writer, I've railed against the Congress, I've railed against the Gandhi's.
+
+01:27:34.400 --> 01:27:37.760
+[Amit Varma]: And today I keep getting attacked because everybody thinks I'm a Congress supporter
+
+01:27:37.760 --> 01:27:42.720
+[Amit Varma]: because I attack Modi. The thing is, no, they both suck. And right now one of them is in power. So he
+
+01:27:42.720 --> 01:27:48.560
+[Amit Varma]: sucks a little bit more because he has power. You have to keep opposing, right? So, you know,
+
+01:27:48.560 --> 01:27:52.960
+[Amit Varma]: and no doubt, you know, right now the box hate me, I think they'll probably whenever the next
+
+01:27:52.960 --> 01:27:56.080
+[Amit Varma]: government change happens, they'll start loving me because they'll see me as one of them. I'm
+
+01:27:56.080 --> 01:28:03.200
+[Amit Varma]: attacking the other guy. Okay. Surekha Pillay on Twitter, and we'll end with this. Surekha Pillay
+
+01:28:03.200 --> 01:28:07.440
+[Amit Varma]: on Twitter said that she has questions, but she didn't want to ask them. She said, my questions
+
+01:28:07.440 --> 01:28:12.640
+[Amit Varma]: revolve around policy discussions being exclusive, Pragati not talking to the young and ideologies
+
+01:28:12.640 --> 01:28:17.120
+[Amit Varma]: serving individuals more than societies. So she didn't really ask them. But by mentioning what
+
+01:28:17.120 --> 01:28:23.280
+[Amit Varma]: she's not asking, she kind of asked. So I'll, so I'll actually try to answer them policy discussions
+
+01:28:23.280 --> 01:28:28.160
+[Amit Varma]: being exclusive. I think she'd actually have to elaborate on that. I'm not really sure what
+
+01:28:28.160 --> 01:28:33.520
+[Amit Varma]: she means. But if she means that all of us are, you know, English speaking elites talking in our
+
+01:28:33.520 --> 01:28:37.200
+[Amit Varma]: own little echo chambers, and we don't affect the world outside. She's absolutely right. I mean,
+
+01:28:37.200 --> 01:28:41.120
+[Amit Varma]: I don't have a disagreement with that. Pragati not talking to the young, I relaunched Pragati
+
+01:28:41.120 --> 01:28:45.840
+[Amit Varma]: last year, but it's been running for it ran for 10 years before that. I don't, you know, Pragati
+
+01:28:45.840 --> 01:28:49.920
+[Amit Varma]: is a serious policy magazine. But the thing is that it does talk to the young, I believe, in fact,
+
+01:28:49.920 --> 01:28:53.600
+[Amit Varma]: since we relaunched as a website under my editorship, since last year, we've tried to make
+
+01:28:53.600 --> 01:28:59.760
+[Amit Varma]: it more accessible. And the thing is, while a lot of its core writers are policy experts, and so on,
+
+01:28:59.760 --> 01:29:04.800
+[Amit Varma]: retired bureaucrats and whatever, we also have a lot of young policy experts writing for us like
+
+01:29:04.800 --> 01:29:10.160
+[Amit Varma]: my friends, Pravan Srinath, Pranay Kotesane, Hamsini Hariharan, Nidhi Gupta, Manasa Venkatraman,
+
+01:29:10.160 --> 01:29:14.480
+[Amit Varma]: outstanding writers, really knowledgeable people, really young, young millennials, or even the
+
+01:29:14.480 --> 01:29:19.920
+[Amit Varma]: generation after that, I don't know how you define these things. And, and what Takshashila,
+
+01:29:19.920 --> 01:29:25.760
+[Amit Varma]: which is a think tank, which runs Pragati keeps doing these courses. And, Nakul, I think you did
+
+01:29:25.760 --> 01:29:32.720
+[Amit Varma]: one of those courses. And, and they keep producing younger and younger policy wonks, many of whom
+
+01:29:32.720 --> 01:29:36.080
+[Amit Varma]: speak the Indian languages go out in the field, try to make a difference. We've even got a Hindi
+
+01:29:36.080 --> 01:29:40.640
+[Amit Varma]: podcast, which Pranay Kotesane and Saurabh Chandra run. So I think that we do our best to have young
+
+01:29:40.640 --> 01:29:45.600
+[Amit Varma]: voices in the mix, diverse voices in the mix, not just the same old, same old. We do our best
+
+01:29:45.600 --> 01:29:50.560
+[Amit Varma]: as much as we can. And finally, ideology serving individuals more than societies.
+
+01:29:51.280 --> 01:29:57.440
+[Amit Varma]: You know, the thing here is that societies are composed of individuals, and you have to protect
+
+01:29:57.440 --> 01:30:02.400
+[Amit Varma]: them all. And, you know, it's like that famous saying goes about an individual being the smallest
+
+01:30:02.400 --> 01:30:08.320
+[Amit Varma]: minority, you must protect all your minorities, including individuals, and people who talk about
+
+01:30:08.320 --> 01:30:12.640
+[Amit Varma]: societies over individuals who talk about the greater common good and so on and so forth.
+
+01:30:12.640 --> 01:30:18.800
+[Amit Varma]: Look where the leaders, the communists did that, the fascists did that, the Maoists do that. Anyone
+
+01:30:18.800 --> 01:30:22.800
+[Amit Varma]: who talks about the greater common good and about society is not talking about society as a whole,
+
+01:30:22.800 --> 01:30:27.920
+[Amit Varma]: they're talking about the specific interest group or class of people that they represent,
+
+01:30:27.920 --> 01:30:31.920
+[Amit Varma]: whose good they want. The thing is, I automatically believe that if you protect
+
+01:30:31.920 --> 01:30:37.600
+[Amit Varma]: everybody's individual rights, then, you know, society will flourish. It's a positive sum game,
+
+01:30:37.600 --> 01:30:43.760
+[Amit Varma]: just protect everybody. Let voluntary interactions take place between individuals in a society and
+
+01:30:43.760 --> 01:30:49.680
+[Amit Varma]: we'll all do really well. But whenever in the name of a group, you try to clamp down on an individual,
+
+01:30:49.680 --> 01:30:54.960
+[Amit Varma]: you are hurting all of society, all of humanity. And on that grandiose note,
+
+01:30:54.960 --> 01:30:58.960
+[Amit Varma]: I will thank Surekha for not asking this question that she found a cunning way to ask.
+
+01:30:59.520 --> 01:31:02.640
+[Amit Varma]: And Nakul and Rachit, thanks a lot for coming on the show.
+
+01:31:02.640 --> 01:31:04.160
+[Unknown]: Thanks for having us.
+
+01:31:04.160 --> 01:31:05.440
+[Unknown]: Thank you. Thanks, Amit and Abbas.
+
+01:31:06.160 --> 01:31:07.280
+[Unknown]: Abbas, thanks a lot.
+
+01:31:07.280 --> 01:31:08.000
+[Unknown]: Thank you so much.
+
+01:31:37.280 --> 01:32:06.720
+[Amit Varma]: As you can see, we have a podcast listener in his natural habitat.
+
+01:32:08.160 --> 01:32:11.360
+[Unknown]: Billions of years of evolution have led him to this point.
+
+01:32:12.160 --> 01:32:16.160
+[Unknown]: He's on his way to work and listening to podcasts makes his miserable day better.
+
+01:32:16.960 --> 01:32:20.400
+[Unknown]: He will now head to work and use all his knowledge to communicate
+
+01:32:20.400 --> 01:32:22.960
+[Unknown]: with other colleagues and possibly future mates.
+
+01:32:23.760 --> 01:32:29.920
+[Unknown]: You can find more of his species on ivmpodcasts.com, your one-stop
+
+01:32:29.920 --> 01:32:37.360
+[Unknown]: destination where you can check out all the coolest Indian podcasts. Happy listening.
+

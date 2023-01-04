@@ -1,0 +1,1227 @@
+[
+    {
+        "speaker": "Amit Varma",
+        "time": "00:00:00.000",
+        "message": "This episode of The Seen and The Unseen is brought to you by Intel. What is the economy? The economy is the lives of real people. One of my constant laments is that too often we think of the economy as something abstract, numbers and graphs and charts and claims and counterclaims, rather than the story of our lives, which is what it is. And I find it useful to remind myself of this from time to time. We tend to be too glib when we talk about the economy. We should not be glib. Everything that affects the economy affects our lives. Every time a number falls or rises, it affects our happiness. It affects whether some child somewhere will have food to eat tonight. That is why we must keep talking about the economy. It has moral importance and humanitarian consequences."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:00:54.000",
+        "message": "Welcome to The Seen and The Unseen, our weekly podcast on economics, politics and behavioral science. Please welcome your host, Amit Verma."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:01:06.880",
+        "message": "Welcome to The Seen and The Unseen. In today's episode, I want to take stock of the economy as it is right now. This is complicated. Firstly, our economy has been going down for over a decade due to the myopia and misgovernance of successive governments. I've done episodes taking stock of the economy at regular intervals, and even before COVID struck, things were pretty bad. After COVID struck, of course, it all entered a strange kind of twilight zone. My guests today have been on the show before. Pooja Mehra is the author of the brilliant book, The Lost Decade, which lays out in acute detail how our economy suffered between 2008 and 2018 when the book was published. She was also my guest on The Seen and The Unseen in an episode that I found so insightful. I will link it from the show notes. My other guest is Mohit Satyanand, who has been on the show multiple times. All those episodes will also be linked from the show notes. Now, few people I know can see the big picture quite like Mohit can, and few can capture the small details the way Pooja does. So basically, in terms of guests for this podcast, Rab Ne Bana Di Jori. I recorded this episode in person with Pooja and Mohit last week in Delhi, and I also managed to get Mohit to start a newsletter. Mohit is a beast of a writer, so do subscribe to his newsletter at mohitsatyanand.substack.com. That's mohitsatyanand.substack.com. Expect wisdom. Now, this episode was recorded before the repeal of the farm laws, so we don't mention that. But I'd have nothing to add beyond my conversation with Ajay Shah in episode 211 of this podcast, which is one of our most popular episodes. I'll link that also from the show notes. It's such a complex subject, and almost no aspect of it can be seen in terms of black and white. Now, before we get to my conversation with Mohit and Pooja, let's take a quick commercial break. Where do we live in this world? This is not a question about geography, or at least physical geography. The place I spend a lot of time is the internet, where I forge digital connections, take comfort and stimulation from virtual spaces traveling at the speed of light. Too much of this, and we can get unmoored from our physical location, a creature of every place and no place at the same time. But if we don't go overboard, this is so empowering. This new way of living and learning and loving has transformed at least me, and it's all because of technology. The sponsor of this episode, Intel, is at the heart of much of this digital transformation. Intel's technology empowers users at the edges of this brave new world. It safeguards their data, protects their privacy, while also enabling them to harness the full power of the internet. Whether you're an entrepreneur or an artist or a doctor or an engineer, you are not who you would have been 20 years ago. Intel made all this possible. Where there's digital transformation, there's Intel. Pooja and Mohit, welcome to The Scene and The Unseen."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:03:56.560",
+        "message": "Thanks, Amit."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:03:57.520",
+        "message": "Thanks, Amit. So I want to begin by referring to this beautiful book I read a few years back, and it's a book by an author called Chyna Meevil, who typically writes science fiction and fantasy and so on, and his mother was a big fan of police procedurals. So at one point in time, his mother was rather ill, and eventually she died, and he wanted to write a book that would satisfy her, which was a police procedural. But he couldn't let go of his innate love for weirdness over what is known as weird fiction. So he wrote this book called The City in the City. And the plot of The City in the City is that there are two cities inhabiting the same space, invisible to each other, The Scene and The Unseen, as it were. And there's a police inspector, which is where the police procedural angle comes in. There's a police inspector who is investigating a murder, which he realized took place in the other city, which is actually occupying exactly the same spaces, right? It's, and he has to go into the other city to figure out what happened. It's very interesting. Now, just looking at that as a metaphor for it, for our current times, I think we are living that kind of dual existence in a couple of ways. One way, of course, is a rather obvious one, that some aspects of the economy are obviously out of whack and things are going to hell, and other aspects like the booming stock market and all of that, they look just fantastic. And at the same time, where I find this metaphor most potent is perceptions, that there are people who really believe that India is going to be a superpower, that everything is in place and so on and so forth. And at the same time, there are people who believe that we are going to hell. And I'm much closer to the second category, obviously, as you know, as I've, you know, through all the economy episodes that I've done. And before we actually start talking about the economy or start discussing what is real and what is not, why do you think we are in this situation where there is, so to say, a city and a city, where there are two realities?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:05:54.320",
+        "message": "So, I want to throw in another dimension, which is that I inhabit two worlds, which you know about. So, one world is the world of the city and the world of the stock markets. And we've had more than one occasion to talk about stock markets, beginning with your shortest episode,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:06:17.520",
+        "message": "which was about Rupal Bench. Which was 11 minutes, my shortest episode. Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:06:23.360",
+        "message": "So, I inhabit that world of which a subset or almost a forerunner of that world is now the world of startups. But the other world that I inhabit is the little mountain village in which I've had a home for almost 30 years now. And I'm not just an occasional visitor and it's not a rich people's enclave. I've been part of that village. And so, I've actually seen now two generations living in that village. So, I'm not a researcher, I'm not a scholar, I'm not even a reporter, but I'm a reasonably observant person and I live in their world. You know, I don't meet my city neighbors or I live in the middle of the village. And these two cities are completely different and that's my link with a different reality. And it's always given me reality checks. And there are a lot of blinking red lights in that city. Can you elaborate on that? Yeah. Most of my observations about that city and perhaps we can talk about them later are more of the long-term nature. Because I've seen hopes, aspirations, actions taken as a result of those hopes and aspirations, particularly with regard to education and where they've ended up. But this year, I've seen a lot more and this year I spent six months in the village. I just came back 10 days ago and I saw things that I've never seen before. The first time ever in 30 years, walking on the main road, I had somebody stop and ask me whether I could give him work. It has never happened to me. I felt lousy because I had four staff. I was overstaffed. I wasn't letting anybody go. I had to say no."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:08:33.760",
+        "message": "I'm curious, was this person working in the city? I mean, in urban areas before and just lost his job? Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:08:41.360",
+        "message": "And I was coming to that, which is that in a radius of four kilometers, now four kilometers can mean very different things in different parts of the world. Four kilometers radius in South Delhi, where we are now, would probably be a million people. Four kilometers radius in that mountain village is probably about 400 people. I'm not exaggerating. I know at least six men between 20 and 40 who came back from the city because there was no work and they're making do. What I liked was the can-do spirit. Nobody's just sitting at home and be mourning their loss. They're trying to do something. They're willing to work with their hands. Two young men are running a dhaba. I asked them how the dhaba is doing. And so at first it was, oh, it's good. But that dhaba became my turnaround point when I was coming back from the city. Turnaround point, when I ran from the house down the road, the dhaba was my turnaround point. And I would stop there and ask them for a glass of water. And I got to chatting with them and they said, look, we are making one fifth of what we made in the city. But we know that there's nothing in the city. And so we're making do. The second, which is not directly related to the economy, but I think it has very profound repercussions down the line, is that kids did not go to school for a year and a half or two. And they've forgotten everything. Whether you're talking about six or seven-year-olds or you're talking about kids in the 10th or 11th standard. Kids were passed from the 9th into the 10th and now they're going into the 11th. Having studied for three months in the 9th, not studied at all through the 10th and now entering the 11th. Two months after the academic year would have started. As it is in that village, Amit, the pass percentage typically at the board level is 26%. What is it going to be now?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:11:07.440",
+        "message": "We'll come back to talking about the immediate aftermath of COVID and a lot of this also relates to that. And previous guests have also given me some insight into that. But just to continue with that question of the city in the city, part of this is really a question, not just a division in the economy, say in a place like Satholi or the economy in this, you know, in one sphere of the economy, like the stock market and another sphere, but also in perceptions. And you've, Pooja, been a journalist yourself, you've been active on social media and what you must have noticed with great dismay, as I have over the last few years, is that it's become such a polarized space where there is no space for nuance, like no longer is a policy evaluated on the basis of how good or bad the policy might be. And all policies will contain a mix of good and bad, except for demonetization, which was all bad. What we see today is that people choose their tribe. They go by the tribe. Everything one tribe, their tribe does is good. Everything the other tribe does is bad. And therefore, it is a natural division, where if you say anything bad about the economy, you will have defensive screaming and shouting and trolling. And if you say anything good about the economy or anything good that the government might do, you will have a similar reaction from the other side. And you've, of course, been at the receiving end of this multiple times from all sides, because you write it as you see it, and the world is complex and the economy is complex. Tell me a little bit about this increasing trend. Like, am I overperceiving it because I spend so much time on Twitter? You know, or what's your kind of sense? Does it become more difficult for you as a journalist to do financial journalism, to write it as you see it? Because there is no appetite for that kind of complexity anymore."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:12:55.840",
+        "message": "Actually, Amit, what you're saying about social media is absolutely right. People are no longer interested on the social media in what's going on in the economy. They're more interested in who are we going to say is right and who we are going to say is wrong. And that is almost always, you know, which country they belong to or which ideology they subscribe to, whose supporter they are. And so most people who used to earlier come to social media, Twitter, especially, you know, to read new things, to figure out new things to read about, for conversations to learn about new things, are withdrawing because it's just politics. It's no longer about the economy. Is this becoming a problem to do financial journalism? Actually, no. I think I get trolled for this. But, you know, I have now been a financial journalist during the tenures of multiple governments. I don't think this government is more adversarial to me than the previous government was. Yes, there is a new rule that the incumbent finance minister introduced soon after she became the finance minister, where she doesn't allow us to enter North Block, the finance ministry, and which is strange because, you know, when a journalist enters North Block and meets senior bureaucrats, you're not going to go meet junior bureaucrats. When you meet senior bureaucrats, sometimes in the corridor for two seconds, you know, almost always, what are you getting? You're getting their version, you know, their response to something that is being talked about. And you're helping them put out their version. And, you know, that sort of generates a debate or, you know, creates an input into the public discourse. It is almost always helping them, you know. So I never understood why she introduced this new rule. In whatever little one-on-one interactions I've had with her, I found her contrary to her public image, quite well informed, quite articulate, quite willing to listen and very well read as well. So I don't understand why she doesn't want journalists to do the job that, you know, finance ministry beach reporters were doing earlier. And whatever my personal experience is, I've been very critical of this government as I was of the government before this. I have not found anybody holding that against me. I have not found access being reduced. So maybe this is my experience. It is not the same experience with other journalists. But, you know, it's not made my job as a financial journalist difficult. And I also want to say that I've had very, very few instances of editors refusing to publish a submission which is too critical or, you know, not in line, maybe not, maybe praising something that they don't want praised, either ways. So that is there a bit, at least in Delhi, I find editors are sensitive. Sometimes pieces, submissions are not published, but it's not as bad as the, you know, the chat on Twitter suggests. That said, on television, it's really bad. And even in print media, you know, so when I was in day-to-day reporting, we would almost always say that the government today said this, but the, you know, but the actual data is this, right? So we would say that. We would say Finance Minister P Chidambaram today said, made a claim that this is what it is in the press conference. But, you know, the facts are this. It doesn't happen like that these days. Nobody says the government today said this. It is, this is what it is, you know, as if what the government is saying is the ultimate truth, you know, and no facts need to be presented to show that, well, you know, they're not giving you the full truth. Those kind of fact checks, I would call them, that were happening at a day-to-day basis on daily reporting have just sort of gone off."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:16:55.040",
+        "message": "But I see some newspapers resorting to slightly cleverer tactics. So they'll print a piece, which is clearly a government press release, and they'll print something side-by-side, which presents the facts."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:17:08.960",
+        "message": "Yes. So it's a slightly cleverer way of doing it."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:17:12.080",
+        "message": "They're not buried in the same piece, but they're there for the intelligent viewer to realize that we are forced to say this because this is what the Finance Minister, for example, has said, but this is our version of the reality. But not every newspaper is going to do that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:17:26.720",
+        "message": "And the other thing, sorry, Amit, the other thing I want to say that, you know, which I'm not a fan of is that, you know, you have ministers and politicians and bureaucrats, chief economic advisors, etc, all the time on the news pages, right? They get so much column space. Why do they get now so much column space on the opinion pages? Everything that they're saying on news is often, I mean, more than often their opinion, you know, why do newspapers, I mean, the Prime Minister, you know, the President, the Vice President, why are the opinion pages dominated by these individuals who in any case get to say what they have to say? Why is this space not being given, you know, to other more neutral, more researched? And, you know, we want to listen to a variety of opinions. These people already get a lot of space in play."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:17.600",
+        "message": "So, I have a slightly weird sounding question, which is, given the changes that you're talking about that back in the day, and like, first of all, you know, I, Mohit, I completely buy that. I've seen some newspapers do this as well,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:18:30.800",
+        "message": "side by side, they'll print something like,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:32.400",
+        "message": "much like the Telegraph of Calcutta famously will print, you know, quotes in that manner."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:18:36.800",
+        "message": "They'll put a quote. Detective Herald as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:18:38.960",
+        "message": "Yeah, yeah. So, which is very clever. But my point there is you shouldn't have to do that. Of course not. And, you know, which takes me to the question that since people have to do that, since, you know, if the government says it is raining, you're not allowed to go to the window and say, see whether it's raining or not. You have to report what the government said. Have the journalists changed? Or have the journalists changed? In the sense that have a different set of people who are more pliable, taken over, you know, economic reporting and all that, or have the same set of people learn to moderate themselves?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:19:15.680",
+        "message": "You know, I think that is true. Also, I see a rise in the middle career, mid-career, mid-level levels of the hierarchies in newspapers of very mediocre people, people who are not specialists. This is exactly what happens in television news channels, where the anchors, the star anchors, who especially the right wing, you know, government supporters are always after, you know, one day they're an expert on health, the next day they're anchoring a programme on the economy, the third day it's on Bollywood, then it's crime, then it's politics. They don't want to give space to, you know, specialist journalists who have institutional memory and experience of reporting from the ground. On these, you know, these are very specialised topics. These star journalists want to interview, if an international economist is visiting India, they want to interview the finance minister. They don't want to let their economic editors do it. That reduces the quality of the journalism being done on TV channels. And it's sort of really crashed now. And I see a similar thing happening in newspapers. We don't see, you know, if you look at the economic reporting that is happening in newspapers, if it doesn't have depth, much of it is because journalists have become pliable, because they are risk averse, because they don't want to lose their job. They don't know, you know, what's going to happen because it is true that what people write is very closely monitored."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:20:47.120",
+        "message": "It was not monitored in this way earlier."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:20:49.760",
+        "message": "I won't be surprised. In fact, I've heard of people, editors of papers getting calls, complaints. Some people got transferred out of Delhi, women journalists. So, you know, everybody's just being careful. But the thing is that, you know, you have to keep testing the boundary, you know. But if you're a journalist, you know, who doesn't know how they're going to pay their next EMI and all, you're not going to test the boundary. So that phenomenon is sort of playing out. I think this is more for the leadership in the media, for them, you know, to sort of create that safe space for mid-level journalists to be able to do a better job. I am less willing to, you know, sort of look at the mid-level and the junior journalists and say, well, they're at fault. They'll do, they take cues from their bosses. So they'll do what, you know, they're allowed to do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:21:47.760",
+        "message": "So an interesting phrase I learned recently, which kind of expresses so much that is true about the world and interesting phenomenon rather is called the Gelman amnesia effect. Have you heard of it? So it's a phrase coined by Michael Crichton. His close friend was a physicist Murray Gelman. And Gelman once made the observation that when I read something in the newspaper about a field that I know very well, I know that it is nonsense. But the rest of what is in the newspaper about fields I don't know well, I will take it as a gospel truth. And he called this, you know,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:22:20.160",
+        "message": "This is absolutely right. I feel this about The Economist magazine often."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:22:26.160",
+        "message": "A lot of the things that we read about"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:22:27.760",
+        "message": "what they write on India are quite off the mark, you know. So in general, I think it's true, you know, because even taking into account what Pooja said, which is a more relative phenomenon, which is of people not being able to develop their speciality. But even otherwise, I think that to some extent, it's a natural phenomenon. Because if I'm a practitioner, there's no way that a journalist is going to know about as much about that field as I am. So that's bound to happen. The extent to which it happens is a matter of observation and judgment. But it's bound to happen. You know, I run a company, an interviewer comes and interviews me about the company. When I read it, I say, it's got a few facts wrong, you know. He can't know as much. But I think there's a broader point there, while I'm not denying anything of what you're saying. The fear effect, the boundaries being reduced, self-censorship, all of those I see. But I think there's another factor at work, which is that all my adult life, Indian journalism has been very, very under-researched, under-budgeted, under-researched. So, you know, you compare it to an economist or a Harvard Business Review or whatever, they're going to assign a writer for a month to do something like this. Here you do it in two or three days. So there's that phenomenon at work as well."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:01.440",
+        "message": "Let's say that, let's say that. Often, you know, there are places I've heard of people under pressure to put out two stories a day. How can you do anything? I mean, the reason I remember the Gelman-Amnesia effect is because of what you said about mediocrity kind of rising. And of course, it is true that while every specialist will feel that the journalism in the field, you know, cannot possibly be entirely accurate and get all the nuances. But what you see in journalism in the West, and even there, it's true that it's a lot of the time, it's quite shoddy and all that. But what you kind of see in the West is that there is at least that effort, that time given, like you mentioned, you have much more time to do stories. But over here, it's just rubbish. There's just no understanding. You go from beat to beat to beat. Now, this is OK for a lot of stuff. But I just feel that it is not OK for economics."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:24:48.960",
+        "message": "Or, you know, foreign policy, defense."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:24:51.360",
+        "message": "Or foreign policy, defense. You just cannot have Monday morning quarterbacks, as it were, coming in and kind of giving gyan to this. And the sense I got from what you're saying is that there is more of that happening."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:25:01.920",
+        "message": "There is, I mean, you know, for somebody who's never studied GDP in college, to begin to interpret the GDP data, when, you know, economists who have their entire careers worked on this subject are telling us that, you know, I'm finding, I mean, Arvind Subramanian, for instance, wrote in the economic survey that I'm puzzled by the GDP estimate. But we had political journalists holding forth."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:25:24.240",
+        "message": "And, you know, so, I mean. I am very puzzled by the GDP, you know. I won't say I'm an economist, but I have studied and I'm very puzzled by the GDP."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:33.920",
+        "message": "Yeah, quick plug. I had a great episode on GDP with Rajeshwari Sengupta."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:25:37.120",
+        "message": "I remember that one, yeah."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:25:38.480",
+        "message": "The other thing that is happening in the journalistic space is that it is very muddied now by this mixture of opinion and news, number one, with all these Monday morning quarterbacks coming up with their estimates without knowing what the hell they're talking about. And also this need to drive narratives, like that's kind of led to an infusion of bullshit. And by bullshit, I don't mean that in a pejorative sense."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:02.400",
+        "message": "I think it's fine."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:26:03.680",
+        "message": "Yeah, I agree."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:26:06.560",
+        "message": "Let me tell you the sense I mean it in. Harry Frankfurt wrote this great book called On Bullshit, where his theory was that bullshit is different from lies. Lies are when you know that something is false, you know the truth and you choose to lie. Bullshit is when you don't know anything. You're just saying whatever the hell comes into your mind."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:26:23.600",
+        "message": "But there's a third very important factor which ties up with the need to be able to bullshit, which is that we have seen such a massive reduction in data production of the last seven years. Data on the economy is not available. India used to have a really sophisticated statistical system. It was way ahead of where we were as a country. As a country in our GDP, etc, etc. There has been systematic destruction of that whole ecosystem. To the extent that you've had people at the top of the statistical system resigning."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:27:12.080",
+        "message": "Let me double click on this."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:27:13.360",
+        "message": "Yeah, please."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:27:13.840",
+        "message": "Can I add to that? Please, please. So, we were talking about GDP. So, the base is getting into slightly technical thing. The base is revised every five years, right? I sort of stay away from most conversations in the economy these days because the GDP estimates, you know, the base year has not been revised now for 10 years. And last time when they revised it, there was such a big noise because they had to, they had to sort of revise downwards the previous estimates. And there is a technical reason why that happens. Because when you, you know, how they arrive at GDP estimates, as both of you know, is that it's a combination of a few surveys that are done in the base year. And then, you know, a few surveys that are done year to year. Year to year. And they keep extrapolating on the basis of the base year, what new information comes in, new data comes in, new surveys come in. When they extrapolate on the basis of the base year for 10 years, they invariably end up inflating estimates. You know, there are technical papers that people have written about this. My fear is that, you know, the estimates that we are going to see now are not very accurate."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:28:17.920",
+        "message": "In fact, since you're talking about the technical part of it, the other technical part of it is that when you rebase, you also present data for the previous years. They didn't do that for two years."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:28:29.680",
+        "message": "There's a big question mark. There's a big question mark around it."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:28:32.160",
+        "message": "And when they finally did it, it was to reduce the growth from the previous regime and increase the growth from the current regime. It's bound to be suspect. You're bound to suspect it. But that's the gross data, right? But you talk about other data. You talk about consumption data. You talk about employment data. The consumption data was ready. It was released. And then it was pulled back. Inconvenient. And they said that it has been pulled back because it has not been approved by the ministry. But it has never been approved by the ministry before because it was released by the Department of Statistics. When was this? About three years ago. I forget the exact date."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:29:14.880",
+        "message": "Just before the elections. Right. Yeah, so roughly about three years ago. It didn't cut a very good picture."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:29:18.560",
+        "message": "It was pulled back because the data that showed was really, really inconvenient. And the statistician who was in charge of it, the chief statistician at that point resigned. And then along with him, the next guy also resigned. So you've completely destroyed. Then what happened is when it comes to employment data, same problems. As a result, everybody started relying on private data, which is the data released by the CMI, the Center for Monitoring the Indian Economy. Now, when that data is inconvenient, you say, oh, we can't rely on that data because it's private data. So see how this fits in. So there's no data, no official data. If the private data is inconvenient, you say we can't rely on private data. This lays the road open for any narrative because now it's your opinion versus my opinion because there is no data."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:14.960",
+        "message": "And what that tells us is that all that matters is opinion. Exactly. I mean, policy needs data. So my bigger worry is that, you know, why do we seek better data? Why are the policymakers not, they should be the ones, you know, louder on this saying we need the data, we need better data because we are, you know, flying blind."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:30:36.960",
+        "message": "So Pooja, I have a question for you, which is, who is the economic policymaker today?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:44.640",
+        "message": "Who is an economic policymaker today? Oh, the Prime Minister's office."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:30:49.920",
+        "message": "Right, and who in the Prime Minister's office? I wish I knew."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:30:54.480",
+        "message": "Right."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:30:55.680",
+        "message": "This is the problem. You have somebody who's reporting on the economy. Pooja, you have someone like me who's been observing the economy, observing the economy, sometimes casually, sometimes in depth for 50 years. Right. I joined an undergrad in economics when I was 16 years old. I'm now going to be 66. 50 years I've been observing the economy. We're both sitting in Delhi and we're saying we don't know who crafts economic policy for the government of India. What can be a bigger indictment of what is happening in this country? When is the last time that you heard an economic policy statement from anybody who wore a title on their badge?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:31:52.160",
+        "message": "We used to hear of turf wars earlier between ministers, between bureaucrats, between the Prime Minister's office and the Finance Minister's office, depending on the politics, or in different governments. We don't hear any of that today because, well, policymaking is not being done in ministry."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:32:11.200",
+        "message": "Fantastic meta point. And I was earlier going to double click on the data question and ask for specifics on, you know, what kind of data is no longer coming and why is it no longer coming? The why is kind of clear. But instead, I'm going to sort of combine these two themes and sort of explore this, that, and this is again sounding like the data and the data, that there's a very big way in which society has changed in the last 30 years, beyond economics and beyond India, which is that 30 years ago, you could say that there was a broad consensus on the truth. You know, you had a few mainstream newspaper, mainstream media, there was a broad consensus on basic aspects of the truth, that the sun rises in the east and blah, blah, blah, all of those things. Today, what has happened is one media has become extremely fragmented and in many ways, that's a good thing. It's empowered individual creators, it's democratized the space, you can have more debate, more space for dissent. But what it's also done is that because the way we consume information is so fragmented, and because of the different ways in which social media has increased tribalism, what it often means is that there is no consensus on the truth. You can believe whatever the hell you want. And this then kind of leads me to one, one, then I don't know why anyone would suppress data, because what difference does it make anyway? But from where you are, one, there is this tendency that the reality doesn't matter, the narrative matters, which in politics, I think is clearly true, up to a point where I think there's, I am hopeful that there's got to be a tipping point when the reality has to start to matter. We didn't see that with demonetization, and we haven't seen it with COVID. But as a journalist, as someone who follows the economy, when you think of data, that fine, all these sources of data are no longer reliable, but these sources were a few sources, some of them were government sources. If you have to think creatively on your feet and say, look, I want to get to the truth anyway, what are the kind of proxies that you use? I mean, there is, of course, the anecdotal stuff that you bring in that, you know, I was in Sitholi, and this is what I see around me, and that's anecdotal. But otherwise, if you want to make sense of the world, you cannot believe anybody because everybody seems to have an agenda. They're coming from all these places. You know, we've discussed the state of the media. What is then your approach to even get at the truth? And within that, is there a warning to yourself to fight your own biases?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:34:37.200",
+        "message": "Yes, Amit, you know, 30 years ago, what you say, if there was a consensus, probably because there was very clearly a very dominating side, right? Only the people who got space and whose voices were heard, they got to determine what the truth, so to say, was. We don't know if that was the truth. I mean, you know, it's very difficult for us, for me to, you know, because we've not heard the other side, right? What you're saying, what is happening now is with this democratization of opinion, people stating their opinions, we are getting to hear more and more people who were voiceless earlier. So, I'm not so, I don't have this view that earlier, that if we have a view of what the truth was, I mean, whose truth? You know, that question always is asked."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:21.440",
+        "message": "No, I agree that it's, I actually think it's a net positive. Yeah, yeah, yeah."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:35:25.120",
+        "message": "Usually a net positive."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "00:35:26.480",
+        "message": "But there is then the negative side of it that"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:29.200",
+        "message": "the truth almost begins to count for nothing."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:31.200",
+        "message": "It's what you want to believe that determines what you believe. But as far as data is concerned, you know, specifically this point of data, like I said, I grew up at a time where you trusted government data, number one. And I still do. I still trust government data. And two, the data was really good. It was released to a timetable, etc. Give us some specifics, like what kind of data would we get,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:35:56.240",
+        "message": "which we don't get today? And why don't we get it today? Okay."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:35:59.360",
+        "message": "So, like I said, we are not getting consumption data, you know. What is the average household consumption? You know, what is the average household consuming?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:36:09.200",
+        "message": "That was, that was stopped. Okay, give me a sense of who collects this and how they collect it. I mean, I just want to kind of really get."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:36:16.800",
+        "message": "I'm not very good at that, but mostly by the Ministry of Statistics and MOSPI as it's called. Then you have the NSO, the National Statistical Organization, which has these periodic surveys, etc, etc. They don't cook up data. The problem is that data releases have stopped. Employment data from the government, consumption data, all of these have stopped. I still trust government data. So, if the government gives you data saying that this is the collection of GST, it's real. I don't think data is being fudged. What is happening in that speaks to the robustness of the statistical system, which is that they've not been able to start fudging that data. But, so there are two questions. There are two questions, so what is the data that I look at and what is the data that I think has problems with it? And this ties up to what she said earlier. So, if the government is not releasing employment data, I am looking at it through the CMIE lens. CMIE has been around as long as I've been around and I've never sensed an agenda. They are thoroughly professional. They have a reputation to defend. They don't have an economic agenda, as far as I know, or political agenda. I trust their data. And you know, you learn to look for continuities or discontinuities in data. When there are discontinuities or the data doesn't square with your view of reality, you're going to question it. I've not seen that. So, when it comes to employment, I look at CMIE data. When it comes to consumption, again, there's some data coming from pyramid studies. There's some data coming from CMIE. There's RBI does a bi-monthly survey of consumer confidence. That is also an index into that. So, you have to look in a more rounded way. When it comes to the meta number, which is GDP, we know that this number is severely flawed. Severely flawed, let's even assume it's not flawed by intent. It is flawed by design, which is as follows. As she said, I can collect data as far as the formal sector is concerned every quarter. Because all the reports that all companies have to submit, so-called formal sector, there's not an exact mapping, but they have to file their returns every quarter, they pay their taxes, etc., etc. A good statistician can take that out and say the formal sector has grown by this much. Now, in the past, what you used to do, surveys, every five years, you surveyed the informal sector. And at the end of that, you said the informal sector can be projected to be X. We know that the formal sector is Y. We know the ratio between these. Now, till we do this survey again, we will assume that the ratio of X to Y remains the same. Fair enough. I think that's a good method. The problem is that the last time you had a major survey of the informal sector was in 2015. It should have been done again in 2020. It was not done. Completely understandable. Because it was COVID, etc., etc. Do it in 2021, you do it in 2022. So, again, I'm not suggesting there's an agenda. Fact is that you couldn't do it. What we also know, which is doubted as a great positive of the various measures taken by the government, is that the economy has got formalized. Right? What does that mean in mathematical terms? It means that the formal sector accounts for a larger percentage of the GDP. Otherwise, you can't say it's formalized. Right? This means that the earlier ratio will not apply any longer. The earlier ratio was, as it so happens, almost exactly 50-50. Which means that the formal sector was as large as the informal sector. So, you roughly multiplied by two. Now, how much has the informal sector shrunk? We know that it's shrunk. It was doubted, not in advance of, but in defense of demonetization. We formalized the economy. It was, again, same situation with GST. In defense of, oh, but this economy has got more formalized. The people who are evading taxes are out of the loop. We know that the pandemic had the same impact because economic activity shrunk. The people with big balance sheets survived. Those who didn't shut down, they're more likely to be from the informal sector, because they're not banked, etc. So, three events within a period of four years have led to the formalization of the economy. So, we know that that 50-50 number cannot be applied any longer. But the GDP numbers that we are using assume that that 50-50 number still applies. Now, you can say, and that's logical, that we don't know what ratio to apply. Should it be 50-50, or 48-52, or 30-70? We don't know. But I am certainly going to question a number which says that GDP is growing at 7% if you're blowing up the formal sector by that number. Now, the SBI, in a recent survey, says the informal sector accounts for only 15% of the economy, from 50%. That sounds wild. It sounds wild to me. I don't believe it at all. What I'm saying is that we don't know the number. And therefore, I have to look at other stuff. But I can certainly say that that 5% growth is bound to be a huge overestimate. And when you combine that with other data that you're getting, because now you're looking for hints, for clues from everywhere. We know from World Bank data, which was analyzed by the World Bank, World Bank data, which was analyzed by Pew in the US, study coincidentally was led by a classmate of mine from college, says that 75 million additional people dropped below the poverty line in the last year and a half or two. You can't have that along with this kind of growth. There would have been some degrowth, even if those people only account for 2% of GDP. But there has been that degrowth. So you're bound to question these numbers. But nobody officially is trying to say, you know, we have to discount this number by such and such. Because as I said, in the absence of data, then narrative becomes everything. We will grow by 10% next year. We will grow by 7% in the long run. Then it's just narrative."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:43:44.240",
+        "message": "Also, I think this is part of a larger shift that's happening globally, which is, you know, like you were saying 30 years ago, nobody questioned the truth because there was consensus, because the truth was determined by the experts, you know, the elites. Now, the whole political movement is anti-elite and anti-experts. Everybody hates anybody who's trained to do something, especially in economics. We like bureaucrats. We love historians. I'm not talking about the RBI governor. I'm talking about people who call themselves economists, but write only on history. But we don't want economists to talk about the economy. We don't trust them. We will trust anybody but an economist to tell us what should the economy be like. For the larger population to feel like this, it is an expression of frustration, not against economists, but against how things have not moved for them as much as they would have liked to, you know, in so many years. People keep discussing about why economists have not delivered because politicians don't listen to them. So, you know, but the thing is that, you know, when you're sort of discrediting experts, you're opening up space for challenging narratives. You are turning economic debates into political debates. And that's how you're sort of trying to play the game of narratives. And therefore, data is not that important. Therefore, data collection is not that important. Therefore, narrative setting is more important. And nobody says, what do you mean when you say formal economy? That question no policymaker, no politician is asking. And people can bring out reports saying the formal sector shrunk without saying what they mean when they say informal economy is shrunk. I mean, I'll give you an example. In 2014, I had done an interview with somebody very senior in the IMF, who said, you know, we're very surprised at how quickly India has exited this grouping of the Fragile Five and all the data and he gave all the credit for it to the UPA government, the last few months of the UPA government and Darbhaiya Govt. Raghuram Rajan. And all the data that he, you know, gave was as on March 31, 2014. So this is before the government changed. This story, you know, made me very popular with when, you know, it was done after the government had changed. It made me very popular with people who now troll me because they thought, you know, because they didn't read the details and they thought, well, you know, it's a change of the government that has brought India out of the Fragile Five. And till today, the popular narrative is that this government has brought India out of out of the grouping of the Fragile Five. But nobody goes back to that story and reads, how did that happen? Who was the IMF talking about when they said that? So, you know, yeah, the truth data doesn't matter. Narrative matters. And so the question that you asked me is, how does, how does a journalist then do their job? Earlier, you know, most of us would only go to the experts. You know, now this is a good thing, I think, because there are some structural changes taking place in the economy after COVID, especially the amount of digitalization that is taking place. Sometimes I'm surprised where, you know. So that is, you know, a huge structural change. Now, it is going to change how we traditionally see the economy, economic growth, formal sector versus informal sector. You know, the experts must be working on this, I'm sure. But my worry is, you know, your narrative sounds very nice when you talk about these things, but what is policy doing to build on this? How are you bringing this into, you know, your policy decisions? Are you equipped to do that? You know, everybody, you know, the decision makers just seem so out of it."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:48:01.680",
+        "message": "Well, you've already answered that, which is that there's nobody that we know who's making policy, you know. So, yeah, but the digitalization is coming. Digitalization is crazy. I realized this last winter. I typically spend a couple of weeks in Bangalore over the winter. And last year, because COVID, I spent longer time. And the guy from whom you buy tender coconut water out near Koramangala accepts Google Pay. I mean, that's really micro payment, right? 30 rupees you pay by Google Pay. And when I spent this year from April to September in our little village, the hardware store, four kilometers away, in a village of 500 people, I found that my wife was doing everything remotely. You don't need cash. She would order the stuff on the phone. The guy would put it onto the bus, which came once a day in the afternoon. It would come on the bus. And of course, this being a little village, it would just be dumped at the bottom of our driveway. And it would be, you know, it's not going to go. We'll pick it up in the evening. And the bill would come along with the consignment and she'd transfer it by Google Pay. So, it's fantastic. But, like my sense is that this is a good thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:49:22.800",
+        "message": "But has the end come closer with the wrong means? I don't think that this particular end has to do with demands or any of that. It's just a natural flow that could have happened."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:49:34.240",
+        "message": "Covid, I think it's because of the shock of Covid. I also feel that, you know, I'm all right if somebody wants to take credit for it. That's all right. What matters is that something good happened. But when something good happened, beyond using it to nourish your narrative, why not actually study it and, you know, be more, you know, have a more robust response to the change. Which you've already answered that."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:50:02.960",
+        "message": "Because if you want to study it, you need experts. And you think experts are the last people you want to listen to."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:50:10.000",
+        "message": "So, you're sort of shooting yourself in the foot. My other question is kind of about mindset."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:50:15.360",
+        "message": "Like we were talking about formal and informal. You know, I just want to dwell on this particular issue of, you know,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:50:21.040",
+        "message": "I just want to dwell on this particular issue of who's making economic policy. And it's a broader issue. I have a very dear friend who was chief executive of a very large chemical company. And in the process of his work, both as an individual CEO, as well as being on the industry body and therefore lobbying. And, you know, he became very friendly with a particular secretary to the government of India. And they began talking about policy. This guy said to me, you know, when I have to write a note on policy, it doesn't go to my minister. It goes to the PMO. It goes on a blank piece of paper. It's not on my official email. It's not on a letterhead. Who reads it in the PMO? I don't know."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:51:10.000",
+        "message": "What language do they use? Wait, wait, wait, wait."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:51:13.360",
+        "message": "It goes to the PMO. It goes to the PMO, it comes back with notes scribbled on it, uninitialed. I don't know whose notes there are. Now I incorporate those notes into my policy. Now it goes through the official channels. So that if there was any mistake incorporated into the new policy, they'll say, but this came from the ministry. A secretary to the government of India does not know who is reading his policy suggestions and telling him what to do. So this is not just about economics. It's across the board. It's a black box in which policy is being made."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:51:50.320",
+        "message": "A black hole, rather. You can open up a black box and figure out what happened. So the question I was coming to is, you know, you mentioned informal, informal, formal, informal, and we'll kind of, we can double click on that later and go into that in some detail. But at a meta level, it, you know, I've always felt that the way that issue, the way that is framed is to me wrong, that people in the informal sector are doing something sinful, they're evading tax, blah, blah, blah. And I just feel that's wrong. You know, the informal sector is informal because it's been forced to be there because the heavy hand of the law is just, you know, so oppressive that sometimes you don't have a choice. You just, you're in the informal sector, you're outside the system. And of course, you're very small and all of that, all those things come into play. Now, it seems to me that at some level that there is sort of this mindset within the government that informal ko formal banana hai, number one, so we know exactly what's happening and everything is in the clear light of day and make it formal not by removing all these restrictions and by enabling ease of business, which allows them to come into the light, but through all these different ways. And secondly, one of the key metrics when people talk about how well the economy is doing seems to be tax collections. And I don't understand why that should be a metric because tax collections to me, let me finish my question. So tax collections to me are and sort of a transfer from the productive part of the economy to the parasitic part of the economy. So I don't know why that should be a metric. But my question, therefore, is that, you know, in 91, it seemed that a fundamental mindset shift that kind of happened, where policymakers figured out that we need to get out of the way, people are smart, they'll take care of themselves. You know, voluntary interactions will kick in, it's a positive sum game. That seems to, if it was there at all, in any serious way, it kind of seems to have sort of disappeared, where we still have the central planning mindset, and we want to control everything, not just, and if we can't control reality, we'll control the narrative. So I know I'm rambling a bit."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:53:55.280",
+        "message": "I have a few reactions to that. Firstly, you know, where I come from, in terms of my economic ideologies, exactly as you do, it's not just parasitic. It's also, you know, as Ajay Shah talked about in his book and on your podcast, it has been demonstrated that revenue in the hands of government is one third as efficient as revenue in the hands of the private person, right? So it's, yeah, so it's not just parasitic, it's grossly inefficient. But to me, the even bigger problem, aside from inefficiency and so on and so forth, is the fact that 85% of the employment is in the informal sector. So when you start bashing the informal sector, first through demonetization, then through GST, then through pandemic, you're rendering vast swathes of the population unproductive. You're putting them out of work. You're taking money off their tables. And to some extent, then you're trying to replace it with these grand gestures of princely munificence, which it isn't. But you're taking away the dignity of people who were able to feed their families yesterday and they can't today. And we are about the lowest labor participation rate in the world is in India. Of adults between 80 and 65, what percentage of people take part in the economy? India is about the lowest in the world at 40%. It was 42 before COVID hit. It went down to like 36 now. It's still below 40. So if you don't grow, either you find a way to formalize and grow so rapidly, you have GDP growth rates of 10 and 12%, like China had for 30 years. There's a different story. You neither have that, nor do you ally the informal sector. You've got, and these are the longer term issues that worry me even more, that you are having, you know, she talked about a lost decade. My worry is about lost generations of young people. And I see those people. These are not just statistics for me. I understand statistics. I look at them carefully. I'm trained to look at them. But I see the people. These are 35 year old men whom I first interacted with when they were three and four and five years old. And I saw the hopes with which their parents, who were my neighbors, perhaps my employees, with which they put them into schooling and how they emerged with no hope. Two things let them down, and the two are intimately related. Because is education supply-led or demand-led? You know, we've talked about it often. You believe it's demand-led. To some extent, I agree. Not fully. We differ on that. But on the demand side, if there's no employment being created, your incentive to pursue high quality education vanishes. And that's certainly the case. All these young men are either unemployed or underemployed, and I'm seeing them. I saw them when they were five, I saw them 16, I saw them when they were 20, they're now in their 30s. And when you speak of lost generations, the point is that losing generations at this point"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:57:43.200",
+        "message": "in time, when we are having this demographic movement where what was a demographic dividend is becoming a demographic disaster is even worse. Absolutely."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:57:50.960",
+        "message": "Also, you know, there's more fundamental thing, an increase in GST collections may not necessarily be an indicator of growing GDP. It could probably just be that companies have, you know, raised their selling price. I mean, somebody needs to study that and, you know, decipher the data for us. And, you know, the other thing is that, you know,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "00:58:21.440",
+        "message": "Don't find that data very clear, which is that the increase in GST over the last two years is barely more than what inflation has been. So in real terms, it's not great."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "00:58:33.280",
+        "message": "Regardless, yes."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "00:58:34.000",
+        "message": "Yeah. And the other thing is that, so, you know, multiple things happen and it, which is why, you know, it's very difficult sometimes, even for the experts, people are trained to do it to understand what goes on in the economy. And, you know, there's all this oversimplification in the narrative that happens is very, very harmful because of that. Like, for instance, for years, there was this whole politics around FDI and retail. Now, Amazon is this much hated big company, and we have cabinet ministers who have declared the Quit India movement, you know, and, but, well, the only sector in which employment generation is happening as of today is the online retail sector. And it is not happening, and which is also leading to formalization. All of your small shops, you know, around you have all tied into Amazon. You would have also seen this happening. And, you know, their business is growing and it's a win-win at the moment. Since Amazon is such a large company, it has such a bad reputation globally. We don't know if this, you know, equation will remain win-win, but that's where the role of policy and regulation comes in. But so far, it has happened organically on its own because the market forces are operating. And it is happening in almost opposite of what the concerns of the politicians for years have been. And all the support they mobilized from exactly these people, you know, saying that Amazon is your, I mean, whatever, Western retail giants are your biggest enemies. My point is that, you know, this could have happened sooner. It could have happened in a more regulated way. It can happen in wider parts of the country if policymakers were taking better, well-informed decisions and not simply doing politics. I think almost always on the basis of not even understanding what they're talking about. This is a big example of it. And, you know, this is what to me is most worrying. To me, what is more, you want to do a narrative, you want to do your politics. That's all right. As long as, you know, deep in your ministries, you were doing your policymaking, you know, like policy wonks and getting, you know, applying your minds to these things. We don't see any evidence of that. And to me, that is more worrying, you know, not the polarization and not everything. Because why is it so easy to polarize? Why is it easy to do politics all the time and mislead people? Because that's all that, you know, goes on. People don't see the truth because, you know, you're not doing policymaking."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:12.400",
+        "message": "I love the phrase you just used, deep in your ministries. That sounds like the kind of phrase like China Meevil or a fantasy fiction writer, deep in your ministries, kind of."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:01:21.200",
+        "message": "Or even Brave New World."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:23.200",
+        "message": "Yeah. All suitably dystopian."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:01:26.560",
+        "message": "So that, you know, that comes from how the non-bloc is organized, you know, who sits on the ground floor, you know, who are the people who sit closer to the minister's office. So, yeah, unconsciously, I think that's what I'm talking about."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:40.800",
+        "message": "Yeah. It's a very resonant phrase, you know, deep in your ministries. You could have."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:01:44.720",
+        "message": "I've never had the privilege of."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:01:46.960",
+        "message": "Not these ministries, but I'm imagining, like, I remember when I first came to Bombay, I was obviously blown away by the scale of it because I'd never been in such a big city. And I remember going to Dadar station and it took me half an hour just to find the correct platform because Dadar station is where all the different lines, harbor line, central line, which they all kind of converge. And it was like being inside this giant video game. Like, you remember the video games of the 90s, Prince and all of that. You're navigating on those or Wolfenstein. And it was like being in this giant video game. And I thought a video game set in Dadar would be so incredible with this labyrinthine and multi-level shit happening all over the place. And of course, those forms of people."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:02:26.160",
+        "message": "You should visit finance ministry some point in time."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:29.200",
+        "message": "That's what you made it sound like. Yeah, yeah, it is."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:02:31.600",
+        "message": "There is a basement, you know, where there are these documents, which I don't think anybody's"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:35.360",
+        "message": "touched for a million years."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:02:36.960",
+        "message": "You know, there's a sort of kind of a courtyard in the center, on the top floors, you know, all the section officers."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:02:43.360",
+        "message": "It's, somebody should write about it, actually."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:02:48.080",
+        "message": "Since we are talking about this, this is not related to our conversation. But an interesting thing is that Lord Mountbatten's office is in finance ministry still. There is a plaque that, you know, where the CBDD chairman sits. So it says the, what was he? The Supreme Commander of the Second World War. That is the office and the balcony sometimes opened, you know, where he used to sit and look at the Viceroy's, this thing."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:11.120",
+        "message": "So his ghost is there."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:03:15.120",
+        "message": "It's all over India now."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:03:16.480",
+        "message": "Mountbatten's office still existing in North York reminds me of, reminds me of CCA."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:03:21.520",
+        "message": "You must be knowing about CCA, right? CCA? Okay, let me tell you about CCA. So sometime in the 1980s, and to give credit where credit is due, I think Vivek Debroy first wrote about this in one of his books. So sometime in the 1980s, a department in the Tamil Nadu ministry called the CCA, this gentleman in the Tamil Nadu ministry, who was part of this department called the CCA, they apply for a raise in their budgets. So when it goes to whatever committee looks into these things, they decide to look into ki ye, what is the CCA? Hai kya? What do they do? So here's the history of the CCA, that the Second World War breaks out, we have to go back to that period. The Second World War breaks out. And part of the result of the Second World War breaking out is that trade routes between Cuba and England are broken. Now, Winston Churchill, you know, who is at the helm of the English effort to save the Western world, which he successfully manages, loves cigars. And the best cigars in the world, according to him, are from Cuba, he can no longer get them. The second best cigars in the world are from Trichinarapalli or whatever, it's from Tamil Nadu. So a department is set up in the imperial ministry called CCA, Churchill Cigar Assistant."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:04:33.920",
+        "message": "Wow, I didn't know that."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:04:35.120",
+        "message": "And the World War ends, and India becomes independent, and Churchill dies, and decades pass. And that department still is getting a budget, is still running until someday some mad moron within that department decides to apply for an increase in the budget."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:04:53.280",
+        "message": "So this is what, Amit, governments have always functioned like this. This is just a difference in degree, you know, like what you're saying. I also recognize that these problems go beyond the last, you know, decade. It's just the slide, you know, has just sort of really become really quick paced and worse now. Yeah, you know, I mean, people think, you know, when budget is made, you know, officials must be sitting looking at every entry, you know, how much is this department getting? You know, it's, it's not like that. What they'll do is they'll just take all the heads, apply a certain, you know, increase multiplier, that it doesn't even get discussed, you know, these things are like, sometimes done really on the tips of their fingers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:05:42.080",
+        "message": "And also, you know, all of this Mountbatten's office in North Bloc, or the CCA in the government seem to me like metaphorically true for mindsets as well, that we stay tied to old mindsets of the past, and don't change to recognize new realities, which is incredibly important, especially in modern times where reality itself is changing so fast, the economy is changing so fast."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:06:04.000",
+        "message": "The whole discussion we had last time I came to your show on Pranam Mukherjee taking finance mystery backwards, we are seeing that with Atmanirbhar and, you know, the trade policy and so many other things, you know, the return of the inspector Raj when these rules have come out for e-commerce, you know, how government officials can ask questions, everything is regressing back to the pre 1991 sort of mindset, because that is so deeply embedded into the way rules and regulations are written, shaping how bureaucrats think, shaping how politicians think 1991 happened. But, you know, everybody says that, you know, what it did is they forged a new consensus. And after that, the speed of change in policy, modernization of policy may have varied. But big, big thing that was one was that across political shades, there was consensus that this is the direction we will move in. I'm not so sure that, you know, there is that consensus anymore, if it was even in the first"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:07:04.640",
+        "message": "place. It's there's almost a poignant note in this that Ajay Shah, who's been on the show and has written a great book in service of the Republic, one of the essential books in the Indian economy, along with another one we'll talk about soon, once came on the show, it was very poignant. And he said that the reason I wrote that book, the reason I wrote that book is because there were a certain number of people within government, within the policy circles, within whatever, who were looking ahead, who, you know, had discarded the dogmas of the past and looking ahead and wanted to make things better. And those people were dying out. And he said, I want to leave something for the next generation. I want to leave something so that there can be more of us and more to this. And I found it very inspiring and sad at the same time. Some were dying, some were eased out. Some were dying, some were eased out. It's interesting, like there is that old phrase that paradigms change one death at a time. So you can't change minds, people change and a younger generation will do things differently. Except that that hasn't happened, that there was a temporary moment of change. And the people who believed in that change are kind of gone."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:08:07.840",
+        "message": "But it's also true, though, of course, is a much debated issue, whether how much we believed in that change and how much it was forced upon us by circumstances, by a fiscal crisis, by a foreign exchange crisis, by the fact that we needed to tap into international loans and a lot of policy changes were forced on us by that."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:08:28.320",
+        "message": "But I agree, you know, with Mantek Singhalwalia, when he says that it just wasn't sold. You see, people are not opposed to change. People like we just discussed, people are willing to move into digital forms of payment, for instance. So when it comes to technology, which makes their lives easier because it's so easy to demonstrate it, people are very open to change. If they're not open to change in wonky policies, it's because it has not been explained to them how it is good for them. And that is the failure of the politicians."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:08:59.600",
+        "message": "The farm law is a clear example, right? Yeah, yeah. Yeah. You know, people from our side of the fence, meaning who believe that the role of a government needs to be limited, that subsidies need to be limited, etc."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:09:14.320",
+        "message": "Farmers need to be empowered with choice."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:09:16.800",
+        "message": "Not just that. That there's several levels, there's several layers of them. And one of those layers is that it was decided at the time of the Constitution that agriculture should basically be a state subject. This MSP is not attainable in the long run. We've just accumulated so much dead stock. The fact that it has to go is a given, but it needs to be negotiated. It was not negotiated. Now you've got this huge political impasse sitting over there. And because that impasse has become so, so intractable, you have this horrendous spectacle of a cavalcade, which is mustered by a central minister's son, mowing down innocent farmers. It's only because of that. It's because you created an impasse. This should, as a policy wonk, I'm the first person to say that agriculture needs to be reformed. Agricultural policy needs to be reformed. But it's got to be political. It's got to be negotiated. It was just announced one day. You see the difference between narrative and actually consensus building?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:10:33.040",
+        "message": "In fact, I did an episode on the farm laws with Ajay and we both agreed, obviously, with"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:10:37.600",
+        "message": "everything that you're saying, that that is a tragedy. But you could change a couple of things about the farm laws, but economically, it's fine. It's great. It's a move in the right direction. But the politics is disastrous. It's just tearing us apart. It's disastrous. And it's so ironic because typically what politicians excel at is getting the politics right and the economics wrong. And this is practically, literally the opposite. I'm making two points."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:11:03.840",
+        "message": "One is this one, which I agree with 100%. The other is that when it comes to agriculture, because the agricultural scenario is so different in different parts of the country, you can't have one policy. Yeah. Needs much deeper study. For example, I would say, top down, first principles, which is that the government should have no role as far as agricultural markets is concerned. A very simple statement to make. Now, this agricultural model bill was talked about 2003 or something like that, right? Only one state, the last state on earth you would expect, which is Bihar, took one major element of it and they said, no government mandis any longer. From a theoretical point of view, great. What did it result in? It resulted in a lowering of average price for farmers in Bihar, because a lot of mandis wound up. And so now the average distance from the farmer to the mandi went up, access to markets went down. You had two things. One is the average price came down. Secondly, the scatter in price went up, because those who were further got lower prices. Those who were closer got better prices. Now, I can still say, that's how it should be. If your farm is not located close enough to markets, you should get a lower price. You shouldn't be farming there. I can say that. Then this leads to another question. Why are the farmers in that situation? They're in that situation because there's no industry in Bihar."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:12:57.280",
+        "message": "And you're not allowed to sell agricultural land anyway for non-agricultural land."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:13:00.800",
+        "message": "So when you have a mess at every level, who should carry the burden for it? You've ended up in a situation where the poorest people are carrying the burden, which is the small farmer. So from first principles, I can say good thing. But when you actually see the misery on the ground, you have to say, look, there's got to be negotiated. Anybody, you need to create an exit policy for them. So you can't do this by railroading a law through and look at the mess in Rajya Sabha. The voice vote, people are saying, and there is confusion about whether the, look how messy it was. Were the Rajya Sabha MPs in their chair or not? Were they allowed to vote or not? This is not the kind of stuff which you should be debating, right? Procedures should be clean, transparent. It shouldn't even come to that. At a meta level, major bills, which have been negotiated in Parliament in the last UPA government, something like 46% of bills were sent to expert committees. Sent to expert committees. Earlier on, it was as high as 70. In this Rajya Sabha, 11% of bills were sent to expert committee, which is a larger point,"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:14:33.200",
+        "message": "not just economics, across the board. I know best. That's the whole approach."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:14:38.800",
+        "message": "Yeah. So there is no space for debate. There is no reason to have experts. It has been decided, Parliament doesn't exist, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:14:47.360",
+        "message": "In terms of what it's supposed to do. You can run it from an Excel sheet, because anti-defection law, you decide how each MP votes. It's like shifting from one equilibrium to another. We can agree on what the ideal state of things should be where you empower farmers with choice, you don't have the government playing a part and creating its monopolies and being the middleman. But the point is, how do you get there from here? And there is a massive transaction cost, if I might misuse that term, and the poor kind of bear it. So the best way to do it is in gradual steps and let the states experiment and let the states kind of take that. So I kind of agree with all of that. So, you know, we've sort of, we'll take a commercial break now. And after we come back, like the way I'd, you know, originally, Pooja will remember I'd emailed her at the start of the year. And I said, let's do a three way episode like Ajay Shah four way. I mean, me and three guests, which is Pooja, Ajay Shah and Shruti. And we'll just speak about the Indian economy, zooming in all the way. So first, we talk about the post-independence to 91. Then we zoom into 91 to 2011. Then we zoom into the phrase made famous by Pooja's great book, The Lost Decade. And then we zoom into the current moment and look at where we are. And the interesting thing is, in between, Shruti with Mercatus started the 1991 project that they have about, you know, what life was like pre and post liberalization. So I did an episode leading up to 91 with Shruti and Ajay. So what I want to do after the break is actually ask Pooja again, though we've done an episode on this and I'll link that, but ask Pooja again to kind of take us through the last decade and then come to the present moment and start talking brass tacks, including how things were before COVID and how COVID has affected that and how things kind of look. And by the way, for, you know, those of you who are interested in sort of a deeper dive into all of what we just spoke about, what Mohit was chatting about, I've got a bunch of episodes on agriculture that I'll link from the show notes and earlier episodes with Mohit also where, you know, you would have touched upon similar themes. But first, let's take a quick commercial break. Well, that phase in my life ended for various reasons. And now it is time to revive it. Only now I'm doing it through a newsletter. I have started the India Uncut newsletter at indiancut.substack.com where I will write regularly about whatever catches my fancy. I'll write about some of the themes I cover in this podcast and about much else. So please do head on over to indiancut.substack.com and subscribe. It is free. Once you sign up, each new installment that I write will land up in your email inbox. You don't need to go anywhere. So subscribe now for free. The India Uncut newsletter at indiancut.substack.com. Thank you. And nothing after it matters. Everything is Nehru's fault. And there's another side that believes the opposite, that history began at 2014. And, you know, nothing that happened before that should be counted. And everything that is going wrong is Modi's fault. And where your book works so wonderfully, it shows that the truth is much more complex than that, that things started going wrong much earlier, that, you know, the culpability lies with various combination of circumstances and people really. And there's just this larger narrative playing out there. So again, we've done a great episode on this, which I'll direct listeners to. And therefore, for that reason, we won't talk about it for two hours. Like, I think we must have then. But tell me essentially, you know, what is the narrative? What what is the last decade? Why do you call it the last decade? And what are the key events that kind of set it off?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:19:19.760",
+        "message": "Yeah, Amit, what you're saying is absolutely right. Just like we are saying experts are not heard now. Their views are not taken into account. Technocrats are unimportant. Well, you had the most distinguished economist India's ever had, Dr. Manmohan Singh as prime minister in the previous government, you know, were his views taken on board on economic"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:19:41.840",
+        "message": "important economic policy matters."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:19:43.760",
+        "message": "So really, there's no difference between, you know, the previous government and this government. And therefore, I don't understand this polarization. I don't understand people who defend the previous government. And I don't understand people who say this government is any great because you're doing the same thing. You don't want to listen, you know, to people who know about things. And that's why we've had a lost decade. You know, problems in the economy may have started before 2008, which is where my book starts. But I began to record it in 2008, with the shock of the global financial crisis, before which the global economy was booming, and therefore the Indian economy was booming because of the kind of links between the Indian economy and the global economy. And what the shock did is that, you know, it was not as severe for India, number one, because India did not have a financial collapse like the Western world did. But also because whatever response and crisis management to make sure that there's no financial collapse, the experts were allowed that that's that one exceptional occasion where experts were allowed to take those decisions. And the economy, there was a dip in growth and the economy bounced back. Some politics happened, some things happened, which were beyond control, such as the Mumbai terror attacks and Prime Minister Manmohan Singh's health, which took him out of office for a while. And the terror attacks led to a change in portfolios, Pranam Mukherjee became the finance minister. As I was saying earlier, he comes from a certain ideological background. He was somebody in this government who could do things in defiance of what the Prime Minister would have liked. The Prime Minister's personality was such that, you know, he wouldn't instruct the finance minister to do things in the way he would want them done. And therefore, some very incorrect policy decisions were taken. Fiscal stimulus that should have been ended was not ended. Banks were instructed to be very liberal in giving loans, whatever loans, loan defaults were taking place because of changes in calculations because of the global, you know, the collapse in global demand because of the global economic crisis. Those calculations didn't happen because banks were very willing to extend further loans and evergreen loans to avoid defaults. And so that led to the NPA crisis. There was this whole tax terrorism with Vodafone, which is again, you know, Pranam Mukherjee's decision in defiance of not only Manmohan Singh, but also Sonia Gandhi, as he documents in his own book. And on top of all of that, there was this whole policy paralysis, thanks to a very, very enthusiastic CAG who has since gone quiet and has been apologising for things he said then. And bureaucrats didn't want to take decisions. There was a political crisis in Parliament. There was confusion within the UPA because the Congress had not had a situation where the prime minister and the party president were two different individuals. So as Salman Khurshid has given an interview, had given an interview back then that, you know, they didn't know how to handle this political crisis. And all of that, you know, just meant that the economy, which had recovered from the shock of the global financial crisis, actually could not recover from these self-created, self-inflicted problems. And so when, you know, the global, the second global shock of the taper tantrum from the US came, there was a run on the rupee, there was macroeconomic instability, your current account deficit and fiscal deficit, you know, reached proportions that created a scare that we were going to have a 1991 type balance of payments crisis. India got into the fragile five, which I was earlier talking about. And the recovery was not sustained, the post global financial crisis recovery. And in those situations, the politics played out, government changed, a new prime minister came who everybody had a lot of hope from. Initially, he announced a whole lot of policy initiators, which really sounded good. So, just making India such as an intention to sort of reorient the economy, pull it out of the policy paralysis. But that doesn't, that never happened. At some point, the politics, what do you want to say something?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:24:15.680",
+        "message": "Yeah, I want to say that, you know, this point that India recovered, it was a false recovery,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:24:22.080",
+        "message": "right?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:24:22.640",
+        "message": "Because of the second fact that you mentioned, which is evergreening of loans. And so, the NPAs ballooned and so on. In fact, I would say that because of the very, very prompt measures that were taken in the West, the death of companies, the buying over of companies, the speed with which all that happened, set the stage for a recovery. Here, it was all artificial. It was all papered over."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:24:54.480",
+        "message": "Completely."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:24:55.200",
+        "message": "You know, so the recovery was a false recovery. It wasn't a real recovery."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:24:59.200",
+        "message": "Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:24:59.840",
+        "message": "And so, it was bound to, the chickens were bound to come home to roost. From a structural point of view, I want to go into a few numbers here. I'll try not to be\u2026"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:25:10.640",
+        "message": "Before we do that, shall I let her finish?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:25:13.440",
+        "message": "Actually, we should first talk about this and then move to the, yeah. Sure. I just want to cover that period, you know. So, we had got used to a situation for decades where banking problems and debt problems of the government were papered over by inflation. Inflation cures all debt problems, right? Because loans are designated in rupees, which is an artificial measure. So, if prices go up by 20 percent, that rupee is worth 20 percent less, but the amount I owe you doesn't go up by 20 percent. It only goes up by the interest that I'm paying, right?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:25:55.120",
+        "message": "Lenders are punished. Lenders are punished."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:25:57.680",
+        "message": "So, in the past, we'd been able to deal with all ills by inflation. However, what happened at this point in time was that inflation became intolerable and they had to ramp down on inflation. And therefore, now you had a situation where you couldn't have inflation to solve these problems, and so all of these bank loan problems came home to roost. The usual means that we had for dealing with debt problems vanished from the armory of bankers, of borrowers, and of the government. And so, it came back to bite."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:26:37.280",
+        "message": "Yeah, that's absolutely right. And so, to continue with what I was saying, initially, this government announced what was expected. What more they could have done is, you know, health and education policies, because even the IMF at that point in time was saying that, well, you know, you can every now and then give fiscal stimulus and, you know, create this bounce back. But, you know, there's only so much that will do. For you to have sustained job-creating growth, you need to focus on your education and health policies, and that's where you need to work. That's where you need to work, those kind of reforms. But nobody paid attention to that advice. And soon we found that all the interest, at least in announcements that we were seeing about, you know, cleaning up the banking sector, focusing on manufacturing, land acquisition, cleaning up the land acquisition side, all the reforms related to the factors of production, those intentions did not materialize into concrete gains for the economy. And because the banking crisis was not handled as well and as quickly as it should have been, the economy kept, you know, the upturn in growth that they had inherited, they could not convert it into. And a lot of that upturn was also because oil prices suddenly changed, and that helped. They were very high, globally oil prices corrected, and they could not sort of capitalize on, you know, those things. And even before demonetization, the economy started slowing, demonetization made it worse. We discussed last time and the book discusses there is, you know, I still don't have answers, but what I speculate on why demonetization was thought of, but we can talk about that if you want to later. But so demonetization and a very, very poorly designed GST were further shocks to, you know, especially the informal sector of the economy, which was already sort of suffering one shock after the other. You know, when exports demand went down, the informal side of the economy also suffered because informal workers tend to get employed in these small units, which are linked to the export side. And so we, you know, by the time, and then, you know, farmers also not getting remunerative prices. So your informal workers, your farm labor, your small and marginal farmers, and industry, everybody, you know, was sort of not doing very well, and the economy was not in great health. And if you recall, before the 2019 elections, even companies like Maruti had announced production cuts, because there was no demand in the economy. And at that point, that should have, you know, voters should have forced cost correction, but voters did not force cost correction. And we haven't seen after that, you know, after elections, any significant decision making that would address either the problems that this government had created, or the problems that they had inherited, including the structural problems of the economy, where the kind of economy that was created post 1991, is just not delivering for such a large proportion of the population, even if your GDP numbers look good, because the GDP numbers are drawn from like we discussed earlier, a very small part of the economy, which is, you know, the formal economy. So, we can keep feeling happy that, you know, our GDP is such and such percentage, but how many people's lives is it really representing? And our per capita income levels are very low, and not even right now, not even at the pre-COVID level. So, that's where we are. And, you know, that's what's happened in the last."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:30:30.240",
+        "message": "So, I want to go back to just to emphasize the point that this is not just a pre-2014 post-2014 thing."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:30:39.040",
+        "message": "You know, I want to go back to that."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:30:41.280",
+        "message": "And I have been trying for the last two or three years to understand what was the nature of that boom that we saw, pre-demonetization, as somebody who gets what you call high frequency data, which means that you're working in a company and you see sales, etc, etc. I saw the slowdown happening in about eight, nine months before demonetization. So, it's not as though demonetization brought it on. It was already coming. Demonetization worsened it a lot. And then I tried digging back further, and I see a few things. Firstly, if you look at the period 2008 to 2013, because all of this false euphoria was generated by papering over loans, etc, etc, there was an injection into the economy. And you had rural wage growth, 2008 to 2013, of 15% per annum. Unprecedented. Unprecedented, in nominal terms, which meant 7% per annum in real terms. Today, it's negative. Okay, now that had an upside and it had a downside. The upside was that it created rural demand, which became the buzzword for every single corporate in India. And it was real. Rural demand is booming. Everybody from Hindustan Lever to Darbar, to everybody said rural demand is booming. It was, because their real wages were going up. The downside of it was that it was achieved largely by MSPs going up. And so, it fed back into higher inflation. And at some point in time, that high inflation became intolerable, and they had to cut back. So, that was the first issue. And since then, what has happened is that if you look at the terms of trade between industry and agriculture, they have deteriorated hugely for agriculture. So, all of those people who are living in rural areas, their purchasing power of goods coming out of the cities has gone down. So, that rural demand has been knocked. We don't know how to bridge that gap, because as we've seen, there's a trade-off. You give them higher remuneration, you create inflation. Now, this is something that we have known since 1980. In 1980, the World Bank published a very influential report, which said that the problems of the agricultural sector cannot be tackled in the agricultural sector alone. You have to move people from the agricultural sector to wage-paying jobs in non-agriculture. And this we've singularly failed to do. You had Make in India. It came from this realization that you've got to create a manufacturing sector. It was the massive flagship program of the government. The first big program they announced, as she said, in 2015. We're now in 2021. It was supposed to be a five-year program. There's been not one report analyzing why it didn't work. The share of manufacturing to GDP in India has come down, rather than going up. It was supposed to go from 17-18% to 25%. Instead, it has gone to 16% or 15. We don't know the number exactly, but it's gone down. There was no analysis of this. The flagship program of the government was never analyzed. You have a think tank. We don't even have a policy commission here. You know, we don't have planning commission. We have a think tank. The think tank has not analyzed the first thing that they thought about. And the seven-year vision."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:34:57.280",
+        "message": "Right. Which the prime minister released is no longer talked about."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:35:00.880",
+        "message": "The second point is that if you look at any nation, at least over the last 50 or 60 years, which has moved from being a low-income nation to a middle-income and an advanced economy, has grown on the basis of manufacturing exports. We had a boom in exports for roughly those same four or five years. It vanished. Why? What are the policy implications of that? Not discussed. I can point to three or four reasons, but these are not being discussed. The first is, and this now comes down to politics, which is that you have a measure which is called the REER, which measures the real exchange rate, the real effective exchange rate. Obviously, if your exchange rate, if your currency is weak, that means it's cheaper for people to buy from you. If it's strong, it's more expensive for people. Now, for decades, China was accused of manipulating its exchange rate downwards. It was considered an exchange manipulator. It was on the basis of that that they were able to grow their manufacturing. I'm not suggesting that we should manipulate it, but at least it needs to be discussed, right? Throughout that period of 2005 to 2012, REER was around 105 based on 2005. So, 2005 to 2013, it was around 100, 105. So, we remained as competitive in terms of exports throughout that period. Today, it is 115. Okay, it's not that we have tried to make it less competitive. It has become less competitive due to a variety of reasons. It's something that needs to be discussed, right? It's not being discussed. Why is it not being discussed? I suspect one reason is a very early narrative, which is that we will make the rupee strong. Therefore, you can't make the rupee weak. One rupee equal to one dollar. Yeah. So, you can't make the rupee weak. So, your manufacturing doesn't grow. But that's simplistic. That's only one part of it. The other part of it, and finally, it all goes down to politics, Amit, which is you look at economies that export. You may be producing in the hinterland. How cheap is it for you to move your goods from the factory to the port? You look at any exporting nation. 70-80% of their exports go from factory to port by rail. In our case, the percentage of goods going by rail is kept going down. Rail is much cheaper, should be much cheaper. It isn't over here. Why aren't people sending by rail? Number one, your rail systems are inefficient. Number two, pricing terms. Railways are running both freight and passenger. You don't want to raise passenger. You have to run the railway, so you raise freight. So, you are, the politics of passenger traffic is one more component in making your exports uncompetitive. The seen and the unseen. Seen and the unseen. Your ports are inefficient. They're becoming more efficient. Definitely, we've become much more efficient. Point is that you're not living in a static world. You can't compare yourself with what's going on in the world. You can't compare yourself with what you were in 1970. You've got to compare yourself with Vietnam or Bangladesh or Taiwan or whoever they knew. You're not as efficient as them. Number three, what is the cost of your utilities, your electricity? On each of these, you are not competing with what you were or with the next state. You're competing with the rest of the world. These are issues which are not being discussed. And so, you have a situation where your exports are not growing. The real wages of the agricultural sector are going down. Your formal employment. There used to be a period where every 1% increase in GDP resulted in a half percent growth in formal employment. Today, you know what that figure is? 0.1. That means you need to increase GDP by 10% to add to 1% of employment. So, you're not creating formal sector. Now, that also needs to be understood. Why is it happening? I don't know the answer. I know some of the answers for exports. I don't know the answer. You can point to labor laws. You can. There are also certain discontinuities, which is that if I am going to produce cars, for example, I can't produce cars in a different way from the rest of the world. I can't produce cars in a more employment intensive way. I've got to produce it with the robots because only the robots will give that kind of accuracy. Nobody's going to take a creaking car just because I want to employ more people. But there needs to be in-depth study of this. How do we increase employment in the formal sector? None of these issues are being discussed, but the economy has changed. And it's changed in ways which is making it more and more difficult for us to catch up and to convert that demographic dividend of 15 or 20 years ago into reality rather than the disaster which it is becoming."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:41:16.240",
+        "message": "So, I want to add a few points to this and then, you know, kind of move on to my next question. And one is while you were talking about all this, you know, moving people from agriculture to sort of wage paid jobs, just to give perspective around 50% of India, you know, give or take a little bit here and there is dependent on agriculture. Dependent on agriculture for their sustenance and in developed countries like the US and Europe, it's a single digit percentage figure. And what you'd expect a country like India with cheap labor to have really evolved as you have massive manufacturing like China, Vietnam, etc. Did people move from agriculture to the manufacturing sector? And that's how we kind of grow. And that never happened in a bunch of reasons, like, for example, our labor laws, which hurt workers more than they help them. So it was, you know, one of those things I found rather amusing a few months ago when UP spoke about changing labor laws was so many people jumping suddenly to the defense of these labor laws as if they actually help labor, you know, going by intention and not outcome while they have been such a disaster, and so on and so forth, a variety of reasons on that. Now, I want to quickly do a Cliff Notes version of the last decade. And before I get to my next question and make a few things explicit and also come up flippantly with a couple of sort of conclusions. And my first flippant conclusion is that Pakistan is responsible for our economic crisis. And the first act of happenstance that happens in the last decade are the Mumbai terrorist attacks. Because at that point, Shivraj Patel is revealed to be a duffer as a Home Minister. So therefore, it is decided that somebody competent is required there. And Manmohan Singh says to Chidambaram, who is then Finance Minister and is doing a really good job of, you know, rebounding from the economic crisis, he tells Chidambaram that boss, we need a dude in that ministry, so to say, you are my dude, you take home ministry for a while, we'll put you back later, at which point Sonia Gandhi raises hand and says, my boy Pranab Mukherjee is going to finance. Now, Pranab Mukherjee is full on Indira Bhatt from the 70s. And Indira, of course, destroyed this nation's economy, kept millions in poverty for decades longer than the I mean, he's a fossil. He should not be allowed near any position of power or even a utility like a tap or something, because God knows what damage he will do. So Pranab comes over, and he shakes up the whole thing. He does all these things Pooja described so eloquently, the tax terrorism, retrospective taxation, the whole phone alone schemes, and you know, which kind of exacerbated the situation that led to today's banking crisis. And then Manmohan had his health crisis, so he couldn't really fight back. And therefore, it is not a temporary measure. You know, Pranab stays in the finance ministry for a couple of years, at which point I come to my second flippant conclusion. My second flippant conclusion is that Pranab could have been our finance president. Why do I say that? Because he would then not have been in the finance ministry. Doing the damage he did just because of that he could have been our finance president. So what Manmohan and Chidambaram finally decide is, there is only one way to get rid of him, make him the president."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:44:26.960",
+        "message": "In which case, you know, biggest culprit is Sonia Gandhi. If she had made Pranab Mukherjee prime minister and Manmohan Singh finance minister, things may have been different."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:34.320",
+        "message": "Pranab Mukherjee could have, you know, been a little more autocratic about, you know,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:44:37.920",
+        "message": "he could have been giving orders to Manmohan, which is such a horrifying thought. Yeah. So anyway, so this dude becomes president."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:44:44.000",
+        "message": "Chidambaram has a few months before the 2014 elections, but there's a course correction, but it's too late, there's not much. Now, interesting thing. Modi takes over, Arun Jaitley comes and they all, Jaitley, Chidambaram, their respective staffs, it's the same ministry. They get along wonderfully well, there is continuity. They are, you know, under Jaitley, the finance ministry is doing the similar kind of good"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:45:05.200",
+        "message": "work that they did under Chidambaram. The pipeline of policies is being cleared."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:09.120",
+        "message": "Then the next act of happenstance, which is, which leads me to my third flippant conclusion that India mein suit nahi pehna chahiye, because Modi dresses up in that suit with his name on it. And immediately that suit boot ka sarkar jaib goes and he decides ki, you know, I want to keep the people with me, you know, sabka saath, sabka vikas and all that, but whatever, he changes course and over a period of time, obviously, it's not the only trigger, but"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:45:34.640",
+        "message": "it's one trigger as Pooja pointed out. Kejriwal."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:45:37.840",
+        "message": "Kejriwal also, but over time, he changes course and then disaster after disaster, including demonetization, which is Pooja wrote so eloquently in her book, could be because of, you know, that thing that something has to be done and this will be shown to hit the rich and the black money people and all of that. And we basically go to hell after that. Now, two thoughts come to mind. One is the incredible role of happenstance in all of this. Ki yaar, if Pakistan had not sent those dudes and all of that, or if our coast guard had worked a little better, we may not be here today. Right. Chidambaram could just have continued and even Shivraj Patil could have continued. Theek hai. You know, and his grandson was in college with me. Anyway, I don't know why that's an irrelevant aside. And the other sort of, so the role of happenstance is there. But the other thing that really dismays me, and that speaks to what you were just talking about, Mohit, is that these decisions seem to be happening because of all the wrong reasons. Economic decisions are not happening because of economic reasons. They're happening because of political reasons. Sometimes they're grand political reasons, like what image Modi wants to project. Sometimes they're petty political reasons, like Sonia decides ki nahi, finance ministry mein I want my little bulldog to, you know, run the thing. And fans of Pranab Da, I won't even say please excuse, you can go to hell. So that's, you know, is there a solution to that? Because, you know, I don't want to think that our economic future is dependent on getting lucky with the politics and the circumstances working out. Ideally, I would think that there should be a cadre of people, which at one point with people like Vijay Kelkar and Ajay Shah, whether it seemed that there were, that there are people who are serious people who are thinking about these things and making decisions. Is there something like that today? Or are we essentially dependent on where fortune takes us in terms of what policy we have?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:47:32.560",
+        "message": "We've talked about that earlier, which is that this government is anti experts. So, and then, you know, it's like what you talked about, that family of dons, where Italian"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:47:47.040",
+        "message": "dons, where each don was shorter than the rest. I told a story in a previous episode about this mafia boss, where this mafia boss is five foot four or something. And then all the successive guys are shorter than him because he's only picking people who are not a threat to him."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:48:01.760",
+        "message": "So, you know, that's what we're seeing today, right? If you don't have people who understand economics at the top, you're not going to have a cadre of experts. They're all going to leave, right?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:48:11.680",
+        "message": "I don't have any problem with Harvard versus hard work. If you think hard work can substitute for Harvard, I'm all for it. But are you doing the hard work? Our entire discussion today."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:48:22.480",
+        "message": "I'm sorry, I don't agree. You need both."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:48:24.800",
+        "message": "Of course, of course, you do need both."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:48:29.680",
+        "message": "But I'm saying, I'm willing to give you a chance to prove that you're right, but you're not doing your part of the equation. You're not doing hard work, right? You're only doing politics, narrative. So, so fine, if you if you don't like people from Harvard and you want to bring in people, you know, who like this, they are Indian economists or whatever, you know, historians, fine. I mean, if their hard work can do things for us, all right, let's give them a chance. But who's doing the hard work? Nobody's doing the hard work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:48:59.200",
+        "message": "Nobody is even talking about these things, like Mohit said, which is a fundamental point. We are talking about history."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:49:04.080",
+        "message": "We are rewriting history. Yeah, we are. But really what dismays me is that if I were to look at the building blocks of the economy and what it is today, these are some of the factors that I look at, right? Which is the effective exchange rate, the terms of trade between agriculture and industry, rural employment versus what is the, what is the agricultural income of the average agricultural family? How are our exports growing? How competitive are we in terms of exports? What are the factors responsible? These are 20 things that I would look at. I'm not a practicing economist, right? I'm somebody for whom this is a hobby. My main business is something else. But even I know that we should be talking about these things. Forget the ministries, forget the governments. I don't see these issues being discussed in the press. And that's going back to where we started."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:04.320",
+        "message": "In fact, I did an episode with Shivam Shankar Singh recently, and he pointed out that he was in the BJP for a while and he had bought into the development rhetoric. When he realized it isn't working out, he left. So, credit to him for that. But he pointed out that what he was told explicitly within the BJP when they were planning for the 2019 elections was, we will not talk about development. We spoke about it in 2014. Now, if we talk about it, they'll ask us for our track record. So, we won't talk about it because implicitly, you're admitting there is no track record."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:50:33.360",
+        "message": "In 2024, they won't talk about national security. Yeah, they won't talk about national security."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:50:38.560",
+        "message": "I mean, yeah, they won't."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:50:39.760",
+        "message": "What's in store then? God knows how far China will go. That's already clear, right? Now the enemy is within. This is what Doval and Rawat are saying, right? Civil society is your enemy. It's not outside."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:50:52.000",
+        "message": "And China's built a village in Arunachal Pradesh, so there goes that. So, yeah, so you can't talk about that."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:50:57.520",
+        "message": "So, you talk about the enemy within. The National Convention of BJP just finished. There was no economic resolution. They don't even have an economic cell in the party."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:51:08.720",
+        "message": "And if they did, it would be, it would have historians in charge."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:51:11.680",
+        "message": "So, what can we say?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:51:12.560",
+        "message": "It would have historians in charge, so what can we say? Let's get back to kind of talking about the economy. Though, of course, the economy and politics are coupled in this really toxic way. Give me a sense of where things were before COVID. Like one narrative that is going to be spun is that things that have gone wrong have gone wrong because pandemic aagiya hum kya kare. And I've done various episodes before COVID, including, you know, one with Vivek Kaul on the economy in 2019, and we've kind of discussed it endlessly. And throughout, it was very obvious that things are really bad. And so give me a sense of what things were like before COVID. What was the banking crisis like? You know, what was employment like? What was, you know, in general, where would you say are the fault lines? Where were we headed in a good direction? Where were we getting far worse? What would you have been most worried about?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:52:07.600",
+        "message": "So, things were already bad before COVID hit, right? As I said, things were bad even before demonetization. They got worse. So, again, let's not talk impressionistic. Let's talk about numbers and numbers that are public. Again, we know, for example, that household debt, this is a measure of misery, right? In a sense, living beyond your means. So, household debt has gone up from 31.5% in 2015, 31.5% of GDP. It is now 38.3%. Now as in at this moment? At this point in time, okay? It was about 36% before COVID hit. So, it was already going up, right? I did a very interesting number crunching this morning, very minor. You can say it's just an anecdote. But as far as I'm concerned, what is the purpose of an economy? The purpose of an economy is for people to consume. Everything else is an instrumentality towards that, right? And partly for reasons of loyalty, because my first job was with them. Partly because they are the biggest consumer company in the country. I looked at Hindustan lever data, okay? Hindustan lever turnover from 2010 to 2015 went up by 75%, about 14, 15% per annum. From 2015 to 2020, maybe I should have done the interpolation as well. It has gone up by 25%, which means four or 5% per annum, okay? So, the slowdown is massive. Now, should I have taken 2014, 2015, it doesn't matter, it was just a rough sum, just to see like, what is the level of deceleration? The level of deceleration is massive. And I could see this, you know, as I said, high frequency data. I'm looking at high frequency data from two points of view. One is sitting on the board of consumer goods companies, et cetera. And second is an investor. I'm paying for future, right? So, if growth is not happening, I'm worried. I've got to take money out off the table. Thirdly, and this is, I would say, one of my favorite measures, which is, what percentage of adult able-bodied people are productively used in the economy? Because if a high percentage is used gradually, yes, you will see yes, you will improve productivity, et cetera. But they must be there to contribute to the economy. We were already among the lowest in the world, 42%. We dipped to some 36 or 37, we're back to 39%. Countries which have become miracle economies, they have 70%, 72% of adult working age population employed in the economy. We have 40%. So, we have not been able to figure out how to fit those pieces together. As a system, I'm not talking top down. I don't believe in that. But our system has not been able to fit those pieces together. That my availability as a body and a mind can contribute to the growth of this economy. So, they were already bad."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:55:53.360",
+        "message": "I think that's because of the politics. You know, there is no need to figure out the answer to that, because I can just go to the voter and promise them an NREGA handout, or I mean, let's not call it a handout. You work for 10 hours hard manual labor, I'll give you 150 rupees or 200 whatever the wage rate is currently at the end of the day. For as long as you do 10 hours hard manual labor day after day, every day, you will get this money, the day you don't do it, you won't get to eat because you can't really save on those wages. And because you can't save, you can't educate your child, you know, you can't scale your child, your child will do the same thing. And generation after generation, you will be tied to NREGA. NREGA is very good because I agree that it set a floor to wage rates, which also fed into the rural wage rates, which we talked about how that helped the growth rates earlier. But is it an anti-poverty program? No, it's a safety net. But we treat it like we will compensate you for our failures of growing the economy and creating jobs for you and developing the economy by giving you NREGA. That is one model. The competing model is that we will, because of our failure to do economic policy right, to fix the economic model, to not create enough jobs, to not generate enough growth, for that failure, we will compensate you with a cheap loan, which we will, you know, call a mudra loan and not ask you to give it back to us. We will give you the scheme where they give toilets, cooking gas with one cylinder, you may not be able to refill it. And what is now called the Modi government's welfare paradigm. Why, you know, are you doing this paradigm, this welfare narrative? Because you're not doing the first thing you're supposed to do. The government is supposed to fix the economy. You're not doing that. So you're compensating people for your failure by giving them this, which is better than, you know, what happens in the state politics where you give saris and television sets, etc. But it's still just the same thing."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:57:47.680",
+        "message": "So on MNREGA, in fact, what has happened is that the wages paid under NREGA have not been going up. They're supposed to be inflation indexed. Yeah, but they're not. And today the NREGA payment is well below minimum wages. So I have a quiz for you. Registered households in UP, one of the poorest states in the country. As per the program, you're supposed to get 100 days per household, right? Last year, what was the average number of days that a household got wage labor under NREGA? I haven't checked the data, but the average demand is higher, supposedly, around the country. Eleven! So it's not working, right?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:37.760",
+        "message": "There's a phrase I learned from our mutual friend, Mohit Kumar Anand, which is PPP, perpetually planned poverty, which sounds exactly like the dependency that you described can happen under MNREGA, where you don't save anything. So you're always just dependent on that. And you can't educate yourself."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "01:58:55.680",
+        "message": "You can't build human capital. How is it a solution?"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:58:57.600",
+        "message": "Your kids are also going to do the same damn thing."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:58:59.760",
+        "message": "It's perpetually planned poverty. Amit, the point I'm making is that even that has not worked."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:59:03.200",
+        "message": "And even then, because people wanted 100 days, they were getting 7, 8, 10, 11."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "01:59:07.680",
+        "message": "In the poorest states in our country, Bihar and UP, they were getting 7, 8, 10, 11 days. And they may not be getting paid for those 11 days also. Let's assume, let's take everything on the basis of facts, not assume anything. These are, this is data available. Parliament questions. This is data."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "01:59:24.640",
+        "message": "And why? Because doing, you know, changing the economic model, understanding deeply what the economy needs is all hard work. It's seriously wonkish work. Why do you, why would you do that when you can, you know, get votes by doing some very simple things? And you don't trust experts anyway."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "01:59:43.680",
+        "message": "So there you go. So let's go through the last few months. How has COVID exacerbated this? Like, you know, where's COVID kind of taking us? Like one image that I have in my mind from pre-COVID, from before, from three or four years ago, was again our friend Kumar, traveling through Bihar and all of that. He came to, you know, he'd visited Mumbai just after going through Bihar. And he painted the stark image of me. He said that wherever he goes, you know, on railway stations or at the Paanwala or on the road outside, he sees groups of young men who are just standing there doing nothing. And it's almost like a frightening thought. And obviously, you know, this speaks to the unemployment. This speaks to the loss of hope. This speaks to law and order, law and order. It just speaks to so many things."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:00:31.520",
+        "message": "Amit, I don't think that that has changed drastically. It was always the case throughout our decades. The image I see for the last 40 years, we are recording this in South Delhi. We're recording this in South Delhi, two kilometers from my house. Between this place and my house, there's a place where 40 years, every morning, there's a market. It's a market not for flowers, not for vegetables, not for meat, but for human beings. This is daily wage labor who is gathered over there."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:01:13.200",
+        "message": "I've seen."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:01:13.700",
+        "message": "I've seen who will come and employ them for daily wages. You can go and pick them up at whatever the prevailing the hardy is, meaning the daily wage, whether it's 300 or 400 or 250, you know, as it's moved. And obviously, they're not skilled, right? They wouldn't be standing there. They'll come, they'll move boxes, they'll swab your floors. Some of them claim that they can paint, etc, etc. But they're just bodies. It's almost like a slave market, because their bodies are on hire for the day. And at 10 o'clock or 1030, when it becomes obvious that they're not being hired, they may or may not have money for the rest of the day to feed themselves. Because these are largely people who've left their villages and come here, looking for this kind of work. This has always been a feature. Okay. After COVID, what happened? You had two things. One is that a lot of them went back home. But at the same time, the employment market bottomed out. So, the people who were left over here, they had no dignity left, no hope left. And a very close friend of mine, who lives in Delhi University, started a Mazdoor kitchen, daily feeding program for those who got left behind. And I was a little bit involved with it. And the idea was that we will need to do this for three months. The three months became six months. It is still continuing. 17 months later. And very recently, I was in Delhi on a trip from the village. I drove from Delhi University back home. And I saw that even though the distribution was going to begin at four o'clock, by two o'clock, there was a line of 500 people going all the way from ISBT to Red Fort, just waiting for that one daily meal. So, I'm saying two things. Firstly, this always existed."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:03:42.820",
+        "message": "But secondly, it's got worse."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:03:43.940",
+        "message": "In fact, I wrote a column last year, talking at the start of COVID, in April, talking about how"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:03:49.700",
+        "message": "we are faced with two disasters. And one is COVID-19. And the other is the ongoing disaster of the dysfunctional Indian state. You know, where, and you know, like some of the figures I gave was, you know, 3,000 children die in India every day from starvation. One in four Indian children are malnourished. And one in four Indian women are malnourished. And one in four Indian children are malnourished. And so on and so forth, you can go on."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:04:15.380",
+        "message": "And that figure has probably increased."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:04:17.700",
+        "message": "Possibly. But the larger issue is that there are so many things that are a fact of life today. If they were caused by a natural disaster, like a cyclone or a virus or whatever, we would say this is a national moral emergency, we need to do something. But it's been normalized. It's been like this for, you know, 75 years. And it's just normalized now. And we don't, that's a very kind of important point where it's not just about talking about the state of the economy today, but it's also talking about how we've normalized so many of these things. And as you just pointed out, this is, you know, not something new."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:04:54.740",
+        "message": "We've normalized the fact that 60 or 70% of young people routinely give up hope of getting a job. If you look at the data, and you see how they move out of the labor market, they don't say they're unemployed. The way in which the data is collected, they don't say they're unemployed because they're not looking for a job. And they're not looking for a job because they tried for five years and they didn't find a job. So in terms of their own peace of mind, they now need to say we're not looking for a job. And they make do. And these are the people who I see every day in the village. Young able-bodied men of between 20 and 40 who are making do, they don't have a job."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:05:48.660",
+        "message": "It's a bit like, you know, women suffer violence at home. It's almost like that. One of my earliest reporting assignments was, I think I'm talking about either Rajasthan or Mandipuradesh, Rajasthan, I think, on NREGA. So I was asking these workers in this village, have you been paid? And they said, some of them had pending payments. So I said, you know, under the provisions of the law, if you're not paid for this period of time, you know, you can go and make a complaint. And this is guaranteed, you know, this is not allowed. Amongst the people I was speaking to was this one village woman. And she said, you go and make this complaint for me. If you're asking me to go and make a complaint for you, you go and make this complaint for me. If you're asking me to do it, you go and do it. She was very polite. That's how you learn, you know, you're so naive. So I said, no, why can't you make this complaint? She said, you know, I'm a widow, and I take care of two little children. When these men, you know, do things with me, even then I can't go to the police station and make a complaint. So I can't go and make any complaints to any of the Adhikaaris, because it doesn't work like that in the village here. And, you know, so when we think we've come up with these great policy solutions to problems, do we really know what the ground realities are? When we talk about them in Delhi as journalists and commentators, do we even know what we're talking about? You know,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:07:18.900",
+        "message": "so the hard work is missing everywhere. Yeah. Let's pick up on the thread that you mentioned at the start of the episode, Mohit, where you spoke about how you're walking in Satholi and for the first time in these 30 years, someone stops and asks you for a job. And I remember I did an episode with Tamil Bandhu Padhyay who'd written Pandemonium Red Book on banks. And one thought it will be a dry episode about banks. But I always love having these personal chats before we start. And it was very moving. He was very moved because I just started by to break the ice by asking him about how his COVID months were. And because I was like literally my first physical recording, you know, before the second wave happened, but in I think January this year, and he spoke about going out in the streets of Bandra. And there were these little kids who would earlier be selling things, but now they were begging. And there was a well-dressed guy who took his hand and he got worried, but took him into this lane where there was a biryani wala and said, please buy me biryani. That's all I want. I just want food. And, you know, and it's, it's, and these are new things, you know, and COVID to me, it seems that it is almost common sense that there is a fundamental shift. What is the movement of humanity? The movement of humanity is from villages to cities where people are, where larger economic networks are, you want a job, you go there, you're full of hope, you know, that's a movement. It's a great movement, right? That's what lifts people up. And what we had in COVID was millions of people having to take the reverse journey back when they lose hope, and they have to go back. And in villages, like, you know, like the person Mohit met, where there's no hope, there's, there's nothing, it's just, and I can't imagine myself in that position, that how do you then live like, you know, I recommended this film to you by Ramin Behrani called Goodbye Solo. And there's a great review of that by Roger Ebert, where Ebert says he spoke to Behrani. And Behrani said that the fundamental question of a cinema is how do you live in this world. And I think there's just such a fundamental shift there. And I can't fathom some of this. You know, the film was about how these two people shift during the film. That too, that too. But it's a fundamental question. And at one level, it's an existential metaphysical question, how do you live in this world? But at another level, it's a real sort of question of how do you live in this world? Where do I get my next meal from? All these people come to cities, jobs are gone, nothing is there. There's no transport, they have to go back home. And they're going back home. And what's happened after that? Like, what's the scene? How does it affect the economy? We like the economy seems like this dry thing. But the economy is a collection of people who are living these real human dramas. So give me a sense of how you think COVID changed things. Like was it less fundamental than it seems in the dramatic way that I'm perhaps describing it now?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:10:03.140",
+        "message": "Oh, it's the connection between. So the word I use for this part of the economy is the informal economy. It's not that your informal economy is shrunk. My sense is we don't know until we measure it. My sense is that the connection between the informal economy and the formal economy is broken down. So you're not capturing information about them, because they've all gone back to their villages, some units have shut down, you're only looking at the formal economy, your consumption base now largely is government and people who draw salaries and pensions, inflation indexed from government, PSUs, etc, etc. That is your consumption base. Those are the people who are cushioned from what happened because of COVID. They're driving, you know, their savings and investments are driving the stock market. They are driving the pent up demand, you know, that we talk of that led to this mini bounce. And eventually our GDP will only estimate their GDP. And we'll"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:11:01.460",
+        "message": "just feel that, you know, we have recovered. So I have a couple of reactions to that. The first is that losses in the informal economy are real. When, you know, it's not just the connections breaking, the losses are real. Units have shut down. So that's number one. Units have shut down, shops have shut down, dhabas have shut down, roadside stalls have shut down. So there's a real diminution. Secondly, that when people talk about the formalization of the economy, the economy, and they say that, you know, that production has shifted to the formal economy. Yes, it has. But everybody who's a producer or an employee of a producer is also a consumer. And if he's lost his job, or if the factory owner has lost his monthly profit, their ability to spend in the economy has also gone down. So on a static basis, you know, if you say yesterday and today, the demand of those 10 biscuit factories in the informal sector, which shut down, will shift to a Britannia. Right. But those 200 people and those 10 factory owners, their income has gone down. Their consumption has gone down. A year later, it will reflect in lower growth for Britannia also. You won't see that at first you'll see a bounce, but later reflect. So that's the first point. Surprisingly, as far as the human point, which we're talking about, this is something that really struck me in my interactions with individuals over this last summer, is that they've been very philosophical about it. Because at least these individuals, I'm not talking about the people who couldn't go back, who are lining the streets of Daryaganj and ISBT, etc. These people who've gone back, they're quite accepting of that reality. Because in the village, nobody's starving. At least, I'm only talking about my home, you know, in the villages around, nobody's starving. So, we earned better income, we could send money back home. Now, we're back home. We don't know whether we'll go back to the city. We readjust, recalibrate to the fact that now we're going to live off the land, etc. And recalibration is showing in the"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:13:54.020",
+        "message": "slogans. From Ache Din, aspirational Indians to Atmanir Bharta. Whoever has made that transitional in slogans has obviously, you know, observed what you're saying. Yeah, great point. But the"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:14:10.260",
+        "message": "resilience is quite remarkable. Nobody's desperate, you know. We are so fatalistic, Amit. Okay, this is also a reality. We went, we experienced that, we came back. Okay, this is also okay."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:14:29.140",
+        "message": "You know, every time Mumbai is hit by something, people will talk about the spirit of Mumbai. And I'm like, what are you talking about? People are going back to work because they have no choice. Because they have no choice. It's not their bloody spirit. What are they going to do? And I think this fatalism really kind of also explains a little bit of the puzzle behind political accountability. The government demonetization, yeah, yeah, yeah, yeah, emergency, yeah, yeah, yeah, yeah. But people still vote them back. And I think part of the reason is that people just assume that their lives are hellholes. And this is how it is. And they don't kind of make that connection necessarily between governance and politics. And then they just choose their tribe. And it's a separate thing. And they assume every government that comes is going to be a bad one, which is kind of true. So to some extent, it's true. So looking at the economy as it is now, right? How do you feel? Are things all bad? Are there, you know, are there silver linings?"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:15:27.540",
+        "message": "There are silver linings. Of course, there are silver linings. But is the GDP going to grow by six or seven percent once we get out of COVID? I don't think so. Because we were already suffering before. We're suffering now. Now if you look, I don't want to get into data. But if you look at the broad structure of an economy, I, of course, believe that the starter always for economic growth is investment, which is, of course, the Hayekian way of looking at it. Now, in a situation, so the RBI compiles this data regularly, what is the capacity utilization of manufacturing? Let's start with manufacturing. And the thumb rule is that somewhere when it starts creeping up from 70 towards 75, you start getting investment. Because now I can see that a year from now, I'm going to run out of capacity now. It's now at 60%. So private sector investment is going to be very, very, very low. It was really low before COVID. If you look at the numbers, if you look at the economy-wide, we've never seen the level of investment that we saw in 2011, where what is called gross fixed capital formation was almost 40%. It's now at 30%. So a huge amount of investment at 30%. It's a huge drift. If you look at corporates, it dropped every year from 2010 to 2017. So this is pre-COVID, right? I have the figures. It went from 15% to 10% to 9.8% to 7.5%. And of course, the year of demonetization, it reached 2.5%. Right? So this is hard data. Now you can say 2.5%, maybe an accident, it had nothing to do with demonetization. Fair enough. The fact is that that's where it was. Post 2011, investment by corporates was going down, down, down, down, down. So you don't have capacity utilization. Why will they invest? They're not going to invest. Or it can come from personal expenditure. Personal expenditure has also been going down. Before the pandemic, when it became apparent that the economy is slowing, what did the government do as its major economic measure? It reduced taxes for corporates. You had a wrong diagnosis. Therefore, you had the wrong problem. The problem was not that people are not investing because taxes are too high. People are not investing because there's no consumer demand. Now, and this is very important for post-COVID. When COVID happened, people lost jobs, economy, production also went down, etc, etc, etc. What did they do in the West? One is, of course, you know, making sure the banks survive, loans, etc. But if you look at the US, they injected something like, numbers vary, but let's say about 12% of GDP was injected as personal support, money into your bank account. And in many cases, for people who are working at minimum wage, the amount that they got by way of income support was more than their earnings. They were getting $2,400 a month. Whereas if you're working at minimum wage, even if you worked 200 hours a month, you may have been making only $1,800 because minimum wage varied from state to state. And you may not even be working 200 hours a month, you may be working. People had excess savings as a result of the support by the government. What it leads to in terms of debt and Fed balance sheets and so on is a different matter, not relevant for this discussion. The point was that you kept consumption going. What was bound to happen was what you see today, which is excess demand. Because people got more money than they were used to. For 8-10 months, they couldn't consume, they couldn't go to restaurants, they couldn't travel, etc, etc. Once all of those open up, they want to do it with a vengeance. So, you've got that pent up demand, production has suffered, and some of those people don't want to go back to work because they're making more sitting at home. So, you have inflation. People say supply chain disruption, etc, etc. Nothing. We learned a long time ago that inflation is everywhere a monetary phenomenon, right? You pumped so much money into the system, you have inflation. Now, we have the worst of both worlds because we are not self-sufficient in many things. Most of all, the two oils, edible oil and crude oil. Both of them, we depend in one case 70% and the other case 80% on imports. Now, we are in a situation where we are having to pay much more for these because of supply chain disruption, stroke, government-fuelled inflation. There, over here, reduced incomes, a double whammy. Consumer demand is not going to go up. We've seen that private consumption expenditure has gone down. This data is available, not contested, though they tried to suppress it. We see that that's gone down. Investment has gone down. So, you only have one source left to stimulate demand, which is to stimulate the economy, which is government expenditure. But at the same time, we have reached a situation where at the end of this year, the debt-to-GDP ratio of India is going to be 90%. Whether it ends up at 88% or 89% because we have fiscal buoyancy, etc., it's going to be 90%. By these broad international thumb rules, once a developing country crosses 70%, 75%, it runs into dangerous problems. It's considered to be in difficulty. We are already there. So, where is the kicker for the revival of the economy going to come from? I don't see it. There's only one way to do it, and that is politically so difficult, which is to kick-start exports by devaluing the rupee massively. You can't do that. And you definitely can't do it in a situation where you are importing inflation. Today, we are importing inflation, right? With crude oil at 80 dirhams became a political hot potato. Finally, the government had to bring down excise duty, which they said was paying for free vaccines. So, they had to withdraw that, right? They had to drop the duty on edible oils. Again, for the same reason, which is that we are importing inflation. If you are importing inflation, that inflation is not because of money into the hands of Indian consumers. You are importing it because other governments have put money into the hands of their consumers. Now, you're stuck between the devil and the deep blue sea. You can't grow the economy internally. If you try to grow it externally, your imported inflation goes up. Because if, for example, you weaken the rupee from 75 to say 100 rupees, the cost of\u2026 Incidentally, all the hated experts have"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:23:57.700",
+        "message": "been pointing this out for two years, but nobody paid attention to them. And our central bank is so proud of their, what they like to also, you know, informally call quantitative easing. But the quantitative easing was done in the US because they were trying to avoid deflation and they've ended up, you know, yeah, overheating the economy. We were already to begin with, you know, above the tolerance ban. And we, the RBI was doing QE over here. Nobody ever asks why this liquidity, you know, massive liquidity operation was done. The finance minister should have asked them. They haven't asked them. The commentator should have asked them. They haven't asked them. The economist and the finance minister should have asked them. They haven't asked them."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:24:42.180",
+        "message": "But to be fair, there's another problem. Okay. And that problem is that it's not as though the government is artificially keeping the rupee high or keeping it uncompetitive. One of the reasons that it's happening is because all of that flood of liquidity across the globe is coming into India in the form of investment. And that's driving the rupee higher, not allowing it to depreciate and become cheaper. Therefore, weakening the rupee would actually require more intervention from the government than its current rate. So, it's not easy to do. And anytime you try and do something anytime you try and do something drastic like that, it can have massive second and third and fourth order effects. So, I'm not saying it's easy to get out of this. I'm saying the opposite. I'm saying it's going to be really difficult to get out of this. It may be forced on you. For example, supposing like the US Fed and Europe, etc. are talking about the taper, which means reducing the support to the financial markets, less money going in, complex issue. But supposing that works, supposing they're able to go ahead with their intention. And as a result, and we've seen this before, we saw it in 2007, 2008, we saw it in 2013, who suffers first when liquidity shrinks is not your home market, which is the US. It's people who are the furthest end of the pipe, which will mean India, Vietnam, etc. So, you could have that happen tomorrow beyond your control. So, if I was in charge of managing foreign exchange rates in India, I wouldn't know what to do. You know, I'm not saying that's an easy answer. It's very, very complicated. So, I'm just trying to underline the fact that we're in a really, really difficult spot. I don't see any easy answers."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:26:52.340",
+        "message": "This is shocking, because at the start of your answer, Mohit, you spoke about, yes, of course, there are silver linings."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:27:00.180",
+        "message": "So, you know, the question is whether you cut the court first to fit, or you cut the lining first. So, I've cut the court first."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:27:09.060",
+        "message": "I thought you're going to cut the client."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:27:10.340",
+        "message": "So, now I'll talk about the lining. The one silver lining, and I'm not sure if it's going to solve the problems or not. The one silver lining is, again, coming from deep personal experience, which is the quality, the passion, the drive, the ambition of our startup culture. It is just mind-blowing. I've worked or not worked, you know what my life has been like, right? But in some sort of measure, I've been a working adult for now, 44 years. I have seen and experienced and learned more in the last five years than in the previous 40. And in the previous 40, because of the deep thought and the hard work."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:28:13.140",
+        "message": "Harvard and hard work."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:28:14.180",
+        "message": "No, not Harvard. That's the other incredible thing. That's the incredible thing that, with almost no exception, all these young entrepreneurs that I've worked with, they come from all across India. But I was telling you this morning, for the first 35 years of my life, everybody who was a business partner in some shape or form, went to one of four Delhi schools and one of five institutions. And that was my world. That was the world I knew. Over the last five years, I've worked with people who were born in Tundla. Have you even heard the name of the place, Tundla? There you go. Sounds like a bad vegetable. Yeah, okay. It's a railway junction in UP, somewhere near Agra. Someone from Agra, Dhanbad, Pune, a small town in a district in Bihar, I don't remember which one. You name it. And the quality of thought, of passion, and the tenacity with which they run their businesses. I would have thought that given the severity of the pandemic, that half of them would get wiped out. I have direct investments in 40 startups, Amit, and 10 indirectly. During the pandemic, not one is shut down. That is, it's more than a silver lining, which I want to save it for the last. That gives me a lot of hope. But you can't do anything when the macros are out of whack."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:30:03.620",
+        "message": "The macros are out of whack. But there is that spirit, there is that drive, there is that hard work. And again, like I was pointing out to him in the morning that the fact that these people from small towns made it so far, that they're heading startups, obviously, there's a selection bias there as well. They are the outliers already. So they're likely to be outstanding. So Pooja, tell me if you were, you are, of course, not now being allowed into North Block, though, one would hope that there are these mysterious ways you found of sneaking into the labyrinthines, libraries of old parchments and manuscripts and kind of writing more books from those. But if you were in charge of North Block, you know, you know, just putting on the hat of a policy person, or rather forget North Block, if you were in the PMO, and you were the person, that mysterious person, that mysterious person who speaks and writes Gujarati, if you were that person, how would you look at this? Like, where would you begin solving it at a purely economical level? Assume that Modi ji and Amit Shah ji have sat you down and told you that, look, Pooja ji, we will manage politics, you tell us what to do economically. So what do you do?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:31:11.940",
+        "message": "I'm sorry, Amit, if it was that easy, they would do it. It's a thought experiment. I don't know. I don't know the answer to this question. I'm not trained to find solutions."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:31:20.340",
+        "message": "How would you begin thinking about it? Like what are the questions that we are not asking ourselves?"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:31:24.500",
+        "message": "So the first thing I would do is I would call the experts, set up a committee and tell them, please give me action points. And I will set up a committee of people who think these people know nothing and ask them to give me action points. I would study the two, I would break my head over studying what the two are saying. And I would call people from the ground, from the districts, maybe officials, maybe politicians, maybe representatives of farmer groups and you know, whatever. And I would tell them that if such a thing was done, you know, a consultative process, if such a thing was done, you know, are these people just sitting in ivory towers and telling me these things? What do you think? How will it work? And then do pilots and then begin to, you know, take policy decisions. I will not do schemes. You don't do schemes in the center, you do schemes in the state. I will call the RBI and tell them that, you know, I want macroeconomic stability, all the problems that Mohit has just described, I want you to get a handle on this. And I want you to, you know, find ways of, I know it's difficult, but I want you to find ways of handling this. And when you don't know the answers, you get the people, you delegate, you know, you get people who know the answers and who know the problems to sit and talk and"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:32:37.300",
+        "message": "find solutions. That's what I believe. No, that's a great answer, because the answer lies in processes. And that's just what she outlined. And I wish more people thought like"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:32:44.180",
+        "message": "this. I want to go half a step back. Are you sure? Which is first, somebody's got to acknowledge"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:32:49.060",
+        "message": "that there's a problem. There was no second wave. All is well."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:32:55.700",
+        "message": "And whatever problem it is, do it yourself. You have to solve it, solve your problem for yourself,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:33:01.780",
+        "message": "like these group of startups are doing. So another question about something that is outside our control, which you kind of referred to earlier, which is the flow of easy money, which is coming from the West. Now, one reason that stock markets are buoyant, and I'm sure you can point me to other reasons, but one reasons that stock markets are buoyant, and there is, in fact, so much money going into crypto, even which I'll come to later, though, I don't know if it's actually relevant for the subject is, of course, the easy money coming in from outside. And it seems to me that there, you know, like, of course, if you just print money and give it out, there's inflation. But before that, there is something called the Cantillon effect, where the money goes out to a certain set of people at the top, and they benefit first, and then it kind of percolate downwards. And when I look at sort of the way the stock market is doing, and so on, you know, it seems to me that it's kind of like the Cantillon effect at play. And please tell me if I'm wrong, and I'm just being a Monday morning quarterback myself and the show releases on Monday. And it seems to me that there is that kind of effect on play. And the danger of that is that it exacerbates inequality, like typically, I have also, you know, written a piece on how India should worry about poverty, not inequality, and poverty is our key concern. And that's in the context of the overall economy. But in this case, it seems to me that inequality is a big concern, because all of this easy money is coming essentially to the richie-riches first, who are kind of, you know, expanding their wealth in real terms, you know, by the time it goes down the ladder, and you actually have inflation in the real economy, the poor have just gotten even more sort of, I can't think of a better word than the"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:34:31.540",
+        "message": "word I almost did not use. But absolutely right. So this is a different form of inflation, right? This is asset price inflation. So it's inflation. And I think there are several problems with this. Firstly, I think the point that you made, which is that, you know, I'm not bothered by inequality, I'm typically bothered by poverty. Let's just stick to poverty. Earlier on in the show, I said that Rakesh Kochar of the Pew Foundation using World Bank data has demonstrated that 75 million additional people in India have dropped below the poverty line. Let's talk about that. If the rich get richer, that's fine. It's not a problem for me. Except if I don't get into the stock market at the right time, then it's a problem for me. But otherwise, it's not a problem, right? And, but I think there are, that too can have its own problems. The first problem is that it encourages the continuance of a false narrative of all is well. And everybody sitting in the cities, which is where all the news is produced, actually thinks all is well. Because they didn't lose their jobs. They're easily able to pay their EMIs. If they work for the government, they've got cost of living adjustment, etc, etc. Plus, their wealth is going up. So, you have a very peculiar problem, which is, I talked about earlier, the fact that household debt as a percentage to GDP has gone up. So, you have a very peculiar phenomenon, which is that the number of people seeking gold loans has gone up. Because that's the only asset you have left. The only bankable asset you have left is gold. So, the number of people seeking gold loans has gone up. At the same time, the sales of jewellery at Tanishq have also gone up. The city and the city. This is the K-effect, what we call K-shaped recovery. The city and the city. So, you're creating a false narrative. The second problem is going to be a longer-term one. Which is, we have seen this time and time and time again. Which is that the maximum number of new investors come in at the top of the market. People like me, who've been watching and involved in markets for 25-30 years, they may not get the timing right, but they'll rarely get caught with their pants down. And they'll know when to scoot. So, maybe I should be out of the market already. Maybe I'm not. Maybe I am. That's not the point. I can dance better than you can. This is a reality."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:37:34.180",
+        "message": "Reference to the Chuck Prince quote, when the music plays, you have to dance."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:37:37.300",
+        "message": "Exactly. Reference also to the fact that I'm a better dancer than you."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:37:45.060",
+        "message": "I'm going to call anything anyone says about me, which I can call fat shaming."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:37:51.220",
+        "message": "So, I can get out. Plus, I've been making money from the stock market and from my assets for 25-30 years. I know that there are ups and downs. But if I have become an investor in financial assets for the first time, during this bubble, it is a bubble, it is an asset price bubble, I'm going to be hurt so badly that I'm never going to participate in financial markets again. I'll go back to FDs. So, you are actually going to hollow out the stock markets as a result, if you have a massive drop. That's the second problem. And then it's going to have all kinds of other, because today, and this is a danger which, you know, it's on my sort of agenda for topics to discuss with startups this quarter. I typically, the startups I mentor, I have monthly meetings with them, some which I don't have such an active relationship, I have quarterly meetings, larger group of investors. This month's reviews have got delayed because of Diwali, they're going to all start in earnest tomorrow. Is this question. Is this question. More funding, second round, third round, fourth round of investment is very welcome. Go out and get it. But if the music stops, can you survive? Or are you in a situation where you're just growing your business based on the fact, we'll grow it and let profits look after themselves. Today, that's working. Nobody is asking whether Paytm is making money or not. Big Basket is losing money or not. Zomato lost more money this quarter and its share price went up. It's absurd, right? At one level, or you can discount the future infinitely. By 2041, they'll make money. Fine. Sounds logical if you believe that what happened last year and the year before will continue. But we've seen Talib fooled by randomness, right? This was random. It's not going to be the same. For 365, four days, the turkey gets fed on the 365th day, he gets slaughtered for Thanksgiving. Thanksgiving is around the corner, by the way. So, there may be, this may happen. It will happen. Will it happen tomorrow? Will it happen next month? Will it happen a year from now? We don't know. We don't know. But if you believe that what has happened, in a sense, all the way from 99, from the dot-com bust, more money, more money, more money, the Greenspan port, and then the global financial crisis, da-da, da-da, da-da, da-da. More money has been created in the last 15 months than in the entire history of mankind. That's a staggering fact. Wow. Wow. There is, at one point in time, the number has gone down, there was 17 trillion dollars, I want to put that in perspective, that is eight times the GDP of India, in negative yielding debt. That means people had lent out 17 trillion dollars and were paying to lend it out. There's that much money. Okay. If you believe that the conditions of easy money created by that are going to continue, you deserve to be slaughtered the day before Thanksgiving. The problem is that nobody is telling them that this can happen. Everybody is saying,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:41:44.500",
+        "message": "wow, wow, wow, wow, wow, wow. You know, at some level, my sympathy is not even with the guy who gets in at the top of the stock market and gets blown away. My sympathy is with all those people who would never even participate, for whom the music doesn't play at all. Correct. You know,"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:41:58.180",
+        "message": "and that's kind of my sort of. So, my concern is more macroeconomic. You know, these people I'm working with, those people who overinvested, yeah, I see your point. But what are the long-term repercussions of that? Is that faith in the financial markets dries up. And compared to other large economies in the world, India has a very low participation in financial markets. That's what I'm talking about. Pooja, your response?"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:42:34.260",
+        "message": "I agree with everything he has said. I don't have anything much to add to. He said it all."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:42:39.540",
+        "message": "He said it all. So, you know, you guys have been with me for almost three hours. So, again, very grateful for your time. We'll sort of wrap up with a number of questions, not immediately. I won't make it so easy. But first, I'll ask you guys. I mean, there are two versions of this question. What is what makes you hopeful? What makes you despair? And the other version would be if you look at India, say in 2031, after another decade, that may or may not be lost. You know, what's your what's the best case scenario or what's the worst case scenario? So, you could answer it either way you sort of prefer."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:43:13.620",
+        "message": "I, you know, it's so difficult to sort of crystal ball, look into the future, because we have such little information about so many things. And we are going completely by, you know, our anecdotal understanding of the situation. And we are seeing these two contrasting things, the resilience of, like, for instance, the startups, the young men in the villages, who are willing to look at things again, and see what they can do, and if they can be atma nirbhar. And I hope they are and I hope, you know, they will find solutions and they will, you know, do well, despite the government, and the economy will do well, despite the government and somehow, you know, the state will retreat. Because without that, really, how are you going to sort of, you know, come break this cycle, you know, that we are in and more shocks will keep coming of one kind or the other. With every shock, your ability to be resilient also keeps diminishing. I don't have hope at all from the policy system. I don't have hope at all from our politicians, all, all politicians, every shade of, you know, the political spectrum, I, I just have no respect for any of them. And all that I can hope, I mean, for is that individuals and people will sort of find ways of doing things where all these policy challenges and policy mistakes and the politics is sort of less of a dampener on their spirit and their ability to cope with economic hardship and their economic success. But definitely the potential is going to reduce, I'm quite sure of that, the economic potential of the economy and therefore a number of individuals. Will they get a voice? Will they say this? Will we get to hear what they say? I don't know. Will this, will this become an input into any corrections, any politics? I don't know. Without that, can things change? I don't know."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:45:34.740",
+        "message": "In a sense, I told you, yeah, my silver lining, and as I said, it's not big enough to rescue the economy because the kind of numbers we're talking about are not going to be addressed by startups, et cetera, et cetera. So there's lots to despair about, Amit. To my mind, the biggest thing that I despair about is, and you and I have differences on, on education, you know, what is the answer to education? But the question I always ask myself is, so I went to a school, which was an elite school. It was reckoned to be one of the best schools in, certainly in the city, and if you looked at the board results, it was crazy, you know. 10 out of the top 20 people in the ICSC board came from this school. The gap between the education that we got and the government schools was this much, you know, 80 percent. They were 20, we were at 100. My son went to a great school in Delhi, Delhi, and I look at the government schools. Had the gap increased or decreased? It had increased. That 100 percent was now a new number. It was a thousand. Those kids, their exposure to the world was, that guy could step out of Sriram school, and the next day he was in a highly competitive university in the US, Northwestern. He was able to take a grad course at Kellogg Management School, one of the top management schools in the world, and he was comfortable there from day one, which was not true 30 years ago. Kids even who went to a prestigious college in DU, they had a lot of trouble adjusting. This guy could day one. He was on his own, surfing the system. He was prepared for that. Has the gap between his school and the kids who go to and the kids who go to the local school in my village, has it increased massively? The quality of those government schools has improved, but may have gone up by 40, 50 percent in the last generation. The quality of the school my son went to, compared to the school I went to, has gone up many fold. So, I despair. I despair about the gaps being created. As you know, I don't believe in tackling this kind of problem. You need to tackle it at the policy level. Nevertheless, as a humanitarian, it makes me weep when I look at my caretakers' children. What are they going to be equipped for? What place are they going to have in 2035? Are they going to be able to walk into Chicago and work in the finance market? Obviously not. But there's a statistic which says, take it with a pinch of salt, that in India, it takes on average seven generations to move from being, for a family to move from being unskilled to being part of the ruling elite. I can believe that. In Denmark, it takes one generation. We have to create a country through policy, whether by government intervention or freeing up, where you make this kind of mobility possible. Because that's for the good of everybody, right? There must be 10 million guys who are as smart as my son out there, who are not getting a chance. He's not like he's an Einstein or something. There are lots of people who are given the same with nature, but they didn't get the nurture. That's lost potential for the country. I'm not saying the government must do it, my money must go to them. Those are separate issues. This makes me despair because when you have this kind of persistent inequality, you create social tensions. And then those social tensions create further economic tension. So that is a huge source of despair. And I don't see anything happening out there. I work with several schools. I don't see anything happening out there that's going to correct that. One small thing I will say, which is that there have been genuine efforts in Delhi to improve the quality of government schools. And that's welcome. Is it going to happen in UP tomorrow? No. Is it going to happen in Bihar tomorrow? No. Is it going to happen in Uttarakhand? No. At the policy level, at the macroeconomic policy level, the big things that we talked about, exchange rate, government debt, foreign exchange reserves, competitiveness in the marketplace. Again, I don't see anything happening. There's not even any dialogue. Now, when you talk to somebody like an Ajay Shah, for example, they will say that a lot of reform may have happened in 1991, but it was facilitated by the fact that there'd been a lot of dialogue about what can be done, etc, etc, for 7, 8, 10 years before that. Today, I don't see it happening. I can't say it's not happening. I don't see it happening. Pooja doesn't see it happening, right? So, how is it going to happen? It's not going to happen by magic. If, and the global economy is in completely uncharted territory. We've never seen this before. Like I said, whether in absolute terms or even in percentage terms, never has so much money been created before, so much debt. And we know what happens when debt balloons. We know there's a crisis coming. I actually believe, and I'm not happy to say this, I actually believe that we will see a massive change only if we have another crisis. Because till then, the investment of this government is simply, as we saw with the latest party convention, all is well. If you continue to say all is well, the starting point of solving a problem is to accept a problem."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:52:38.660",
+        "message": "What can be a bigger crisis than the second wave? Exactly. So, the point is that it's not going to come from their realisation that we've got"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:52:48.420",
+        "message": "to do something. It's got to come from outside. Meaning, that only if you have a financial crisis, will the problem get solved. So, for as long as LIC is there, there'll be no, and SBI is there, there'll be no bailouts. No, no, no, those numbers are small. Those numbers are small. If you have a global"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:53:13.140",
+        "message": "retraction of liquidity, LIC is tiny. But is a global retraction of liquidity even possible? Because I assume that in any\u2026 So, I don't want to go there."
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:53:23.140",
+        "message": "Globally, I think they will move towards universal basic income, because, you know, I think they're increasingly moving into robotic and artificial intelligence and all that. Lot of people will fall out of the labour market. They're already seeing that. And this printing"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:53:37.380",
+        "message": "of money is going to carry on probably."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "02:53:38.820",
+        "message": "It can't continue. Something will give somewhere, right? Yeah."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:53:43.620",
+        "message": "Because money is nothing, right? It's only a medium. So, if that happens, if, you know, money continues to swim around the globe, etc, something will happen, right? You'll have a crisis of inflation then. And like I said, we are the takers of inflation. We are not beneficiaries of inflation. Saudi Arabia will be."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:54:06.260",
+        "message": "This should be a matter of proud."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:54:07.540",
+        "message": "Duniya ka best inflation yaha hum late hai Bihar se."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "02:54:16.500",
+        "message": "Sir, couple of final questions. But before that, an observation that you mentioned the phrase loss potential. And obviously, all of us know that the biggest loss potential in India is that women are essentially treated as second-class citizens. 50% of the country is just cut off from this entire conversation that we're talking about of human capital, employment, all of that. I mean, I had an episode with Namita Bhandari a while back on, you know, women participation in the workforce. But that's just one aspect of it. And the issue is just way bigger than this and too big for this episode. So, we'll leave it for another day. Couple of questions. And the last one is a nice one. So, in the sense, a cheerful one. So, I'll ask the not so cheerful one first, which is that, given that all of us in different ways are invested in thinking about this country as it is today, we write about it, we care about it, we comment on it. To what extent is the texture of our personal lives affected by the texture of the society around us? For example, and I'm conflicted about this. For example, often, I feel great despair. But sometimes, I am chilling, I think, not my circus, not my monkeys. I think, you know, as famously expressed in Kashi Kahasi, bhar mein jaye duniya, hum bhajaye harmoniya. Right? So, these are two sort of extremes, I kind of swing back and forth between them. What is it like with you guys? Like Pooja, for example, I mean, you, you actually live in Delhi, where the air is also a problem, but that's another matter. But you know, how do you manage that? Is this something that you think"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "02:55:50.820",
+        "message": "about? No, I, I do often think about it. And I think one of the reasons, whoever's continuing to be a journalist in this country is, you know, because they think about these things, and they want to, in some way contribute to keeping the dialogue going, otherwise, it'll, you know, whatever little way one can, at least one tries. But I mean, you know, you despair. And then, you know, you say, well, like the young men in the village, you know, we'll do what we can."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "02:56:18.500",
+        "message": "I mean, that's all. Yeah, that's it. It's a great question, Amit. And so, my answer is at several levels. And it's something that engages me quite deeply at one level. So, one is, you know, unlike, unlike Pooja, who's a professional journalist, etc, I'm not. I have a very, very small contribution to Twitter. And I try and try and make sensible comments over there. Sometimes one despairs. Is anybody listening? Yes, they're not. But that's as much as I can do, right? I can't, I'm not going to become finance minister tomorrow. And I'm not suddenly going to have 50 million followers. So, whatever it is, you know, you contribute with, but that's tiny. The second, which has been sort of an abiding theme of my life, is what can you do in terms of social engagement? I mean, broadly, you know, these get political. So, I just want to, so you call it charity, or you call it social work, or you call it development or whatever it is. So, you know, what can you do over there? And so, there was a period of my life where I did a lot of work there, set up organizations, for example, to work with street kids, or the other aspect of my life, which has always concerned me is performing artists. At some point in time, the hobby and the profession sort of came together. So, at one level, I was working with musicians, running a club, helping independent musicians. At the other level, the company which I co-founded sort of moved towards supporting the performing arts and eventually became a big performing arts manager. Now, I'm not actively involved with them. But, you know, I'd reached a stage about five or seven years ago, when I reached the age of 60, where I was sort of getting to this kind of stage, you know, Bajao Harmonia, you know, go and live in my beautiful little cottage in the mountains and forget all of this. But it doesn't work. You have to, you know, you have to continue to be engaged with society. Otherwise, I might as well just go to Switzerland and get a euthanasia injection. If you all you want to do is sit and look at the mountains, you know, got to be there is a sense of, I've got to give something back. And I was also very clear, just like in my professional life, also in social work, I'm not capable of starting up another front. As far as social work is or contributions in that direction are concerned, I've become very passive, in the sense that there are organizations I've worked with in the past, or set up or whatever it is, and I support them, both financially as well as in terms of the one skill, which I have a little bit of is understanding how to run organizations, a little bit of management, a little bit of planning, etc, etc. During the pandemic, two things happened. One is that I realized that my wealth and my income was unaffected, my wealth was going up, because of what we talked about stock markets. My expenditure was dropping. One of my largest items of expenditure has always been travel, no travel. And so, I said that amount of money which I used to spend on travel, now that all my liabilities are taken care of, you know, parents have gone, son is independent, I don't need to save any more money. Try and find productive ways to put that back into the system. So, all of these things, give a little bit more money to the street kids, support artists, artists who wouldn't have needed support earlier, because they were practicing, performance space is shut, put money back in there. Similarly, when it comes to the startups that I'm working with, I became proactive in terms of, is anybody feeling a financial crunch, that they're going to run out of money two, three, four months down the line. I became proactive in terms of asking them, pressing them to tell me what's happening, what's happening to your cash flows, and becoming the proactive guy out there, saying, look, I see a problem three months down the line. Now, let me get the pool of investors together and say, okay, what do we need to do, in order to make sure that you survive this phase. So, the amount of money that I'm putting on the line is small, you know, it's in proportion with what I've invested earlier, or maybe a little bit more. But what I'm doing is becoming also a lever of bringing a whole lot of people together, and saying, look, I've been working with these guys, they're cash strapped, this is what has happened, I think that they're well positioned to get out of this. So, I became the lever for a whole lot of more, sort of. You became a Hindustan lever. I became a Hindustan lever, correct. These all, you know, you can do as much as your role in the world is, and I've, this is, this is what I could do. But I think actually, if you look at a post-COVID world, you look at a post-COVID world, then I think that this role that I've begun to play, I came into the startup world, we've talked about this earlier, as an investor, just as a way of diversifying my portfolio, and found to my utter surprise, that as much as the checks that I wrote, a lot of young entrepreneurs valued me as somebody who was listening, prepared to commit time and intellectual energy and be an honest mirror to them. And that's proved to be immensely rewarding. Both to me, because like they say, you want to really learn something, teach it. So, in a sense, teaching all those 30 years of my experience, running businesses, setting up, etc, comes to play. It's really easy. It's much easier than running a business, telling somebody how to run a business. It seems to work. Because the kind of relationships which I've developed with some of the people, if you had told me five years ago, that I would have this kind of relationship with young entrepreneurs, people I didn't know, typically by the time you're 40, 45, you stop making new friends, you know, or building new relationships. I formed such deep relationships over the last five, six years. So, it's accidental. It's not that there's something, but I think that I'm actually giving something back now. And this I will continue to do. I'm never going to go into a situation where, boss, I'm now inspecting my roses. I don't think that's"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "03:03:47.460",
+        "message": "going to happen. Essentially, the way to not despair is to do what you do, you know, continue doing what you do. Do a little more than that by way of being a good citizen. And stay out of trouble. Because it's very easy to get into trouble if you do your if you do what you do."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:04:03.300",
+        "message": "And especially if any Babu has heard him use the phrase inspecting my roses just now,"
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:04:08.180",
+        "message": "they might get the idea for a new department. My final question, which is a final question,"
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:04:14.340",
+        "message": "I kind of ask all my guests and recommend, you know, one or multiple books, which you are so excited about on any subject, which have meant a lot to you in your life, or which you just read and really like, but books that you want to, you know, sit on a soapbox and stand on a soapbox and tell, soapbox? Is that the right word? Soapbox. Stand on a soapbox and tell the world, read this."
+    },
+    {
+        "speaker": "Unknown",
+        "time": "03:04:36.020",
+        "message": "I love it so much. The Dharma Forest. Oh, okay. I think it's a really good book. Yeah. It's his"
+    },
+    {
+        "speaker": "Guest 2",
+        "time": "03:04:42.980",
+        "message": "take on Mahabharata. It's the first of a triology. It's his first book. He's an economist. I think he's, he's, I don't read Indian authors too much, but I think he's, these days, I'm recommending it to everybody. His use of language and his interpretation of five characters, but especially the way he interprets the relationship between Arjuna and Krishna, whatever little I've not read much, you know, about the Mahabharata, but whatever little I know about it, it's fascinating. I really"
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "03:05:17.860",
+        "message": "liked it a lot. Without a shadow of doubt, the better angels of our nature, without a doubt, because it gives you hope. It forces you to look at the really, really long arc of history and does it through data, very, very carefully assimilated data, basically to show that the long arc of history is a reduction in violence demonstrated irrefutably. Now, people can say that, you know, it'll reverse, etc, etc, etc. And the one thing which really remains with me from that book is his takeaway, very difficult to substantiate, but I love it. That one of the reasons that we have less violence is the obvious one, which is that states have become more powerful. You have a state monopoly over violence that we, anybody who's studied a little bit of political theory will tell you that. But the other, which goes to the hearts of people like us who love books, is that one of the reasons is the invention of the printing press and the publishing of novels and the popularization of reading. And what it did was, what does a novel do? It allows you to experience somebody else's life. And when you experience other people's lives, you develop empathy. And as you develop more empathy, you're capable of less violence. I thought this is such a beautiful, such a beautiful philosophical thought, irrespective, you can't back it by theory. It's just, you know, correlation is not causation, but I love the thought. But the data is clear, which is that despite all of the narratives, and if you look at newspapers, you think that all that's happening is that people are murdering each other on a global meta basis. We have become an increasingly less violent society."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:07:20.900",
+        "message": "I think that's just wonderful. It's a wonderful book. In fact, when I asked myself the question about a book that changed the way I look at the world, it's Pinker's book, The Blank Slate, which was just remarkable. You know, I was like one person before it, another person after it. But thank you so much, both of you for coming and playing harmonia with me. Hopefully, we can keep these conversations going. Thank you, Amit."
+    },
+    {
+        "speaker": "Guest 1",
+        "time": "03:07:42.340",
+        "message": "And I shall now go back to the mountains and look at my begonia. I've changed it to begonia."
+    },
+    {
+        "speaker": "Amit Varma",
+        "time": "03:07:51.700",
+        "message": "The begonia inspection department. Past episodes of The Scene and The Unseen at sceneunseen.in. Thank you for listening."
+    }
+]

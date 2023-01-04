@@ -1,0 +1,1109 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.680
+[Amit Varma]: Welcome to the IBM Podcast Network.
+
+00:00:08.680 --> 00:00:14.400
+[Amit Varma]: One day, a physicist, a philosopher and an economist walk into a bar, they down a few
+
+00:00:14.400 --> 00:00:17.240
+[Amit Varma]: pegs and then decide to play a game.
+
+00:00:17.240 --> 00:00:18.760
+[Amit Varma]: The philosopher has an idea.
+
+00:00:18.760 --> 00:00:24.680
+[Amit Varma]: He says, let's ask each other the most difficult, unanswerable question from our respective
+
+00:00:24.680 --> 00:00:25.920
+[Amit Varma]: fields.
+
+00:00:25.920 --> 00:00:30.240
+[Amit Varma]: Whoever asks the toughest question gets the rest of his drinks free.
+
+00:00:30.240 --> 00:00:31.840
+[Amit Varma]: The other two men agree.
+
+00:00:31.840 --> 00:00:33.660
+[Amit Varma]: Both of them seem confident.
+
+00:00:33.660 --> 00:00:36.200
+[Amit Varma]: The physicist is the first to go.
+
+00:00:36.200 --> 00:00:40.680
+[Amit Varma]: He asks, what was there before the beginning of time?
+
+00:00:40.680 --> 00:00:46.160
+[Amit Varma]: The other two men nod thoughtfully and go bottoms up with their tequila shots.
+
+00:00:46.160 --> 00:00:47.720
+[Amit Varma]: Then it's the philosopher's turn.
+
+00:00:47.720 --> 00:00:52.540
+[Amit Varma]: He asks, what is the meaning of life?
+
+00:00:52.540 --> 00:00:53.840
+[Amit Varma]: This surely has to be the winner.
+
+00:00:53.840 --> 00:00:54.880
+[Amit Varma]: What could be tougher than this?
+
+00:00:54.880 --> 00:00:56.580
+[Amit Varma]: What is the meaning of life?
+
+00:00:56.580 --> 00:00:58.700
+[Amit Varma]: All three men look very sad.
+
+00:00:58.700 --> 00:01:01.540
+[Amit Varma]: Then finally, the economist has a start.
+
+00:01:01.540 --> 00:01:03.660
+[Amit Varma]: His question is this.
+
+00:01:03.660 --> 00:01:09.780
+[Amit Varma]: Why don't real estate prices in Mumbai crash when demand has gone down so much?
+
+00:01:09.780 --> 00:01:14.860
+[Amit Varma]: The physicist and the philosopher look at each other in bewilderment and disappointment.
+
+00:01:14.860 --> 00:01:16.420
+[Amit Varma]: They know the game is over.
+
+00:01:16.420 --> 00:01:20.860
+[Amit Varma]: The economist gets free drinks all the rest of that evening.
+
+00:01:20.860 --> 00:01:29.020
+[Unknown]: Welcome to The Seen and the Unseen, our weekly podcast on economics, politics, and behavioural
+
+00:01:29.020 --> 00:01:30.020
+[Unknown]: science.
+
+00:01:30.020 --> 00:01:33.020
+[Unknown]: Please welcome your host, Amit Badma.
+
+00:01:33.020 --> 00:01:35.540
+[Amit Varma]: Welcome to The Seen and the Unseen.
+
+00:01:35.540 --> 00:01:41.020
+[Amit Varma]: On this episode, I intend to ponder the question, why don't Mumbai's real estate prices fall?
+
+00:01:41.020 --> 00:01:44.980
+[Amit Varma]: This is one of the most expensive cities in the world and usually prices are a function
+
+00:01:44.980 --> 00:01:46.420
+[Amit Varma]: of supply and demand.
+
+00:01:46.420 --> 00:01:48.940
+[Amit Varma]: If demand falls, prices should fall.
+
+00:01:48.940 --> 00:01:52.380
+[Amit Varma]: Now, demand certainly has fallen here over the last few years.
+
+00:01:52.380 --> 00:01:57.780
+[Amit Varma]: Less and less people are buying flats, inventory is lying empty, and yet the prices just won't
+
+00:01:57.780 --> 00:01:58.780
+[Amit Varma]: fall.
+
+00:01:58.780 --> 00:02:00.900
+[Amit Varma]: There's no straightforward answer for this.
+
+00:02:00.900 --> 00:02:03.900
+[Amit Varma]: It's clearly the unseen effect of something.
+
+00:02:03.900 --> 00:02:05.140
+[Amit Varma]: But what?
+
+00:02:05.140 --> 00:02:09.840
+[Amit Varma]: In today's episode, we're going to try and solve this mystery by working backwards from
+
+00:02:09.840 --> 00:02:11.780
+[Amit Varma]: this unseen effect.
+
+00:02:11.780 --> 00:02:16.660
+[Amit Varma]: And the economic detective who is going to help me do this is my good friend Vivek Kaul,
+
+00:02:16.660 --> 00:02:20.860
+[Amit Varma]: a columnist at Equity Master and the author of four very fine books.
+
+00:02:20.860 --> 00:02:23.020
+[Amit Varma]: Vivek, welcome to the show.
+
+00:02:23.020 --> 00:02:24.540
+[Amit Varma]: Thanks for having me, Amit.
+
+00:02:24.540 --> 00:02:29.140
+[Amit Varma]: So Vivek, one of the subjects in which you've written about repeatedly over the years is
+
+00:02:29.140 --> 00:02:30.860
+[Amit Varma]: real estate.
+
+00:02:30.860 --> 00:02:32.540
+[Amit Varma]: And it's something that baffles me.
+
+00:02:32.540 --> 00:02:37.740
+[Amit Varma]: I have a lot of sort of newbie questions on it, which I'm hoping you can shed some enlightenment.
+
+00:02:37.740 --> 00:02:44.180
+[Amit Varma]: Now, real estate prices in our cities, especially in Bombay, where I live, have just shot up
+
+00:02:44.180 --> 00:02:46.180
+[Amit Varma]: over the last decade and a half.
+
+00:02:46.180 --> 00:02:48.900
+[Amit Varma]: And the interesting thing that's happening over the last couple of years is that even
+
+00:02:48.900 --> 00:02:53.900
+[Amit Varma]: though the economy isn't doing that great per se, and a lot of inventory is not selling
+
+00:02:53.900 --> 00:02:57.500
+[Amit Varma]: now, you would imagine that when inventory doesn't sell, the prices come down at some
+
+00:02:57.500 --> 00:02:58.500
+[Amit Varma]: point.
+
+00:02:58.500 --> 00:02:59.660
+[Amit Varma]: But that's not happening.
+
+00:02:59.660 --> 00:03:03.860
+[Amit Varma]: And real estate in Bombay essentially remains out of reach for middle class people like
+
+00:03:03.860 --> 00:03:04.860
+[Guest]: me.
+
+00:03:04.860 --> 00:03:09.100
+[Guest]: So I mean, you know, it's not just real estate in Bombay, which remains out of reach.
+
+00:03:09.100 --> 00:03:11.340
+[Guest]: I mean, real estate in a lot of other cities.
+
+00:03:11.340 --> 00:03:12.340
+[Guest]: Absolutely.
+
+00:03:12.340 --> 00:03:18.380
+[Guest]: I mean, even, you know, the towns in Uttar Pradesh, like Kanpur, or the city that I grew
+
+00:03:18.380 --> 00:03:25.060
+[Guest]: up in, Ranchi, real estate prices are, you know, have reached crazy levels, when you
+
+00:03:25.060 --> 00:03:32.540
+[Guest]: compare it to the income in that particular city, you know, I mean, I remember a few years
+
+00:03:32.540 --> 00:03:40.000
+[Guest]: back, I had done this very basic calculation around the weighted average price of a flat
+
+00:03:40.000 --> 00:03:45.940
+[Guest]: in a given city, divided by the average income that an individual was making in that city.
+
+00:03:45.940 --> 00:03:47.300
+[Guest]: And I got some crazy numbers.
+
+00:03:47.300 --> 00:03:50.900
+[Guest]: So I think for Bombay, it was some 70 years income, which was required.
+
+00:03:50.900 --> 00:03:51.900
+[Guest]: Wow.
+
+00:03:51.900 --> 00:03:53.220
+[Amit Varma]: And put that into perspective, what should it be?
+
+00:03:53.220 --> 00:03:55.420
+[Amit Varma]: What is it in like, say, New York, London?
+
+00:03:55.420 --> 00:04:00.500
+[Guest]: Probably, I mean, I mean, New York and London are, I mean, would be high because of would
+
+00:04:00.500 --> 00:04:07.260
+[Guest]: be high, but they wouldn't be so high, I mean, but on an average, in the West, they say that
+
+00:04:07.260 --> 00:04:12.780
+[Guest]: around five to six years income, it should be good enough to buy a house in Bombay was
+
+00:04:12.780 --> 00:04:13.780
+[Amit Varma]: 70 years.
+
+00:04:13.780 --> 00:04:14.780
+[Guest]: It was 70 years.
+
+00:04:14.780 --> 00:04:21.020
+[Guest]: So I mean, I remember the the average weighted average price of a flat was around 1.34 crore.
+
+00:04:21.020 --> 00:04:29.740
+[Guest]: And the per capita income as per the state GDP numbers came to around 1.97 lakh or something
+
+00:04:29.740 --> 00:04:30.740
+[Guest]: like that.
+
+00:04:30.740 --> 00:04:31.740
+[Amit Varma]: It was crazy.
+
+00:04:31.740 --> 00:04:34.020
+[Amit Varma]: I mean, I need a drink after the show.
+
+00:04:34.020 --> 00:04:39.780
+[Guest]: And in fact, interestingly, for Bangalore, I got an even higher number of some 81 years,
+
+00:04:39.780 --> 00:04:44.060
+[Guest]: which I had to discard because I found it a little unbelievable that, you know, the
+
+00:04:44.060 --> 00:04:47.740
+[Guest]: ratio would be greater in Bangalore than in Bombay.
+
+00:04:47.740 --> 00:04:50.340
+[Amit Varma]: A lot more expats coming back with more money to spend.
+
+00:04:50.340 --> 00:04:51.340
+[Guest]: No, not really.
+
+00:04:51.340 --> 00:04:59.180
+[Guest]: Basically, the per capita income was a lot lower, which was the yes, because see Bangalore
+
+00:04:59.180 --> 00:05:05.660
+[Guest]: also I guess what happens is a lot of the smaller towns around Bangalore got counted
+
+00:05:05.660 --> 00:05:10.560
+[Guest]: into, you know, calculating the average income of Bangalore and their incomes were not as
+
+00:05:10.560 --> 00:05:11.560
+[Guest]: high as.
+
+00:05:11.560 --> 00:05:12.820
+[Guest]: So that's not exactly a reliable figure.
+
+00:05:12.820 --> 00:05:13.820
+[Amit Varma]: It was not a very high.
+
+00:05:13.820 --> 00:05:14.820
+[Amit Varma]: But why is it so high?
+
+00:05:14.820 --> 00:05:18.380
+[Amit Varma]: Like Bombay at 70, while Western cities are at five or six?
+
+00:05:18.380 --> 00:05:19.380
+[Amit Varma]: How?
+
+00:05:19.380 --> 00:05:20.380
+[Guest]: Why?
+
+00:05:20.380 --> 00:05:21.380
+[Guest]: How is it possible?
+
+00:05:21.380 --> 00:05:26.820
+[Guest]: I mean, the simple answer is that one is that the supply is not at the right prices.
+
+00:05:26.820 --> 00:05:32.820
+[Guest]: And even though the sales have collapsed, I mean, if you look at the last, I mean, there
+
+00:05:32.820 --> 00:05:37.420
+[Guest]: was one survey which was done recently, which took the data for around 42 Indian cities
+
+00:05:37.420 --> 00:05:38.820
+[Guest]: into account.
+
+00:05:38.820 --> 00:05:46.420
+[Guest]: And they said that the home sales had fallen by around 41 percent, but prices haven't.
+
+00:05:46.420 --> 00:05:55.260
+[Guest]: Now, recently, the National Housing Bank released the Residex Index, I mean, it's a real estate
+
+00:05:55.260 --> 00:05:59.500
+[Guest]: index, which they've had for some time, but they sort of updated it and re-released it.
+
+00:05:59.500 --> 00:06:02.820
+[Guest]: And now it has a lot more data than it had in the past.
+
+00:06:02.820 --> 00:06:05.820
+[Guest]: And that threw up some very interesting numbers.
+
+00:06:05.820 --> 00:06:15.520
+[Guest]: Now, between March 2016 and March 2017, the median return on real estate in 49 Indian
+
+00:06:15.520 --> 00:06:19.180
+[Guest]: cities was 2.8 percent.
+
+00:06:19.180 --> 00:06:25.260
+[Guest]: If you took out, there was one city, Vizag, which had given a return of 24 percent in
+
+00:06:25.260 --> 00:06:26.260
+[Guest]: the last one year.
+
+00:06:26.260 --> 00:06:30.680
+[Guest]: So if you took that out, the median return was 2.55 percent.
+
+00:06:30.680 --> 00:06:36.220
+[Guest]: What that tells you is, actually, I would like to highlight another point here.
+
+00:06:36.220 --> 00:06:41.340
+[Guest]: So the data in this index starts from June 2013.
+
+00:06:41.340 --> 00:06:49.540
+[Guest]: So if you look at the median return per year between June 2013 and March 2017 on investing
+
+00:06:49.540 --> 00:06:54.700
+[Guest]: in real estate in India across 49 cities, it was 4.3 percent.
+
+00:06:54.700 --> 00:06:56.300
+[Amit Varma]: So demystify this for me.
+
+00:06:56.300 --> 00:06:59.140
+[Amit Varma]: What is the median return and what should it be and why does it matter?
+
+00:06:59.140 --> 00:07:03.980
+[Guest]: So median return is essentially, you know, if you have a long series of data, it's the
+
+00:07:03.980 --> 00:07:05.300
+[Guest]: middle point.
+
+00:07:05.300 --> 00:07:08.340
+[Guest]: It's not the average wherein you add it and divide it.
+
+00:07:08.340 --> 00:07:11.660
+[Guest]: So this is the middle point of the data.
+
+00:07:11.660 --> 00:07:16.920
+[Guest]: So 4.3 percent per year return over a four-year period, which isn't huge.
+
+00:07:16.920 --> 00:07:23.260
+[Guest]: So what that tells you is that even though the real estate prices are not falling, they
+
+00:07:23.260 --> 00:07:28.300
+[Guest]: haven't risen at the same rate as they were in the past.
+
+00:07:28.300 --> 00:07:34.260
+[Guest]: And also, you know, this also tells you that, you know, the notion that people have in their
+
+00:07:34.260 --> 00:07:38.700
+[Guest]: head that real estate will always go up isn't really correct.
+
+00:07:38.700 --> 00:07:44.500
+[Guest]: In fact, if you look at prices over the last one year, in 13 out of the 49 cities, prices
+
+00:07:44.500 --> 00:07:46.300
+[Guest]: have actually gone down.
+
+00:07:46.300 --> 00:07:53.660
+[Guest]: Also, you know, at 4.3 percent return or 2.55 percent return, I mean, it's not worth investing
+
+00:07:53.660 --> 00:07:54.660
+[Amit Varma]: in real estate.
+
+00:07:54.660 --> 00:07:55.660
+[Amit Varma]: It's a waste of capital.
+
+00:07:55.660 --> 00:07:59.100
+[Guest]: It's a waste of because there are so many other, you know, costs attached to it.
+
+00:07:59.100 --> 00:08:01.860
+[Guest]: I mean, you have to pay maintenance charges.
+
+00:08:01.860 --> 00:08:06.980
+[Guest]: I mean, building maintenance charges these days are absolutely crazy.
+
+00:08:06.980 --> 00:08:10.940
+[Guest]: Then you have to pay a property tax every year.
+
+00:08:10.940 --> 00:08:14.940
+[Guest]: If you've bought a home on a loan, you have to pay interest on it.
+
+00:08:14.940 --> 00:08:18.020
+[Guest]: I mean, obviously, you get a tax benefit as well.
+
+00:08:18.020 --> 00:08:22.140
+[Guest]: The rental yields are, you know, 2 percent.
+
+00:08:22.140 --> 00:08:27.860
+[Guest]: I mean, so if you were to sort of use a ballpark figure, investing in real estate makes sense
+
+00:08:27.860 --> 00:08:31.780
+[Guest]: if the returns are at least 10 percent per year.
+
+00:08:31.780 --> 00:08:38.260
+[Guest]: And in the sample that, you know, in the data for 49 cities that NHB put out, only three
+
+00:08:38.260 --> 00:08:42.660
+[Guest]: cities over the last four years have given returns of greater than 10 percent.
+
+00:08:42.660 --> 00:08:43.700
+[Amit Varma]: Which are those?
+
+00:08:43.700 --> 00:08:49.140
+[Guest]: So I think one was Vizag and I don't remember the other two.
+
+00:08:49.140 --> 00:08:54.220
+[Guest]: One was Vizag, Meerut, I think, and there's a third one.
+
+00:08:54.220 --> 00:08:58.260
+[Amit Varma]: I think I'm going to relocate to Vizag and start a podcast called the Vizag Bulletin
+
+00:08:58.260 --> 00:09:00.540
+[Amit Varma]: and you will always be welcome as a guest.
+
+00:09:00.540 --> 00:09:06.500
+[Amit Varma]: So this is what I can't wrap my head around, like while ago you said that one of the problems
+
+00:09:06.500 --> 00:09:10.780
+[Amit Varma]: is that supply hasn't reached its real price and its real price, as we all know, is whatever
+
+00:09:10.780 --> 00:09:12.940
+[Amit Varma]: supply and demand it should be.
+
+00:09:12.940 --> 00:09:17.420
+[Amit Varma]: So if demand falls by, say, 42 percent, like a figure you mentioned in one of the contexts,
+
+00:09:17.420 --> 00:09:21.580
+[Amit Varma]: you would expect the prices to therefore adjust accordingly.
+
+00:09:21.580 --> 00:09:24.220
+[Guest]: And that simply isn't happening and I can't wrap my head around it.
+
+00:09:24.220 --> 00:09:25.220
+[Guest]: Why isn't it happening?
+
+00:09:25.220 --> 00:09:26.460
+[Guest]: There are multiple reasons for it.
+
+00:09:26.460 --> 00:09:33.460
+[Guest]: I mean, one is, obviously, you know, the builders don't want to sell at a lower price.
+
+00:09:33.460 --> 00:09:37.340
+[Guest]: And so if they don't want to sell at a lower price, they are effectively selling at zero
+
+00:09:37.340 --> 00:09:39.220
+[Amit Varma]: then because they're not selling at all for the moment.
+
+00:09:39.220 --> 00:09:43.420
+[Guest]: Yes, but then see the entire game is now, you know, they're basically waiting for the
+
+00:09:43.420 --> 00:09:45.220
+[Guest]: market to sort of recover.
+
+00:09:45.220 --> 00:09:51.460
+[Guest]: Now what has also happened is that, you know, liquidity in the form of private equity money
+
+00:09:51.460 --> 00:09:54.460
+[Guest]: from abroad has come in.
+
+00:09:54.460 --> 00:09:59.260
+[Guest]: So what they typically they tend to do is that when they do a deal with a private equity
+
+00:09:59.260 --> 00:10:03.860
+[Guest]: investor, they cut prices specifically for him.
+
+00:10:03.860 --> 00:10:08.780
+[Guest]: So this guy buys, let's say, a portion of the project at a lower price and he's happy
+
+00:10:08.780 --> 00:10:13.580
+[Guest]: to sit on it for prices to go up, you know, in four, five, six years' time or whatever
+
+00:10:13.580 --> 00:10:16.500
+[Guest]: his investment horizon is.
+
+00:10:16.500 --> 00:10:21.180
+[Guest]: And at the end of it, if, you know, whatever the prices are, he would be, you know, he
+
+00:10:21.180 --> 00:10:22.260
+[Guest]: would sell.
+
+00:10:22.260 --> 00:10:25.580
+[Guest]: So a liquidity in that form has come in.
+
+00:10:25.580 --> 00:10:26.580
+[Amit Varma]: The second thing…
+
+00:10:26.580 --> 00:10:29.260
+[Amit Varma]: So, sorry to interrupt, but just to clarify that.
+
+00:10:29.260 --> 00:10:34.340
+[Amit Varma]: So what it basically means is that the cost that the builder invests in building a particular
+
+00:10:34.340 --> 00:10:38.740
+[Amit Varma]: property, acquiring the land, etc., etc., he recoups that through these early sales
+
+00:10:38.740 --> 00:10:43.260
+[Amit Varma]: and therefore the pressure on him to sell the rest of the apartments and so on is not
+
+00:10:43.260 --> 00:10:44.260
+[Amit Varma]: high.
+
+00:10:44.260 --> 00:10:45.260
+[Guest]: He can just afford to wait.
+
+00:10:45.260 --> 00:10:46.260
+[Guest]: Yes.
+
+00:10:46.260 --> 00:10:53.940
+[Guest]: But the other thing that, you know, needs to be sort of taken into account here is,
+
+00:10:53.940 --> 00:10:58.380
+[Guest]: and I mean, I've been writing this for many years now, is that India's income tax laws
+
+00:10:58.380 --> 00:11:05.300
+[Guest]: up until February 1st, 2017, when Arun Jaitley made his latest budget speech, essentially
+
+00:11:05.300 --> 00:11:10.100
+[Guest]: encouraged people to speculate in real estate.
+
+00:11:10.100 --> 00:11:15.380
+[Guest]: Now what happens is when you buy your first home, which is, and you live in it, which
+
+00:11:15.380 --> 00:11:22.420
+[Guest]: in income tax terms is called a self-occupied house, the deduction that you get on your
+
+00:11:22.420 --> 00:11:28.980
+[Guest]: taxable income for paying home loan interest is limited to Rs. 2 lakhs or rather was limited
+
+00:11:28.980 --> 00:11:36.100
+[Guest]: to Rs. 2 lakhs, whereas if you buy a second, third, fourth, fifth, sixth, tenth, whatever,
+
+00:11:36.100 --> 00:11:42.420
+[Guest]: xth number of home and you finance it using a home loan, the entire interest that you
+
+00:11:42.420 --> 00:11:47.940
+[Guest]: paid on that home loan was available as a deduction against your taxable income to the
+
+00:11:47.940 --> 00:11:54.540
+[Guest]: condition that you added a notional rent to your taxable income if you were not renting
+
+00:11:54.540 --> 00:11:55.540
+[Guest]: that house out.
+
+00:11:55.540 --> 00:12:00.980
+[Guest]: Now, you would know that the rental yields are like abysmal, you know, 1-2 percent, whereas
+
+00:12:00.980 --> 00:12:03.320
+[Guest]: EMIs are huge.
+
+00:12:03.320 --> 00:12:07.660
+[Guest]: So that essentially ensured that a lot of corporate crowd, you know, senior level corporate
+
+00:12:07.660 --> 00:12:13.660
+[Guest]: crowd essentially brought down their, you know, taxable income and paid very little
+
+00:12:13.660 --> 00:12:14.660
+[Guest]: tax.
+
+00:12:14.660 --> 00:12:15.660
+[Guest]: By investing in real estate.
+
+00:12:15.660 --> 00:12:16.660
+[Guest]: By investing in real estate.
+
+00:12:16.660 --> 00:12:19.660
+[Guest]: And at the same time they created an asset, right.
+
+00:12:19.660 --> 00:12:27.420
+[Guest]: Now in this budget, Arun Jaitley made a very, you know, sensible sort of change and wherein
+
+00:12:27.420 --> 00:12:33.660
+[Guest]: he limited the tax deduction to Rs. 2 lakhs across all home loans.
+
+00:12:33.660 --> 00:12:39.540
+[Guest]: So this essentially takes the speculation that was happening at the corporate level
+
+00:12:39.540 --> 00:12:43.020
+[Guest]: in order to avoid tax out of the window.
+
+00:12:43.020 --> 00:12:47.900
+[Guest]: Now what happened was, for a lot of these guys, you know, who have a second, third home,
+
+00:12:47.900 --> 00:12:52.420
+[Guest]: it just did not make, they were not bothered about the fact whether prices went up or not.
+
+00:12:52.420 --> 00:12:56.660
+[Guest]: They were just bothered about the fact that their taxable income was coming down dramatically
+
+00:12:56.660 --> 00:12:58.540
+[Amit Varma]: and they were paying very low tax on it.
+
+00:12:58.540 --> 00:13:02.220
+[Amit Varma]: So in a sense it was a glitch in the system which helped the rich who already had houses
+
+00:13:02.220 --> 00:13:05.900
+[Amit Varma]: and could afford more houses at the expense of the poor and the middle class who might
+
+00:13:05.900 --> 00:13:07.420
+[Amit Varma]: have been saving up to buy a house.
+
+00:13:07.420 --> 00:13:09.060
+[Amit Varma]: But hey, the prices never came down.
+
+00:13:09.060 --> 00:13:10.060
+[Guest]: Yes.
+
+00:13:10.060 --> 00:13:15.940
+[Guest]: So a lot of these, you know, if you go to, I mean, I mean, I talked to my MBA batchmates
+
+00:13:15.940 --> 00:13:19.700
+[Guest]: and a lot of them, you know, have two, three homes.
+
+00:13:19.700 --> 00:13:20.700
+[Guest]: They don't require it.
+
+00:13:20.700 --> 00:13:26.260
+[Guest]: It's just that, you know, it was essentially a tax dodge that was on for a very long time.
+
+00:13:26.260 --> 00:13:27.260
+[Amit Varma]: And this is now over.
+
+00:13:27.260 --> 00:13:29.300
+[Amit Varma]: So was this a big enough factor that you expect this to happen?
+
+00:13:29.300 --> 00:13:33.380
+[Guest]: It wasn't a very big factor, but it was a factor nonetheless.
+
+00:13:33.380 --> 00:13:40.740
+[Guest]: You know, the bigger factor is essentially, you know, people have this huge belief that
+
+00:13:40.740 --> 00:13:42.900
+[Guest]: real estate prices don't go down.
+
+00:13:42.900 --> 00:13:45.100
+[Amit Varma]: I mean, that is a very big factor.
+
+00:13:45.100 --> 00:13:46.100
+[Amit Varma]: Then there are…
+
+00:13:46.100 --> 00:13:47.100
+[Amit Varma]: Which was there in the US and 15 years ago.
+
+00:13:47.100 --> 00:13:49.220
+[Amit Varma]: Then there is black money.
+
+00:13:49.220 --> 00:13:54.780
+[Guest]: I mean, for a very long time, black money, a lot of black money found its way into real
+
+00:13:54.780 --> 00:13:55.780
+[Guest]: estate.
+
+00:13:55.780 --> 00:13:57.820
+[Guest]: And the way it works is very, very interesting.
+
+00:13:57.820 --> 00:14:01.780
+[Guest]: You know, what happens is you sort of buy your, you know, you get some black money from
+
+00:14:01.780 --> 00:14:05.780
+[Guest]: somewhere and you buy a house.
+
+00:14:05.780 --> 00:14:10.140
+[Guest]: Now when you sell that house, you get a bigger amount of black money back, right?
+
+00:14:10.140 --> 00:14:11.420
+[Guest]: So then what do you do with it?
+
+00:14:11.420 --> 00:14:16.820
+[Guest]: Then you go looking for, you know, a cheaper location where you can buy, let's say you
+
+00:14:16.820 --> 00:14:19.820
+[Guest]: had bought one, you know, house with that black money.
+
+00:14:19.820 --> 00:14:24.520
+[Guest]: Now you go buy two homes with that black money, right, in a cheaper location.
+
+00:14:24.520 --> 00:14:29.380
+[Guest]: So black money essentially leads to the multiplication of black money in real estate.
+
+00:14:29.380 --> 00:14:33.940
+[Guest]: And this is a chain which is very difficult to break.
+
+00:14:33.940 --> 00:14:37.180
+[Guest]: And what has also happened is, I mean, you know, to answer your specific question as
+
+00:14:37.180 --> 00:14:40.780
+[Guest]: to why sales have fallen and prices haven't.
+
+00:14:40.780 --> 00:14:46.740
+[Guest]: Now you know, look at a guy who's already, you know, invested, you know, who probably
+
+00:14:46.740 --> 00:14:48.820
+[Guest]: has three, four homes or whatever.
+
+00:14:48.820 --> 00:14:51.660
+[Guest]: And he's invested a lot of his black money in it.
+
+00:14:51.660 --> 00:14:57.580
+[Guest]: Now even if, let's say he were to sell those homes right now, he decides to sell them,
+
+00:14:57.580 --> 00:15:01.780
+[Guest]: and he sells them at whatever the market price is, and I mean, whatever the buyer is willing
+
+00:15:01.780 --> 00:15:03.460
+[Guest]: to pay.
+
+00:15:03.460 --> 00:15:07.980
+[Guest]: Even if, you know, he's even willing to take a loss, okay, loss as in he's willing to take
+
+00:15:07.980 --> 00:15:14.980
+[Guest]: a price which is lower than what he expected in the past, not a loss.
+
+00:15:14.980 --> 00:15:19.700
+[Guest]: Now he gets the money back, a lot of it is black money, now what will he do with that
+
+00:15:19.700 --> 00:15:20.700
+[Guest]: black money?
+
+00:15:20.700 --> 00:15:26.100
+[Guest]: You know, he can go buy, you know, more real estate, but that isn't giving him the kind
+
+00:15:26.100 --> 00:15:28.100
+[Guest]: of returns that it was in the past.
+
+00:15:28.100 --> 00:15:31.900
+[Guest]: So for him, the best decision is to stay put.
+
+00:15:31.900 --> 00:15:38.700
+[Guest]: So if, you know, he doesn't sell, so if there are no distressed sales, the prices will not
+
+00:15:38.700 --> 00:15:39.700
+[Guest]: come down.
+
+00:15:39.700 --> 00:15:44.420
+[Guest]: I mean, there need to be an enough number of distressed sales wherein people need liquidity.
+
+00:15:44.420 --> 00:15:48.300
+[Amit Varma]: So in a sense, when people have large amounts of black money, A, they get trapped into real
+
+00:15:48.300 --> 00:15:53.540
+[Amit Varma]: estate because that is practically the only efficient vehicle for their black money.
+
+00:15:53.540 --> 00:15:57.980
+[Amit Varma]: And B, because black money within real estate tends to increase in the ways that you pointed
+
+00:15:57.980 --> 00:16:04.460
+[Amit Varma]: out, it becomes a spiral and this prevents demand from going down as much as it otherwise
+
+00:16:04.460 --> 00:16:05.460
+[Amit Varma]: might.
+
+00:16:05.460 --> 00:16:08.500
+[Amit Varma]: Now, regardless of that, overall demand has sort of gone down and prices haven't gone
+
+00:16:08.500 --> 00:16:09.620
+[Amit Varma]: down.
+
+00:16:09.620 --> 00:16:14.060
+[Amit Varma]: And the reason you gave for that, of course, is that builders having recouped their initial
+
+00:16:14.060 --> 00:16:16.700
+[Amit Varma]: investment are willing to wait it out and they're just going to…
+
+00:16:16.700 --> 00:16:21.900
+[Guest]: See, it's also another factor that you need to take into account is the fact that every
+
+00:16:21.900 --> 00:16:27.780
+[Guest]: builder is essentially, not every builder, but most big builders are essentially fronts
+
+00:16:27.780 --> 00:16:28.780
+[Amit Varma]: for politicians.
+
+00:16:28.780 --> 00:16:29.940
+[Amit Varma]: So that's what I was getting to.
+
+00:16:29.940 --> 00:16:34.580
+[Amit Varma]: So my question there was that I can imagine this being a good rationale for one builder
+
+00:16:34.580 --> 00:16:38.460
+[Amit Varma]: or two builders or whatever, but in a competitive marketplace, some builder or the other will
+
+00:16:38.460 --> 00:16:43.020
+[Amit Varma]: say ki nahi main bech deta ho and then that turns the whole market, but does a competitive
+
+00:16:43.020 --> 00:16:44.020
+[Guest]: marketplace exist?
+
+00:16:44.020 --> 00:16:49.140
+[Guest]: It's a competitive market because, you know, if you look at it, there are way too many
+
+00:16:49.140 --> 00:16:52.340
+[Guest]: builders, but there are hardly any pan-India builders.
+
+00:16:52.340 --> 00:16:57.140
+[Guest]: Forget pan-India builders, there are no builders who work across a particular state or even
+
+00:16:57.140 --> 00:16:58.140
+[Guest]: a particular city.
+
+00:16:58.140 --> 00:17:02.940
+[Guest]: I mean, if you look at the city of Mumbai, it is clearly divided among builders.
+
+00:17:02.940 --> 00:17:08.700
+[Guest]: You know, you have one builder who is, you know, who operates in only in Goregaon or
+
+00:17:08.700 --> 00:17:11.220
+[Guest]: you have one builder who operates only in Navi Mumbai.
+
+00:17:11.220 --> 00:17:12.220
+[Amit Varma]: So explain this to me.
+
+00:17:12.220 --> 00:17:13.220
+[Guest]: Why is this so?
+
+00:17:13.220 --> 00:17:17.500
+[Guest]: Well, it's primarily because the rules and regulations that govern real estate are so
+
+00:17:17.500 --> 00:17:24.500
+[Guest]: complicated that you essentially as a builder cannot operate if you do not have a politician,
+
+00:17:24.500 --> 00:17:31.220
+[Guest]: you know, blessing you and a politician's influence cannot go all across India.
+
+00:17:31.220 --> 00:17:36.660
+[Guest]: So he has an influence in a certain place and which is where the builder thrives.
+
+00:17:36.660 --> 00:17:42.820
+[Amit Varma]: So every local politician who's big in a certain area will give his patronage to a local builder
+
+00:17:42.820 --> 00:17:45.820
+[Guest]: and then it will be a symbiotic relationship between them, power and money.
+
+00:17:45.820 --> 00:17:46.820
+[Guest]: Which is how it is.
+
+00:17:46.820 --> 00:17:51.340
+[Guest]: I mean, if you look at, I mean, this is, I mean, probably not true everywhere, but it
+
+00:17:51.340 --> 00:17:54.580
+[Guest]: is true at a lot of places.
+
+00:17:54.580 --> 00:17:59.060
+[Amit Varma]: So tell me this, when you have a situation like this where the price isn't coming down
+
+00:17:59.060 --> 00:18:03.420
+[Amit Varma]: despite demand falling so much, as they say, something's got to give some time.
+
+00:18:03.420 --> 00:18:04.420
+[Amit Varma]: So what?
+
+00:18:04.420 --> 00:18:09.620
+[Guest]: That's the million dollar question, you know, I've been writing for five years, six years
+
+00:18:09.620 --> 00:18:12.260
+[Guest]: now that prices will fall, prices will fall.
+
+00:18:12.260 --> 00:18:15.020
+[Guest]: Even music's going on, people are dancing.
+
+00:18:15.020 --> 00:18:16.740
+[Guest]: It's nothing like that's happened.
+
+00:18:16.740 --> 00:18:20.700
+[Guest]: I mean, even though, in fact, I mean, one thing that I would like to state here is that,
+
+00:18:20.700 --> 00:18:26.060
+[Guest]: I mean, on one count, I've been right as to that investment in real estate hasn't made
+
+00:18:26.060 --> 00:18:27.740
+[Guest]: sense for the last five, six years.
+
+00:18:27.740 --> 00:18:30.220
+[Guest]: And I mean, I have been totally right on that count.
+
+00:18:30.220 --> 00:18:35.180
+[Guest]: Now, obviously, prices haven't fallen and people who actually need homes to live in
+
+00:18:35.180 --> 00:18:36.340
+[Guest]: have been unable to buy homes.
+
+00:18:36.340 --> 00:18:41.700
+[Guest]: I mean, that is also a factor that needs to be considered here.
+
+00:18:41.700 --> 00:18:47.260
+[Guest]: And that's a very, you know, that's a major factor, because, you know, what typically
+
+00:18:47.260 --> 00:18:54.540
+[Guest]: happens is people become desperate to buy a home when the child starts to go to school.
+
+00:18:54.540 --> 00:18:58.820
+[Amit Varma]: Because till then it is easy, you know, you can probably move from flat to flat, and it's
+
+00:18:58.820 --> 00:19:03.740
+[Guest]: not as difficult, but the moment you get a child, you know, you obviously want a stable
+
+00:19:03.740 --> 00:19:07.820
+[Guest]: school life for him, you want him to have friends, right?
+
+00:19:07.820 --> 00:19:12.780
+[Guest]: That is, and you know, it's, and then people become desperate.
+
+00:19:12.780 --> 00:19:19.100
+[Guest]: And that desperation, essentially, then manifests, you know, itself into situations where builders
+
+00:19:19.100 --> 00:19:22.220
+[Guest]: are not ready to cut prices.
+
+00:19:22.220 --> 00:19:27.660
+[Guest]: And I mean, then there are a lot of other factors from, you know, FSI, and FSI rent
+
+00:19:27.660 --> 00:19:28.660
+[Guest]: control.
+
+00:19:28.660 --> 00:19:29.660
+[Guest]: I mean, there are various things.
+
+00:19:29.660 --> 00:19:30.660
+[Guest]: All that is also there.
+
+00:19:30.660 --> 00:19:37.700
+[Guest]: And the fact that, you know, the government owns a lot of land in a lot of Indian cities,
+
+00:19:37.700 --> 00:19:42.340
+[Guest]: living in the middle of a lot of Indian cities, and so that sort of creates a, I mean, even
+
+00:19:42.340 --> 00:19:46.620
+[Guest]: though land is really not an issue, because India is a huge, big country, and we can always
+
+00:19:46.620 --> 00:19:47.620
+[Guest]: keep expanding.
+
+00:19:47.620 --> 00:19:53.340
+[Guest]: I mean, if you look at the city of Delhi, the way it is expanded on all sides is unbelievable.
+
+00:19:53.340 --> 00:19:56.500
+[Guest]: So if anyone says that there's no land and all, I mean, that's basically bullshit.
+
+00:19:56.500 --> 00:19:57.500
+[Amit Varma]: Except in Mumbai.
+
+00:19:57.500 --> 00:19:58.500
+[Amit Varma]: It's true for Mumbai.
+
+00:19:58.500 --> 00:20:03.740
+[Guest]: And in Mumbai, there is artificial shortage also because of low FSI.
+
+00:20:03.740 --> 00:20:10.940
+[Guest]: And the fact that the entire eastern front of the city is not, you know, the Mumbai Port
+
+00:20:10.940 --> 00:20:11.940
+[Amit Varma]: Trust.
+
+00:20:11.940 --> 00:20:15.620
+[Amit Varma]: One thing that's unique to Indian cities, for example, is that the army often has a
+
+00:20:15.620 --> 00:20:21.260
+[Amit Varma]: lot of land, even in the middle of cities like the Pune Cantonment, and the Navy Nagar
+
+00:20:21.260 --> 00:20:22.820
+[Amit Varma]: over here, Bangalore.
+
+00:20:22.820 --> 00:20:24.780
+[Guest]: And this is really not the case with any other country in the world.
+
+00:20:24.780 --> 00:20:28.820
+[Amit Varma]: And I mean, this was probably needed when the British ruled India and all that.
+
+00:20:28.820 --> 00:20:29.820
+[Amit Varma]: But now it's not.
+
+00:20:29.820 --> 00:20:30.820
+[Amit Varma]: Now it's not.
+
+00:20:30.820 --> 00:20:32.620
+[Amit Varma]: And all that land is a huge opportunity cost.
+
+00:20:32.620 --> 00:20:37.100
+[Amit Varma]: And if, A, if you free up that land, B, if you increase FSI, like to give a sense of
+
+00:20:37.100 --> 00:20:41.420
+[Amit Varma]: that, FSI in Bombay, you know, in our big cities is between one and four.
+
+00:20:41.420 --> 00:20:44.460
+[Amit Varma]: And like in New York, it's 15, in Shanghai, it's 13.
+
+00:20:44.460 --> 00:20:47.740
+[Amit Varma]: In fact, when the Empire State Building was built, I believe it was 25.
+
+00:20:47.740 --> 00:20:51.020
+[Amit Varma]: And there's no reason why FSI can't be much more than a lot of those government land.
+
+00:20:51.020 --> 00:20:56.820
+[Guest]: So what happens if you increase FSI, then, you know, how do state level politicians make
+
+00:20:56.820 --> 00:20:58.140
+[Amit Varma]: money?
+
+00:20:58.140 --> 00:20:59.860
+[Guest]: That's an interesting political economic question.
+
+00:20:59.860 --> 00:21:06.180
+[Guest]: In fact, then there is there is also the case of change in land usage, wherein, you know,
+
+00:21:06.180 --> 00:21:11.900
+[Guest]: what happens is that a farmer cannot sell his land to an industrialist.
+
+00:21:11.900 --> 00:21:14.020
+[Guest]: An industrialist cannot buy land from a farmer.
+
+00:21:14.020 --> 00:21:16.420
+[Guest]: So you need the government in between.
+
+00:21:16.420 --> 00:21:17.980
+[Amit Varma]: In fact, the government is the politician.
+
+00:21:17.980 --> 00:21:23.100
+[Amit Varma]: In fact, a few episodes ago, I did an episode on the right to property with Shruti Rajagopalan.
+
+00:21:23.100 --> 00:21:27.620
+[Amit Varma]: And she brought exactly this out that one of the reasons Robert Wadra made so much money
+
+00:21:27.620 --> 00:21:31.380
+[Guest]: was by using the, you know, the change in land usage.
+
+00:21:31.380 --> 00:21:36.700
+[Guest]: He managed to acquire land at very cheap as agricultural land, and then he's changed immediately
+
+00:21:36.700 --> 00:21:37.700
+[Guest]: the value shoots up.
+
+00:21:37.700 --> 00:21:42.860
+[Guest]: I mean, he also made a lot of money because he got financed from DLF, I mean, exactly
+
+00:21:42.860 --> 00:21:43.860
+[Amit Varma]: for all this.
+
+00:21:43.860 --> 00:21:46.780
+[Guest]: So it was almost like he got, I mean, he got an industry loan.
+
+00:21:46.780 --> 00:21:51.580
+[Amit Varma]: So I have a feeling that he has no issues finding a place to stay in this country.
+
+00:21:51.580 --> 00:21:53.100
+[Amit Varma]: Vivek, thanks so much.
+
+00:21:53.100 --> 00:21:54.260
+[Amit Varma]: It was great having you on the show.
+
+00:21:54.260 --> 00:21:55.260
+[Amit Varma]: I learned a lot.
+
+00:21:55.260 --> 00:21:56.260
+[Guest]: Thanks for having me.
+
+00:21:56.260 --> 00:22:03.220
+[Amit Varma]: To follow Vivek on Twitter, do go over to at call underscore Vivek.
+
+00:22:03.220 --> 00:22:07.420
+[Amit Varma]: You can follow me at Amit Verma, A-M-I-T-V-A-R-M-A.
+
+00:22:07.420 --> 00:22:10.540
+[Amit Varma]: All my writings are archived at IndiaUncut.com.
+
+00:22:10.540 --> 00:22:14.420
+[Amit Varma]: If you enjoyed this episode, you can subscribe to the Seen and the Unseen on iTunes, Stitcher
+
+00:22:14.420 --> 00:22:17.060
+[Amit Varma]: or any podcast app of your choice.
+
+00:22:17.060 --> 00:22:29.860
+[Amit Varma]: All our back episodes are available at SeenUnseen.in.
+
+00:22:29.860 --> 00:22:34.780
+[Amit Varma]: If you enjoyed listening to the Seen and the Unseen, check out another great show by IVM
+
+00:22:34.780 --> 00:22:39.740
+[Amit Varma]: Podcasts, Made in India, hosted by my friend May Thomas, where every week she profiles
+
+00:22:39.740 --> 00:23:06.980
+[Unknown]: up-and-coming independent Indian bands.
+
+00:23:09.740 --> 00:23:10.740
+[Unknown]: See you next time.
+
