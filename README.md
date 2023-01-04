@@ -31,6 +31,8 @@ Transcriptions of the seenunseen.in podcast episodes. `Note:` All transcription 
 
 00:00:07.000 --> 00:00:20.000
 [Amit Varma]: Ram Singh is a farmer in a small village in India. One morning he woke up to a loud noise coming from over his head....
+
+...
 ```
 
 `transcripts_chat` has a json file for each episode. Each json file is a list of 'chat messages' containing speaker, start time and message.
