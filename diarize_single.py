@@ -3,7 +3,7 @@ from pyannote.audio import Pipeline
 import sys
 from tqdm import tqdm
 
-access_token = "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"
+access_token = "<YOUR-HUGGINGFACE-ACCESS-TOKEN>"
 pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
                                     use_auth_token=access_token)
 
