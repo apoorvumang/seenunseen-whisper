@@ -1,6 +1,8 @@
 # Seen Unseen transcripts
 Transcriptions of the [seenunseen.in](https://seenunseen.in/) podcast by Amit Varma. `Note:` All transcription and speaker tagging were done automatically and may contain errors.
 
+These transcriptions can also be browsed on https://apoorvumang.github.io/seenunseen/
+
 ## Method
 
 1. Audio data was scraped from seenunseen.in. Total data amounted to approximately 692 hours of audio (till episode 310).
