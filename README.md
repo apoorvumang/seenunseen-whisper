@@ -51,3 +51,14 @@ Transcriptions of the [seenunseen.in](https://seenunseen.in/) podcast by Amit Va
     ...
 ]
 ```
+## Transcribing a new episode
+
+Please follow [`run_pipeline_new_episode.ipynb`](run_pipeline_new_episode.ipynb) to run the pipeline on a new episode (downloading audio, running transcription and diarization, and then combining to single file). The code will not execute directly but should provide a good reference.
+
+You will need a pytorch installation, along with the following stuff to run the pipeline
+```
+sudo apt install ffmpeg
+pip install git+https://github.com/openai/whisper.git
+pip install pyvtt
+pip install pyannote.audio
+```
