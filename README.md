@@ -20,7 +20,8 @@ These transcriptions can also be browsed on https://apoorvumang.github.io/seenun
         "epnum": 1,
         "title": "Episode 1: Entry and Exit in Agriculture",
         "url": "https://seenunseen.in/episodes/2017/1/16/episode-1-entry-and-exit-in-agriculture/",
-        "description": "India has a panoply of ..."
+        "description": "India has a panoply of ...",
+        "date_published": "16 Jan 2017"
     },
     ...
 ]
