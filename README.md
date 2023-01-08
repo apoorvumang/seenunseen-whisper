@@ -10,6 +10,7 @@ These transcriptions can also be browsed on https://apoorvumang.github.io/seenun
 3. Speaker diarization was done using [pyannote](https://github.com/pyannote/pyannote-audio). Speakers with less than 10% of total speaking time were set to UNKNOWN (in order to remove speakers that are neither Amit nor a guest, eg. the lady that says 'I.V.M').
 4. Diarization and transcription output was combined to make a single subtitle file. This was done using matching at a 'seconds' level. Note: this resulted in less than perfect diarization since the chunking done by whisper is very coarse, and often a single chunk contains dialogues from multiple speakers. This output is available in folder [transcripts_vtt/](/transcripts_vtt). (heuristics were used to identify which speaker is Amit Varma).
 5. Subtitle-style output was further processed to create the chat-like output available in folder [transcripts_chat/](/transcripts_chat)
+6. A generative model (flan-t5-xl) was used to generate headings for parts of the transcripts. This was done for easier navigation/browsing of extremely long transcripts. These can be found in folder [flant5_titles/](/flant5_titles)
 
 ## Data format
 
@@ -54,6 +55,19 @@ These transcriptions can also be browsed on https://apoorvumang.github.io/seenun
     ...
 ]
 ```
+
+`flant5_titles` has a json file for each episode. Each json file is a list of 'section titles' containing title (machine generated), time and a title log-likelihood (higher the better).
+```
+[
+    {
+        "title": "The story of agriculture in India",
+        "time": "00:00:07.000",
+        "title_prob": -0.8173360824584961
+    },
+    ...
+]
+```
+
 ## Transcribing a new episode
 
 Please follow [`run_pipeline_new_episode.ipynb`](run_pipeline_new_episode.ipynb) to run the pipeline on a new episode (downloading audio, running transcription and diarization, and then combining to single file). The code will not execute directly but should provide a good reference.
